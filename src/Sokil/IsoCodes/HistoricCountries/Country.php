@@ -4,22 +4,31 @@ namespace Sokil\IsoCodes\HistoricCountries;
 
 class Country extends \Sokil\IsoCodes\Database\Entry
 {
-    public $name;
+    public $names;
     
-    public $code;
+    public $alpha_4_code;
     
-    public function getCode()
+    public $alpha_3_code;
+    
+    public $numeric_code;
+    
+    public function getAlpha4()
     {
-        return $this->code;
+        return $this->alpha_4_code;
     }
     
-    public function getName()
+    public function getAlpha3()
     {
-        return $this->name;
+        return $this->alpha_3_code;
     }
     
-    public function getLocalName()
+    public function getNames()
     {
-        return dgettext($this->_database->getIso(), $this->name);
+        return $this->names;
+    }
+    
+    public function getLocalNames()
+    {
+        return dgettext($this->_database->getIso(), $this->names);
     }
 }
