@@ -63,7 +63,7 @@ class IsoCodes
      */
     public function getCurrencies()
     {
-        return new IsoCodes\Countries;
+        return new IsoCodes\Currencies;
     }
     
     /**
