@@ -40,15 +40,18 @@ abstract class Database implements \Iterator, \Countable
             
             $entry = new $this->_entryClassName($this);
             
+            // place XML data to entry
+            $entry->applyXMLElement($item);
+            
+            // store to list
             $this->_values[] = $entry;
             
-            /* @var $entry \DOMAttr */
+            // index tag attributes for search   
             foreach($item->attributes as $attribute) {
-                $entry->{$attribute->name} = $attribute->value;
                 $this->_index[$attribute->name][$attribute->value] = $entry;
             }
+            
         }
-        
     }
     
     public function toArray()
