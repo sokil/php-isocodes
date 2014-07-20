@@ -68,6 +68,15 @@ class IsoCodes
     
     /**
      * 
+     * @return \Sokil\IsoCodes\Countries
+     */
+    public function getHistoricCurrencies()
+    {
+        return new IsoCodes\HistoricCurrencies;
+    }
+    
+    /**
+     * 
      * @return \Sokil\IsoCodes\Languages
      */
     public function getLanguages()
