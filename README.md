@@ -41,6 +41,6 @@ $isoCodes->getCountries()->getByAlpha2('804')->getName();
 Get  localised list of countries
 ```php
 $isoCodes = new \Sokil\IsoCodes;
-foreach($isoCodes->toArray() as $country) {
+foreach($isoCodes->getCountries() as $country) {
   echo $country->getLocalName();
 }
