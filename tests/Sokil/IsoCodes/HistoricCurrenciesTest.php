@@ -24,7 +24,7 @@ class HistoricCurrenciesTest extends \PHPUnit_Framework_TestCase
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');
-        var_dump(setlocale(LC_ALL, 'uk_UA.UTF-8'));
+        setlocale(LC_ALL, 'uk_UA.UTF-8');
         
         $isoCodes = new \Sokil\IsoCodes;
         $currencies = $isoCodes->getHistoricCurrencies();
@@ -44,7 +44,7 @@ class HistoricCurrenciesTest extends \PHPUnit_Framework_TestCase
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');
-        var_dump(setlocale(LC_ALL, 'uk_UA.UTF-8'));
+        setlocale(LC_ALL, 'uk_UA.UTF-8');
         
         $isoCodes = new \Sokil\IsoCodes;
         $currencies = $isoCodes->getHistoricCurrencies();

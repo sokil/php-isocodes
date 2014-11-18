@@ -48,8 +48,10 @@ class Subdivision extends \Sokil\IsoCodes\Database\Entry
     
     public function getLocalList()
     {
-        return array_map(function($name) {
-            return dgettext($this->_database->getIso(), $name);
+        $self = $this;
+        
+        return array_map(function($name) use($self) {
+            return dgettext($self->_database->getIso(), $name);
         }, $this->_list);
     }
 }
