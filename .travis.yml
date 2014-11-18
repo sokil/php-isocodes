@@ -7,8 +7,7 @@ php:
 
 before_script:
   - composer install --dev --no-interaction
-  - uname -a
-  - locale -a
+  - locale-gen uk_UA.UTF-8
   
 script:
   - mkdir -p build/logs
