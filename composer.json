@@ -14,7 +14,7 @@
     "require-dev": {
         "satooshi/php-coveralls": "dev-master",
         "phpunit/phpunit": "3.7.*"
-    }
+    },
     "autoload": {
         "psr-0": {
             "Sokil": "src/"
