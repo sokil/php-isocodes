@@ -28,4 +28,16 @@ class Entry
             $this->{$attribute->name} = $attribute->value;
         }
     }
+    
+    /**
+     * !INTERNAL
+     * 
+     * Used to get database from closure due to combatibility with 5.3
+     * where access of protected properties now allowed
+     * @return \Sokil\IsoCode\Database Database instance
+     */
+    public function getDatabase()
+    {
+        return $this->_database;
+    }
 }
