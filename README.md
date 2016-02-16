@@ -20,7 +20,28 @@ You can install library through Composer:
 }
 ```
 
+Useage
+------
 
+Before using IsoCodes database you need to setup valid locale to get transtions worked:
+
+```php
+<?php
+
+// define locale
+putenv('LANGUAGE=uk_UA.UTF-8');
+putenv('LC_ALL=uk_UA.UTF-8');
+setlocale(LC_ALL, 'uk_UA.UTF-8');
+
+// init database
+$isoCodes = new \Sokil\IsoCodes;
+
+// get languages database
+$languages = $isoCodes->getLanguages();
+
+// get local name of language
+echo $languages->getByAlpha2('uk')->getLocalName(); // will print 'українська'
+```
 
 Countries
 ---------
