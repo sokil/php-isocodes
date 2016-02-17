@@ -43,6 +43,26 @@ $languages = $isoCodes->getLanguages();
 echo $languages->getByAlpha2('uk')->getLocalName(); // will print 'українська'
 ```
 
+To get list of available locales, execute under console:
+```sh
+$ locale -a
+```
+```
+uk_UA
+uk_UA.koi8u
+uk_UA.utf8
+```
+
+If you don't see required locales in list, you may install them manually (for Ubuntu):
+```sh
+$ locale-gen uk_UA.utf8
+```
+```
+Generating locales...
+  uk_UA.utf-8... done
+Generation complete.
+```
+
 Countries
 ---------
 
