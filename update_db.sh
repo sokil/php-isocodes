@@ -19,13 +19,28 @@ cd $CURRENT_DIR
 
 # clear previous database and locales files
 rm -rf $LOCALES_DIR
+mkdir -p $LOCALES_DIR
 rm -rf $DATABASES_DIR
+mkdir -p $DATABASES_DIR
 
 # move database files
-cd $PKG_ISOCODES_DIR/data/iso_*.json $DATABASES_DIR
+cp $PKG_ISOCODES_DIR/data/iso_*.json $DATABASES_DIR
+
+# move locale files
+for database_file in `ls -1 $DATABASES_DIR`; do
+    database_name=`echo $database_file | sed "s/.json//g"`
+    source_locale_dir=$PKG_ISOCODES_DIR/$database_name
+    for locale_file in `ls -1 $source_locale_dir | grep .po`; do
+        locale_name=`echo $locale_file | sed "s/.po//g"`
+        # copy locale file
+        target_locale_dir=$CURRENT_DIR/locales/$locale_name/LC_MESSAGES
+        mkdir -p $target_locale_dir
+        cp ${source_locale_dir}/${locale_file} ${target_locale_dir}/${database_name}.po
+    done;
+done
 
 # start tests
-composer.phar test
+# composer.phar test
 
 # success
 if [[ $? -eq 0 ]]; then
