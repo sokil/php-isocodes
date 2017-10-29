@@ -4,7 +4,7 @@ namespace Sokil;
 
 class IsoCodes
 {
-    const LOCALES_PATH = '/../../locales';
+    const LOCALES_PATH = '/../locales';
 
     static $_gettextBinded = false;
     

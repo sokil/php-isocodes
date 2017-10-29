@@ -4,7 +4,7 @@ namespace Sokil\IsoCodes;
 
 abstract class Database implements \Iterator, \Countable
 {
-    const DATABASE_PATH = '/../../../databases';
+    const DATABASE_PATH = '/../../databases';
     
     protected $_iso;
     
