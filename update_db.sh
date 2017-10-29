@@ -41,7 +41,7 @@ for database_file in `ls -1 $DATABASES_DIR`; do
 done
 
 # start tests
-# composer.phar test
+composer.phar test
 
 # success
 if [[ $? -eq 0 ]]; then

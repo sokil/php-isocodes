@@ -1,0 +1,173 @@
+# Translation of ISO-3166 (country names) to Chinese (Hong Kong)
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Source of information:
+# 中國駐外使館
+#   http://www.immd.gov.hk/chtml/embassy.htm
+# 立法會參考資料摘要《商標條例》
+#   http://www.hkbu.edu.hk/~copyrigh/document/LegCo_Brief_full%20(Chin).pdf
+#
+#
+# Copyright (C)
+#   Free Software Foundation, Inc., 2002,2003.
+#   Alastair McKinstry <mckinstry@computer.org>, 2002.
+#   Translations taken from KDE:
+#   - AceLan <acelan@kde.linux.org.tw> 2001
+#   - Kenduest Lee <kenduest@i18n.linux.org.tw> 2001
+#   Based on zh_TW translation of evolution:
+#   - Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2005
+#   Abel Cheung <abelcheung@gmail.com>, 2006
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_3166-3\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2006-10-06 07:12+0800\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
+"Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Name for AIDJ
+msgid "French Afars and Issas"
+msgstr ""
+
+#. Name for ANHH
+msgid "Netherlands Antilles"
+msgstr "荷屬安的列斯羣島"
+
+#. Name for BQAQ
+#, fuzzy
+msgid "British Antarctic Territory"
+msgstr "英屬印度洋地區"
+
+#. Name for BUMM
+#, fuzzy
+msgid "Burma, Socialist Republic of the Union of"
+msgstr "越南社會主義共和國"
+
+#. Name for BYAA
+msgid "Byelorussian SSR Soviet Socialist Republic"
+msgstr ""
+
+#. Name for CSHH
+msgid "Czechoslovakia, Czechoslovak Socialist Republic"
+msgstr ""
+
+#. Name for CSXX
+#, fuzzy
+msgid "Serbia and Montenegro"
+msgstr "黑山共和國"
+
+#. Name for CTKI
+msgid "Canton and Enderbury Islands"
+msgstr ""
+
+#. Name for DDDE
+#, fuzzy
+msgid "German Democratic Republic"
+msgstr "老撾人民民主共和國"
+
+#. Name for DYBJ
+msgid "Dahomey"
+msgstr ""
+
+#. Name for FQHH
+#, fuzzy
+msgid "French Southern and Antarctic Territories"
+msgstr "法屬南部屬地"
+
+#. Name for FXFR
+msgid "France, Metropolitan"
+msgstr ""
+
+#. Name for GEHH
+#, fuzzy
+msgid "Gilbert and Ellice Islands"
+msgstr "奧蘭羣島"
+
+#. Name for HVBF
+#, fuzzy
+msgid "Upper Volta, Republic of"
+msgstr "摩爾多瓦"
+
+#. Name for JTUM
+#, fuzzy
+msgid "Johnston Island"
+msgstr "科克羣島"
+
+#. Name for MIUM
+#, fuzzy
+msgid "Midway Islands"
+msgstr "開曼羣島"
+
+#. Name for NHVU
+msgid "New Hebrides"
+msgstr ""
+
+#. Name for NQAQ
+msgid "Dronning Maud Land"
+msgstr ""
+
+#. Name for NTHH
+msgid "Neutral Zone"
+msgstr ""
+
+#. Name for PCHH
+msgid "Pacific Islands (trust territory)"
+msgstr ""
+
+#. Name for PUUM
+msgid "US Miscellaneous Pacific Islands"
+msgstr ""
+
+#. Name for PZPA
+msgid "Panama Canal Zone"
+msgstr ""
+
+#. Name for RHZW
+msgid "Southern Rhodesia"
+msgstr ""
+
+#. Name for SKIN
+msgid "Sikkim"
+msgstr ""
+
+#. Name for SUHH
+msgid "USSR, Union of Soviet Socialist Republics"
+msgstr ""
+
+#. Name for TPTL
+msgid "East Timor"
+msgstr ""
+
+#. Name for VDVN
+#, fuzzy
+msgid "Viet-Nam, Democratic Republic of"
+msgstr "北韓"
+
+#. Name for WKUM
+#, fuzzy
+msgid "Wake Island"
+msgstr "法羅羣島"
+
+#. Name for YDYE
+#, fuzzy
+msgid "Yemen, Democratic, People's Democratic Republic of"
+msgstr "北韓"
+
+#. Name for YUCS
+#, fuzzy
+msgid "Yugoslavia, Socialist Federal Republic of"
+msgstr "坦桑尼亞"
+
+#. Name for ZRCD
+#, fuzzy
+msgid "Zaire, Republic of"
+msgstr "大韓民國"

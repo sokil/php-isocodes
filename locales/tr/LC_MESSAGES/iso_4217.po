@@ -1,0 +1,752 @@
+# Translation of ISO 4217 (currency names) to Turkish
+# Copyright © various authors, see list below.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Görkem Çetin <gorkem@gelecek.com.tr>, 2000.
+# Nilgün Belma Bugüner <nilgun@buguner.name.tr>, 2001-2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_4217\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2017-04-25 17:24+0200\n"
+"PO-Revision-Date: 2007-07-09 11:29+0300\n"
+"Last-Translator: Nilgün Belma Bugüner <nilgun@buguner.name.tr>\n"
+"Language-Team: Turkish <gnu-tr-u12a@lists.sourceforge.net>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Name for AED
+msgid "UAE Dirham"
+msgstr "BAE dirhem"
+
+#. Name for AFN
+msgid "Afghani"
+msgstr "Afgani"
+
+#. Name for ALL
+msgid "Lek"
+msgstr ""
+
+#. Name for AMD
+msgid "Armenian Dram"
+msgstr "Ermeni Dirhemi"
+
+#. Name for ANG
+#, fuzzy
+#| msgid "Netherlands Antillian Guilder"
+msgid "Netherlands Antillean Guilder"
+msgstr "Hollanda Antilleri Gulden"
+
+#. Name for AOA
+#, fuzzy
+msgid "Kwanza"
+msgstr "Angola Kvanza"
+
+#. Name for ARS
+msgid "Argentine Peso"
+msgstr "Arjantin Pesosu"
+
+#. Name for AUD
+msgid "Australian Dollar"
+msgstr "Avustralya Doları"
+
+#. Name for AWG
+#, fuzzy
+#| msgid "Aruban Guilder"
+msgid "Aruban Florin"
+msgstr "Aruban Guldeni"
+
+#. Name for AZN
+msgid "Azerbaijanian Manat"
+msgstr "Azerbaycan Manat"
+
+#. Name for BAM
+#, fuzzy
+#| msgid "Convertible Marks"
+msgid "Convertible Mark"
+msgstr "Değiştirilebilir Paralar"
+
+#. Name for BBD
+msgid "Barbados Dollar"
+msgstr "Barbados Doları"
+
+#. Name for BDT
+msgid "Taka"
+msgstr ""
+
+#. Name for BGN
+msgid "Bulgarian Lev"
+msgstr "Bulgar Levası"
+
+#. Name for BHD
+msgid "Bahraini Dinar"
+msgstr "Bahreyn Dinarı"
+
+#. Name for BIF
+msgid "Burundi Franc"
+msgstr "Burundi Frangı"
+
+#. Name for BMD
+msgid "Bermudian Dollar"
+msgstr "Bermuda Doları"
+
+#. Name for BND
+msgid "Brunei Dollar"
+msgstr "Bruney Doları"
+
+#. Name for BOB
+msgid "Boliviano"
+msgstr "Bolivyano"
+
+#. Name for BRL
+msgid "Brazilian Real"
+msgstr "Brezilya Reali"
+
+#. Name for BSD
+msgid "Bahamian Dollar"
+msgstr "Bahama Doları"
+
+#. Name for BTN
+#, fuzzy
+msgid "Ngultrum"
+msgstr "Bütan Gultrumu"
+
+#. Name for BWP
+msgid "Pula"
+msgstr ""
+
+#. Name for BYN
+#, fuzzy
+msgid "Belarusian Ruble"
+msgstr "Belarus Rublesi"
+
+#. Name for BZD
+msgid "Belize Dollar"
+msgstr "Belize Doları"
+
+#. Name for CAD
+msgid "Canadian Dollar"
+msgstr "Kanada Doları"
+
+#. Name for CDF
+#, fuzzy
+msgid "Congolese Franc"
+msgstr "Komoro Frangı"
+
+#. Name for CHF
+msgid "Swiss Franc"
+msgstr "İsviçre Frangı"
+
+#. Name for CLP
+msgid "Chilean Peso"
+msgstr "Şili Pezosu"
+
+#. Name for CNY
+#, fuzzy
+msgid "Yuan Renminbi"
+msgstr "Çin Yuan Renminbi"
+
+#. Name for COP
+msgid "Colombian Peso"
+msgstr "Kolombiya Pesosu"
+
+#. Name for CRC
+msgid "Costa Rican Colon"
+msgstr "Kostarika Kolonu"
+
+#. Name for CUC
+#, fuzzy
+#| msgid "Convertible Marks"
+msgid "Peso Convertible"
+msgstr "Değiştirilebilir Paralar"
+
+#. Name for CUP
+msgid "Cuban Peso"
+msgstr "Küba Pezosu"
+
+#. Name for CVE
+#, fuzzy
+#| msgid "Cape Verde Escudo"
+msgid "Cabo Verde Escudo"
+msgstr "Keypverde Esküdosu"
+
+#. Name for CZK
+msgid "Czech Koruna"
+msgstr "Çek Kronu"
+
+#. Name for DJF
+msgid "Djibouti Franc"
+msgstr "Cibuti Frangı"
+
+#. Name for DKK
+msgid "Danish Krone"
+msgstr "Danimarka Kronu"
+
+#. Name for DOP
+msgid "Dominican Peso"
+msgstr "Dominik Pezosu"
+
+#. Name for DZD
+msgid "Algerian Dinar"
+msgstr "Cezayir Dinarı"
+
+#. Name for EGP
+msgid "Egyptian Pound"
+msgstr "Mısır Lirası"
+
+#. Name for ERN
+msgid "Nakfa"
+msgstr ""
+
+#. Name for ETB
+msgid "Ethiopian Birr"
+msgstr "Etyopya Biri"
+
+#. Name for EUR
+msgid "Euro"
+msgstr "Euro"
+
+#. Name for FJD
+msgid "Fiji Dollar"
+msgstr "Fiji Doları"
+
+#. Name for FKP
+msgid "Falkland Islands Pound"
+msgstr "Falkland Adaları Poundu"
+
+#. Name for GBP
+msgid "Pound Sterling"
+msgstr "İngiliz Sterlini"
+
+#. Name for GEL
+msgid "Lari"
+msgstr ""
+
+#. Name for GHS
+#, fuzzy
+msgid "Ghana Cedi"
+msgstr "Gana Sedisi"
+
+#. Name for GIP
+msgid "Gibraltar Pound"
+msgstr "Cebelitarık Poundu"
+
+#. Name for GMD
+#, fuzzy
+msgid "Dalasi"
+msgstr "Gambiya Dalaşı"
+
+#. Name for GNF
+msgid "Guinea Franc"
+msgstr "Gine Frangı"
+
+#. Name for GTQ
+msgid "Quetzal"
+msgstr ""
+
+#. Name for GYD
+msgid "Guyana Dollar"
+msgstr "Güyan Doları"
+
+#. Name for HKD
+msgid "Hong Kong Dollar"
+msgstr "Hong Kong Doları"
+
+#. Name for HNL
+#, fuzzy
+msgid "Lempira"
+msgstr "Honduras Lempirası"
+
+#. Name for HRK
+msgid "Kuna"
+msgstr ""
+
+#. Name for HTG
+#, fuzzy
+msgid "Gourde"
+msgstr "Haiti Gurdesi"
+
+#. Name for HUF
+msgid "Forint"
+msgstr ""
+
+#. Name for IDR
+msgid "Rupiah"
+msgstr ""
+
+#. Name for ILS
+#, fuzzy
+msgid "New Israeli Sheqel"
+msgstr "Yeni İsrail Şekeli"
+
+#. Name for INR
+msgid "Indian Rupee"
+msgstr "Hint Rublesi"
+
+#. Name for IQD
+msgid "Iraqi Dinar"
+msgstr "Irak Dinarı"
+
+#. Name for IRR
+msgid "Iranian Rial"
+msgstr "İran Riyali"
+
+#. Name for ISK
+msgid "Iceland Krona"
+msgstr "İzlanda Kronu"
+
+#. Name for JMD
+msgid "Jamaican Dollar"
+msgstr "Jameyka Doları"
+
+#. Name for JOD
+msgid "Jordanian Dinar"
+msgstr "Ürdün Dinarı"
+
+#. Name for JPY
+msgid "Yen"
+msgstr ""
+
+#. Name for KES
+msgid "Kenyan Shilling"
+msgstr "Kenya Şilini"
+
+#. Name for KGS
+msgid "Som"
+msgstr ""
+
+#. Name for KHR
+msgid "Riel"
+msgstr ""
+
+#. Name for KMF
+msgid "Comoro Franc"
+msgstr "Komoro Frangı"
+
+#. Name for KPW
+msgid "North Korean Won"
+msgstr "Kuzey Kore Vonu"
+
+#. Name for KRW
+msgid "Won"
+msgstr ""
+
+#. Name for KWD
+msgid "Kuwaiti Dinar"
+msgstr "Kuveyt Dinarı"
+
+#. Name for KYD
+msgid "Cayman Islands Dollar"
+msgstr "Seyman Adaları Doları"
+
+#. Name for KZT
+#, fuzzy
+msgid "Tenge"
+msgstr "Leone"
+
+#. Name for LAK
+#, fuzzy
+msgid "Kip"
+msgstr "Laos Kipi"
+
+#. Name for LBP
+msgid "Lebanese Pound"
+msgstr "Lübnan Poundu"
+
+#. Name for LKR
+msgid "Sri Lanka Rupee"
+msgstr "Srilanka Rublesi"
+
+#. Name for LRD
+msgid "Liberian Dollar"
+msgstr "Liberya Doları"
+
+#. Name for LSL
+msgid "Loti"
+msgstr ""
+
+#. Name for LYD
+msgid "Libyan Dinar"
+msgstr "Libya Dinarı"
+
+#. Name for MAD
+msgid "Moroccan Dirham"
+msgstr "Fas Dirhemi"
+
+#. Name for MDL
+msgid "Moldovan Leu"
+msgstr "Moldovya Levası"
+
+#. Name for MGA
+#, fuzzy
+msgid "Malagasy Ariary"
+msgstr "Malagaski Ariarisi"
+
+#. Name for MKD
+msgid "Denar"
+msgstr ""
+
+#. Name for MMK
+msgid "Kyat"
+msgstr "Kıyat"
+
+#. Name for MNT
+msgid "Tugrik"
+msgstr ""
+
+#. Name for MOP
+#, fuzzy
+msgid "Pataca"
+msgstr "Makau Patakası"
+
+#. Name for MRO
+msgid "Ouguiya"
+msgstr ""
+
+#. Name for MUR
+msgid "Mauritius Rupee"
+msgstr "Moritanya Rublesi"
+
+#. Name for MVR
+#, fuzzy
+msgid "Rufiyaa"
+msgstr "Maldiv Rublesi"
+
+#. Name for MWK
+#, fuzzy
+msgid "Malawi Kwacha"
+msgstr "Malavi Kvaçası"
+
+#. Name for MXN
+msgid "Mexican Peso"
+msgstr "Meksika Pezosu"
+
+#. Name for MYR
+msgid "Malaysian Ringgit"
+msgstr "Malezya Ringiti"
+
+#. Name for MZN
+msgid "Mozambique Metical"
+msgstr ""
+
+#. Name for NAD
+#, fuzzy
+msgid "Namibia Dollar"
+msgstr "Namibya Doları"
+
+#. Name for NGN
+#, fuzzy
+msgid "Naira"
+msgstr "Zaire"
+
+#. Name for NIO
+#, fuzzy
+msgid "Cordoba Oro"
+msgstr "Nikaragua Kordoba Orosu"
+
+#. Name for NOK
+msgid "Norwegian Krone"
+msgstr "Norveç Kronu"
+
+#. Name for NPR
+msgid "Nepalese Rupee"
+msgstr "Nepal Rublesi"
+
+#. Name for NZD
+msgid "New Zealand Dollar"
+msgstr "Yeni Zellanda Doları"
+
+#. Name for OMR
+msgid "Rial Omani"
+msgstr "Riyal Omeni"
+
+#. Name for PAB
+msgid "Balboa"
+msgstr ""
+
+#. Name for PEN
+msgid "Sol"
+msgstr ""
+
+#. Name for PGK
+msgid "Kina"
+msgstr ""
+
+#. Name for PHP
+msgid "Philippine Peso"
+msgstr "Filipin Pezosu"
+
+#. Name for PKR
+msgid "Pakistan Rupee"
+msgstr "Pakistan Rupisi"
+
+#. Name for PLN
+msgid "Zloty"
+msgstr ""
+
+#. Name for PYG
+#, fuzzy
+msgid "Guarani"
+msgstr "Gine Frangı"
+
+#. Name for QAR
+msgid "Qatari Rial"
+msgstr "Katar Riyali"
+
+#. Name for RON
+msgid "Romanian Leu"
+msgstr ""
+
+#. Name for RSD
+msgid "Serbian Dinar"
+msgstr "Sırp Dinarı"
+
+#. Name for RUB
+#, fuzzy
+msgid "Russian Ruble"
+msgstr "Rus Rublesi"
+
+#. Name for RWF
+msgid "Rwanda Franc"
+msgstr "Ruanda Frangı"
+
+#. Name for SAR
+msgid "Saudi Riyal"
+msgstr "Arabistan Riyali"
+
+#. Name for SBD
+msgid "Solomon Islands Dollar"
+msgstr "Solomon Adaları Doları"
+
+#. Name for SCR
+msgid "Seychelles Rupee"
+msgstr "Seyşel Adaları Rublesi"
+
+#. Name for SDG
+msgid "Sudanese Pound"
+msgstr "Sudan Poundu"
+
+#. Name for SEK
+msgid "Swedish Krona"
+msgstr "İsveç Kronu"
+
+#. Name for SGD
+msgid "Singapore Dollar"
+msgstr "Singapur Doları"
+
+#. Name for SHP
+msgid "Saint Helena Pound"
+msgstr "Senhelen Poundu"
+
+#. Name for SLL
+msgid "Leone"
+msgstr "Leone"
+
+#. Name for SOS
+msgid "Somali Shilling"
+msgstr "Somali Şilini"
+
+#. Name for SRD
+msgid "Surinam Dollar"
+msgstr "Surinam Doları"
+
+#. Name for SSP
+#, fuzzy
+#| msgid "Sudanese Pound"
+msgid "South Sudanese Pound"
+msgstr "Sudan Poundu"
+
+#. Name for STD
+msgid "Dobra"
+msgstr ""
+
+#. Name for SVC
+msgid "El Salvador Colon"
+msgstr "El Salvador Kolonu"
+
+#. Name for SYP
+msgid "Syrian Pound"
+msgstr "Suriye Lirası"
+
+#. Name for SZL
+#, fuzzy
+msgid "Lilangeni"
+msgstr "Swaziland Lilangeni"
+
+#. Name for THB
+#, fuzzy
+msgid "Baht"
+msgstr "Thai Baht"
+
+#. Name for TJS
+#, fuzzy
+msgid "Somoni"
+msgstr "Tacik Somonu"
+
+#. Name for TMT
+msgid "Turkmenistan New Manat"
+msgstr ""
+
+#. Name for TND
+msgid "Tunisian Dinar"
+msgstr "Tunus Dinarı"
+
+#. Name for TOP
+#, fuzzy
+msgid "Pa’anga"
+msgstr "Tongan Pangası"
+
+#. Name for TRY
+#, fuzzy
+#| msgid "New Turkish Lira"
+msgid "Turkish Lira"
+msgstr "Yeni Türk Lirası"
+
+#. Name for TTD
+msgid "Trinidad and Tobago Dollar"
+msgstr "Trinidad ve Tobago Doları"
+
+#. Name for TWD
+msgid "New Taiwan Dollar"
+msgstr "Yeni Tayvan Doları"
+
+#. Name for TZS
+msgid "Tanzanian Shilling"
+msgstr "Tanzanya Şilini"
+
+#. Name for UAH
+msgid "Hryvnia"
+msgstr ""
+
+#. Name for UGX
+#, fuzzy
+msgid "Uganda Shilling"
+msgstr "Uganda Şilini"
+
+#. Name for USD
+msgid "US Dollar"
+msgstr "Amerikan Doları"
+
+#. Name for UYU
+msgid "Peso Uruguayo"
+msgstr "Uruguay Pesosu"
+
+#. Name for UZS
+msgid "Uzbekistan Sum"
+msgstr "Özbek Sumu"
+
+#. Name for VEF
+msgid "Bolívar"
+msgstr ""
+
+#. Name for VND
+msgid "Dong"
+msgstr ""
+
+#. Name for VUV
+msgid "Vatu"
+msgstr ""
+
+#. Name for WST
+msgid "Tala"
+msgstr ""
+
+#. Name for XAF
+msgid "CFA Franc BEAC"
+msgstr "Orta Afrika Mali İşbirliği Frangı"
+
+#. Name for XAG
+msgid "Silver"
+msgstr "Gümüş"
+
+#. Name for XAU
+msgid "Gold"
+msgstr "Altın"
+
+#. Name for XBA
+#, fuzzy
+msgid "Bond Markets Unit European Composite Unit (EURCO)"
+msgstr "Tahvil Piyasaları Birimi Avrupa Birleşik birimi (EURCO)"
+
+#. Name for XBB
+#, fuzzy
+#| msgid "European Monetary Unit (E.M.U.-6)"
+msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
+msgstr "Avrupa Para Birimi (E.M.U.-6)"
+
+#. Name for XBC
+#, fuzzy
+#| msgid "European Unit of Account 9 (E.U.A.-9)"
+msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
+msgstr "Avrupa Ödeme Birimi 9 (E.U.A.-9)"
+
+#. Name for XBD
+#, fuzzy
+#| msgid "European Unit of Account 17 (E.U.A.-17)"
+msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
+msgstr "Avrupa Ödeme Birimi 17 (E.U.A.-17)"
+
+#. Name for XCD
+msgid "East Caribbean Dollar"
+msgstr "Doğu Karayip Doları"
+
+#. Name for XDR
+msgid "SDR (Special Drawing Right)"
+msgstr ""
+
+#. Name for XOF
+msgid "CFA Franc BCEAO"
+msgstr "Afrika Finans Topluluğu Frangı"
+
+#. Name for XPD
+msgid "Palladium"
+msgstr "Palladyum"
+
+#. Name for XPF
+msgid "CFP Franc"
+msgstr "Fransız Pasifik Kolonileri Frangı"
+
+#. Name for XPT
+msgid "Platinum"
+msgstr "Platin"
+
+#. Name for XSU
+msgid "Sucre"
+msgstr ""
+
+#. Name for XTS
+#, fuzzy
+#| msgid "Code for testing purposes"
+msgid "Codes specifically reserved for testing purposes"
+msgstr "Sınama amaçlı kod"
+
+#. Name for XUA
+msgid "ADB Unit of Account"
+msgstr ""
+
+#. Name for XXX
+msgid "The codes assigned for transactions where no currency is involved"
+msgstr ""
+
+#. Name for YER
+msgid "Yemeni Rial"
+msgstr "Yemen Riyali"
+
+#. Name for ZAR
+msgid "Rand"
+msgstr ""
+
+#. Name for ZMW
+#, fuzzy
+msgid "Zambian Kwacha"
+msgstr "Malavi Kvaçası"
+
+#. Name for ZWL
+msgid "Zimbabwe Dollar"
+msgstr "Zimbabve Doları"
