@@ -2,6 +2,8 @@
 
 CURRENT_DIR=$(dirname $(readlink -f $0))
 PKG_ISOCODES_DIR=$CURRENT_DIR/build/iso-codes
+LOCALES_DIR=$CURRENT_DIR/locales
+DATABASES_DIR=$CURRENT_DIR/databases
 
 # update pkg-isocodes source
 if [[ -d $PKG_ISOCODES_DIR ]]; then
@@ -16,10 +18,11 @@ fi
 cd $CURRENT_DIR
 
 # clear previous database and locales files
-rm -rf $CURRENT_DIR/locales
-rm -rf $CURRENT_DIR/databases
+rm -rf $LOCALES_DIR
+rm -rf $DATABASES_DIR
 
-# move files
+# move database files
+cd $PKG_ISOCODES_DIR/data/iso_*.json $DATABASES_DIR
 
 # start tests
 composer.phar test
