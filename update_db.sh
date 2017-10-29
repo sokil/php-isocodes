@@ -36,6 +36,7 @@ for database_file in `ls -1 $DATABASES_DIR`; do
         target_locale_dir=$CURRENT_DIR/locales/$locale_name/LC_MESSAGES
         mkdir -p $target_locale_dir
         cp ${source_locale_dir}/${locale_file} ${target_locale_dir}/${database_name}.po
+        msgfmt ${target_locale_dir}/${database_name}.po -o ${target_locale_dir}/${database_name}.mo
     done;
 done
 
