@@ -2,6 +2,14 @@
 
 namespace Sokil\IsoCodes;
 
+use Sokil\IsoCodes\Database\Countries;
+use Sokil\IsoCodes\Database\Currencies;
+use Sokil\IsoCodes\Database\HistoricCountries;
+use Sokil\IsoCodes\Database\HistoricCurrencies;
+use Sokil\IsoCodes\Database\Languages;
+use Sokil\IsoCodes\Database\Scripts;
+use Sokil\IsoCodes\Database\Subdivisions;
+
 class IsoCodesFactory
 {
     const LOCALES_PATH = '/../locales';
@@ -36,65 +44,65 @@ class IsoCodesFactory
     
     /**
      * 
-     * @return \Sokil\IsoCodes\Countries
+     * @return Countries
      */
     public function getCountries()
     {
-        return new IsoCodes\Countries;
+        return new Countries();
     }
     
     /**
      * 
-     * @return \Sokil\IsoCodes\HistoricCountries
+     * @return HistoricCountries
      */
     public function getHistoricCountries()
     {
-        return new IsoCodes\HistoricCountries;
+        return new HistoricCountries();
     }
     
     /**
      * 
-     * @return \Sokil\IsoCodes\Scripts
+     * @return Scripts
      */
     public function getScripts()
     {
-        return new IsoCodes\Scripts;
+        return new Scripts();
     }
     
     /**
      * 
-     * @return \Sokil\IsoCodes\Countries
+     * @return Countries
      */
     public function getCurrencies()
     {
-        return new IsoCodes\Currencies;
+        return new Currencies();
     }
     
     /**
      * 
-     * @return \Sokil\IsoCodes\Countries
+     * @return HistoricCountries
      */
     public function getHistoricCurrencies()
     {
-        return new IsoCodes\HistoricCurrencies;
+        return new HistoricCurrencies();
     }
     
     /**
      * 
-     * @return \Sokil\IsoCodes\Languages
+     * @return Languages
      */
     public function getLanguages()
     {
-        return new IsoCodes\Languages;
+        return new Languages();
     }
     
     /**
      * 
-     * @return \Sokil\IsoCodes\Subdivisions
+     * @return Subdivisions
      */
     public function getSubdivisions()
     {
-        return new IsoCodes\Subdivisions;
+        return new Subdivisions();
     }
     
 }

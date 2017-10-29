@@ -1,8 +1,10 @@
 <?php
 
-namespace Sokil\IsoCodes\HistoricCountries;
+namespace Sokil\IsoCodes\Database\HistoricCountries;
 
-class Country extends \Sokil\IsoCodes\AbstractDatabaseEntry
+use Sokil\IsoCodes\AbstractDatabaseEntry;
+
+class Country extends AbstractDatabaseEntry
 {
     public $names;
     

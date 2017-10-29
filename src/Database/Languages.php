@@ -1,6 +1,8 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Database;
+
+use Sokil\IsoCodes\AbstractDatabase;
 
 class Languages extends AbstractDatabase
 {
@@ -8,7 +10,7 @@ class Languages extends AbstractDatabase
     
     protected $_entryTagName = 'iso_639_entry';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Languages\Language';
+    protected $_entryClassName = '\Sokil\IsoCodes\Database\Languages\Language';
     
     public function getByAlpha2($alpha2)
     {

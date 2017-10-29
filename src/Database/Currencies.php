@@ -1,6 +1,8 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Database;
+
+use Sokil\IsoCodes\AbstractDatabase;
 
 class Currencies extends AbstractDatabase
 {
@@ -8,7 +10,7 @@ class Currencies extends AbstractDatabase
     
     protected $_entryTagName = 'iso_4217_entry';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Currencies\Currency';
+    protected $_entryClassName = '\Sokil\IsoCodes\Database\Currencies\Currency';
     
     public function getByLetterCode($code)
     {

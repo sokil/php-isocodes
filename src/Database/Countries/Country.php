@@ -1,8 +1,10 @@
 <?php
 
-namespace Sokil\IsoCodes\Languages;
+namespace Sokil\IsoCodes\Database\Countries;
 
-class Language extends \Sokil\IsoCodes\AbstractDatabaseEntry
+use Sokil\IsoCodes\AbstractDatabaseEntry;
+
+class Country extends AbstractDatabaseEntry
 {
     public $name;
     
@@ -10,14 +12,23 @@ class Language extends \Sokil\IsoCodes\AbstractDatabaseEntry
     
     public $alpha_3_code;
     
+    public $numeric_code;
+    
+    public $official_name;
+    
     public function getAlpha2()
     {
-        return $this->iso_639_1_code;
+        return $this->alpha_2_code;
     }
     
     public function getAlpha3()
     {
-        return $this->iso_639_2B_code;
+        return $this->alpha_2_code;
+    }
+    
+    public function getNumericCode()
+    {
+        return $this->numeric_code;
     }
     
     public function getName()

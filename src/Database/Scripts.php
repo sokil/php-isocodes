@@ -1,6 +1,8 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Database;
+
+use Sokil\IsoCodes\AbstractDatabase;
 
 class Scripts extends AbstractDatabase
 {
@@ -8,7 +10,7 @@ class Scripts extends AbstractDatabase
     
     protected $_entryTagName = 'iso_15924_entry';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Scripts\Script';
+    protected $_entryClassName = '\Sokil\IsoCodes\Database\Scripts\Script';
     
     public function getByAlpha4($alpha4)
     {

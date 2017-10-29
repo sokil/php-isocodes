@@ -1,8 +1,10 @@
 <?php
 
-namespace Sokil\IsoCodes\Currencies;
+namespace Sokil\IsoCodes\Database\HistoricCurrencies;
 
-class Currency extends \Sokil\IsoCodes\AbstractDatabaseEntry
+use Sokil\IsoCodes\AbstractDatabaseEntry;
+
+class Currency extends AbstractDatabaseEntry
 {
     public $letter_code;
     

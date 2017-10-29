@@ -1,8 +1,10 @@
 <?php
 
-namespace Sokil\IsoCodes\Subdivisions;
+namespace Sokil\IsoCodes\Database\Subdivisions;
 
-class Subdivision extends \Sokil\IsoCodes\AbstractDatabaseEntry
+use Sokil\IsoCodes\AbstractDatabaseEntry;
+
+class Subdivision extends AbstractDatabaseEntry
 {
     private $_alpha2;
     

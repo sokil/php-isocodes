@@ -1,8 +1,10 @@
 <?php
 
-namespace Sokil\IsoCodes\Scripts;
+namespace Sokil\IsoCodes\Database\Scripts;
 
-class Script extends \Sokil\IsoCodes\AbstractDatabaseEntry
+use Sokil\IsoCodes\AbstractDatabaseEntry;
+
+class Script extends AbstractDatabaseEntry
 {
     public $alpha_4_code;
     

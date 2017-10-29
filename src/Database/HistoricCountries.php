@@ -1,6 +1,8 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Database;
+
+use Sokil\IsoCodes\AbstractDatabase;
 
 class HistoricCountries extends AbstractDatabase
 {
@@ -8,7 +10,7 @@ class HistoricCountries extends AbstractDatabase
     
     protected $_entryTagName = 'iso_3166_3_entry';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\HistoricCountries\Country';
+    protected $_entryClassName = '\Sokil\IsoCodes\Database\HistoricCountries\Country';
     
     public function getByAlpha4($code)
     {

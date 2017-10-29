@@ -1,6 +1,6 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Databases;
 
 class CountriesTest extends \PHPUnit_Framework_TestCase
 {        
@@ -9,7 +9,7 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertInstanceOf('\Sokil\IsoCodes\Countries\Country', $countries->getByAlpha2('UA'));
+        $this->assertInstanceOf('\Sokil\IsoCodes\Database\Countries\Country', $countries->getByAlpha2('UA'));
     }
     
     public function testGetByAlpha2()

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Databases;
 
 class SubdivisionsTest extends \PHPUnit_Framework_TestCase
 {        
@@ -9,7 +9,7 @@ class SubdivisionsTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $subdivisions = $isoCodes->getSubdivisions();
         
-        $this->assertInstanceOf('\Sokil\IsoCodes\Subdivisions\Subdivision', $subdivisions->getByAlpha2('UA'));
+        $this->assertInstanceOf('\Sokil\IsoCodes\Database\Subdivisions\Subdivision', $subdivisions->getByAlpha2('UA'));
     }
     
     public function testGetByAlpha2()

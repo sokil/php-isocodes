@@ -1,6 +1,6 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Databases;
 
 class CurrenciesTest extends \PHPUnit_Framework_TestCase
 {        
@@ -9,7 +9,7 @@ class CurrenciesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $currencies = $isoCodes->getCurrencies();
         
-        $this->assertInstanceOf('\Sokil\IsoCodes\Currencies\Currency', $currencies->getByLetterCode('CZK'));
+        $this->assertInstanceOf('\Sokil\IsoCodes\Database\Currencies\Currency', $currencies->getByLetterCode('CZK'));
     }
     
     public function testGetByLetterCode()

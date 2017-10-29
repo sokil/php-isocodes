@@ -1,6 +1,6 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Databases;
 
 class LanguagesTest extends \PHPUnit_Framework_TestCase
 {        
@@ -9,7 +9,7 @@ class LanguagesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $languages = $isoCodes->getLanguages();
         
-        $this->assertInstanceOf('\Sokil\IsoCodes\Languages\Language', $languages->getByAlpha2('uk'));
+        $this->assertInstanceOf('\Sokil\IsoCodes\Database\Languages\Language', $languages->getByAlpha2('uk'));
     }
     
     public function testGetByAlpha2()

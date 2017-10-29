@@ -1,6 +1,6 @@
 <?php
 
-namespace Sokil\IsoCodes;
+namespace Sokil\IsoCodes\Databases;
 
 class ScriptsTest extends \PHPUnit_Framework_TestCase
 {        
@@ -9,7 +9,7 @@ class ScriptsTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $scripts = $isoCodes->getScripts();
         
-        $this->assertInstanceOf('\Sokil\IsoCodes\Scripts\Script', $scripts->getByAlpha4('Aghb'));
+        $this->assertInstanceOf('\Sokil\IsoCodes\Database\Scripts\Script', $scripts->getByAlpha4('Aghb'));
     }
     
     public function testGetByAlpha4()
