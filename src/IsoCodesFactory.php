@@ -17,15 +17,15 @@ class IsoCodesFactory
     /**
      * @var bool
      */
-    private static $isGettextBoung = false;
+    private static $isGettextBound = false;
 
     /**
      * Bind gettext to locales dir
      */
     public function __construct()
     {
-        if (!self::$isGettextBoung) {
-            self::$isGettextBoung = true;
+        if (!self::$isGettextBound) {
+            self::$isGettextBound = true;
 
             $isoDatabases = array(
                 'iso3166',
@@ -71,7 +71,7 @@ class IsoCodesFactory
     
     /**
      * 
-     * @return Countries
+     * @return Currencies
      */
     public function getCurrencies()
     {
@@ -80,7 +80,7 @@ class IsoCodesFactory
     
     /**
      * 
-     * @return HistoricCountries
+     * @return HistoricCurrencies
      */
     public function getHistoricCurrencies()
     {
