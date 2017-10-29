@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes;
 
-class Scripts extends Database
+class Scripts extends AbstractDatabase
 {
     protected $_iso = 'iso15924';
     

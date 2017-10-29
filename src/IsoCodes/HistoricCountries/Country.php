@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes\HistoricCountries;
 
-class Country extends \Sokil\IsoCodes\Database\Entry
+class Country extends \Sokil\IsoCodes\AbstractDatabaseEntry
 {
     public $names;
     

@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes\Languages;
 
-class Language extends \Sokil\IsoCodes\Database\Entry
+class Language extends \Sokil\IsoCodes\AbstractDatabaseEntry
 {
     public $name;
     

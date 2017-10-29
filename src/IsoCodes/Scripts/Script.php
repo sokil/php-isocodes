@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes\Scripts;
 
-class Script extends \Sokil\IsoCodes\Database\Entry
+class Script extends \Sokil\IsoCodes\AbstractDatabaseEntry
 {
     public $alpha_4_code;
     

@@ -1,32 +1,36 @@
 <?php
 
-namespace Sokil;
+namespace Sokil\IsoCodes;
 
-class IsoCodes
+class IsoCodesFactory
 {
     const LOCALES_PATH = '/../locales';
 
-    static $_gettextBinded = false;
-    
+    /**
+     * @var bool
+     */
+    private static $isGettextBoung = false;
+
+    /**
+     * Bind gettext to locales dir
+     */
     public function __construct()
     {
-        if(!self::$_gettextBinded) {
-            self::$_gettextBinded = true;
-            
-            bindtextdomain('iso3166', __DIR__ . self::LOCALES_PATH);
-            bind_textdomain_codeset('iso3166', 'UTF-8');
-            
-            bindtextdomain('iso3166_2', __DIR__ . self::LOCALES_PATH);
-            bind_textdomain_codeset('iso3166_2', 'UTF-8');
-            
-            bindtextdomain('iso639', __DIR__ . self::LOCALES_PATH);
-            bind_textdomain_codeset('iso639', 'UTF-8');
-            
-            bindtextdomain('iso4217', __DIR__ . self::LOCALES_PATH);
-            bind_textdomain_codeset('iso4217', 'UTF-8');
-            
-            bindtextdomain('iso15924', __DIR__ . self::LOCALES_PATH);
-            bind_textdomain_codeset('iso15924', 'UTF-8');
+        if (!self::$isGettextBoung) {
+            self::$isGettextBoung = true;
+
+            $isoDatabases = array(
+                'iso3166',
+                'iso3166_2',
+                'iso639',
+                'iso4217',
+                'iso15924'
+            );
+
+            foreach ($isoDatabases as $isoDatabase) {
+                bindtextdomain($isoDatabase, __DIR__ . self::LOCALES_PATH);
+                bind_textdomain_codeset($isoDatabase, 'UTF-8');
+            }
         }
     }
     

@@ -20,7 +20,7 @@ You can install library through Composer:
 }
 ```
 
-Useage
+Usage
 ------
 
 Before using IsoCodes database you need to setup valid locale to get transtions worked:

@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes;
 
-class Countries extends Database
+class Countries extends AbstractDatabase
 {
     protected $_iso = 'iso3166';
     

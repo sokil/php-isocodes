@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes;
 
-class Subdivisions extends Database
+class Subdivisions extends AbstractDatabase
 {
     protected $_iso = 'iso3166_2';
     

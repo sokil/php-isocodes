@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes;
 
-class Languages extends Database
+class Languages extends AbstractDatabase
 {
     protected $_iso = 'iso639';
     

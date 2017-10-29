@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes;
 
-class Currencies extends Database
+class Currencies extends AbstractDatabase
 {
     protected $_iso = 'iso4217';
     

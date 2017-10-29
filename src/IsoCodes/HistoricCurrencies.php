@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes;
 
-class HistoricCurrencies extends Database
+class HistoricCurrencies extends AbstractDatabase
 {
     protected $_iso = 'iso4217';
     

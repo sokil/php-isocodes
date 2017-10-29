@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes;
 
-abstract class Database implements \Iterator, \Countable
+abstract class AbstractDatabase implements \Iterator, \Countable
 {
     const DATABASE_PATH = '/../../databases';
     
@@ -14,7 +14,7 @@ abstract class Database implements \Iterator, \Countable
     
     protected $_entryTagName;
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Database\Entry';
+    protected $_entryClassName = '\Sokil\IsoCodes\AbstractDatabaseEntry';
     
     private $_pointer = 0;
     

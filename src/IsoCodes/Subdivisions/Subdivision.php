@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes\Subdivisions;
 
-class Subdivision extends \Sokil\IsoCodes\Database\Entry
+class Subdivision extends \Sokil\IsoCodes\AbstractDatabaseEntry
 {
     private $_alpha2;
     

@@ -2,7 +2,7 @@
 
 namespace Sokil\IsoCodes\Currencies;
 
-class Currency extends \Sokil\IsoCodes\Database\Entry
+class Currency extends \Sokil\IsoCodes\AbstractDatabaseEntry
 {
     public $letter_code;
     
