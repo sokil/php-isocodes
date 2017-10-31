@@ -8,6 +8,9 @@
             "email": "dmytro.sokil@gmail.com"
         }
     ],
+    "require": {
+        "php": ">=5.5"
+    },
     "require-dev": {
         "phpunit/phpunit": ">=3.7.38 <6.0",
         "satooshi/php-coveralls": ">=0.7.1 <2.0"
