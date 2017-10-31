@@ -17,7 +17,10 @@ class LanguagesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $languages = $isoCodes->getLanguages();
         
-        $this->assertEquals('Ukrainian', $languages->getByAlpha2('uk')->name);
+        $this->assertEquals(
+            'Ukrainian',
+            $languages->getByAlpha2('uk')->getName()
+        );
     }
     
     public function testGetLocalByAlpha2()
@@ -29,7 +32,10 @@ class LanguagesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $languages = $isoCodes->getLanguages();
         
-        $this->assertEquals('українська', $languages->getByAlpha2('uk')->getLocalName());
+        $this->assertEquals(
+            'українська',
+            $languages->getByAlpha2('uk')->getLocalName()
+        );
     }
         
     public function testGetByAlpha3()
@@ -37,7 +43,10 @@ class LanguagesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $languages = $isoCodes->getLanguages();
         
-        $this->assertEquals('Ukrainian', $languages->getByAlpha3('ukr')->name);
+        $this->assertEquals(
+            'Ukrainian',
+            $languages->getByAlpha3('ukr')->getName()
+        );
     }
     
     public function testGetLocalByAlpha3()
@@ -49,6 +58,9 @@ class LanguagesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $languages = $isoCodes->getLanguages();
         
-        $this->assertEquals('українська', $languages->getByAlpha3('ukr')->getLocalName());
+        $this->assertEquals(
+            'українська',
+            $languages->getByAlpha3('ukr')->getLocalName()
+        );
     }
 }

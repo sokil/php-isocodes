@@ -3,30 +3,64 @@
 namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\Database\Languages\Language;
 
 class Languages extends AbstractDatabase
 {
-    protected $ISONumber = 'iso_639-3';
-    
-    protected $_entryTagName = '639-3';
-    
-    protected $entryClassName = '\Sokil\IsoCodes\Database\Languages\Language';
-    
+    /**
+     * @return string
+     */
+    public function getISONumber()
+    {
+        return '639-3';
+    }
+
+    /**
+     * @param array $entry
+     *
+     * @return Country
+     */
+    protected function arrayToEntry(array $entry)
+    {
+        return new Language(
+            $entry['name'],
+            $this->getLocal($entry['name']),
+            !empty($entry['inverted_name']) ? $entry['inverted_name'] : null,
+            !empty($entry['alpha_2']) ? $entry['alpha_2'] : null,
+            $entry['alpha_3'],
+            $entry['scope'],
+            $entry['type']
+        );
+    }
+
+    /**
+     * @return array
+     */
+    protected function getIndexedFieldNames()
+    {
+        return [
+            'alpha_2',
+            'alpha_3',
+        ];
+    }
+
+    /**
+     * @param string $alpha2
+     *
+     * @return null|Language
+     */
     public function getByAlpha2($alpha2)
     {
-        $alpha2 = strtolower($alpha2);
-        
-        return isset($this->_index['iso_639_1_code'][$alpha2])
-            ? $this->_index['iso_639_1_code'][$alpha2]
-            : null;
+        return $this->find('alpha_2', $alpha2);
     }
-    
+
+    /**
+     * @param string $alpha3
+     *
+     * @return null|Language
+     */
     public function getByAlpha3($alpha3)
     {
-        $alpha3 = strtolower($alpha3);
-        
-        return isset($this->_index['iso_639_2B_code'][$alpha3])
-            ? $this->_index['iso_639_2B_code'][$alpha3]
-            : null;
+        return $this->find('alpha_3', $alpha3);
     }
 }
