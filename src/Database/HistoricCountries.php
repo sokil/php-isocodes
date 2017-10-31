@@ -6,11 +6,11 @@ use Sokil\IsoCodes\AbstractDatabase;
 
 class HistoricCountries extends AbstractDatabase
 {
-    protected $_iso = 'iso3166';
+    protected $ISONumber = 'iso_3166-3';
     
-    protected $_entryTagName = 'iso_3166_3_entry';
+    protected $_entryTagName = '3166_3';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Database\HistoricCountries\Country';
+    protected $entryClassName = '\Sokil\IsoCodes\Database\HistoricCountries\Country';
     
     public function getByAlpha4($code)
     {

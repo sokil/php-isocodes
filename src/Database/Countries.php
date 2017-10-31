@@ -3,33 +3,71 @@
 namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\Database\Countries\Country;
 
 class Countries extends AbstractDatabase
 {
-    protected $_iso = 'iso3166';
-    
-    protected $_entryTagName = 'iso_3166_entry';
-    
-    protected $_entryClassName = '\Sokil\IsoCodes\Database\Countries\Country';
-    
+    public function getISONumber()
+    {
+        return '3166-1';
+    }
+
+    /**
+     * @param array $entry
+     *
+     * @return Country
+     */
+    protected function arrayToEntry(array $entry)
+    {
+        return new Country(
+            $entry['name'],
+            $this->getLocal($entry['name']),
+            $entry['alpha_2'],
+            $entry['alpha_3'],
+            $entry['numeric'],
+            !empty($entry['official_name']) ? $entry['official_name'] : null
+        );
+    }
+
+    /**
+     * @return array
+     */
+    protected function getIndexedFieldNames()
+    {
+        return [
+            'alpha_2',
+            'alpha_3',
+            'numeric'
+        ];
+    }
+
+    /**
+     * @param string $alpha2
+     *
+     * @return null|Country
+     */
     public function getByAlpha2($alpha2)
     {
-        return isset($this->_index['alpha_2_code'][$alpha2])
-            ? $this->_index['alpha_2_code'][$alpha2]
-            : null;
+        return $this->find('alpha_2', $alpha2);
     }
-    
+
+    /**
+     * @param string $alpha3
+     *
+     * @return null|Country
+     */
     public function getByAlpha3($alpha3)
     {
-        return isset($this->_index['alpha_3_code'][$alpha3])
-            ? $this->_index['alpha_3_code'][$alpha3]
-            : null;
+        return $this->find('alpha_3', $alpha3);
     }
-    
+
+    /**
+     * @param string $code
+     *
+     * @return null|Country
+     */
     public function getByNumericCode($code)
     {
-        return isset($this->_index['numeric_code'][$code])
-            ? $this->_index['numeric_code'][$code]
-            : null;
+        return $this->find('numeric', $code);
     }
 }

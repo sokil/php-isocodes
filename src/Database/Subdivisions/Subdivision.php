@@ -22,9 +22,9 @@ class Subdivision extends AbstractDatabaseEntry
         return $this->_subDivisionName;
     }
     
-    public function applyXMLElement(\DOMElement $element)
+    public function applyEntryValue(array $element)
     {
-        $this->_alpha2 = $element->getAttribute('code');
+        $this->_alpha2 = ['code'];
         
         $listXMLNode = $element->getElementsByTagName('iso_3166_subset');
         
@@ -53,7 +53,7 @@ class Subdivision extends AbstractDatabaseEntry
         $self = $this;
         
         return array_map(function($name) use($self) {
-            return dgettext($self->getDatabase()->getIso(), $name);
+            return dgettext($self->getDatabase()->getISONumber(), $name);
         }, $this->_list);
     }
 }

@@ -6,11 +6,11 @@ use Sokil\IsoCodes\AbstractDatabase;
 
 class Scripts extends AbstractDatabase
 {
-    protected $_iso = 'iso15924';
+    protected $ISONumber = 'iso_15924';
     
-    protected $_entryTagName = 'iso_15924_entry';
+    protected $_entryTagName = '15924';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Database\Scripts\Script';
+    protected $entryClassName = '\Sokil\IsoCodes\Database\Scripts\Script';
     
     public function getByAlpha4($alpha4)
     {

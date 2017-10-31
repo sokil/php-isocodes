@@ -2,7 +2,7 @@
 
 CURRENT_DIR=$(dirname $(readlink -f $0))
 PKG_ISOCODES_DIR=$CURRENT_DIR/build/iso-codes
-LOCALES_DIR=$CURRENT_DIR/locales
+MESSAGES_PATH=$CURRENT_DIR/messages
 DATABASES_DIR=$CURRENT_DIR/databases
 
 # update pkg-isocodes source
@@ -18,25 +18,26 @@ fi
 cd $CURRENT_DIR
 
 # clear previous database and locales files
-rm -rf $LOCALES_DIR
-mkdir -p $LOCALES_DIR
+rm -rf $MESSAGES_PATH
+mkdir -p $MESSAGES_PATH
 rm -rf $DATABASES_DIR
 mkdir -p $DATABASES_DIR
 
 # move database files
 cp $PKG_ISOCODES_DIR/data/iso_*.json $DATABASES_DIR
 
-# move locale files
+# move locale message files
 for database_file in `ls -1 $DATABASES_DIR`; do
     database_name=`echo $database_file | sed "s/.json//g"`
+    gettext_domain=`echo $database_name | sed "s/iso_//g"`
     source_locale_dir=$PKG_ISOCODES_DIR/$database_name
     for locale_file in `ls -1 $source_locale_dir | grep .po`; do
         locale_name=`echo $locale_file | sed "s/.po//g"`
         # copy locale file
-        target_locale_dir=$CURRENT_DIR/locales/$locale_name/LC_MESSAGES
+        target_locale_dir=$MESSAGES_PATH/$locale_name/LC_MESSAGES
         mkdir -p $target_locale_dir
-        cp ${source_locale_dir}/${locale_file} ${target_locale_dir}/${database_name}.po
-        msgfmt ${target_locale_dir}/${database_name}.po -o ${target_locale_dir}/${database_name}.mo
+        cp ${source_locale_dir}/${locale_file} ${target_locale_dir}/${gettext_domain}.po
+        msgfmt ${target_locale_dir}/${gettext_domain}.po -o ${target_locale_dir}/${gettext_domain}.mo
     done;
 done
 

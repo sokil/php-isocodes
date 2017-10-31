@@ -29,6 +29,6 @@ class Language extends AbstractDatabaseEntry
     
     public function getLocalName()
     {
-        return dgettext($this->_database->getIso(), $this->name);
+        return dgettext($this->_database->getISONumber(), $this->name);
     }
 }

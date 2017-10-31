@@ -9,7 +9,10 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertInstanceOf('\Sokil\IsoCodes\Database\Countries\Country', $countries->getByAlpha2('UA'));
+        $this->assertInstanceOf(
+            '\Sokil\IsoCodes\Database\Countries\Country',
+            $countries->getByAlpha2('UA')
+        );
     }
     
     public function testGetByAlpha2()
@@ -17,7 +20,10 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertEquals('Ukraine', $countries->getByAlpha2('UA')->name);
+        $this->assertEquals(
+            'Ukraine',
+            $countries->getByAlpha2('UA')->getName()
+        );
     }
     
     public function testGetLocalByAlpha2()
@@ -29,7 +35,10 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertEquals('Україна', $countries->getByAlpha2('UA')->getLocalName());
+        $this->assertEquals(
+            'Україна',
+            $countries->getByAlpha2('UA')->getLocalName()
+        );
     }
         
     public function testGetByAlpha3()
@@ -37,7 +46,10 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertEquals('Ukraine', $countries->getByAlpha3('UKR')->name);
+        $this->assertEquals(
+            'Ukraine',
+            $countries->getByAlpha3('UKR')->getName()
+        );
     }
     
     public function testGetLocalByAlpha3()
@@ -49,7 +61,10 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertEquals('Україна', $countries->getByAlpha3('UKR')->getLocalName());
+        $this->assertEquals(
+            'Україна',
+            $countries->getByAlpha3('UKR')->getLocalName()
+        );
     }
     
     public function testGetByNumericCode()
@@ -57,7 +72,10 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertEquals('Ukraine', $countries->getByNumericCode('804')->name);
+        $this->assertEquals(
+            'Ukraine',
+            $countries->getByNumericCode('804')->getName()
+        );
     }
     
     public function testGetLocalByNumericCode()
@@ -69,6 +87,9 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
-        $this->assertEquals('Україна', $countries->getByNumericCode('804')->getLocalName());
+        $this->assertEquals(
+            'Україна',
+            $countries->getByNumericCode('804')->getLocalName()
+        );
     }
 }

@@ -6,11 +6,11 @@ use Sokil\IsoCodes\AbstractDatabase;
 
 class Subdivisions extends AbstractDatabase
 {
-    protected $_iso = 'iso3166_2';
+    protected $ISONumber = 'iso_3166-2';
     
-    protected $_entryTagName = 'iso_3166_country';
+    protected $_entryTagName = '3166-2';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Database\Subdivisions\Subdivision';
+    protected $entryClassName = '\Sokil\IsoCodes\Database\Subdivisions\Subdivision';
     
     public function getByAlpha2($code)
     {

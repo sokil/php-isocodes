@@ -2,33 +2,75 @@
 
 namespace Sokil\IsoCodes\Database\Currencies;
 
-use Sokil\IsoCodes\AbstractDatabaseEntry;
-
-class Currency extends AbstractDatabaseEntry
+class Currency
 {
-    public $letter_code;
-    
-    public $numeric_code;
-    
-    public $currency_name;
-    
-    public function getLetterCode()
-    {
-        return $this->letter_code;
+    /**
+     * @var string
+     */
+    private $letterCode;
+
+    /**
+     * @var string
+     */
+    private $numericCode;
+
+    /**
+     * @var string
+     */
+    private $name;
+
+    /**
+     * @var string
+     */
+    private $localName;
+
+    /**
+     * @param string $name
+     * @param string $localName
+     * @param string $letterCode
+     * @param string $numericCode
+     */
+    public function __construct(
+        $name,
+        $localName,
+        $letterCode,
+        $numericCode
+    ) {
+        $this->name = $name;
+        $this->localName = $localName;
+        $this->letterCode = $letterCode;
+        $this->numericCode = $numericCode;
     }
-    
-    public function getNumericCode()
-    {
-        return $this->numeric_code;
-    }
-    
+
+    /**
+     * @return string
+     */
     public function getName()
     {
-        return $this->currency_name;
+        return $this->name;
     }
-    
+
+    /**
+     * @return string
+     */
     public function getLocalName()
     {
-        return dgettext($this->_database->getIso(), $this->currency_name);
+        return $this->localName;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLetterCode()
+    {
+        return $this->letterCode;
+    }
+
+    /**
+     * @return string
+     */
+    public function getNumericCode()
+    {
+        return $this->numericCode;
     }
 }

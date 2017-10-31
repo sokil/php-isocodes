@@ -6,11 +6,11 @@ use Sokil\IsoCodes\AbstractDatabase;
 
 class Languages extends AbstractDatabase
 {
-    protected $_iso = 'iso639';
+    protected $ISONumber = 'iso_639-3';
     
-    protected $_entryTagName = 'iso_639_entry';
+    protected $_entryTagName = '639-3';
     
-    protected $_entryClassName = '\Sokil\IsoCodes\Database\Languages\Language';
+    protected $entryClassName = '\Sokil\IsoCodes\Database\Languages\Language';
     
     public function getByAlpha2($alpha2)
     {

@@ -31,6 +31,6 @@ class Country extends AbstractDatabaseEntry
     
     public function getLocalNames()
     {
-        return dgettext($this->_database->getIso(), $this->names);
+        return dgettext($this->_database->getISONumber(), $this->names);
     }
 }
