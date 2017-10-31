@@ -106,6 +106,11 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         if (!empty($indexedFields)) {
             foreach ($this->entryList as &$entry) {
                 foreach ($indexedFields as $indexedFieldName) {
+                    // skip empty field
+                    if (empty($entry[$indexedFieldName])) {
+                        continue;
+                    }
+                    // add to index
                     $this->index[$indexedFieldName][$entry[$indexedFieldName]] = $entry;
                 }
             }

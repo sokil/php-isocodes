@@ -3,37 +3,86 @@
 namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\Database\HistoricCountries\Country;
 
 class HistoricCountries extends AbstractDatabase
 {
-    protected $ISONumber = 'iso_3166-3';
-    
-    protected $_entryTagName = '3166_3';
-    
-    protected $entryClassName = '\Sokil\IsoCodes\Database\HistoricCountries\Country';
-    
+    /**
+     * @return string
+     */
+    public function getISONumber()
+    {
+        return '3166-3';
+    }
+
+    /**
+     * @param array $entry
+     *
+     * @return Country
+     */
+    protected function arrayToEntry(array $entry)
+    {
+        return new Country(
+            $entry['name'],
+            $this->getLocal($entry['name']),
+            $entry['alpha_4'],
+            $entry['alpha_3'],
+            $entry['alpha_2'],
+            !empty($entry['numeric']) ? $entry['numeric'] : null,
+            $entry['withdrawal_date']
+        );
+    }
+
+    /**
+     * @return array
+     */
+    protected function getIndexedFieldNames()
+    {
+        return [
+            'alpha_4',
+            'alpha_3',
+            'alpha_2',
+            'numeric'
+        ];
+    }
+
+    /**
+     * @param string $code
+     *
+     * @return null|Country
+     */
     public function getByAlpha4($code)
     {
-        $code = strtoupper($code);
-        
-        return isset($this->_index['alpha_4_code'][$code])
-            ? $this->_index['alpha_4_code'][$code]
-            : null;
+        return $this->find('alpha_4', $code);
     }
-    
+
+    /**
+     * @param string $code
+     *
+     * @return null|Country
+     */
     public function getByAlpha3($code)
     {
-        $code = strtoupper($code);
-        
-        return isset($this->_index['alpha_3_code'][$code])
-            ? $this->_index['alpha_3_code'][$code]
-            : null;
+        return $this->find('alpha_3', $code);
     }
-    
+
+    /**
+     * @param string $code
+     *
+     * @return null|Country
+     */
+    public function getByAlpha2($code)
+    {
+        return $this->find('alpha_2', $code);
+    }
+
+    /**
+     * @param string $code
+     *
+     * @return null|Country
+     */
     public function getByNumericCode($code)
     {
-        return isset($this->_index['numeric_code'][$code])
-            ? $this->_index['numeric_code'][$code]
-            : null;
+        return $this->find('numeric', $code);
     }
 }
