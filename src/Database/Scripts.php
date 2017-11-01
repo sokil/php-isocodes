@@ -3,28 +3,58 @@
 namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\Database\Scripts\Script;
 
 class Scripts extends AbstractDatabase
 {
-    protected $ISONumber = 'iso_15924';
-    
-    protected $_entryTagName = '15924';
-    
-    protected $entryClassName = '\Sokil\IsoCodes\Database\Scripts\Script';
-    
+    public function getISONumber()
+    {
+        return '15924';
+    }
+
+        /**
+     * @param array $entry
+     *
+     * @return Script
+     */
+    protected function arrayToEntry(array $entry)
+    {
+        return new Script(
+            $entry['name'],
+            $this->getLocal($entry['name']),
+            $entry['alpha_4'],
+            $entry['numeric']
+        );
+    }
+
+    /**
+     * @return array
+     */
+    protected function getIndexedFieldNames()
+    {
+        return [
+            'alpha_4',
+            'numeric'
+        ];
+    }
+
+    /**
+     * @param string $alpha4
+     *
+     * @return null|Script
+     */
     public function getByAlpha4($alpha4)
     {
-        $alpha4 = ucfirst(strtolower($alpha4));
-        
-        return isset($this->_index['alpha_4_code'][$alpha4])
-            ? $this->_index['alpha_4_code'][$alpha4]
-            : null;
+        return $this->find('alpha_4', $alpha4);
     }
-    
+
+    /**
+     * @param string $code
+     *
+     * @return null|Script
+     */
     public function getByNumericCode($code)
     {        
-        return isset($this->_index['numeric_code'][$code])
-            ? $this->_index['numeric_code'][$code]
-            : null;
+        return $this->find('numeric', $code);
     }
 }

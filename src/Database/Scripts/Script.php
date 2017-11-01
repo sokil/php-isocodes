@@ -2,33 +2,77 @@
 
 namespace Sokil\IsoCodes\Database\Scripts;
 
-use Sokil\IsoCodes\AbstractDatabaseEntry;
-
-class Script extends AbstractDatabaseEntry
+class Script
 {
-    public $alpha_4_code;
-    
-    public $numeric_code;
-    
-    public $name;
-    
-    public function getAlpha4()
-    {
-        return $this->alpha_4_code;
+    /**
+     * @var string
+     */
+    private $name;
+
+    /**
+     * @var string
+     */
+    private $localName;
+
+    /**
+     * @var string
+     */
+    private $alpha4;
+
+    /**
+     * @var string
+     */
+    private $numericCode;
+
+    /**
+     * Script constructor.
+     * @param string $name
+     * @param string $localName
+     * @param string $alpha4
+     * @param string $numericCode
+     */
+    public function __construct(
+        $name,
+        $localName,
+        $alpha4,
+        $numericCode
+    ) {
+        $this->name = $name;
+        $this->localName = $localName;
+        $this->alpha4 = $alpha4;
+        $this->numericCode = $numericCode;
     }
-    
-    public function getNumericCode()
-    {
-        return $this->numeric_code;
-    }
-    
+
+
+    /**
+     * @return string
+     */
     public function getName()
     {
         return $this->name;
     }
-    
+
+    /**
+     * @return string
+     */
     public function getLocalName()
     {
-        return dgettext($this->_database->getISONumber(), $this->name);
+        return $this->localName;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAlpha4()
+    {
+        return $this->alpha4;
+    }
+
+    /**
+     * @return string
+     */
+    public function getNumericCode()
+    {
+        return $this->numericCode;
     }
 }
