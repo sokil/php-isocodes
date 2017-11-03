@@ -23,7 +23,7 @@
     },
     "scripts": {
         "test": "./vendor/bin/phpunit -c ./tests/phpunit.xml ./tests",
-        "cover": "./vendor/bin/phpunit -c ./tests/phpunit.xml --coverage-clover .build/logs/clover.xml ./tests",
+        "cover": "./vendor/bin/phpunit -c ./tests/phpunit.xml --coverage-clover ./build/logs/clover.xml ./tests",
         "coveralls": "./vendor/bin/coveralls -v"
     }
 }
