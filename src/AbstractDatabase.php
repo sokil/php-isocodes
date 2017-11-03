@@ -105,13 +105,38 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         $indexedFields = $this->getIndexDefinition();
         if (!empty($indexedFields)) {
             foreach ($this->entryList as &$entry) {
-                foreach ($indexedFields as $indexedFieldName) {
-                    // skip empty field
-                    if (empty($entry[$indexedFieldName])) {
-                        continue;
+                foreach ($indexedFields as $indexName => $indexDefinition) {
+                    if (is_array($indexDefinition)) {
+                        $reference = &$this->index[$indexName];
+                        // compound index
+                        foreach ($indexDefinition as $indexDefinitionPart) {
+                            // limited length of field
+                            if (is_array($indexDefinitionPart)) {
+                                $indexDefinitionPartValue = substr(
+                                    $entry[$indexDefinitionPart[0]],
+                                    0,
+                                    $indexDefinitionPart[1]
+                                );
+                            } else {
+                                $indexDefinitionPartValue = $entry[$indexDefinitionPart];
+                            }
+                            if (!isset($reference[$indexDefinitionPartValue])) {
+                                $reference[$indexDefinitionPartValue] = [];
+                            }
+                            $reference = &$reference[$indexDefinitionPartValue];
+                        }
+
+                        $reference = $entry;
+                    } else {
+                        // single index
+                        $indexName = $indexDefinition;
+                        // skip empty field
+                        if (empty($entry[$indexDefinition])) {
+                            continue;
+                        }
+                        // add to index
+                        $this->index[$indexName][$entry[$indexDefinition]] = $entry;
                     }
-                    // add to index
-                    $this->index[$indexedFieldName][$entry[$indexedFieldName]] = $entry;
                 }
             }
         }
@@ -140,7 +165,11 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             return null;
         }
 
-        return $this->arrayToEntry($this->index[$indexedFieldName][$fieldValue]);
+        $result = $this->arrayToEntry($this->index[$indexedFieldName][$fieldValue]);
+
+
+
+        return $result;
     }
 
     /**

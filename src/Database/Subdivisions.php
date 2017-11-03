@@ -35,6 +35,7 @@ class Subdivisions extends AbstractDatabase
     {
         return [
             'code',
+            'country_code' => [['code', 2], 'code'],
         ];
     }
 
