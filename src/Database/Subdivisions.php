@@ -3,21 +3,56 @@
 namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
 class Subdivisions extends AbstractDatabase
 {
-    protected $ISONumber = 'iso_3166-2';
-    
-    protected $_entryTagName = '3166-2';
-    
-    protected $entryClassName = '\Sokil\IsoCodes\Database\Subdivisions\Subdivision';
-    
-    public function getByAlpha2($code)
+    public function getISONumber()
     {
-        $code = strtoupper($code);
-        
-        return isset($this->_index['code'][$code])
-            ? $this->_index['code'][$code]
-            : null;
+        return '3166-2';
+    }
+
+    /**
+     * @param array $entry
+     *
+     * @return Subdivision
+     */
+    protected function arrayToEntry(array $entry)
+    {
+        return new Subdivision(
+            $entry['name'],
+            $this->getLocal($entry['name']),
+            $entry['code'],
+            $entry['type'],
+            !empty($entry['parent']) ? $entry['parent'] : null
+        );
+    }
+
+    /**
+     * @return array
+     */
+    protected function getIndexDefinition()
+    {
+        return [
+            'code',
+        ];
+    }
+
+    /**
+     * @param $code
+     * @return Subdivision[]
+     */
+    public function getByCode($code)
+    {
+        return $this->find('code', $code);
+    }
+
+    /**
+     * @param $code
+     * @return Subdivision[]
+     */
+    public function getAllByCountryCode($code)
+    {
+        return $this->find('country_code', $code);
     }
 }

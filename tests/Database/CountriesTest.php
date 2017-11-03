@@ -2,15 +2,30 @@
 
 namespace Sokil\IsoCodes\Databases;
 
+use Sokil\IsoCodes\Database\Countries\Country;
+use \Sokil\IsoCodes\IsoCodesFactory;
+
 class CountriesTest extends \PHPUnit_Framework_TestCase
-{        
+{
+    public function testDbConsistency()
+    {
+        $isoCodes = new IsoCodesFactory();
+        $countries = $isoCodes->getCountries();
+        foreach ($countries as $country) {
+            $this->assertInstanceOf(
+                Country::class,
+                $country
+            );
+        }
+    }
+
     public function testEntryClass()
     {
         $isoCodes = new \Sokil\IsoCodes;
         $countries = $isoCodes->getCountries();
         
         $this->assertInstanceOf(
-            '\Sokil\IsoCodes\Database\Countries\Country',
+            Country::class,
             $countries->getByAlpha2('UA')
         );
     }

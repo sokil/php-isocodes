@@ -36,7 +36,7 @@ class Languages extends AbstractDatabase
     /**
      * @return array
      */
-    protected function getIndexedFieldNames()
+    protected function getIndexDefinition()
     {
         return [
             'alpha_2',

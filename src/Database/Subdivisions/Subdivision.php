@@ -2,58 +2,92 @@
 
 namespace Sokil\IsoCodes\Database\Subdivisions;
 
-use Sokil\IsoCodes\AbstractDatabaseEntry;
-
-class Subdivision extends AbstractDatabaseEntry
+class Subdivision
 {
-    private $_alpha2;
-    
-    private $_subDivisionName;
-    
-    private $_list = array();
-    
-    public function getAlpha2()
-    {
-        return $this->_alpha2;
+    /**
+     * @var string
+     */
+    private $name;
+
+    /**
+     * @var string
+     */
+    private $localName;
+
+    /**
+     * @var string
+     */
+    private $code;
+
+    /**
+     * @var string
+     */
+    private $parent;
+
+    /**
+     * @var string
+     */
+    private $type;
+
+    /**
+     * Subdivision constructor.
+     * @param string $name
+     * @param string $localName
+     * @param string $code
+     * @param string $parent
+     * @param string $type
+     */
+    public function __construct(
+        $name,
+        $localName,
+        $code,
+        $parent,
+        $type
+    ) {
+        $this->name = $name;
+        $this->localName = $localName;
+        $this->code = $code;
+        $this->parent = $parent;
+        $this->type = $type;
     }
-    
-    public function getSubDivisionName()
+
+    /**
+     * @return string
+     */
+    public function getName()
     {
-        return $this->_subDivisionName;
+        return $this->name;
     }
-    
-    public function applyEntryValue(array $element)
+
+    /**
+     * @return string
+     */
+    public function getLocalName()
     {
-        $this->_alpha2 = ['code'];
-        
-        $listXMLNode = $element->getElementsByTagName('iso_3166_subset');
-        
-        // check if country has sub divisions
-        if(!$listXMLNode->length) {
-            return;
-        }
-        
-        // get sub division type
-        $this->_subDivisionName = $listXMLNode
-            ->item(0)
-            ->getAttribute('type');
-            
-        foreach($element->getElementsByTagName('iso_3166_2_entry') as $element) {
-            $this->_list[$element->getAttribute('code')] = $element->getAttribute('name');
-        }
+        return $this->localName;
     }
-    
-    public function getList()
+
+    /**
+     * @return string
+     */
+    public function getCode()
     {
-        return $this->_list;
+        return $this->code;
     }
-    
-    public function getLocalList()
+
+    /**
+     * @return string
+     */
+    public function getParent()
     {
-        $self = $this;
-        
-        return array_map(function($name) use($self) {
-            return dgettext($self->getDatabase()->getISONumber(), $name);
-        }, $this->_list);
+        return $this->parent;
+    }
+
+    /**
+     * @return string
+     */
+    public function getType()
+    {
+        return $this->type;
     }
 }

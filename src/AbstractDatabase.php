@@ -54,7 +54,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      *
      * @return array
      */
-    protected function getIndexedFieldNames()
+    protected function getIndexDefinition()
     {
         return [];
     }
@@ -102,7 +102,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         $this->entryList = $json[$this->getISONumber()];
 
         // index database
-        $indexedFields = $this->getIndexedFieldNames();
+        $indexedFields = $this->getIndexDefinition();
         if (!empty($indexedFields)) {
             foreach ($this->entryList as &$entry) {
                 foreach ($indexedFields as $indexedFieldName) {
@@ -156,7 +156,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     public function current()
     {
-        return current($this->entryList);
+        return $this->arrayToEntry(current($this->entryList));
     }
 
     /**

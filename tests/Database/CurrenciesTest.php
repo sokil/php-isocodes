@@ -2,14 +2,29 @@
 
 namespace Sokil\IsoCodes\Databases;
 
+use Sokil\IsoCodes\Database\Currencies\Currency;
+use Sokil\IsoCodes\IsoCodesFactory;
+
 class CurrenciesTest extends \PHPUnit_Framework_TestCase
 {        
+    public function testDbConsistency()
+    {
+        $isoCodes = new IsoCodesFactory();
+        $currencies = $isoCodes->getCurrencies();
+        foreach ($currencies as $currency) {
+            $this->assertInstanceOf(
+                Currency::class,
+                $currency
+            );
+        }
+    }
+
     public function testEntryClass()
     {
         $isoCodes = new \Sokil\IsoCodes;
         $currencies = $isoCodes->getCurrencies();
         
-        $this->assertInstanceOf('\Sokil\IsoCodes\Database\Currencies\Currency', $currencies->getByLetterCode('CZK'));
+        $this->assertInstanceOf(Currency::class, $currencies->getByLetterCode('CZK'));
     }
     
     public function testGetByLetterCode()
