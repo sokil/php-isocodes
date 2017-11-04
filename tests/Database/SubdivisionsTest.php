@@ -14,7 +14,7 @@ class SubdivisionsTest extends \PHPUnit_Framework_TestCase
         
         $this->assertInstanceOf(
             Subdivision::class,
-            $subdivisions->getAllByCountryCode('UA')
+            current($subdivisions->getAllByCountryCode('UA'))
         );
     }
 }

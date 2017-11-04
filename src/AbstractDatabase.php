@@ -20,7 +20,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * @var array[]
      */
-    private $entryList;
+    private $clusterIndex = [];
 
     /**
      * Index to search by entry field's values
@@ -99,12 +99,16 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         );
 
         // read database
-        $this->entryList = $json[$this->getISONumber()];
+        $entryList = $json[$this->getISONumber()];
 
         // index database
         $indexedFields = $this->getIndexDefinition();
-        if (!empty($indexedFields)) {
-            foreach ($this->entryList as &$entry) {
+
+        if (empty($indexedFields)) {
+            $this->clusterIndex = $entryList;
+        } else {
+            // init all defined indexes
+            foreach ($entryList as &$entry) {
                 foreach ($indexedFields as $indexName => $indexDefinition) {
                     if (is_array($indexDefinition)) {
                         $reference = &$this->index[$indexName];
@@ -126,7 +130,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
                             $reference = &$reference[$indexDefinitionPartValue];
                         }
 
-                        $reference = $entry;
+                        $reference = $this->arrayToEntry($entry);
                     } else {
                         // single index
                         $indexName = $indexDefinition;
@@ -135,10 +139,14 @@ abstract class AbstractDatabase implements \Iterator, \Countable
                             continue;
                         }
                         // add to index
-                        $this->index[$indexName][$entry[$indexDefinition]] = $entry;
+                        $this->index[$indexName][$entry[$indexDefinition]] = $this->arrayToEntry($entry);
                     }
                 }
             }
+
+            // set cluster index as first index
+            $clusterIndexName = key($this->index);
+            $this->clusterIndex = &$this->index[$clusterIndexName];
         }
 
         // add gettext domain
@@ -165,7 +173,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             return null;
         }
 
-        $result = $this->arrayToEntry($this->index[$indexedFieldName][$fieldValue]);
+        $result = $this->index[$indexedFieldName][$fieldValue];
 
 
 
@@ -185,7 +193,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     public function current()
     {
-        return $this->arrayToEntry(current($this->entryList));
+        return current($this->clusterIndex);
     }
 
     /**
@@ -193,17 +201,17 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     public function key()
     {
-        return key($this->entryList);
+        return key($this->clusterIndex);
     }
 
     public function next()
     {
-        next($this->entryList);
+        next($this->clusterIndex);
     }
     
     public function rewind()
     {
-        reset($this->entryList);
+        reset($this->clusterIndex);
     }
 
     /**
@@ -219,7 +227,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     public function count()
     {
-        return count($this->entryList);
+        return count($this->clusterIndex);
     }
 }
 
