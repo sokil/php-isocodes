@@ -1,4 +1,4 @@
-# translation of iso_15924-3.49.is.po to Icelandic
+# translation of iso_15924-3.76.is.po to Icelandic
 # Translation of ISO 15924 (script names) to  Icelandic
 # Yfirleitt notað til að tilgreina lyklaborð eða inntakstækni
 # þessvegna haft hér í hvorugkyni, nema þar sem átt er við ritmálið sjálft.
@@ -7,26 +7,27 @@
 #
 # Copyright © Free Software Foundation
 #
-# Sveinn í Felli <sveinki@nett.is>, 2010, 2011, 2012, 2013.
+# Sveinn í Felli <sv1@fellsnet.is>, 2010, 2011, 2012, 2013, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2013-12-05 19:13+0000\n"
-"Last-Translator: Sveinn í Felli <sveinki@nett.is>\n"
+"PO-Revision-Date: 2017-11-02 09:55+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 "X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "Adlam"
 
 #. Name for Afak
 msgid "Afaka"
@@ -34,21 +35,19 @@ msgstr "Afaka"
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
-msgstr "Kákasísk albanska"
+msgstr "Kákasísk albanskt"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
-msgstr ""
+msgstr "Ahom, Tai Ahom"
 
 #. Name for Arab
 msgid "Arabic"
 msgstr "Arabískt"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "Sýrlenska (austur-tilbrigði)"
+msgstr "Arabískt (Nastaliq-tilbrigði)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -84,7 +83,7 @@ msgstr "Bengalskt"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
-msgstr ""
+msgstr "Bhaiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
@@ -216,7 +215,7 @@ msgstr "Gurmukískt"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
-msgstr ""
+msgstr "Han með Bopomofo (samnefni fyrir Han + Bopomofo)"
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
@@ -275,10 +274,8 @@ msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "Forn-ítalskt (Etruscan, Oscan, o.s.frv.)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "Kóreska (samheiti fyrir Hangul + Han)"
+msgstr "Jamó (samheiti fyrir Jamó undirhluta Hangúl)"
 
 #. Name for Java
 msgid "Javanese"
@@ -314,11 +311,11 @@ msgstr "Khojki"
 
 #. Name for Kitl
 msgid "Khitan large script"
-msgstr ""
+msgstr "Khitan stórskrift"
 
 #. Name for Kits
 msgid "Khitan small script"
-msgstr ""
+msgstr "Khitan smáskrift"
 
 #. Name for Knda
 msgid "Kannada"
@@ -358,7 +355,7 @@ msgstr "Latneskt"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "Leke"
 
 #. Name for Lepc
 msgid "Lepcha (Róng)"
@@ -405,10 +402,8 @@ msgid "Manichaean"
 msgstr "Manichaískt"
 
 #. Name for Marc
-#, fuzzy
-#| msgid "Jurchen"
 msgid "Marchen"
-msgstr "Jurchen"
+msgstr "Marchen"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -468,7 +463,7 @@ msgstr "Nabatískt"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
-msgstr ""
+msgstr "Newa, Newar, Newari, Nepāla lipi"
 
 #. Name for Nkgb
 msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
@@ -500,7 +495,7 @@ msgstr "Oryanskt"
 
 #. Name for Osge
 msgid "Osage"
-msgstr ""
+msgstr "Osage"
 
 #. Name for Osma
 msgid "Osmanya"
@@ -540,7 +535,7 @@ msgstr "Fönikískt"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
-msgstr ""
+msgstr "Klingon (KLI pIqaD)"
 
 #. Name for Plrd
 msgid "Miao (Pollard)"
@@ -739,10 +734,8 @@ msgid "Mathematical notation"
 msgstr "Stærðfræðilegt táknkerfi"
 
 #. Name for Zsye
-#, fuzzy
-#| msgid "Syriac (Estrangelo variant)"
 msgid "Symbols (Emoji variant)"
-msgstr "Sýrlenska (Estrangelo tilbrigði)"
+msgstr "Tákn (emoji-tilbrigði)"
 
 #. Name for Zsym
 msgid "Symbols"
