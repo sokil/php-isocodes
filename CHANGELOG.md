@@ -1,4 +1,4 @@
-2.0 (2017-11-05)
+## 2.0 (2017-11-05)
 
 * Updated pkg-isocodes database. Added update script.
 * Replace class `\Sokil\IsoCodes` with `\Sokil\IsoCodes\IsoCodesFactory`. First is deprecated now.
