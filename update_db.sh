@@ -47,7 +47,7 @@ composer.phar test
 # update version in README.md
 cd $PKG_ISOCODES_DIR
 VERSION=`git describe --tags`
-BUILD_DATE=`date +%Y-%m-%d-%H:%M`
+BUILD_DATE=`date +%Y-%m-%d %H:%M`
 cd $CURRENT_DIR
 sed -i -E "s/Database version: .*/Database version: ${VERSION} from ${BUILD_DATE}/" README.md
 
