@@ -44,6 +44,13 @@ done
 # start tests
 composer.phar test
 
+# update version in README.md
+cd $PKG_ISOCODES_DIR
+VERSION=`git describe --tags`
+BUILD_DATE=`date +%Y-%m-%d-%H:%M`
+cd $CURRENT_DIR
+sed -i -E "s/Database version: .*/Database version: ${VERSION} from ${BUILD_DATE}/" README.md
+
 # success
 if [[ $? -eq 0 ]]; then
     echo -e "\033[0;32m\n\nDatabase successfully updated. Verify difference and commit.\033[0m\n\n"
