@@ -10,6 +10,16 @@ Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian
 
 Database version: iso-codes-3.76-31-g58b6628 from 2017-11-05-23:06
 
+ISO Standarts
+-------------
+
+* **ISO 3166-1**: Country codes (alpha-2, alpha-3, numeric)
+* **ISO 3166-2**: Principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1
+* **ISO 3166-3**: Historic countries (alpha-2, alpha-3, alpha-4, numeric)
+* **ISO 15924**: Scripts
+* **ISO 4217**: Currencies
+* **ISO 639-3**: languages
+
 Installation
 ------------
 
