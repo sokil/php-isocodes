@@ -18,7 +18,7 @@ ISO Standarts
 * **ISO 3166-3**: Historic countries (alpha-2, alpha-3, alpha-4, numeric)
 * **ISO 15924**: Scripts
 * **ISO 4217**: Currencies
-* **ISO 639-3**: languages
+* **ISO 639-3**: Languages
 
 Installation
 ------------
