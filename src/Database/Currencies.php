@@ -10,7 +10,7 @@ class Currencies extends AbstractDatabase
     /**
      * @return string
      */
-    public function getISONumber()
+    protected function getISONumber()
     {
         return '4217';
     }

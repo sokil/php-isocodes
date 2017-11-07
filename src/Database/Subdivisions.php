@@ -7,7 +7,7 @@ use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
 class Subdivisions extends AbstractDatabase
 {
-    public function getISONumber()
+    protected function getISONumber()
     {
         return '3166-2';
     }

@@ -10,7 +10,7 @@ class Scripts extends AbstractDatabase
     /**
      * @return string
      */
-    public function getISONumber()
+    protected function getISONumber()
     {
         return '15924';
     }

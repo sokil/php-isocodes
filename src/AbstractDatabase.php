@@ -39,7 +39,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      *
      * @return string
      */
-    abstract public function getISONumber();
+    abstract protected function getISONumber();
 
     /**
      * @param array $entry
@@ -70,7 +70,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * @return string
      */
-    public function getLocalMessagesPath()
+    private function getLocalMessagesPath()
     {
         return __DIR__ . self::MESSAGES_PATH;
     }
