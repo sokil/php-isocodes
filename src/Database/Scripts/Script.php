@@ -20,7 +20,7 @@ class Script
     private $alpha4;
 
     /**
-     * @var string
+     * @var int
      */
     private $numericCode;
 
@@ -29,7 +29,7 @@ class Script
      * @param string $name
      * @param string $localName
      * @param string $alpha4
-     * @param string $numericCode
+     * @param int $numericCode
      */
     public function __construct(
         $name,
@@ -69,7 +69,7 @@ class Script
     }
 
     /**
-     * @return string
+     * @return int
      */
     public function getNumericCode()
     {

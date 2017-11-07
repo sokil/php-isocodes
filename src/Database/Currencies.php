@@ -26,7 +26,7 @@ class Currencies extends AbstractDatabase
             $entry['name'],
             $this->getLocal($entry['name']),
             $entry['alpha_3'],
-            $entry['numeric']
+            (int)$entry['numeric']
         );
     }
 
@@ -51,7 +51,7 @@ class Currencies extends AbstractDatabase
     }
 
     /**
-     * @param string $code
+     * @param int $code
      * @return null|Currency
      */
     public function getByNumericCode($code)

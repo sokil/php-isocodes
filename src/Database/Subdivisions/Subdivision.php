@@ -22,33 +22,33 @@ class Subdivision
     /**
      * @var string
      */
-    private $parent;
+    private $type;
 
     /**
-     * @var string
+     * @var string|null
      */
-    private $type;
+    private $parent;
 
     /**
      * Subdivision constructor.
      * @param string $name
      * @param string $localName
      * @param string $code
-     * @param string $parent
      * @param string $type
+     * @param string|null $parent
      */
     public function __construct(
         $name,
         $localName,
         $code,
-        $parent,
-        $type
+        $type,
+        $parent = null
     ) {
         $this->name = $name;
         $this->localName = $localName;
         $this->code = $code;
-        $this->parent = $parent;
         $this->type = $type;
+        $this->parent = $parent;
     }
 
     /**
@@ -78,16 +78,16 @@ class Subdivision
     /**
      * @return string
      */
-    public function getParent()
-    {
-        return $this->parent;
-    }
-
-    /**
-     * @return string
-     */
     public function getType()
     {
         return $this->type;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getParent()
+    {
+        return $this->parent;
     }
 }

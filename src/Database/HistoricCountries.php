@@ -28,8 +28,8 @@ class HistoricCountries extends AbstractDatabase
             $entry['alpha_4'],
             $entry['alpha_3'],
             $entry['alpha_2'],
-            !empty($entry['numeric']) ? $entry['numeric'] : null,
-            $entry['withdrawal_date']
+            $entry['withdrawal_date'],
+            !empty($entry['numeric']) ? (int)$entry['numeric'] : null
         );
     }
 
@@ -77,7 +77,7 @@ class HistoricCountries extends AbstractDatabase
     }
 
     /**
-     * @param string $code
+     * @param int $code
      *
      * @return null|Country
      */

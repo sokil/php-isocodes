@@ -7,12 +7,15 @@ use Sokil\IsoCodes\Database\Scripts\Script;
 
 class Scripts extends AbstractDatabase
 {
+    /**
+     * @return string
+     */
     public function getISONumber()
     {
         return '15924';
     }
 
-        /**
+    /**
      * @param array $entry
      *
      * @return Script
@@ -23,7 +26,7 @@ class Scripts extends AbstractDatabase
             $entry['name'],
             $this->getLocal($entry['name']),
             $entry['alpha_4'],
-            $entry['numeric']
+            (int)$entry['numeric']
         );
     }
 
@@ -49,7 +52,7 @@ class Scripts extends AbstractDatabase
     }
 
     /**
-     * @param string $code
+     * @param int $code
      *
      * @return null|Script
      */

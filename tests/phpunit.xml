@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <phpunit
   colors="true"
-  bootstrap="../vendor/autoload.php"
+  bootstrap="bootstrap.php"
   convertErrorsToExceptions="true"
   convertNoticesToExceptions="true"
   convertWarningsToExceptions="true"
@@ -11,4 +11,9 @@
       <directory>.</directory>
     </testsuite>
   </testsuites>
+  <filter>
+    <whitelist>
+      <directory>../src</directory>
+    </whitelist>
+  </filter>
 </phpunit>

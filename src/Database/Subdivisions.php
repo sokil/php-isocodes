@@ -41,7 +41,7 @@ class Subdivisions extends AbstractDatabase
 
     /**
      * @param $code
-     * @return Subdivision[]
+     * @return Subdivision
      */
     public function getByCode($code)
     {

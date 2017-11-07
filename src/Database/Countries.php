@@ -24,7 +24,7 @@ class Countries extends AbstractDatabase
             $this->getLocal($entry['name']),
             $entry['alpha_2'],
             $entry['alpha_3'],
-            $entry['numeric'],
+            (int)$entry['numeric'],
             !empty($entry['official_name']) ? $entry['official_name'] : null
         );
     }
@@ -62,7 +62,7 @@ class Countries extends AbstractDatabase
     }
 
     /**
-     * @param string $code
+     * @param int $code
      *
      * @return null|Country
      */

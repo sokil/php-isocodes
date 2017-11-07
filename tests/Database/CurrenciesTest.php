@@ -7,7 +7,7 @@ use Sokil\IsoCodes\IsoCodesFactory;
 
 class CurrenciesTest extends \PHPUnit_Framework_TestCase
 {        
-    public function testDbConsistency()
+    public function testIterator()
     {
         $isoCodes = new IsoCodesFactory();
         $currencies = $isoCodes->getCurrencies();
@@ -18,52 +18,55 @@ class CurrenciesTest extends \PHPUnit_Framework_TestCase
             );
         }
     }
-
-    public function testEntryClass()
-    {
-        $isoCodes = new \Sokil\IsoCodes;
-        $currencies = $isoCodes->getCurrencies();
-        
-        $this->assertInstanceOf(Currency::class, $currencies->getByLetterCode('CZK'));
-    }
     
     public function testGetByLetterCode()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $currencies = $isoCodes->getCurrencies();
-        
-        $this->assertEquals('Czech Koruna', $currencies->getByLetterCode('CZK')->getName());
-    }
-    
-    public function testGetLocalByLetterCode()
-    {
-        putenv('LANGUAGE=uk_UA.UTF-8');
-        putenv('LC_ALL=uk_UA.UTF-8');
-        setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
-        $isoCodes = new \Sokil\IsoCodes;
-        $currencies = $isoCodes->getCurrencies();
-        
-        $this->assertEquals('Чеська крона', $currencies->getByLetterCode('CZK')->getLocalName());
+        $currency = $currencies->getByLetterCode('CZK');
+
+        $this->assertInstanceOf(
+            Currency::class,
+            $currency
+        );
+
+        $this->assertEquals(
+            'Czech Koruna',
+            $currency->getName()
+        );
+
+        $this->assertEquals(
+            'Чеська крона',
+            $currency->getLocalName()
+        );
+
+        $this->assertSame(
+            'CZK',
+            $currency->getLetterCode()
+        );
+
+        $this->assertSame(
+            203,
+            $currency->getNumericCode()
+        );
     }
         
     public function testGetByNumericCode()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $currencies = $isoCodes->getCurrencies();
-        
-        $this->assertEquals('Czech Koruna', $currencies->getByNumericCode(203)->getName());
-    }
-    
-    public function testGetLocalByNumericCode()
-    {
-        putenv('LANGUAGE=uk_UA.UTF-8');
-        putenv('LC_ALL=uk_UA.UTF-8');
-        setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
-        $isoCodes = new \Sokil\IsoCodes;
-        $currencies = $isoCodes->getCurrencies();
-        
-        $this->assertEquals('Чеська крона', $currencies->getByNumericCode(203)->getLocalName());
+        $currency = $currencies->getByNumericCode(203);
+
+        $this->assertEquals(
+            'Czech Koruna',
+            $currency->getName()
+        );
+
+        $this->assertEquals(
+            'Чеська крона',
+            $currency->getLocalName()
+        );
     }
 }

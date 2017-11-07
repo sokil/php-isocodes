@@ -17,16 +17,6 @@ class Language
     /**
      * @var string
      */
-    private $invertedName;
-
-    /**
-     * @var string
-     */
-    private $alpha2;
-
-    /**
-     * @var string
-     */
     private $alpha3;
 
     /**
@@ -40,31 +30,41 @@ class Language
     private $type;
 
     /**
+     * @var string
+     */
+    private $invertedName;
+
+    /**
+     * @var string
+     */
+    private $alpha2;
+
+    /**
      * Language constructor.
      * @param string $name
      * @param string $localName
-     * @param string|null $invertedName
-     * @param string|null $alpha2
      * @param string $alpha3
      * @param string $scope
      * @param string $type
+     * @param string|null $invertedName
+     * @param string|null $alpha2
      */
     public function __construct(
         $name,
         $localName,
-        $invertedName,
-        $alpha2,
         $alpha3,
         $scope,
-        $type
+        $type,
+        $invertedName = null,
+        $alpha2 = null
     ) {
         $this->name = $name;
         $this->localName = $localName;
-        $this->invertedName = $invertedName;
-        $this->alpha2 = $alpha2;
         $this->alpha3 = $alpha3;
         $this->scope = $scope;
         $this->type = $type;
+        $this->invertedName = $invertedName;
+        $this->alpha2 = $alpha2;
     }
 
     /**
@@ -81,22 +81,6 @@ class Language
     public function getLocalName()
     {
         return $this->localName;
-    }
-
-    /**
-     * @return string|null
-     */
-    public function getInvertedName()
-    {
-        return $this->invertedName;
-    }
-
-    /**
-     * @return string|null
-     */
-    public function getAlpha2()
-    {
-        return $this->alpha2;
     }
 
     /**
@@ -121,5 +105,21 @@ class Language
     public function getType()
     {
         return $this->type;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getInvertedName()
+    {
+        return $this->invertedName;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getAlpha2()
+    {
+        return $this->alpha2;
     }
 }

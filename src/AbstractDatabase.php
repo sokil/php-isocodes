@@ -93,12 +93,24 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     private function loadDatabase($databaseFile)
     {
+        // add gettext domain
+        bindtextdomain(
+            $this->getISONumber(),
+            $this->getLocalMessagesPath()
+        );
+
+        bind_textdomain_codeset(
+            $this->getISONumber(),
+            'UTF-8'
+        );
+
+        // load database from json file
         $json = json_decode(
             file_get_contents($databaseFile),
             true
         );
 
-        // read database
+        // build index from database
         $entryList = $json[$this->getISONumber()];
 
         // index database
@@ -148,17 +160,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             $clusterIndexName = key($this->index);
             $this->clusterIndex = &$this->index[$clusterIndexName];
         }
-
-        // add gettext domain
-        bindtextdomain(
-            $this->getISONumber(),
-            $this->getLocalMessagesPath()
-        );
-
-        bind_textdomain_codeset(
-            $this->getISONumber(),
-            'UTF-8'
-        );
     }
 
     /**
@@ -170,12 +171,10 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     protected function find($indexedFieldName, $fieldValue)
     {
         if (!isset($this->index[$indexedFieldName][$fieldValue])) {
-            return null;
+            throw new \InvalidArgumentException(sprintf('Unknown field %s', $indexedFieldName));
         }
 
         $result = $this->index[$indexedFieldName][$fieldValue];
-
-
 
         return $result;
     }

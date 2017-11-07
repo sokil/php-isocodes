@@ -18,18 +18,18 @@ class Languages extends AbstractDatabase
     /**
      * @param array $entry
      *
-     * @return Country
+     * @return Language
      */
     protected function arrayToEntry(array $entry)
     {
         return new Language(
             $entry['name'],
             $this->getLocal($entry['name']),
-            !empty($entry['inverted_name']) ? $entry['inverted_name'] : null,
-            !empty($entry['alpha_2']) ? $entry['alpha_2'] : null,
             $entry['alpha_3'],
             $entry['scope'],
-            $entry['type']
+            $entry['type'],
+            !empty($entry['inverted_name']) ? $entry['inverted_name'] : null,
+            !empty($entry['alpha_2']) ? $entry['alpha_2'] : null
         );
     }
 

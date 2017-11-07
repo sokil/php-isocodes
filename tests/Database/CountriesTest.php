@@ -7,7 +7,7 @@ use \Sokil\IsoCodes\IsoCodesFactory;
 
 class CountriesTest extends \PHPUnit_Framework_TestCase
 {
-    public function testDbConsistency()
+    public function testIterator()
     {
         $isoCodes = new IsoCodesFactory();
         $countries = $isoCodes->getCountries();
@@ -17,94 +17,97 @@ class CountriesTest extends \PHPUnit_Framework_TestCase
                 $country
             );
         }
+
+        $this->assertInternalType('array', $countries->toArray());
+        $this->assertGreaterThan(0, count($countries));
     }
 
-    public function testEntryClass()
-    {
-        $isoCodes = new \Sokil\IsoCodes;
-        $countries = $isoCodes->getCountries();
-        
-        $this->assertInstanceOf(
-            Country::class,
-            $countries->getByAlpha2('UA')
-        );
-    }
-    
     public function testGetByAlpha2()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getCountries();
-        
+        $country = $countries->getByAlpha2('UA');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Ukraine',
-            $countries->getByAlpha2('UA')->getName()
+            $country->getName()
         );
-    }
-    
-    public function testGetLocalByAlpha2()
-    {
-        putenv('LANGUAGE=uk_UA.UTF-8');
-        putenv('LC_ALL=uk_UA.UTF-8');
-        setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
-        $isoCodes = new \Sokil\IsoCodes;
-        $countries = $isoCodes->getCountries();
-        
+
         $this->assertEquals(
             'Україна',
-            $countries->getByAlpha2('UA')->getLocalName()
+            $country->getLocalName()
+        );
+
+        $this->assertEquals(
+            'UA',
+            $country->getAlpha2()
+        );
+
+        $this->assertEquals(
+            'UKR',
+            $country->getAlpha3()
+        );
+
+        $this->assertSame(
+            804,
+            $country->getNumericCode()
+        );
+
+        $this->assertEquals(
+            null,
+            $country->getOfficialName()
         );
     }
-        
+
     public function testGetByAlpha3()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getCountries();
-        
+        $country = $countries->getByAlpha3('UKR');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Ukraine',
-            $countries->getByAlpha3('UKR')->getName()
+            $country->getName()
         );
-    }
-    
-    public function testGetLocalByAlpha3()
-    {
-        putenv('LANGUAGE=uk_UA.UTF-8');
-        putenv('LC_ALL=uk_UA.UTF-8');
-        setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
-        $isoCodes = new \Sokil\IsoCodes;
-        $countries = $isoCodes->getCountries();
-        
+
         $this->assertEquals(
             'Україна',
-            $countries->getByAlpha3('UKR')->getLocalName()
+            $country->getLocalName()
         );
     }
     
     public function testGetByNumericCode()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getCountries();
-        
+        $country = $countries->getByNumericCode('804');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Ukraine',
-            $countries->getByNumericCode('804')->getName()
+            $country->getName()
         );
-    }
-    
-    public function testGetLocalByNumericCode()
-    {
-        putenv('LANGUAGE=uk_UA.UTF-8');
-        putenv('LC_ALL=uk_UA.UTF-8');
-        setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
-        $isoCodes = new \Sokil\IsoCodes;
-        $countries = $isoCodes->getCountries();
-        
+
         $this->assertEquals(
             'Україна',
-            $countries->getByNumericCode('804')->getLocalName()
+            $country->getLocalName()
         );
     }
 }

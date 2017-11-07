@@ -2,27 +2,65 @@
 
 namespace Sokil\IsoCodes\Databases;
 
+use Sokil\IsoCodes\IsoCodesFactory;
+use Sokil\IsoCodes\Database\HistoricCountries\Country;
+
 class HistoricCountriesTest extends \PHPUnit_Framework_TestCase
-{        
-    public function testEntryClass()
+{
+    public function testIterator()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getHistoricCountries();
-        
-        $this->assertInstanceOf(
-            '\Sokil\IsoCodes\Database\HistoricCountries\Country',
-            $countries->getByAlpha4('ZRCD')
-        );
+
+        foreach ($countries as $country) {
+            $this->assertInstanceOf(
+                Country::class,
+                $country
+            );
+        }
     }
-    
+
     public function testGetByAlpha4()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getHistoricCountries();
+        $country = $countries->getByAlpha4('ZRCD');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
         
         $this->assertEquals(
             'Zaire, Republic of',
-            $countries->getByAlpha4('ZRCD')->getName()
+            $country->getName()
+        );
+
+        $this->assertEquals(
+            'ZRCD',
+            $country->getAlpha4()
+        );
+
+        $this->assertEquals(
+            'ZAR',
+            $country->getAlpha3()
+        );
+
+        $this->assertEquals(
+            'ZR',
+            $country->getAlpha2()
+        );
+
+        $this->assertEquals(
+            '1997-07-14',
+            $country->getWithdrawalDate()
+        );
+
+        $this->assertSame(
+            180,
+            $country->getNumericCode()
         );
     }
     
@@ -32,23 +70,37 @@ class HistoricCountriesTest extends \PHPUnit_Framework_TestCase
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
         
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getHistoricCountries();
-        
+        $country = $countries->getByAlpha4('ZRCD');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Республіка Заїр',
-            $countries->getByAlpha4('ZRCD')->getLocalName()
+            $country->getLocalName()
         );
     }
     
     public function testGetByAlpha3()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getHistoricCountries();
-        
+        $country = $countries->getByAlpha3('ZAR');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Zaire, Republic of',
-            $countries->getByAlpha3('ZAR')->getName()
+            $country->getName()
         );
     }
     
@@ -58,23 +110,37 @@ class HistoricCountriesTest extends \PHPUnit_Framework_TestCase
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
         
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getHistoricCountries();
-        
+        $country = $countries->getByAlpha3('ZAR');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Республіка Заїр',
-            $countries->getByAlpha3('ZAR')->getLocalName()
+            $country->getLocalName()
         );
     }
     
     public function testGetByNumericCode()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getHistoricCountries();
-        
+        $country = $countries->getByNumericCode(180);
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Zaire, Republic of',
-            $countries->getByNumericCode(180)->getName()
+            $country->getName()
         );
     }
     
@@ -84,12 +150,19 @@ class HistoricCountriesTest extends \PHPUnit_Framework_TestCase
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
         
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $countries = $isoCodes->getHistoricCountries();
-        
+        $country = $countries->getByNumericCode(180);
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
         $this->assertEquals(
             'Республіка Заїр',
-            $countries->getByNumericCode(180)->getLocalName()
+            $country->getLocalName()
         );
     }
 }

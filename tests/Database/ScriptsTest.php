@@ -2,68 +2,78 @@
 
 namespace Sokil\IsoCodes\Databases;
 
+use Sokil\IsoCodes\IsoCodesFactory;
+use Sokil\IsoCodes\Database\Scripts\Script;
+
 class ScriptsTest extends \PHPUnit_Framework_TestCase
-{        
-    public function testEntryClass()
+{
+    public function testIterator()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $scripts = $isoCodes->getScripts();
-        
-        $this->assertInstanceOf(
-            '\Sokil\IsoCodes\Database\Scripts\Script',
-            $scripts->getByAlpha4('Aghb')
-        );
+
+        foreach ($scripts as $script) {
+            $this->assertInstanceOf(
+                Script::class,
+                $script
+            );
+        }
     }
-    
+
     public function testGetByAlpha4()
     {
-        $isoCodes = new \Sokil\IsoCodes;
+        $isoCodes = new IsoCodesFactory();
+
         $scripts = $isoCodes->getScripts();
-        
+        $script = $scripts->getByAlpha4('Aghb');
+
+        $this->assertInstanceOf(
+            Script::class,
+            $script
+        );
+
         $this->assertEquals(
             'Caucasian Albanian',
-            $scripts->getByAlpha4('Aghb')->getName()
+            $script->getName()
         );
-    }
-    
-    public function testGetLocalByAlpha4()
-    {
-        putenv('LANGUAGE=uk_UA.UTF-8');
-        putenv('LC_ALL=uk_UA.UTF-8');
-        setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
-        $isoCodes = new \Sokil\IsoCodes();
-        $scripts = $isoCodes->getScripts();
-        
+
         $this->assertEquals(
             'кавказька албанська',
-            $scripts->getByAlpha4('Aghb')->getLocalName()
+            $script->getLocalName()
+        );
+
+        $this->assertSame(
+            'Aghb',
+            $script->getAlpha4()
+        );
+
+        $this->assertSame(
+            239,
+            $script->getNumericCode()
         );
     }
         
     public function testGetByNumericCode()
     {
-        $isoCodes = new \Sokil\IsoCodes();
+        $isoCodes = new IsoCodesFactory();
+
         $scripts = $isoCodes->getScripts();
-        
+        $script = $scripts->getByNumericCode('239');
+
+        $this->assertInstanceOf(
+            Script::class,
+            $script
+        );
+
         $this->assertEquals(
             'Caucasian Albanian',
-            $scripts->getByNumericCode('239')->getName()
+            $script->getName()
         );
-    }
-    
-    public function testGetLocalByAlpha3()
-    {
-        putenv('LANGUAGE=uk_UA.UTF-8');
-        putenv('LC_ALL=uk_UA.UTF-8');
-        setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
-        $isoCodes = new \Sokil\IsoCodes;
-        $scripts = $isoCodes->getScripts();
-        
+
         $this->assertEquals(
             'кавказька албанська',
-            $scripts->getByNumericCode('239')->getLocalName()
+            $script->getLocalName()
         );
     }
 }

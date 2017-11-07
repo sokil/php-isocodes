@@ -32,12 +32,12 @@ class Country
     /**
      * @var string
      */
-    public $numericCode;
+    private $withdrawalDate;
 
     /**
-     * @var string
+     * @var int|null
      */
-    private $withdrawalDate;
+    public $numericCode;
 
     /**
      * Country constructor.
@@ -46,8 +46,8 @@ class Country
      * @param string $alpha4
      * @param string $alpha3
      * @param string $alpha2
-     * @param string|null $numericCode
      * @param string $withdrawalDate
+     * @param int|null $numericCode
      */
     public function __construct(
         $name,
@@ -55,16 +55,16 @@ class Country
         $alpha4,
         $alpha3,
         $alpha2,
-        $numericCode,
-        $withdrawalDate
+        $withdrawalDate,
+        $numericCode = null
     ) {
         $this->name = $name;
         $this->localName = $localName;
         $this->alpha4 = $alpha4;
         $this->alpha3 = $alpha3;
         $this->alpha2 = $alpha2;
-        $this->numericCode = $numericCode;
         $this->withdrawalDate = $withdrawalDate;
+        $this->numericCode = $numericCode;
     }
 
     /**
@@ -108,18 +108,18 @@ class Country
     }
 
     /**
-     * @return string|null
-     */
-    public function getNumericCode()
-    {
-        return $this->numericCode;
-    }
-
-    /**
      * @return string
      */
     public function getWithdrawalDate()
     {
         return $this->withdrawalDate;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getNumericCode()
+    {
+        return $this->numericCode;
     }
 }

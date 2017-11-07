@@ -40,8 +40,8 @@ class Country
      * @param string $localName
      * @param string $alpha2
      * @param string $alpha3
-     * @param string $numericCode
-     * @param string $officialName
+     * @param int $numericCode
+     * @param string|null $officialName
      */
     public function __construct(
         $name,
@@ -49,7 +49,7 @@ class Country
         $alpha2,
         $alpha3,
         $numericCode,
-        $officialName
+        $officialName = null
     ) {
         $this->name = $name;
         $this->localName = $localName;
@@ -76,7 +76,7 @@ class Country
     }
 
     /**
-     * @return string
+     * @return int
      */
     public function getNumericCode()
     {
@@ -94,13 +94,16 @@ class Country
     /**
      * @return string
      */
-    public function getOfficialName()
-    {
-        return $this->officialName;
-    }
-    
     public function getLocalName()
     {
         return $this->localName;
+    }
+
+    /**
+     * @return string|null
+     */
+    public function getOfficialName()
+    {
+        return $this->officialName;
     }
 }

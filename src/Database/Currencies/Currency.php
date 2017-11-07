@@ -10,7 +10,7 @@ class Currency
     private $letterCode;
 
     /**
-     * @var string
+     * @var int
      */
     private $numericCode;
 
@@ -28,7 +28,7 @@ class Currency
      * @param string $name
      * @param string $localName
      * @param string $letterCode
-     * @param string $numericCode
+     * @param int $numericCode
      */
     public function __construct(
         $name,
@@ -67,7 +67,7 @@ class Currency
     }
 
     /**
-     * @return string
+     * @return int
      */
     public function getNumericCode()
     {
