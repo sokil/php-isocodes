@@ -25,12 +25,8 @@ Installation
 ------------
 
 You can install library through Composer:
-```json
-{
-    "require": {
-        "sokil/php-isocodes": "dev-master"
-    }
-}
+```
+composer require sokil/php-isocodes
 ```
 
 Usage
