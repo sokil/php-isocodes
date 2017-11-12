@@ -14,7 +14,9 @@ php:
 
 matrix:
   allow_failures:
-    - php: nightly
+    - php: 
+      - nightly
+      - 7.2
 
 before_script:
   - composer install --no-interaction
