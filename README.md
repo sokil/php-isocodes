@@ -4,6 +4,7 @@ PHP ISO Codes
 [![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes)
 [![Coverage Status](https://coveralls.io/repos/sokil/php-isocodes/badge.png)](https://coveralls.io/r/sokil/php-isocodes)
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes.svg)](https://packagist.org/packages/sokil/php-isocodes)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sokil/php-isocodes/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sokil/php-isocodes/?branch=master)
 
 This library used to get localized names of countries, currencies, languages and scripts.
 Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian's [iso-codes](http://pkg-isocodes.alioth.debian.org/).
@@ -24,12 +25,8 @@ Installation
 ------------
 
 You can install library through Composer:
-```json
-{
-    "require": {
-        "sokil/php-isocodes": "dev-master"
-    }
-}
+```
+composer require sokil/php-isocodes
 ```
 
 Usage
