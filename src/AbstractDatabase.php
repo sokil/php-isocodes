@@ -229,4 +229,3 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         return count($this->clusterIndex);
     }
 }
-

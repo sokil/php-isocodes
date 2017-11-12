@@ -57,7 +57,7 @@ class Scripts extends AbstractDatabase
      * @return null|Script
      */
     public function getByNumericCode($code)
-    {        
+    {
         return $this->find('numeric', $code);
     }
 }
