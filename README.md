@@ -43,7 +43,7 @@ putenv('LC_ALL=uk_UA.UTF-8');
 setlocale(LC_ALL, 'uk_UA.UTF-8');
 
 // init database
-$isoCodes = new \Sokil\IsoCodes;
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 
 // get languages database
 $languages = $isoCodes->getLanguages();
@@ -77,7 +77,7 @@ Countries
 
 Get localized name of country by it's alpha2 code:
 ```php
-$isoCodes = new \Sokil\IsoCodes;
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 $isoCodes->getCountries()->getByAlpha2('UA')->getLocalName();
 ```
 
@@ -89,13 +89,13 @@ $isoCodes->getCountries()->getByAlpha2('UKR')->getName();
 
 Get localized name of country by it's numeric code:
 ```php
-$isoCodes = new \Sokil\IsoCodes;
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 $isoCodes->getCountries()->getByAlpha2('804')->getName();
 ```
 
 Get  localised list of countries
 ```php
-$isoCodes = new \Sokil\IsoCodes;
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 foreach($isoCodes->getCountries() as $country) {
   echo $country->getLocalName();
 }
