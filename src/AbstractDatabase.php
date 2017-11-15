@@ -143,8 +143,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
                     $entry = $this->arrayToEntry($entryArray);
                     foreach ($indexedFields as $indexName => $indexDefinition) {
                         if (is_array($indexDefinition)) {
-                            $reference = &$this->index[$indexName];
                             // compound index
+                            $reference = &$this->index[$indexName];
                             foreach ($indexDefinition as $indexDefinitionPart) {
                                 // limited length of field
                                 if (is_array($indexDefinitionPart)) {
