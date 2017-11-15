@@ -38,8 +38,19 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      * ISO Standard Number
      *
      * @return string
+     *
+     * @throws \Exception
      */
-    abstract public static function getISONumber();
+    public static function getISONumber()
+    {
+        throw new \Exception(
+            sprintf(
+                'Method "%s" must be inmpemented in class %s',
+                __METHOD__,
+                get_class()
+            )
+        );
+    }
 
     /**
      * @param array $entry
