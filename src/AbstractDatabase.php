@@ -64,6 +64,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      * List of entry fields to be indexed and searched.
      * May be override in child classes to search by indexed fields.
      *
+     * First index in array used as cluster index.
+     *
      * @return array
      */
     protected function getIndexDefinition()
@@ -181,6 +183,9 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
+     * Builds array of entries.
+     * Creates many entry objects in loop, use iterator instead.
+     *
      * @return object[]
      */
     public function toArray()
