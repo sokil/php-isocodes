@@ -139,7 +139,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             // build index for database
             if (!empty($indexedFields)) {
                 // init all defined indexes
-                foreach ($this->clusterIndex as &$entry) {
+                foreach ($this->clusterIndex as $entryArray) {
+                    $entry = $this->arrayToEntry($entryArray);
                     foreach ($indexedFields as $indexName => $indexDefinition) {
                         if (is_array($indexDefinition)) {
                             $reference = &$this->index[$indexName];
@@ -148,12 +149,12 @@ abstract class AbstractDatabase implements \Iterator, \Countable
                                 // limited length of field
                                 if (is_array($indexDefinitionPart)) {
                                     $indexDefinitionPartValue = substr(
-                                        $entry[$indexDefinitionPart[0]],
+                                        $entryArray[$indexDefinitionPart[0]],
                                         0,
                                         $indexDefinitionPart[1]
                                     );
                                 } else {
-                                    $indexDefinitionPartValue = $entry[$indexDefinitionPart];
+                                    $indexDefinitionPartValue = $entryArray[$indexDefinitionPart];
                                 }
                                 if (!isset($reference[$indexDefinitionPartValue])) {
                                     $reference[$indexDefinitionPartValue] = [];
@@ -161,16 +162,16 @@ abstract class AbstractDatabase implements \Iterator, \Countable
                                 $reference = &$reference[$indexDefinitionPartValue];
                             }
 
-                            $reference = $this->arrayToEntry($entry);
+                            $reference = $entry;
                         } else {
                             // single index
                             $indexName = $indexDefinition;
                             // skip empty field
-                            if (empty($entry[$indexDefinition])) {
+                            if (empty($entryArray[$indexDefinition])) {
                                 continue;
                             }
                             // add to index
-                            $this->index[$indexName][$entry[$indexDefinition]] = $this->arrayToEntry($entry);
+                            $this->index[$indexName][$entryArray[$indexDefinition]] = $entry;
                         }
                     }
                 }
