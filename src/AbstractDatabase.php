@@ -43,6 +43,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     public static function getISONumber()
     {
+        // abstract static methods not allowed on PHP < 7.0
         throw new \Exception(
             sprintf(
                 'Method "%s" must be inmpemented in class %s',
@@ -91,14 +92,16 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     private function loadDatabase($databaseFile)
     {
+        $isoNumber = $this->getISONumber();
+
         // add gettext domain
         bindtextdomain(
-            $this->getISONumber(),
+            $isoNumber,
             $this->getLocalMessagesPath()
         );
 
         bind_textdomain_codeset(
-            $this->getISONumber(),
+            $isoNumber,
             'UTF-8'
         );
 
@@ -109,7 +112,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         );
 
         // build index from database
-        $entryList = $json[$this->getISONumber()];
+        $entryList = $json[$isoNumber];
 
         // index database
         $indexedFields = $this->getIndexDefinition();
