@@ -2,6 +2,8 @@
 
 namespace Sokil\IsoCodes\Database\Currencies;
 
+use Sokil\IsoCodes\Database\Currencies;
+
 class Currency
 {
     /**
@@ -26,18 +28,15 @@ class Currency
 
     /**
      * @param string $name
-     * @param string $localName
      * @param string $letterCode
      * @param int $numericCode
      */
     public function __construct(
         $name,
-        $localName,
         $letterCode,
         $numericCode
     ) {
         $this->name = $name;
-        $this->localName = $localName;
         $this->letterCode = $letterCode;
         $this->numericCode = $numericCode;
     }
@@ -55,6 +54,13 @@ class Currency
      */
     public function getLocalName()
     {
+        if ($this->localName === null) {
+            $this->localName = dgettext(
+                Currencies::getISONumber(),
+                $this->name
+            );
+        }
+
         return $this->localName;
     }
 

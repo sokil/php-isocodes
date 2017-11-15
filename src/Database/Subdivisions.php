@@ -7,7 +7,7 @@ use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
 class Subdivisions extends AbstractDatabase
 {
-    protected function getISONumber()
+    public static function getISONumber()
     {
         return '3166-2';
     }
@@ -21,7 +21,6 @@ class Subdivisions extends AbstractDatabase
     {
         return new Subdivision(
             $entry['name'],
-            $this->getLocal($entry['name']),
             $entry['code'],
             $entry['type'],
             !empty($entry['parent']) ? $entry['parent'] : null

@@ -2,6 +2,8 @@
 
 namespace Sokil\IsoCodes\Database\Countries;
 
+use Sokil\IsoCodes\Database\Countries;
+
 class Country
 {
     /**
@@ -37,7 +39,6 @@ class Country
     /**
      * Country constructor.
      * @param string $name
-     * @param string $localName
      * @param string $alpha2
      * @param string $alpha3
      * @param int $numericCode
@@ -45,14 +46,12 @@ class Country
      */
     public function __construct(
         $name,
-        $localName,
         $alpha2,
         $alpha3,
         $numericCode,
         $officialName = null
     ) {
         $this->name = $name;
-        $this->localName = $localName;
         $this->alpha2 = $alpha2;
         $this->alpha3 = $alpha3;
         $this->numericCode = $numericCode;
@@ -96,6 +95,13 @@ class Country
      */
     public function getLocalName()
     {
+        if ($this->localName === null) {
+            $this->localName = dgettext(
+                Countries::getISONumber(),
+                $this->name
+            );
+        }
+
         return $this->localName;
     }
 

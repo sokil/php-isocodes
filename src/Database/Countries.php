@@ -7,7 +7,7 @@ use Sokil\IsoCodes\Database\Countries\Country;
 
 class Countries extends AbstractDatabase
 {
-    protected function getISONumber()
+    public static function getISONumber()
     {
         return '3166-1';
     }
@@ -21,7 +21,6 @@ class Countries extends AbstractDatabase
     {
         return new Country(
             $entry['name'],
-            $this->getLocal($entry['name']),
             $entry['alpha_2'],
             $entry['alpha_3'],
             (int)$entry['numeric'],

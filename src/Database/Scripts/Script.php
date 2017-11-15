@@ -2,6 +2,8 @@
 
 namespace Sokil\IsoCodes\Database\Scripts;
 
+use Sokil\IsoCodes\Database\Scripts;
+
 class Script
 {
     /**
@@ -27,18 +29,15 @@ class Script
     /**
      * Script constructor.
      * @param string $name
-     * @param string $localName
      * @param string $alpha4
      * @param int $numericCode
      */
     public function __construct(
         $name,
-        $localName,
         $alpha4,
         $numericCode
     ) {
         $this->name = $name;
-        $this->localName = $localName;
         $this->alpha4 = $alpha4;
         $this->numericCode = $numericCode;
     }
@@ -57,6 +56,13 @@ class Script
      */
     public function getLocalName()
     {
+        if ($this->localName === null) {
+            $this->localName = dgettext(
+                Scripts::getISONumber(),
+                $this->name
+            );
+        }
+
         return $this->localName;
     }
 

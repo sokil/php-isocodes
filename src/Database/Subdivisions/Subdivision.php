@@ -2,6 +2,8 @@
 
 namespace Sokil\IsoCodes\Database\Subdivisions;
 
+use Sokil\IsoCodes\Database\Subdivisions;
+
 class Subdivision
 {
     /**
@@ -32,20 +34,17 @@ class Subdivision
     /**
      * Subdivision constructor.
      * @param string $name
-     * @param string $localName
      * @param string $code
      * @param string $type
      * @param string|null $parent
      */
     public function __construct(
         $name,
-        $localName,
         $code,
         $type,
         $parent = null
     ) {
         $this->name = $name;
-        $this->localName = $localName;
         $this->code = $code;
         $this->type = $type;
         $this->parent = $parent;
@@ -64,6 +63,13 @@ class Subdivision
      */
     public function getLocalName()
     {
+        if ($this->localName === null) {
+            $this->localName = dgettext(
+                Subdivisions::getISONumber(),
+                $this->name
+            );
+        }
+
         return $this->localName;
     }
 

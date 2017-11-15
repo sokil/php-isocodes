@@ -2,6 +2,8 @@
 
 namespace Sokil\IsoCodes\Database\Languages;
 
+use Sokil\IsoCodes\Database\Languages;
+
 class Language
 {
     /**
@@ -40,9 +42,7 @@ class Language
     private $alpha2;
 
     /**
-     * Language constructor.
      * @param string $name
-     * @param string $localName
      * @param string $alpha3
      * @param string $scope
      * @param string $type
@@ -51,7 +51,6 @@ class Language
      */
     public function __construct(
         $name,
-        $localName,
         $alpha3,
         $scope,
         $type,
@@ -59,7 +58,6 @@ class Language
         $alpha2 = null
     ) {
         $this->name = $name;
-        $this->localName = $localName;
         $this->alpha3 = $alpha3;
         $this->scope = $scope;
         $this->type = $type;
@@ -80,6 +78,14 @@ class Language
      */
     public function getLocalName()
     {
+        if ($this->localName === null) {
+            $this->localName = dgettext(
+                Languages::getISONumber(),
+                $this->name
+            );
+
+        }
+
         return $this->localName;
     }
 

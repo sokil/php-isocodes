@@ -10,7 +10,7 @@ class Scripts extends AbstractDatabase
     /**
      * @return string
      */
-    protected function getISONumber()
+    public static function getISONumber()
     {
         return '15924';
     }
@@ -24,7 +24,6 @@ class Scripts extends AbstractDatabase
     {
         return new Script(
             $entry['name'],
-            $this->getLocal($entry['name']),
             $entry['alpha_4'],
             (int)$entry['numeric']
         );

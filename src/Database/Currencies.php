@@ -10,7 +10,7 @@ class Currencies extends AbstractDatabase
     /**
      * @return string
      */
-    protected function getISONumber()
+    public static function getISONumber()
     {
         return '4217';
     }
@@ -24,7 +24,6 @@ class Currencies extends AbstractDatabase
     {
         return new Currency(
             $entry['name'],
-            $this->getLocal($entry['name']),
             $entry['alpha_3'],
             (int)$entry['numeric']
         );

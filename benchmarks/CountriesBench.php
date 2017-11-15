@@ -7,8 +7,7 @@ use Sokil\IsoCodes\IsoCodesFactory;
 class CountriesBench
 {
     /**
-     * @Warmup(1)
-     * @Revs(1000)
+     * @Revs(500)
      * @Iterations(2)
      */
     public function benchIterator()

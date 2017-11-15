@@ -10,7 +10,7 @@ class HistoricCountries extends AbstractDatabase
     /**
      * @return string
      */
-    protected function getISONumber()
+    public static function getISONumber()
     {
         return '3166-3';
     }
@@ -24,7 +24,6 @@ class HistoricCountries extends AbstractDatabase
     {
         return new Country(
             $entry['name'],
-            $this->getLocal($entry['name']),
             $entry['alpha_4'],
             $entry['alpha_3'],
             $entry['alpha_2'],

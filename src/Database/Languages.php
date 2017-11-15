@@ -10,7 +10,7 @@ class Languages extends AbstractDatabase
     /**
      * @return string
      */
-    protected function getISONumber()
+    public static function getISONumber()
     {
         return '639-3';
     }
@@ -24,7 +24,6 @@ class Languages extends AbstractDatabase
     {
         return new Language(
             $entry['name'],
-            $this->getLocal($entry['name']),
             $entry['alpha_3'],
             $entry['scope'],
             $entry['type'],
