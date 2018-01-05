@@ -1,10 +1,13 @@
-# Esperanto translations of ISO-3166 element names
-# Copyright (C) 2001,2003,2004 Free Software Foundation, Inc.
+# Translation of ISO 3166-3 to Esperanto
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # D. Dale Gulledge <dsplat@rochester.rr.com> (translations from drakfw), 2001.
 # Alastair McKInstry <mckinstry@computer.org>, 2001.
 # Edmund GRIMLEY EVANS <edmundo@rano.org>, 2004-2015.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
@@ -23,17 +26,14 @@ msgstr ""
 msgid "French Afars and Issas"
 msgstr "Francaj Afaroj kaj Isaoj"
 
-# AN
 #. Name for ANHH
 msgid "Netherlands Antilles"
 msgstr "Nederlandaj Antiloj"
 
-# IO
 #. Name for BQAQ
 msgid "British Antarctic Territory"
 msgstr "Brita Antarkta Teritorio"
 
-# official_name for VNM
 #. Name for BUMM
 msgid "Burma, Socialist Republic of the Union of"
 msgstr "Birmo, Socialisma Respubliko Unio de"
@@ -46,7 +46,6 @@ msgstr "Belorusa Soveta Socialisma Respubliko"
 msgid "Czechoslovakia, Czechoslovak Socialist Republic"
 msgstr "Ĉeĥoslovakio, Ĉeĥoslovaka Socialisma Respubliko"
 
-# official_name for COG
 #. Name for CSXX
 msgid "Serbia and Montenegro"
 msgstr "Serbio kaj Montenegro"
@@ -55,7 +54,6 @@ msgstr "Serbio kaj Montenegro"
 msgid "Canton and Enderbury Islands"
 msgstr "Insuloj Canton kaj Enderbury"
 
-# name for LAO
 #. Name for DDDE
 msgid "German Democratic Republic"
 msgstr "Germana Demokratia Respubliko"
@@ -64,7 +62,6 @@ msgstr "Germana Demokratia Respubliko"
 msgid "Dahomey"
 msgstr "Dahomeo"
 
-# TF
 #. Name for FQHH
 msgid "French Southern and Antarctic Territories"
 msgstr "Francaj Sudaj kaj Antarktaj Teritorioj"
@@ -73,22 +70,18 @@ msgstr "Francaj Sudaj kaj Antarktaj Teritorioj"
 msgid "France, Metropolitan"
 msgstr "Francio, Metropola"
 
-# name for TCA
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
 msgstr "Insuloj Gilbert kaj Ellice"
 
-# KR
 #. Name for HVBF
 msgid "Upper Volta, Republic of"
 msgstr "Voltalando, Respubliko"
 
-# CK
 #. Name for JTUM
 msgid "Johnston Island"
 msgstr "Insulo de Johnston"
 
-# KY
 #. Name for MIUM
 msgid "Midway Islands"
 msgstr "Midvejinsuloj"
@@ -133,27 +126,22 @@ msgstr "Sovetunio, Unio de Sovetaj Socialismaj Respublikoj"
 msgid "East Timor"
 msgstr "Orienta Timoro"
 
-# KP
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
 msgstr "Vjetnamio, Demokratia Respubliko"
 
-# FO
 #. Name for WKUM
 msgid "Wake Island"
 msgstr "Vejkinsulo"
 
-# KP
 #. Name for YDYE
 msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Jemeno, Demokratia, Popola Demokratia Respublko"
 
-# KR
 #. Name for YUCS
 msgid "Yugoslavia, Socialist Federal Republic of"
 msgstr "Jugoslavio, Socialisma Federacia Respubliko"
 
-# KR
 #. Name for ZRCD
 msgid "Zaire, Republic of"
 msgstr "Zairio, Respubliko"

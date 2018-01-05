@@ -9,17 +9,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2009-05-05 15:32+0200\n"
-"Last-Translator: Muhsin Omar <mrfroasty@gmail.com>\n"
-"Language-Team: Swahili <translation-team-sw@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2018-01-01 15:10+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Swahili <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/sw/>\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -67,7 +69,7 @@ msgstr "Minispaa ya Andorra"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Falme za Kiarabu"
 
 #. Name for ARG
 msgid "Argentina"
@@ -131,7 +133,7 @@ msgstr "Jamhuri ya Burundi"
 
 #. Name for BEL
 msgid "Belgium"
-msgstr "Belgium"
+msgstr "Ubelgiji"
 
 #. Official name for BEL
 msgid "Kingdom of Belgium"
@@ -267,7 +269,7 @@ msgstr "Jamhuri ya Afrika ya Kati"
 
 #. Name for CAN
 msgid "Canada"
-msgstr "Canada"
+msgstr "Kanada"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
@@ -275,7 +277,7 @@ msgstr "Kisiwa cha Cocos (Keeling)"
 
 #. Name for CHE
 msgid "Switzerland"
-msgstr ""
+msgstr "Uswisi"
 
 #. Official name for CHE
 msgid "Swiss Confederation"
@@ -307,7 +309,7 @@ msgstr "Jamhuri ya Ivorycoast"
 
 #. Name for CMR
 msgid "Cameroon"
-msgstr "Cameroon"
+msgstr "Kamerun"
 
 #. Official name for CMR
 msgid "Republic of Cameroon"
@@ -323,17 +325,16 @@ msgid "Congo"
 msgstr "Congo"
 
 #. Official name for COG
-#, fuzzy
 msgid "Republic of the Congo"
-msgstr "Congo"
+msgstr "Jamhuri ya Kongo"
 
 #. Name for COK
 msgid "Cook Islands"
-msgstr ""
+msgstr "Visiwa vya Cook"
 
 #. Name for COL
 msgid "Colombia"
-msgstr "Colombia"
+msgstr "Kolombia"
 
 #. Official name for COL
 #, fuzzy
@@ -342,7 +343,7 @@ msgstr "Colombia"
 
 #. Name for COM
 msgid "Comoros"
-msgstr "Comoros"
+msgstr "Komori"
 
 #. Official name for COM
 #, fuzzy

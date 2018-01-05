@@ -1,10 +1,10 @@
-# Translation of ISO 639-3 (language names) to Swedish
+# Translation of ISO 639-3 to Swedish
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
 #
 # This file is distributed under the same license as the iso-codes package.
-# Copyright ©
-# Christian Rose <menthos@menthos.com>, 2004.
-# Josef Andersson <josef.andersson@fripost.org>, 2017.
 #
+# Notes:
 # The current version of this translation was done with
 # the following logic
 #
@@ -30,6 +30,9 @@
 # But since this is a list, rather than language names used inside
 # sentences, these translated language names use capital initial letters.
 #
+# Copyright ©
+# Christian Rose <menthos@menthos.com>, 2004.
+# Josef Andersson <josef.andersson@fripost.org>, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"

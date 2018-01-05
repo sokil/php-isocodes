@@ -1,25 +1,28 @@
-# Translation of ISO 4217 (currency names) to Estonian
-# Copyright © various authors, see list below.
+# Translation of ISO 4217 to Estonian
+# Codes for the representation of currencies
+#
 # This file is distributed under the same license as the iso-codes package.
 #
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Ain Vagula <ain@kmprojekt.ee>, 2007.
 # Ain Vagula <avagula@gmail.com>, 2007, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2008-02-20 23:43+0200\n"
-"Last-Translator: Ain Vagula <ain@kmprojekt.ee>\n"
-"Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
+"PO-Revision-Date: 2017-12-31 08:57+0000\n"
+"Last-Translator: Kristjan Räts <kristjanrats@gmail.com>\n"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/iso-"
+"codes/iso-4217/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -27,25 +30,23 @@ msgstr "AÜE dirham"
 
 #. Name for AFN
 msgid "Afghani"
-msgstr "Afghani"
+msgstr "afgaani"
 
 #. Name for ALL
 msgid "Lek"
-msgstr "Lek"
+msgstr "lekk"
 
 #. Name for AMD
 msgid "Armenian Dram"
 msgstr "Armeenia dram"
 
 #. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
 msgid "Netherlands Antillean Guilder"
 msgstr "Hollandi Antillide kulden"
 
 #. Name for AOA
 msgid "Kwanza"
-msgstr "Kwanza"
+msgstr "kwanza"
 
 #. Name for ARS
 msgid "Argentine Peso"
@@ -56,18 +57,14 @@ msgid "Australian Dollar"
 msgstr "Austraalia dollar"
 
 #. Name for AWG
-#, fuzzy
-#| msgid "Aruban Guilder"
 msgid "Aruban Florin"
-msgstr "Aruba kulden"
+msgstr "Aruba floriin"
 
 #. Name for AZN
 msgid "Azerbaijanian Manat"
 msgstr "Azerbaidžaani manat"
 
 #. Name for BAM
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Convertible Mark"
 msgstr "Konverteeritav mark"
 
@@ -77,7 +74,7 @@ msgstr "Barbadose dollar"
 
 #. Name for BDT
 msgid "Taka"
-msgstr "Taka"
+msgstr "taka"
 
 #. Name for BGN
 msgid "Bulgarian Lev"
@@ -101,7 +98,7 @@ msgstr "Brunei dollar"
 
 #. Name for BOB
 msgid "Boliviano"
-msgstr "Boliviano"
+msgstr "boliviano"
 
 #. Name for BRL
 msgid "Brazilian Real"
@@ -113,15 +110,13 @@ msgstr "Bahama dollar"
 
 #. Name for BTN
 msgid "Ngultrum"
-msgstr "Ngultrum"
+msgstr "ngultrum"
 
 #. Name for BWP
 msgid "Pula"
-msgstr "Pula"
+msgstr "pula"
 
 #. Name for BYN
-#, fuzzy
-#| msgid "Belarussian Ruble"
 msgid "Belarusian Ruble"
 msgstr "Valgevene rubla"
 
@@ -134,9 +129,8 @@ msgid "Canadian Dollar"
 msgstr "Kanada dollar"
 
 #. Name for CDF
-#, fuzzy
 msgid "Congolese Franc"
-msgstr "Komoori frank"
+msgstr "Kongo frank"
 
 #. Name for CHF
 msgid "Swiss Franc"
@@ -159,20 +153,16 @@ msgid "Costa Rican Colon"
 msgstr "Costa Rica kolon"
 
 #. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Peso Convertible"
-msgstr "Konverteeritav mark"
+msgstr "Konverteeritav peeso"
 
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Kuuba peeso"
 
 #. Name for CVE
-#, fuzzy
-#| msgid "Cape Verde Escudo"
 msgid "Cabo Verde Escudo"
-msgstr "Roheneemesaarte eskuudo"
+msgstr "Cabo Verde eskuudo"
 
 #. Name for CZK
 msgid "Czech Koruna"
@@ -200,7 +190,7 @@ msgstr "Egiptuse nael"
 
 #. Name for ERN
 msgid "Nakfa"
-msgstr "Nakfa"
+msgstr "nakfa"
 
 #. Name for ETB
 msgid "Ethiopian Birr"
@@ -208,7 +198,7 @@ msgstr "Etioopia birr"
 
 #. Name for EUR
 msgid "Euro"
-msgstr "Euro"
+msgstr "euro"
 
 #. Name for FJD
 msgid "Fiji Dollar"
@@ -224,7 +214,7 @@ msgstr "Suurbritannia naelsterling"
 
 #. Name for GEL
 msgid "Lari"
-msgstr "Lari"
+msgstr "lari"
 
 #. Name for GHS
 msgid "Ghana Cedi"
@@ -236,7 +226,7 @@ msgstr "Gibraltari nael"
 
 #. Name for GMD
 msgid "Dalasi"
-msgstr "Dalasi"
+msgstr "dalasi"
 
 #. Name for GNF
 msgid "Guinea Franc"
@@ -244,7 +234,7 @@ msgstr "Guinea frank"
 
 #. Name for GTQ
 msgid "Quetzal"
-msgstr "Quetzal"
+msgstr "quetzal"
 
 #. Name for GYD
 msgid "Guyana Dollar"
@@ -260,15 +250,15 @@ msgstr "Lempira"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr ""
+msgstr "kuna"
 
 #. Name for HTG
 msgid "Gourde"
-msgstr "Gourde"
+msgstr "gourde"
 
 #. Name for HUF
 msgid "Forint"
-msgstr "Forint"
+msgstr "forint"
 
 #. Name for IDR
 msgid "Rupiah"
@@ -312,11 +302,11 @@ msgstr "Keenia šilling"
 
 #. Name for KGS
 msgid "Som"
-msgstr "Som"
+msgstr "som"
 
 #. Name for KHR
 msgid "Riel"
-msgstr "Riel"
+msgstr "riel"
 
 #. Name for KMF
 msgid "Comoro Franc"
@@ -328,7 +318,7 @@ msgstr "Põhja-Korea won"
 
 #. Name for KRW
 msgid "Won"
-msgstr "Won"
+msgstr "vonn"
 
 #. Name for KWD
 msgid "Kuwaiti Dinar"
@@ -340,11 +330,11 @@ msgstr "Kaimanisaarte dollar"
 
 #. Name for KZT
 msgid "Tenge"
-msgstr "Tenge"
+msgstr "tenge"
 
 #. Name for LAK
 msgid "Kip"
-msgstr "Kip"
+msgstr "kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -360,7 +350,7 @@ msgstr "Libeeria dollar"
 
 #. Name for LSL
 msgid "Loti"
-msgstr "Loti"
+msgstr "loti"
 
 #. Name for LYD
 msgid "Libyan Dinar"
@@ -380,7 +370,7 @@ msgstr "Ariari"
 
 #. Name for MKD
 msgid "Denar"
-msgstr "Denar"
+msgstr "denaar"
 
 #. Name for MMK
 msgid "Kyat"
@@ -388,7 +378,7 @@ msgstr "Kiat"
 
 #. Name for MNT
 msgid "Tugrik"
-msgstr "Tugrik"
+msgstr "tugrik"
 
 #. Name for MOP
 msgid "Pataca"
@@ -396,7 +386,7 @@ msgstr "Pataka"
 
 #. Name for MRO
 msgid "Ouguiya"
-msgstr "Ouguiya"
+msgstr "ouguiya"
 
 #. Name for MUR
 msgid "Mauritius Rupee"
@@ -407,9 +397,8 @@ msgid "Rufiyaa"
 msgstr "Ruupia"
 
 #. Name for MWK
-#, fuzzy
 msgid "Malawi Kwacha"
-msgstr "Kwacha"
+msgstr "Malawi kvatša"
 
 #. Name for MXN
 msgid "Mexican Peso"
@@ -421,7 +410,7 @@ msgstr "Malaisia ringgit"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "Mosambiigi metikal"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -429,7 +418,7 @@ msgstr "Namibia dollar"
 
 #. Name for NGN
 msgid "Naira"
-msgstr "Naira"
+msgstr "naira"
 
 #. Name for NIO
 msgid "Cordoba Oro"
@@ -453,17 +442,15 @@ msgstr "Omaani riaal"
 
 #. Name for PAB
 msgid "Balboa"
-msgstr "Balboa"
+msgstr "balboa"
 
 #. Name for PEN
-#, fuzzy
-#| msgid "Som"
 msgid "Sol"
-msgstr "Som"
+msgstr "sol"
 
 #. Name for PGK
 msgid "Kina"
-msgstr "Kina"
+msgstr "kina"
 
 #. Name for PHP
 msgid "Philippine Peso"
@@ -479,7 +466,7 @@ msgstr "Zlott"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "Guarani"
+msgstr "guaranii"
 
 #. Name for QAR
 msgid "Qatari Rial"
@@ -487,7 +474,7 @@ msgstr "Katari riaal"
 
 #. Name for RON
 msgid "Romanian Leu"
-msgstr ""
+msgstr "Rumeenia leu"
 
 #. Name for RSD
 msgid "Serbian Dinar"
@@ -531,7 +518,7 @@ msgstr "Püha Helena nael"
 
 #. Name for SLL
 msgid "Leone"
-msgstr "Leone"
+msgstr "leone"
 
 #. Name for SOS
 msgid "Somali Shilling"
@@ -542,14 +529,12 @@ msgid "Surinam Dollar"
 msgstr "Surinami dollar"
 
 #. Name for SSP
-#, fuzzy
-#| msgid "Sudanese Pound"
 msgid "South Sudanese Pound"
-msgstr "Sudaani nael"
+msgstr "Lõuna-Sudaani nael"
 
 #. Name for STD
 msgid "Dobra"
-msgstr "Dobra"
+msgstr "dobra"
 
 #. Name for SVC
 msgid "El Salvador Colon"
@@ -561,35 +546,31 @@ msgstr "Süüria nael"
 
 #. Name for SZL
 msgid "Lilangeni"
-msgstr "Lilangeni"
+msgstr "lilangeni"
 
 #. Name for THB
 msgid "Baht"
-msgstr "Baht"
+msgstr "baat"
 
 #. Name for TJS
 msgid "Somoni"
-msgstr "Somoni"
+msgstr "somoni"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "Türkmenistani uus manat"
 
 #. Name for TND
 msgid "Tunisian Dinar"
 msgstr "Tuneesia dinaar"
 
 #. Name for TOP
-#, fuzzy
-#| msgid "Pa'anga"
 msgid "Pa’anga"
-msgstr "Pa'anga"
+msgstr "paʻanga"
 
 #. Name for TRY
-#, fuzzy
-#| msgid "New Turkish Lira"
 msgid "Turkish Lira"
-msgstr "Uus Türgi liir"
+msgstr "Türgi liir"
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
@@ -625,19 +606,19 @@ msgstr "Usbekistani sum"
 
 #. Name for VEF
 msgid "Bolívar"
-msgstr ""
+msgstr "boliivar"
 
 #. Name for VND
 msgid "Dong"
-msgstr "Dong"
+msgstr "dong"
 
 #. Name for VUV
 msgid "Vatu"
-msgstr "Vatu"
+msgstr "vatu"
 
 #. Name for WST
 msgid "Tala"
-msgstr "Tala"
+msgstr "tala"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
@@ -652,28 +633,20 @@ msgid "Gold"
 msgstr "Kuld"
 
 #. Name for XBA
-#, fuzzy
-#| msgid "European Composite Unit (EURCO)"
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
-msgstr "Euroopa koondühik (EURCO)"
+msgstr "Võlakirjaturu üksus Euroopa koondühik (EURCO)"
 
 #. Name for XBB
-#, fuzzy
-#| msgid "European Monetary Unit (E.M.U.-6)"
 msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
-msgstr "Euroopa rahaühik (E.M.U.-6)"
+msgstr "Võlakirjaturu üksus Euroopa rahaühik (E.M.U.-6)"
 
 #. Name for XBC
-#, fuzzy
-#| msgid "European Unit of Account 9 (E.U.A.-9)"
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr "Euroopa arveldusühik 9 (E.U.A.-9)"
+msgstr "Võlakirjaturu üksus Euroopa arveldusühik 9 (E.U.A.-9)"
 
 #. Name for XBD
-#, fuzzy
-#| msgid "European Unit of Account 17 (E.U.A.-17)"
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
-msgstr "Euroopa arveldusühik 17 (E.U.A.-17)"
+msgstr "Võlakirjaturu üksus Euroopa arveldusühik 17 (E.U.A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
@@ -681,7 +654,7 @@ msgstr "Ida-Kariibi dollar"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
-msgstr ""
+msgstr "SDR (IMFi arveldusühik)"
 
 #. Name for XOF
 msgid "CFA Franc BCEAO"
@@ -701,21 +674,19 @@ msgstr "Plaatina"
 
 #. Name for XSU
 msgid "Sucre"
-msgstr ""
+msgstr "sucre"
 
 #. Name for XTS
-#, fuzzy
-#| msgid "Code for testing purposes"
 msgid "Codes specifically reserved for testing purposes"
-msgstr "Kood testimiseks"
+msgstr "Spetsiaalselt testimiseks reserveeritud kood"
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr ""
+msgstr "ADB arveldusühik"
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr ""
+msgstr "Kood vääringuta tehingutele"
 
 #. Name for YER
 msgid "Yemeni Rial"
@@ -723,12 +694,11 @@ msgstr "Jeemeni riaal"
 
 #. Name for ZAR
 msgid "Rand"
-msgstr "Rand"
+msgstr "rand"
 
 #. Name for ZMW
-#, fuzzy
 msgid "Zambian Kwacha"
-msgstr "Kwacha"
+msgstr "Sambia kvatša"
 
 #. Name for ZWL
 msgid "Zimbabwe Dollar"

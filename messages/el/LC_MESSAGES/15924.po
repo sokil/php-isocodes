@@ -1,24 +1,26 @@
-# Translation of ISO 15924 (script names) to Greek
+# Translation of ISO 15924 to Greek, Modern (1453-)
+# Codes for the representation of names of scripts
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Tobias Quathamer <toddy@debian.org>, 2007.
-#     Translations taken from ICU SVN on 2007-09-09
+# Copyright ©
+# Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2007-09-09 16:07+0200\n"
-"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
-"Language-Team: Greek\n"
-"Language: \n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/iso-"
+"codes/iso-15924/el/>\n"
+"Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -38,7 +40,7 @@ msgstr ""
 
 #. Name for Arab
 msgid "Arabic"
-msgstr "Αραβικό"
+msgstr "Αραβικά"
 
 #. Name for Aran
 #, fuzzy
@@ -51,7 +53,7 @@ msgstr ""
 
 #. Name for Armn
 msgid "Armenian"
-msgstr "Αρμενικό"
+msgstr "Αρμενικά"
 
 #. Name for Avst
 msgid "Avestan"
@@ -75,7 +77,7 @@ msgstr ""
 
 #. Name for Beng
 msgid "Bengali"
-msgstr ""
+msgstr "Βεγγαλικά"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
@@ -131,7 +133,7 @@ msgstr ""
 
 #. Name for Copt
 msgid "Coptic"
-msgstr "Κοπτικό"
+msgstr "Κοπτικά"
 
 #. Name for Cprt
 msgid "Cypriot"
@@ -171,7 +173,7 @@ msgstr "Αιγυπτιακά Ιερογλυφικά"
 
 #. Name for Elba
 msgid "Elbasan"
-msgstr ""
+msgstr "Ελμπασάν"
 
 #. Name for Ethi
 #, fuzzy
@@ -192,7 +194,7 @@ msgstr ""
 
 #. Name for Goth
 msgid "Gothic"
-msgstr "Γοτθικό"
+msgstr "Γοτθικά"
 
 #. Name for Gran
 msgid "Grantha"
@@ -204,7 +206,7 @@ msgstr "Ελληνικό"
 
 #. Name for Gujr
 msgid "Gujarati"
-msgstr "Γκουγιαράτι"
+msgstr "Γκουτζαράτι"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -242,7 +244,7 @@ msgstr ""
 
 #. Name for Hebr
 msgid "Hebrew"
-msgstr "Εβραϊκό"
+msgstr "Εβραϊκά"
 
 #. Name for Hira
 msgid "Hiragana"
@@ -350,7 +352,7 @@ msgstr ""
 
 #. Name for Latn
 msgid "Latin"
-msgstr "Λατινικό"
+msgstr "Λατινικά"
 
 #. Name for Leke
 msgid "Leke"
@@ -423,7 +425,7 @@ msgstr "Αιγυπτιακά Ιερογλυφικά"
 
 #. Name for Mlym
 msgid "Malayalam"
-msgstr "Μαλαϊκό"
+msgstr "Μαλαγιάλαμ"
 
 #. Name for Modi
 msgid "Modi, Moḍī"
@@ -431,7 +433,7 @@ msgstr ""
 
 #. Name for Mong
 msgid "Mongolian"
-msgstr "Μογγολικό"
+msgstr "Μογκολικά"
 
 #. Name for Moon
 msgid "Moon (Moon code, Moon script, Moon type)"
@@ -531,7 +533,7 @@ msgstr ""
 
 #. Name for Phnx
 msgid "Phoenician"
-msgstr "Φοινικικό"
+msgstr "Φοινικικά"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
@@ -620,7 +622,7 @@ msgstr ""
 
 #. Name for Syrc
 msgid "Syriac"
-msgstr "Συριακό"
+msgstr "Συριακά"
 
 #. Name for Syre
 msgid "Syriac (Estrangelo variant)"
@@ -652,7 +654,7 @@ msgstr ""
 
 #. Name for Taml
 msgid "Tamil"
-msgstr ""
+msgstr "Ταμίλ"
 
 #. Name for Tang
 msgid "Tangut"
@@ -684,11 +686,11 @@ msgstr ""
 
 #. Name for Thai
 msgid "Thai"
-msgstr "Ταϊλανδικό"
+msgstr "Ταϊλανδικά"
 
 #. Name for Tibt
 msgid "Tibetan"
-msgstr "Θιβετιανό"
+msgstr "Θιβετιανά"
 
 #. Name for Tirh
 msgid "Tirhuta"

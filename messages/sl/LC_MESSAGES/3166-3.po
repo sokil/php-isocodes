@@ -1,12 +1,13 @@
-# Slovenian translations of ISO 3166 country names
-# Copyright (C) 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013 Free Software Foundation, Inc.
+# Translation of ISO 3166-3 to Slovenian
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Translations from KDE:
 # Roman Maurer <roman.maurer@amis.net>, 2002.
 # Primož Peterlin <primozz.peterlin@gmail.com>, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013.
-#
-# $Id: iso_3166-3.49.sl.po,v 1.2 2013/12/09 21:22:05 peterlin Exp $
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
@@ -25,12 +26,10 @@ msgstr ""
 msgid "French Afars and Issas"
 msgstr "Francosko ozemlje Afarov in Isov"
 
-# AN
 #. Name for ANHH
 msgid "Netherlands Antilles"
 msgstr "Nizozemski Antili"
 
-# IO
 #. Name for BQAQ
 msgid "British Antarctic Territory"
 msgstr "Britansko antarktično ozemlje"
@@ -55,7 +54,6 @@ msgstr "Srbija in Črna gora"
 msgid "Canton and Enderbury Islands"
 msgstr "Otoka Kanton in Enderbury"
 
-# CD
 #. Name for DDDE
 msgid "German Democratic Republic"
 msgstr "Nemška demokratična republika"
@@ -64,7 +62,6 @@ msgstr "Nemška demokratična republika"
 msgid "Dahomey"
 msgstr "Dahomej"
 
-# TF
 #. Name for FQHH
 msgid "French Southern and Antarctic Territories"
 msgstr "Francoska južna in antarktična ozemlja"
@@ -74,22 +71,18 @@ msgid "France, Metropolitan"
 msgstr "Francija, metropolitanska"
 
 # Perhaps "Turks and Caicos Islands"?
-# TC
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
 msgstr "Otoka Gilbert in Ellice"
 
-# KR
 #. Name for HVBF
 msgid "Upper Volta, Republic of"
 msgstr "Republika Zgornja Volta"
 
-# CK
 #. Name for JTUM
 msgid "Johnston Island"
 msgstr "Johnstonov otok"
 
-# KY
 #. Name for MIUM
 msgid "Midway Islands"
 msgstr "Otoki Midway"
@@ -134,27 +127,22 @@ msgstr "Zveza sovjetskih socialističnih republik"
 msgid "East Timor"
 msgstr "Vzhodni Timor"
 
-# KP
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
 msgstr "Demokratična republika Vietnam"
 
-# FO
 #. Name for WKUM
 msgid "Wake Island"
 msgstr "Otok Wake"
 
-# KP
 #. Name for YDYE
 msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Ljudska demokratična republika Jemen"
 
-# KR
 #. Name for YUCS
 msgid "Yugoslavia, Socialist Federal Republic of"
 msgstr "Socialistična federativna republika Jugoslavija"
 
-# KR
 #. Name for ZRCD
 msgid "Zaire, Republic of"
 msgstr "Republika Zaire"

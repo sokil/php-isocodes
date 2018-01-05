@@ -1,9 +1,12 @@
-# Vietnamese translation for iso-3166_2.
-# Copyright © 2009 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Vietnamese
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Nguyễn Hùng Vũ <vuhung16@bigfoot.com>
 # Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -12915,11 +12918,11 @@ msgstr "Río San Juan"
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Ă-ru-ba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Cu-ra-cao"
 
 #. Name for NL-DR
 msgid "Drenthe"

@@ -1,12 +1,13 @@
-# Slovenian translations of ISO 3166 place names
-# Copyright (C) 2002, 2003, 2008 Free Software Foundation, Inc.
-# This file is distributed under the same license as the iso-codes package.
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Translations from KDE:
-#  Roman Maurer <roman.maurer@amis.net>, 2002.
-#  Primož Peterlin <primozz.peterlin@gmail.com>, 2003, 2008
+# Translation of ISO 3166-2 to Slovenian
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
-# $Id: iso_3166_2-3.27.sl.po,v 1.2 2011/08/14 21:02:39 peterlin Exp $
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Roman Maurer <roman.maurer@amis.net>, 2002.
+# Primož Peterlin <primozz.peterlin@gmail.com>, 2003, 2008
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -12789,22 +12790,22 @@ msgstr "Rabat Malta"
 #. Name for MT-48
 #, fuzzy
 msgid "San Ġiljan"
-msgstr "San Ġiljan "
+msgstr "San Ġiljan"
 
 #. Name for MT-49
 #, fuzzy
 msgid "San Ġwann"
-msgstr "San Ġwann "
+msgstr "San Ġwann"
 
 #. Name for MT-50
 #, fuzzy
 msgid "San Lawrenz"
-msgstr "San Lawrenz "
+msgstr "San Lawrenz"
 
 #. Name for MT-51
 #, fuzzy
 msgid "San Pawl il-Baħar"
-msgstr "San Pawl il-Baħar "
+msgstr "San Pawl il-Baħar"
 
 #. Name for MT-52
 #, fuzzy
@@ -12814,7 +12815,7 @@ msgstr "Sannat"
 #. Name for MT-53
 #, fuzzy
 msgid "Santa Luċija"
-msgstr "Santa Luċija "
+msgstr "Santa Luċija"
 
 #. Name for MT-54
 #, fuzzy
@@ -12874,7 +12875,7 @@ msgstr "Żabbar"
 #. Name for MT-65
 #, fuzzy
 msgid "Żebbuġ Għawdex"
-msgstr "Żebbuġ Għawdex "
+msgstr "Żebbuġ Għawdex"
 
 #. Name for MT-66
 #, fuzzy
@@ -13900,11 +13901,11 @@ msgstr "Río San Juan"
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for NL-DR
 msgid "Drenthe"

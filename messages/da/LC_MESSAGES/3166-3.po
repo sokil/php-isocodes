@@ -1,16 +1,19 @@
-# Translation of ISO-3166 (country names) to Danish
+# Translation of ISO 3166-3 to Danish
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+#
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C) Free Software Foundation, Inc., 2006.
+#
+# Notes:
+# This European Union Resource page was very helpful:
+# http://eur-op.eu.int/code/da/da-5000500.htm
+#
+# Copyright ©
 # Keld Simonsen <keld@dkuug.dk>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Claus Hindsgaul <claus_h@image.dk>, 2004.
 # Claus Hindsgaul <claus.hindsgaul@gmail.com>, 2006.
 # Joe Hansen <joedalton2@yahoo.dk>, 2010, 2011, 2012, 2013, 2015.
-#
-# This European Union Resource page was very helpful:
-# http://eur-op.eu.int/code/da/da-5000500.htm
-#   - further translations from ICU-3.0
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"

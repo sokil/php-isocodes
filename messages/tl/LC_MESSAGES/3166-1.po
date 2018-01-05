@@ -8,16 +8,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2006-10-18 22:59+0800\n"
-"Last-Translator: Eric Pareja <xenos@upm.edu.ph>\n"
-"Language-Team: Tagalog <debian-tl@banwa.upm.edu.ph>\n"
+"PO-Revision-Date: 2018-01-01 21:32+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Tagalog <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/tl/>\n"
 "Language: tl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -66,7 +69,7 @@ msgstr "Prinsipalidad ng Andora"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "United Arab Emirates"
+msgstr "Mga Pinag-isang Arabong Emirado"
 
 #. Name for ARG
 msgid "Argentina"
@@ -271,7 +274,7 @@ msgstr "Kanada"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "Cocos (Keeling) Islands"
+msgstr "Kapuluang Cocos (Keeling)"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -328,7 +331,7 @@ msgstr "Republika ng Congo"
 
 #. Name for COK
 msgid "Cook Islands"
-msgstr "Cook Islands"
+msgstr "Kapuluang Cook"
 
 #. Name for COL
 msgid "Colombia"
@@ -704,7 +707,7 @@ msgstr "Republika ng Indonesia"
 
 #. Name for IMN
 msgid "Isle of Man"
-msgstr "Isle of Man"
+msgstr "Pulo ng Man"
 
 #. Name for IND
 msgid "India"
@@ -859,9 +862,8 @@ msgid "Republic of Liberia"
 msgstr "Republika ng Liberia"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Liberia"
+msgstr "Libya"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -1107,7 +1109,7 @@ msgstr "Republika ng Niger"
 
 #. Name for NFK
 msgid "Norfolk Island"
-msgstr "Norfolk Island"
+msgstr "Pulo ng Norfolk"
 
 #. Name for NGA
 msgid "Nigeria"
@@ -1398,9 +1400,8 @@ msgid "Republic of Serbia"
 msgstr "Republika ng Serbiya"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Republika ng Sudan"
+msgstr "Timog Sudan"
 
 #. Official name for SSD
 #, fuzzy

@@ -1,15 +1,11 @@
-# translation of fr.po to French
-# Messages français pour GNU concernant iso_3166_2.
-# Copyright © 2004, 2007, 2008 Free Software Foundation, Inc.
-# Michel Robitaille <robitail@IRO.UMontreal.CA>, traducteur depuis/since 1996.
+# Translation of ISO 3166-2 to French
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
-# Previous translator: Grégoire Colbert <gregus@linux-mandrake.com>\n"
-# French translations of ISO-3166 Country names
-# Copyright (C) 2001 Free Software Foundation, Inc.
-# (translations from drakfw)
+# This file is distributed under the same license as the iso-codes package.
 #
-# $Id$
-#
+# Copyright ©
+# Michel Robitaille <robitail@IRO.UMontreal.CA>, 1996.
 # Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Christian Perrier <bubulle@debian.org>, 2007, 2008, 2009, 2010, 2011, 2012.
@@ -17,18 +13,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2017-05-15 10:56+0100\n"
+"PO-Revision-Date: 2017-12-28 21:49+0000\n"
 "Last-Translator: Alban Vidal <alban.vidal@zordhak.fr>\n"
-"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
-"Language: French\n"
+"Language-Team: French <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-2/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -264,7 +261,7 @@ msgstr "Durrës"
 
 #. Name for AL-03, Name for AL-EL
 msgid "Elbasan"
-msgstr "Elbasan"
+msgstr "elbasan"
 
 #. Name for AL-04, Name for AL-FR
 msgid "Fier"
@@ -2924,7 +2921,7 @@ msgstr "Atlántico"
 
 #. Name for CO-BOL, Name for EC-B, Name for VE-F
 msgid "Bolívar"
-msgstr "Bolívar"
+msgstr "Bolivar"
 
 #. Name for CO-BOY
 msgid "Boyacá"
@@ -3464,7 +3461,7 @@ msgstr "Sokolov"
 
 #. Name for CZ-42
 msgid "Ústecký kraj"
-msgstr "Ústí nad Labem "
+msgstr "Ústí nad Labem"
 
 #. Name for CZ-421
 msgid "Děčín"
@@ -7864,7 +7861,7 @@ msgstr "Kermanshah"
 
 #. Name for IR-18
 msgid "Kohgīlūyeh va Būyer Ahmad"
-msgstr "Kohkiluyeh-o-Boyer Ahmad "
+msgstr "Kohkiluyeh-o-Boyer Ahmad"
 
 #. Name for IR-19
 msgid "Gīlān"
@@ -13568,7 +13565,7 @@ msgstr "Lubusz"
 
 #. Name for PL-LD
 msgid "Łódzkie"
-msgstr "Łódź "
+msgstr "Łódź"
 
 #. Name for PL-LU
 msgid "Lubelskie"
@@ -17820,7 +17817,7 @@ msgstr "Île Navassa"
 
 #. Name for UM-79
 msgid "Wake Island"
-msgstr "Île Wake"
+msgstr "Wake"
 
 #. Name for UM-81
 msgid "Baker Island"
@@ -18028,7 +18025,7 @@ msgstr "Texas"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "Îles Mineures éloignées des États-Unis"
+msgstr "Îles mineures éloignées des États-Unis"
 
 #. Name for US-UT
 msgid "Utah"

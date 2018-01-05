@@ -12,16 +12,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2002-01-05 18:50+0000\n"
-"Last-Translator: Thobile Mhlongo <thobile@translate.org.za>\n"
-"Language-Team: Zulu <zulu@translate.org.za>\n"
+"PO-Revision-Date: 2018-01-02 16:34+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Zulu <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/zu/>\n"
 "Language: zu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -29,7 +32,7 @@ msgstr ""
 
 #. Name for AFG
 msgid "Afghanistan"
-msgstr ""
+msgstr "I-Afganistani"
 
 #. Official name for AFG
 #, fuzzy
@@ -38,7 +41,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for AGO
 msgid "Angola"
-msgstr ""
+msgstr "I-Angola"
 
 #. Official name for AGO
 #, fuzzy
@@ -56,7 +59,7 @@ msgstr "I-Irelandi"
 
 #. Name for ALB
 msgid "Albania"
-msgstr ""
+msgstr "I-Albaniya"
 
 #. Official name for ALB
 msgid "Republic of Albania"
@@ -64,7 +67,7 @@ msgstr ""
 
 #. Name for AND
 msgid "Andorra"
-msgstr ""
+msgstr "I-Andora"
 
 #. Official name for AND
 msgid "Principality of Andorra"
@@ -132,7 +135,7 @@ msgstr "I-Azerbayijani"
 
 #. Name for BDI
 msgid "Burundi"
-msgstr ""
+msgstr "IBurundi"
 
 #. Official name for BDI
 msgid "Republic of Burundi"
@@ -148,7 +151,7 @@ msgstr ""
 
 #. Name for BEN
 msgid "Benin"
-msgstr ""
+msgstr "IBenini"
 
 #. Official name for BEN
 #, fuzzy
@@ -161,7 +164,7 @@ msgstr ""
 
 #. Name for BFA
 msgid "Burkina Faso"
-msgstr ""
+msgstr "IBukhina Faso"
 
 #. Name for BGD
 msgid "Bangladesh"
@@ -200,7 +203,7 @@ msgstr ""
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "IBhosniya neHerzegovina"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -269,7 +272,7 @@ msgstr ""
 
 #. Name for BWA
 msgid "Botswana"
-msgstr ""
+msgstr "IButswana"
 
 #. Official name for BWA
 msgid "Republic of Botswana"
@@ -312,7 +315,7 @@ msgstr "Isi-Shayina"
 #. Official name for CHN
 #, fuzzy
 msgid "People's Republic of China"
-msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+msgstr "IShayina"
 
 #. Name for CIV
 msgid "Côte d'Ivoire"
@@ -325,7 +328,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for CMR
 msgid "Cameroon"
-msgstr ""
+msgstr "IKamerooni"
 
 #. Official name for CMR
 msgid "Republic of Cameroon"
@@ -341,7 +344,7 @@ msgstr ""
 
 #. Official name for COG
 msgid "Republic of the Congo"
-msgstr ""
+msgstr "IKongo"
 
 #. Name for COK
 msgid "Cook Islands"
@@ -358,7 +361,7 @@ msgstr ""
 
 #. Name for COM
 msgid "Comoros"
-msgstr ""
+msgstr "IsiKhomorosi"
 
 #. Official name for COM
 msgid "Union of the Comoros"
@@ -419,7 +422,7 @@ msgstr ""
 #. Official name for CZE
 #, fuzzy
 msgid "Czech Republic"
-msgstr "Ulawulo lokuziphatha kwe Dominikhani"
+msgstr "ITsheki"
 
 #. Name for DEU
 msgid "Germany"
@@ -432,7 +435,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for DJI
 msgid "Djibouti"
-msgstr ""
+msgstr "IJibuthi"
 
 #. Official name for DJI
 msgid "Republic of Djibouti"
@@ -460,9 +463,8 @@ msgid "Dominican Republic"
 msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for DZA
-#, fuzzy
 msgid "Algeria"
-msgstr "I-Buligariya"
+msgstr "IAljiriya"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
@@ -478,9 +480,8 @@ msgid "Republic of Ecuador"
 msgstr ""
 
 #. Name for EGY
-#, fuzzy
 msgid "Egypt"
-msgstr "Amandla"
+msgstr "IGibhithe"
 
 #. Official name for EGY
 #, fuzzy
@@ -489,7 +490,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for ERI
 msgid "Eritrea"
-msgstr ""
+msgstr "I-Eritrea"
 
 #. Official name for ERI
 #, fuzzy
@@ -517,9 +518,8 @@ msgid "Republic of Estonia"
 msgstr ""
 
 #. Name for ETH
-#, fuzzy
 msgid "Ethiopia"
-msgstr "I-Estoniya"
+msgstr "I-Ithiopia"
 
 #. Official name for ETH
 msgid "Federal Democratic Republic of Ethiopia"
@@ -535,7 +535,7 @@ msgstr ""
 
 #. Name for FJI
 msgid "Fiji"
-msgstr ""
+msgstr "IFiji"
 
 #. Official name for FJI
 #, fuzzy
@@ -570,7 +570,7 @@ msgstr ""
 
 #. Name for GAB
 msgid "Gabon"
-msgstr ""
+msgstr "IGaboni"
 
 #. Official name for GAB
 #, fuzzy
@@ -595,9 +595,8 @@ msgid "Guernsey"
 msgstr ""
 
 #. Name for GHA
-#, fuzzy
 msgid "Ghana"
-msgstr "Isi-Shayina"
+msgstr "IGana"
 
 #. Official name for GHA
 #, fuzzy
@@ -610,7 +609,7 @@ msgstr ""
 
 #. Name for GIN
 msgid "Guinea"
-msgstr ""
+msgstr "IGini"
 
 #. Official name for GIN
 #, fuzzy
@@ -633,7 +632,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
-msgstr ""
+msgstr "IGini Bisawu"
 
 #. Official name for GNB
 msgid "Republic of Guinea-Bissau"
@@ -641,7 +640,7 @@ msgstr ""
 
 #. Name for GNQ
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "IGini Enkabazwe"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
@@ -749,7 +748,7 @@ msgstr ""
 #. Name for IND
 #, fuzzy
 msgid "India"
-msgstr "I-Indoneshiya"
+msgstr "INdiya"
 
 #. Official name for IND
 #, fuzzy
@@ -775,9 +774,8 @@ msgid "Islamic Republic of Iran"
 msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for IRQ
-#, fuzzy
 msgid "Iraq"
-msgstr "I-Sirayeli"
+msgstr "I-Iraki"
 
 #. Official name for IRQ
 #, fuzzy
@@ -908,18 +906,16 @@ msgid "Lebanese Republic"
 msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for LBR
-#, fuzzy
 msgid "Liberia"
-msgstr "I-Serbiya"
+msgstr "ILiberia"
 
 #. Official name for LBR
 msgid "Republic of Liberia"
 msgstr ""
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "I-Serbiya"
+msgstr "ILibiya"
 
 #. Name for LCA
 #, fuzzy
@@ -1062,9 +1058,8 @@ msgid "The Former Yugoslav Republic of Macedonia"
 msgstr ""
 
 #. Name for MLI
-#, fuzzy
 msgid "Mali"
-msgstr "I-Malta"
+msgstr "IMali"
 
 #. Official name for MLI
 #, fuzzy
@@ -1108,16 +1103,15 @@ msgstr ""
 
 #. Name for MOZ
 msgid "Mozambique"
-msgstr ""
+msgstr "IMozambiki"
 
 #. Official name for MOZ
 msgid "Republic of Mozambique"
 msgstr ""
 
 #. Name for MRT
-#, fuzzy
 msgid "Mauritania"
-msgstr "I-Lithuwaniya"
+msgstr "IMoritaniya"
 
 #. Official name for MRT
 msgid "Islamic Republic of Mauritania"
@@ -1132,9 +1126,8 @@ msgid "Martinique"
 msgstr ""
 
 #. Name for MUS
-#, fuzzy
 msgid "Mauritius"
-msgstr "I-Lithuwaniya"
+msgstr "IMorishisi"
 
 #. Official name for MUS
 #, fuzzy
@@ -1142,9 +1135,8 @@ msgid "Republic of Mauritius"
 msgstr "I-Lithuwaniya"
 
 #. Name for MWI
-#, fuzzy
 msgid "Malawi"
-msgstr "I-Malta"
+msgstr "IMalawi"
 
 #. Official name for MWI
 #, fuzzy
@@ -1158,11 +1150,11 @@ msgstr "I-Malta"
 
 #. Name for MYT
 msgid "Mayotte"
-msgstr ""
+msgstr "IMayotte"
 
 #. Name for NAM
 msgid "Namibia"
-msgstr ""
+msgstr "INamibhiya"
 
 #. Official name for NAM
 msgid "Republic of Namibia"
@@ -1175,7 +1167,7 @@ msgstr "I-Makhedoniya"
 
 #. Name for NER
 msgid "Niger"
-msgstr ""
+msgstr "INayighe"
 
 #. Official name for NER
 msgid "Republic of the Niger"
@@ -1186,9 +1178,8 @@ msgid "Norfolk Island"
 msgstr ""
 
 #. Name for NGA
-#, fuzzy
 msgid "Nigeria"
-msgstr "I-Serbiya"
+msgstr "INigeria"
 
 #. Official name for NGA
 #, fuzzy
@@ -1196,9 +1187,8 @@ msgid "Federal Republic of Nigeria"
 msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for NIC
-#, fuzzy
 msgid "Nicaragua"
-msgstr "I-Paraguwayi"
+msgstr ""
 
 #. Official name for NIC
 #, fuzzy
@@ -1384,9 +1374,8 @@ msgid "Russian Federation"
 msgstr ""
 
 #. Name for RWA
-#, fuzzy
 msgid "Rwanda"
-msgstr "I Khanada"
+msgstr "IRuwanda"
 
 #. Official name for RWA
 #, fuzzy
@@ -1402,9 +1391,8 @@ msgid "Kingdom of Saudi Arabia"
 msgstr ""
 
 #. Name for SDN
-#, fuzzy
 msgid "Sudan"
-msgstr "Umsindo"
+msgstr "ISudan"
 
 #. Official name for SDN
 msgid "Republic of the Sudan"
@@ -1412,7 +1400,7 @@ msgstr ""
 
 #. Name for SEN
 msgid "Senegal"
-msgstr ""
+msgstr "ISenegal"
 
 #. Official name for SEN
 msgid "Republic of Senegal"
@@ -1444,7 +1432,7 @@ msgstr ""
 
 #. Name for SLE
 msgid "Sierra Leone"
-msgstr ""
+msgstr "ISiera Liyoni"
 
 #. Official name for SLE
 msgid "Republic of Sierra Leone"
@@ -1468,9 +1456,8 @@ msgid "Republic of San Marino"
 msgstr ""
 
 #. Name for SOM
-#, fuzzy
 msgid "Somalia"
-msgstr "I-Romaniya"
+msgstr "ISomalia"
 
 #. Official name for SOM
 #, fuzzy
@@ -1492,9 +1479,8 @@ msgid "Republic of Serbia"
 msgstr "I-Azerbayijani"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "I-Mzantsi Afrika"
+msgstr "ISudan yaseNingizimu"
 
 #. Official name for SSD
 #, fuzzy
@@ -1503,7 +1489,7 @@ msgstr "I-Mzantsi Afrika"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
-msgstr ""
+msgstr "ISawu Tome noPhrinitshipeyi"
 
 #. Official name for STP
 msgid "Democratic Republic of Sao Tome and Principe"
@@ -1543,9 +1529,8 @@ msgid "Kingdom of Sweden"
 msgstr ""
 
 #. Name for SWZ
-#, fuzzy
 msgid "Swaziland"
-msgstr "I-Thayilandi"
+msgstr "ISwazilandi"
 
 #. Official name for SWZ
 #, fuzzy
@@ -1574,9 +1559,8 @@ msgid "Turks and Caicos Islands"
 msgstr ""
 
 #. Name for TCD
-#, fuzzy
 msgid "Chad"
-msgstr "Isi-Shayina"
+msgstr "ITshedi"
 
 #. Official name for TCD
 #, fuzzy
@@ -1585,7 +1569,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for TGO
 msgid "Togo"
-msgstr ""
+msgstr "ITogo"
 
 #. Official name for TGO
 #, fuzzy
@@ -1644,9 +1628,8 @@ msgid "Republic of Trinidad and Tobago"
 msgstr "I-Trinidad ne Tobago"
 
 #. Name for TUN
-#, fuzzy
 msgid "Tunisia"
-msgstr "Isi-Rashiya"
+msgstr "ITunisia"
 
 #. Official name for TUN
 msgid "Republic of Tunisia"
@@ -1684,7 +1667,7 @@ msgstr ""
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "ITanzania"
 
 #. Name for UGA
 #, fuzzy
@@ -1809,7 +1792,7 @@ msgstr ""
 
 #. Name for YEM
 msgid "Yemen"
-msgstr ""
+msgstr "IYemen"
 
 #. Official name for YEM
 #, fuzzy
@@ -1818,7 +1801,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for ZAF
 msgid "South Africa"
-msgstr "I-Mzantsi Afrika"
+msgstr "IRiphabliki yaseNingizimu Afrika"
 
 #. Official name for ZAF
 #, fuzzy
@@ -1826,9 +1809,8 @@ msgid "Republic of South Africa"
 msgstr "I-Mzantsi Afrika"
 
 #. Name for ZMB
-#, fuzzy
 msgid "Zambia"
-msgstr "I Jamayikha"
+msgstr "IZambiya"
 
 #. Official name for ZMB
 #, fuzzy
@@ -1837,7 +1819,7 @@ msgstr "Ulawulo lokuziphatha kwe Dominikhani"
 
 #. Name for ZWE
 msgid "Zimbabwe"
-msgstr ""
+msgstr "IZimbabwe"
 
 #. Official name for ZWE
 msgid "Republic of Zimbabwe"

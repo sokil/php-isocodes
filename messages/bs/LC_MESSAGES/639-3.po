@@ -1,10 +1,13 @@
-# Bosnian translations of ISO 639 Language names
-# Copyright (C) 2002,2004 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Bosnian
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2002
-# Translations from KDE:
 # Nesiren Armin <bianchi@lugbih.org>
 # Vedran Ljubovic <vljubovic@smartnet.ba>, 2002
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -9908,8 +9911,9 @@ msgid "Frisian, Northern"
 msgstr ""
 
 #. Name for frs
+#, fuzzy
 msgid "Eastern Frisian"
-msgstr ""
+msgstr "Estonski"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
@@ -19982,8 +19986,9 @@ msgid "Mixe, Isthmus"
 msgstr ""
 
 #. Name for mis
+#, fuzzy
 msgid "Uncoded languages"
-msgstr ""
+msgstr "Korejski"
 
 #. Name for mit
 msgid "Southern Puebla Mixtec"

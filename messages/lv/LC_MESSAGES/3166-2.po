@@ -1,11 +1,12 @@
-# Latvian translations of ISO-3166 Country names
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Latvian
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Juris Kudiņš <cooker@inbox.lv>, 2001.
-#   (translations from drakfw)
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#
-# $Id$
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -2524,7 +2525,7 @@ msgstr ""
 
 #. Name for BZ-BZ
 msgid "Belize"
-msgstr ""
+msgstr "Beliza"
 
 #. Name for BZ-CY
 msgid "Cayo"
@@ -4148,7 +4149,7 @@ msgstr ""
 
 #. Name for DJ-DJ
 msgid "Djibouti"
-msgstr ""
+msgstr "Džibutija"
 
 #. Name for DJ-OB
 msgid "Obock"
@@ -5761,7 +5762,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Gvadelupa"
 
 #. Name for FR-HDF
 #, fuzzy
@@ -6731,7 +6732,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "Lielbritānija"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -13670,7 +13671,7 @@ msgstr ""
 
 #. Name for NG-NI
 msgid "Niger"
-msgstr ""
+msgstr "Nigēra"
 
 #. Name for NG-OG
 #, fuzzy
@@ -13780,11 +13781,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Kirasao"
 
 #. Name for NL-DR
 #, fuzzy
@@ -19654,7 +19655,7 @@ msgstr "Arkanzasa"
 
 #. Name for US-AS
 msgid "American Samoa"
-msgstr ""
+msgstr "Amerikāņu Samoa"
 
 #. Name for US-AZ
 #, fuzzy
@@ -19690,11 +19691,11 @@ msgstr "Florida"
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr ""
+msgstr "Gruzija"
 
 #. Name for US-GU
 msgid "Guam"
-msgstr ""
+msgstr "Guama"
 
 #. Name for US-HI
 msgid "Hawaii"
@@ -19750,7 +19751,7 @@ msgstr "Misūri"
 
 #. Name for US-MP
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Ziemeļu Marianas Salas"
 
 #. Name for US-MS
 msgid "Mississippi"
@@ -19830,7 +19831,7 @@ msgstr "Teksasa"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "ASV Mazās Aizjūras Salas"
 
 #. Name for US-UT
 msgid "Utah"

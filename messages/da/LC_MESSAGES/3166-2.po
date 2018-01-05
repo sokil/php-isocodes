@@ -1,14 +1,18 @@
-# Danish translation of iso_3166_2.
+# Translation of ISO 3166-2 to Danish
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C) 2014 Free Software Foundation, Inc.
+#
+# Notes:
+# Saint -> Sankt
+#
+# Copyright ©
 # Keld Simonsen <keld@dkuug.dk>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Claus Hindsgaul <claus_h@image.dk>, 2004, 2005.
 # Claus Hindsgaul <claus.hindsgaul@gmail.com>, 2006.
 # Joe Hansen <joedalton2@yahoo.dk>, 2009, 2010, 2011, 2012, 2014, 2015.
-#
-# Saint -> Sankt
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -6838,7 +6842,7 @@ msgstr "Xanthi"
 
 #. Name for GR-73
 msgid "Rodopi"
-msgstr "Rodopi:"
+msgstr "Rodopi"
 
 #. Name for GR-81
 msgid "Dodekanisos"
@@ -12716,7 +12720,7 @@ msgstr "Kansas"
 #. Name for NG-KO
 #, fuzzy
 msgid "Kogi"
-msgstr "Brugernavn:"
+msgstr "Brugernavn"
 
 #. Name for NG-KT
 #, fuzzy
@@ -13745,7 +13749,7 @@ msgstr "Mindoro Oriental"
 #. Name for PH-MOU
 #, fuzzy
 msgid "Mountain Province"
-msgstr "Delstat/provins:"
+msgstr "Delstat/provins"
 
 #. Name for PH-MSC
 msgid "Misamis Occidental"
@@ -18964,7 +18968,7 @@ msgstr ""
 #. Name for VN-63
 #, fuzzy
 msgid "Hà Nam"
-msgstr "Efternavn:"
+msgstr "Efternavn"
 
 #. Name for VN-66
 msgid "Hưng Yên"

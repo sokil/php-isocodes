@@ -1,7 +1,10 @@
-# Turkish translation of ISO 639 Language names
+# Translation of ISO 639-3 to Turkish
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C) 2000,2004 Free Software Foundation, Inc.
-#  - translations from ICU-3.0
+#
+# Copyright ©
 # Fatih Demir <kabalak@gmx.net>, 2000.
 # Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
@@ -9512,7 +9515,7 @@ msgstr "Frisian, Kuzey"
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr ""
+msgstr "Doğu Frizyeli Dili"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
@@ -14430,7 +14433,7 @@ msgstr "Lusi"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr ""
+msgstr "Merkez Khmer"
 
 #. Inverted name for khm
 msgid "Khmer, Central"
@@ -28728,7 +28731,7 @@ msgstr "Musasa"
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr ""
+msgstr "Inari Sami"
 
 # src/toolbar.c:237
 #. Inverted name for smn
@@ -28753,7 +28756,7 @@ msgstr "Simeulue"
 
 #. Name for sms
 msgid "Skolt Sami"
-msgstr ""
+msgstr "Skolt Sami"
 
 #. Inverted name for sms
 msgid "Sami, Skolt"
@@ -29821,7 +29824,7 @@ msgstr "Subanen, Merkez"
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Klasik Süryanice"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -37186,7 +37189,7 @@ msgstr "Zhuang, Guibei"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Standart Morokko Tamazight"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

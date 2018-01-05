@@ -1,24 +1,26 @@
-# Translation of ISO 15924 (script names) to Spanish
+# Translation of ISO 15924 to Spanish; Castilian
+# Codes for the representation of names of scripts
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Tobias Quathamer <toddy@debian.org>, 2007.
-#     Translations taken from ICU SVN on 2007-09-09
+# Copyright ©
+# Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2008-08-17 15:07+0200\n"
-"Last-Translator: Juan Cuquejo Mira <stelaroj@hotmail.com>\n"
-"Language-Team: Spanish <es@li.org>\n"
+"PO-Revision-Date: 2018-01-01 22:47+0000\n"
+"Last-Translator: Adolfo Jayme-Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/iso-"
+"codes/iso-15924/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -30,7 +32,7 @@ msgstr ""
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
-msgstr ""
+msgstr "caucasoalbanés"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
@@ -64,7 +66,7 @@ msgstr "balinés"
 
 #. Name for Bamu
 msgid "Bamum"
-msgstr ""
+msgstr "bamún"
 
 #. Name for Bass
 msgid "Bassa Vah"
@@ -100,7 +102,7 @@ msgstr "braille"
 
 #. Name for Bugi
 msgid "Buginese"
-msgstr "buginés"
+msgstr "buguinés"
 
 #. Name for Buhd
 msgid "Buhid"
@@ -124,7 +126,7 @@ msgstr "cham"
 
 #. Name for Cher
 msgid "Cherokee"
-msgstr "cherokee"
+msgstr "cheroqui"
 
 #. Name for Cirt
 msgid "Cirth"
@@ -158,7 +160,7 @@ msgstr "deseret (mormón)"
 
 #. Name for Dupl
 msgid "Duployan shorthand, Duployan stenography"
-msgstr ""
+msgstr "taquigrafía de Duployé, estenografía de Duployé"
 
 #. Name for Egyd
 msgid "Egyptian demotic"
@@ -207,7 +209,7 @@ msgstr "griego"
 
 #. Name for Gujr
 msgid "Gujarati"
-msgstr "gujarati"
+msgstr "guyaratí"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -241,7 +243,7 @@ msgstr "han tradicional"
 
 #. Name for Hatr
 msgid "Hatran"
-msgstr ""
+msgstr "arameo de Hatra"
 
 #. Name for Hebr
 msgid "Hebrew"
@@ -253,7 +255,7 @@ msgstr "hiragana"
 
 #. Name for Hluw
 msgid "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)"
-msgstr ""
+msgstr "jeroglíficos de Anatolia (jeroglíficos luvitas, jeroglíficos hititas)"
 
 #. Name for Hmng
 msgid "Pahawh Hmong"
@@ -266,7 +268,7 @@ msgstr "japonés (alias para Han + Hiragana + Katakana)"
 
 #. Name for Hung
 msgid "Old Hungarian (Hungarian Runic)"
-msgstr ""
+msgstr "húngaro antiguo (runas húngaras)"
 
 #. Name for Inds
 msgid "Indus (Harappan)"
@@ -292,7 +294,7 @@ msgstr "japonés (alias para Han + Hiragana + Katakana)"
 
 #. Name for Jurc
 msgid "Jurchen"
-msgstr ""
+msgstr "yurchén"
 
 #. Name for Kali
 msgid "Kayah Li"
@@ -344,7 +346,7 @@ msgstr ""
 
 #. Name for Laoo
 msgid "Lao"
-msgstr "lao"
+msgstr "laosiano"
 
 #. Name for Latf
 #, fuzzy
@@ -381,7 +383,7 @@ msgstr "lineal B"
 
 #. Name for Lisu
 msgid "Lisu (Fraser)"
-msgstr ""
+msgstr "lisu (Fraser)"
 
 #. Name for Loma
 msgid "Loma"
@@ -420,18 +422,16 @@ msgid "Mende Kikakui"
 msgstr ""
 
 #. Name for Merc
-#, fuzzy
 msgid "Meroitic Cursive"
-msgstr "meroítico"
+msgstr "cursiva meroítica"
 
 #. Name for Mero
-#, fuzzy
 msgid "Meroitic Hieroglyphs"
-msgstr "jeroglíficos egipcios"
+msgstr "jeroglíficos meroíticos"
 
 #. Name for Mlym
 msgid "Malayalam"
-msgstr "malayálam"
+msgstr "malabar"
 
 #. Name for Modi
 msgid "Modi, Moḍī"
@@ -455,7 +455,7 @@ msgstr "Meitei Mayek (Meithei, Meetei)"
 
 #. Name for Mult
 msgid "Multani"
-msgstr ""
+msgstr "multaní"
 
 #. Name for Mymr
 msgid "Myanmar (Burmese)"
@@ -463,11 +463,11 @@ msgstr "Myanmar (birmano)"
 
 #. Name for Narb
 msgid "Old North Arabian (Ancient North Arabian)"
-msgstr ""
+msgstr "arábigo septentrional arcaico (arábigo septentrional antiguo)"
 
 #. Name for Nbat
 msgid "Nabataean"
-msgstr ""
+msgstr "nabateo"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
@@ -487,7 +487,7 @@ msgstr ""
 
 #. Name for Ogam
 msgid "Ogham"
-msgstr "ogham"
+msgstr "ogámico"
 
 #. Name for Olck
 msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
@@ -511,7 +511,7 @@ msgstr "osmaniya"
 
 #. Name for Palm
 msgid "Palmyrene"
-msgstr ""
+msgstr "palmireño"
 
 #. Name for Pauc
 msgid "Pau Cin Hau"

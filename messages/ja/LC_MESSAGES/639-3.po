@@ -1,11 +1,15 @@
-# Japanese translations of ISO 639 Language names
-# Copyright (C) 2000, 2001, 2004, 2005 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Japanese
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # IIDA Yosiaki <iida@gnu.org>, 2004, 2005.
 # Yukihiro Nakai <nakai@gnome.gr.jp>, 2000.
 # Takuro Ashie <ashie@homa.ne.jp>, 2001.
 # Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -40418,7 +40422,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "古代シリア語"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"

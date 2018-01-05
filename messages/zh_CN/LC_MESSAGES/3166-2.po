@@ -1,8 +1,12 @@
-# Chinese (zh_CN)translations of ISO 3166 place names
-# Copyright (C) 2002, 2007 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Simplified Chinese
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Translations taken from KDE: Wang Jian <lark@linux.net.cn>, 2000
+# Wang Jian <lark@linux.net.cn>, 2000.
 # LI Daobing <lidaobing@gmail.com>, 2007, 2008, 2009.
 # Ji YongGang <jungle@soforge.com>, 2007
 msgid ""
@@ -4260,7 +4264,7 @@ msgstr "西迪·贝勒·阿贝斯"
 
 #. Name for DZ-23
 msgid "Annaba"
-msgstr "安纳巴 "
+msgstr "安纳巴"
 
 #. Name for DZ-24
 msgid "Guelma"
@@ -6514,7 +6518,7 @@ msgstr "塔沃哈姆莱茨市"
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "英国"
 
 #. Name for GB-VGL
 #, fuzzy
@@ -12469,7 +12473,7 @@ msgstr ""
 #. Name for MT-64
 #, fuzzy
 msgid "Żabbar"
-msgstr "安纳巴 "
+msgstr "安纳巴"
 
 #. Name for MT-65
 msgid "Żebbuġ Għawdex"
@@ -13320,11 +13324,11 @@ msgstr "圣胡安河"
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "阿鲁巴"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "库拉索"
 
 #. Name for NL-DR
 msgid "Drenthe"
@@ -13565,7 +13569,7 @@ msgstr "亚威罗"
 #. Name for NR-02
 #, fuzzy
 msgid "Anabar"
-msgstr "安纳巴 "
+msgstr "安纳巴"
 
 #. Name for NR-03
 #, fuzzy
@@ -18470,7 +18474,7 @@ msgstr "扎波罗热州"
 
 #. Name for UA-26
 msgid "Ivano-Frankivs'ka Oblast'"
-msgstr "伊万-弗兰科夫州 "
+msgstr "伊万-弗兰科夫州"
 
 #. Name for UA-30
 msgid "Kyïvs'ka mis'ka rada"

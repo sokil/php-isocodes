@@ -7,16 +7,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2004-11-01 15:00+0200\n"
-"Last-Translator: Steve Murphy <murf@e-tools.com>\n"
-"Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Kinyarwanda <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/rw/>\n"
 "Language: rw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -704,7 +707,7 @@ msgstr "Repubulika ya Indonesiya"
 
 #. Name for IMN
 msgid "Isle of Man"
-msgstr ""
+msgstr "Ikirwa cya Man"
 
 #. Name for IND
 msgid "India"
@@ -859,9 +862,8 @@ msgid "Republic of Liberia"
 msgstr "Repubulika ya Liberiya"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Liberiya"
+msgstr "Libiya"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -954,7 +956,7 @@ msgstr "Repubulika ya Molidova"
 
 #. Common name for MDA
 msgid "Moldova"
-msgstr ""
+msgstr "Molidova"
 
 #. Name for MDG
 msgid "Madagascar"
@@ -1022,9 +1024,8 @@ msgid "Republic of Myanmar"
 msgstr "Repubulika ya Giyana"
 
 #. Name for MNE, Official name for MNE
-#, fuzzy
 msgid "Montenegro"
-msgstr "Seribiya  na Montenegoro"
+msgstr "Montenegoro"
 
 #. Name for MNG
 msgid "Mongolia"
@@ -1064,7 +1065,7 @@ msgstr "Maritike"
 
 #. Name for MUS
 msgid "Mauritius"
-msgstr "Ibirwa bya Morise"
+msgstr "Morise"
 
 #. Official name for MUS
 msgid "Republic of Mauritius"
@@ -1391,9 +1392,8 @@ msgid "Saint Pierre and Miquelon"
 msgstr "Mutagatifu Petero na Mikeloni"
 
 #. Name for SRB
-#, fuzzy
 msgid "Serbia"
-msgstr "Azeribayijani"
+msgstr "Seribiya"
 
 #. Official name for SRB
 #, fuzzy
@@ -1580,7 +1580,7 @@ msgstr "Repubulika Yunze Ubumwe ya Tanzaniya"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzaniya"
 
 #. Name for UGA
 msgid "Uganda"

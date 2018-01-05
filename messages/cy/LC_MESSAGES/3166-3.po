@@ -1,12 +1,12 @@
-# Translation of ISO-3166 (country names) to Welsh
+# Translation of ISO 3166-3 to Welsh
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-#   - translations from ICU-3.0
-#   Dafydd Harries <daf@muse.19inch.net>, 2004,2006.
-#
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Dafydd Harries <daf@muse.19inch.net>, 2004,2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
@@ -40,7 +40,7 @@ msgstr "Burma, Gweriniaeth Sosialaidd Undeb"
 
 #. Name for BYAA
 msgid "Byelorussian SSR Soviet Socialist Republic"
-msgstr "Gweriniaeth Sosialaidd Sofiet SSR Belorussia "
+msgstr "Gweriniaeth Sosialaidd Sofiet SSR Belorussia"
 
 #. Name for CSHH
 msgid "Czechoslovakia, Czechoslovak Socialist Republic"

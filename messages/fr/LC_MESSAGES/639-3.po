@@ -1,8 +1,11 @@
-# translation of fr.po to French
-# French translations for ISO-639 Language names
-# Copyright (C) 2000-2001, 2004, 2005, 2008, 2009 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to French
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
 #
-# maintainer: Christophe Fergeau <christophe.fergeau@ensimag.imag.fr>, 2000-2001.
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Christophe Fergeau <christophe.fergeau@ensimag.imag.fr>, 2000-2001.
 # Christophe Merlet (RedFox) <redfox@eikonex.org>, 2001.
 # Cedric De Wilde <daique@tiscalinet.be>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
@@ -11,18 +14,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: fr\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2017-02-24 12:28+0100\n"
+"PO-Revision-Date: 2017-12-28 21:49+0000\n"
 "Last-Translator: Alban Vidal <alban.vidal@zordhak.fr>\n"
-"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-3/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
-"Plural-Forms: nplurals=2; plural=n>1;\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -3561,7 +3565,7 @@ msgstr "banda, semi-méridional"
 
 #. Name for bjp
 msgid "Fanamaket"
-msgstr "fanamaket "
+msgstr "fanamaket"
 
 #. Name for bjr
 msgid "Binumarien"
@@ -3681,7 +3685,7 @@ msgstr "boloki"
 
 #. Name for bku
 msgid "Buhid"
-msgstr "buhid"
+msgstr "bouhide"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -4701,7 +4705,7 @@ msgstr "bushoong"
 
 #. Name for bug
 msgid "Buginese"
-msgstr "buginais"
+msgstr "bouguis"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -5805,7 +5809,7 @@ msgstr "chinantec, Quiotepec"
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "cherokee"
+msgstr "tchérokî"
 
 #. Name for cht
 msgid "Cholón"
@@ -7889,7 +7893,7 @@ msgstr "domu"
 
 #. Name for doh
 msgid "Dong"
-msgstr "dong"
+msgstr "Dong"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -8321,7 +8325,7 @@ msgstr "agta, Villaviciosa"
 
 #. Name for dyi
 msgid "Djimini Senoufo"
-msgstr "senoufo de Djimini "
+msgstr "senoufo de Djimini"
 
 #. Inverted name for dyi
 msgid "Senoufo, Djimini"
@@ -9661,7 +9665,7 @@ msgstr "dari, Zoroastrien"
 
 #. Name for gcc
 msgid "Mali"
-msgstr "mali"
+msgstr "Mali"
 
 #. Name for gcd
 msgid "Ganggalida"
@@ -10441,7 +10445,7 @@ msgstr "gronings"
 
 #. Name for got
 msgid "Gothic"
-msgstr "gothique"
+msgstr "gotique"
 
 #. Name for gou
 msgid "Gavar"
@@ -10705,7 +10709,7 @@ msgstr "guaraní bolivien oriental"
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "gujarati"
+msgstr "goudjarâtî (gujrâtî)"
 
 #. Name for guk
 msgid "Gumuz"
@@ -13294,7 +13298,7 @@ msgstr "kamba (Kenya)"
 
 #. Name for kan
 msgid "Kannada"
-msgstr "kannada"
+msgstr "kannara (canara)"
 
 #. Name for kao
 msgid "Xaasongaxango"
@@ -16238,7 +16242,7 @@ msgstr "laru"
 
 #. Name for lao
 msgid "Lao"
-msgstr "lao"
+msgstr "laotien"
 
 #. Name for lap
 msgid "Laka (Chad)"
@@ -16726,7 +16730,7 @@ msgstr "likila"
 
 #. Name for lif
 msgid "Limbu"
-msgstr "limbu"
+msgstr "limbou"
 
 #. Name for lig
 msgid "Ligbi"
@@ -17326,7 +17330,7 @@ msgstr "loarki"
 
 #. Name for lrl
 msgid "Lari"
-msgstr "lari"
+msgstr "Lari"
 
 #. Name for lrm
 msgid "Marama"
@@ -20730,7 +20734,7 @@ msgstr "hungworo"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "nauru"
+msgstr "Nauru"
 
 #. Name for nav
 msgid "Navajo"
@@ -25265,7 +25269,7 @@ msgstr "langue des signes de Penang"
 
 #. Name for psh
 msgid "Southwest Pashai"
-msgstr "pashai du Sud-Ouest "
+msgstr "pashai du Sud-Ouest"
 
 #. Inverted name for psh
 msgid "Pashai, Southwest"
@@ -25313,7 +25317,7 @@ msgstr "kaulong"
 
 #. Name for pst
 msgid "Central Pashto"
-msgstr "pashto central "
+msgstr "pashto central"
 
 #. Inverted name for pst
 msgid "Pashto, Central"
@@ -26813,7 +26817,7 @@ msgstr "saya"
 
 #. Name for saz
 msgid "Saurashtra"
-msgstr "saurashtra"
+msgstr "saurachtra"
 
 #. Name for sba
 msgid "Ngambay"
@@ -27529,7 +27533,7 @@ msgstr "mende (Papouasie-Nouvelle-Guinée)"
 
 #. Name for sin
 msgid "Sinhala"
-msgstr "sinhala"
+msgstr "singhalais"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -27889,7 +27893,7 @@ msgstr "simbari"
 
 #. Name for smc
 msgid "Som"
-msgstr "som"
+msgstr "Som"
 
 #. Name for smd
 msgid "Sama"
@@ -29153,7 +29157,7 @@ msgstr "tamang, oriental"
 
 #. Name for tak
 msgid "Tala"
-msgstr "tala"
+msgstr "Tala"
 
 #. Name for tal
 msgid "Tal"
@@ -29321,7 +29325,7 @@ msgstr "tobo"
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr "tagbanwa"
+msgstr "tagbanoua"
 
 #. Name for tbx
 msgid "Kapin"
@@ -30101,7 +30105,7 @@ msgstr "malgache, Tesaka"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr "tokelau"
+msgstr "Tokelau"
 
 #. Name for tkm
 msgid "Takelma"
@@ -31233,7 +31237,7 @@ msgstr "ambrym, Sud-Est"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "tuvalu"
+msgstr "Tuvalu"
 
 #. Name for tvm
 msgid "Tela-Masbuar"
@@ -31394,7 +31398,7 @@ msgstr "totoli"
 
 #. Name for txg
 msgid "Tangut"
-msgstr "tangut"
+msgstr "tangoute"
 
 #. Name for txh
 msgid "Thracian"
@@ -33610,7 +33614,7 @@ msgstr "bolgare"
 
 #. Name for xbp
 msgid "Bibbulman"
-msgstr "bibbulman "
+msgstr "bibbulman"
 
 #. Name for xbr
 msgid "Kambera"
@@ -36127,7 +36131,7 @@ msgstr "berawan, oriental"
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr "blissymbols"
+msgstr "symboles Bliss"
 
 #. Name for zbt
 msgid "Batui"

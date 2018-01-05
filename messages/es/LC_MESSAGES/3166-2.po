@@ -1,57 +1,56 @@
-# Spanish translations of ISO 3166 element names
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Spanish; Castilian
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Juan Manuel García Molina <juanmagm@mail.com>, 2001.
-#     (translations from drakfw)
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#
-# $Id$
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2001-12-02 20:54+0100\n"
-"Last-Translator: Juan Manuel García Molina <juanmagm@mail.com>\n"
-"Language-Team: Spanish <cooker-i18n@linux-mandrake.com>\n"
+"PO-Revision-Date: 2018-01-02 16:34+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-2/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 0.9.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AD-02
-#, fuzzy
 msgid "Canillo"
-msgstr "El Salvador"
+msgstr "Canillo"
 
 #. Name for AD-03
-#, fuzzy
 msgid "Encamp"
-msgstr "Tonga"
+msgstr "Encamp"
 
 #. Name for AD-04
-#, fuzzy
 msgid "La Massana"
-msgstr "Manitoba"
+msgstr "La Massana"
 
 #. Name for AD-05
-#, fuzzy
 msgid "Ordino"
-msgstr "Pakistán"
+msgstr "Ordino"
 
 #. Name for AD-06
 msgid "Sant Julià de Lòria"
-msgstr ""
+msgstr "San Julián de Loria"
 
 #. Name for AD-07
 msgid "Andorra la Vella"
-msgstr ""
+msgstr "Andorra la Vieja"
 
 #. Name for AD-08
 msgid "Escaldes-Engordany"
-msgstr ""
+msgstr "Escaldas-Engordani"
 
 #. Name for AE-AJ
 #, fuzzy
@@ -1710,7 +1709,7 @@ msgstr ""
 #. Name for BF-PON
 #, fuzzy
 msgid "Poni"
-msgstr "Teléfono:"
+msgstr "Teléfono"
 
 #. Name for BF-SEN
 #, fuzzy
@@ -5363,7 +5362,7 @@ msgstr "Israel"
 #. Name for FM-PNI
 #, fuzzy
 msgid "Pohnpei"
-msgstr "Teléfono:"
+msgstr "Teléfono"
 
 #. Name for FM-TRK
 msgid "Chuuk"
@@ -5675,7 +5674,7 @@ msgstr ""
 #. Name for FR-69
 #, fuzzy
 msgid "Rhône"
-msgstr "Teléfono:"
+msgstr "Teléfono"
 
 #. Name for FR-70
 msgid "Haute-Saône"
@@ -5789,7 +5788,7 @@ msgstr ""
 #. Name for FR-ARA
 #, fuzzy
 msgid "Auvergne-Rhône-Alpes"
-msgstr "Teléfono:"
+msgstr "Teléfono"
 
 #. Name for FR-BFC
 msgid "Bourgogne-Franche-Comté"
@@ -5831,7 +5830,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadalupe"
 
 #. Name for FR-HDF
 #, fuzzy
@@ -6135,7 +6134,7 @@ msgstr ""
 #. Name for GB-COV
 #, fuzzy
 msgid "Coventry"
-msgstr "Empresa:"
+msgstr "Empresa"
 
 #. Name for GB-CRF
 #, fuzzy
@@ -6150,7 +6149,7 @@ msgstr "Camerún"
 #. Name for GB-CWY
 #, fuzzy
 msgid "Conwy"
-msgstr "Empresa:"
+msgstr "Empresa"
 
 #. Name for GB-DAL
 #, fuzzy
@@ -6814,7 +6813,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "Reino Unido"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -7425,7 +7424,7 @@ msgstr "Bulgaria"
 #. Name for GR-73
 #, fuzzy
 msgid "Rodopi"
-msgstr "Usuario:"
+msgstr "Usuario"
 
 #. Name for GR-81
 msgid "Dodekanisos"
@@ -7738,7 +7737,7 @@ msgstr ""
 #. Name for HN-CP
 #, fuzzy
 msgid "Copán"
-msgstr "Empresa:"
+msgstr "Empresa"
 
 #. Name for HN-CR
 #, fuzzy
@@ -9144,7 +9143,7 @@ msgstr ""
 #. Name for IT-LO
 #, fuzzy
 msgid "Lodi"
-msgstr "Usuario:"
+msgstr "Usuario"
 
 #. Name for IT-LT
 #, fuzzy
@@ -12915,7 +12914,7 @@ msgstr "Alabama"
 #. Name for MT-43
 #, fuzzy
 msgid "Qormi"
-msgstr "Usuario:"
+msgstr "Usuario"
 
 #. Name for MT-44
 msgid "Qrendi"
@@ -13803,7 +13802,7 @@ msgstr "Kansas"
 #. Name for NG-KO
 #, fuzzy
 msgid "Kogi"
-msgstr "Usuario:"
+msgstr "Usuario"
 
 #. Name for NG-KT
 #, fuzzy
@@ -13936,11 +13935,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curasao"
 
 #. Name for NL-DR
 #, fuzzy
@@ -14142,7 +14141,7 @@ msgstr "Canadá"
 #. Name for NP-KO
 #, fuzzy
 msgid "Kosi"
-msgstr "Usuario:"
+msgstr "Usuario"
 
 #. Name for NP-LU
 #, fuzzy
@@ -14896,12 +14895,12 @@ msgstr ""
 #. Name for PH-MOU
 #, fuzzy
 msgid "Mountain Province"
-msgstr "Estado/Provincia:"
+msgstr "Estado/Provincia"
 
 #. Name for PH-MSC
 #, fuzzy
 msgid "Misamis Occidental"
-msgstr "Cliente de correo:"
+msgstr "Cliente de correo"
 
 #. Name for PH-MSR
 msgid "Misamis Oriental"
@@ -14915,7 +14914,7 @@ msgstr "North Dakota"
 #. Name for PH-NEC
 #, fuzzy
 msgid "Negros Occidental"
-msgstr "Cliente de correo:"
+msgstr "Cliente de correo"
 
 #. Name for PH-NER
 msgid "Negros Oriental"
@@ -15081,7 +15080,7 @@ msgstr ""
 #. Name for PL-LD
 #, fuzzy
 msgid "Łódzkie"
-msgstr "Usuario:"
+msgstr "Usuario"
 
 #. Name for PL-LU
 msgid "Lubelskie"
@@ -17019,7 +17018,7 @@ msgstr ""
 #. Name for SI-097
 #, fuzzy
 msgid "Puconci"
-msgstr "Teléfono:"
+msgstr "Teléfono"
 
 #. Name for SI-098
 msgid "Rače-Fram"
@@ -17211,7 +17210,7 @@ msgstr "Venezuela"
 #. Name for SI-139
 #, fuzzy
 msgid "Vojnik"
-msgstr "Teléfono:"
+msgstr "Teléfono"
 
 #. Name for SI-140
 #, fuzzy
@@ -18218,7 +18217,7 @@ msgstr ""
 #. Name for TH-42
 #, fuzzy
 msgid "Loei"
-msgstr "Usuario:"
+msgstr "Usuario"
 
 #. Name for TH-43
 msgid "Nong Khai"
@@ -19833,9 +19832,8 @@ msgid "Johnston Atoll"
 msgstr ""
 
 #. Name for UM-71
-#, fuzzy
 msgid "Midway Islands"
-msgstr "Islas Caimán"
+msgstr "Midway, islas"
 
 #. Name for UM-76
 #, fuzzy
@@ -19844,7 +19842,7 @@ msgstr "Islas Marshall"
 
 #. Name for UM-79
 msgid "Wake Island"
-msgstr ""
+msgstr "Wake, isla"
 
 #. Name for UM-81
 #, fuzzy
@@ -20543,7 +20541,7 @@ msgstr ""
 #. Name for VN-63
 #, fuzzy
 msgid "Hà Nam"
-msgstr "Apellido:"
+msgstr "Apellido"
 
 #. Name for VN-66
 msgid "Hưng Yên"
@@ -20589,7 +20587,7 @@ msgstr ""
 #. Name for VN-HN
 #, fuzzy
 msgid "Hà Nội"
-msgstr "Apellido:"
+msgstr "Apellido"
 
 #. Name for VN-HP
 msgid "Hải Phòng"

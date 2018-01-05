@@ -1,9 +1,12 @@
-# Portuguese translation ISO 639 Language names
-# Copyright (C) 2001,2004 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Portuguese
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Filipe Maia <fmaia@gmx.net>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#  - translations from ICU-3.0
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -899,7 +902,7 @@ msgstr ""
 #. Name for aic
 #, fuzzy
 msgid "Ainbai"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for aid
 msgid "Alngith"
@@ -2114,7 +2117,7 @@ msgstr ""
 #. Name for atb
 #, fuzzy
 msgid "Zaiwa"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for atc
 msgid "Atsahuaca"
@@ -2592,12 +2595,12 @@ msgstr "minangkabau"
 #. Name for ayh
 #, fuzzy
 msgid "Hadrami Arabic"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Inverted name for ayh
 #, fuzzy
 msgid "Arabic, Hadrami"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for ayi
 #, fuzzy
@@ -3122,7 +3125,7 @@ msgstr "congolês"
 #. Name for bct
 #, fuzzy
 msgid "Bendi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bcu
 #, fuzzy
@@ -3253,7 +3256,7 @@ msgstr ""
 #. Name for bdu
 #, fuzzy
 msgid "Oroko"
-msgstr "de:"
+msgstr "de"
 
 #. Name for bdv
 msgid "Bodo Parja"
@@ -3516,7 +3519,7 @@ msgstr "soto, do sul"
 #. Name for bft
 #, fuzzy
 msgid "Balti"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bfu
 #, fuzzy
@@ -3689,7 +3692,7 @@ msgstr "Tailandês"
 #. Name for bhb
 #, fuzzy
 msgid "Bhili"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bhc
 #, fuzzy
@@ -3734,7 +3737,7 @@ msgstr "kachin"
 #. Name for bhl
 #, fuzzy
 msgid "Bimin"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bhm
 #, fuzzy
@@ -3828,7 +3831,7 @@ msgstr "Tailandês"
 #. Name for bid
 #, fuzzy
 msgid "Bidiyo"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bie
 msgid "Bepour"
@@ -3842,7 +3845,7 @@ msgstr "banda"
 #. Name for big
 #, fuzzy
 msgid "Biangai"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bij
 msgid "Vaghat-Ya-Bijim-Legeri"
@@ -3865,7 +3868,7 @@ msgstr "bemba"
 #. Name for bin
 #, fuzzy
 msgid "Bini"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bio
 #, fuzzy
@@ -3880,7 +3883,7 @@ msgstr "bislamá"
 #. Name for biq
 #, fuzzy
 msgid "Bipi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bir
 #, fuzzy
@@ -3894,7 +3897,7 @@ msgstr "bislamá"
 #. Name for bit
 #, fuzzy
 msgid "Berinomo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for biu
 #, fuzzy
@@ -3928,7 +3931,7 @@ msgstr "Tailandês"
 #. Name for biz
 #, fuzzy
 msgid "Baloi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bja
 #, fuzzy
@@ -4068,7 +4071,7 @@ msgstr ""
 #. Name for bkd
 #, fuzzy
 msgid "Binukid"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bkf
 #, fuzzy
@@ -4142,7 +4145,7 @@ msgstr "soto, setentrional"
 #. Name for bkt
 #, fuzzy
 msgid "Boloki"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bku
 #, fuzzy
@@ -4211,7 +4214,7 @@ msgstr "Kuanyama"
 #. Name for bli
 #, fuzzy
 msgid "Bolia"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for blj
 #, fuzzy
@@ -4230,7 +4233,7 @@ msgstr "Coreano"
 #. Name for bll
 #, fuzzy
 msgid "Biloxi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for blm
 msgid "Beli (Sudan)"
@@ -4262,7 +4265,7 @@ msgstr ""
 #. Name for blr
 #, fuzzy
 msgid "Blang"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bls
 #, fuzzy
@@ -4532,7 +4535,7 @@ msgstr ""
 #. Name for bnw
 #, fuzzy
 msgid "Bisis"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bnx
 msgid "Bangubangu"
@@ -4569,7 +4572,7 @@ msgstr "lunda"
 #. Name for bof
 #, fuzzy
 msgid "Bolon"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bog
 msgid "Bamako Sign Language"
@@ -4601,12 +4604,12 @@ msgstr "bikol"
 #. Name for bom
 #, fuzzy
 msgid "Berom"
-msgstr "de:"
+msgstr "de"
 
 #. Name for bon
 #, fuzzy
 msgid "Bine"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for boo
 msgid "Tiemacèwè Bozo"
@@ -4643,7 +4646,7 @@ msgstr "congolês"
 #. Name for bou
 #, fuzzy
 msgid "Bondei"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bov
 #, fuzzy
@@ -4704,12 +4707,12 @@ msgstr "balúchi"
 #. Name for bpj
 #, fuzzy
 msgid "Binji"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bpk
 #, fuzzy
 msgid "Orowe"
-msgstr "de:"
+msgstr "de"
 
 #. Name for bpl
 msgid "Broome Pearling Lugger Pidgin"
@@ -5047,7 +5050,7 @@ msgstr "Búlgaro"
 #. Name for brz
 #, fuzzy
 msgid "Bilbil"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bsa
 msgid "Abinomn"
@@ -5095,7 +5098,7 @@ msgstr "Margens"
 #. Name for bsj
 #, fuzzy
 msgid "Bangwinji"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bsk
 #, fuzzy
@@ -5663,7 +5666,7 @@ msgstr ""
 #. Name for bwz
 #, fuzzy
 msgid "Bwisi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bxa
 #, fuzzy
@@ -6018,7 +6021,7 @@ msgstr "salishan languages"
 #. Name for bzt
 #, fuzzy
 msgid "Brithenig"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for bzu
 #, fuzzy
@@ -6665,7 +6668,7 @@ msgstr "chipewyan"
 #. Name for cir
 #, fuzzy
 msgid "Tiri"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for ciw
 #, fuzzy
@@ -7163,7 +7166,7 @@ msgstr ""
 #. Name for coo
 #, fuzzy
 msgid "Comox"
-msgstr "de:"
+msgstr "de"
 
 #. Name for cop
 msgid "Coptic"
@@ -7747,7 +7750,7 @@ msgstr ""
 #. Name for cul
 #, fuzzy
 msgid "Culina"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for cuo
 msgid "Cumanagoto"
@@ -8527,7 +8530,7 @@ msgstr "salishan languages"
 #. Name for dir
 #, fuzzy
 msgid "Dirim"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for dis
 #, fuzzy
@@ -8542,7 +8545,7 @@ msgstr "Tailandês"
 #. Name for diu
 #, fuzzy
 msgid "Diriku"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for div
 #, fuzzy
@@ -8957,7 +8960,7 @@ msgstr "Russo"
 #. Name for doy
 #, fuzzy
 msgid "Dompo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for doz
 #, fuzzy
@@ -8977,7 +8980,7 @@ msgstr "Margens"
 #. Name for drc
 #, fuzzy
 msgid "Minderico"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for drd
 #, fuzzy
@@ -9328,7 +9331,7 @@ msgstr "diúla"
 #. Name for dwa
 #, fuzzy
 msgid "Diri"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for dwr
 #, fuzzy
@@ -9628,7 +9631,7 @@ msgstr ""
 
 #. Inverted name for ell
 msgid "Greek, Modern (1453-)"
-msgstr ""
+msgstr "Grego, Moderno (1453-)"
 
 #. Name for elm
 #, fuzzy
@@ -10746,7 +10749,7 @@ msgstr "siksika"
 #. Name for gbf
 #, fuzzy
 msgid "Gaikundi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gbg
 msgid "Gbanziri"
@@ -10953,7 +10956,7 @@ msgstr ""
 #. Name for gdi
 #, fuzzy
 msgid "Gundi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gdj
 #, fuzzy
@@ -11010,7 +11013,7 @@ msgstr ""
 #. Name for gdx
 #, fuzzy
 msgid "Godwari"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gea
 #, fuzzy
@@ -11345,7 +11348,7 @@ msgstr ""
 #. Name for gjm
 #, fuzzy
 msgid "Gunditjmara"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gjn
 #, fuzzy
@@ -11585,7 +11588,7 @@ msgstr "serere"
 #. Name for gni
 #, fuzzy
 msgid "Gooniyandi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gnk
 #, fuzzy
@@ -11665,12 +11668,12 @@ msgstr "gorontalo"
 #. Name for god
 #, fuzzy
 msgid "Godié"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for goe
 #, fuzzy
 msgid "Gongduk"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gof
 #, fuzzy
@@ -11703,7 +11706,7 @@ msgstr ""
 #. Name for gok
 #, fuzzy
 msgid "Gowli"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gol
 #, fuzzy
@@ -11722,7 +11725,7 @@ msgstr "Coreano"
 #. Name for gon
 #, fuzzy
 msgid "Gondi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for goo
 msgid "Gone Dau"
@@ -11745,7 +11748,7 @@ msgstr "gorontalo"
 #. Name for gos
 #, fuzzy
 msgid "Gronings"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for got
 msgid "Gothic"
@@ -11768,7 +11771,7 @@ msgstr ""
 #. Name for goy
 #, fuzzy
 msgid "Goundo"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for goz
 #, fuzzy
@@ -12133,7 +12136,7 @@ msgstr "Holandês"
 #. Name for gvf
 #, fuzzy
 msgid "Golin"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for gvj
 msgid "Guajá"
@@ -12385,7 +12388,7 @@ msgstr "washo"
 #. Name for hai
 #, fuzzy
 msgid "Haida"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for haj
 #, fuzzy
@@ -12439,7 +12442,7 @@ msgstr "Margens"
 #. Name for has
 #, fuzzy
 msgid "Haisla"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hat
 #, fuzzy
@@ -12543,7 +12546,7 @@ msgstr ""
 #. Name for hdy
 #, fuzzy
 msgid "Hadiyya"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hea
 #, fuzzy
@@ -12628,12 +12631,12 @@ msgstr "Parar"
 #. Name for hif
 #, fuzzy
 msgid "Fiji Hindi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Inverted name for hif
 #, fuzzy
 msgid "Hindi, Fiji"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hig
 #, fuzzy
@@ -12647,7 +12650,7 @@ msgstr ""
 #. Name for hii
 #, fuzzy
 msgid "Hinduri"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hij
 msgid "Hijuk"
@@ -12664,7 +12667,7 @@ msgstr "hiligaynon"
 #. Name for hin
 #, fuzzy
 msgid "Hindi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hio
 #, fuzzy
@@ -12674,7 +12677,7 @@ msgstr "tsonga"
 #. Name for hir
 #, fuzzy
 msgid "Himarimã"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hit
 msgid "Hittite"
@@ -12691,7 +12694,7 @@ msgstr ""
 #. Name for hji
 #, fuzzy
 msgid "Haji"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hka
 #, fuzzy
@@ -12715,7 +12718,7 @@ msgstr "idiomas iroqueses"
 #. Name for hla
 #, fuzzy
 msgid "Halia"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hlb
 #, fuzzy
@@ -12864,7 +12867,7 @@ msgstr "hmong"
 #. Name for hmo
 #, fuzzy
 msgid "Hiri Motu"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hmp
 #, fuzzy
@@ -12965,7 +12968,7 @@ msgstr ""
 #. Name for hni
 #, fuzzy
 msgid "Hani"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hnj
 #, fuzzy
@@ -13019,7 +13022,7 @@ msgstr ""
 #. Name for hoe
 #, fuzzy
 msgid "Horom"
-msgstr "de:"
+msgstr "de"
 
 #. Name for hoh
 msgid "Hobyót"
@@ -13121,7 +13124,7 @@ msgstr ""
 #. Name for hro
 #, fuzzy
 msgid "Haroi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for hrp
 msgid "Nhirrpi"
@@ -13204,7 +13207,7 @@ msgstr ""
 #. Name for hts
 #, fuzzy
 msgid "Hadza"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for htu
 msgid "Hitu"
@@ -13223,7 +13226,7 @@ msgstr "hitita"
 #. Name for hub
 #, fuzzy
 msgid "Huambisa"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for huc
 #, fuzzy
@@ -13436,7 +13439,7 @@ msgstr "ibo"
 #. Name for ibd
 #, fuzzy
 msgid "Iwaidja"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for ibe
 msgid "Akpes"
@@ -13685,7 +13688,7 @@ msgstr ""
 #. Name for ije
 #, fuzzy
 msgid "Biseni"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for ijj
 msgid "Ede Ije"
@@ -13908,7 +13911,7 @@ msgstr "niueano"
 #. Name for inn
 #, fuzzy
 msgid "Isinai"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for ino
 msgid "Inoke-Yate"
@@ -18889,7 +18892,7 @@ msgstr ""
 #. Name for lic
 #, fuzzy
 msgid "Hlai"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for lid
 #, fuzzy
@@ -19134,7 +19137,7 @@ msgstr ""
 #. Name for llf
 #, fuzzy
 msgid "Hermit"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for llg
 msgid "Lole"
@@ -19471,7 +19474,7 @@ msgstr ""
 #. Name for loo
 #, fuzzy
 msgid "Lombo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for lop
 #, fuzzy
@@ -19735,7 +19738,7 @@ msgstr "Endereço"
 #. Name for lto
 #, fuzzy
 msgid "Tsotso"
-msgstr "de:"
+msgstr "de"
 
 #. Name for lts
 #, fuzzy
@@ -20917,7 +20920,7 @@ msgstr ""
 #. Name for mhe
 #, fuzzy
 msgid "Besisi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for mhf
 #, fuzzy
@@ -21135,8 +21138,9 @@ msgid "Mixe, Isthmus"
 msgstr ""
 
 #. Name for mis
+#, fuzzy
 msgid "Uncoded languages"
-msgstr ""
+msgstr "salishan languages"
 
 #. Name for mit
 #, fuzzy
@@ -21781,7 +21785,7 @@ msgstr "Chinês"
 #. Name for mnq
 #, fuzzy
 msgid "Minriq"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for mnr
 msgid "Mono (USA)"
@@ -21994,7 +21998,7 @@ msgstr ""
 #. Name for mpn
 #, fuzzy
 msgid "Mindiri"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for mpo
 msgid "Miu"
@@ -22643,7 +22647,7 @@ msgstr "mongo"
 
 #. Name for mul
 msgid "Multiple languages"
-msgstr ""
+msgstr "Vários idiomas"
 
 #. Name for mum
 #, fuzzy
@@ -25073,7 +25077,7 @@ msgstr ""
 #. Name for noi
 #, fuzzy
 msgid "Noiri"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for noj
 #, fuzzy
@@ -25327,7 +25331,7 @@ msgstr "nauruano"
 #. Name for nrm
 #, fuzzy
 msgid "Narom"
-msgstr "de:"
+msgstr "de"
 
 #. Name for nrn
 #, fuzzy
@@ -25823,7 +25827,7 @@ msgstr ""
 #. Name for nxi
 #, fuzzy
 msgid "Nindi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for nxk
 msgid "Koki Naga"
@@ -25952,7 +25956,7 @@ msgstr ""
 #. Name for nyq
 #, fuzzy
 msgid "Nayini"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for nyr
 #, fuzzy
@@ -26040,12 +26044,12 @@ msgstr ""
 #. Name for oaa
 #, fuzzy
 msgid "Orok"
-msgstr "de:"
+msgstr "de"
 
 #. Name for oac
 #, fuzzy
 msgid "Oroch"
-msgstr "de:"
+msgstr "de"
 
 #. Name for oar
 #, fuzzy
@@ -26333,7 +26337,7 @@ msgstr ""
 #. Name for okb
 #, fuzzy
 msgid "Okobo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for okd
 #, fuzzy
@@ -26446,7 +26450,7 @@ msgstr ""
 #. Name for olm
 #, fuzzy
 msgid "Oloma"
-msgstr "de:"
+msgstr "de"
 
 #. Name for olo
 msgid "Livvi"
@@ -26455,7 +26459,7 @@ msgstr ""
 #. Name for olr
 #, fuzzy
 msgid "Olrat"
-msgstr "de:"
+msgstr "de"
 
 #. Name for olt
 #, fuzzy
@@ -26503,12 +26507,12 @@ msgstr ""
 #. Name for omk
 #, fuzzy
 msgid "Omok"
-msgstr "de:"
+msgstr "de"
 
 #. Name for oml
 #, fuzzy
 msgid "Ombo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for omn
 #, fuzzy
@@ -26700,12 +26704,12 @@ msgstr ""
 #. Name for ora
 #, fuzzy
 msgid "Oroha"
-msgstr "de:"
+msgstr "de"
 
 #. Name for orc
 #, fuzzy
 msgid "Orma"
-msgstr "de:"
+msgstr "de"
 
 #. Name for ore
 msgid "Orejón"
@@ -26728,7 +26732,7 @@ msgstr "Coreano"
 #. Name for orm
 #, fuzzy
 msgid "Oromo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for orn
 msgid "Orang Kanaq"
@@ -26737,12 +26741,12 @@ msgstr ""
 #. Name for oro
 #, fuzzy
 msgid "Orokolo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for orr
 #, fuzzy
 msgid "Oruma"
-msgstr "de:"
+msgstr "de"
 
 #. Name for ors
 msgid "Orang Seletar"
@@ -26778,7 +26782,7 @@ msgstr ""
 #. Name for orx
 #, fuzzy
 msgid "Oro"
-msgstr "de:"
+msgstr "de"
 
 #. Name for ory
 #, fuzzy
@@ -26788,7 +26792,7 @@ msgstr "oriya"
 #. Name for orz
 #, fuzzy
 msgid "Ormu"
-msgstr "de:"
+msgstr "de"
 
 #. Name for osa
 msgid "Osage"
@@ -26807,7 +26811,7 @@ msgstr "Russo"
 #. Name for oso
 #, fuzzy
 msgid "Ososo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for osp
 #, fuzzy
@@ -26930,7 +26934,7 @@ msgstr ""
 #. Name for otr
 #, fuzzy
 msgid "Otoro"
-msgstr "de:"
+msgstr "de"
 
 #. Name for ots
 msgid "Estado de México Otomi"
@@ -27664,7 +27668,7 @@ msgstr "timne"
 #. Name for pic
 #, fuzzy
 msgid "Pinji"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for pid
 msgid "Piaroa"
@@ -27689,7 +27693,7 @@ msgstr ""
 #. Name for pii
 #, fuzzy
 msgid "Pini"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for pij
 msgid "Pijao"
@@ -27772,7 +27776,7 @@ msgstr ""
 #. Name for pkb
 #, fuzzy
 msgid "Pokomo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for pkc
 msgid "Paekche"
@@ -28032,7 +28036,7 @@ msgstr "Le_gal"
 #. Name for pmm
 #, fuzzy
 msgid "Pomo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for pmn
 msgid "Pam"
@@ -28146,7 +28150,7 @@ msgstr ""
 #. Name for pnj
 #, fuzzy
 msgid "Pinjarup"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for pnk
 #, fuzzy
@@ -28218,7 +28222,7 @@ msgstr "Eslovêno"
 #. Name for pny
 #, fuzzy
 msgid "Pinyin"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for pnz
 msgid "Pana (Central African Republic)"
@@ -29894,7 +29898,7 @@ msgstr "Romêno"
 #. Name for rof
 #, fuzzy
 msgid "Rombo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for rog
 #, fuzzy
@@ -29961,7 +29965,7 @@ msgstr "Endereço"
 #. Name for rri
 #, fuzzy
 msgid "Ririo"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for rro
 #, fuzzy
@@ -30829,7 +30833,7 @@ msgstr ""
 #. Name for sgc
 #, fuzzy
 msgid "Kipsigis"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for sgd
 #, fuzzy
@@ -31110,7 +31114,7 @@ msgstr "Eslovêno"
 #. Name for sir
 #, fuzzy
 msgid "Siri"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for sis
 msgid "Siuslaw"
@@ -31545,7 +31549,7 @@ msgstr ""
 #. Name for smk
 #, fuzzy
 msgid "Bolinao"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for sml
 #, fuzzy
@@ -32201,7 +32205,7 @@ msgstr ""
 #. Name for ssd
 #, fuzzy
 msgid "Siroi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for sse
 #, fuzzy
@@ -33869,7 +33873,7 @@ msgstr "timne"
 #. Name for tin
 #, fuzzy
 msgid "Tindi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for tio
 #, fuzzy
@@ -34407,7 +34411,7 @@ msgstr ""
 #. Name for tno
 #, fuzzy
 msgid "Toromono"
-msgstr "de:"
+msgstr "de"
 
 #. Name for tnp
 msgid "Whitesands"
@@ -35467,7 +35471,7 @@ msgstr "tswana"
 #. Name for txa
 #, fuzzy
 msgid "Tombonuo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for txb
 #, fuzzy
@@ -36131,7 +36135,7 @@ msgstr ""
 #. Name for urx
 #, fuzzy
 msgid "Urimo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for ury
 #, fuzzy
@@ -37368,7 +37372,7 @@ msgstr "Margens"
 #. Name for wmx
 #, fuzzy
 msgid "Womo"
-msgstr "de:"
+msgstr "de"
 
 #. Name for wnb
 msgid "Wanambre"
@@ -38107,7 +38111,7 @@ msgstr "Iban"
 #. Name for xed
 #, fuzzy
 msgid "Hdi"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for xeg
 msgid "//Xegwi"
@@ -38214,7 +38218,7 @@ msgstr "zunhi"
 #. Name for xhd
 #, fuzzy
 msgid "Hadrami"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for xhe
 #, fuzzy
@@ -38253,7 +38257,7 @@ msgstr "Iban"
 #. Name for xii
 #, fuzzy
 msgid "Xiri"
-msgstr "Procurar:"
+msgstr "Procurar"
 
 #. Name for xil
 #, fuzzy

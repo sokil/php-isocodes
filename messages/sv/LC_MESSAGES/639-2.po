@@ -1,8 +1,8 @@
 # Swedish translation of ISO 639 language names.
-# Copyright © 2004, 2016 Free Software Foundation, Inc.
+# Copyright © 2004, 2016, 2017 Free Software Foundation, Inc.
 # This file is distributed under the same license as the iso-codes package.
 # Christian Rose <menthos@menthos.com>, 2004.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016, 2017.
 #
 # Many of these names are taken directly from
 # http://www.softwolves.pp.se/misc/spraklista.html, a page maintained by
@@ -32,14 +32,15 @@ msgstr ""
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2016-08-22 02:34+0200\n"
+"PO-Revision-Date: 2017-12-07 21:45+0100\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.8\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Poedit 2.0.4\n"
 
 #. Name for aar
 msgid "Afar"
@@ -959,8 +960,6 @@ msgstr "Kambodjanska (Khmer)"
 
 # Libris vill ha det så.
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
 msgstr "Sakiska (khotanesiska)"
 
@@ -1402,10 +1401,8 @@ msgstr "Nzima"
 
 # Libris vill ha det så.
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "Langue d'oc (1500-)"
+msgstr "Langue d'oc (1500-); Provensalska"
 
 # Libris vill ha det så.
 #. Name for oji
@@ -1500,8 +1497,6 @@ msgid "Prakrit languages"
 msgstr "Prakritspråk"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal (to 1500)"
 msgid "Provençal, Old (to 1500)"
 msgstr "Provensalska (-1500)"
 
@@ -1542,10 +1537,8 @@ msgid "Romany"
 msgstr "Romani"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Moldaviska"
+msgstr "Rumänska; Moldaviska"
 
 #. Name for run
 msgid "Rundi"
@@ -1572,10 +1565,8 @@ msgid "Yakut"
 msgstr "Jakutiska"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "Sydamerikanska indianspråk"
+msgstr "Sydamerikanska indianspråk (övriga)"
 
 #. Name for sal
 msgid "Salishan languages"

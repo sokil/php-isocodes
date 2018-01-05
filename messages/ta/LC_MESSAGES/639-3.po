@@ -1,11 +1,10 @@
-# translation of iso_639_3-3.10.2.ta.po to Tamil
-# Translation of ISO 639-3 (language names) to LANGUAGE
+# Translation of ISO 639-3 to Tamil
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#
-#   FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright ©
 # I. Felix <ifelix25@gmail.com>>, 2009.
 msgid ""
 msgstr ""
@@ -13,15 +12,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2009-08-10 12:13+0530\n"
-"Last-Translator: I. Felix <ifelix25@gmail.com>>\n"
-"Language-Team: Tamil <gnome-tamil-translation@googlegroups.com>\n"
+"PO-Revision-Date: 2017-12-12 10:48+0000\n"
+"Last-Translator: Naveen Rajan <naveentherocker1234@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\\n\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.18-dev\n"
 "X-Poedit-Language: Tamil\n"
 "X-Poedit-Country: INDIA\n"
 
@@ -43,7 +43,7 @@ msgstr "அமல்"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "அல்பேனியன் அல்பேனியன்"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
@@ -430,11 +430,11 @@ msgstr "அத்ஹோலா"
 
 #. Name for adi
 msgid "Adi"
-msgstr "அடி "
+msgstr "அடி"
 
 #. Name for adj
 msgid "Adioukrou"
-msgstr " "
+msgstr ""
 
 #. Name for adl
 msgid "Galo"
@@ -1485,7 +1485,7 @@ msgstr "அலோர்"
 
 #. Name for aom
 msgid "Ömie"
-msgstr " "
+msgstr ""
 
 #. Name for aon
 msgid "Bumbita Arapesh"
@@ -3900,11 +3900,11 @@ msgstr "அனி"
 
 #. Name for blp
 msgid "Blablanga"
-msgstr "பளபளான்கா                    "
+msgstr "பளபளான்கா"
 
 #. Name for blq
 msgid "Baluan-Pam"
-msgstr " "
+msgstr ""
 
 #. Name for blr
 msgid "Blang"
@@ -5620,7 +5620,7 @@ msgstr "கனிசானா"
 
 #. Name for cbb
 msgid "Cabiyarí"
-msgstr "கபியாரி "
+msgstr "கபியாரி"
 
 #. Name for cbc
 msgid "Carapana"
@@ -9465,7 +9465,7 @@ msgstr "பின்னிஷ்"
 
 #. Inverted name for fkv
 msgid "Finnish, Kven"
-msgstr "பின்னிஷ், "
+msgstr "பின்னிஷ்,"
 
 #. Name for fla
 msgid "Kalispel-Pend d'Oreille"
@@ -11505,7 +11505,7 @@ msgstr "ஹீப்ரு"
 
 #. Inverted name for hbo
 msgid "Hebrew, Ancient"
-msgstr "ஹீப்ரு, "
+msgstr "ஹீப்ரு,"
 
 #. Name for hbs
 msgid "Serbo-Croatian"
@@ -12365,7 +12365,7 @@ msgstr "இபன்"
 
 #. Name for ibb
 msgid "Ibibio"
-msgstr " "
+msgstr ""
 
 #. Name for ibd
 msgid "Iwaidja"
@@ -13005,7 +13005,7 @@ msgstr "இடெல்மென்"
 
 #. Name for itm
 msgid "Itu Mbon Uzo"
-msgstr "இட்டு ம்போன் உஸோ "
+msgstr "இட்டு ம்போன் உஸோ"
 
 #. Name for ito
 msgid "Itonama"
@@ -13110,7 +13110,7 @@ msgstr "யாகா (காங்கோ)"
 
 #. Name for izh
 msgid "Ingrian"
-msgstr "இன்கிரியன்         "
+msgstr "இன்கிரியன்"
 
 #. Name for izr
 msgid "Izere"
@@ -29305,11 +29305,11 @@ msgstr "செனோவ்ஃபோ, சப்பைய்ரீ"
 #. Name for spq
 #, fuzzy
 msgid "Loreto-Ucayali Spanish"
-msgstr "ஸ்பானிஷ், லோர்டோ-உகாயாலி "
+msgstr "ஸ்பானிஷ், லோர்டோ-உகாயாலி"
 
 #. Inverted name for spq
 msgid "Spanish, Loreto-Ucayali"
-msgstr "ஸ்பானிஷ், லோர்டோ-உகாயாலி "
+msgstr "ஸ்பானிஷ், லோர்டோ-உகாயாலி"
 
 #. Name for spr
 msgid "Saparua"
@@ -30064,7 +30064,7 @@ msgstr "சுபேனேன், சென்ட்ரல்"
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "கிளாசிகல் சைரியாக்"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"

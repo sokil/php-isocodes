@@ -1,12 +1,13 @@
-# Turkish translations for ISO-3166 Country names
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Turkish
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Nilgün Belma Bugüner <nilgun@fide.org>, 2001
 # Ömer Fadıl USTA <omer_fad@hotmail.com>, 1999
-#    (translations from drakfw)
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#
-# $Id$
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -1710,7 +1711,7 @@ msgstr ""
 #. Name for BF-PON
 #, fuzzy
 msgid "Poni"
-msgstr "Telefon:"
+msgstr "Telefon"
 
 #. Name for BF-SEN
 #, fuzzy
@@ -2095,7 +2096,7 @@ msgstr ""
 #. Name for BO-L, Name for HN-LP, Name for SV-PA
 #, fuzzy
 msgid "La Paz"
-msgstr "Soyadı:"
+msgstr "Soyadı"
 
 #. Name for BO-N
 #, fuzzy
@@ -5044,7 +5045,7 @@ msgstr "Slovenya"
 #. Name for ES-GC
 #, fuzzy
 msgid "Las Palmas"
-msgstr "Soyadı:"
+msgstr "Soyadı"
 
 #. Name for ES-GI
 #, fuzzy
@@ -5379,7 +5380,7 @@ msgstr "İsrail"
 #. Name for FM-PNI
 #, fuzzy
 msgid "Pohnpei"
-msgstr "Telefon:"
+msgstr "Telefon"
 
 #. Name for FM-TRK
 msgid "Chuuk"
@@ -5691,7 +5692,7 @@ msgstr ""
 #. Name for FR-69
 #, fuzzy
 msgid "Rhône"
-msgstr "Telefon:"
+msgstr "Telefon"
 
 #. Name for FR-70
 msgid "Haute-Saône"
@@ -5805,7 +5806,7 @@ msgstr ""
 #. Name for FR-ARA
 #, fuzzy
 msgid "Auvergne-Rhône-Alpes"
-msgstr "Telefon:"
+msgstr "Telefon"
 
 #. Name for FR-BFC
 msgid "Bourgogne-Franche-Comté"
@@ -5847,7 +5848,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadalup"
 
 #. Name for FR-HDF
 #, fuzzy
@@ -6150,7 +6151,7 @@ msgstr ""
 #. Name for GB-COV
 #, fuzzy
 msgid "Coventry"
-msgstr "Kuruluş:"
+msgstr "Kuruluş"
 
 #. Name for GB-CRF
 #, fuzzy
@@ -6165,7 +6166,7 @@ msgstr "Kamerun"
 #. Name for GB-CWY
 #, fuzzy
 msgid "Conwy"
-msgstr "Kuruluş:"
+msgstr "Kuruluş"
 
 #. Name for GB-DAL
 #, fuzzy
@@ -6829,7 +6830,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "Birleşik Krallık"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -7440,7 +7441,7 @@ msgstr "Bulgaristan"
 #. Name for GR-73
 #, fuzzy
 msgid "Rodopi"
-msgstr "Kullanıcı adı:"
+msgstr "Kullanıcı adı"
 
 #. Name for GR-81
 msgid "Dodekanisos"
@@ -7755,7 +7756,7 @@ msgstr ""
 #. Name for HN-CP
 #, fuzzy
 msgid "Copán"
-msgstr "Kuruluş:"
+msgstr "Kuruluş"
 
 #. Name for HN-CR
 #, fuzzy
@@ -9161,7 +9162,7 @@ msgstr ""
 #. Name for IT-LO
 #, fuzzy
 msgid "Lodi"
-msgstr "Kullanıcı adı:"
+msgstr "Kullanıcı adı"
 
 #. Name for IT-LT
 #, fuzzy
@@ -12929,7 +12930,7 @@ msgstr "Alabama"
 #. Name for MT-43
 #, fuzzy
 msgid "Qormi"
-msgstr "Kullanıcı adı:"
+msgstr "Kullanıcı adı"
 
 #. Name for MT-44
 msgid "Qrendi"
@@ -13816,7 +13817,7 @@ msgstr "Kansas"
 #. Name for NG-KO
 #, fuzzy
 msgid "Kogi"
-msgstr "Kullanıcı adı:"
+msgstr "Kullanıcı adı"
 
 #. Name for NG-KT
 #, fuzzy
@@ -13949,11 +13950,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for NL-DR
 #, fuzzy
@@ -14155,7 +14156,7 @@ msgstr "Kanada"
 #. Name for NP-KO
 #, fuzzy
 msgid "Kosi"
-msgstr "Kullanıcı adı:"
+msgstr "Kullanıcı adı"
 
 #. Name for NP-LU
 #, fuzzy
@@ -14909,12 +14910,12 @@ msgstr ""
 #. Name for PH-MOU
 #, fuzzy
 msgid "Mountain Province"
-msgstr "Eyalet/İl:"
+msgstr "Eyalet/İl"
 
 #. Name for PH-MSC
 #, fuzzy
 msgid "Misamis Occidental"
-msgstr "Posta istemcisi:"
+msgstr "Posta istemcisi"
 
 #. Name for PH-MSR
 msgid "Misamis Oriental"
@@ -14928,7 +14929,7 @@ msgstr "North Dakota"
 #. Name for PH-NEC
 #, fuzzy
 msgid "Negros Occidental"
-msgstr "Posta istemcisi:"
+msgstr "Posta istemcisi"
 
 #. Name for PH-NER
 msgid "Negros Oriental"
@@ -15094,7 +15095,7 @@ msgstr ""
 #. Name for PL-LD
 #, fuzzy
 msgid "Łódzkie"
-msgstr "Kullanıcı adı:"
+msgstr "Kullanıcı adı"
 
 #. Name for PL-LU
 msgid "Lubelskie"
@@ -17032,7 +17033,7 @@ msgstr ""
 #. Name for SI-097
 #, fuzzy
 msgid "Puconci"
-msgstr "Telefon:"
+msgstr "Telefon"
 
 #. Name for SI-098
 msgid "Rače-Fram"
@@ -17224,7 +17225,7 @@ msgstr "Venezuella"
 #. Name for SI-139
 #, fuzzy
 msgid "Vojnik"
-msgstr "Telefon:"
+msgstr "Telefon"
 
 #. Name for SI-140
 #, fuzzy
@@ -18230,7 +18231,7 @@ msgstr ""
 #. Name for TH-42
 #, fuzzy
 msgid "Loei"
-msgstr "Kullanıcı adı:"
+msgstr "Kullanıcı adı"
 
 #. Name for TH-43
 msgid "Nong Khai"
@@ -20557,7 +20558,7 @@ msgstr ""
 #. Name for VN-63
 #, fuzzy
 msgid "Hà Nam"
-msgstr "Soyadı:"
+msgstr "Soyadı"
 
 #. Name for VN-66
 msgid "Hưng Yên"
@@ -20603,7 +20604,7 @@ msgstr ""
 #. Name for VN-HN
 #, fuzzy
 msgid "Hà Nội"
-msgstr "Soyadı:"
+msgstr "Soyadı"
 
 #. Name for VN-HP
 msgid "Hải Phòng"

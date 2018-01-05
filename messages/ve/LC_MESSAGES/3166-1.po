@@ -10,17 +10,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2002-11-13 22:07SAST\n"
-"Last-Translator: Fhatuwani Rambau <fhatuwani@translate.org.za>\n"
-"Language-Team: Venda <venda@translate.org.za>\n"
+"PO-Revision-Date: 2018-01-01 21:32+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Venda <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/ve/>\n"
 "Language: ve\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0beta2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -265,7 +267,7 @@ msgstr "Faroe Islands"
 
 #. Name for BWA
 msgid "Botswana"
-msgstr "Botswana"
+msgstr "Vhu-Tswana"
 
 #. Official name for BWA
 msgid "Republic of Botswana"
@@ -293,7 +295,7 @@ msgstr ""
 
 #. Name for CHL
 msgid "Chile"
-msgstr "Chile"
+msgstr "Shile"
 
 #. Official name for CHL
 #, fuzzy
@@ -541,7 +543,7 @@ msgstr ""
 
 #. Name for FRA
 msgid "France"
-msgstr "France"
+msgstr "Fura"
 
 #. Official name for FRA
 #, fuzzy
@@ -928,7 +930,7 @@ msgstr ""
 
 #. Name for LSO
 msgid "Lesotho"
-msgstr "Lesotho"
+msgstr "Li-Sotho"
 
 #. Official name for LSO
 msgid "Kingdom of Lesotho"
@@ -936,7 +938,7 @@ msgstr ""
 
 #. Name for LTU
 msgid "Lithuania"
-msgstr "Lithuania"
+msgstr "Lituania"
 
 #. Official name for LTU
 #, fuzzy
@@ -1093,7 +1095,7 @@ msgstr "Northern Mariana Islands"
 
 #. Name for MOZ
 msgid "Mozambique"
-msgstr "Mozambique"
+msgstr "Mozambikwi"
 
 #. Official name for MOZ
 #, fuzzy
@@ -1356,7 +1358,7 @@ msgstr ""
 #. Name for REU
 #, fuzzy
 msgid "Réunion"
-msgstr "Fhethu:"
+msgstr "Fhethu"
 
 #. Name for ROU
 msgid "Romania"
@@ -1529,7 +1531,7 @@ msgstr ""
 
 #. Name for SWZ
 msgid "Swaziland"
-msgstr "Swaziland"
+msgstr "Swazini"
 
 #. Official name for SWZ
 #, fuzzy
@@ -1674,7 +1676,7 @@ msgstr ""
 #. Name for UGA
 #, fuzzy
 msgid "Uganda"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Official name for UGA
 #, fuzzy
@@ -1765,9 +1767,8 @@ msgid "Socialist Republic of Viet Nam"
 msgstr ""
 
 #. Common name for VNM
-#, fuzzy
 msgid "Vietnam"
-msgstr "Vietnam"
+msgstr "Viëtnam"
 
 #. Name for VUT
 msgid "Vanuatu"
@@ -1801,7 +1802,7 @@ msgstr "Czech Republic"
 
 #. Name for ZAF
 msgid "South Africa"
-msgstr "South Africa"
+msgstr "Afurika Tshipembe"
 
 #. Official name for ZAF
 #, fuzzy
@@ -1819,7 +1820,7 @@ msgstr "Czech Republic"
 
 #. Name for ZWE
 msgid "Zimbabwe"
-msgstr "Zimbabwe"
+msgstr "Zimbagwe"
 
 #. Official name for ZWE
 msgid "Republic of Zimbabwe"

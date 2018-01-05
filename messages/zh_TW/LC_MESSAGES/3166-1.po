@@ -12,17 +12,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2013-09-03 13:09+0800\n"
-"Last-Translator: Wei-Lun Chao <bluebat@member.fsf.org>\n"
-"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"PO-Revision-Date: 2017-12-17 20:36+0000\n"
+"Last-Translator: ezjerry liao <ezjerry@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects"
+"/iso-codes/iso-3166-1/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -349,14 +351,10 @@ msgid "Union of the Comoros"
 msgstr "葛摩聯邦"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "維德角"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "維德角共和國"
 
@@ -378,7 +376,7 @@ msgstr "古巴共和國"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr "庫拉索"
+msgstr "古拉索"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -398,7 +396,7 @@ msgstr "賽普勒斯共和國"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "捷克"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -593,10 +591,8 @@ msgid "Gambia"
 msgstr "甘比亞"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "甘比亞共和國"
+msgstr "伊斯蘭甘比亞共和國"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -1568,7 +1564,7 @@ msgstr "坦尚尼亞聯合共和國"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "坦尚尼亞"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1655,8 +1651,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "越南社會主義共和國"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "越南"
 

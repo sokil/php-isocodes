@@ -1,9 +1,13 @@
-# Lithuanian translations for ISO 639 Language names
-# Copyright (C) 2000-2001, 2004 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Lithuanian
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Gediminas Paulauskas <menesis@delfi.lt>, 2000-2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2004, 2009.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -6416,7 +6420,7 @@ msgstr ""
 
 #. Name for cop
 msgid "Coptic"
-msgstr ""
+msgstr "Koptų"
 
 #. Name for coq
 msgid "Coquille"
@@ -9391,7 +9395,7 @@ msgstr "Prancūzų, viduramžių (1400-1600)"
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr ""
+msgstr "Prancūzų, senoji (842-ca. 1400)"
 
 #. Name for frp
 #, fuzzy
@@ -9413,7 +9417,7 @@ msgstr "Šiaurės fryzų"
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr ""
+msgstr "Rytų fryzų"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
@@ -9425,7 +9429,7 @@ msgstr ""
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr ""
+msgstr "Vakarų fryzų"
 
 #. Inverted name for fry
 msgid "Frisian, Western"
@@ -10781,7 +10785,7 @@ msgstr ""
 
 #. Inverted name for gso
 msgid "Gbaya, Southwest"
-msgstr "Gbaja, pietvakarių "
+msgstr "Gbaja, pietvakarių"
 
 #. Name for gsp
 msgid "Wasembo"
@@ -11581,7 +11585,7 @@ msgstr "Hmong"
 
 #. Name for hmo
 msgid "Hiri Motu"
-msgstr ""
+msgstr "Hiri motu"
 
 #. Name for hmp
 #, fuzzy
@@ -12184,7 +12188,7 @@ msgstr ""
 
 #. Name for ido
 msgid "Ido"
-msgstr ""
+msgstr "Ido"
 
 #. Name for idr
 msgid "Indri"
@@ -12388,7 +12392,7 @@ msgstr ""
 
 #. Name for iku
 msgid "Inuktitut"
-msgstr ""
+msgstr "Inuktitutas"
 
 #. Name for ikv
 msgid "Iku-Gora-Ankwa"
@@ -13436,7 +13440,7 @@ msgstr "Judėjų arabų"
 
 #. Inverted name for jye
 msgid "Arabic, Judeo-Yemeni"
-msgstr "Arabų, Jemeno judėjų "
+msgstr "Arabų, Jemeno judėjų"
 
 #. Name for jyy
 msgid "Jaya"
@@ -14245,7 +14249,7 @@ msgstr ""
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr ""
+msgstr "Khmerų centrinė"
 
 #. Inverted name for khm
 msgid "Khmer, Central"
@@ -20504,7 +20508,7 @@ msgstr ""
 
 #. Name for mwl
 msgid "Mirandese"
-msgstr ""
+msgstr "Mirandezų"
 
 #. Name for mwm
 msgid "Sar"
@@ -24672,7 +24676,7 @@ msgstr ""
 
 #. Inverted name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr ""
+msgstr "Persu, senoji (ca.600-400 B.C.)"
 
 #. Name for pep
 msgid "Kunja"
@@ -25661,7 +25665,7 @@ msgstr "Dinkų, pietryčių"
 #, fuzzy
 #| msgid "Gbaya, Southwest"
 msgid "Pashai, Southwest"
-msgstr "Gbaja, pietvakarių "
+msgstr "Gbaja, pietvakarių"
 
 #. Name for psi
 #, fuzzy
@@ -25672,7 +25676,7 @@ msgstr "Dinkų, pietryčių"
 #, fuzzy
 #| msgid "Gbaya, Southwest"
 msgid "Pashai, Southeast"
-msgstr "Gbaja, pietvakarių "
+msgstr "Gbaja, pietvakarių"
 
 #. Name for psl
 msgid "Puerto Rican Sign Language"
@@ -27185,7 +27189,7 @@ msgstr ""
 
 #. Name for sam
 msgid "Samaritan Aramaic"
-msgstr ""
+msgstr "Samariečių armėjų"
 
 #. Inverted name for sam
 msgid "Aramaic, Samaritan"
@@ -28385,7 +28389,7 @@ msgstr ""
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr ""
+msgstr "Inari sami"
 
 #. Inverted name for smn
 msgid "Sami, Inari"
@@ -29473,7 +29477,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Klasikinė siriečių"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"

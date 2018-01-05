@@ -1,8 +1,14 @@
-# Qırımtatarca ISO 639-3 (language names)
+# Translation of ISO 639-3 to Crimean Tatar; Crimean Turkish
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
 # This file is distributed under the same license as the iso-codes package.
 #
-# Reşat SABIQ <tilde.birlik@gmail.com>, 2009.
+# Notes:
 # Türkçeden çabik uyarlama.
+#
+# Copyright ©
+# Reşat SABIQ <tilde.birlik@gmail.com>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -1337,7 +1343,7 @@ msgstr ""
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr ""
+msgstr "İnglizce, Eski (MS. 450-1100)"
 
 #. Name for anh
 msgid "Nend"
@@ -8447,7 +8453,7 @@ msgstr ""
 
 #. Inverted name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr ""
+msgstr "Flâmanca, Orta dönem (1050-1350 dolayları)"
 
 #. Name for dun
 msgid "Dusun Deyah"
@@ -9521,7 +9527,7 @@ msgstr ""
 
 #. Inverted name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr ""
+msgstr "Fransızca, Orta (M.S. 1400-1600)"
 
 #. Name for fro
 msgid "Old French (842-ca. 1400)"
@@ -9529,7 +9535,7 @@ msgstr ""
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr ""
+msgstr "Fransızca, Eski (842-M.S. 1400)"
 
 #. Name for frp
 #, fuzzy
@@ -9542,7 +9548,7 @@ msgstr "Forak"
 
 #. Name for frr
 msgid "Northern Frisian"
-msgstr ""
+msgstr "Şimaliy Frizyeli Tili"
 
 #. Inverted name for frr
 msgid "Frisian, Northern"
@@ -9550,7 +9556,7 @@ msgstr ""
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr ""
+msgstr "Şarqiy Frizyeli Tili"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
@@ -9562,7 +9568,7 @@ msgstr "Fortsenal"
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr ""
+msgstr "Ğarbiy Frizyeli Tili"
 
 #. Inverted name for fry
 msgid "Frisian, Western"
@@ -10529,7 +10535,7 @@ msgstr ""
 
 #. Inverted name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr ""
+msgstr "Almanca, Orta Yüksek (M.S. 1050-1500)"
 
 #. Name for gml
 msgid "Middle Low German"
@@ -10689,7 +10695,7 @@ msgstr ""
 
 #. Inverted name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr ""
+msgstr "Almanca, Orta Yüksek (M.S. 750-1050)"
 
 #. Name for goi
 msgid "Gobasi"
@@ -13481,7 +13487,7 @@ msgstr "Japonca"
 
 #. Name for jpr
 msgid "Judeo-Persian"
-msgstr ""
+msgstr "Judeo-Persian"
 
 #. Name for jqr
 msgid "Jaqaru"
@@ -13493,7 +13499,7 @@ msgstr "Jarai"
 
 #. Name for jrb
 msgid "Judeo-Arabic"
-msgstr ""
+msgstr "Yahudi-Arap"
 
 #. Name for jrr
 msgid "Jiru"
@@ -14426,7 +14432,7 @@ msgstr "Lusi"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr ""
+msgstr "Merkez Khmer"
 
 #. Inverted name for khm
 msgid "Khmer, Central"
@@ -17979,7 +17985,7 @@ msgstr "Lunda"
 
 #. Name for luo
 msgid "Luo (Kenya and Tanzania)"
-msgstr ""
+msgstr "Luo (Kenya ve Tanzanya)"
 
 #. Name for lup
 msgid "Lumbu"
@@ -24426,7 +24432,7 @@ msgstr ""
 
 #. Inverted name for ota
 msgid "Turkish, Ottoman (1500-1928)"
-msgstr ""
+msgstr "Türkçe, Osmanlı (1500-1928)"
 
 #. Name for otb
 #, fuzzy
@@ -24987,7 +24993,7 @@ msgstr ""
 
 #. Inverted name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr ""
+msgstr "Eski Farsça (M.Ö. 600-400)"
 
 #. Name for pep
 msgid "Kunja"
@@ -25910,8 +25916,10 @@ msgid "Old Provençal (to 1500)"
 msgstr ""
 
 #. Inverted name for pro
+#, fuzzy
+#| msgid "Irish, Old (to 900)"
 msgid "Provençal, Old (to 1500)"
-msgstr ""
+msgstr "Eski İrlandaca (900'e kadar)"
 
 #. Name for prp
 msgid "Parsi"
@@ -27759,11 +27767,11 @@ msgstr "Shina"
 
 #. Name for scn
 msgid "Sicilian"
-msgstr ""
+msgstr "Sicilyaca"
 
 #. Name for sco
 msgid "Scots"
-msgstr ""
+msgstr "İskoçça"
 
 #. Name for scp
 msgid "Helambu Sherpa"
@@ -28072,7 +28080,7 @@ msgstr ""
 
 #. Inverted name for sga
 msgid "Irish, Old (to 900)"
-msgstr ""
+msgstr "Eski İrlandaca (900'e kadar)"
 
 #. Name for sgb
 #, fuzzy
@@ -29849,7 +29857,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Klasik Süryanice"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -32751,7 +32759,7 @@ msgstr ""
 
 #. Name for und
 msgid "Undetermined"
-msgstr ""
+msgstr "Belirlenemeyen"
 
 #. Name for une
 msgid "Uneme"

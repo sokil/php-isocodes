@@ -1,8 +1,10 @@
-# translation of iso_3166-2 to Dutch
-# Dutch translation of iso_3166-2.
-# Copyright (C) 2005-2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Dutch; Flemish
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
 #
+# Notes:
 # oblast, voblast, oblysy = regio
 # kraj, krai, kray = provincie
 # (kraj ligt in Rusland aan grens van politiek of geografisch gebied,
@@ -11,24 +13,26 @@
 # gebruik gewest en graafschap door elkaar!!!
 # extra namen: consistente volgorde?
 #
+# Copyright ©
 # Taco Witte <tcwitte@cs.uu.nl>, 2006.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2017-10-24 22:54+0100\n"
+"PO-Revision-Date: 2017-12-28 21:49+0000\n"
 "Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
-"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-2/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Lokalize 2.0\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -4699,7 +4703,7 @@ msgstr "Oromiya"
 
 #. Name for ET-SN
 msgid "YeDebub Bihēroch Bihēreseboch na Hizboch"
-msgstr "Yedebub Biheroch Bihereseboch na Hizboch "
+msgstr "Yedebub Biheroch Bihereseboch na Hizboch"
 
 #. Name for ET-SO
 msgid "Sumalē"
@@ -6988,7 +6992,7 @@ msgstr "Intibucá"
 
 #. Name for HN-LE
 msgid "Lempira"
-msgstr "Lempira"
+msgstr "Hondurese lempira"
 
 #. Name for HN-OC
 msgid "Ocotepeque"
@@ -11676,15 +11680,15 @@ msgstr "Rabat Malta"
 
 #. Name for MT-48
 msgid "San Ġiljan"
-msgstr "San Ġiljan "
+msgstr "San Ġiljan"
 
 #. Name for MT-49
 msgid "San Ġwann"
-msgstr "San Gwann "
+msgstr "San Gwann"
 
 #. Name for MT-50
 msgid "San Lawrenz"
-msgstr "San Lawrenz "
+msgstr "San Lawrenz"
 
 #. Name for MT-51
 msgid "San Pawl il-Baħar"

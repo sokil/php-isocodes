@@ -16,16 +16,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2015-08-13 17:09+0900\n"
-"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
-"Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
+"PO-Revision-Date: 2018-01-01 12:52+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -49,11 +52,11 @@ msgstr "앙골라 공화국"
 
 #. Name for AIA
 msgid "Anguilla"
-msgstr "앙귈라"
+msgstr "앵귈라"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr "알랜드 제도"
+msgstr "올란드 제도"
 
 #. Name for ALB
 msgid "Albania"
@@ -73,7 +76,7 @@ msgstr "안도라 공국"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "아랍에미리트연합"
+msgstr "아랍에미리트"
 
 #. Name for ARG
 msgid "Argentina"
@@ -93,7 +96,7 @@ msgstr "아르메니아 공화국"
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr "미국령 사모아"
+msgstr "아메리칸사모아"
 
 #. Name for ATA
 msgid "Antarctica"
@@ -105,7 +108,7 @@ msgstr "프랑스령 남 자치구역"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
-msgstr "안티가 바부다"
+msgstr "앤티가 바부다"
 
 #. Name for AUS
 msgid "Australia"
@@ -145,7 +148,7 @@ msgstr "벨기에 왕국"
 
 #. Name for BEN
 msgid "Benin"
-msgstr "베닌"
+msgstr "베냉"
 
 #. Official name for BEN
 msgid "Republic of Benin"
@@ -157,7 +160,7 @@ msgstr "보네르, 신트외스타티위스, 사바 섬"
 
 #. Name for BFA
 msgid "Burkina Faso"
-msgstr "부르키나 파소"
+msgstr "부르키나파소"
 
 #. Name for BGD
 msgid "Bangladesh"
@@ -193,7 +196,7 @@ msgstr "바하마 연방"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "보스니아 헤르체코비나"
+msgstr "보스니아 헤르체고비나"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -241,7 +244,7 @@ msgstr "브라질 연방 공화국"
 
 #. Name for BRB
 msgid "Barbados"
-msgstr "바르바도스"
+msgstr "바베이도스"
 
 #. Name for BRN
 msgid "Brunei Darussalam"
@@ -257,7 +260,7 @@ msgstr "부탄 왕국"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "보우벳 섬"
+msgstr "부베 섬"
 
 #. Name for BWA
 msgid "Botswana"
@@ -269,7 +272,7 @@ msgstr "보츠와나 공화국"
 
 #. Name for CAF
 msgid "Central African Republic"
-msgstr "중앙 아프리카 공화국"
+msgstr "중앙아프리카 공화국"
 
 #. Name for CAN
 msgid "Canada"
@@ -277,7 +280,7 @@ msgstr "캐나다"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "코코스 (킬링) 제도"
+msgstr "코코스 제도"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -345,23 +348,19 @@ msgstr "콜롬비아 공화국"
 
 #. Name for COM
 msgid "Comoros"
-msgstr "코모로스"
+msgstr "코모로"
 
 #. Official name for COM
 msgid "Union of the Comoros"
 msgstr "코모로스 연방"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "케이프 베르드"
+msgstr "카보 베르데"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "케이프 베르드 공화국"
+msgstr "카보 베르데 공화국"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -389,11 +388,11 @@ msgstr "크리스마스 섬"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "케이만 제도"
+msgstr "케이맨 제도"
 
 #. Name for CYP
 msgid "Cyprus"
-msgstr "사이프러스"
+msgstr "키프로스"
 
 #. Official name for CYP
 msgid "Republic of Cyprus"
@@ -401,11 +400,11 @@ msgstr "사이프러스 공화국"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "체키아"
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "체코 공화국"
+msgstr "체코"
 
 #. Name for DEU
 msgid "Germany"
@@ -425,7 +424,7 @@ msgstr "지부티 공화국"
 
 #. Name for DMA
 msgid "Dominica"
-msgstr "도미니카"
+msgstr "도미니카 연방"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
@@ -469,7 +468,7 @@ msgstr "이집트 아랍 공화국"
 
 #. Name for ERI
 msgid "Eritrea"
-msgstr "에리트리아"
+msgstr "에리트레아"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
@@ -477,7 +476,7 @@ msgstr "에리트리아 공화국"
 
 #. Name for ESH
 msgid "Western Sahara"
-msgstr "서부 사하라"
+msgstr "서사하라"
 
 #. Name for ESP
 msgid "Spain"
@@ -533,7 +532,7 @@ msgstr "프랑스 공화국"
 
 #. Name for FRO
 msgid "Faroe Islands"
-msgstr "패로 제도"
+msgstr "페로 제도"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
@@ -565,7 +564,7 @@ msgstr "조지아"
 
 #. Name for GGY
 msgid "Guernsey"
-msgstr "건지섬"
+msgstr "건지 섬"
 
 #. Name for GHA
 msgid "Ghana"
@@ -589,17 +588,15 @@ msgstr "기니 공화국"
 
 #. Name for GLP
 msgid "Guadeloupe"
-msgstr "과달루프"
+msgstr "과들루프"
 
 #. Name for GMB
 msgid "Gambia"
 msgstr "잠비아"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "잠비아 공화국"
+msgstr "감비아 이슬람 공화국"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -611,7 +608,7 @@ msgstr "기니비사우 공화국"
 
 #. Name for GNQ
 msgid "Equatorial Guinea"
-msgstr "적도기니"
+msgstr "적도 기니"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
@@ -631,7 +628,7 @@ msgstr "그레나다"
 
 #. Name for GRL
 msgid "Greenland"
-msgstr "그린랜드"
+msgstr "그린란드"
 
 #. Name for GTM
 msgid "Guatemala"
@@ -671,7 +668,7 @@ msgstr "허드 맥도널드 제도"
 
 #. Name for HND
 msgid "Honduras"
-msgstr "혼두라스"
+msgstr "온두라스"
 
 #. Official name for HND
 msgid "Republic of Honduras"
@@ -687,7 +684,7 @@ msgstr "크로아티아 공화국"
 
 #. Name for HTI
 msgid "Haiti"
-msgstr "하이티"
+msgstr "아이티"
 
 #. Official name for HTI
 msgid "Republic of Haiti"
@@ -707,7 +704,7 @@ msgstr "인도네시아 공화국"
 
 #. Name for IMN
 msgid "Isle of Man"
-msgstr "맨섬"
+msgstr "맨 섬"
 
 #. Name for IND
 msgid "India"
@@ -719,7 +716,7 @@ msgstr "인도 공화국"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "영국령 인도양 식민지"
+msgstr "영국령 인도양 지역"
 
 #. Name for IRL
 msgid "Ireland"
@@ -743,7 +740,7 @@ msgstr "이라크 공화국"
 
 #. Name for ISL
 msgid "Iceland"
-msgstr "아이슬랜드"
+msgstr "아이슬란드"
 
 #. Official name for ISL
 msgid "Republic of Iceland"
@@ -771,7 +768,7 @@ msgstr "자메이카"
 
 #. Name for JEY
 msgid "Jersey"
-msgstr "저지섬"
+msgstr "저지 섬"
 
 #. Name for JOR
 msgid "Jordan"
@@ -803,7 +800,7 @@ msgstr "케냐 공화국"
 
 #. Name for KGZ
 msgid "Kyrgyzstan"
-msgstr "키르기즈스탄"
+msgstr "키르기스스탄"
 
 #. Official name for KGZ
 msgid "Kyrgyz Republic"
@@ -819,7 +816,7 @@ msgstr "캄보디아 왕국"
 
 #. Name for KIR
 msgid "Kiribati"
-msgstr "키리바티"
+msgstr "키리바시"
 
 #. Official name for KIR
 msgid "Republic of Kiribati"
@@ -827,7 +824,7 @@ msgstr "키리바티 공화국"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "세인트 키츠 네비스"
+msgstr "세인트키츠 네비스"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -867,7 +864,7 @@ msgstr "리비아"
 
 #. Name for LCA
 msgid "Saint Lucia"
-msgstr "세인트 루시아"
+msgstr "세인트루시아"
 
 #. Name for LIE
 msgid "Liechtenstein"
@@ -999,7 +996,7 @@ msgstr "전 유고슬라비아 공화국 마케도니아"
 
 #. Name for MLI
 msgid "Mali"
-msgstr "말리"
+msgstr "말리어"
 
 #. Official name for MLI
 msgid "Republic of Mali"
@@ -1027,11 +1024,11 @@ msgstr "몬테네그로"
 
 #. Name for MNG
 msgid "Mongolia"
-msgstr "몽골라"
+msgstr "몽골"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "북 마리아나 제도"
+msgstr "북마리아나 제도"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1047,7 +1044,7 @@ msgstr "모잠비크 공화국"
 
 #. Name for MRT
 msgid "Mauritania"
-msgstr "모리타니아"
+msgstr "모리타니"
 
 #. Official name for MRT
 msgid "Islamic Republic of Mauritania"
@@ -1055,11 +1052,11 @@ msgstr "모리타니아 이슬람 공화국"
 
 #. Name for MSR
 msgid "Montserrat"
-msgstr "몽세라트"
+msgstr "몬트세랫"
 
 #. Name for MTQ
 msgid "Martinique"
-msgstr "마르띠니크"
+msgstr "마르티니크"
 
 #. Name for MUS
 msgid "Mauritius"
@@ -1095,7 +1092,7 @@ msgstr "나미비아 공화국"
 
 #. Name for NCL
 msgid "New Caledonia"
-msgstr "뉴 칼레도니아"
+msgstr "누벨칼레도니"
 
 #. Name for NER
 msgid "Niger"
@@ -1335,15 +1332,15 @@ msgstr "싱가포르 공화국"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "남 조지아 남 샌드위치 제도"
+msgstr "사우스조지아 사우스샌드위치 제도"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr "세인트 헬레나 어센션 트리탄다쿠냐"
+msgstr "세인트헬레나 어센션 트리스탄다쿠냐"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
-msgstr "스발바르드 얀마이엔"
+msgstr "스발바르 얀마옌 제도"
 
 #. Name for SLB
 msgid "Solomon Islands"
@@ -1359,7 +1356,7 @@ msgstr "시에라리온 공화국"
 
 #. Name for SLV
 msgid "El Salvador"
-msgstr "엘 살바도르"
+msgstr "엘살바도르"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
@@ -1383,7 +1380,7 @@ msgstr "소말리아 연방 공화국"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr "쌩 피에르 미켈론"
+msgstr "생피에르 미클롱"
 
 #. Name for SRB
 msgid "Serbia"
@@ -1467,11 +1464,11 @@ msgstr "시리아 아랍 공화국"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "터크 스케이커스 제도"
+msgstr "터크스 케이커스 제도"
 
 #. Name for TCD
 msgid "Chad"
-msgstr "챠드"
+msgstr "차드"
 
 #. Official name for TCD
 msgid "Republic of Chad"
@@ -1503,11 +1500,11 @@ msgstr "타지키스탄 공화국"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "토켈로"
+msgstr "토켈라우"
 
 #. Name for TKM
 msgid "Turkmenistan"
-msgstr "투르크멘"
+msgstr "투르크메니스탄"
 
 #. Name for TLS
 msgid "Timor-Leste"
@@ -1587,7 +1584,7 @@ msgstr "우크라이나"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "미국령 소군도"
+msgstr "미국령 군소 제도"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1603,7 +1600,7 @@ msgstr "미국"
 
 #. Official name for USA
 msgid "United States of America"
-msgstr "미합중국"
+msgstr "미국"
 
 #. Name for UZB
 msgid "Uzbekistan"
@@ -1619,7 +1616,7 @@ msgstr "바티칸 시티 (Holy See)"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
-msgstr "세인트 빈센트 그레나다인즈"
+msgstr "세인트빈센트 그레나딘"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
@@ -1639,7 +1636,7 @@ msgstr "버진 제도, 영국령"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "영국령 버진 제도"
+msgstr "영국령 버진아일랜드"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
@@ -1658,8 +1655,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "베트남 사회주의 공화국"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "베트남"
 
@@ -1673,7 +1668,7 @@ msgstr "바누아투 공화국"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr "왈리스 후투나"
+msgstr "왈리스 퓌튀나"
 
 #. Name for WSM
 msgid "Samoa"
@@ -1693,7 +1688,7 @@ msgstr "예멘 공화국"
 
 #. Name for ZAF
 msgid "South Africa"
-msgstr "남아프리카"
+msgstr "남아프리카 공화국"
 
 #. Official name for ZAF
 msgid "Republic of South Africa"

@@ -7,19 +7,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2010-08-16 15:57+0300\n"
-"Last-Translator: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
-"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2);;\n"
-"X-Generator: Virtaal 0.6.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:01+0000\n"
 
 #. Name for ABW
@@ -375,8 +376,9 @@ msgid "Republic of Cuba"
 msgstr "Republica Cuba"
 
 #. Name for CUW, Official name for CUW
+#, fuzzy
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -1395,9 +1397,8 @@ msgid "Republic of Serbia"
 msgstr "Republica Serbia"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Republica Sudan"
+msgstr "Sudanul de Sud"
 
 #. Official name for SSD
 #, fuzzy
@@ -1574,8 +1575,9 @@ msgid "United Republic of Tanzania"
 msgstr "Republica Unită Tanzania"
 
 #. Common name for TZA
+#, fuzzy
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #. Name for UGA
 msgid "Uganda"

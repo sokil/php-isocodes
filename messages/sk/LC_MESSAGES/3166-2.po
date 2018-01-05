@@ -1,10 +1,16 @@
-# Translation of ISO 3166-2 (country subdivision names) to Slovak
+# Translation of ISO 3166-2 to Slovak
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C)
-# Ivan Masár <helix84@centrum.sk>, 2007, 2014.
+#
+# Notes:
 # sources:
 # [geodesy] www.geodesy.gov.sk
 # transliteration [CN] http://www.cinstina.cz/article.html?page=b6ca51787dff6e030dca936e2170a05f&section=2
+#
+# Copyright ©
+# Ivan Masár <helix84@centrum.sk>, 2007, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -1384,7 +1390,7 @@ msgstr ""
 
 #. Name for BE-WLX, Name for LU-L
 msgid "Luxembourg"
-msgstr ""
+msgstr "Luxembursko"
 
 #. Name for BE-WNA
 msgid "Namur"
@@ -2348,7 +2354,7 @@ msgstr ""
 
 #. Name for BZ-BZ
 msgid "Belize"
-msgstr ""
+msgstr "Belize"
 
 #. Name for BZ-CY
 msgid "Cayo"
@@ -3929,7 +3935,7 @@ msgstr ""
 
 #. Name for DJ-DJ
 msgid "Djibouti"
-msgstr ""
+msgstr "Džibutsko"
 
 #. Name for DJ-OB
 msgid "Obock"
@@ -5420,7 +5426,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadeloupe"
 
 #. Name for FR-HDF
 msgid "Hauts-de-France"
@@ -5438,7 +5444,7 @@ msgstr "Réunion"
 
 #. Name for FR-MAY, Name for FR-YT
 msgid "Mayotte"
-msgstr ""
+msgstr "Mayotte"
 
 #. Name for FR-MF
 msgid "Saint-Martin"
@@ -5446,7 +5452,7 @@ msgstr ""
 
 #. Name for FR-MQ
 msgid "Martinique"
-msgstr ""
+msgstr "Martinik"
 
 #. Name for FR-NAQ
 msgid "Nouvelle-Aquitaine"
@@ -6326,7 +6332,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "Spojené kráľovstvo"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -6645,7 +6651,7 @@ msgstr ""
 
 #. Name for GN-ML
 msgid "Mali"
-msgstr ""
+msgstr "Mali"
 
 #. Name for GN-N, Name for GN-NZ
 msgid "Nzérékoré"
@@ -6984,7 +6990,7 @@ msgstr ""
 
 #. Name for GT-GU
 msgid "Guatemala"
-msgstr ""
+msgstr "Guatemala"
 
 #. Name for GT-HU
 msgid "Huehuetenango"
@@ -12792,11 +12798,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for NL-DR
 msgid "Drenthe"
@@ -16130,7 +16136,7 @@ msgstr ""
 
 #. Name for SM-07
 msgid "San Marino"
-msgstr ""
+msgstr "San Maríno"
 
 #. Name for SM-08
 msgid "Montegiardino"

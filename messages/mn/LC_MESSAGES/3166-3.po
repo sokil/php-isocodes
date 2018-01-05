@@ -1,6 +1,10 @@
-# ISO-3166 territory names in Mongolian
-# Copyright (C) 2003 Free Software Foundation, Inc.
-# This file is distributed under the LGPL License
+# Translation of ISO 3166-3 to Mongolian
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Sanlig Badral <badral@chinggis.com>, 2003.
 msgid ""
 msgstr ""
@@ -21,16 +25,14 @@ msgstr ""
 msgid "French Afars and Issas"
 msgstr ""
 
-# AN
 #. Name for ANHH
 msgid "Netherlands Antilles"
 msgstr ""
 
-# IO
 #. Name for BQAQ
 #, fuzzy
 msgid "British Antarctic Territory"
-msgstr "Британий энэтхэгийн далайн нутаг  "
+msgstr "Британий энэтхэгийн далайн нутаг"
 
 #. Name for BUMM
 msgid "Burma, Socialist Republic of the Union of"
@@ -52,7 +54,6 @@ msgstr ""
 msgid "Canton and Enderbury Islands"
 msgstr ""
 
-# CD
 #. Name for DDDE
 #, fuzzy
 msgid "German Democratic Republic"
@@ -74,19 +75,16 @@ msgstr ""
 msgid "Gilbert and Ellice Islands"
 msgstr ""
 
-# KR
 #. Name for HVBF
 #, fuzzy
 msgid "Upper Volta, Republic of"
 msgstr "Солонгос ард улс"
 
-# SB
 #. Name for JTUM
 #, fuzzy
 msgid "Johnston Island"
 msgstr "Соломоны арлууд"
 
-# MH
 #. Name for MIUM
 #, fuzzy
 msgid "Midway Islands"
@@ -132,7 +130,6 @@ msgstr ""
 msgid "East Timor"
 msgstr ""
 
-# KP
 #. Name for VDVN
 #, fuzzy
 msgid "Viet-Nam, Democratic Republic of"
@@ -142,7 +139,6 @@ msgstr "Ардчилсан солонгос улс"
 msgid "Wake Island"
 msgstr ""
 
-# KP
 #. Name for YDYE
 #, fuzzy
 msgid "Yemen, Democratic, People's Democratic Republic of"
@@ -152,7 +148,6 @@ msgstr "Ардчилсан солонгос улс"
 msgid "Yugoslavia, Socialist Federal Republic of"
 msgstr ""
 
-# KR
 #. Name for ZRCD
 #, fuzzy
 msgid "Zaire, Republic of"

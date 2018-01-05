@@ -11,18 +11,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2013-02-12 21:53+0100\n"
-"Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@zundan.com>\n"
-"Language-Team: Basque <debian-l10n-basque@lists.debian.org>\n"
+"PO-Revision-Date: 2017-12-29 16:43+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Basque <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/eu/>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1569,8 +1570,9 @@ msgid "United Republic of Tanzania"
 msgstr "Tanzaniako Errepublika Batua"
 
 #. Common name for TZA
+#, fuzzy
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #. Name for UGA
 msgid "Uganda"

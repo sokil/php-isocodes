@@ -19,17 +19,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2016-04-15 12:02+0100\n"
-"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
-"Language-Team: German <debian-l10n-german@lists.debian.org>\n"
+"PO-Revision-Date: 2018-01-02 16:34+0000\n"
+"Last-Translator: Markus Enzenberger <markus.enzenberger@gmail.com>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-2/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -105,7 +107,7 @@ msgstr "Angika"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr "Apachen-Sprachen"
+msgstr "Apache-Sprachen"
 
 #. Name for ara
 msgid "Arabic"
@@ -228,7 +230,7 @@ msgstr "Bengalisch"
 
 #. Name for ber
 msgid "Berber languages"
-msgstr "Berber-Sprachen"
+msgstr "Berbersprachen"
 
 #. Name for bho
 msgid "Bhojpuri"
@@ -276,7 +278,7 @@ msgstr "Bretonisch"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr "Batak-Sprachen"
+msgstr "Bataksprachen"
 
 #. Name for bua
 msgid "Buriat"
@@ -406,7 +408,7 @@ msgstr "Kreolische und Pidgin-Sprachen, Französisch-basiert"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "Kreolische und Pidgin-Sprachen, Portugiesisch-basiert"
+msgstr "Kreolische und Pidgin-Sprachen, portugiesischer Grundlage"
 
 #. Name for cre
 msgid "Cree"
@@ -578,7 +580,7 @@ msgstr "Finnisch"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr "Finno-Ugrische Sprachen"
+msgstr "Finno-ugrische Sprachen"
 
 #. Name for fon
 msgid "Fon"
@@ -786,7 +788,7 @@ msgstr "Sichuan Yi; Nuosu"
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr "Ijoid-Sprachen"
+msgstr "Ijo-Sprachen"
 
 #. Name for iku
 msgid "Inuktitut"
@@ -830,7 +832,7 @@ msgstr "Iranische Sprachen"
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr "Irokesisch (andere)"
+msgstr "Irokesische Sprachen"
 
 #. Name for isl
 msgid "Icelandic"
@@ -1210,7 +1212,7 @@ msgstr "Mehrsprachig; Polyglott"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr "Mundasprachen"
+msgstr "Munda-Sprachen"
 
 #. Name for mus
 msgid "Creek"
@@ -1234,7 +1236,7 @@ msgstr "Burmesisch"
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr "Maya - Sprachen"
+msgstr "Maya-Sprachen"
 
 #. Name for myv
 msgid "Erzya"
@@ -1386,7 +1388,7 @@ msgstr "Ottomanisch (Osmanisch/Türkisch) (1500-1928)"
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr "Otomangue (andere)"
+msgstr "Otomí-Sprachen"
 
 #. Name for paa
 msgid "Papuan languages"
@@ -1446,7 +1448,7 @@ msgstr "Portugiesisch"
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr "Prakrit"
+msgstr "Prakrit-Sprachen"
 
 #. Name for pro
 msgid "Provençal, Old (to 1500)"
@@ -1523,7 +1525,7 @@ msgstr "Südamerikanische Indianersprache (Andere)"
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr "Salische Sprachen"
+msgstr "Salish-Sprachen"
 
 #. Name for sam
 msgid "Samaritan Aramaic"
@@ -1581,7 +1583,7 @@ msgstr "Singhalesisch"
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr "Sioux"
+msgstr "Sioux-Sprachen"
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
@@ -1609,7 +1611,7 @@ msgstr "Samisch (Nord)"
 
 #. Name for smi
 msgid "Sami languages"
-msgstr "Sami-Sprachen"
+msgstr "Samische Sprachen"
 
 #. Name for smj
 msgid "Lule Sami"
@@ -1829,7 +1831,7 @@ msgstr "Tumbuka"
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr "Tupi-Sprachen"
+msgstr "Tupí-Sprachen"
 
 #. Name for tur
 msgid "Turkish"
@@ -1837,7 +1839,7 @@ msgstr "Türkisch"
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr "Altai-Sprachen"
+msgstr "Altaische Sprachen"
 
 #. Name for tvl
 msgid "Tuvalu"
@@ -1986,7 +1988,7 @@ msgstr "Chinesisch"
 
 #. Name for znd
 msgid "Zande languages"
-msgstr "Azande-Sprachen"
+msgstr "Zande-Sprachen"
 
 #. Name for zul
 msgid "Zulu"

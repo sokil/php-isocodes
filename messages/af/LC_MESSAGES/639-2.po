@@ -12,16 +12,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2007-1116 22:3+0200\n"
-"Last-Translator: Friedel Wolff <friedel@translate.org.za>\n"
-"Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2017-12-25 21:46+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Afrikaans <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-2/af/>\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -1883,9 +1886,8 @@ msgid "Tiv"
 msgstr "Twi"
 
 #. Name for tkl
-#, fuzzy
 msgid "Tokelau"
-msgstr "Teloegoe"
+msgstr "Tokelau"
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"

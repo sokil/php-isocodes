@@ -1,9 +1,9 @@
-# Danish translation ISO 15924 (script names).
-# Copyright (C) 2014 iso-codes og nedenstående oversættere.
-# This file is distributed under the same license as the iso-codes package.
-# Computeroversættelse Tobias Toedter <t.toedter@gmx.net>, 2007.
-# Joe Hansen <joedalton2@yahoo.dk>, 2009, 2010, 2011, 2012, 2014, 2017.
+# Translation of ISO 15924 to Danish
+# Codes for the representation of names of scripts
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # Vedrørende stort begyndelsesbogstav: På engelsk er de her ord med stort,
 # det er de ikke på dansk. Sproget kan bruges inde i sætninger og de
 # skal derfor oversættes med småt.
@@ -22,6 +22,9 @@
 # hvor de ikke er korrekte, så vend venligst tilbage på <dansk@dansk-gruppen.dk>
 # På forhånd tak, Joe
 #
+# Copyright ©
+# Computeroversættelse Dr. Tobias Quathamer <toddy@debian.org>, 2007.
+# Joe Hansen <joedalton2@yahoo.dk>, 2009, 2010, 2011, 2012, 2014, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"

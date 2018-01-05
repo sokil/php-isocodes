@@ -1,24 +1,27 @@
-# Translation of oc.po to Occitan
-# Messages français pour GNU concernant iso_3166_2.
-# Copyright © 2004, 2007, 2008 Free Software Foundation, Inc.
-# Yannig Marchegay <yannig@marchegay.org>, 2008.
-# Yannig Marchegay <yannig@marchegay.org>, 2008.
+# Translation of ISO 3166-2 to Occitan (post 1500); Provençal
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
+# This file is distributed under the same license as the iso-codes package.
 #
+# Copyright ©
+# Yannig Marchegay <yannig@marchegay.org>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: oc\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2008-11-10 00:51+0100\n"
-"Last-Translator: Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>\n"
-"Language-Team: \n"
-"Language: \n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Occitan <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-2/oc/>\n"
+"Language: oc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -5258,7 +5261,7 @@ msgstr "Reünion"
 
 #. Name for FR-MAY, Name for FR-YT
 msgid "Mayotte"
-msgstr ""
+msgstr "Maiòta"
 
 #. Name for FR-MF
 msgid "Saint-Martin"
@@ -12592,7 +12595,7 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
@@ -17907,7 +17910,7 @@ msgstr ""
 
 #. Name for US-AS
 msgid "American Samoa"
-msgstr "Samoa Americanas"
+msgstr "Samoa Americana"
 
 #. Name for US-AZ
 msgid "Arizona"
@@ -17943,7 +17946,7 @@ msgstr "Georgia"
 
 #. Name for US-GU
 msgid "Guam"
-msgstr ""
+msgstr "Guam"
 
 #. Name for US-HI
 msgid "Hawaii"
@@ -17999,7 +18002,7 @@ msgstr ""
 
 #. Name for US-MP
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Illas Marianas del Nòrd"
 
 #. Name for US-MS
 msgid "Mississippi"
@@ -18055,7 +18058,7 @@ msgstr ""
 
 #. Name for US-PR
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Puerto Rico"
 
 #. Name for US-RI
 msgid "Rhode Island"
@@ -18079,7 +18082,7 @@ msgstr ""
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Estats Units d'Amèrica"
 
 #. Name for US-UT
 msgid "Utah"

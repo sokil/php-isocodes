@@ -1,12 +1,14 @@
-# Swedish translations of ISO-3166 country names.
-# Copyright (C) 2001, 2003, 2004, 2007, 2011 Free Software Foundation, Inc.
+# Translation of ISO 3166-3 to Swedish
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Mattias Newzella <newzella@linux.nu, 2001.
-#  (translations from drakfw)
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Christian Rose <menthos@menthos.com>, 2004.
 # Daniel Nylander <po@danielnylander.se>, 2007, 2011.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
@@ -26,7 +28,6 @@ msgstr ""
 msgid "French Afars and Issas"
 msgstr "Franska Afars och Issas"
 
-# AN
 #. Name for ANHH
 msgid "Netherlands Antilles"
 msgstr "Nederländska Antillerna"
@@ -35,7 +36,6 @@ msgstr "Nederländska Antillerna"
 msgid "British Antarctic Territory"
 msgstr "Brittiska antarktiska territoriet"
 
-# official_name for VNM
 #. Name for BUMM
 msgid "Burma, Socialist Republic of the Union of"
 msgstr "Burman, socialistrepubliken"
@@ -48,7 +48,6 @@ msgstr "Vitryska SSR"
 msgid "Czechoslovakia, Czechoslovak Socialist Republic"
 msgstr "Tjeckoslovakien, tjeckoslovakiska socialistrepubliken"
 
-# official_name for COG
 #. Name for CSXX
 msgid "Serbia and Montenegro"
 msgstr "Serbien och Montenegro"
@@ -57,7 +56,6 @@ msgstr "Serbien och Montenegro"
 msgid "Canton and Enderbury Islands"
 msgstr "Canton och Enderburyöarna"
 
-# CD
 #. Name for DDDE
 msgid "German Democratic Republic"
 msgstr "Tyska demokratiska republiken"
@@ -86,7 +84,6 @@ msgstr "Övre Volta, republiken"
 msgid "Johnston Island"
 msgstr "Johnstonön"
 
-# KY
 #. Name for MIUM
 msgid "Midway Islands"
 msgstr "Midwayöarna"
@@ -136,7 +133,6 @@ msgstr "Östtimor"
 msgid "Viet-Nam, Democratic Republic of"
 msgstr "Vietnam, demokratiska republiken"
 
-# FO
 #. Name for WKUM
 msgid "Wake Island"
 msgstr "Wakeön"

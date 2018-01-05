@@ -1,13 +1,13 @@
-# Bulgarian translations of ISO 3166 Country names
-# Copyright (C) 2001 Free Software Foundation, Inc.
-#    (translations from drakfw)
+# Translation of ISO 3166-2 to Bulgarian
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Georgi Georgiev <assenov_g@operamail.com>, 2001.
 # Damyan Ivanov <dmn@debian.org>, 2009
-#
-# $Id$
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -1706,7 +1706,7 @@ msgstr "Канзас"
 #. Name for BF-PON
 #, fuzzy
 msgid "Poni"
-msgstr "Телефон:"
+msgstr "Телефон"
 
 #. Name for BF-SEN
 #, fuzzy
@@ -2071,7 +2071,7 @@ msgstr ""
 #. Name for BO-L, Name for HN-LP, Name for SV-PA
 #, fuzzy
 msgid "La Paz"
-msgstr "Фамилия:"
+msgstr "Фамилия"
 
 #. Name for BO-N
 #, fuzzy
@@ -5342,7 +5342,7 @@ msgstr "Израел"
 #. Name for FM-PNI
 #, fuzzy
 msgid "Pohnpei"
-msgstr "Телефон:"
+msgstr "Телефон"
 
 #. Name for FM-TRK
 msgid "Chuuk"
@@ -5811,7 +5811,7 @@ msgstr "Френска Полинезия"
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Гваделупа"
 
 #. Name for FR-HDF
 #, fuzzy
@@ -6124,7 +6124,7 @@ msgstr "Камерун"
 #. Name for GB-CWY
 #, fuzzy
 msgid "Conwy"
-msgstr "Фирма:"
+msgstr "Фирма"
 
 #. Name for GB-DAL
 #, fuzzy
@@ -7385,7 +7385,7 @@ msgstr "България"
 #. Name for GR-73
 #, fuzzy
 msgid "Rodopi"
-msgstr "Логин:"
+msgstr "Логин"
 
 #. Name for GR-81
 msgid "Dodekanisos"
@@ -9104,7 +9104,7 @@ msgstr "Ливорно"
 #. Name for IT-LO
 #, fuzzy
 msgid "Lodi"
-msgstr "Логин:"
+msgstr "Логин"
 
 #. Name for IT-LT
 #, fuzzy
@@ -12849,7 +12849,7 @@ msgstr "Панама"
 #. Name for MT-43
 #, fuzzy
 msgid "Qormi"
-msgstr "Логин:"
+msgstr "Логин"
 
 #. Name for MT-44
 msgid "Qrendi"
@@ -13737,7 +13737,7 @@ msgstr "Канзас"
 #. Name for NG-KO
 #, fuzzy
 msgid "Kogi"
-msgstr "Логин:"
+msgstr "Логин"
 
 #. Name for NG-KT
 #, fuzzy
@@ -13870,11 +13870,11 @@ msgstr "Сан Марино"
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Аруба"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Кюрасао"
 
 #. Name for NL-DR
 #, fuzzy
@@ -14076,7 +14076,7 @@ msgstr "Канада"
 #. Name for NP-KO
 #, fuzzy
 msgid "Kosi"
-msgstr "Логин:"
+msgstr "Логин"
 
 #. Name for NP-LU
 #, fuzzy
@@ -14830,12 +14830,12 @@ msgstr ""
 #. Name for PH-MOU
 #, fuzzy
 msgid "Mountain Province"
-msgstr "Щат/Провинция:"
+msgstr "Щат/Провинция"
 
 #. Name for PH-MSC
 #, fuzzy
 msgid "Misamis Occidental"
-msgstr "Мейл Клиент:"
+msgstr "Мейл Клиент"
 
 #. Name for PH-MSR
 msgid "Misamis Oriental"
@@ -14849,7 +14849,7 @@ msgstr "Северна Дакота"
 #. Name for PH-NEC
 #, fuzzy
 msgid "Negros Occidental"
-msgstr "Мейл Клиент:"
+msgstr "Мейл Клиент"
 
 #. Name for PH-NER
 msgid "Negros Oriental"
@@ -15015,7 +15015,7 @@ msgstr ""
 #. Name for PL-LD
 #, fuzzy
 msgid "Łódzkie"
-msgstr "Логин:"
+msgstr "Логин"
 
 #. Name for PL-LU
 msgid "Lubelskie"
@@ -16968,7 +16968,7 @@ msgstr ""
 #. Name for SI-097
 #, fuzzy
 msgid "Puconci"
-msgstr "Телефон:"
+msgstr "Телефон"
 
 #. Name for SI-098
 msgid "Rače-Fram"
@@ -17162,7 +17162,7 @@ msgstr "Венецуела"
 #. Name for SI-139
 #, fuzzy
 msgid "Vojnik"
-msgstr "Телефон:"
+msgstr "Телефон"
 
 #. Name for SI-140
 #, fuzzy
@@ -18172,7 +18172,7 @@ msgstr ""
 #. Name for TH-42
 #, fuzzy
 msgid "Loei"
-msgstr "Логин:"
+msgstr "Логин"
 
 #. Name for TH-43
 msgid "Nong Khai"
@@ -20495,7 +20495,7 @@ msgstr ""
 #. Name for VN-63
 #, fuzzy
 msgid "Hà Nam"
-msgstr "Фамилия:"
+msgstr "Фамилия"
 
 #. Name for VN-66
 msgid "Hưng Yên"
@@ -20541,7 +20541,7 @@ msgstr ""
 #. Name for VN-HN
 #, fuzzy
 msgid "Hà Nội"
-msgstr "Фамилия:"
+msgstr "Фамилия"
 
 #. Name for VN-HP
 msgid "Hải Phòng"

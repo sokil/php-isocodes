@@ -1,10 +1,12 @@
-# Walon translations of ISO 3166 place names
-# Copyright (C) 2002 Free Software Foundation, Inc.
-# Translations from KDE:
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Pablo Saratxaga <srtxg@chanae.alphanet.ch>, 2001.
-# Pablo Saratxaga <pablo@walon.org>, 2004,2007.
+# Translation of ISO 3166-2 to Walloon
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Pablo Saratxaga <pablo@walon.org>, 2001, 2004,2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -3038,7 +3040,7 @@ msgstr ""
 
 #. Name for CN-71
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 #. Name for CN-91
 msgid "Xianggang (Hong-Kong)"
@@ -3970,7 +3972,7 @@ msgstr ""
 
 #. Name for DJ-DJ
 msgid "Djibouti"
-msgstr ""
+msgstr "Djibouti"
 
 #. Name for DJ-OB
 msgid "Obock"
@@ -5503,7 +5505,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Gwadeloupe"
 
 #. Name for FR-HDF
 msgid "Hauts-de-France"
@@ -5520,7 +5522,7 @@ msgstr "Mecsike"
 
 #. Name for FR-MAY, Name for FR-YT
 msgid "Mayotte"
-msgstr ""
+msgstr "Mayote"
 
 #. Name for FR-MF
 #, fuzzy
@@ -6434,7 +6436,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "Rweyåme Uni"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -6766,7 +6768,7 @@ msgstr "Bosnyin"
 
 #. Name for GN-ML
 msgid "Mali"
-msgstr ""
+msgstr "Mali"
 
 #. Name for GN-N, Name for GN-NZ
 msgid "Nzérékoré"
@@ -7136,7 +7138,7 @@ msgstr ""
 
 #. Name for GT-GU
 msgid "Guatemala"
-msgstr ""
+msgstr "Gwatemala"
 
 #. Name for GT-HU
 msgid "Huehuetenango"
@@ -13043,7 +13045,7 @@ msgstr ""
 
 #. Name for NG-NI
 msgid "Niger"
-msgstr ""
+msgstr "Nidjer"
 
 #. Name for NG-OG
 msgid "Ogun"
@@ -13145,11 +13147,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Arouba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for NL-DR
 #, fuzzy
@@ -16588,7 +16590,7 @@ msgstr ""
 
 #. Name for SM-07
 msgid "San Marino"
-msgstr ""
+msgstr "Sint Marin"
 
 #. Name for SM-08
 msgid "Montegiardino"
@@ -18747,11 +18749,11 @@ msgstr "France"
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr ""
+msgstr "Djeyordjeye"
 
 #. Name for US-GU
 msgid "Guam"
-msgstr ""
+msgstr "Gwam"
 
 #. Name for US-HI
 msgid "Hawaii"
@@ -18809,7 +18811,7 @@ msgstr ""
 
 #. Name for US-MP
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Iyes Marianes bijhreces"
 
 #. Name for US-MS
 msgid "Mississippi"
@@ -18865,7 +18867,7 @@ msgstr "Pensilvaneye"
 
 #. Name for US-PR
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Porto Rico"
 
 #. Name for US-RI
 msgid "Rhode Island"
@@ -18889,7 +18891,7 @@ msgstr ""
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Iyes mineures des Estats Unis"
 
 #. Name for US-UT
 msgid "Utah"

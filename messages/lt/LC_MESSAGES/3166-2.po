@@ -1,9 +1,12 @@
-# Lithuanian translations of ISO 3166 place names
-# Copyright (C) 2002 Free Software Foundation, Inc.
-# Alastair McKinstry, <mckinstry@computer.org>, 2002.
-# Translations from KDE: 
-# Ričardas Čepas <rch@richard.eu.org>
+# Translation of ISO 3166-2 to Lithuanian
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Alastair McKinstry, <mckinstry@computer.org>, 2002.
+# Ričardas Čepas <rch@richard.eu.org>
 # Kęstutis Biliūnas <kebil@kaunas.init.lt>, 2007...2008, 2009.
 msgid ""
 msgstr ""
@@ -2535,7 +2538,7 @@ msgstr "Vakarų Kuvetė"
 
 #. Name for CG-2
 msgid "Lékoumou"
-msgstr "Lekumu "
+msgstr "Lekumu"
 
 #. Name for CG-5
 msgid "Kouilou"
@@ -6605,7 +6608,7 @@ msgstr ""
 
 #. Name for GN-ML
 msgid "Mali"
-msgstr ""
+msgstr "Malis"
 
 #. Name for GN-N, Name for GN-NZ
 msgid "Nzérékoré"
@@ -12941,11 +12944,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Kiurasao"
 
 #. Name for NL-DR
 msgid "Drenthe"
@@ -14706,7 +14709,7 @@ msgstr "Astrachanės sritis"
 
 #. Name for RU-BA
 msgid "Bashkortostan, Respublika"
-msgstr "Baškirija, Respublika "
+msgstr "Baškirija, Respublika"
 
 #. Name for RU-BEL
 msgid "Belgorodskaya oblast'"
@@ -18541,7 +18544,7 @@ msgstr "Teksasas"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Jungtinių Amerikos Valstijų mažosios aplinkinės salos"
 
 #. Name for US-UT
 msgid "Utah"

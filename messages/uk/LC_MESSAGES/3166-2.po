@@ -1,27 +1,29 @@
-# Translation of ISO 3166-2 (country subdivision names) to Ukrainian
+# Translation of ISO 3166-2 to Ukrainian
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C) 2010 Free Software Foundation, Inc.
-#
+# Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
 # Yuri Chornoivan <yurchor@ukr.net>, 2010, 2011, 2012, 2013, 2016.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2016-04-04 20:34+0300\n"
+"PO-Revision-Date: 2017-12-26 07:58+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
-"Language-Team: Ukrainian <translation-team-uk@lists.sourceforge.net>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-2/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -3232,10 +3234,8 @@ msgid "Kerýneia"
 msgstr "Кіренія"
 
 #. Name for CZ-10
-#, fuzzy
-#| msgid "Praha, hlavní město"
 msgid "Praha, Hlavní mešto"
-msgstr "Прага"
+msgstr "Прага, місто"
 
 #. Name for CZ-101
 msgid "Praha 1"
@@ -3298,46 +3298,32 @@ msgid "Praha 15"
 msgstr "Прага 15"
 
 #. Name for CZ-116
-#, fuzzy
-#| msgid "Praha 1"
 msgid "Praha 16"
-msgstr "Прага 1"
+msgstr "Прага 16"
 
 #. Name for CZ-117
-#, fuzzy
-#| msgid "Praha 1"
 msgid "Praha 17"
-msgstr "Прага 1"
+msgstr "Прага 17"
 
 #. Name for CZ-118
-#, fuzzy
-#| msgid "Praha 1"
 msgid "Praha 18"
-msgstr "Прага 1"
+msgstr "Прага 18"
 
 #. Name for CZ-119
-#, fuzzy
-#| msgid "Praha 1"
 msgid "Praha 19"
-msgstr "Прага 1"
+msgstr "Прага 19"
 
 #. Name for CZ-120
-#, fuzzy
-#| msgid "Praha 2"
 msgid "Praha 20"
-msgstr "Прага 2"
+msgstr "Прага 20"
 
 #. Name for CZ-121
-#, fuzzy
-#| msgid "Praha 2"
 msgid "Praha 21"
-msgstr "Прага 2"
+msgstr "Прага 21"
 
 #. Name for CZ-122
-#, fuzzy
-#| msgid "Praha 2"
 msgid "Praha 22"
-msgstr "Прага 2"
+msgstr "Прага 22"
 
 #. Name for CZ-20
 msgid "Středočeský kraj"
@@ -3376,14 +3362,10 @@ msgid "Nymburk"
 msgstr "Німбурк"
 
 #. Name for CZ-209
-#, fuzzy
-#| msgid "Praha východ"
 msgid "Praha-východ"
 msgstr "Прага-схід"
 
 #. Name for CZ-20A
-#, fuzzy
-#| msgid "Praha západ"
 msgid "Praha-západ"
 msgstr "Прага-захід"
 
@@ -3440,20 +3422,14 @@ msgid "Klatovy"
 msgstr "Клатові"
 
 #. Name for CZ-323
-#, fuzzy
-#| msgid "Plzeň město"
 msgid "Plzeň-město"
 msgstr "Пльзень-місто"
 
 #. Name for CZ-324
-#, fuzzy
-#| msgid "Plzeň jih"
 msgid "Plzeň-jih"
 msgstr "Пльзень-південь"
 
 #. Name for CZ-325
-#, fuzzy
-#| msgid "Plzeň sever"
 msgid "Plzeň-sever"
 msgstr "Пльзень-північ"
 
@@ -3578,10 +3554,8 @@ msgid "Ústí nad Orlicí"
 msgstr "Усті-над-Орліці"
 
 #. Name for CZ-63
-#, fuzzy
-#| msgid "Vysočina"
 msgid "Kraj Vysočina"
-msgstr "Височина"
+msgstr "Край Височина"
 
 #. Name for CZ-631
 msgid "Havlíčkův Brod"
@@ -3600,8 +3574,6 @@ msgid "Třebíč"
 msgstr "Тршебіч"
 
 #. Name for CZ-635
-#, fuzzy
-#| msgid "Žd’ár nad Sázavou"
 msgid "Žďár nad Sázavou"
 msgstr "Ждяр-над-Сазавою"
 
@@ -3650,8 +3622,6 @@ msgid "Olomouc"
 msgstr "Оломоуц"
 
 #. Name for CZ-713
-#, fuzzy
-#| msgid "Prostĕjov"
 msgid "Prostějov"
 msgstr "Простейов"
 
@@ -3668,14 +3638,10 @@ msgid "Zlínský kraj"
 msgstr "Злінський край"
 
 #. Name for CZ-721
-#, fuzzy
-#| msgid "Kromĕříž"
 msgid "Kroměříž"
 msgstr "Кромержиж"
 
 #. Name for CZ-722
-#, fuzzy
-#| msgid "Uherské Hradištĕ"
 msgid "Uherské Hradiště"
 msgstr "Угерске-Градіште"
 
@@ -3712,8 +3678,6 @@ msgid "Opava"
 msgstr "Опава"
 
 #. Name for CZ-806
-#, fuzzy
-#| msgid "Ostrava město"
 msgid "Ostrava-město"
 msgstr "Острава-місто"
 
@@ -4471,7 +4435,7 @@ msgstr "Бадахос"
 
 #. Name for ES-BI
 msgid "Bizkaia"
-msgstr ""
+msgstr "Біскайя"
 
 #. Name for ES-BU
 msgid "Burgos"
@@ -4655,7 +4619,7 @@ msgstr "Сорія"
 
 #. Name for ES-SS
 msgid "Gipuzkoa"
-msgstr ""
+msgstr "Гіпускоа"
 
 #. Name for ES-T
 msgid "Tarragona"
@@ -5171,7 +5135,7 @@ msgstr "Тарн і Гаронна"
 
 #. Name for FR-83
 msgid "Var"
-msgstr "Var"
+msgstr "Вар"
 
 #. Name for FR-84
 msgid "Vaucluse"
@@ -5218,22 +5182,16 @@ msgid "Val-de-Marne"
 msgstr "Валь-де-Марн"
 
 #. Name for FR-95
-#, fuzzy
-#| msgid "Val d'Oise"
 msgid "Val-d'Oise"
 msgstr "Валь-д’Уаз"
 
 #. Name for FR-ARA
-#, fuzzy
-#| msgid "Rhône-Alpes"
 msgid "Auvergne-Rhône-Alpes"
-msgstr "Рона-Альпи"
+msgstr "Овернь-Рона-Альпи"
 
 #. Name for FR-BFC
-#, fuzzy
-#| msgid "Franche-Comté"
 msgid "Bourgogne-Franche-Comté"
-msgstr "Франш-Конте"
+msgstr "Бургундія-Франш-Конте"
 
 #. Name for FR-BL
 msgid "Saint-Barthélemy"
@@ -5252,40 +5210,30 @@ msgid "Clipperton"
 msgstr "Кліппертон"
 
 #. Name for FR-CVL
-#, fuzzy
-#| msgid "Central Bedfordshire"
 msgid "Centre-Val de Loire"
-msgstr "Центральний Бедфордшир"
+msgstr "Центр-Долина Луари"
 
 #. Name for FR-GES
-#, fuzzy
-#| msgid "Nord-Est"
 msgid "Grand-Est"
-msgstr "Північно-східний департамент"
+msgstr "Гранд Ест"
 
 #. Name for FR-GF
-#, fuzzy
-#| msgid "Polynésie française"
 msgid "Guyane (française)"
-msgstr "Французька Полінезія"
+msgstr "Французька Гвіана"
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
 msgstr "Гваделупа"
 
 #. Name for FR-HDF
-#, fuzzy
-#| msgid "Hauts-de-Seine"
 msgid "Hauts-de-France"
-msgstr "Верхня Сена"
+msgstr "О-де-Франс"
 
 #. Name for FR-IDF
 msgid "Île-de-France"
 msgstr "Іль-де-Франс"
 
 #. Name for FR-LRE, Name for FR-RE
-#, fuzzy
-#| msgid "Réunion"
 msgid "La Réunion"
 msgstr "Реюньйон"
 
@@ -5302,36 +5250,26 @@ msgid "Martinique"
 msgstr "Мартиніка"
 
 #. Name for FR-NAQ
-#, fuzzy
-#| msgid "Aquitaine"
 msgid "Nouvelle-Aquitaine"
-msgstr "Аквітанія"
+msgstr "Нова Аквітанія"
 
 #. Name for FR-NC
 msgid "Nouvelle-Calédonie"
 msgstr "Нова Каледонія"
 
 #. Name for FR-NOR
-#, fuzzy
-#| msgid "Basse-Normandie"
 msgid "Normandie"
-msgstr "Нижня Нормандія"
+msgstr "Нормандія"
 
 #. Name for FR-OCC
-#, fuzzy
-#| msgid "Vitanje"
 msgid "Occitanie"
-msgstr "Вітаньє"
+msgstr "Окситанія"
 
 #. Name for FR-PAC
-#, fuzzy
-#| msgid "Provence-Alpes-Côte d'Azur"
 msgid "Provence-Alpes-Côte-d’Azur"
 msgstr "Прованс-Альпи-Лазурове узбережжя"
 
 #. Name for FR-PDL
-#, fuzzy
-#| msgid "Pays de la Loire"
 msgid "Pays-de-la-Loire"
 msgstr "Землі на Луарі"
 
@@ -5389,7 +5327,7 @@ msgstr "Волю-Нтем"
 
 #. Name for GB-ABC
 msgid "Armagh, Banbridge and Craigavon"
-msgstr ""
+msgstr "Арма, Бенбрідж та Крейгавон"
 
 #. Name for GB-ABD
 msgid "Aberdeenshire"
@@ -5404,22 +5342,16 @@ msgid "Argyll and Bute"
 msgstr "Аргайл і Бьют"
 
 #. Name for GB-AGY
-#, fuzzy
-#| msgid "Isle of Anglesey;Sir Ynys Môn"
 msgid "Isle of Anglesey; Sir Ynys Môn"
 msgstr "Острів Англсі"
 
 #. Name for GB-AND
-#, fuzzy
-#| msgid "North Down"
 msgid "Ards and North Down"
-msgstr "Північний Даун"
+msgstr "Ардс і Північний Даун"
 
 #. Name for GB-ANN
-#, fuzzy
-#| msgid "Newtownabbey"
 msgid "Antrim and Newtownabbey"
-msgstr "Ньютаунаббі"
+msgstr "Ентрім і Ньютаунаббі"
 
 #. Name for GB-ANS
 msgid "Angus"
@@ -5454,8 +5386,6 @@ msgid "Belfast"
 msgstr "Белфаст"
 
 #. Name for GB-BGE
-#, fuzzy
-#| msgid "Bridgend;Pen-y-bont ar Ogwr"
 msgid "Bridgend; Pen-y-bont ar Ogwr"
 msgstr "Брідженд"
 
@@ -5520,8 +5450,6 @@ msgid "Cambridgeshire"
 msgstr "Кембриджшир"
 
 #. Name for GB-CAY
-#, fuzzy
-#| msgid "Caerphilly;Caerffili"
 msgid "Caerphilly; Caerffili"
 msgstr "Карфіллі"
 
@@ -5531,11 +5459,9 @@ msgstr "Центральний Бедфордшир"
 
 #. Name for GB-CCG
 msgid "Causeway Coast and Glens"
-msgstr ""
+msgstr "Узбережжя Козвей та Гленс"
 
 #. Name for GB-CGN
-#, fuzzy
-#| msgid "Ceredigion;Sir Ceredigion"
 msgid "Ceredigion; Sir Ceredigion"
 msgstr "Кередігіон"
 
@@ -5564,8 +5490,6 @@ msgid "Camden"
 msgstr "Кемден"
 
 #. Name for GB-CMN
-#, fuzzy
-#| msgid "Carmarthenshire;Sir Gaerfyrddin"
 msgid "Carmarthenshire; Sir Gaerfyrddin"
 msgstr "Кармартеншир"
 
@@ -5578,8 +5502,6 @@ msgid "Coventry"
 msgstr "Ковентрі"
 
 #. Name for GB-CRF
-#, fuzzy
-#| msgid "Cardiff;Caerdydd"
 msgid "Cardiff; Caerdydd"
 msgstr "Кардифф"
 
@@ -5600,8 +5522,6 @@ msgid "Derbyshire"
 msgstr "Дербішир"
 
 #. Name for GB-DEN
-#, fuzzy
-#| msgid "Denbighshire;Sir Ddinbych"
 msgid "Denbighshire; Sir Ddinbych"
 msgstr "Денбішир"
 
@@ -5630,18 +5550,14 @@ msgid "Dorset"
 msgstr "Дорсет"
 
 #. Name for GB-DRS
-#, fuzzy
-#| msgid "Newry and Mourne"
 msgid "Derry and Strabane"
-msgstr "Ньюрі-і-Мурн"
+msgstr "Деррі і Стребейн"
 
 #. Name for GB-DUD
 msgid "Dudley"
 msgstr "Дадлі"
 
 #. Name for GB-DUR
-#, fuzzy
-#| msgid "Durham, County"
 msgid "Durham County"
 msgstr "Дарем, графство"
 
@@ -5706,16 +5622,12 @@ msgid "Fife"
 msgstr "Файф"
 
 #. Name for GB-FLN
-#, fuzzy
-#| msgid "Flintshire;Sir y Fflint"
 msgid "Flintshire; Sir y Fflint"
 msgstr "Флінтшир"
 
 #. Name for GB-FMO
-#, fuzzy
-#| msgid "Fermanagh"
 msgid "Fermanagh and Omagh"
-msgstr "Фермана"
+msgstr "Фермана і Ома"
 
 #. Name for GB-GAT
 msgid "Gateshead"
@@ -5794,10 +5706,8 @@ msgid "Haringey"
 msgstr "Гаріґей"
 
 #. Name for GB-IOS
-#, fuzzy
-#| msgid "Isle of Wight"
 msgid "Isles of Scilly"
-msgstr "Острів Вайт"
+msgstr "Острови Сіллі"
 
 #. Name for GB-IOW
 msgid "Isle of Wight"
@@ -5840,10 +5750,8 @@ msgid "Lancashire"
 msgstr "Ланкашир"
 
 #. Name for GB-LBC
-#, fuzzy
-#| msgid "Castlereagh"
 msgid "Lisburn and Castlereagh"
-msgstr "Каслрі"
+msgstr "Лісберн і Каслрі"
 
 #. Name for GB-LBH
 msgid "Lambeth"
@@ -5895,7 +5803,7 @@ msgstr "Медвей"
 
 #. Name for GB-MEA
 msgid "Mid and East Antrim"
-msgstr ""
+msgstr "Середній і Східний Антрім"
 
 #. Name for GB-MIK
 msgid "Milton Keynes"
@@ -5906,8 +5814,6 @@ msgid "Midlothian"
 msgstr "Мідлотіан"
 
 #. Name for GB-MON
-#, fuzzy
-#| msgid "Monmouthshire;Sir Fynwy"
 msgid "Monmouthshire; Sir Fynwy"
 msgstr "Монмутшир"
 
@@ -5920,16 +5826,12 @@ msgid "Moray"
 msgstr "Мюрей"
 
 #. Name for GB-MTY
-#, fuzzy
-#| msgid "Merthyr Tydfil;Merthyr Tudful"
 msgid "Merthyr Tydfil; Merthyr Tudful"
 msgstr "Мертір-Тідвіл"
 
 #. Name for GB-MUL
-#, fuzzy
-#| msgid "Ulster"
 msgid "Mid Ulster"
-msgstr "Ульстер"
+msgstr "Середній Ульстер"
 
 #. Name for GB-NAY
 msgid "North Ayrshire"
@@ -5968,10 +5870,8 @@ msgid "North Lincolnshire"
 msgstr "Північний Лінкольншир"
 
 #. Name for GB-NMD
-#, fuzzy
-#| msgid "Newry and Mourne"
 msgid "Newry, Mourne and Down"
-msgstr "Ньюрі-і-Мурн"
+msgstr "Ньюрі, Мурн і Даун"
 
 #. Name for GB-NSM
 msgid "North Somerset"
@@ -5982,8 +5882,6 @@ msgid "Northamptonshire"
 msgstr "Нортхемптоншир"
 
 #. Name for GB-NTL
-#, fuzzy
-#| msgid "Neath Port Talbot;Castell-nedd Port Talbot"
 msgid "Neath Port Talbot; Castell-nedd Port Talbot"
 msgstr "Ніт-Порт-Толбот"
 
@@ -6000,8 +5898,6 @@ msgid "Newham"
 msgstr "Ньюгем"
 
 #. Name for GB-NWP
-#, fuzzy
-#| msgid "Newport;Casnewydd"
 msgid "Newport; Casnewydd"
 msgstr "Ньюпорт"
 
@@ -6022,8 +5918,6 @@ msgid "Oxfordshire"
 msgstr "Оксфордшир"
 
 #. Name for GB-PEM
-#, fuzzy
-#| msgid "Pembrokeshire;Sir Benfro"
 msgid "Pembrokeshire; Sir Benfro"
 msgstr "Пембрукшир"
 
@@ -6060,8 +5954,6 @@ msgid "Rochdale"
 msgstr "Рочдейл"
 
 #. Name for GB-RCT
-#, fuzzy
-#| msgid "Rhondda, Cynon, Taff;Rhondda, Cynon,Taf"
 msgid "Rhondda, Cynon, Taff; Rhondda, Cynon, Taf"
 msgstr "Ронта-Кінон-Тав"
 
@@ -6194,8 +6086,6 @@ msgid "South Tyneside"
 msgstr "Південний Тайнсайд"
 
 #. Name for GB-SWA
-#, fuzzy
-#| msgid "Swansea;Abertawe"
 msgid "Swansea; Abertawe"
 msgstr "Свонсі"
 
@@ -6224,8 +6114,6 @@ msgid "Torbay"
 msgstr "Торбей"
 
 #. Name for GB-TOF
-#, fuzzy
-#| msgid "Torfaen;Tor-faen"
 msgid "Torfaen; Tor-faen"
 msgstr "Торван"
 
@@ -6242,8 +6130,6 @@ msgid "United Kingdom"
 msgstr "Великобританія"
 
 #. Name for GB-VGL
-#, fuzzy
-#| msgid "Vale of Glamorgan, The;Bro Morgannwg"
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
 msgstr "Долина Гламорган"
 
@@ -6268,10 +6154,8 @@ msgid "Wigan"
 msgstr "Віґан"
 
 #. Name for GB-WIL
-#, fuzzy
-#| msgid "Lincolnshire"
 msgid "Wiltshire"
-msgstr "Лінкольншир"
+msgstr "Вілтшир"
 
 #. Name for GB-WKF
 msgid "Wakefield"
@@ -6287,7 +6171,7 @@ msgstr "Західний Лотіан"
 
 #. Name for GB-WLS
 msgid "Wales; Cymru"
-msgstr ""
+msgstr "Уельс; Кімру"
 
 #. Name for GB-WLV
 msgid "Wolverhampton"
@@ -6318,8 +6202,6 @@ msgid "Warrington"
 msgstr "Воррінґтон"
 
 #. Name for GB-WRX
-#, fuzzy
-#| msgid "Wrexham;Wrecsam"
 msgid "Wrexham; Wrecsam"
 msgstr "Рексем"
 
@@ -9352,14 +9234,10 @@ msgid "Xékong"
 msgstr "Секонг"
 
 #. Name for LA-XI
-#, fuzzy
-#| msgid "Xiangkhoang"
 msgid "Xiangkhouang"
 msgstr "Сієнгкхуанг"
 
 #. Name for LA-XS
-#, fuzzy
-#| msgid "Xiasômboun"
 msgid "Xaisômboun"
 msgstr "Сайсомбун"
 
@@ -11445,7 +11323,7 @@ msgstr "Чин"
 
 #. Name for MM-15
 msgid "Mon"
-msgstr "Пнд"
+msgstr "Мон"
 
 #. Name for MM-16
 msgid "Rakhine"
@@ -13532,8 +13410,6 @@ msgid "North Cotabato"
 msgstr "Північний Котабато"
 
 #. Name for PH-NEC
-#, fuzzy
-#| msgid "Negroe Occidental"
 msgid "Negros Occidental"
 msgstr "Західний Негрос"
 
@@ -18007,11 +17883,11 @@ msgstr "Флорида"
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr "Джорджія"
+msgstr "Грузія"
 
 #. Name for US-GU
 msgid "Guam"
-msgstr "Ґуам"
+msgstr "Гуам"
 
 #. Name for US-HI
 msgid "Hawaii"

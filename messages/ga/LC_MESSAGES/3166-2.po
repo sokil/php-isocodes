@@ -1,22 +1,28 @@
-# ISO 3166 (Country) names in Irish
-# Copyright (C) 2001,2003 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Irish
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@debian>, 2001.
-#
-# $Id$
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
 "POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2001-12-12 13:04+0000\n"
-"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
-"Language-Team: Irish <ga@li.org>\n"
+"PO-Revision-Date: 2017-12-10 21:39+0000\n"
+"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
+"Language-Team: Irish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/ga/>\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
+"(n>6 && n<11) ? 3 : 4;\n"
+"X-Generator: Weblate 2.18-dev\n"
 
 #
 #
@@ -4104,7 +4110,7 @@ msgstr ""
 
 #. Name for DJ-DJ
 msgid "Djibouti"
-msgstr ""
+msgstr "Djibouti"
 
 #. Name for DJ-OB
 msgid "Obock"
@@ -5711,7 +5717,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadalúip"
 
 #. Name for FR-HDF
 #, fuzzy
@@ -6673,7 +6679,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "An Ríocht Aontaithe"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -13695,11 +13701,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curasao"
 
 #. Name for NL-DR
 #, fuzzy
@@ -19737,7 +19743,7 @@ msgstr ""
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "Mion-Oileáin Imeallachta S.A.M."
+msgstr "Mion-Oileáin Imeallacha S.A.M."
 
 #. Name for US-UT
 msgid "Utah"

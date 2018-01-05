@@ -1,11 +1,12 @@
-# ISO 3166 (Country) names in Northern Sotho
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Pedi; Sepedi; Northern Sotho
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 200.
-# Translations taken from kaddressbook:
-#   Jerry Thobejane <jerry@translate.org.za>, 2002
-#
-# $Id$
-#
+# Jerry Thobejane <jerry@translate.org.za>, 2002
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -150,7 +151,7 @@ msgstr ""
 #. Name for AF-KAN
 #, fuzzy
 msgid "Kandahār"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for AF-KAP
 msgid "Kāpīsā"
@@ -440,7 +441,7 @@ msgstr "Swaziland"
 #. Name for AL-TE
 #, fuzzy
 msgid "Tepelenë"
-msgstr "Megala:"
+msgstr "Megala"
 
 #. Name for AL-TP
 #, fuzzy
@@ -1491,7 +1492,7 @@ msgstr "Haiti"
 #. Name for BE-WLG
 #, fuzzy
 msgid "Liège"
-msgstr "Aterese:"
+msgstr "Aterese"
 
 #. Name for BE-WLX, Name for LU-L
 #, fuzzy
@@ -2106,7 +2107,7 @@ msgstr ""
 #. Name for BO-P
 #, fuzzy
 msgid "Potosí"
-msgstr "&Boemong:"
+msgstr "&Boemong"
 
 #. Name for BO-T
 #, fuzzy
@@ -2432,7 +2433,7 @@ msgstr "Taiwan"
 #. Name for BT-22
 #, fuzzy
 msgid "Dagana"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for BT-23
 #, fuzzy
@@ -5418,7 +5419,7 @@ msgstr ""
 #. Name for FR-09
 #, fuzzy
 msgid "Ariège"
-msgstr "Aterese:"
+msgstr "Aterese"
 
 #. Name for FR-10
 #, fuzzy
@@ -5503,7 +5504,7 @@ msgstr ""
 #. Name for FR-29
 #, fuzzy
 msgid "Finistère"
-msgstr "Sesekodi:"
+msgstr "Sesekodi"
 
 #. Name for FR-2A
 msgid "Corse-du-Sud"
@@ -5723,7 +5724,7 @@ msgstr ""
 #. Name for FR-78
 #, fuzzy
 msgid "Yvelines"
-msgstr "Dihlogo:"
+msgstr "Dihlogo"
 
 #. Name for FR-79
 msgid "Deux-Sèvres"
@@ -5759,7 +5760,7 @@ msgstr "Venezuela"
 #. Name for FR-86
 #, fuzzy
 msgid "Vienne"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for FR-87
 msgid "Haute-Vienne"
@@ -5876,7 +5877,7 @@ msgstr "Martinique"
 #. Name for FR-NAQ
 #, fuzzy
 msgid "Nouvelle-Aquitaine"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for FR-NC
 msgid "Nouvelle-Calédonie"
@@ -5889,7 +5890,7 @@ msgstr ""
 #. Name for FR-OCC
 #, fuzzy
 msgid "Occitanie"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"
@@ -6612,12 +6613,12 @@ msgstr "Borwa bja Korea"
 #. Name for GB-POL
 #, fuzzy
 msgid "Poole"
-msgstr "Morero:"
+msgstr "Morero"
 
 #. Name for GB-POR
 #, fuzzy
 msgid "Portsmouth"
-msgstr "&Boemong:"
+msgstr "&Boemong"
 
 #. Name for GB-POW
 msgid "Powys"
@@ -6634,7 +6635,7 @@ msgstr ""
 #. Name for GB-RCH
 #, fuzzy
 msgid "Rochdale"
-msgstr "Morero:"
+msgstr "Morero"
 
 #. Name for GB-RCT
 msgid "Rhondda, Cynon, Taff; Rhondda, Cynon, Taf"
@@ -7333,7 +7334,7 @@ msgstr "Mauritania"
 #. Name for GR-34
 #, fuzzy
 msgid "Preveza"
-msgstr "Ponelopele:"
+msgstr "Ponelopele"
 
 #. Name for GR-41
 #, fuzzy
@@ -8863,7 +8864,7 @@ msgstr ""
 #. Name for IT-34
 #, fuzzy
 msgid "Veneto"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for IT-36
 msgid "Friuli-Venezia Giulia"
@@ -9893,7 +9894,7 @@ msgstr "Gautemala"
 #. Name for KH-8
 #, fuzzy
 msgid "Kandal"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for KH-9
 #, fuzzy
@@ -10261,7 +10262,7 @@ msgstr ""
 #. Name for LA-VI, Name for LA-VT
 #, fuzzy
 msgid "Vientiane"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for LA-XA
 msgid "Xaignabouli"
@@ -11779,7 +11780,7 @@ msgstr ""
 #. Name for MD-NI
 #, fuzzy
 msgid "Nisporeni"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for MD-OC
 msgid "Ocnița"
@@ -12070,7 +12071,7 @@ msgstr ""
 #. Name for MH-WTJ
 #, fuzzy
 msgid "Wotje"
-msgstr "Tshwao:"
+msgstr "Tshwao"
 
 #. Name for MH-WTN
 #, fuzzy
@@ -13921,7 +13922,7 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
@@ -14122,7 +14123,7 @@ msgstr ""
 #. Name for NP-KA
 #, fuzzy
 msgid "Karnali"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for NP-KO
 #, fuzzy
@@ -14356,7 +14357,7 @@ msgstr ""
 #. Name for PA-2
 #, fuzzy
 msgid "Coclé"
-msgstr "Morero:"
+msgstr "Morero"
 
 #. Name for PA-4
 msgid "Chiriquí"
@@ -15070,7 +15071,7 @@ msgstr ""
 #. Name for PL-MA
 #, fuzzy
 msgid "Małopolskie"
-msgstr "Morero:"
+msgstr "Morero"
 
 #. Name for PL-MZ
 #, fuzzy
@@ -15080,7 +15081,7 @@ msgstr "Martinique"
 #. Name for PL-OP
 #, fuzzy
 msgid "Opolskie"
-msgstr "Morero:"
+msgstr "Morero"
 
 #. Name for PL-PD
 msgid "Podlaskie"
@@ -15239,7 +15240,7 @@ msgstr "Portugal"
 #. Name for PT-13
 #, fuzzy
 msgid "Porto"
-msgstr "&Boemong:"
+msgstr "&Boemong"
 
 #. Name for PT-14
 #, fuzzy
@@ -15458,7 +15459,7 @@ msgstr "Albania"
 #. Name for RO-AG
 #, fuzzy
 msgid "Argeș"
-msgstr "Aterese:"
+msgstr "Aterese"
 
 #. Name for RO-AR
 #, fuzzy
@@ -15621,7 +15622,7 @@ msgstr ""
 #. Name for RO-TR
 #, fuzzy
 msgid "Teleorman"
-msgstr "Mogala:"
+msgstr "Mogala"
 
 #. Name for RO-VL
 msgid "Vâlcea"
@@ -15877,7 +15878,7 @@ msgstr "Czech Republic"
 #. Name for RU-KDA
 #, fuzzy
 msgid "Krasnodarskiy kray"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for RU-KEM
 #, fuzzy
@@ -16776,7 +16777,7 @@ msgstr "Mali"
 #. Name for SI-044
 #, fuzzy
 msgid "Kanal"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for SI-045
 msgid "Kidričevo"
@@ -16795,7 +16796,7 @@ msgstr "Cuba"
 #. Name for SI-048
 #, fuzzy
 msgid "Kočevje"
-msgstr "Tshwao:"
+msgstr "Tshwao"
 
 #. Name for SI-049
 #, fuzzy
@@ -16809,7 +16810,7 @@ msgstr ""
 #. Name for SI-051
 #, fuzzy
 msgid "Kozje"
-msgstr "Tshwao:"
+msgstr "Tshwao"
 
 #. Name for SI-052
 #, fuzzy
@@ -17211,7 +17212,7 @@ msgstr "Syria"
 #. Name for SI-137
 #, fuzzy
 msgid "Vitanje"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for SI-138
 #, fuzzy
@@ -17374,7 +17375,7 @@ msgstr "Liberia"
 #. Name for SI-173
 #, fuzzy
 msgid "Polzela"
-msgstr "Morero:"
+msgstr "Morero"
 
 #. Name for SI-174
 #, fuzzy
@@ -17384,7 +17385,7 @@ msgstr "Cuba"
 #. Name for SI-175
 #, fuzzy
 msgid "Prevalje"
-msgstr "Ponelopele:"
+msgstr "Ponelopele"
 
 #. Name for SI-176
 msgid "Razkrižje"
@@ -17593,7 +17594,7 @@ msgstr "Malta"
 #. Name for SM-03
 #, fuzzy
 msgid "Domagnano"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for SM-04
 #, fuzzy
@@ -17603,7 +17604,7 @@ msgstr "Austria"
 #. Name for SM-05
 #, fuzzy
 msgid "Fiorentino"
-msgstr "Bona leina:"
+msgstr "Bona leina"
 
 #. Name for SM-06
 msgid "Borgo Maggiore"
@@ -18894,7 +18895,7 @@ msgstr ""
 #. Name for TR-53
 #, fuzzy
 msgid "Rize"
-msgstr "Bogolo:"
+msgstr "Bogolo"
 
 #. Name for TR-54
 msgid "Sakarya"
@@ -19543,7 +19544,7 @@ msgstr "Bulgaria"
 #. Name for UG-203
 #, fuzzy
 msgid "Iganga"
-msgstr "Uganda "
+msgstr "Uganda"
 
 #. Name for UG-204
 #, fuzzy
@@ -20045,7 +20046,7 @@ msgstr ""
 #. Name for US-OR
 #, fuzzy
 msgid "Oregon"
-msgstr "Lefelo:"
+msgstr "Lefelo"
 
 #. Name for US-PA
 msgid "Pennsylvania"

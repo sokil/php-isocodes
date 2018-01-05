@@ -1,10 +1,13 @@
-# Thai translations for ISO 3166 place names
-# Copyright (C) 2002-2013 Free Software Foundation, Inc.
-# Alastair McKinstry <mckinstry@computer.org>, 2002
-# Translations from KDE:
-#  - Thanomsub Noppaburana <donga@midaassets.com>
-# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2005-2013.
+# Translation of ISO 3166-2 to Thai
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Thanomsub Noppaburana <donga@midaassets.com>
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2005-2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -15914,7 +15917,7 @@ msgstr ""
 
 #. Name for SM-07
 msgid "San Marino"
-msgstr ""
+msgstr "ซานมารีโน"
 
 #. Name for SM-08
 msgid "Montegiardino"

@@ -1,8 +1,12 @@
-# Esperanto translations of ISO 639 Language names
-# Copyright (C) 2002 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Esperanto
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2002
 # Edmund GRIMLEY EVANS <edmundo@rano.org>, 2004-2005
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -32827,7 +32831,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Klasika siria"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -40973,7 +40977,7 @@ msgstr "Sota, suda"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Norma maroka berbera"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

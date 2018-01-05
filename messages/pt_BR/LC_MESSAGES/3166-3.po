@@ -1,13 +1,17 @@
-# Brazilian Portuguese translations of ISO 3166 (place names)
-# Copyright (C) 2013 the package authors.
+# Translation of ISO 3166-3 to Brazilian Portuguese
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
+# Code elements (nice reference): https://en.wikipedia.org/wiki/ISO_3166-1
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2002
 # Lisiane Sztoltz <lisiane@conectiva.com.br>
 # Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2006-2009.
 # Rafael Ferreira <rafael.f.f1@gmail.com>, 2013.
-#
-# Code elements (nice reference): https://en.wikipedia.org/wiki/ISO_3166-1
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
@@ -30,7 +34,6 @@ msgstr ""
 msgid "French Afars and Issas"
 msgstr "Território Francês dos Afars e Issas"
 
-# AN
 #. Name for ANHH
 msgid "Netherlands Antilles"
 msgstr "Antilhas Holandesas"
@@ -80,12 +83,10 @@ msgstr "França Metropolitana"
 msgid "Gilbert and Ellice Islands"
 msgstr "Ilhas Gilbert e Ellice"
 
-# KR
 #. Name for HVBF
 msgid "Upper Volta, Republic of"
 msgstr "Alto Volta, República do"
 
-# CK
 #. Name for JTUM
 msgid "Johnston Island"
 msgstr "Ilha Johnston"
@@ -135,27 +136,22 @@ msgstr "URSS, União das Repúblicas Socialistas Soviéticas"
 msgid "East Timor"
 msgstr "Timor Leste"
 
-# KP
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
 msgstr "Vietnã, República Popular Democrática do"
 
-# FO
 #. Name for WKUM
 msgid "Wake Island"
 msgstr "Ilha Wake"
 
-# KP
 #. Name for YDYE
 msgid "Yemen, Democratic, People's Democratic Republic of"
 msgstr "Iêmen, República Popular Democrática do"
 
-# KR
 #. Name for YUCS
 msgid "Yugoslavia, Socialist Federal Republic of"
 msgstr "Iugoslávia, República Federativa Socialista da"
 
-# KR
 #. Name for ZRCD
 msgid "Zaire, Republic of"
 msgstr "Zaire, República do"

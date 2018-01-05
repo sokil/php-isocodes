@@ -1,9 +1,12 @@
-# Malay translations of ISO 639 Language names
-# Copyright (C) 2001,2004 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Malay
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Hasbullah Bin Pit (sebol) <sebol@ikhlas.com>, 2001
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   - translations from ICU-3.0
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -596,7 +599,7 @@ msgstr "Bahasa Arab"
 #. Name for afd
 #, fuzzy
 msgid "Andai"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for afe
 msgid "Putukwam"
@@ -869,7 +872,7 @@ msgstr ""
 #. Name for aic
 #, fuzzy
 msgid "Ainbai"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for aid
 msgid "Alngith"
@@ -984,7 +987,7 @@ msgstr ""
 #. Name for ajn
 #, fuzzy
 msgid "Andajin"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for ajp
 msgid "South Levantine Arabic"
@@ -1409,7 +1412,7 @@ msgstr ""
 #. Name for ani
 #, fuzzy
 msgid "Andi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for anj
 msgid "Anor"
@@ -1436,7 +1439,7 @@ msgstr ""
 #. Name for ann
 #, fuzzy
 msgid "Obolo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for ano
 msgid "Andoque"
@@ -2039,7 +2042,7 @@ msgstr ""
 #. Name for atb
 #, fuzzy
 msgid "Zaiwa"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for atc
 msgid "Atsahuaca"
@@ -2495,12 +2498,12 @@ msgstr ""
 #. Name for ayh
 #, fuzzy
 msgid "Hadrami Arabic"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Inverted name for ayh
 #, fuzzy
 msgid "Arabic, Hadrami"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for ayi
 msgid "Leyigha"
@@ -2997,7 +3000,7 @@ msgstr ""
 #. Name for bct
 #, fuzzy
 msgid "Bendi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bcu
 msgid "Awad Bing"
@@ -3123,7 +3126,7 @@ msgstr ""
 #. Name for bdu
 #, fuzzy
 msgid "Oroko"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for bdv
 msgid "Bodo Parja"
@@ -3372,7 +3375,7 @@ msgstr ""
 #. Name for bft
 #, fuzzy
 msgid "Balti"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bfu
 #, fuzzy
@@ -3382,7 +3385,7 @@ msgstr "Margin"
 #. Name for bfw
 #, fuzzy
 msgid "Bondo"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bfx
 #, fuzzy
@@ -3534,7 +3537,7 @@ msgstr "Thai"
 #. Name for bhb
 #, fuzzy
 msgid "Bhili"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bhc
 #, fuzzy
@@ -3573,12 +3576,12 @@ msgstr "Thai"
 #. Name for bhj
 #, fuzzy
 msgid "Bahing"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bhl
 #, fuzzy
 msgid "Bimin"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bhm
 #, fuzzy
@@ -3669,7 +3672,7 @@ msgstr "Thai"
 #. Name for bid
 #, fuzzy
 msgid "Bidiyo"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bie
 msgid "Bepour"
@@ -3682,7 +3685,7 @@ msgstr ""
 #. Name for big
 #, fuzzy
 msgid "Biangai"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bij
 msgid "Vaghat-Ya-Bijim-Legeri"
@@ -3703,7 +3706,7 @@ msgstr ""
 #. Name for bin
 #, fuzzy
 msgid "Bini"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bio
 #, fuzzy
@@ -3718,7 +3721,7 @@ msgstr "Bulgarian"
 #. Name for biq
 #, fuzzy
 msgid "Bipi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bir
 #, fuzzy
@@ -3732,7 +3735,7 @@ msgstr ""
 #. Name for bit
 #, fuzzy
 msgid "Berinomo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for biu
 #, fuzzy
@@ -3764,7 +3767,7 @@ msgstr "Thai"
 #. Name for biz
 #, fuzzy
 msgid "Baloi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bja
 msgid "Budza"
@@ -3900,7 +3903,7 @@ msgstr ""
 #. Name for bkd
 #, fuzzy
 msgid "Binukid"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bkf
 #, fuzzy
@@ -3970,7 +3973,7 @@ msgstr ""
 #. Name for bkt
 #, fuzzy
 msgid "Boloki"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bku
 msgid "Buhid"
@@ -4033,7 +4036,7 @@ msgstr ""
 #. Name for bli
 #, fuzzy
 msgid "Bolia"
-msgstr "Cari:"
+msgstr "Cari"
 
 # ui/galeon.glade.h:272
 #. Name for blj
@@ -4053,7 +4056,7 @@ msgstr "Korean"
 #. Name for bll
 #, fuzzy
 msgid "Biloxi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for blm
 msgid "Beli (Sudan)"
@@ -4082,7 +4085,7 @@ msgstr ""
 #. Name for blr
 #, fuzzy
 msgid "Blang"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bls
 #, fuzzy
@@ -4253,7 +4256,7 @@ msgstr "Romanian"
 #. Name for bnc
 #, fuzzy
 msgid "Bontok"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bnd
 #, fuzzy
@@ -4277,7 +4280,7 @@ msgstr "Baltic"
 #. Name for bni
 #, fuzzy
 msgid "Bangi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bnj
 msgid "Eastern Tawbuid"
@@ -4338,7 +4341,7 @@ msgstr ""
 #. Name for bnw
 #, fuzzy
 msgid "Bisis"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bnx
 msgid "Bangubangu"
@@ -4374,7 +4377,7 @@ msgstr ""
 #. Name for bof
 #, fuzzy
 msgid "Bolon"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bog
 msgid "Bamako Sign Language"
@@ -4405,12 +4408,12 @@ msgstr ""
 #. Name for bom
 #, fuzzy
 msgid "Berom"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for bon
 #, fuzzy
 msgid "Bine"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for boo
 msgid "Tiemacèwè Bozo"
@@ -4448,7 +4451,7 @@ msgstr ""
 #. Name for bou
 #, fuzzy
 msgid "Bondei"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bov
 msgid "Tuwuli"
@@ -4505,12 +4508,12 @@ msgstr ""
 #. Name for bpj
 #, fuzzy
 msgid "Binji"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bpk
 #, fuzzy
 msgid "Orowe"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for bpl
 msgid "Broome Pearling Lugger Pidgin"
@@ -4835,7 +4838,7 @@ msgstr "Bulgarian"
 #. Name for brz
 #, fuzzy
 msgid "Bilbil"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bsa
 msgid "Abinomn"
@@ -4844,7 +4847,7 @@ msgstr ""
 #. Name for bsb
 #, fuzzy
 msgid "Brunei Bisaya"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Inverted name for bsb
 msgid "Bisaya, Brunei"
@@ -4882,7 +4885,7 @@ msgstr "Margin"
 #. Name for bsj
 #, fuzzy
 msgid "Bangwinji"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bsk
 #, fuzzy
@@ -5326,7 +5329,7 @@ msgstr ""
 #. Name for bwd
 #, fuzzy
 msgid "Bwaidoka"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bwe
 msgid "Bwe Karen"
@@ -5440,7 +5443,7 @@ msgstr ""
 #. Name for bwz
 #, fuzzy
 msgid "Bwisi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bxa
 #, fuzzy
@@ -5671,12 +5674,12 @@ msgstr "Man"
 #. Name for bza
 #, fuzzy
 msgid "Bandi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bzb
 #, fuzzy
 msgid "Andio"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bzc
 msgid "Southern Betsimisaraka Malagasy"
@@ -5777,7 +5780,7 @@ msgstr ""
 #. Name for bzt
 #, fuzzy
 msgid "Brithenig"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for bzu
 #, fuzzy
@@ -6404,7 +6407,7 @@ msgstr "Chinese"
 #. Name for cir
 #, fuzzy
 msgid "Tiri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for ciw
 msgid "Chippewa"
@@ -6884,7 +6887,7 @@ msgstr ""
 #. Name for coo
 #, fuzzy
 msgid "Comox"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for cop
 msgid "Coptic"
@@ -7450,7 +7453,7 @@ msgstr ""
 #. Name for cul
 #, fuzzy
 msgid "Culina"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for cuo
 msgid "Cumanagoto"
@@ -7714,7 +7717,7 @@ msgstr ""
 #. Name for dba
 #, fuzzy
 msgid "Bangime"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for dbb
 msgid "Deno"
@@ -8011,7 +8014,7 @@ msgstr "Margin"
 #. Name for dgl
 #, fuzzy
 msgid "Andaandi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for dgn
 #, fuzzy
@@ -8139,7 +8142,7 @@ msgstr ""
 #. Name for dif
 #, fuzzy
 msgid "Dieri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for dig
 msgid "Digo"
@@ -8199,7 +8202,7 @@ msgstr ""
 #. Name for dir
 #, fuzzy
 msgid "Dirim"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for dis
 #, fuzzy
@@ -8214,12 +8217,12 @@ msgstr "Thai"
 #. Name for diu
 #, fuzzy
 msgid "Diriku"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for div
 #, fuzzy
 msgid "Dhivehi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for diw
 #, fuzzy
@@ -8558,7 +8561,7 @@ msgstr ""
 #. Name for dok
 #, fuzzy
 msgid "Dondo"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for dol
 msgid "Doso"
@@ -8613,7 +8616,7 @@ msgstr "Russian"
 #. Name for doy
 #, fuzzy
 msgid "Dompo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for doz
 #, fuzzy
@@ -8632,7 +8635,7 @@ msgstr "Margin"
 #. Name for drc
 #, fuzzy
 msgid "Minderico"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for drd
 #, fuzzy
@@ -8966,7 +8969,7 @@ msgstr ""
 #. Name for dwa
 #, fuzzy
 msgid "Diri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for dwr
 #, fuzzy
@@ -9081,7 +9084,7 @@ msgstr ""
 #. Name for ebk
 #, fuzzy
 msgid "Eastern Bontok"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Inverted name for ebk
 #, fuzzy
@@ -9509,7 +9512,7 @@ msgstr ""
 #. Name for esg
 #, fuzzy
 msgid "Aheri Gondi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Inverted name for esg
 msgid "Gondi, Aheri"
@@ -10336,7 +10339,7 @@ msgstr ""
 #. Name for gbf
 #, fuzzy
 msgid "Gaikundi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gbg
 msgid "Gbanziri"
@@ -10366,7 +10369,7 @@ msgstr ""
 #. Name for gbk
 #, fuzzy
 msgid "Gaddi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gbl
 #, fuzzy
@@ -10538,7 +10541,7 @@ msgstr ""
 #. Name for gdi
 #, fuzzy
 msgid "Gundi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gdj
 msgid "Gurdjar"
@@ -10591,7 +10594,7 @@ msgstr ""
 #. Name for gdx
 #, fuzzy
 msgid "Godwari"
-msgstr "Cari:"
+msgstr "Cari"
 
 # ui/galeon.glade.h:153
 #. Name for gea
@@ -10812,7 +10815,7 @@ msgstr "Thai"
 #. Name for gid
 #, fuzzy
 msgid "Gidar"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gig
 #, fuzzy
@@ -10918,12 +10921,12 @@ msgstr ""
 #. Name for gjm
 #, fuzzy
 msgid "Gunditjmara"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gjn
 #, fuzzy
 msgid "Gonja"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gjr
 msgid "Gurindji Kriol"
@@ -11145,7 +11148,7 @@ msgstr "Hebrew"
 #. Name for gni
 #, fuzzy
 msgid "Gooniyandi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gnk
 msgid "//Gana"
@@ -11220,12 +11223,12 @@ msgstr ""
 #. Name for god
 #, fuzzy
 msgid "Godié"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for goe
 #, fuzzy
 msgid "Gongduk"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gof
 #, fuzzy
@@ -11255,7 +11258,7 @@ msgstr ""
 #. Name for gok
 #, fuzzy
 msgid "Gowli"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gol
 msgid "Gola"
@@ -11273,7 +11276,7 @@ msgstr "Korean"
 #. Name for gon
 #, fuzzy
 msgid "Gondi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for goo
 msgid "Gone Dau"
@@ -11294,7 +11297,7 @@ msgstr ""
 #. Name for gos
 #, fuzzy
 msgid "Gronings"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for got
 msgid "Gothic"
@@ -11315,7 +11318,7 @@ msgstr ""
 #. Name for goy
 #, fuzzy
 msgid "Goundo"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for goz
 msgid "Gozarkhani"
@@ -11664,7 +11667,7 @@ msgstr "Dutch"
 #. Name for gvf
 #, fuzzy
 msgid "Golin"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gvj
 msgid "Guajá"
@@ -11775,7 +11778,7 @@ msgstr ""
 #. Name for gww
 #, fuzzy
 msgid "Kwini"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for gwx
 msgid "Gua"
@@ -11905,7 +11908,7 @@ msgstr ""
 #. Name for hai
 #, fuzzy
 msgid "Haida"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for haj
 msgid "Hajong"
@@ -11958,7 +11961,7 @@ msgstr "Margin"
 #. Name for has
 #, fuzzy
 msgid "Haisla"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hat
 #, fuzzy
@@ -12057,7 +12060,7 @@ msgstr ""
 #. Name for hdy
 #, fuzzy
 msgid "Hadiyya"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hea
 msgid "Northern Qiandong Miao"
@@ -12104,7 +12107,7 @@ msgstr ""
 #. Name for hgw
 #, fuzzy
 msgid "Haigwai"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hhi
 msgid "Hoia Hoia"
@@ -12128,7 +12131,7 @@ msgstr "Latvian"
 #. Name for hib
 #, fuzzy
 msgid "Hibito"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hid
 #, fuzzy
@@ -12138,12 +12141,12 @@ msgstr "Tangguh"
 #. Name for hif
 #, fuzzy
 msgid "Fiji Hindi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Inverted name for hif
 #, fuzzy
 msgid "Hindi, Fiji"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hig
 #, fuzzy
@@ -12157,7 +12160,7 @@ msgstr ""
 #. Name for hii
 #, fuzzy
 msgid "Hinduri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hij
 msgid "Hijuk"
@@ -12174,7 +12177,7 @@ msgstr ""
 #. Name for hin
 #, fuzzy
 msgid "Hindi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hio
 msgid "Tsoa"
@@ -12183,7 +12186,7 @@ msgstr ""
 #. Name for hir
 #, fuzzy
 msgid "Himarimã"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hit
 msgid "Hittite"
@@ -12200,7 +12203,7 @@ msgstr ""
 #. Name for hji
 #, fuzzy
 msgid "Haji"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hka
 #, fuzzy
@@ -12210,7 +12213,7 @@ msgstr "Lain-lain"
 #. Name for hke
 #, fuzzy
 msgid "Hunde"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hkk
 msgid "Hunjara-Kaina Ke"
@@ -12223,7 +12226,7 @@ msgstr ""
 #. Name for hla
 #, fuzzy
 msgid "Halia"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hlb
 #, fuzzy
@@ -12364,7 +12367,7 @@ msgstr ""
 #. Name for hmo
 #, fuzzy
 msgid "Hiri Motu"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hmp
 msgid "Northern Mashan Hmong"
@@ -12455,7 +12458,7 @@ msgstr ""
 #. Name for hni
 #, fuzzy
 msgid "Hani"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hnj
 msgid "Hmong Njua"
@@ -12506,7 +12509,7 @@ msgstr ""
 #. Name for hoe
 #, fuzzy
 msgid "Horom"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for hoh
 msgid "Hobyót"
@@ -12519,7 +12522,7 @@ msgstr ""
 #. Name for hoj
 #, fuzzy
 msgid "Hadothi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hol
 msgid "Holu"
@@ -12559,7 +12562,7 @@ msgstr ""
 #. Name for how
 #, fuzzy
 msgid "Honi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hoy
 msgid "Holiya"
@@ -12605,7 +12608,7 @@ msgstr ""
 #. Name for hro
 #, fuzzy
 msgid "Haroi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for hrp
 msgid "Nhirrpi"
@@ -12686,7 +12689,7 @@ msgstr ""
 #. Name for hts
 #, fuzzy
 msgid "Hadza"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for htu
 msgid "Hitu"
@@ -12703,7 +12706,7 @@ msgstr ""
 #. Name for hub
 #, fuzzy
 msgid "Huambisa"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for huc
 #, fuzzy
@@ -12908,7 +12911,7 @@ msgstr ""
 #. Name for ibd
 #, fuzzy
 msgid "Iwaidja"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for ibe
 msgid "Akpes"
@@ -13000,7 +13003,7 @@ msgstr ""
 #. Name for idr
 #, fuzzy
 msgid "Indri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for ids
 #, fuzzy
@@ -13143,7 +13146,7 @@ msgstr ""
 #. Name for ije
 #, fuzzy
 msgid "Biseni"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for ijj
 msgid "Ede Ije"
@@ -13358,7 +13361,7 @@ msgstr ""
 #. Name for inn
 #, fuzzy
 msgid "Isinai"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for ino
 msgid "Inoke-Yate"
@@ -15849,7 +15852,7 @@ msgstr ""
 #. Name for kml
 #, fuzzy
 msgid "Tanudan Kalinga"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Inverted name for kml
 #, fuzzy
@@ -16059,7 +16062,7 @@ msgstr "Lokasi"
 #. Name for kod
 #, fuzzy
 msgid "Kodi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for koe
 msgid "Kacipo-Balesi"
@@ -16774,7 +16777,7 @@ msgstr ""
 #. Name for kuc
 #, fuzzy
 msgid "Kwinsu"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for kud
 msgid "'Auhelawa"
@@ -17112,7 +17115,7 @@ msgstr ""
 #. Name for kww
 #, fuzzy
 msgid "Kwinti"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for kwx
 msgid "Khirwar"
@@ -17144,12 +17147,12 @@ msgstr ""
 #. Name for kxc
 #, fuzzy
 msgid "Konso"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for kxd
 #, fuzzy
 msgid "Brunei"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for kxf
 msgid "Manumanaw Karen"
@@ -17680,7 +17683,7 @@ msgstr "Lokasi"
 #. Name for lbk
 #, fuzzy
 msgid "Central Bontok"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Inverted name for lbk
 #, fuzzy
@@ -17698,7 +17701,7 @@ msgstr ""
 #. Name for lbm
 #, fuzzy
 msgid "Lodhi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for lbn
 #, fuzzy
@@ -18104,7 +18107,7 @@ msgstr ""
 #. Name for lic
 #, fuzzy
 msgid "Hlai"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for lid
 msgid "Nyindrou"
@@ -18342,7 +18345,7 @@ msgstr ""
 #. Name for llf
 #, fuzzy
 msgid "Hermit"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for llg
 msgid "Lole"
@@ -18655,7 +18658,7 @@ msgstr ""
 #. Name for loo
 #, fuzzy
 msgid "Lombo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for lop
 msgid "Lopa"
@@ -18673,7 +18676,7 @@ msgstr ""
 #. Name for los
 #, fuzzy
 msgid "Loniu"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for lot
 msgid "Otuho"
@@ -18904,7 +18907,7 @@ msgstr "Lokasi"
 #. Name for lto
 #, fuzzy
 msgid "Tsotso"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for lts
 #, fuzzy
@@ -19645,7 +19648,7 @@ msgstr "Margin"
 #. Name for mdx
 #, fuzzy
 msgid "Dizin"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for mdy
 msgid "Male (Ethiopia)"
@@ -20042,7 +20045,7 @@ msgstr ""
 #. Name for mhe
 #, fuzzy
 msgid "Besisi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for mhf
 #, fuzzy
@@ -20256,8 +20259,9 @@ msgid "Mixe, Isthmus"
 msgstr ""
 
 #. Name for mis
+#, fuzzy
 msgid "Uncoded languages"
-msgstr ""
+msgstr "Korean"
 
 #. Name for mit
 msgid "Southern Puebla Mixtec"
@@ -20778,7 +20782,7 @@ msgstr "Bahasa Melayu"
 #. Name for mmv
 #, fuzzy
 msgid "Miriti"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for mmw
 msgid "Emae"
@@ -20882,7 +20886,7 @@ msgstr "Chinese"
 #. Name for mnq
 #, fuzzy
 msgid "Minriq"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for mnr
 msgid "Mono (USA)"
@@ -21083,7 +21087,7 @@ msgstr ""
 #. Name for mpn
 #, fuzzy
 msgid "Mindiri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for mpo
 msgid "Miu"
@@ -22012,7 +22016,7 @@ msgstr "Margin"
 #. Name for mwz
 #, fuzzy
 msgid "Moingi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for mxa
 msgid "Northwest Oaxaca Mixtec"
@@ -22373,7 +22377,7 @@ msgstr "Japanese"
 #. Name for mzt
 #, fuzzy
 msgid "Mintil"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for mzu
 msgid "Inapang"
@@ -24034,7 +24038,7 @@ msgstr ""
 #. Name for noi
 #, fuzzy
 msgid "Noiri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for noj
 #, fuzzy
@@ -24275,7 +24279,7 @@ msgstr ""
 #. Name for nrm
 #, fuzzy
 msgid "Narom"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for nrn
 #, fuzzy
@@ -24741,7 +24745,7 @@ msgstr ""
 #. Name for nxi
 #, fuzzy
 msgid "Nindi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for nxk
 msgid "Koki Naga"
@@ -24863,7 +24867,7 @@ msgstr ""
 #. Name for nyq
 #, fuzzy
 msgid "Nayini"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for nyr
 #, fuzzy
@@ -24949,12 +24953,12 @@ msgstr ""
 #. Name for oaa
 #, fuzzy
 msgid "Orok"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for oac
 #, fuzzy
 msgid "Oroch"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for oar
 #, fuzzy
@@ -25228,7 +25232,7 @@ msgstr ""
 #. Name for okb
 #, fuzzy
 msgid "Okobo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for okd
 #, fuzzy
@@ -25296,7 +25300,7 @@ msgstr ""
 #. Name for okr
 #, fuzzy
 msgid "Kirike"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for oks
 msgid "Oko-Eni-Osayen"
@@ -25335,7 +25339,7 @@ msgstr ""
 #. Name for olm
 #, fuzzy
 msgid "Oloma"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for olo
 msgid "Livvi"
@@ -25344,7 +25348,7 @@ msgstr ""
 #. Name for olr
 #, fuzzy
 msgid "Olrat"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for olt
 #, fuzzy
@@ -25389,12 +25393,12 @@ msgstr ""
 #. Name for omk
 #, fuzzy
 msgid "Omok"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for oml
 #, fuzzy
 msgid "Ombo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for omn
 #, fuzzy
@@ -25582,12 +25586,12 @@ msgstr ""
 #. Name for ora
 #, fuzzy
 msgid "Oroha"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for orc
 #, fuzzy
 msgid "Orma"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for ore
 msgid "Orejón"
@@ -25609,7 +25613,7 @@ msgstr "Korean"
 #. Name for orm
 #, fuzzy
 msgid "Oromo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for orn
 msgid "Orang Kanaq"
@@ -25618,12 +25622,12 @@ msgstr ""
 #. Name for oro
 #, fuzzy
 msgid "Orokolo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for orr
 #, fuzzy
 msgid "Oruma"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for ors
 msgid "Orang Seletar"
@@ -25661,7 +25665,7 @@ msgstr ""
 #. Name for orx
 #, fuzzy
 msgid "Oro"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for ory
 msgid "Odia"
@@ -25670,7 +25674,7 @@ msgstr ""
 #. Name for orz
 #, fuzzy
 msgid "Ormu"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for osa
 msgid "Osage"
@@ -25691,7 +25695,7 @@ msgstr "Russian"
 #. Name for oso
 #, fuzzy
 msgid "Ososo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for osp
 #, fuzzy
@@ -25810,7 +25814,7 @@ msgstr ""
 #. Name for otr
 #, fuzzy
 msgid "Otoro"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for ots
 msgid "Estado de México Otomi"
@@ -26508,7 +26512,7 @@ msgstr ""
 #. Name for pic
 #, fuzzy
 msgid "Pinji"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for pid
 msgid "Piaroa"
@@ -26533,7 +26537,7 @@ msgstr ""
 #. Name for pii
 #, fuzzy
 msgid "Pini"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for pij
 msgid "Pijao"
@@ -26613,7 +26617,7 @@ msgstr ""
 #. Name for pkb
 #, fuzzy
 msgid "Pokomo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for pkc
 msgid "Paekche"
@@ -26858,7 +26862,7 @@ msgstr "Le_gal"
 #. Name for pmm
 #, fuzzy
 msgid "Pomo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for pmn
 msgid "Pam"
@@ -26965,7 +26969,7 @@ msgstr ""
 #. Name for pnj
 #, fuzzy
 msgid "Pinjarup"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for pnk
 #, fuzzy
@@ -27037,7 +27041,7 @@ msgstr "Slovenian"
 #. Name for pny
 #, fuzzy
 msgid "Pinyin"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for pnz
 msgid "Pana (Central African Republic)"
@@ -27270,7 +27274,7 @@ msgstr ""
 #. Name for prm
 #, fuzzy
 msgid "Kibiri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for prn
 msgid "Prasuni"
@@ -28090,7 +28094,7 @@ msgstr ""
 #. Name for qyp
 #, fuzzy
 msgid "Quiripi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for raa
 #, fuzzy
@@ -28666,7 +28670,7 @@ msgstr "Romanian"
 #. Name for rof
 #, fuzzy
 msgid "Rombo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for rog
 #, fuzzy
@@ -28732,12 +28736,12 @@ msgstr "Lokasi"
 #. Name for rri
 #, fuzzy
 msgid "Ririo"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for rro
 #, fuzzy
 msgid "Waima"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for rrt
 msgid "Arritinngithigh"
@@ -29574,7 +29578,7 @@ msgstr ""
 #. Name for sgc
 #, fuzzy
 msgid "Kipsigis"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for sgd
 #, fuzzy
@@ -29845,7 +29849,7 @@ msgstr "Slovenian"
 #. Name for sir
 #, fuzzy
 msgid "Siri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for sis
 msgid "Siuslaw"
@@ -29873,7 +29877,7 @@ msgstr "Serbian"
 #. Name for siy
 #, fuzzy
 msgid "Sivandi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for siz
 msgid "Siwi"
@@ -29928,7 +29932,7 @@ msgstr "Man"
 #. Name for sjn
 #, fuzzy
 msgid "Sindarin"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for sjo
 msgid "Xibe"
@@ -30261,7 +30265,7 @@ msgstr ""
 #. Name for smk
 #, fuzzy
 msgid "Bolinao"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for sml
 msgid "Central Sama"
@@ -30284,7 +30288,7 @@ msgstr "_Alias baru"
 #. Inverted name for smn
 #, fuzzy
 msgid "Sami, Inari"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for smo
 msgid "Samoan"
@@ -30882,7 +30886,7 @@ msgstr ""
 #. Name for ssd
 #, fuzzy
 msgid "Siroi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for sse
 #, fuzzy
@@ -32471,7 +32475,7 @@ msgstr "Turkish"
 #. Name for tin
 #, fuzzy
 msgid "Tindi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for tio
 msgid "Teop"
@@ -32975,7 +32979,7 @@ msgstr ""
 #. Name for tno
 #, fuzzy
 msgid "Toromono"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for tnp
 msgid "Whitesands"
@@ -33962,7 +33966,7 @@ msgstr ""
 #. Name for txa
 #, fuzzy
 msgid "Tombonuo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for txb
 msgid "Tokharian B"
@@ -33996,7 +34000,7 @@ msgstr ""
 #. Name for txm
 #, fuzzy
 msgid "Tomini"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for txn
 #, fuzzy
@@ -34596,7 +34600,7 @@ msgstr ""
 #. Name for urx
 #, fuzzy
 msgid "Urimo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for ury
 msgid "Orya"
@@ -35551,7 +35555,7 @@ msgstr ""
 #. Name for wii
 #, fuzzy
 msgid "Minidien"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for wij
 msgid "Wik-Iiyanh"
@@ -35771,7 +35775,7 @@ msgstr "Margin"
 #. Name for wmx
 #, fuzzy
 msgid "Womo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for wnb
 msgid "Wanambre"
@@ -36157,7 +36161,7 @@ msgstr ""
 #. Name for wxw
 #, fuzzy
 msgid "Wardandi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for wya
 msgid "Wyandot"
@@ -36477,7 +36481,7 @@ msgstr ""
 #. Name for xed
 #, fuzzy
 msgid "Hdi"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for xeg
 msgid "//Xegwi"
@@ -36579,7 +36583,7 @@ msgstr ""
 #. Name for xhd
 #, fuzzy
 msgid "Hadrami"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for xhe
 #, fuzzy
@@ -36617,7 +36621,7 @@ msgstr "Cetak"
 #. Name for xii
 #, fuzzy
 msgid "Xiri"
-msgstr "Cari:"
+msgstr "Cari"
 
 #. Name for xil
 #, fuzzy
@@ -38131,7 +38135,7 @@ msgstr ""
 #. Name for yip
 #, fuzzy
 msgid "Pholo"
-msgstr "daripada:"
+msgstr "daripada"
 
 #. Name for yiq
 #, fuzzy

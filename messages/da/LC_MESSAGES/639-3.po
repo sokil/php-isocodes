@@ -1,11 +1,16 @@
-# translation of iso_639-da.po to Danish
-# Danish translation of ISO 639 Language names
-# Copyright (C) 2000, 2004, 2005 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Danish
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # Many of these iso--639 translations were adopted from the state library department:
 # http://www.kat-format.dk/danMARC2/Danmarc2.a8.htm
 #
 # Kontakt dansk@klid.dk før du ændrer i denne fil.
+#
+# Copyright ©
 # Kenneth Christiansen <kenneth@gnu.org>, 2000.
 # Keld Simonsen <keld@dkuug.dk>, 2000, 2001.
 # Ole Laursen <olau@hardworking.dk>, 2001.
@@ -13892,7 +13897,7 @@ msgstr "Manx"
 
 #. Name for ina
 msgid "Interlingua (International Auxiliary Language Association)"
-msgstr ""
+msgstr "interlingua"
 
 #. Name for inb
 #, fuzzy
@@ -32827,7 +32832,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "klassisk syrisk"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -40968,9 +40973,11 @@ msgstr "Nordsamisk"
 msgid "Zhuang, Guibei"
 msgstr "Sotho, Syd"
 
+# Standard Moroccan Tamazight is the national standardized register of Berber established 
+# in accordance with Article 5 of the 2011 amendments to the Moroccan Constitution.
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "standardmarrokansk tamazight"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

@@ -1,8 +1,12 @@
-# Hungarian translations of ISO 639 Language names
-# Copyright (C) 2000 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Hungarian
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Andras TIMAR <timar@gnome.hu>, 2000-2001.
 # VERÓK István <vi@fsf.hu>, 2004
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -33730,7 +33734,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "klasszikus szír"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -41500,7 +41504,7 @@ msgstr "sotho, déli"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Marokkói tamazight"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

@@ -1,10 +1,12 @@
-# Hebrew translations of ISO 639 Language names
-# Copyright (C) 2002,2004 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Hebrew
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Alastair McKinstry <mckinstry@computer.org>, 2002
-# Translations from KDE:
-#  Meni Livne <livne@kde.org>, 2000.
-# Alastair McKinstry: 
-#   - translations taken from ICU-3.0
+# Meni Livne <livne@kde.org>, 2000.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -20151,8 +20153,9 @@ msgid "Mixe, Isthmus"
 msgstr ""
 
 #. Name for mis
+#, fuzzy
 msgid "Uncoded languages"
-msgstr ""
+msgstr "קוריאנית"
 
 #. Name for mit
 msgid "Southern Puebla Mixtec"

@@ -1,22 +1,27 @@
-# Translation of ISO 3166-2 (country subdivision names) to Traditional Chinese.
-# Copyright (C) 2001 Free Software Foundation, Inc.
-# This file is distributed under the same license as the iso-codes package.
-# Wei-Lun Chao <bluebat@member.fsf.org>, 2010.
+# Translation of ISO 3166-2 to Traditional Chinese
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Wei-Lun Chao <bluebat@member.fsf.org>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2013-06-14 23:29+0800\n"
-"Last-Translator: Wei-Lun Chao <bluebat@member.fsf.org>\n"
-"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"PO-Revision-Date: 2017-12-17 20:36+0000\n"
+"Last-Translator: ezjerry liao <ezjerry@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects"
+"/iso-codes/iso-3166-2/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.18\n"
 
 #. Name for AD-02
 #, fuzzy
@@ -70,7 +75,7 @@ msgstr "Dubayy"
 
 #. Name for AE-FU
 msgid "Al Fujayrah"
-msgstr "富查伊拉"
+msgstr "富吉拉"
 
 #. Name for AE-RK
 #, fuzzy
@@ -306,9 +311,8 @@ msgid "Durrës"
 msgstr "Durrës"
 
 #. Name for AL-03, Name for AL-EL
-#, fuzzy
 msgid "Elbasan"
-msgstr "Elbasan"
+msgstr "愛爾巴桑"
 
 #. Name for AL-04, Name for AL-FR
 #, fuzzy
@@ -8520,9 +8524,8 @@ msgid "Intibucá"
 msgstr "Intibucá"
 
 #. Name for HN-LE
-#, fuzzy
 msgid "Lempira"
-msgstr "Lempira"
+msgstr "倫皮拉"
 
 #. Name for HN-OC
 #, fuzzy
@@ -15362,9 +15365,8 @@ msgid "Aruba"
 msgstr "阿魯巴"
 
 #. Name for NL-CW
-#, fuzzy
 msgid "Curaçao"
-msgstr "Curaçao"
+msgstr "古拉索"
 
 #. Name for NL-DR
 #, fuzzy

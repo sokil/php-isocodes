@@ -1,14 +1,14 @@
-# Translation of ISO-3166 (country names) to Kazakh
+# Translation of ISO 3166-3 to Kazakh
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-#   Sairan Kikkarin <sairan@sci.kz>, 2006
-#   KDE Kazakh l10n team, 2006
-#   Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2008-2011
-#   Dauren Sarsenov <daur88@inbox.ru>, 2009
-#
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Sairan Kikkarin <sairan@sci.kz>, 2006
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2008-2011
+# Dauren Sarsenov <daur88@inbox.ru>, 2009
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
@@ -122,7 +122,7 @@ msgstr "Сикким"
 
 #. Name for SUHH
 msgid "USSR, Union of Soviet Socialist Republics"
-msgstr "КСРО, Кеңес Социалистік Республикалар Одағы "
+msgstr "КСРО, Кеңес Социалистік Республикалар Одағы"
 
 #. Name for TPTL
 msgid "East Timor"

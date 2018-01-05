@@ -1,28 +1,30 @@
-# Translation of ISO-3166 (country names) to Greek
+# Translation of ISO 3166-3 to Greek, Modern (1453-)
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Panayotis Pakos <aeikineton@yahoo.com>
-#   Free Software Foundation, Inc., 2004.
-#   Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   Konstantinos Margaritis <markos@debian.org>, 2004.
-#   QUAD-nrg.net <yodesy@quad-nrg.net>, 2006, 2010.
+# Copyright ©
+# Panayotis Pakos <aeikineton@yahoo.com>
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Konstantinos Margaritis <markos@debian.org>, 2004.
+# QUAD-nrg.net <yodesy@quad-nrg.net>, 2006, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2013-02-12 14:46+0200\n"
-"Last-Translator: Nick Andrik <nick.andrik@gmail.com>\n"
-"Language-Team: Greek <debian-l10n-greek@lists.debian.org>\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-3/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -118,7 +120,7 @@ msgstr "Νότια Ροδεσία"
 
 #. Name for SKIN
 msgid "Sikkim"
-msgstr "Σικκίμ"
+msgstr "Σίκιμ"
 
 #. Name for SUHH
 msgid "USSR, Union of Soviet Socialist Republics"

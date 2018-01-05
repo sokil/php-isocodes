@@ -1,6 +1,12 @@
-# Translation of ISO 3166-2 (country subdivision names) to German.
+# Translation of ISO 3166-2 to German
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # Sources: Freie Enzyklopädie Wikipedia (http://de.wikipedia.org/wiki/ISO_3166-2)
+#
 # Copyright ©
 # Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
 # Dr. Tobias Quathamer <toddy@debian.org>, 2012, 2016, 2017.
@@ -14483,7 +14489,7 @@ msgstr "Oblast Twer"
 
 #. Name for RU-TY
 msgid "Tyva, Respublika [Tuva]"
-msgstr "Republik Tuwa "
+msgstr "Republik Tuwa"
 
 #. Name for RU-TYU
 msgid "Tyumenskaya oblast'"

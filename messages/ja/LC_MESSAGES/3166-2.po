@@ -1,9 +1,10 @@
-# Japanese translations of ISO 3166 place names
+# Translation of ISO 3166-2 to Japanese
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C) 2002, 2010, 2011 Free Software Foundation, Inc.
 #
-# $Id: ja.po 1028 2007-09-05 12:40:22Z lidaobing-guest $
-#
+# Notes:
 # ISO 3166 行政区域名
 #
 # 国名・地名に関する情報源
@@ -19,13 +20,11 @@
 #
 # Capital Territory は首都特別地域と訳す (オーストラリアの慣例)
 #
+# Copyright ©
 # Alastair McKinstry, <mckinstry@computer.org>, 2002.
-# Translations from KDE: 
-#   Taiki Komoda <kom@kde.gr.jp>
-# Translation from Debian:
-#  Kenshi Muto <kmuto@debian.org>
-#  tsuno <tsuno@ngy.1st.ne.jp>
-#
+# Taiki Komoda <kom@kde.gr.jp>
+# Kenshi Muto <kmuto@debian.org>
+# tsuno <tsuno@ngy.1st.ne.jp>
 # Yasuaki Taniguchi <yasuakit@gmail.com>, 2010, 2011.
 # Makoto Kato <makoto.kt@gmail.com>, 2013
 msgid ""
@@ -5535,9 +5534,11 @@ msgstr "イルドフランス"
 msgid "La Réunion"
 msgstr "レユニオン"
 
+# マダガスカル北西コモロ諸島
+# 仏領マヨット島
 #. Name for FR-MAY, Name for FR-YT
 msgid "Mayotte"
-msgstr ""
+msgstr "マヨット"
 
 #. Name for FR-MF
 msgid "Saint-Martin"
@@ -13119,13 +13120,17 @@ msgstr "リバス"
 msgid "Río San Juan"
 msgstr "リオサンファン"
 
+# 西インド諸島
+# オランダ領アンティル
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "アルーバ"
 
+# オランダ領キュラソー島
+# カリブ海アンティル諸島にある島
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "キュラソー"
 
 # オランダ
 #. Name for NL-DR

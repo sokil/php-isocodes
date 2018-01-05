@@ -1,12 +1,14 @@
-# Translation of ISO 3166-2 (country subdivision names) to Swedish
-# Copyright (C) 2001 - 2016 Free Software Foundation, Inc.
+# Translation of ISO 3166-2 to Swedish
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Mattias Newzella <newzella@linux.nu, 2001.
-#   (translations from drakfw)
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Daniel Nylander <po@danielnylander.se>, 2007.
 # Josef Andersson <josef.andersson@fripost.org>, 2016.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -7129,7 +7131,7 @@ msgstr "Krapina-Zagorjes län"
 
 #. Name for HR-03
 msgid "Sisačko-moslavačka županija"
-msgstr " Sisak-Moslavinas län"
+msgstr "Sisak-Moslavinas län"
 
 #. Name for HR-04
 msgid "Karlovačka županija"
@@ -14868,7 +14870,7 @@ msgstr "Al Qadarif"
 
 #. Name for SD-GZ
 msgid "Al Jazīrah"
-msgstr " al-Jazirah"
+msgstr "al-Jazirah"
 
 #. Name for SD-KA
 msgid "Kassalā"

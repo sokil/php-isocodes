@@ -1,12 +1,9 @@
-# Italian translation for ISO-4217 Currency names
-# This file is distributed under the same license as the iso-codes package.
-# Copyright (C) 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Translations from gnumeric:
-# Leandro Noferini <lnoferin@cybervalley.org>
-# Luca Ferretti <elle.uca@libero.it>, 2007, 2008, 2009.
-# Sebastiano Pistore <sebastianopistore.info@protonmail.ch>, 2017
+# Translation of ISO 4217 to Italian
+# Codes for the representation of currencies
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # Le traduzioni che non presentano commento provengono da
 #        http://publications.europa.eu/code/it/it-5000500.htm
 # aggiornato al 16-01-2009
@@ -15,6 +12,12 @@
 #        http://it.wikipedia.org/wiki/ISO_4217
 #
 # Le traduzioni con commento /me sono mie, liberamente ispirate
+#
+# Copyright ©
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Leandro Noferini <lnoferin@cybervalley.org>
+# Luca Ferretti <elle.uca@libero.it>, 2007, 2008, 2009.
+# Sebastiano Pistore <sebastianopistore.info@protonmail.ch>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"

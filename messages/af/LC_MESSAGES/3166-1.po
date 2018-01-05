@@ -13,20 +13,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2007-11-17 11:40+0200\n"
-"Last-Translator: Friedel Wolff <friedel@translate.org.za>\n"
-"Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2017-12-25 21:47+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Afrikaans <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/af/>\n"
 "Language: af\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for AFG
 msgid "Afghanistan"
@@ -50,7 +53,7 @@ msgstr "Anguilla"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr ""
+msgstr "Ålandeilande"
 
 #. Name for ALB
 msgid "Albania"
@@ -101,7 +104,6 @@ msgid "French Southern Territories"
 msgstr ""
 
 #. Name for ATG
-#, fuzzy
 msgid "Antigua and Barbuda"
 msgstr "Antigue en Barbuda"
 
@@ -151,7 +153,7 @@ msgstr "Republiek van Benin"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "Bonaire, Sint Eustatius en Saba"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -199,7 +201,7 @@ msgstr "Republiek van Bosnië en Herzegowina"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr ""
+msgstr "Sint Barthélemy"
 
 #. Name for BLR
 msgid "Belarus"
@@ -255,7 +257,7 @@ msgstr "Koninkryk van Bhoetan"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr ""
+msgstr "Bouvet-eiland"
 
 #. Name for BWA
 msgid "Botswana"
@@ -275,7 +277,7 @@ msgstr "Kanada"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Kokoseilande"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -339,7 +341,7 @@ msgstr "Colombië"
 
 #. Official name for COL
 msgid "Republic of Colombia"
-msgstr ""
+msgstr "Republiek van Colombië"
 
 #. Name for COM
 msgid "Comoros"
@@ -379,11 +381,11 @@ msgstr "Republiek van Kuba"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for CXR
 msgid "Christmas Island"
-msgstr ""
+msgstr "Kerseiland"
 
 #. Name for CYM
 msgid "Cayman Islands"
@@ -399,7 +401,7 @@ msgstr "Republiek van Siprus"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Tsjeggië"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -423,7 +425,7 @@ msgstr "Republiek van Djiboeti"
 
 #. Name for DMA
 msgid "Dominica"
-msgstr ""
+msgstr "Dominica"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
@@ -466,14 +468,12 @@ msgid "Arab Republic of Egypt"
 msgstr "Arabiese Republiek van Egipte"
 
 #. Name for ERI
-#, fuzzy
 msgid "Eritrea"
 msgstr "Eritreë"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "Verenigde State van Amerika"
+msgstr "die State van Eritreë"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -516,14 +516,12 @@ msgid "Fiji"
 msgstr "Fidji"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "Republiek van Haïti"
+msgstr "Republiek van Fidji"
 
 #. Name for FLK
-#, fuzzy
 msgid "Falkland Islands (Malvinas)"
-msgstr "Falklandeilande (Maledive)"
+msgstr "Falklandeilande (Malvinas)"
 
 #. Name for FRA
 msgid "France"
@@ -567,7 +565,7 @@ msgstr "Georgië"
 
 #. Name for GGY
 msgid "Guernsey"
-msgstr ""
+msgstr "Guernsey"
 
 #. Name for GHA
 msgid "Ghana"
@@ -598,10 +596,8 @@ msgid "Gambia"
 msgstr "Gambië"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "Republiek van Gambië"
+msgstr "Islamitiese Republiek van die Gambië"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -637,7 +633,7 @@ msgstr "Groenland"
 
 #. Name for GTM
 msgid "Guatemala"
-msgstr "Gautemala"
+msgstr "Guatemala"
 
 #. Official name for GTM
 msgid "Republic of Guatemala"
@@ -661,15 +657,15 @@ msgstr "Republiek van Guyana"
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Hong Kong"
+msgstr "Hongkong"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr ""
+msgstr "Hongkong SAS Sjina"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr ""
+msgstr "Heard- en McDonaldeilande"
 
 #. Name for HND
 msgid "Honduras"
@@ -708,7 +704,6 @@ msgid "Republic of Indonesia"
 msgstr "Republiek van Indonesië"
 
 #. Name for IMN
-#, fuzzy
 msgid "Isle of Man"
 msgstr "Eiland Man"
 
@@ -722,7 +717,7 @@ msgstr "Republiek van Indië"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr ""
+msgstr "Britse Indiese Oseaangebied"
 
 #. Name for IRL
 msgid "Ireland"
@@ -730,7 +725,7 @@ msgstr "Ierland"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
-msgstr "Iran"
+msgstr "Iran, Islamitiese Republiek van"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
@@ -774,7 +769,7 @@ msgstr "Jamaika"
 
 #. Name for JEY
 msgid "Jersey"
-msgstr ""
+msgstr "Jersey"
 
 #. Name for JOR
 msgid "Jordan"
@@ -845,8 +840,9 @@ msgid "State of Kuwait"
 msgstr "Staat van Koeweit"
 
 #. Name for LAO
+#, fuzzy
 msgid "Lao People's Democratic Republic"
-msgstr "Laos"
+msgstr "Lao Demokratiese Volksrepubliek"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -866,7 +862,7 @@ msgstr "Republiek van Liberië"
 
 #. Name for LBY, Official name for LBY
 msgid "Libya"
-msgstr ""
+msgstr "Libië"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -921,12 +917,13 @@ msgid "Republic of Latvia"
 msgstr "Republiek van Letland"
 
 #. Name for MAC
+#, fuzzy
 msgid "Macao"
-msgstr "Macao"
+msgstr "Macau"
 
 #. Official name for MAC
 msgid "Macao Special Administrative Region of China"
-msgstr ""
+msgstr "Macau SAS Sjina"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
@@ -990,7 +987,7 @@ msgstr "Marshall-eilande"
 
 #. Official name for MHL
 msgid "Republic of the Marshall Islands"
-msgstr ""
+msgstr "Republiek van die Marshall-eilande"
 
 #. Name for MKD
 msgid "Macedonia, Republic of"
@@ -1021,9 +1018,8 @@ msgid "Myanmar"
 msgstr "Mianmar"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "Republiek van Guyana"
+msgstr "Republiek van Mianmar"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1035,7 +1031,7 @@ msgstr "Mongolië"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Noordelike Mariana-eilande"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1111,7 +1107,7 @@ msgstr "Republiek van Niger"
 
 #. Name for NFK
 msgid "Norfolk Island"
-msgstr ""
+msgstr "Norfolk Eiland"
 
 #. Name for NGA
 msgid "Nigeria"
@@ -1131,7 +1127,7 @@ msgstr "Republiek van Nicaragua"
 
 #. Name for NIU, Official name for NIU
 msgid "Niue"
-msgstr ""
+msgstr "Niue"
 
 #. Name for NLD
 msgid "Netherlands"
@@ -1154,9 +1150,8 @@ msgid "Nepal"
 msgstr "Nepal"
 
 #. Official name for NPL
-#, fuzzy
 msgid "Federal Democratic Republic of Nepal"
-msgstr "Federale Demokratiese Republiek van Etiopië"
+msgstr "Federale Demokratiese Republiek van Nepal"
 
 #. Name for NRU
 msgid "Nauru"
@@ -1164,7 +1159,7 @@ msgstr "Naoeroe"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
-msgstr ""
+msgstr "Republiek van Naoeroe"
 
 #. Name for NZL
 msgid "New Zealand"
@@ -1216,20 +1211,19 @@ msgstr "Republiek van die Filippyne"
 
 #. Name for PLW
 msgid "Palau"
-msgstr ""
+msgstr "Palau"
 
 #. Official name for PLW
 msgid "Republic of Palau"
-msgstr ""
+msgstr "Republiek van Palau"
 
 #. Name for PNG
 msgid "Papua New Guinea"
 msgstr "Papoea-Nieu-Guinee"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Onafhanklike Staat van Samoa"
+msgstr "Onafhanklike Staat van Papoea-Nieu-Guinee"
 
 #. Name for POL
 msgid "Poland"
@@ -1274,11 +1268,11 @@ msgstr ""
 #. Official name for PSE
 #, fuzzy
 msgid "the State of Palestine"
-msgstr "Verenigde State van Amerika"
+msgstr "Staat van"
 
 #. Name for PYF
 msgid "French Polynesia"
-msgstr ""
+msgstr "Frans-Polinesië"
 
 #. Name for QAT
 msgid "Qatar"
@@ -1342,28 +1336,27 @@ msgstr "Republiek van Singapoer"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr ""
+msgstr "Suid-Georgië en die Suidelike Sandwicheilande"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr ""
+msgstr "Sint Helena, Ascension en Tristan da Cunha"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
-msgstr ""
+msgstr "Svalbard en Jan Mayen"
 
 #. Name for SLB
 msgid "Solomon Islands"
 msgstr "Solomon Eilande"
 
 #. Name for SLE
-#, fuzzy
 msgid "Sierra Leone"
 msgstr "Siërra Leone"
 
 #. Official name for SLE
 msgid "Republic of Sierra Leone"
-msgstr ""
+msgstr "Republiek van Siërra Leone"
 
 #. Name for SLV
 msgid "El Salvador"
@@ -1386,9 +1379,8 @@ msgid "Somalia"
 msgstr "Somalië"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Federale Republiek van Duitsland"
+msgstr "Federale Republiek van Somalia"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1403,14 +1395,12 @@ msgid "Republic of Serbia"
 msgstr "Republiek van Serwië"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Soedan"
+msgstr "Suid-Soedan"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "Republiek van Soedan"
+msgstr "Republiek van Suid-Soedan"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1418,7 +1408,7 @@ msgstr "Sao Tomé en Principe"
 
 #. Official name for STP
 msgid "Democratic Republic of Sao Tome and Principe"
-msgstr "Demokratiese Republiek van Sao Tomé en Pricipe"
+msgstr "Demokratiese Republiek van Sao Tomé en Principe"
 
 #. Name for SUR
 msgid "Suriname"
@@ -1478,16 +1468,15 @@ msgstr "Siriese Arabiese Republiek"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "Turks- en Caicos-eilande"
 
 #. Name for TCD
-#, fuzzy
 msgid "Chad"
-msgstr "Tsjaad"
+msgstr "Tsjad"
 
 #. Official name for TCD
 msgid "Republic of Chad"
-msgstr ""
+msgstr "Republiek van Tsjad"
 
 #. Name for TGO
 msgid "Togo"
@@ -1515,7 +1504,7 @@ msgstr "Republiek van Tadjikistan"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr ""
+msgstr "Tokelau"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1523,11 +1512,11 @@ msgstr "Toerkmenië"
 
 #. Name for TLS
 msgid "Timor-Leste"
-msgstr ""
+msgstr "Oos-Timor"
 
 #. Official name for TLS
 msgid "Democratic Republic of Timor-Leste"
-msgstr ""
+msgstr "Demokratiese Republiek van Oos-Timor"
 
 #. Name for TON
 msgid "Tonga"
@@ -1575,7 +1564,7 @@ msgstr "Taiwan"
 
 #. Name for TZA
 msgid "Tanzania, United Republic of"
-msgstr "Tanzanië"
+msgstr "Tanzanië, Verenigde Republiek van"
 
 #. Official name for TZA
 msgid "United Republic of Tanzania"
@@ -1583,7 +1572,7 @@ msgstr "Verenigde Republiek van Tanzanië"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzanië"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1599,7 +1588,7 @@ msgstr "Oekraïne"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "Klein afgeleë eilande van die Verenigde State van Amerika"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1634,9 +1623,8 @@ msgid "Saint Vincent and the Grenadines"
 msgstr "St. Vincent en die Grenadine"
 
 #. Name for VEN
-#, fuzzy
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "Iran"
+msgstr ""
 
 #. Official name for VEN
 msgid "Bolivarian Republic of Venezuela"
@@ -1648,19 +1636,19 @@ msgstr "Venezuela"
 
 #. Name for VGB
 msgid "Virgin Islands, British"
-msgstr ""
+msgstr "Maagde-eilande, Britse"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "Britse Maagde-eilande"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr ""
+msgstr "Maagde-eilande, VSA"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr ""
+msgstr "VSA se Maagde-eilande"
 
 #. Name for VNM
 msgid "Viet Nam"
@@ -1671,8 +1659,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Sosialistiese Republek van Viëtnam"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Viëtnam"
 
@@ -1686,7 +1672,7 @@ msgstr "Republiek van Vanuatu"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr ""
+msgstr "Wallis en Futuna"
 
 #. Name for WSM
 msgid "Samoa"

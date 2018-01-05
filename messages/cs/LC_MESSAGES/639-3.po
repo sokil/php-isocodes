@@ -1,8 +1,13 @@
-# Czech translation of ISO 639 Language names
-# Copyright (C) 2002,2004 Free Software Foundation.
-# Original translation Petr Cech <cech@debian.org> (Petr Čech), 2000.
-# Updated by Stanislav Brabec <utx@penguin.cz>, 2001.
-# Updated by Miroslav Kure <kurem@debian.cz>, 2004.
+# Translation of ISO 639-3 to Czech
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Petr Cech <cech@debian.org>, 2000.
+# Stanislav Brabec <utx@penguin.cz>, 2001.
+# Miroslav Kure <kurem@debian.cz>, 2004.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
 msgid ""
 msgstr ""
@@ -15242,7 +15247,7 @@ msgstr ""
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr ""
+msgstr "centrální khmerština"
 
 #. Inverted name for khm
 #, fuzzy
@@ -24292,7 +24297,7 @@ msgstr ""
 
 #. Name for nqo
 msgid "N'Ko"
-msgstr ""
+msgstr "n'ko"
 
 #. Name for nqq
 #, fuzzy
@@ -31649,7 +31654,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Klasická syrština"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -39515,7 +39520,7 @@ msgstr "Sesotho"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "standardní marocký tamazight"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

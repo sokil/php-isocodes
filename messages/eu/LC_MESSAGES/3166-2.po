@@ -1,11 +1,12 @@
-# Basque translation of ISO 3166 Country names
-# Copyright (C) 2001 Free Software Foundation, Inc.
-# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2001. 
-#     (translations, from drakfw)
+# Translation of ISO 3166-2 to Basque
+# Codes for the representation of names of countries and their subdivisions
+# Part 2: Country subdivision codes
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
+# Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#
-# $Id$
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
@@ -1709,7 +1710,7 @@ msgstr ""
 #. Name for BF-PON
 #, fuzzy
 msgid "Poni"
-msgstr "Telefonoa:"
+msgstr "Telefonoa"
 
 #. Name for BF-SEN
 #, fuzzy
@@ -2094,7 +2095,7 @@ msgstr ""
 #. Name for BO-L, Name for HN-LP, Name for SV-PA
 #, fuzzy
 msgid "La Paz"
-msgstr "Abizena:"
+msgstr "Abizena"
 
 #. Name for BO-N
 #, fuzzy
@@ -5042,7 +5043,7 @@ msgstr "Eslovenia"
 #. Name for ES-GC
 #, fuzzy
 msgid "Las Palmas"
-msgstr "Abizena:"
+msgstr "Abizena"
 
 #. Name for ES-GI
 #, fuzzy
@@ -5377,7 +5378,7 @@ msgstr "Israel"
 #. Name for FM-PNI
 #, fuzzy
 msgid "Pohnpei"
-msgstr "Telefonoa:"
+msgstr "Telefonoa"
 
 #. Name for FM-TRK
 msgid "Chuuk"
@@ -5689,7 +5690,7 @@ msgstr ""
 #. Name for FR-69
 #, fuzzy
 msgid "Rhône"
-msgstr "Telefonoa:"
+msgstr "Telefonoa"
 
 #. Name for FR-70
 msgid "Haute-Saône"
@@ -5803,7 +5804,7 @@ msgstr ""
 #. Name for FR-ARA
 #, fuzzy
 msgid "Auvergne-Rhône-Alpes"
-msgstr "Telefonoa:"
+msgstr "Telefonoa"
 
 #. Name for FR-BFC
 msgid "Bourgogne-Franche-Comté"
@@ -5845,7 +5846,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadalupe"
 
 #. Name for FR-HDF
 #, fuzzy
@@ -6148,7 +6149,7 @@ msgstr ""
 #. Name for GB-COV
 #, fuzzy
 msgid "Coventry"
-msgstr "Enpresa:"
+msgstr "Enpresa"
 
 #. Name for GB-CRF
 #, fuzzy
@@ -6163,7 +6164,7 @@ msgstr "Kamerun"
 #. Name for GB-CWY
 #, fuzzy
 msgid "Conwy"
-msgstr "Enpresa:"
+msgstr "Enpresa"
 
 #. Name for GB-DAL
 #, fuzzy
@@ -6827,7 +6828,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "Erresuma Batua"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -7438,7 +7439,7 @@ msgstr "Bulgaria"
 #. Name for GR-73
 #, fuzzy
 msgid "Rodopi"
-msgstr "Login:"
+msgstr "Login"
 
 #. Name for GR-81
 msgid "Dodekanisos"
@@ -7751,7 +7752,7 @@ msgstr ""
 #. Name for HN-CP
 #, fuzzy
 msgid "Copán"
-msgstr "Enpresa:"
+msgstr "Enpresa"
 
 #. Name for HN-CR
 #, fuzzy
@@ -9157,7 +9158,7 @@ msgstr ""
 #. Name for IT-LO
 #, fuzzy
 msgid "Lodi"
-msgstr "Login:"
+msgstr "Login"
 
 #. Name for IT-LT
 #, fuzzy
@@ -12925,7 +12926,7 @@ msgstr "Alabama"
 #. Name for MT-43
 #, fuzzy
 msgid "Qormi"
-msgstr "Login:"
+msgstr "Login"
 
 #. Name for MT-44
 msgid "Qrendi"
@@ -13812,7 +13813,7 @@ msgstr "Kansas"
 #. Name for NG-KO
 #, fuzzy
 msgid "Kogi"
-msgstr "Login:"
+msgstr "Login"
 
 #. Name for NG-KT
 #, fuzzy
@@ -13945,11 +13946,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for NL-DR
 #, fuzzy
@@ -14151,7 +14152,7 @@ msgstr "Kanada"
 #. Name for NP-KO
 #, fuzzy
 msgid "Kosi"
-msgstr "Login:"
+msgstr "Login"
 
 #. Name for NP-LU
 #, fuzzy
@@ -14905,12 +14906,12 @@ msgstr ""
 #. Name for PH-MOU
 #, fuzzy
 msgid "Mountain Province"
-msgstr "Estatua/Probintzia:"
+msgstr "Estatua/Probintzia"
 
 #. Name for PH-MSC
 #, fuzzy
 msgid "Misamis Occidental"
-msgstr "Posta bezeroa:"
+msgstr "Posta bezeroa"
 
 #. Name for PH-MSR
 msgid "Misamis Oriental"
@@ -14924,7 +14925,7 @@ msgstr "Ipar Dakota"
 #. Name for PH-NEC
 #, fuzzy
 msgid "Negros Occidental"
-msgstr "Posta bezeroa:"
+msgstr "Posta bezeroa"
 
 #. Name for PH-NER
 msgid "Negros Oriental"
@@ -15090,7 +15091,7 @@ msgstr ""
 #. Name for PL-LD
 #, fuzzy
 msgid "Łódzkie"
-msgstr "Login:"
+msgstr "Login"
 
 #. Name for PL-LU
 msgid "Lubelskie"
@@ -17028,7 +17029,7 @@ msgstr ""
 #. Name for SI-097
 #, fuzzy
 msgid "Puconci"
-msgstr "Telefonoa:"
+msgstr "Telefonoa"
 
 #. Name for SI-098
 msgid "Rače-Fram"
@@ -17220,7 +17221,7 @@ msgstr "Venezuela"
 #. Name for SI-139
 #, fuzzy
 msgid "Vojnik"
-msgstr "Telefonoa:"
+msgstr "Telefonoa"
 
 #. Name for SI-140
 #, fuzzy
@@ -18226,7 +18227,7 @@ msgstr ""
 #. Name for TH-42
 #, fuzzy
 msgid "Loei"
-msgstr "Login:"
+msgstr "Login"
 
 #. Name for TH-43
 msgid "Nong Khai"
@@ -20551,7 +20552,7 @@ msgstr ""
 #. Name for VN-63
 #, fuzzy
 msgid "Hà Nam"
-msgstr "Abizena:"
+msgstr "Abizena"
 
 #. Name for VN-66
 msgid "Hưng Yên"
@@ -20597,7 +20598,7 @@ msgstr ""
 #. Name for VN-HN
 #, fuzzy
 msgid "Hà Nội"
-msgstr "Abizena:"
+msgstr "Abizena"
 
 #. Name for VN-HP
 msgid "Hải Phòng"

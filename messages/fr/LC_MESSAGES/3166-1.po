@@ -13,18 +13,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2017-05-15 10:27+0100\n"
+"PO-Revision-Date: 2017-12-28 21:49+0000\n"
 "Last-Translator: Alban Vidal <alban.vidal@zordhak.fr>\n"
-"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 2.0\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -324,7 +325,7 @@ msgstr "République démocratique du Congo"
 
 #. Name for COG
 msgid "Congo"
-msgstr "Congo"
+msgstr "République du Congo"
 
 #. Official name for COG
 msgid "Republic of the Congo"
@@ -1008,7 +1009,7 @@ msgstr "République de Malte"
 
 #. Name for MMR
 msgid "Myanmar"
-msgstr "Myanmar"
+msgstr "Birmanie"
 
 #. Official name for MMR
 msgid "Republic of Myanmar"
@@ -1024,7 +1025,7 @@ msgstr "Mongolie"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Mariannes du Nord, Îles"
+msgstr "Îles Mariannes du Nord"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1184,7 +1185,7 @@ msgstr "République du Panama"
 
 #. Name for PCN
 msgid "Pitcairn"
-msgstr "Pitcairn"
+msgstr "Îles Pitcairn"
 
 #. Name for PER
 msgid "Peru"
@@ -1352,7 +1353,7 @@ msgstr "République de Sierra Leone"
 
 #. Name for SLV
 msgid "El Salvador"
-msgstr "El Salvador"
+msgstr "Salvador"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
@@ -1360,7 +1361,7 @@ msgstr "République d'El Salvador"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "San Marin"
+msgstr "Saint-Marin"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
@@ -1504,7 +1505,7 @@ msgstr "Turkménistan"
 
 #. Name for TLS
 msgid "Timor-Leste"
-msgstr "Timor-Leste"
+msgstr "Timor oriental"
 
 #. Official name for TLS
 msgid "Democratic Republic of Timor-Leste"
@@ -1580,7 +1581,7 @@ msgstr "Ukraine"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Îles mineures éloignées des États-Unis d'Amérique"
+msgstr "Îles mineures éloignées des États-Unis"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1644,7 +1645,7 @@ msgstr "Îles Vierges des États-Unis d'Amérique"
 
 #. Name for VNM
 msgid "Viet Nam"
-msgstr "Viet Nam"
+msgstr "Viêt Nam"
 
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"

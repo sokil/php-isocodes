@@ -1,13 +1,17 @@
-# translation of iso-codes-iso_639_ru.po to Russian
-# translation of iso-codes-iso_639_ru.po to Русский язык
+# Translation of ISO 639-3 to Russian
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # GOST 7.75-97
 # http://www.bibliography.ru/method/gosts/7-75/7_75.htm
-# This file is distributed under the same license as the iso-codes package.
-# Copyright (C) 2015 Free Software Foundation, Inc.
+#
+# Copyright ©
 # Nikolai Prokoschenko <nikolai@prokoschenko.de>, 2004.
 # Yuri Kozlov <yuray@id.ru>, 2004, 2005.
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -1433,7 +1437,7 @@ msgstr ""
 #. Name for anb
 #, fuzzy
 msgid "Andoa"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for anc
 #, fuzzy
@@ -1465,7 +1469,7 @@ msgstr "Староанглийский (ca.450-1100)"
 #. Name for anh
 #, fuzzy
 msgid "Nend"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for ani
 #, fuzzy
@@ -1533,7 +1537,7 @@ msgstr ""
 #. Name for anv
 #, fuzzy
 msgid "Denya"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for anw
 #, fuzzy
@@ -2855,7 +2859,7 @@ msgstr ""
 #. Name for bav
 #, fuzzy
 msgid "Vengo"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for baw
 msgid "Bambili-Bambui"
@@ -6529,7 +6533,7 @@ msgstr "Русский"
 
 #. Name for chn
 msgid "Chinook jargon"
-msgstr ""
+msgstr "жаргон чинук"
 
 #. Name for cho
 msgid "Choctaw"
@@ -8164,7 +8168,7 @@ msgstr "Таджикский"
 #. Name for ded
 #, fuzzy
 msgid "Dedua"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for dee
 msgid "Dewoin"
@@ -8201,7 +8205,7 @@ msgstr ""
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr ""
+msgstr "сливи (атабаскский)"
 
 #. Name for dep
 #, fuzzy
@@ -9055,7 +9059,7 @@ msgstr ""
 #. Name for dso
 #, fuzzy
 msgid "Desiya"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for dsq
 #, fuzzy
@@ -9372,7 +9376,7 @@ msgstr ""
 
 #. Name for dyu
 msgid "Dyula"
-msgstr ""
+msgstr "диула"
 
 #. Name for dyy
 msgid "Dyaabugay"
@@ -10395,7 +10399,7 @@ msgstr ""
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr ""
+msgstr "восточный фризский"
 
 #. Inverted name for frs
 #, fuzzy
@@ -11868,7 +11872,7 @@ msgstr "Горонтало"
 #. Name for grw
 #, fuzzy
 msgid "Gweda"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for grx
 #, fuzzy
@@ -15778,7 +15782,7 @@ msgstr "Лушай"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr ""
+msgstr "кхмерский центральный"
 
 #. Inverted name for khm
 msgid "Khmer, Central"
@@ -16655,7 +16659,7 @@ msgstr ""
 #. Name for knx
 #, fuzzy
 msgid "Kendayan"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for kny
 #, fuzzy
@@ -18580,7 +18584,7 @@ msgstr ""
 #. Name for led
 #, fuzzy
 msgid "Lendu"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for lee
 msgid "Lyélé"
@@ -18621,7 +18625,7 @@ msgstr "Румынский"
 #. Name for len
 #, fuzzy
 msgid "Lenca"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for leo
 msgid "Leti (Cameroon)"
@@ -20273,7 +20277,7 @@ msgstr "Эве"
 #. Name for mcr
 #, fuzzy
 msgid "Menya"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for mcs
 #, fuzzy
@@ -20440,7 +20444,7 @@ msgstr ""
 #. Name for mea
 #, fuzzy
 msgid "Menka"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for meb
 msgid "Ikobi"
@@ -30506,7 +30510,7 @@ msgstr ""
 #. Name for sds
 #, fuzzy
 msgid "Sened"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for sdt
 msgid "Shuadit"
@@ -30571,7 +30575,7 @@ msgstr ""
 #. Name for seh
 #, fuzzy
 msgid "Sena"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for sei
 #, fuzzy
@@ -31045,7 +31049,7 @@ msgstr "Свати"
 #. Name for sja
 #, fuzzy
 msgid "Epena"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for sjb
 msgid "Sajau Basap"
@@ -31466,7 +31470,7 @@ msgstr "Масаи"
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr ""
+msgstr "инарисаамский"
 
 #. Inverted name for smn
 #, fuzzy
@@ -32685,7 +32689,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "классический сирийский"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -35217,7 +35221,7 @@ msgstr "Туркменский"
 #. Name for tvw
 #, fuzzy
 msgid "Sedoa"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for tvy
 msgid "Timor Pidgin"
@@ -35844,7 +35848,7 @@ msgstr "Бамбара"
 #. Name for ums
 #, fuzzy
 msgid "Pendau"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for umu
 msgid "Munsee"
@@ -35911,7 +35915,7 @@ msgstr ""
 #. Name for upi
 #, fuzzy
 msgid "Umeda"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for upv
 msgid "Uripiv-Wala-Rano-Atchin"
@@ -36242,7 +36246,7 @@ msgstr "Армянский"
 #. Name for ved
 #, fuzzy
 msgid "Veddah"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for vel
 msgid "Veluws"
@@ -36254,7 +36258,7 @@ msgstr ""
 
 #. Name for ven
 msgid "Venda"
-msgstr "венда "
+msgstr "венда"
 
 #. Name for veo
 msgid "Ventureño"
@@ -36289,7 +36293,7 @@ msgstr ""
 #. Name for vid
 #, fuzzy
 msgid "Vidunda"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for vie
 msgid "Vietnamese"
@@ -36310,7 +36314,7 @@ msgstr ""
 #. Name for vin
 #, fuzzy
 msgid "Vinza"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for vis
 msgid "Vishavan"
@@ -36859,7 +36863,7 @@ msgstr ""
 #. Name for wed
 #, fuzzy
 msgid "Wedau"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for weg
 msgid "Wergaia"
@@ -38201,7 +38205,7 @@ msgstr "Качинский"
 #. Name for xkd
 #, fuzzy
 msgid "Mendalam Kayan"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Inverted name for xkd
 msgid "Kayan, Mendalam"
@@ -40044,7 +40048,7 @@ msgstr "Монго"
 #. Name for ynq
 #, fuzzy
 msgid "Yendang"
-msgstr "Венда "
+msgstr "Венда"
 
 #. Name for yns
 #, fuzzy
@@ -40804,7 +40808,7 @@ msgstr "Сото Южный"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "стандартный марокканский тамазигхтский"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

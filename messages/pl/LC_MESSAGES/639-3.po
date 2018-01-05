@@ -1,12 +1,14 @@
-# Polish translations of ISO 639-3 Language names.
-# Copyright (C) 2000-2017 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Polish
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
 # This file is distributed under the same license as the iso-codes package.
+#
+# Copyright ©
 # Cezary Jackiewicz <cjackiewicz@poczta.onet.pl>, 2000-2001
 # GNOME PL Team <translators@gnome.pl>, 2001
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
-#  - translations from ICU-3.0
 # Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -36188,7 +36190,7 @@ msgstr ""
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "standardowy tamazight marokański"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

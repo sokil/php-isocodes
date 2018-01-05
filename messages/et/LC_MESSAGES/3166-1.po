@@ -14,16 +14,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
+"devel@lists.alioth.debian.org>\n"
 "POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2013-02-13 21:18+0300\n"
-"Last-Translator: Tõivo Leedjärv <toivol@gmail.com>\n"
-"Language-Team: Estonian <et@li.org>\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Kristjan Räts <kristjanrats@gmail.com>\n"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -199,7 +202,7 @@ msgstr "Bosnia ja Hertsegoviina"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr ""
+msgstr "Saint-Barthélemy"
 
 #. Name for BLR
 msgid "Belarus"
@@ -255,7 +258,7 @@ msgstr "Bhutani Kuningriik"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "Bouvet’ saar"
+msgstr "Bouvet' saar"
 
 #. Name for BWA
 msgid "Botswana"
@@ -350,14 +353,10 @@ msgid "Union of the Comoros"
 msgstr "Komoori Liit"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "Roheneemesaared (Cabo Verde) "
+msgstr "Roheneemesaared (Cabo Verde)"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Cabo Verde Vabariik"
 
@@ -399,7 +398,7 @@ msgstr "Küprose Vabariik"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Tšehhi"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -594,10 +593,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "Gambia Vabariik"
+msgstr "Gambia Islamistlik Vabariik"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -641,7 +638,7 @@ msgstr "Guatemala Vabariik"
 
 #. Name for GUF
 msgid "French Guiana"
-msgstr "Prantsuse Guajaana "
+msgstr "Prantsuse Guajaana"
 
 #. Name for GUM
 msgid "Guam"
@@ -705,7 +702,7 @@ msgstr "Indoneesia Vabariik"
 
 #. Name for IMN
 msgid "Isle of Man"
-msgstr "Mani saar"
+msgstr "Man"
 
 #. Name for IND
 msgid "India"
@@ -1013,7 +1010,7 @@ msgstr "Malta Vabariik"
 
 #. Name for MMR
 msgid "Myanmar"
-msgstr "Birma (Myanmar)"
+msgstr "Myanmar"
 
 #. Official name for MMR
 msgid "Republic of Myanmar"
@@ -1105,7 +1102,7 @@ msgstr "Nigeri Vabariik"
 
 #. Name for NFK
 msgid "Norfolk Island"
-msgstr "Norfolki saare ala"
+msgstr "Norfolk"
 
 #. Name for NGA
 msgid "Nigeria"
@@ -1220,9 +1217,8 @@ msgid "Papua New Guinea"
 msgstr "Paapua Uus-Guinea"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Samoa Iseseisvusriik"
+msgstr "Paapua Uus-Guinea"
 
 #. Name for POL
 msgid "Poland"
@@ -1377,9 +1373,8 @@ msgid "Somalia"
 msgstr "Somaalia"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Saksamaa Liitvabariik"
+msgstr "Somaali Föderatiivne Vabariik"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1467,7 +1462,7 @@ msgstr "Süüria Araabia Vabariik"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Turksi ja Caicose saarte asumaa"
+msgstr "Turksi ja Caicose saared"
 
 #. Name for TCD
 msgid "Chad"
@@ -1559,7 +1554,7 @@ msgstr "Taiwan"
 
 #. Common name for TWN
 msgid "Taiwan"
-msgstr "Taiwan"
+msgstr "Hiina Vabariik"
 
 #. Name for TZA
 msgid "Tanzania, United Republic of"
@@ -1571,7 +1566,7 @@ msgstr "Tansaania Ühendvabariik"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tansaania"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1587,7 +1582,7 @@ msgstr "Ukraina"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Ühendriikide väikesed hajasaared"
+msgstr "Ühendriikide hajasaared"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1639,7 +1634,7 @@ msgstr "Briti Neitsisaared"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "Briti Neitsisaarte asumaa"
+msgstr "Briti Neitsisaared"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
@@ -1658,8 +1653,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnami Sotsialistlik Vabariik"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vietnam"
 

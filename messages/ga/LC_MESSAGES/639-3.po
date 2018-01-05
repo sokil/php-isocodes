@@ -1,14 +1,20 @@
-# Irish translations of ISO 639 Language names
-# Copyright (C) 2002 Free Software Foundation, Inc.
-# Kevin Patrick Scannell <scannell@SLU.EDU>, 2004
-# Alastair McKinstry <mckinstry@computer.org>, 2002
-# Sean V. Kelley <s_oceallaigh@yahoo.com>, 1999
+# Translation of ISO 639-3 to Irish
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # 11 Jan 2004: I've added a translator's note to translations that appear
 #   to be "coinages"; i.e. do not appear in any standard print or online
 #   references, or in a large (20M word) text corpus.  The others should
 #   be treated as more or less authoritative.  Future translators: feel
 #   free to fill in gaps but please continue to mark coinages as such.  --KPS
+#
+# Copyright ©
+# Kevin Patrick Scannell <scannell@SLU.EDU>, 2004
+# Alastair McKinstry <mckinstry@computer.org>, 2002
+# Sean V. Kelley <s_oceallaigh@yahoo.com>, 1999
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
@@ -9450,7 +9456,7 @@ msgstr ""
 
 #. Name for dzo
 msgid "Dzongkha"
-msgstr ""
+msgstr "Seoinicis"
 
 #. Name for eaa
 #, fuzzy
@@ -12685,9 +12691,10 @@ msgstr ""
 msgid "Seit-Kaitetu"
 msgstr ""
 
+# coined for OOo Sept 08
 #. Name for hil
 msgid "Hiligaynon"
-msgstr ""
+msgstr "Hiligionóinis"
 
 #. Name for hin
 msgid "Hindi"
@@ -13964,9 +13971,10 @@ msgstr ""
 msgid "Ipili"
 msgstr ""
 
+# coined for Firefox
 #. Name for ipk
 msgid "Inupiaq"
-msgstr ""
+msgstr "Iniúipiaicis"
 
 #. Name for ipo
 msgid "Ipiko"
@@ -15847,7 +15855,7 @@ msgstr ""
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr ""
+msgstr "Ciméiris Láir"
 
 # de Bhaldraithe
 #. Inverted name for khm
@@ -20101,9 +20109,11 @@ msgstr ""
 msgid "Marshallese"
 msgstr "Marascailis"
 
+# IPA pronunciation in OED
+# coined for OOo
 #. Name for mai
 msgid "Maithili"
-msgstr ""
+msgstr "Maitilis"
 
 #. Name for maj
 msgid "Jalapa De Díaz Mazatec"
@@ -27212,7 +27222,7 @@ msgstr "Seipidis"
 
 #. Name for pap
 msgid "Papiamento"
-msgstr ""
+msgstr "Paipeamaintis"
 
 #. Name for paq
 #, fuzzy
@@ -30364,9 +30374,10 @@ msgstr ""
 msgid "Sasak"
 msgstr ""
 
+# coined for OOo, Sept 08
 #. Name for sat
 msgid "Santali"
-msgstr ""
+msgstr "Santáilis"
 
 # my coinage --kps
 #. Name for sau
@@ -32948,9 +32959,10 @@ msgstr "Teangacha Astrálacha"
 msgid "Subanen, Central"
 msgstr ""
 
+# de Bhaldraithe --kps
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Síris Chlasaiceach"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -33663,9 +33675,10 @@ msgstr ""
 msgid "Tengger"
 msgstr ""
 
+# Tetun preferred; coined for OOo Sept 08
 #. Name for tet
 msgid "Tetum"
-msgstr ""
+msgstr "Teitinis"
 
 #. Name for teu
 msgid "Soo"

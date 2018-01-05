@@ -1,10 +1,17 @@
-# German translations of ISO 639 Language names
-# Copyright (C) 2004, 2005 Free Software Foundation, Inc.
+# Translation of ISO 639-3 to German
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+#
+# This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # Thanks to Kai Lahmann for his support.
 # Quellen-Verweise:
 # HKA: Haack Kleiner Atlas "Die Erde", VEB Hermann Haack, Gotha/Leipzig 1981.
 # AA: http://www.auswaertiges-amt.de/www/de/infoservice/download/pdf/publikationen/staatennamen-landesspr.pdf, 2002-10-17.
 # http://www.langwhich.com/lexikon/sprachen-und-voelker-der-erde, 2012.
+#
+# Copyright ©
 # Björn Ganslandt <bganslan@gmx.net>, 2000, 2001.
 # Karl Eichwalder <ke@suse.de>, 2001.
 # Alastair McKinstry <mckinstry@computer.org>, 2001.
@@ -11077,7 +11084,7 @@ msgstr "Ganza"
 # AA: Thailändisch
 #. Name for gzi
 msgid "Gazi"
-msgstr "Khasi "
+msgstr "Khasi"
 
 #. Name for gzn
 msgid "Gane"
@@ -23670,7 +23677,7 @@ msgstr "Okpe (Nordwest-Edo)"
 
 #. Name for ola
 msgid "Walungge"
-msgstr " "
+msgstr ""
 
 #. Name for old
 msgid "Mochi"
@@ -36754,7 +36761,7 @@ msgstr "Zhuang, Guibei"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Standardisiertes Marokkanisches Tamazight"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"
