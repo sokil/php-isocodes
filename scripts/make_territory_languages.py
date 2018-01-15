@@ -5,7 +5,7 @@ import json
 ISO = "territory_languages"
 FILE_NAME = "../databases/iso_{}.json".format(ISO)
 
-def get_languages(xml):
+def parse_languages(xml):
     languages = {}
     for t in xml.find('territoryInfo').findall('territory'):
         langs = {}
@@ -22,5 +22,5 @@ if __name__ == "__main__":
     xml = etree.XML(data)
     with open(FILE_NAME, "w") as f:
         f.write(json.dumps({
-            ISO: [{'alpha_2':k, 'languages':v} for k,v in get_languages(xml).items()]
+            ISO: [{'alpha_2':k, 'languages':v} for k,v in parse_languages(xml).items()]
         }, sort_keys=True, indent=2))
