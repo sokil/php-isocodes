@@ -1,0 +1,6788 @@
+{
+  "territory_languages": [
+    {
+      "alpha_2": "BD", 
+      "languages": {
+        "bn": {
+          "official": true, 
+          "percent": 98.0
+        }, 
+        "ccp": {
+          "official": false, 
+          "percent": 0.22
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 18.0
+        }, 
+        "grt": {
+          "official": false, 
+          "percent": 0.073
+        }, 
+        "mni": {
+          "official": false, 
+          "percent": 0.011
+        }, 
+        "mro": {
+          "official": false, 
+          "percent": 0.018
+        }, 
+        "my": {
+          "official": false, 
+          "percent": 0.21
+        }, 
+        "rkt": {
+          "official": false, 
+          "percent": 6.5
+        }, 
+        "syl": {
+          "official": false, 
+          "percent": 5.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BE", 
+      "languages": {
+        "de": {
+          "official": true, 
+          "percent": 22.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 59.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 38.0
+        }, 
+        "nl": {
+          "official": true, 
+          "percent": 55.0
+        }, 
+        "vls": {
+          "official": false, 
+          "percent": 10.0
+        }, 
+        "wa": {
+          "official": false, 
+          "percent": 5.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BF", 
+      "languages": {
+        "dyu": {
+          "official": false, 
+          "percent": 32.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 22.0
+        }, 
+        "mos": {
+          "official": false, 
+          "percent": 40.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BG", 
+      "languages": {
+        "bg": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 8.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 25.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 23.0
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 11.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BA", 
+      "languages": {
+        "bs": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "bs_Cyrl": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 45.0
+        }, 
+        "hr": {
+          "official": true, 
+          "percent": 12.0
+        }, 
+        "sr": {
+          "official": true, 
+          "percent": 10.0
+        }, 
+        "sr_Latn": {
+          "official": true, 
+          "percent": 10.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BB", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "WF", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 48.0
+        }, 
+        "fud": {
+          "official": false, 
+          "percent": 31.0
+        }, 
+        "wls": {
+          "official": false, 
+          "percent": 60.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BL", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BM", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 92.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BN", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 1.8
+        }, 
+        "ms": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "ms_Arab": {
+          "official": true, 
+          "percent": 5.0
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 11.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BO", 
+      "languages": {
+        "aro": {
+          "official": false, 
+          "percent": 0.001
+        }, 
+        "ay": {
+          "official": true, 
+          "percent": 20.0
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 61.0
+        }, 
+        "gn": {
+          "official": false, 
+          "percent": 0.45
+        }, 
+        "qu": {
+          "official": true, 
+          "percent": 32.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BH", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 87.0
+        }, 
+        "ml": {
+          "official": false, 
+          "percent": 3.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BI", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 0.054
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 59.0
+        }, 
+        "rn": {
+          "official": true, 
+          "percent": 63.0
+        }, 
+        "sw": {
+          "official": false, 
+          "percent": 0.055
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BJ", 
+      "languages": {
+        "fon": {
+          "official": false, 
+          "percent": 25.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 35.0
+        }, 
+        "yo": {
+          "official": false, 
+          "percent": 6.7
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BT", 
+      "languages": {
+        "dz": {
+          "official": true, 
+          "percent": 47.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "lep": {
+          "official": false, 
+          "percent": 3.9
+        }, 
+        "ne": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "tsj": {
+          "official": false, 
+          "percent": 15.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "JM", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 98.0
+        }, 
+        "jam": {
+          "official": false, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BV", 
+      "languages": {
+        "und": {
+          "official": false, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BW", 
+      "languages": {
+        "af": {
+          "official": false, 
+          "percent": 0.27
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 81.0
+        }, 
+        "tn": {
+          "official": true, 
+          "percent": 62.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "WS", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 2.2
+        }, 
+        "sm": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BQ", 
+      "languages": {
+        "nl": {
+          "official": true, 
+          "percent": 8.0
+        }, 
+        "pap": {
+          "official": false, 
+          "percent": 81.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BR", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 0.84
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 8.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 0.037
+        }, 
+        "gub": {
+          "official": false, 
+          "percent": 0.0084
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 0.28
+        }, 
+        "ja": {
+          "official": false, 
+          "percent": 0.21
+        }, 
+        "kgp": {
+          "official": false, 
+          "percent": 0.01
+        }, 
+        "ko": {
+          "official": false, 
+          "percent": 0.021
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 91.0
+        }, 
+        "xav": {
+          "official": false, 
+          "percent": 0.0048
+        }, 
+        "yrl": {
+          "official": false, 
+          "percent": 0.0052
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BS", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "JE", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BY", 
+      "languages": {
+        "be": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "ru": {
+          "official": true, 
+          "percent": 12.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "BZ", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 28.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "RU", 
+      "languages": {
+        "ady": {
+          "official": true, 
+          "percent": 0.088
+        }, 
+        "alt": {
+          "official": false, 
+          "percent": 0.014
+        }, 
+        "av": {
+          "official": true, 
+          "percent": 0.39
+        }, 
+        "az_Cyrl": {
+          "official": true, 
+          "percent": 0.093
+        }, 
+        "ba": {
+          "official": true, 
+          "percent": 1.3
+        }, 
+        "bua": {
+          "official": false, 
+          "percent": 0.22
+        }, 
+        "ce": {
+          "official": true, 
+          "percent": 0.66
+        }, 
+        "chm": {
+          "official": false, 
+          "percent": 0.37
+        }, 
+        "cu": {
+          "official": false, 
+          "percent": 0.0
+        }, 
+        "cv": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "dar": {
+          "official": false, 
+          "percent": 0.26
+        }, 
+        "fi": {
+          "official": false, 
+          "percent": 0.012
+        }, 
+        "hy": {
+          "official": false, 
+          "percent": 0.84
+        }, 
+        "inh": {
+          "official": true, 
+          "percent": 0.16
+        }, 
+        "izh": {
+          "official": false, 
+          "percent": 0.0001
+        }, 
+        "kbd": {
+          "official": true, 
+          "percent": 0.31
+        }, 
+        "koi": {
+          "official": true, 
+          "percent": 0.045
+        }, 
+        "krc": {
+          "official": true, 
+          "percent": 0.16
+        }, 
+        "krl": {
+          "official": false, 
+          "percent": 0.082
+        }, 
+        "kum": {
+          "official": true, 
+          "percent": 0.2
+        }, 
+        "kv": {
+          "official": true, 
+          "percent": 0.18
+        }, 
+        "lbe": {
+          "official": true, 
+          "percent": 0.078
+        }, 
+        "lez": {
+          "official": true, 
+          "percent": 0.18
+        }, 
+        "mdf": {
+          "official": true, 
+          "percent": 0.21
+        }, 
+        "mn": {
+          "official": false, 
+          "percent": 0.0015
+        }, 
+        "mrj": {
+          "official": false, 
+          "percent": 0.021
+        }, 
+        "myv": {
+          "official": true, 
+          "percent": 0.31
+        }, 
+        "os": {
+          "official": false, 
+          "percent": 0.32
+        }, 
+        "ru": {
+          "official": true, 
+          "percent": 94.0
+        }, 
+        "sah": {
+          "official": true, 
+          "percent": 0.32
+        }, 
+        "sr_Latn": {
+          "official": false, 
+          "percent": 0.0035
+        }, 
+        "tt": {
+          "official": true, 
+          "percent": 1.4
+        }, 
+        "tyv": {
+          "official": true, 
+          "percent": 0.13
+        }, 
+        "udm": {
+          "official": true, 
+          "percent": 0.38
+        }, 
+        "vep": {
+          "official": false, 
+          "percent": 0.0025
+        }, 
+        "vot": {
+          "official": false, 
+          "percent": 0.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "RW", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 15.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 0.019
+        }, 
+        "rw": {
+          "official": true, 
+          "percent": 77.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "RS", 
+      "languages": {
+        "hr": {
+          "official": true, 
+          "percent": 0.93
+        }, 
+        "hu": {
+          "official": true, 
+          "percent": 4.8
+        }, 
+        "ro": {
+          "official": true, 
+          "percent": 2.1
+        }, 
+        "sk": {
+          "official": true, 
+          "percent": 0.85
+        }, 
+        "sq": {
+          "official": false, 
+          "percent": 19.0
+        }, 
+        "sr": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "sr_Latn": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "uk": {
+          "official": true, 
+          "percent": 0.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TL", 
+      "languages": {
+        "pt": {
+          "official": true, 
+          "percent": 59.0
+        }, 
+        "tet": {
+          "official": true, 
+          "percent": 59.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "RE", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 89.0
+        }, 
+        "rcf": {
+          "official": false, 
+          "percent": 71.0
+        }, 
+        "ta": {
+          "official": false, 
+          "percent": 15.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TM", 
+      "languages": {
+        "ku": {
+          "official": false, 
+          "percent": 0.41
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 12.0
+        }, 
+        "tk": {
+          "official": true, 
+          "percent": 70.0
+        }, 
+        "uz": {
+          "official": false, 
+          "percent": 9.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TJ", 
+      "languages": {
+        "ar": {
+          "official": false, 
+          "percent": 0.012
+        }, 
+        "fa": {
+          "official": false, 
+          "percent": 0.78
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 12.0
+        }, 
+        "tg": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "RO", 
+      "languages": {
+        "bg": {
+          "official": false, 
+          "percent": 0.031
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 0.21
+        }, 
+        "el": {
+          "official": false, 
+          "percent": 0.019
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 31.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 10.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "hu": {
+          "official": false, 
+          "percent": 6.6
+        }, 
+        "pl": {
+          "official": false, 
+          "percent": 0.013
+        }, 
+        "ro": {
+          "official": true, 
+          "percent": 90.0
+        }, 
+        "sr_Latn": {
+          "official": false, 
+          "percent": 0.12
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 0.13
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TK", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "tkl": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GW", 
+      "languages": {
+        "knf": {
+          "official": false, 
+          "percent": 2.6
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GU", 
+      "languages": {
+        "ch": {
+          "official": true, 
+          "percent": 22.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 91.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GT", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "quc": {
+          "official": true, 
+          "percent": 7.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GS", 
+      "languages": {
+        "und": {
+          "official": false, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GR", 
+      "languages": {
+        "bg": {
+          "official": false, 
+          "percent": 0.27
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "el": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 51.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 9.0
+        }, 
+        "mk": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "pnt": {
+          "official": false, 
+          "percent": 3.7
+        }, 
+        "sq": {
+          "official": false, 
+          "percent": 0.093
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "tsd": {
+          "official": false, 
+          "percent": 0.0019
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GQ", 
+      "languages": {
+        "bvb": {
+          "official": false, 
+          "percent": 7.9
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 87.0
+        }, 
+        "fan": {
+          "official": false, 
+          "percent": 51.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 8.8
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 0.0001
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GP", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 90.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "JP", 
+      "languages": {
+        "ja": {
+          "official": true, 
+          "percent": 95.0
+        }, 
+        "ko": {
+          "official": false, 
+          "percent": 0.52
+        }, 
+        "ryu": {
+          "official": false, 
+          "percent": 0.77
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GY", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GG", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GF", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 77.0
+        }, 
+        "gcr": {
+          "official": false, 
+          "percent": 26.0
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 2.5
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GE", 
+      "languages": {
+        "ab": {
+          "official": true, 
+          "percent": 2.2
+        }, 
+        "hy": {
+          "official": false, 
+          "percent": 7.0
+        }, 
+        "ka": {
+          "official": true, 
+          "percent": 86.0
+        }, 
+        "ku": {
+          "official": false, 
+          "percent": 0.89
+        }, 
+        "os": {
+          "official": true, 
+          "percent": 2.2
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 9.0
+        }, 
+        "xmf": {
+          "official": false, 
+          "percent": 11.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GD", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 96.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GB", 
+      "languages": {
+        "bn": {
+          "official": false, 
+          "percent": 0.67
+        }, 
+        "cy": {
+          "official": true, 
+          "percent": 0.77
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "el": {
+          "official": false, 
+          "percent": 0.34
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 19.0
+        }, 
+        "ga": {
+          "official": true, 
+          "percent": 0.026
+        }, 
+        "gd": {
+          "official": true, 
+          "percent": 0.099
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 0.34
+        }, 
+        "ks": {
+          "official": false, 
+          "percent": 0.19
+        }, 
+        "kw": {
+          "official": false, 
+          "percent": 0.0031
+        }, 
+        "ml": {
+          "official": false, 
+          "percent": 0.035
+        }, 
+        "pa": {
+          "official": false, 
+          "percent": 0.79
+        }, 
+        "sco": {
+          "official": false, 
+          "percent": 2.7
+        }, 
+        "syl": {
+          "official": false, 
+          "percent": 0.51
+        }, 
+        "yi": {
+          "official": false, 
+          "percent": 0.049
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 0.54
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GA", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 63.0
+        }, 
+        "puu": {
+          "official": false, 
+          "percent": 9.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SV", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 89.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GN", 
+      "languages": {
+        "ff": {
+          "official": false, 
+          "percent": 26.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 29.0
+        }, 
+        "kpe": {
+          "official": false, 
+          "percent": 3.8
+        }, 
+        "man_Nkoo": {
+          "official": false, 
+          "percent": 23.0
+        }, 
+        "nqo": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "sus": {
+          "official": false, 
+          "percent": 11.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GM", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 40.0
+        }, 
+        "man": {
+          "official": false, 
+          "percent": 29.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GL", 
+      "languages": {
+        "da": {
+          "official": false, 
+          "percent": 14.0
+        }, 
+        "kl": {
+          "official": true, 
+          "percent": 84.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GI", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 80.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 50.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "GH", 
+      "languages": {
+        "abr": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "ada": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "ak": {
+          "official": true, 
+          "percent": 39.0
+        }, 
+        "ee": {
+          "official": true, 
+          "percent": 11.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 21.0
+        }, 
+        "gaa": {
+          "official": true, 
+          "percent": 2.8
+        }, 
+        "gur": {
+          "official": false, 
+          "percent": 3.5
+        }, 
+        "ha": {
+          "official": false, 
+          "percent": 0.87
+        }, 
+        "nzi": {
+          "official": false, 
+          "percent": 1.0
+        }, 
+        "saf": {
+          "official": false, 
+          "percent": 0.015
+        }
+      }
+    }, 
+    {
+      "alpha_2": "OM", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 81.0
+        }, 
+        "bal": {
+          "official": false, 
+          "percent": 4.9
+        }, 
+        "fa": {
+          "official": false, 
+          "percent": 0.94
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TN", 
+      "languages": {
+        "aeb": {
+          "official": false, 
+          "percent": 90.0
+        }, 
+        "ar": {
+          "official": true, 
+          "percent": 90.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 74.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "JO", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 45.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TA", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 99.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "HR", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 49.0
+        }, 
+        "hr": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "it": {
+          "official": true, 
+          "percent": 1.6
+        }
+      }
+    }, 
+    {
+      "alpha_2": "HT", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 4.7
+        }, 
+        "ht": {
+          "official": true, 
+          "percent": 81.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "HU", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 18.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 20.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "hr": {
+          "official": false, 
+          "percent": 0.32
+        }, 
+        "hu": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "ro": {
+          "official": false, 
+          "percent": 0.99
+        }, 
+        "sk": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "sl": {
+          "official": false, 
+          "percent": 0.051
+        }
+      }
+    }, 
+    {
+      "alpha_2": "HK", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 51.0
+        }, 
+        "yue": {
+          "official": false, 
+          "percent": 90.0
+        }, 
+        "zh": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "zh_Hant": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "HN", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 0.44
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 78.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "HM", 
+      "languages": {
+        "und": {
+          "official": false, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "VE", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 82.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PR", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 49.0
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 87.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PS", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PW", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 8.8
+        }, 
+        "pau": {
+          "official": true, 
+          "percent": 74.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PT", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 27.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 10.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 15.0
+        }, 
+        "gl": {
+          "official": false, 
+          "percent": 0.14
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 96.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SJ", 
+      "languages": {
+        "nb": {
+          "official": true, 
+          "percent": 56.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 45.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PY", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 2.9
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 3.2
+        }, 
+        "gn": {
+          "official": true, 
+          "percent": 80.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IQ", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 68.0
+        }, 
+        "az_Arab": {
+          "official": true, 
+          "percent": 1.8
+        }, 
+        "ckb": {
+          "official": true, 
+          "percent": 20.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 35.0
+        }, 
+        "fa": {
+          "official": false, 
+          "percent": 0.87
+        }, 
+        "lrc": {
+          "official": false, 
+          "percent": 0.61
+        }, 
+        "syr": {
+          "official": false, 
+          "percent": 0.5
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PA", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 14.0
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 69.0
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 0.16
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PF", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 61.0
+        }, 
+        "ty": {
+          "official": true, 
+          "percent": 31.0
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 7.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PG", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 50.0
+        }, 
+        "ho": {
+          "official": true, 
+          "percent": 2.1
+        }, 
+        "tpi": {
+          "official": true, 
+          "percent": 71.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PE", 
+      "languages": {
+        "ay": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 73.0
+        }, 
+        "qu": {
+          "official": true, 
+          "percent": 15.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PK", 
+      "languages": {
+        "bal": {
+          "official": false, 
+          "percent": 3.7
+        }, 
+        "bft": {
+          "official": false, 
+          "percent": 0.18
+        }, 
+        "bgn": {
+          "official": false, 
+          "percent": 0.57
+        }, 
+        "brh": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "btv": {
+          "official": false, 
+          "percent": 0.019
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 50.0
+        }, 
+        "fa": {
+          "official": false, 
+          "percent": 0.66
+        }, 
+        "gjk": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "gju": {
+          "official": false, 
+          "percent": 0.2
+        }, 
+        "hnd": {
+          "official": false, 
+          "percent": 0.41
+        }, 
+        "hno": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "khw": {
+          "official": false, 
+          "percent": 0.15
+        }, 
+        "ks": {
+          "official": false, 
+          "percent": 0.069
+        }, 
+        "kvx": {
+          "official": false, 
+          "percent": 0.16
+        }, 
+        "kxp": {
+          "official": false, 
+          "percent": 0.12
+        }, 
+        "lah": {
+          "official": false, 
+          "percent": 40.0
+        }, 
+        "mvy": {
+          "official": false, 
+          "percent": 0.14
+        }, 
+        "pa_Arab": {
+          "official": false, 
+          "percent": 70.0
+        }, 
+        "ps": {
+          "official": false, 
+          "percent": 15.0
+        }, 
+        "sd": {
+          "official": false, 
+          "percent": 12.0
+        }, 
+        "skr": {
+          "official": false, 
+          "percent": 9.1
+        }, 
+        "tg_Arab": {
+          "official": false, 
+          "percent": 0.33
+        }, 
+        "ur": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PH", 
+      "languages": {
+        "bhk": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "bik": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "bku": {
+          "official": false, 
+          "percent": 0.0077
+        }, 
+        "bto": {
+          "official": false, 
+          "percent": 0.28
+        }, 
+        "ceb": {
+          "official": true, 
+          "percent": 24.0
+        }, 
+        "cps": {
+          "official": false, 
+          "percent": 0.67
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 64.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 31.0
+        }, 
+        "fil": {
+          "official": true, 
+          "percent": 60.0
+        }, 
+        "hil": {
+          "official": true, 
+          "percent": 8.4
+        }, 
+        "hnn": {
+          "official": false, 
+          "percent": 0.016
+        }, 
+        "ilo": {
+          "official": true, 
+          "percent": 9.6
+        }, 
+        "krj": {
+          "official": false, 
+          "percent": 0.39
+        }, 
+        "mdh": {
+          "official": true, 
+          "percent": 1.2
+        }, 
+        "pag": {
+          "official": true, 
+          "percent": 1.4
+        }, 
+        "pam": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "tbw": {
+          "official": false, 
+          "percent": 0.0096
+        }, 
+        "tsg": {
+          "official": true, 
+          "percent": 1.1
+        }, 
+        "war": {
+          "official": true, 
+          "percent": 2.9
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 0.73
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PN", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 85.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PL", 
+      "languages": {
+        "be": {
+          "official": false, 
+          "percent": 0.58
+        }, 
+        "csb": {
+          "official": true, 
+          "percent": 0.13
+        }, 
+        "de": {
+          "official": true, 
+          "percent": 19.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 33.0
+        }, 
+        "lt": {
+          "official": true, 
+          "percent": 0.021
+        }, 
+        "pl": {
+          "official": true, 
+          "percent": 96.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 18.0
+        }, 
+        "sli": {
+          "official": false, 
+          "percent": 0.031
+        }, 
+        "szl": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "uk": {
+          "official": false, 
+          "percent": 0.39
+        }
+      }
+    }, 
+    {
+      "alpha_2": "PM", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 3.4
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 92.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ZM", 
+      "languages": {
+        "bem": {
+          "official": false, 
+          "percent": 31.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 16.0
+        }, 
+        "loz": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "ny": {
+          "official": false, 
+          "percent": 15.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "EH", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "EE", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 50.0
+        }, 
+        "et": {
+          "official": true, 
+          "percent": 71.0
+        }, 
+        "fi": {
+          "official": false, 
+          "percent": 21.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 56.0
+        }, 
+        "vro": {
+          "official": false, 
+          "percent": 5.7
+        }
+      }
+    }, 
+    {
+      "alpha_2": "EG", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 94.0
+        }, 
+        "arz": {
+          "official": false, 
+          "percent": 64.0
+        }, 
+        "el": {
+          "official": false, 
+          "percent": 0.061
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 35.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "EA", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ZA", 
+      "languages": {
+        "af": {
+          "official": true, 
+          "percent": 13.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 31.0
+        }, 
+        "hi": {
+          "official": false, 
+          "percent": 2.0
+        }, 
+        "nr": {
+          "official": true, 
+          "percent": 1.6
+        }, 
+        "nso": {
+          "official": true, 
+          "percent": 9.4
+        }, 
+        "ss": {
+          "official": true, 
+          "percent": 2.7
+        }, 
+        "st": {
+          "official": true, 
+          "percent": 7.9
+        }, 
+        "sw": {
+          "official": false, 
+          "percent": 0.0018
+        }, 
+        "tn": {
+          "official": true, 
+          "percent": 8.2
+        }, 
+        "ts": {
+          "official": true, 
+          "percent": 4.4
+        }, 
+        "ve": {
+          "official": true, 
+          "percent": 2.3
+        }, 
+        "xh": {
+          "official": true, 
+          "percent": 18.0
+        }, 
+        "zu": {
+          "official": true, 
+          "percent": 24.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "EC", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 96.0
+        }, 
+        "qu": {
+          "official": true, 
+          "percent": 17.0
+        }, 
+        "qug": {
+          "official": false, 
+          "percent": 5.7
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IT", 
+      "languages": {
+        "ca": {
+          "official": false, 
+          "percent": 0.035
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "egl": {
+          "official": false, 
+          "percent": 0.05
+        }, 
+        "el": {
+          "official": false, 
+          "percent": 0.035
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 34.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 6.3
+        }, 
+        "fur": {
+          "official": false, 
+          "percent": 0.06
+        }, 
+        "hr": {
+          "official": false, 
+          "percent": 0.0056
+        }, 
+        "it": {
+          "official": true, 
+          "percent": 95.0
+        }, 
+        "lij": {
+          "official": false, 
+          "percent": 0.86
+        }, 
+        "lmo": {
+          "official": false, 
+          "percent": 0.03
+        }, 
+        "nap": {
+          "official": false, 
+          "percent": 0.97
+        }, 
+        "pms": {
+          "official": false, 
+          "percent": 0.0099
+        }, 
+        "rgn": {
+          "official": false, 
+          "percent": 0.0
+        }, 
+        "sc": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "scn": {
+          "official": false, 
+          "percent": 0.82
+        }, 
+        "sdc": {
+          "official": false, 
+          "percent": 0.17
+        }, 
+        "sl": {
+          "official": false, 
+          "percent": 0.17
+        }, 
+        "vec": {
+          "official": false, 
+          "percent": 1.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "VN", 
+      "languages": {
+        "cjm": {
+          "official": false, 
+          "percent": 0.089
+        }, 
+        "vi": {
+          "official": true, 
+          "percent": 86.0
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 1.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ZZ", 
+      "languages": {}
+    }, 
+    {
+      "alpha_2": "SB", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "rug": {
+          "official": false, 
+          "percent": 1.5
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ET", 
+      "languages": {
+        "aa": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "am": {
+          "official": true, 
+          "percent": 33.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 43.0
+        }, 
+        "om": {
+          "official": false, 
+          "percent": 32.0
+        }, 
+        "sid": {
+          "official": false, 
+          "percent": 3.5
+        }, 
+        "so": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "ti": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "wal": {
+          "official": false, 
+          "percent": 1.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SO", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 34.0
+        }, 
+        "om": {
+          "official": false, 
+          "percent": 0.42
+        }, 
+        "so": {
+          "official": true, 
+          "percent": 78.0
+        }, 
+        "sw": {
+          "official": false, 
+          "percent": 2.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ZW", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 42.0
+        }, 
+        "kck": {
+          "official": false, 
+          "percent": 5.3
+        }, 
+        "mxc": {
+          "official": false, 
+          "percent": 6.5
+        }, 
+        "nd": {
+          "official": true, 
+          "percent": 12.0
+        }, 
+        "ndc": {
+          "official": false, 
+          "percent": 6.1
+        }, 
+        "ny": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "sn": {
+          "official": true, 
+          "percent": 81.0
+        }, 
+        "tn": {
+          "official": false, 
+          "percent": 0.22
+        }, 
+        "ve": {
+          "official": false, 
+          "percent": 0.64
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SA", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ES", 
+      "languages": {
+        "ast": {
+          "official": true, 
+          "percent": 1.3
+        }, 
+        "ca": {
+          "official": true, 
+          "percent": 17.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 24.0
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "eu": {
+          "official": true, 
+          "percent": 2.0
+        }, 
+        "ext": {
+          "official": false, 
+          "percent": 0.49
+        }, 
+        "gl": {
+          "official": true, 
+          "percent": 7.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ER", 
+      "languages": {
+        "aa": {
+          "official": false, 
+          "percent": 3.6
+        }, 
+        "ar": {
+          "official": true, 
+          "percent": 4.9
+        }, 
+        "byn": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 59.0
+        }, 
+        "ssy": {
+          "official": false, 
+          "percent": 3.6
+        }, 
+        "ti": {
+          "official": true, 
+          "percent": 60.0
+        }, 
+        "tig": {
+          "official": false, 
+          "percent": 18.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ME", 
+      "languages": {
+        "sq": {
+          "official": false, 
+          "percent": 7.9
+        }, 
+        "sr": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "sr_Latn": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MD", 
+      "languages": {
+        "bg": {
+          "official": false, 
+          "percent": 9.4
+        }, 
+        "gag": {
+          "official": false, 
+          "percent": 3.3
+        }, 
+        "ro": {
+          "official": true, 
+          "percent": 63.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "uk": {
+          "official": false, 
+          "percent": 14.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MG", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 18.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 69.0
+        }, 
+        "mg": {
+          "official": true, 
+          "percent": 90.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MF", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MA", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 62.0
+        }, 
+        "ary": {
+          "official": false, 
+          "percent": 87.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 14.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 0.065
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 20.0
+        }, 
+        "rif": {
+          "official": false, 
+          "percent": 4.9
+        }, 
+        "rif_Latn": {
+          "official": false, 
+          "percent": 4.9
+        }, 
+        "shi": {
+          "official": false, 
+          "percent": 8.7
+        }, 
+        "shi_Latn": {
+          "official": false, 
+          "percent": 8.7
+        }, 
+        "tzm": {
+          "official": true, 
+          "percent": 9.8
+        }, 
+        "zgh": {
+          "official": false, 
+          "percent": 22.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MC", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 99.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "UZ", 
+      "languages": {
+        "kaa": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 14.0
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 0.76
+        }, 
+        "uz": {
+          "official": true, 
+          "percent": 85.0
+        }, 
+        "uz_Cyrl": {
+          "official": true, 
+          "percent": 15.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MM", 
+      "languages": {
+        "kac": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "kht": {
+          "official": false, 
+          "percent": 0.0077
+        }, 
+        "mnw": {
+          "official": false, 
+          "percent": 1.5
+        }, 
+        "my": {
+          "official": true, 
+          "percent": 64.0
+        }, 
+        "shn": {
+          "official": false, 
+          "percent": 6.4
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ML", 
+      "languages": {
+        "ar": {
+          "official": false, 
+          "percent": 0.89
+        }, 
+        "bm": {
+          "official": false, 
+          "percent": 46.0
+        }, 
+        "bm_Nkoo": {
+          "official": false, 
+          "percent": 2.0
+        }, 
+        "bmq": {
+          "official": false, 
+          "percent": 0.86
+        }, 
+        "bze": {
+          "official": false, 
+          "percent": 0.84
+        }, 
+        "dtm": {
+          "official": false, 
+          "percent": 1.1
+        }, 
+        "ffm": {
+          "official": false, 
+          "percent": 7.7
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 46.0
+        }, 
+        "kao": {
+          "official": false, 
+          "percent": 1.0
+        }, 
+        "khq": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "mwk": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "ses": {
+          "official": false, 
+          "percent": 3.4
+        }, 
+        "snk": {
+          "official": false, 
+          "percent": 5.9
+        }, 
+        "tmh": {
+          "official": false, 
+          "percent": 2.1
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MO", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 5.0
+        }, 
+        "zh": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "zh_Hant": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MN", 
+      "languages": {
+        "kk_Arab": {
+          "official": false, 
+          "percent": 7.2
+        }, 
+        "mn": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 0.13
+        }, 
+        "ug_Cyrl": {
+          "official": false, 
+          "percent": 0.033
+        }, 
+        "zh": {
+          "official": false, 
+          "percent": 1.4
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MH", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "mh": {
+          "official": true, 
+          "percent": 73.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MK", 
+      "languages": {
+        "mk": {
+          "official": true, 
+          "percent": 67.0
+        }, 
+        "sq": {
+          "official": true, 
+          "percent": 25.0
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 3.5
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MU", 
+      "languages": {
+        "bho": {
+          "official": false, 
+          "percent": 27.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 72.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 3.0
+        }, 
+        "mfe": {
+          "official": false, 
+          "percent": 90.0
+        }, 
+        "ta": {
+          "official": false, 
+          "percent": 2.5
+        }, 
+        "ur": {
+          "official": false, 
+          "percent": 5.2
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MT", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 88.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 56.0
+        }, 
+        "mt": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MW", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 63.0
+        }, 
+        "ny": {
+          "official": true, 
+          "percent": 63.0
+        }, 
+        "tog": {
+          "official": false, 
+          "percent": 0.98
+        }, 
+        "tum": {
+          "official": false, 
+          "percent": 8.4
+        }, 
+        "zu": {
+          "official": false, 
+          "percent": 0.33
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MV", 
+      "languages": {
+        "dv": {
+          "official": true, 
+          "percent": 94.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MQ", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MP", 
+      "languages": {
+        "ch": {
+          "official": false, 
+          "percent": 18.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 97.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MS", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 66.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MR", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 85.0
+        }, 
+        "ff": {
+          "official": false, 
+          "percent": 5.7
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "wo": {
+          "official": false, 
+          "percent": 0.27
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IM", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "gv": {
+          "official": true, 
+          "percent": 1.9
+        }
+      }
+    }, 
+    {
+      "alpha_2": "UG", 
+      "languages": {
+        "ach": {
+          "official": false, 
+          "percent": 3.7
+        }, 
+        "cgg": {
+          "official": false, 
+          "percent": 5.4
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 3.9
+        }, 
+        "hi": {
+          "official": false, 
+          "percent": 0.0056
+        }, 
+        "laj": {
+          "official": false, 
+          "percent": 3.8
+        }, 
+        "lg": {
+          "official": false, 
+          "percent": 13.0
+        }, 
+        "myx": {
+          "official": false, 
+          "percent": 2.9
+        }, 
+        "nyn": {
+          "official": false, 
+          "percent": 6.3
+        }, 
+        "rw": {
+          "official": false, 
+          "percent": 2.1
+        }, 
+        "sw": {
+          "official": true, 
+          "percent": 75.0
+        }, 
+        "teo": {
+          "official": false, 
+          "percent": 3.9
+        }, 
+        "ttj": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "xog": {
+          "official": false, 
+          "percent": 5.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TZ", 
+      "languages": {
+        "asa": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "bez": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 69.0
+        }, 
+        "jmc": {
+          "official": false, 
+          "percent": 0.75
+        }, 
+        "kde": {
+          "official": false, 
+          "percent": 2.4
+        }, 
+        "ksb": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "lag": {
+          "official": false, 
+          "percent": 0.87
+        }, 
+        "mas": {
+          "official": false, 
+          "percent": 1.5
+        }, 
+        "mgy": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "nym": {
+          "official": false, 
+          "percent": 3.3
+        }, 
+        "rof": {
+          "official": false, 
+          "percent": 0.75
+        }, 
+        "rwk": {
+          "official": false, 
+          "percent": 0.22
+        }, 
+        "sbp": {
+          "official": false, 
+          "percent": 0.2
+        }, 
+        "suk": {
+          "official": false, 
+          "percent": 8.7
+        }, 
+        "sw": {
+          "official": true, 
+          "percent": 90.0
+        }, 
+        "vun": {
+          "official": false, 
+          "percent": 0.75
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MY", 
+      "languages": {
+        "bjn": {
+          "official": false, 
+          "percent": 0.016
+        }, 
+        "bug": {
+          "official": false, 
+          "percent": 0.079
+        }, 
+        "dtp": {
+          "official": false, 
+          "percent": 0.56
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 21.0
+        }, 
+        "iba": {
+          "official": false, 
+          "percent": 2.5
+        }, 
+        "jv": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "ml": {
+          "official": false, 
+          "percent": 0.15
+        }, 
+        "ms": {
+          "official": true, 
+          "percent": 75.0
+        }, 
+        "ta": {
+          "official": false, 
+          "percent": 4.2
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "zmi": {
+          "official": false, 
+          "percent": 1.2
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MX", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 13.0
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 83.0
+        }, 
+        "maz": {
+          "official": false, 
+          "percent": 0.34
+        }, 
+        "nch": {
+          "official": false, 
+          "percent": 0.19
+        }, 
+        "nhe": {
+          "official": false, 
+          "percent": 0.39
+        }, 
+        "nhw": {
+          "official": false, 
+          "percent": 0.38
+        }, 
+        "sei": {
+          "official": false, 
+          "percent": 0.0007
+        }, 
+        "yua": {
+          "official": false, 
+          "percent": 0.67
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IL", 
+      "languages": {
+        "am": {
+          "official": false, 
+          "percent": 0.59
+        }, 
+        "ar": {
+          "official": true, 
+          "percent": 20.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 85.0
+        }, 
+        "he": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "hu": {
+          "official": false, 
+          "percent": 1.0
+        }, 
+        "lad": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "ml": {
+          "official": false, 
+          "percent": 0.096
+        }, 
+        "pl": {
+          "official": false, 
+          "percent": 1.5
+        }, 
+        "ro": {
+          "official": false, 
+          "percent": 3.7
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "ti": {
+          "official": false, 
+          "percent": 0.12
+        }, 
+        "yi": {
+          "official": false, 
+          "percent": 3.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "FR", 
+      "languages": {
+        "br": {
+          "official": false, 
+          "percent": 0.83
+        }, 
+        "ca": {
+          "official": false, 
+          "percent": 0.17
+        }, 
+        "co": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 39.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 13.0
+        }, 
+        "eu": {
+          "official": false, 
+          "percent": 0.13
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 99.0
+        }, 
+        "frp": {
+          "official": false, 
+          "percent": 0.094
+        }, 
+        "gsw": {
+          "official": false, 
+          "percent": 0.91
+        }, 
+        "ia": {
+          "official": false, 
+          "percent": 0.0002
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "nl": {
+          "official": false, 
+          "percent": 0.13
+        }, 
+        "oc": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "pcd": {
+          "official": false, 
+          "percent": 1.1
+        }, 
+        "pt": {
+          "official": false, 
+          "percent": 1.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IO", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SH", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 69.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "FI", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 18.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 70.0
+        }, 
+        "et": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "fi": {
+          "official": true, 
+          "percent": 94.0
+        }, 
+        "rmf": {
+          "official": false, 
+          "percent": 0.091
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 0.81
+        }, 
+        "se": {
+          "official": false, 
+          "percent": 0.036
+        }, 
+        "smn": {
+          "official": false, 
+          "percent": 0.011
+        }, 
+        "sms": {
+          "official": false, 
+          "percent": 0.011
+        }, 
+        "sv": {
+          "official": true, 
+          "percent": 44.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "FJ", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 94.0
+        }, 
+        "fj": {
+          "official": true, 
+          "percent": 39.0
+        }, 
+        "hi": {
+          "official": false, 
+          "percent": 44.0
+        }, 
+        "hif": {
+          "official": true, 
+          "percent": 41.0
+        }, 
+        "rtm": {
+          "official": false, 
+          "percent": 0.27
+        }
+      }
+    }, 
+    {
+      "alpha_2": "FK", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 96.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "FM", 
+      "languages": {
+        "chk": {
+          "official": false, 
+          "percent": 30.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 57.0
+        }, 
+        "kos": {
+          "official": false, 
+          "percent": 7.7
+        }, 
+        "pon": {
+          "official": false, 
+          "percent": 23.0
+        }, 
+        "uli": {
+          "official": false, 
+          "percent": 2.9
+        }, 
+        "yap": {
+          "official": false, 
+          "percent": 6.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "FO", 
+      "languages": {
+        "fo": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NI", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 78.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NL", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 71.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 90.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 29.0
+        }, 
+        "fy": {
+          "official": true, 
+          "percent": 4.3
+        }, 
+        "gos": {
+          "official": false, 
+          "percent": 3.6
+        }, 
+        "id": {
+          "official": false, 
+          "percent": 1.8
+        }, 
+        "li": {
+          "official": false, 
+          "percent": 5.5
+        }, 
+        "nds": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "nl": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "rif_Latn": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "zea": {
+          "official": false, 
+          "percent": 1.4
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NO", 
+      "languages": {
+        "nb": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "nn": {
+          "official": true, 
+          "percent": 25.0
+        }, 
+        "se": {
+          "official": true, 
+          "percent": 0.29
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NA", 
+      "languages": {
+        "af": {
+          "official": false, 
+          "percent": 75.0
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 0.9
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 7.0
+        }, 
+        "hz": {
+          "official": false, 
+          "percent": 9.1
+        }, 
+        "kj": {
+          "official": false, 
+          "percent": 35.0
+        }, 
+        "naq": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "ng": {
+          "official": false, 
+          "percent": 21.0
+        }, 
+        "tn": {
+          "official": false, 
+          "percent": 0.56
+        }
+      }
+    }, 
+    {
+      "alpha_2": "VU", 
+      "languages": {
+        "bi": {
+          "official": true, 
+          "percent": 90.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 83.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 50.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NC", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 96.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NE", 
+      "languages": {
+        "ar": {
+          "official": false, 
+          "percent": 0.21
+        }, 
+        "dje": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 29.0
+        }, 
+        "fuq": {
+          "official": false, 
+          "percent": 7.0
+        }, 
+        "ha": {
+          "official": false, 
+          "percent": 41.0
+        }, 
+        "tmh": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "twq": {
+          "official": false, 
+          "percent": 0.042
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NF", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 76.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NG", 
+      "languages": {
+        "amo": {
+          "official": false, 
+          "percent": 0.0087
+        }, 
+        "ar": {
+          "official": false, 
+          "percent": 0.071
+        }, 
+        "bin": {
+          "official": false, 
+          "percent": 0.71
+        }, 
+        "cch": {
+          "official": false, 
+          "percent": 0.021
+        }, 
+        "efi": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 53.0
+        }, 
+        "fuv": {
+          "official": false, 
+          "percent": 6.7
+        }, 
+        "ha": {
+          "official": false, 
+          "percent": 13.0
+        }, 
+        "ha_Arab": {
+          "official": false, 
+          "percent": 1.0
+        }, 
+        "ibb": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "ig": {
+          "official": false, 
+          "percent": 13.0
+        }, 
+        "kaj": {
+          "official": false, 
+          "percent": 0.21
+        }, 
+        "kcg": {
+          "official": false, 
+          "percent": 0.093
+        }, 
+        "pcm": {
+          "official": false, 
+          "percent": 21.0
+        }, 
+        "tiv": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "yo": {
+          "official": true, 
+          "percent": 13.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NZ", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 98.0
+        }, 
+        "mi": {
+          "official": true, 
+          "percent": 2.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NP", 
+      "languages": {
+        "awa": {
+          "official": false, 
+          "percent": 2.2
+        }, 
+        "bap": {
+          "official": false, 
+          "percent": 1.5
+        }, 
+        "bfy": {
+          "official": false, 
+          "percent": 0.54
+        }, 
+        "bho": {
+          "official": false, 
+          "percent": 6.8
+        }, 
+        "bn": {
+          "official": false, 
+          "percent": 0.094
+        }, 
+        "bo": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "dty": {
+          "official": false, 
+          "percent": 2.5
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "ggn": {
+          "official": false, 
+          "percent": 0.42
+        }, 
+        "gvr": {
+          "official": false, 
+          "percent": 0.29
+        }, 
+        "hi": {
+          "official": false, 
+          "percent": 0.42
+        }, 
+        "jml": {
+          "official": false, 
+          "percent": 3.2
+        }, 
+        "lep": {
+          "official": false, 
+          "percent": 0.0096
+        }, 
+        "lif": {
+          "official": false, 
+          "percent": 1.1
+        }, 
+        "mai": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "mgp": {
+          "official": false, 
+          "percent": 1.1
+        }, 
+        "mrd": {
+          "official": false, 
+          "percent": 0.83
+        }, 
+        "ne": {
+          "official": true, 
+          "percent": 44.0
+        }, 
+        "new": {
+          "official": false, 
+          "percent": 3.3
+        }, 
+        "rjs": {
+          "official": false, 
+          "percent": 0.44
+        }, 
+        "taj": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "tdg": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "tdh": {
+          "official": false, 
+          "percent": 0.12
+        }, 
+        "thl": {
+          "official": false, 
+          "percent": 2.0
+        }, 
+        "thq": {
+          "official": false, 
+          "percent": 1.0
+        }, 
+        "thr": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "tkt": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "tsf": {
+          "official": false, 
+          "percent": 0.43
+        }, 
+        "unr_Deva": {
+          "official": false, 
+          "percent": 0.019
+        }, 
+        "xsr": {
+          "official": false, 
+          "percent": 0.52
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NR", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 97.0
+        }, 
+        "na": {
+          "official": true, 
+          "percent": 71.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "NU", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 69.0
+        }, 
+        "niu": {
+          "official": true, 
+          "percent": 69.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CK", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "XK", 
+      "languages": {
+        "aln": {
+          "official": false, 
+          "percent": 74.0
+        }, 
+        "sq": {
+          "official": true, 
+          "percent": 92.0
+        }, 
+        "sr": {
+          "official": true, 
+          "percent": 5.0
+        }, 
+        "sr_Latn": {
+          "official": true, 
+          "percent": 5.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CI", 
+      "languages": {
+        "bci": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "bqv": {
+          "official": false, 
+          "percent": 0.17
+        }, 
+        "dnj": {
+          "official": false, 
+          "percent": 4.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 49.0
+        }, 
+        "kfo": {
+          "official": false, 
+          "percent": 0.23
+        }, 
+        "sef": {
+          "official": false, 
+          "percent": 4.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CH", 
+      "languages": {
+        "de": {
+          "official": true, 
+          "percent": 73.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 61.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 21.0
+        }, 
+        "gsw": {
+          "official": true, 
+          "percent": 65.0
+        }, 
+        "it": {
+          "official": true, 
+          "percent": 4.3
+        }, 
+        "lmo": {
+          "official": false, 
+          "percent": 4.1
+        }, 
+        "pt": {
+          "official": false, 
+          "percent": 3.4
+        }, 
+        "rm": {
+          "official": true, 
+          "percent": 0.5
+        }, 
+        "rmo": {
+          "official": false, 
+          "percent": 0.29
+        }, 
+        "wae": {
+          "official": false, 
+          "percent": 0.12
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CO", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "guc": {
+          "official": false, 
+          "percent": 0.27
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CN", 
+      "languages": {
+        "bo": {
+          "official": true, 
+          "percent": 0.2
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 0.0045
+        }, 
+        "gan": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "hak": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "hsn": {
+          "official": false, 
+          "percent": 2.9
+        }, 
+        "ii": {
+          "official": false, 
+          "percent": 0.6
+        }, 
+        "khb": {
+          "official": false, 
+          "percent": 0.019
+        }, 
+        "kk_Arab": {
+          "official": false, 
+          "percent": 0.086
+        }, 
+        "ko": {
+          "official": true, 
+          "percent": 0.15
+        }, 
+        "ky_Arab": {
+          "official": false, 
+          "percent": 0.034
+        }, 
+        "lcp": {
+          "official": false, 
+          "percent": 0.0058
+        }, 
+        "lis": {
+          "official": false, 
+          "percent": 0.045
+        }, 
+        "lzh": {
+          "official": false, 
+          "percent": 0.0
+        }, 
+        "mn_Mong": {
+          "official": true, 
+          "percent": 0.26
+        }, 
+        "nan": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "nxq": {
+          "official": false, 
+          "percent": 0.024
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 0.001
+        }, 
+        "tdd": {
+          "official": false, 
+          "percent": 0.019
+        }, 
+        "ug": {
+          "official": true, 
+          "percent": 0.55
+        }, 
+        "uz_Cyrl": {
+          "official": false, 
+          "percent": 0.0004
+        }, 
+        "vi": {
+          "official": false, 
+          "percent": 0.0005
+        }, 
+        "wuu": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "yue_Hans": {
+          "official": false, 
+          "percent": 5.2
+        }, 
+        "za": {
+          "official": true, 
+          "percent": 0.31
+        }, 
+        "zh": {
+          "official": true, 
+          "percent": 90.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CM", 
+      "languages": {
+        "agq": {
+          "official": false, 
+          "percent": 0.14
+        }, 
+        "ar": {
+          "official": false, 
+          "percent": 0.39
+        }, 
+        "bas": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "bax": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "bbj": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "bfd": {
+          "official": false, 
+          "percent": 0.57
+        }, 
+        "bkm": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "bss": {
+          "official": false, 
+          "percent": 0.54
+        }, 
+        "bum": {
+          "official": false, 
+          "percent": 4.6
+        }, 
+        "byv": {
+          "official": false, 
+          "percent": 1.1
+        }, 
+        "dua": {
+          "official": false, 
+          "percent": 0.48
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 38.0
+        }, 
+        "ewo": {
+          "official": false, 
+          "percent": 3.1
+        }, 
+        "ff": {
+          "official": false, 
+          "percent": 3.6
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 68.0
+        }, 
+        "ha_Arab": {
+          "official": false, 
+          "percent": 0.14
+        }, 
+        "jgo": {
+          "official": false, 
+          "percent": 0.34
+        }, 
+        "kkj": {
+          "official": false, 
+          "percent": 0.54
+        }, 
+        "ksf": {
+          "official": false, 
+          "percent": 0.32
+        }, 
+        "maf": {
+          "official": false, 
+          "percent": 0.73
+        }, 
+        "mgo": {
+          "official": false, 
+          "percent": 0.47
+        }, 
+        "mua": {
+          "official": false, 
+          "percent": 1.0
+        }, 
+        "nmg": {
+          "official": false, 
+          "percent": 0.036
+        }, 
+        "nnh": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "yav": {
+          "official": false, 
+          "percent": 0.0092
+        }, 
+        "ybb": {
+          "official": false, 
+          "percent": 1.6
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CL", 
+      "languages": {
+        "arn": {
+          "official": false, 
+          "percent": 1.5
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 9.5
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CC", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 17.0
+        }, 
+        "ms_Arab": {
+          "official": false, 
+          "percent": 83.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CA", 
+      "languages": {
+        "atj": {
+          "official": false, 
+          "percent": 0.016
+        }, 
+        "chp": {
+          "official": false, 
+          "percent": 0.0022
+        }, 
+        "cr": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "crj": {
+          "official": false, 
+          "percent": 0.021
+        }, 
+        "crk": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "crl": {
+          "official": false, 
+          "percent": 0.015
+        }, 
+        "crm": {
+          "official": false, 
+          "percent": 0.013
+        }, 
+        "csw": {
+          "official": false, 
+          "percent": 0.014
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "den": {
+          "official": false, 
+          "percent": 0.0065
+        }, 
+        "dgr": {
+          "official": false, 
+          "percent": 0.0074
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 86.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 22.0
+        }, 
+        "gwi": {
+          "official": false, 
+          "percent": 0.0016
+        }, 
+        "ikt": {
+          "official": true, 
+          "percent": 0.011
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 2.0
+        }, 
+        "iu": {
+          "official": true, 
+          "percent": 0.042
+        }, 
+        "iu_Latn": {
+          "official": true, 
+          "percent": 0.042
+        }, 
+        "moe": {
+          "official": false, 
+          "percent": 0.033
+        }, 
+        "moh": {
+          "official": false, 
+          "percent": 0.0098
+        }, 
+        "nsk": {
+          "official": false, 
+          "percent": 0.0033
+        }, 
+        "pdt": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "scs": {
+          "official": false, 
+          "percent": 0.0035
+        }, 
+        "yi": {
+          "official": false, 
+          "percent": 0.045
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CG", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 84.0
+        }, 
+        "ln": {
+          "official": false, 
+          "percent": 2.4
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CF", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 49.0
+        }, 
+        "ln": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "sg": {
+          "official": true, 
+          "percent": 49.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CD", 
+      "languages": {
+        "fr": {
+          "official": true, 
+          "percent": 3.8
+        }, 
+        "kg": {
+          "official": true, 
+          "percent": 1.5
+        }, 
+        "ln": {
+          "official": true, 
+          "percent": 3.1
+        }, 
+        "lol": {
+          "official": false, 
+          "percent": 0.61
+        }, 
+        "lu": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "lua": {
+          "official": true, 
+          "percent": 9.6
+        }, 
+        "rw": {
+          "official": false, 
+          "percent": 0.38
+        }, 
+        "sw": {
+          "official": true, 
+          "percent": 50.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CZ", 
+      "languages": {
+        "cs": {
+          "official": true, 
+          "percent": 98.0
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 15.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 27.0
+        }, 
+        "pl": {
+          "official": false, 
+          "percent": 0.49
+        }, 
+        "sk": {
+          "official": false, 
+          "percent": 16.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CY", 
+      "languages": {
+        "ar": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "el": {
+          "official": true, 
+          "percent": 95.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 73.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 7.0
+        }, 
+        "hy": {
+          "official": false, 
+          "percent": 0.22
+        }, 
+        "tr": {
+          "official": true, 
+          "percent": 23.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CX", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 63.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CR", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CP", 
+      "languages": {
+        "und": {
+          "official": false, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CW", 
+      "languages": {
+        "es": {
+          "official": false, 
+          "percent": 3.8
+        }, 
+        "nl": {
+          "official": true, 
+          "percent": 8.0
+        }, 
+        "pap": {
+          "official": true, 
+          "percent": 81.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CV", 
+      "languages": {
+        "kea": {
+          "official": false, 
+          "percent": 91.0
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 76.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "CU", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SZ", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 80.0
+        }, 
+        "ss": {
+          "official": true, 
+          "percent": 58.0
+        }, 
+        "ts": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "zu": {
+          "official": false, 
+          "percent": 6.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SY", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 80.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 5.9
+        }, 
+        "hy": {
+          "official": false, 
+          "percent": 1.8
+        }, 
+        "ku": {
+          "official": false, 
+          "percent": 8.0
+        }, 
+        "syr": {
+          "official": false, 
+          "percent": 0.084
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SX", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 68.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 12.0
+        }, 
+        "nl": {
+          "official": true, 
+          "percent": 3.8
+        }, 
+        "vic": {
+          "official": false, 
+          "percent": 7.4
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KG", 
+      "languages": {
+        "ky": {
+          "official": true, 
+          "percent": 48.0
+        }, 
+        "ru": {
+          "official": true, 
+          "percent": 36.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KE", 
+      "languages": {
+        "ar": {
+          "official": false, 
+          "percent": 0.046
+        }, 
+        "dav": {
+          "official": false, 
+          "percent": 0.82
+        }, 
+        "ebu": {
+          "official": false, 
+          "percent": 1.5
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 19.0
+        }, 
+        "gu": {
+          "official": false, 
+          "percent": 0.011
+        }, 
+        "guz": {
+          "official": false, 
+          "percent": 4.9
+        }, 
+        "kam": {
+          "official": false, 
+          "percent": 7.6
+        }, 
+        "ki": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "kln": {
+          "official": false, 
+          "percent": 7.6
+        }, 
+        "luo": {
+          "official": false, 
+          "percent": 9.8
+        }, 
+        "luy": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "mas": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "mer": {
+          "official": false, 
+          "percent": 4.0
+        }, 
+        "om": {
+          "official": false, 
+          "percent": 0.47
+        }, 
+        "pa": {
+          "official": false, 
+          "percent": 0.021
+        }, 
+        "pko": {
+          "official": false, 
+          "percent": 0.7
+        }, 
+        "saq": {
+          "official": false, 
+          "percent": 0.46
+        }, 
+        "so": {
+          "official": false, 
+          "percent": 1.3
+        }, 
+        "sw": {
+          "official": true, 
+          "percent": 66.0
+        }, 
+        "teo": {
+          "official": false, 
+          "percent": 0.74
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SS", 
+      "languages": {
+        "ar": {
+          "official": false, 
+          "percent": 27.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 27.0
+        }, 
+        "nus": {
+          "official": false, 
+          "percent": 5.6
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SR", 
+      "languages": {
+        "nl": {
+          "official": true, 
+          "percent": 90.0
+        }, 
+        "srn": {
+          "official": false, 
+          "percent": 68.0
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 1.2
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KI", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "gil": {
+          "official": true, 
+          "percent": 60.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KH", 
+      "languages": {
+        "cja": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "kdt": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "km": {
+          "official": true, 
+          "percent": 89.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KN", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KM", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 66.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 56.0
+        }, 
+        "wni": {
+          "official": true, 
+          "percent": 34.0
+        }, 
+        "zdj": {
+          "official": true, 
+          "percent": 37.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ST", 
+      "languages": {
+        "pt": {
+          "official": true, 
+          "percent": 85.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SK", 
+      "languages": {
+        "cs": {
+          "official": false, 
+          "percent": 47.0
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 22.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 26.0
+        }, 
+        "hu": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "pl": {
+          "official": false, 
+          "percent": 0.93
+        }, 
+        "sk": {
+          "official": true, 
+          "percent": 90.0
+        }, 
+        "uk": {
+          "official": false, 
+          "percent": 1.9
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KR", 
+      "languages": {
+        "ko": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SI", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 42.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 59.0
+        }, 
+        "hr": {
+          "official": false, 
+          "percent": 61.0
+        }, 
+        "hu": {
+          "official": false, 
+          "percent": 0.47
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 0.2
+        }, 
+        "sl": {
+          "official": true, 
+          "percent": 87.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KP", 
+      "languages": {
+        "ko": {
+          "official": true, 
+          "percent": 88.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KW", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SN", 
+      "languages": {
+        "bjt": {
+          "official": true, 
+          "percent": 0.61
+        }, 
+        "bsc": {
+          "official": true, 
+          "percent": 0.098
+        }, 
+        "dyo": {
+          "official": true, 
+          "percent": 2.6
+        }, 
+        "ff": {
+          "official": true, 
+          "percent": 21.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 39.0
+        }, 
+        "knf": {
+          "official": true, 
+          "percent": 0.21
+        }, 
+        "mey": {
+          "official": true, 
+          "percent": 0.049
+        }, 
+        "mfv": {
+          "official": true, 
+          "percent": 0.77
+        }, 
+        "sav": {
+          "official": true, 
+          "percent": 1.5
+        }, 
+        "snf": {
+          "official": true, 
+          "percent": 0.24
+        }, 
+        "srr": {
+          "official": true, 
+          "percent": 11.0
+        }, 
+        "tnr": {
+          "official": true, 
+          "percent": 0.023
+        }, 
+        "wo": {
+          "official": true, 
+          "percent": 70.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SM", 
+      "languages": {
+        "eo": {
+          "official": false, 
+          "percent": 0.89
+        }, 
+        "it": {
+          "official": true, 
+          "percent": 89.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SL", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 35.0
+        }, 
+        "kri": {
+          "official": false, 
+          "percent": 95.0
+        }, 
+        "men": {
+          "official": false, 
+          "percent": 27.0
+        }, 
+        "tem": {
+          "official": false, 
+          "percent": 26.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SC", 
+      "languages": {
+        "crs": {
+          "official": false, 
+          "percent": 98.0
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 38.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 60.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KZ", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 6.4
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 15.0
+        }, 
+        "kk": {
+          "official": true, 
+          "percent": 64.0
+        }, 
+        "ru": {
+          "official": true, 
+          "percent": 72.0
+        }, 
+        "ug_Cyrl": {
+          "official": false, 
+          "percent": 2.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "KY", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SG", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "ml": {
+          "official": false, 
+          "percent": 0.17
+        }, 
+        "ms": {
+          "official": true, 
+          "percent": 14.0
+        }, 
+        "pa": {
+          "official": false, 
+          "percent": 0.16
+        }, 
+        "ta": {
+          "official": true, 
+          "percent": 2.1
+        }, 
+        "zh": {
+          "official": true, 
+          "percent": 77.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SE", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 86.0
+        }, 
+        "fi": {
+          "official": true, 
+          "percent": 2.2
+        }, 
+        "fit": {
+          "official": false, 
+          "percent": 0.55
+        }, 
+        "ia": {
+          "official": false, 
+          "percent": 0.0
+        }, 
+        "rmu": {
+          "official": false, 
+          "percent": 0.095
+        }, 
+        "se": {
+          "official": false, 
+          "percent": 0.33
+        }, 
+        "sma": {
+          "official": false, 
+          "percent": 0.003
+        }, 
+        "smj": {
+          "official": false, 
+          "percent": 0.015
+        }, 
+        "sv": {
+          "official": true, 
+          "percent": 95.0
+        }, 
+        "yi": {
+          "official": false, 
+          "percent": 0.03
+        }
+      }
+    }, 
+    {
+      "alpha_2": "SD", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 61.0
+        }, 
+        "bej": {
+          "official": false, 
+          "percent": 5.4
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 61.0
+        }, 
+        "fia": {
+          "official": false, 
+          "percent": 0.83
+        }, 
+        "fvr": {
+          "official": false, 
+          "percent": 2.7
+        }, 
+        "ha_Arab": {
+          "official": false, 
+          "percent": 1.8
+        }, 
+        "mls": {
+          "official": false, 
+          "percent": 0.99
+        }, 
+        "zag": {
+          "official": false, 
+          "percent": 0.51
+        }
+      }
+    }, 
+    {
+      "alpha_2": "DO", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 0.075
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 78.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "DM", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 94.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "DJ", 
+      "languages": {
+        "aa": {
+          "official": false, 
+          "percent": 42.0
+        }, 
+        "ar": {
+          "official": true, 
+          "percent": 7.3
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 2.1
+        }, 
+        "so": {
+          "official": false, 
+          "percent": 41.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "DK", 
+      "languages": {
+        "da": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "de": {
+          "official": true, 
+          "percent": 47.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 86.0
+        }, 
+        "fo": {
+          "official": false, 
+          "percent": 0.38
+        }, 
+        "jut": {
+          "official": false, 
+          "percent": 0.0
+        }, 
+        "kl": {
+          "official": true, 
+          "percent": 0.12
+        }, 
+        "sv": {
+          "official": false, 
+          "percent": 13.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "VG", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "DG", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 99.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "DE", 
+      "languages": {
+        "bar": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "da": {
+          "official": false, 
+          "percent": 2.0
+        }, 
+        "de": {
+          "official": true, 
+          "percent": 91.0
+        }, 
+        "dsb": {
+          "official": false, 
+          "percent": 0.0087
+        }, 
+        "el": {
+          "official": false, 
+          "percent": 0.38
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 64.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 18.0
+        }, 
+        "frr": {
+          "official": false, 
+          "percent": 0.012
+        }, 
+        "frs": {
+          "official": false, 
+          "percent": 0.0025
+        }, 
+        "gsw": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "hr": {
+          "official": false, 
+          "percent": 0.79
+        }, 
+        "hsb": {
+          "official": false, 
+          "percent": 0.016
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 7.0
+        }, 
+        "ksh": {
+          "official": false, 
+          "percent": 0.3
+        }, 
+        "ku": {
+          "official": false, 
+          "percent": 0.66
+        }, 
+        "nds": {
+          "official": false, 
+          "percent": 12.0
+        }, 
+        "nl": {
+          "official": false, 
+          "percent": 9.0
+        }, 
+        "pfl": {
+          "official": false, 
+          "percent": 0.0
+        }, 
+        "pl": {
+          "official": false, 
+          "percent": 0.29
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 6.0
+        }, 
+        "stq": {
+          "official": false, 
+          "percent": 0.0012
+        }, 
+        "swg": {
+          "official": false, 
+          "percent": 1.0
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 2.5
+        }, 
+        "vmf": {
+          "official": false, 
+          "percent": 6.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "YE", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 74.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 9.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "DZ", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 74.0
+        }, 
+        "arq": {
+          "official": false, 
+          "percent": 83.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 7.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 20.0
+        }, 
+        "kab": {
+          "official": false, 
+          "percent": 7.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "US", 
+      "languages": {
+        "cho": {
+          "official": false, 
+          "percent": 0.0033
+        }, 
+        "chr": {
+          "official": false, 
+          "percent": 0.0077
+        }, 
+        "dak": {
+          "official": false, 
+          "percent": 0.0059
+        }, 
+        "de": {
+          "official": false, 
+          "percent": 0.47
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 96.0
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 9.6
+        }, 
+        "esu": {
+          "official": false, 
+          "percent": 0.0062
+        }, 
+        "fil": {
+          "official": false, 
+          "percent": 0.42
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 0.56
+        }, 
+        "frc": {
+          "official": false, 
+          "percent": 0.0084
+        }, 
+        "haw": {
+          "official": true, 
+          "percent": 0.0089
+        }, 
+        "ik": {
+          "official": false, 
+          "percent": 0.0024
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 0.34
+        }, 
+        "ko": {
+          "official": false, 
+          "percent": 0.3
+        }, 
+        "lkt": {
+          "official": false, 
+          "percent": 0.0025
+        }, 
+        "mus": {
+          "official": false, 
+          "percent": 0.0012
+        }, 
+        "nv": {
+          "official": false, 
+          "percent": 0.05
+        }, 
+        "pdc": {
+          "official": false, 
+          "percent": 0.039
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "vi": {
+          "official": false, 
+          "percent": 0.34
+        }, 
+        "yi": {
+          "official": false, 
+          "percent": 0.049
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 0.69
+        }
+      }
+    }, 
+    {
+      "alpha_2": "UY", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 88.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "YT", 
+      "languages": {
+        "buc": {
+          "official": false, 
+          "percent": 23.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 57.0
+        }, 
+        "sw": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "swb": {
+          "official": false, 
+          "percent": 88.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "UM", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LB", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 86.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 40.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 0.37
+        }, 
+        "hy": {
+          "official": false, 
+          "percent": 5.2
+        }, 
+        "ku_Arab": {
+          "official": false, 
+          "percent": 1.6
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LC", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 90.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LA", 
+      "languages": {
+        "kdt": {
+          "official": false, 
+          "percent": 0.96
+        }, 
+        "kjg": {
+          "official": false, 
+          "percent": 5.8
+        }, 
+        "lo": {
+          "official": true, 
+          "percent": 69.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TV", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 9.7
+        }, 
+        "tvl": {
+          "official": true, 
+          "percent": 90.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TW", 
+      "languages": {
+        "trv": {
+          "official": false, 
+          "percent": 0.02
+        }, 
+        "zh_Hant": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TT", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 88.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 0.34
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TR", 
+      "languages": {
+        "ab": {
+          "official": false, 
+          "percent": 0.0049
+        }, 
+        "ady": {
+          "official": false, 
+          "percent": 0.39
+        }, 
+        "ar": {
+          "official": false, 
+          "percent": 0.56
+        }, 
+        "az": {
+          "official": false, 
+          "percent": 0.74
+        }, 
+        "az_Arab": {
+          "official": false, 
+          "percent": 0.65
+        }, 
+        "bg": {
+          "official": false, 
+          "percent": 0.42
+        }, 
+        "bgx": {
+          "official": false, 
+          "percent": 0.46
+        }, 
+        "el": {
+          "official": false, 
+          "percent": 0.0049
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "hy": {
+          "official": false, 
+          "percent": 0.056
+        }, 
+        "ka": {
+          "official": false, 
+          "percent": 0.056
+        }, 
+        "kbd": {
+          "official": false, 
+          "percent": 0.77
+        }, 
+        "kiu": {
+          "official": false, 
+          "percent": 0.19
+        }, 
+        "kk": {
+          "official": false, 
+          "percent": 0.0007
+        }, 
+        "ku": {
+          "official": false, 
+          "percent": 5.5
+        }, 
+        "ky_Latn": {
+          "official": false, 
+          "percent": 0.0014
+        }, 
+        "lzz": {
+          "official": false, 
+          "percent": 0.028
+        }, 
+        "sq": {
+          "official": false, 
+          "percent": 0.021
+        }, 
+        "sr_Latn": {
+          "official": false, 
+          "percent": 0.028
+        }, 
+        "tr": {
+          "official": true, 
+          "percent": 93.0
+        }, 
+        "tru": {
+          "official": false, 
+          "percent": 0.0037
+        }, 
+        "uz": {
+          "official": false, 
+          "percent": 0.0024
+        }, 
+        "zza": {
+          "official": false, 
+          "percent": 1.4
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LK", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 10.0
+        }, 
+        "si": {
+          "official": true, 
+          "percent": 68.0
+        }, 
+        "ta": {
+          "official": true, 
+          "percent": 15.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LI", 
+      "languages": {
+        "de": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "gsw": {
+          "official": true, 
+          "percent": 85.0
+        }, 
+        "wae": {
+          "official": false, 
+          "percent": 3.4
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LV", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 46.0
+        }, 
+        "ltg": {
+          "official": false, 
+          "percent": 8.9
+        }, 
+        "lv": {
+          "official": true, 
+          "percent": 61.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 38.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TO", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 28.0
+        }, 
+        "to": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LT", 
+      "languages": {
+        "de": {
+          "official": false, 
+          "percent": 14.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 38.0
+        }, 
+        "lt": {
+          "official": true, 
+          "percent": 86.0
+        }, 
+        "ru": {
+          "official": false, 
+          "percent": 80.0
+        }, 
+        "sgs": {
+          "official": false, 
+          "percent": 0.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LU", 
+      "languages": {
+        "de": {
+          "official": true, 
+          "percent": 63.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 56.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 87.0
+        }, 
+        "lb": {
+          "official": true, 
+          "percent": 67.0
+        }, 
+        "pt": {
+          "official": false, 
+          "percent": 16.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LR", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 83.0
+        }, 
+        "kpe": {
+          "official": false, 
+          "percent": 14.0
+        }, 
+        "men": {
+          "official": false, 
+          "percent": 0.48
+        }, 
+        "vai": {
+          "official": false, 
+          "percent": 2.6
+        }, 
+        "vai_Latn": {
+          "official": false, 
+          "percent": 0.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LS", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 27.0
+        }, 
+        "ss": {
+          "official": false, 
+          "percent": 2.4
+        }, 
+        "st": {
+          "official": true, 
+          "percent": 98.0
+        }, 
+        "xh": {
+          "official": false, 
+          "percent": 0.99
+        }, 
+        "zu": {
+          "official": false, 
+          "percent": 14.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TH", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 27.0
+        }, 
+        "kdt": {
+          "official": false, 
+          "percent": 0.48
+        }, 
+        "kxm": {
+          "official": false, 
+          "percent": 1.7
+        }, 
+        "lcp": {
+          "official": false, 
+          "percent": 0.01
+        }, 
+        "lwl": {
+          "official": false, 
+          "percent": 0.01
+        }, 
+        "mfa": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "mnw": {
+          "official": false, 
+          "percent": 0.17
+        }, 
+        "nod": {
+          "official": false, 
+          "percent": 9.6
+        }, 
+        "shn": {
+          "official": false, 
+          "percent": 0.096
+        }, 
+        "sou": {
+          "official": false, 
+          "percent": 8.0
+        }, 
+        "th": {
+          "official": true, 
+          "percent": 80.0
+        }, 
+        "tts": {
+          "official": false, 
+          "percent": 24.0
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 1.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TF", 
+      "languages": {
+        "fr": {
+          "official": false, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TG", 
+      "languages": {
+        "ee": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 61.0
+        }, 
+        "ife": {
+          "official": false, 
+          "percent": 1.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TD", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 17.0
+        }, 
+        "fr": {
+          "official": true, 
+          "percent": 26.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "TC", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "LY", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 74.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "VA", 
+      "languages": {
+        "it": {
+          "official": true, 
+          "percent": 82.0
+        }, 
+        "la": {
+          "official": false, 
+          "percent": 82.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AC", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 99.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "VC", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 96.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AE", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 78.0
+        }, 
+        "bal": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "fa": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "ml": {
+          "official": false, 
+          "percent": 7.0
+        }, 
+        "ps": {
+          "official": false, 
+          "percent": 2.9
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AD", 
+      "languages": {
+        "ca": {
+          "official": true, 
+          "percent": 51.0
+        }, 
+        "es": {
+          "official": false, 
+          "percent": 43.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 6.7
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AG", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 86.0
+        }, 
+        "pt": {
+          "official": false, 
+          "percent": 1.7
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AF", 
+      "languages": {
+        "bal": {
+          "official": true, 
+          "percent": 0.67
+        }, 
+        "bgn": {
+          "official": false, 
+          "percent": 0.63
+        }, 
+        "fa": {
+          "official": true, 
+          "percent": 50.0
+        }, 
+        "haz": {
+          "official": false, 
+          "percent": 5.9
+        }, 
+        "kk_Arab": {
+          "official": false, 
+          "percent": 0.0059
+        }, 
+        "prd": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "ps": {
+          "official": true, 
+          "percent": 43.0
+        }, 
+        "tk": {
+          "official": true, 
+          "percent": 1.7
+        }, 
+        "ug": {
+          "official": false, 
+          "percent": 0.0088
+        }, 
+        "uz_Arab": {
+          "official": true, 
+          "percent": 4.7
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AI", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 95.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "VI", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 75.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IS", 
+      "languages": {
+        "da": {
+          "official": false, 
+          "percent": 0.66
+        }, 
+        "is": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IR", 
+      "languages": {
+        "ar": {
+          "official": false, 
+          "percent": 2.0
+        }, 
+        "az_Arab": {
+          "official": false, 
+          "percent": 24.0
+        }, 
+        "bal": {
+          "official": false, 
+          "percent": 2.0
+        }, 
+        "bgn": {
+          "official": false, 
+          "percent": 0.56
+        }, 
+        "bqi": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "ckb": {
+          "official": false, 
+          "percent": 3.9
+        }, 
+        "fa": {
+          "official": true, 
+          "percent": 75.0
+        }, 
+        "gbz": {
+          "official": false, 
+          "percent": 0.0098
+        }, 
+        "glk": {
+          "official": false, 
+          "percent": 4.6
+        }, 
+        "hy": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "ka": {
+          "official": false, 
+          "percent": 0.071
+        }, 
+        "kk_Arab": {
+          "official": false, 
+          "percent": 0.0037
+        }, 
+        "lki": {
+          "official": false, 
+          "percent": 0.76
+        }, 
+        "lrc": {
+          "official": false, 
+          "percent": 2.1
+        }, 
+        "luz": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "mzn": {
+          "official": false, 
+          "percent": 5.0
+        }, 
+        "prd": {
+          "official": false, 
+          "percent": 0.5
+        }, 
+        "ps": {
+          "official": false, 
+          "percent": 0.16
+        }, 
+        "rmt": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "sdh": {
+          "official": false, 
+          "percent": 3.7
+        }, 
+        "tk": {
+          "official": false, 
+          "percent": 2.8
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AM", 
+      "languages": {
+        "az": {
+          "official": false, 
+          "percent": 0.0
+        }, 
+        "hy": {
+          "official": true, 
+          "percent": 98.0
+        }, 
+        "ku": {
+          "official": false, 
+          "percent": 3.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AL", 
+      "languages": {
+        "el": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "mk": {
+          "official": false, 
+          "percent": 0.47
+        }, 
+        "sq": {
+          "official": true, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AO", 
+      "languages": {
+        "kmb": {
+          "official": false, 
+          "percent": 25.0
+        }, 
+        "ln": {
+          "official": false, 
+          "percent": 0.67
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 67.0
+        }, 
+        "umb": {
+          "official": false, 
+          "percent": 29.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AQ", 
+      "languages": {
+        "und": {
+          "official": false, 
+          "percent": 100.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AS", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 97.0
+        }, 
+        "sm": {
+          "official": true, 
+          "percent": 99.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AR", 
+      "languages": {
+        "cy": {
+          "official": false, 
+          "percent": 0.066
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 7.0
+        }, 
+        "es": {
+          "official": true, 
+          "percent": 100.0
+        }, 
+        "gn": {
+          "official": false, 
+          "percent": 0.047
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AU", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 96.0
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "wbp": {
+          "official": false, 
+          "percent": 0.011
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 2.1
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AT", 
+      "languages": {
+        "bar": {
+          "official": false, 
+          "percent": 95.0
+        }, 
+        "de": {
+          "official": true, 
+          "percent": 97.0
+        }, 
+        "en": {
+          "official": false, 
+          "percent": 73.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "hr": {
+          "official": true, 
+          "percent": 1.2
+        }, 
+        "hu": {
+          "official": true, 
+          "percent": 0.27
+        }, 
+        "it": {
+          "official": false, 
+          "percent": 9.0
+        }, 
+        "sl": {
+          "official": true, 
+          "percent": 0.37
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AW", 
+      "languages": {
+        "en": {
+          "official": false, 
+          "percent": 2.6
+        }, 
+        "nl": {
+          "official": true, 
+          "percent": 97.0
+        }, 
+        "pap": {
+          "official": true, 
+          "percent": 61.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IN", 
+      "languages": {
+        "as": {
+          "official": true, 
+          "percent": 1.3
+        }, 
+        "awa": {
+          "official": false, 
+          "percent": 1.9
+        }, 
+        "bfq": {
+          "official": false, 
+          "percent": 0.023
+        }, 
+        "bft": {
+          "official": false, 
+          "percent": 0.0062
+        }, 
+        "bfy": {
+          "official": false, 
+          "percent": 0.037
+        }, 
+        "bgc": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "bhb": {
+          "official": false, 
+          "percent": 0.12
+        }, 
+        "bhi": {
+          "official": false, 
+          "percent": 0.092
+        }, 
+        "bho": {
+          "official": false, 
+          "percent": 2.3
+        }, 
+        "bjj": {
+          "official": false, 
+          "percent": 0.56
+        }, 
+        "bn": {
+          "official": true, 
+          "percent": 8.1
+        }, 
+        "bo": {
+          "official": false, 
+          "percent": 0.011
+        }, 
+        "bpy": {
+          "official": false, 
+          "percent": 0.0068
+        }, 
+        "bra": {
+          "official": false, 
+          "percent": 0.0041
+        }, 
+        "brx": {
+          "official": false, 
+          "percent": 0.14
+        }, 
+        "btv": {
+          "official": false, 
+          "percent": 0.0026
+        }, 
+        "ccp": {
+          "official": false, 
+          "percent": 0.028
+        }, 
+        "dcc": {
+          "official": false, 
+          "percent": 0.99
+        }, 
+        "doi": {
+          "official": false, 
+          "percent": 0.19
+        }, 
+        "dv": {
+          "official": false, 
+          "percent": 0.0004
+        }, 
+        "dz": {
+          "official": false, 
+          "percent": 0.0002
+        }, 
+        "en": {
+          "official": true, 
+          "percent": 19.0
+        }, 
+        "gbm": {
+          "official": false, 
+          "percent": 0.27
+        }, 
+        "gom": {
+          "official": false, 
+          "percent": 0.32
+        }, 
+        "gon": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "grt": {
+          "official": false, 
+          "percent": 0.053
+        }, 
+        "gu": {
+          "official": true, 
+          "percent": 4.5
+        }, 
+        "hi": {
+          "official": true, 
+          "percent": 41.0
+        }, 
+        "hne": {
+          "official": false, 
+          "percent": 1.1
+        }, 
+        "hoc": {
+          "official": false, 
+          "percent": 0.099
+        }, 
+        "hoj": {
+          "official": false, 
+          "percent": 0.082
+        }, 
+        "kfr": {
+          "official": false, 
+          "percent": 0.075
+        }, 
+        "kfy": {
+          "official": false, 
+          "percent": 0.22
+        }, 
+        "kha": {
+          "official": true, 
+          "percent": 0.08
+        }, 
+        "khn": {
+          "official": false, 
+          "percent": 0.15
+        }, 
+        "kht": {
+          "official": false, 
+          "percent": 0.0007
+        }, 
+        "kn": {
+          "official": true, 
+          "percent": 3.7
+        }, 
+        "kok": {
+          "official": true, 
+          "percent": 0.37
+        }, 
+        "kru": {
+          "official": false, 
+          "percent": 0.19
+        }, 
+        "ks": {
+          "official": true, 
+          "percent": 0.41
+        }, 
+        "lah": {
+          "official": false, 
+          "percent": 0.0025
+        }, 
+        "lep": {
+          "official": false, 
+          "percent": 0.0035
+        }, 
+        "lif": {
+          "official": false, 
+          "percent": 0.0026
+        }, 
+        "lmn": {
+          "official": false, 
+          "percent": 0.27
+        }, 
+        "mag": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "mai": {
+          "official": true, 
+          "percent": 1.2
+        }, 
+        "ml": {
+          "official": true, 
+          "percent": 3.2
+        }, 
+        "mni": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "mr": {
+          "official": true, 
+          "percent": 7.0
+        }, 
+        "mtr": {
+          "official": false, 
+          "percent": 0.098
+        }, 
+        "mwr": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "ne": {
+          "official": true, 
+          "percent": 0.56
+        }, 
+        "njo": {
+          "official": false, 
+          "percent": 0.023
+        }, 
+        "noe": {
+          "official": false, 
+          "percent": 0.13
+        }, 
+        "or": {
+          "official": true, 
+          "percent": 3.2
+        }, 
+        "pa": {
+          "official": true, 
+          "percent": 2.8
+        }, 
+        "raj": {
+          "official": false, 
+          "percent": 0.1
+        }, 
+        "ria": {
+          "official": false, 
+          "percent": 0.013
+        }, 
+        "rkt": {
+          "official": false, 
+          "percent": 0.44
+        }, 
+        "sa": {
+          "official": true, 
+          "percent": 0.0012
+        }, 
+        "sat": {
+          "official": true, 
+          "percent": 0.55
+        }, 
+        "saz": {
+          "official": false, 
+          "percent": 0.029
+        }, 
+        "sck": {
+          "official": false, 
+          "percent": 0.18
+        }, 
+        "sd": {
+          "official": true, 
+          "percent": 0.26
+        }, 
+        "sd_Deva": {
+          "official": true, 
+          "percent": 0.026
+        }, 
+        "srx": {
+          "official": false, 
+          "percent": 0.035
+        }, 
+        "swv": {
+          "official": false, 
+          "percent": 0.28
+        }, 
+        "ta": {
+          "official": true, 
+          "percent": 5.9
+        }, 
+        "tcy": {
+          "official": false, 
+          "percent": 0.15
+        }, 
+        "te": {
+          "official": true, 
+          "percent": 7.2
+        }, 
+        "unr": {
+          "official": false, 
+          "percent": 0.095
+        }, 
+        "unx": {
+          "official": false, 
+          "percent": 0.048
+        }, 
+        "ur": {
+          "official": true, 
+          "percent": 5.0
+        }, 
+        "wbq": {
+          "official": false, 
+          "percent": 0.18
+        }, 
+        "wbr": {
+          "official": false, 
+          "percent": 0.15
+        }, 
+        "wtm": {
+          "official": false, 
+          "percent": 0.46
+        }, 
+        "xnr": {
+          "official": false, 
+          "percent": 0.16
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AX", 
+      "languages": {
+        "sv": {
+          "official": true, 
+          "percent": 99.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IC", 
+      "languages": {
+        "es": {
+          "official": true, 
+          "percent": 98.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "AZ", 
+      "languages": {
+        "az": {
+          "official": true, 
+          "percent": 89.0
+        }, 
+        "az_Cyrl": {
+          "official": true, 
+          "percent": 9.9
+        }, 
+        "ku": {
+          "official": false, 
+          "percent": 0.24
+        }, 
+        "tkr": {
+          "official": false, 
+          "percent": 0.16
+        }, 
+        "tly": {
+          "official": false, 
+          "percent": 9.8
+        }, 
+        "ttt": {
+          "official": false, 
+          "percent": 0.22
+        }
+      }
+    }, 
+    {
+      "alpha_2": "IE", 
+      "languages": {
+        "en": {
+          "official": true, 
+          "percent": 98.0
+        }, 
+        "fr": {
+          "official": false, 
+          "percent": 17.0
+        }, 
+        "ga": {
+          "official": true, 
+          "percent": 22.0
+        }
+      }
+    }, 
+    {
+      "alpha_2": "ID", 
+      "languages": {
+        "ace": {
+          "official": false, 
+          "percent": 1.4
+        }, 
+        "aoz": {
+          "official": false, 
+          "percent": 0.27
+        }, 
+        "ban": {
+          "official": false, 
+          "percent": 1.8
+        }, 
+        "bbc": {
+          "official": false, 
+          "percent": 0.92
+        }, 
+        "bew": {
+          "official": false, 
+          "percent": 2.1
+        }, 
+        "bjn": {
+          "official": false, 
+          "percent": 1.5
+        }, 
+        "bug": {
+          "official": false, 
+          "percent": 1.6
+        }, 
+        "gay": {
+          "official": false, 
+          "percent": 0.12
+        }, 
+        "gor": {
+          "official": false, 
+          "percent": 0.41
+        }, 
+        "id": {
+          "official": true, 
+          "percent": 64.0
+        }, 
+        "jv": {
+          "official": false, 
+          "percent": 34.0
+        }, 
+        "kge": {
+          "official": false, 
+          "percent": 0.32
+        }, 
+        "kvr": {
+          "official": false, 
+          "percent": 0.14
+        }, 
+        "lbw": {
+          "official": false, 
+          "percent": 0.13
+        }, 
+        "ljp": {
+          "official": false, 
+          "percent": 0.69
+        }, 
+        "mad": {
+          "official": false, 
+          "percent": 6.3
+        }, 
+        "mak": {
+          "official": false, 
+          "percent": 0.73
+        }, 
+        "mdr": {
+          "official": false, 
+          "percent": 0.092
+        }, 
+        "min": {
+          "official": false, 
+          "percent": 3.0
+        }, 
+        "ms_Arab": {
+          "official": false, 
+          "percent": 4.6
+        }, 
+        "mwv": {
+          "official": false, 
+          "percent": 0.024
+        }, 
+        "nij": {
+          "official": false, 
+          "percent": 0.37
+        }, 
+        "rej": {
+          "official": false, 
+          "percent": 0.46
+        }, 
+        "rob": {
+          "official": false, 
+          "percent": 0.11
+        }, 
+        "sas": {
+          "official": false, 
+          "percent": 0.97
+        }, 
+        "sly": {
+          "official": false, 
+          "percent": 0.054
+        }, 
+        "su": {
+          "official": false, 
+          "percent": 12.0
+        }, 
+        "sxn": {
+          "official": false, 
+          "percent": 0.092
+        }, 
+        "zh_Hant": {
+          "official": false, 
+          "percent": 0.92
+        }
+      }
+    }, 
+    {
+      "alpha_2": "UA", 
+      "languages": {
+        "be": {
+          "official": false, 
+          "percent": 0.83
+        }, 
+        "bg": {
+          "official": false, 
+          "percent": 0.49
+        }, 
+        "crh": {
+          "official": false, 
+          "percent": 0.56
+        }, 
+        "el": {
+          "official": false, 
+          "percent": 0.016
+        }, 
+        "hu": {
+          "official": false, 
+          "percent": 0.37
+        }, 
+        "pl": {
+          "official": false, 
+          "percent": 2.4
+        }, 
+        "ro": {
+          "official": false, 
+          "percent": 0.52
+        }, 
+        "ru": {
+          "official": true, 
+          "percent": 46.0
+        }, 
+        "rue": {
+          "official": false, 
+          "percent": 1.2
+        }, 
+        "tr": {
+          "official": false, 
+          "percent": 0.42
+        }, 
+        "uk": {
+          "official": true, 
+          "percent": 65.0
+        }, 
+        "yi": {
+          "official": false, 
+          "percent": 1.3
+        }
+      }
+    }, 
+    {
+      "alpha_2": "QA", 
+      "languages": {
+        "ar": {
+          "official": true, 
+          "percent": 89.0
+        }, 
+        "fa": {
+          "official": false, 
+          "percent": 11.0
+        }, 
+        "ml": {
+          "official": false, 
+          "percent": 0.28
+        }
+      }
+    }, 
+    {
+      "alpha_2": "MZ", 
+      "languages": {
+        "mgh": {
+          "official": false, 
+          "percent": 4.5
+        }, 
+        "ndc": {
+          "official": false, 
+          "percent": 9.9
+        }, 
+        "ngl": {
+          "official": false, 
+          "percent": 6.8
+        }, 
+        "ny": {
+          "official": false, 
+          "percent": 2.6
+        }, 
+        "pt": {
+          "official": true, 
+          "percent": 27.0
+        }, 
+        "rng": {
+          "official": false, 
+          "percent": 3.4
+        }, 
+        "seh": {
+          "official": false, 
+          "percent": 4.6
+        }, 
+        "sw": {
+          "official": false, 
+          "percent": 0.035
+        }, 
+        "ts": {
+          "official": false, 
+          "percent": 7.9
+        }, 
+        "vmw": {
+          "official": false, 
+          "percent": 13.0
+        }, 
+        "yao": {
+          "official": false, 
+          "percent": 2.4
+        }, 
+        "zu": {
+          "official": false, 
+          "percent": 0.0068
+        }
+      }
+    }
+  ]
+}
