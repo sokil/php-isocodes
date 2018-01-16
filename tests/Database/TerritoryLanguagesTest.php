@@ -16,12 +16,6 @@ class TerritoryLanguagesTest extends \PHPUnit_Framework_TestCase
                 Territory::class,
                 $territory
             );
-            // NOTE: omit ZZ code that is used for unspecified country
-            if($territory->getAlpha2() !== 'ZZ') {
-                $this->assertNotEmpty(
-                    $territory->getLanguages()
-                );
-            }
         }
 
         $this->assertInternalType('array', $territories->toArray());
@@ -41,5 +35,40 @@ class TerritoryLanguagesTest extends \PHPUnit_Framework_TestCase
         );
 
         $this->assertArraySubset(['en', 'fr'], $territory->getOfficialLanguages());
+    }
+
+    public function testLanguages()
+    {
+        $isoCodes = new IsoCodesFactory();
+        $territories = $isoCodes->getTerritoryLanguages();
+        foreach ($territories as $territory) {
+            $this->assertInstanceOf(
+                Territory::class,
+                $territory
+            );
+            // NOTE: ZZ code is used for unspecified country
+            if ($territory->getAlpha2() !== 'ZZ') {
+                $this->assertNotEmpty(
+                    $territory->getLanguages()
+                );
+
+                $this->assertGreaterThanOrEqual(
+                    count($territory->getUnofficialLanguages()),
+                    count($territory->getOfficialLanguages())
+                );
+            } else {
+                $this->assertEmpty(
+                    $territory->getLanguages()
+                );
+
+                $this->assertEmpty(
+                    count($territory->getOfficialLanguages())
+                );
+
+                $this->assertEmpty(
+                    count($territory->getUnofficialLanguages())
+                );
+            }
+        }
     }
 }
