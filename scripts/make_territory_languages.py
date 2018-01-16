@@ -14,7 +14,8 @@ def parse_languages(xml):
                 'percent': float(l.get('populationPercent')),
                 'official': bool(l.get('officialStatus'))
             }
-        languages[t.get('type')] = langs
+        langs = [dict(lang=k, **langs[k]) for k in sorted(langs.keys())]
+        languages[t.get('type')] = sorted(langs, key=lambda x: x['percent'], reverse=True)
     return languages
 
 if __name__ == "__main__":

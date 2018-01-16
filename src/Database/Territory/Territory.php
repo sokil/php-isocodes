@@ -17,11 +17,6 @@ class Territory
     /**
      * @var array
      */
-    private $sortedLanguages;
-
-    /**
-     * @var array
-     */
     private $officialLanguages;
 
     /**
@@ -62,40 +57,12 @@ class Territory
     /**
      * @return array
      */
-    public function getSortedLanguages()
-    {
-        if ($this->sortedLanguages === null) {
-            $arr = $this->languages;
-            ksort($arr);
-            $arr = array_map(function ($k, $v) {
-                $v['language'] = $k;
-
-                return $v;
-            }, array_keys($arr), array_values($arr));
-            usort($arr, function ($x, $y) {
-                if ($x['percent'] === $y['percent']) {
-                    return 0;
-                }
-
-                return $x['percent'] > $y['percent'] ? -1 : 1;
-            });
-            $this->sortedLanguages = array_combine(array_map(function ($x) {
-                return $x['language'];
-            }, $arr), $arr);
-        }
-
-        return $this->sortedLanguages;
-    }
-
-    /**
-     * @return array
-     */
     public function getOfficialLanguages()
     {
         if ($this->officialLanguages === null) {
-            $this->officialLanguages = array_keys(array_filter($this->getSortedLanguages(), function ($v) {
+            $this->officialLanguages = array_filter($this->getLanguages(), function ($v) {
                 return $v['official'];
-            }));
+            });
         }
 
         return $this->officialLanguages;
@@ -107,9 +74,9 @@ class Territory
     public function getUnofficialLanguages()
     {
         if ($this->unofficialLanguages === null) {
-            $this->officialLanguages = array_keys(array_filter($this->getSortedLanguages(), function ($v) {
+            $this->officialLanguages = array_filter($this->getLanguages(), function ($v) {
                 return !$v['official'];
-            }));
+            });
         }
 
         return $this->unofficialLanguages;

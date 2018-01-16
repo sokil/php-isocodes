@@ -34,7 +34,16 @@ class TerritoryLanguagesTest extends \PHPUnit_Framework_TestCase
             $territory
         );
 
-        $this->assertArraySubset(['en', 'fr'], $territory->getOfficialLanguages());
+        $languages = $territory->getOfficialLanguages();
+        $this->assertInternalType('array', $languages);
+        $this->assertNotEmpty($languages);
+        foreach ($languages as $v) {
+            $this->assertArraySubset(['lang', 'official', 'percent'], array_keys($v));
+        }
+
+        $this->assertArraySubset(['en', 'fr'], array_map(function ($x) {
+            return $x['lang'];
+        }, $languages));
     }
 
     public function testLanguages()
