@@ -7,6 +7,8 @@ use Sokil\IsoCodes\Database\Territory\Territory;
 
 class TerritoryLanguages extends AbstractDatabase
 {
+    const UNKNOWN_COUNTRY = 'ZZ';
+
     public static function getISONumber()
     {
         return 'territory_languages';

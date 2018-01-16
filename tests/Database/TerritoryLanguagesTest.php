@@ -3,6 +3,7 @@
 namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\Database\Territory\Territory;
+use Sokil\IsoCodes\Database\TerritoryLanguages;
 use Sokil\IsoCodes\IsoCodesFactory;
 
 class TerritoryLanguagesTest extends \PHPUnit_Framework_TestCase
@@ -56,7 +57,7 @@ class TerritoryLanguagesTest extends \PHPUnit_Framework_TestCase
                 $territory
             );
             // NOTE: ZZ code is used for unspecified country
-            if ($territory->getAlpha2() !== 'ZZ') {
+            if ($territory->getAlpha2() !== TerritoryLanguages::UNKNOWN_COUNTRY) {
                 $this->assertNotEmpty(
                     $territory->getLanguages()
                 );
