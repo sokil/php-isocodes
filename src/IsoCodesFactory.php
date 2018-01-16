@@ -8,6 +8,7 @@ use Sokil\IsoCodes\Database\HistoricCountries;
 use Sokil\IsoCodes\Database\Languages;
 use Sokil\IsoCodes\Database\Scripts;
 use Sokil\IsoCodes\Database\Subdivisions;
+use Sokil\IsoCodes\Database\TerritoryLanguages;
 
 /**
  * Factory class to build ISO databases
@@ -90,5 +91,14 @@ class IsoCodesFactory
     public function getLanguages()
     {
         return $this->getDatabase(Languages::class);
+    }
+
+    /**
+     * Territory Languages
+     * @return TerritoryLanguages
+     */
+    public function getTerritoryLanguages()
+    {
+        return $this->getDatabase(TerritoryLanguages::class);
     }
 }

@@ -48,7 +48,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         // abstract static methods not allowed on PHP < 7.0
         throw new \Exception(
             sprintf(
-                'Method "%s" must be inmpemented in class %s',
+                'Method "%s" must be implemented in class %s',
                 __METHOD__,
                 get_class()
             )
