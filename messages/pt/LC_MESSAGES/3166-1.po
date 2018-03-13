@@ -1,14 +1,16 @@
-# Translation of ISO-3166 (country names) to Portuguese
+# Translation of ISO 3166-1 to Portuguese
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Miguel Figueiredo <elmig@debianpt.org>, 2005-2013
-#
+# Notes:
 # Please follow this official pointer when translating to Portuguese
 # http://www.min-nestrangeiros.pt/mne/estrangeiro/indice.html
 # http://publications.europa.eu/code/pt/pt-5000500.htm
 #
+# Copyright ©
+# Miguel Figueiredo <elmig@debianpt.org>, 2005-2013
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"

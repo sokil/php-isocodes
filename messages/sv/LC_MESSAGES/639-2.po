@@ -1,9 +1,10 @@
-# Swedish translation of ISO 639 language names.
-# Copyright © 2004, 2016, 2017 Free Software Foundation, Inc.
-# This file is distributed under the same license as the iso-codes package.
-# Christian Rose <menthos@menthos.com>, 2004.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016, 2017.
+# Translation of ISO 639-2 to Swedish
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
 #
+# This file is distributed under the same license as the iso-codes package.
+#
+# Notes:
 # Many of these names are taken directly from
 # http://www.softwolves.pp.se/misc/spraklista.html, a page maintained by
 # Peter Karlsson <peter@softwolves.pp.se> which contains an extensive list of
@@ -11,7 +12,6 @@
 #
 # Additionally, most Swedish language names are taken from
 # http://www.libris.kb.se/tjanster/katalogisering/formathandbok/sprakkoder.htm
-#
 #
 # Please note that many common language names in Swedish as a general rule
 # usually end in "ska". Nationality adjectives on the other hand usually end
@@ -26,6 +26,9 @@
 # But since this is a list, rather than language names used inside
 # sentences, these translated language names use capital initial letters.
 #
+# Copyright ©
+# Christian Rose <menthos@menthos.com>, 2004.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"

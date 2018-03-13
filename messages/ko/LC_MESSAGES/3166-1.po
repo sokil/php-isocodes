@@ -1,18 +1,18 @@
-# Translation of ISO-3166 (country names) to Korean
+# Translation of ISO 3166-1 to Korean
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Free Software Foundation, Inc., 2001,2003
-#   Jaegeum Choe <baedaron@hananet.net>, 2001.
-#   (translations from drakfw)
-#   Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   Sunjae Park <darehanl@gmail.com>, 2006-2007.
-#   Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015.
-#
+# Notes:
 # 위키백과 페이지 참고
 # http://ko.wikipedia.org/wiki/ISO_3166
 #
+# Copyright ©
+# Jaegeum Choe <baedaron@hananet.net>, 2001.
+# Alastair McKinstry <mckinstry@computer.org>, 2001.
+# Sunjae Park <darehanl@gmail.com>, 2006-2007.
+# Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"

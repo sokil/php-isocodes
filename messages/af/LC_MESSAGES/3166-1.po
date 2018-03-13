@@ -1,15 +1,13 @@
-# Translation of ISO-3166 (country names) to Afrikaans
+# Translation of ISO 3166-1 to Afrikaans
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Free Software Foundation, Inc., 2002,2004
-#   Alastair McKinstry <mckinstry@computer.org>, 2002.
-#   Translations from KDE desktop.po: 
-#   - Frikkie Thirion <frix@engineer.com>, 2001.
-#   Further data from the ICU project, 3.0 beta, 2004.
-#   Friedel Wolff <friedel BY translate.org.za>, 2007
-#
+# Copyright ©
+# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Frikkie Thirion <frix@engineer.com>, 2001.
+# Friedel Wolff <friedel@translate.org.za>, 2007
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"

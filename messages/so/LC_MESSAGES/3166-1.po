@@ -1,15 +1,13 @@
-# Translation of ISO-3166 (country names) to Somali
+# Translation of ISO 3166-1 to Somali
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
 #
 # This file is distributed under the same license as the iso-codes package.
 #
-# Copyright (C)
-#   Alastair McKinstry, <mckinstry@debian.org>, 2004.
-#   Data taken from ICU-2.8:
-#   - Daniel Yacob <yacob@geez.org>, Ge'ez Frontier Foundation
-#   - Mohamed Diriye Abdullahi <diriyeam@magellan.umontreal.ca>, 2004
-#   - Department of Linguistics and Translation, Universite de Montreal, Montreal
-#
-#
+# Copyright ©
+# Alastair McKinstry, <mckinstry@debian.org>, 2004.
+# Daniel Yacob <yacob@geez.org>
+# Mohamed Diriye Abdullahi <diriyeam@magellan.umontreal.ca>, 2004
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
