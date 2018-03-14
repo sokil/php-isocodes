@@ -5,7 +5,7 @@ namespace Sokil\IsoCodes\Databases;
 use Sokil\IsoCodes\IsoCodesFactory;
 use Sokil\IsoCodes\Database\HistoricCountries\Country;
 
-class HistoricCountriesTest extends \PHPUnit\Framework_TestCase
+class HistoricCountriesTest extends \PHPUnit\Framework\TestCase
 {
     public function testIterator()
     {
