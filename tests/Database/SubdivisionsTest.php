@@ -5,7 +5,7 @@ namespace Sokil\IsoCodes\Databases;
 use Sokil\IsoCodes\IsoCodesFactory;
 use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
-class SubdivisionsTest extends \PHPUnit_Framework_TestCase
+class SubdivisionsTest extends \PHPUnit\Framework\TestCase
 {
     public function testIterator()
     {

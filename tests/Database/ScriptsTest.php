@@ -5,7 +5,7 @@ namespace Sokil\IsoCodes\Databases;
 use Sokil\IsoCodes\IsoCodesFactory;
 use Sokil\IsoCodes\Database\Scripts\Script;
 
-class ScriptsTest extends \PHPUnit_Framework_TestCase
+class ScriptsTest extends \PHPUnit\Framework\TestCase
 {
     public function testIterator()
     {
