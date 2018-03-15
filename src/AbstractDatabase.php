@@ -101,12 +101,12 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         $isoNumber = $this->getISONumber();
 
         // add gettext domain
-        \bindtextdomain(
+        bindtextdomain(
             $isoNumber,
             $this->getLocalMessagesPath()
         );
 
-        \bind_textdomain_codeset(
+        bind_textdomain_codeset(
             $isoNumber,
             'UTF-8'
         );
