@@ -20,13 +20,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Sokil\\IsoCodes\\": ["src/", "benchmarks/"]
+            "Sokil\\IsoCodes\\": ["src/"]
         },
         "classmap": ["stubs/"]
     },
     "autoload-dev": {
         "psr-4": {
-            "Sokil\\IsoCodes\\": "tests/"
+            "Sokil\\IsoCodes\\": ["tests/", "benchmarks/"]
         }
     },
     "scripts": {

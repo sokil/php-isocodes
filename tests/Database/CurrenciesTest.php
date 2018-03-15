@@ -4,8 +4,9 @@ namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\Database\Currencies\Currency;
 use Sokil\IsoCodes\IsoCodesFactory;
+use PHPUnit\Framework\TestCase;
 
-class CurrenciesTest extends \PHPUnit\Framework\TestCase
+class CurrenciesTest extends TestCase
 {        
     public function testIterator()
     {

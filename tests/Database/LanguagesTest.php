@@ -4,8 +4,9 @@ namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\IsoCodesFactory;
 use Sokil\IsoCodes\Database\Languages\Language;
+use PHPUnit\Framework\TestCase;
 
-class LanguagesTest extends \PHPUnit\Framework\TestCase
+class LanguagesTest extends TestCase
 {
     public function testIterator()
     {
