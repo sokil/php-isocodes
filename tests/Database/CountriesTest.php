@@ -4,8 +4,9 @@ namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\Database\Countries\Country;
 use \Sokil\IsoCodes\IsoCodesFactory;
+use PHPUnit\Framework\TestCase;
 
-class CountriesTest extends \PHPUnit_Framework_TestCase
+class CountriesTest extends TestCase
 {
     public function testIterator()
     {
