@@ -1,4 +1,4 @@
-## 2.0.4 (2018-05-08)
+## 2.1 (2018-05-08)
 * `AbstractDatabase::find()` now returns null when $fieldValue not found in index instead of throwing exception 
 
 ## 2.0 (2017-11-05)
