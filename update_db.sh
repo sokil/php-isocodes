@@ -25,8 +25,8 @@ rm -rf $DATABASES_DIR
 mkdir -p $DATABASES_DIR
 
 # add copyright notice
-echo "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
-echo "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
+echo -e "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
+echo -e "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
 
 # move database files
 cp $PKG_ISOCODES_DIR/data/iso_*.json $DATABASES_DIR
