@@ -10,18 +10,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2009-05-29 05:58+0530\n"
-"Last-Translator: A S Alam <apbrar@gmail.com>\n"
-"Language-Team: Punjabi <punjabi-l10n@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-01 03:40+0000\n"
+"Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 0.3\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -149,7 +150,7 @@ msgstr "ਬੀਨਾਨ ਗਣਰਾਜ"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "ਬੋਨਾਏਰੇ, ਸੇਂਟ ਇਊਸਟਾਟਿਊਸ ਅਤੇ ਸਾਬਾ"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -217,11 +218,11 @@ msgstr "ਬਾਰਾਮੂਡਾ"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "ਬੋਲੀਵੀਆ, ਪਲੂਰਿਨਾਟੀਨਲ ਸਟੇਟ"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
-msgstr ""
+msgstr "ਬੋਲੀਵੀਆ ਦੀ ਪਲੂਰੀਨੈਸ਼ਲ ਸਟੇਟ"
 
 #. Common name for BOL
 msgid "Bolivia"
@@ -348,16 +349,12 @@ msgid "Union of the Comoros"
 msgstr "ਕੋਮੋਰਸ ਸੰਘ"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "ਕੇਪ ਵਾਰਡੀ"
+msgstr "ਕਾਬੋ ਵਾਰਡੀ"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "ਕੇਪ ਵਾਰਡੀ ਗਣਰਾਜ"
+msgstr "ਕਾਬੋ ਵਾਰਡੀ ਗਣਰਾਜ"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -377,7 +374,7 @@ msgstr "ਕਿਊਬਾ ਗਣਰਾਜ"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "ਕਾਰੂਸਾਓ"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -397,7 +394,7 @@ msgstr "ਕਿਊਰੂਸ ਗਣਰਾਜ"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "ਚੇਚੀਆ"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -468,9 +465,8 @@ msgid "Eritrea"
 msgstr "ਈਰਟੀਰਆ"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ"
+msgstr "ਇਰੀਟਰੇਆ ਰਾਜ"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -513,9 +509,8 @@ msgid "Fiji"
 msgstr "ਫਿਜ਼ੀ"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "ਹਾਈਟੀ ਗਣਰਾਜ"
+msgstr "ਫ਼ਿਜ਼ੀ ਗਣਰਾਜ"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -594,10 +589,8 @@ msgid "Gambia"
 msgstr "ਗਾਬੀਆ"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "ਗੈਂਬੀਆ ਗਣਰਾਜ"
+msgstr "ਗੈਂਬੀਆ ਇਸਲਾਮਿਕ ਗਣਰਾਜ"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -860,9 +853,8 @@ msgid "Republic of Liberia"
 msgstr "ਲੀਬਾਰੀਆ ਗਣਰਾਜ"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "ਲੀਬਾਰੀਆ"
+msgstr "ਲੀਬੀਆ"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -1017,9 +1009,8 @@ msgid "Myanmar"
 msgstr "ਮਿਆਂਮਾਰ"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "ਗੁਆਨਾ ਗਣਰਾਜ"
+msgstr "ਮਿਆਂਮਾਰ ਗਣਰਾਜ"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1222,9 +1213,8 @@ msgid "Papua New Guinea"
 msgstr "ਪਾਪੂਆ ਨਵਾਂ ਗੂਈਨਿਆ"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "ਸਮੋਆ ਦਾ ਅਜ਼ਾਦ ਸੂਬਾ"
+msgstr "ਪਾਪੂਆ ਨਿਊ ਗੁਆਨਾ ਆਜ਼ਾਦ ਰਾਜ"
 
 #. Name for POL
 msgid "Poland"
@@ -1264,12 +1254,11 @@ msgstr "ਪੇਰੂਗਵੇ ਗਣਰਾਜ"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "ਫਿਲਸਤੀਨ ਰਾਜ"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ"
+msgstr "ਫਿਲਸਤੀਨ ਰਾਜ"
 
 #. Name for PYF
 msgid "French Polynesia"

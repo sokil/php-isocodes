@@ -5,25 +5,25 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2011, 2012, 2013, 2015.
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
-"devel@lists.alioth.debian.org>\n"
-"POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2017-12-26 06:53+0000\n"
-"Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-1/uk/>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-19 21:50+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 2.20-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -191,7 +191,7 @@ msgstr "Співдружність Багамських Островів"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Боснія та Герцеговина"
+msgstr "Боснія і Герцеговина"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -215,7 +215,7 @@ msgstr "Беліз"
 
 #. Name for BMU
 msgid "Bermuda"
-msgstr "Бермуди"
+msgstr "Бермудські острови"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
@@ -547,7 +547,7 @@ msgstr "Габонська Республіка"
 
 #. Name for GBR
 msgid "United Kingdom"
-msgstr "Великобританія"
+msgstr "Велика Британія"
 
 #. Official name for GBR
 msgid "United Kingdom of Great Britain and Northern Ireland"
@@ -623,7 +623,7 @@ msgstr "Гренада"
 
 #. Name for GRL
 msgid "Greenland"
-msgstr "Гренландія"
+msgstr "Ґренландія"
 
 #. Name for GTM
 msgid "Guatemala"
@@ -643,7 +643,7 @@ msgstr "Гуам"
 
 #. Name for GUY
 msgid "Guyana"
-msgstr "Гайяна"
+msgstr "Гаяна"
 
 #. Official name for GUY
 msgid "Republic of Guyana"
@@ -659,7 +659,7 @@ msgstr "Особливий адміністративний район Гонк�
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Острови Херд і Мак-Дональд"
+msgstr "Острів Герд і острови Макдональд"
 
 #. Name for HND
 msgid "Honduras"
@@ -711,7 +711,7 @@ msgstr "Республіка Індія"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "Британські Території в Індійському океані"
+msgstr "Британська територія в Індійському океані"
 
 #. Name for IRL
 msgid "Ireland"
@@ -819,7 +819,7 @@ msgstr "Республіка Кірибаті"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Сент-Кітс і Невіс"
+msgstr "Сент-Кіттс і Невіс"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -1211,7 +1211,7 @@ msgstr "Республіка Палау"
 
 #. Name for PNG
 msgid "Papua New Guinea"
-msgstr "Папуа-Нова Гвінея"
+msgstr "Папуа Нова Гвінея"
 
 #. Official name for PNG
 msgid "Independent State of Papua New Guinea"
@@ -1327,11 +1327,11 @@ msgstr "Республіка Сінгапур"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Південна Георгія і Південні Сандвічеві Острови"
+msgstr "Південна Джорджія та Південні Сандвічеві острови"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr "Острів Святої Єлени, острів Вознесіння та острови Трістан-да-Кунья"
+msgstr "Острови Святої Єлени, Вознесіння і Тристан-да-Кунья"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
@@ -1395,7 +1395,7 @@ msgstr "Республіка Південний Судан"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
-msgstr "Сан-Томе і Принсипі"
+msgstr "Сан-Томе і Принсіпі"
 
 #. Official name for STP
 msgid "Democratic Republic of Sao Tome and Principe"
@@ -1519,7 +1519,7 @@ msgstr "Королівство Тонга"
 
 #. Name for TTO
 msgid "Trinidad and Tobago"
-msgstr "Тринідад та Тобаго"
+msgstr "Тринідад і Тобаго"
 
 #. Official name for TTO
 msgid "Republic of Trinidad and Tobago"
@@ -1579,7 +1579,7 @@ msgstr "Україна"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Американські Малі Віддалені Острови"
+msgstr "Зовнішні малі острови США"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1631,7 +1631,7 @@ msgstr "Віргінські острови (Британія)"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "Віргінські острови (Британія)"
+msgstr "Британські Віргінські острови"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
@@ -1663,7 +1663,7 @@ msgstr "Республіка Вануату"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr "Уолліс і Футуна"
+msgstr "Волліс і Футуна"
 
 #. Name for WSM
 msgid "Samoa"

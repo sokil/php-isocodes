@@ -5,21 +5,25 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Alastair McKinstry <mckinstry@computer.org>
+# Alastair McKinstry <mckinstry@debian.org>
 # Dafydd Tomos <dafydd.tomos@imaginet.co.uk>
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2002-08-14 20:57+0100\n"
-"Last-Translator: Dafydd Tomos <dafydd.tomos@imaginet.co.uk>\n"
-"Language-Team: Welsh <cy@li.org>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-19 21:51+0000\n"
+"Last-Translator: Huw Waters <huwwaters@gmail.com>\n"
+"Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/cy/>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
+"(n==3) ? 3 :(n==6) ? 4 : 5;\n"
+"X-Generator: Weblate 2.20-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -201,7 +205,7 @@ msgstr ""
 
 #. Name for abk
 msgid "Abkhazian"
-msgstr "Abcaseg"
+msgstr "Abchaseg"
 
 #. Name for abl
 #, fuzzy
@@ -294,9 +298,8 @@ msgid "Gikyode"
 msgstr ""
 
 #. Name for ace
-#, fuzzy
 msgid "Achinese"
-msgstr "Tsieinëeg"
+msgstr "Atsienëeg"
 
 #. Name for acf
 msgid "Saint Lucian Creole French"
@@ -308,7 +311,7 @@ msgstr ""
 
 #. Name for ach
 msgid "Acoli"
-msgstr ""
+msgstr "Acholeg"
 
 #. Name for aci
 #, fuzzy
@@ -408,7 +411,7 @@ msgstr ""
 
 #. Name for ada
 msgid "Adangme"
-msgstr ""
+msgstr "Adangmëeg"
 
 #. Name for adb
 msgid "Adabe"
@@ -8976,9 +8979,8 @@ msgid "Dusun, Kadazan"
 msgstr "Catalaneg"
 
 #. Name for dtr
-#, fuzzy
 msgid "Lotud"
-msgstr "Rwndi"
+msgstr "Lotudeg"
 
 #. Name for dts
 msgid "Toro So Dogon"
@@ -22518,9 +22520,8 @@ msgid "Manyika"
 msgstr "Canareg"
 
 #. Name for mxd
-#, fuzzy
 msgid "Modang"
-msgstr "Mongoleg"
+msgstr "Modangeg"
 
 #. Name for mxe
 msgid "Mele-Fila"
@@ -38980,7 +38981,7 @@ msgstr "Lingala"
 
 #. Name for yid
 msgid "Yiddish"
-msgstr "Iddeweg"
+msgstr "Iddew-Almaeneg"
 
 #. Name for yif
 #, fuzzy

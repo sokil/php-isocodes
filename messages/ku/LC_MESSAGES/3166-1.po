@@ -9,18 +9,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ISO-falan-ku\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2008-09-21 19:00+0200\n"
-"Last-Translator: Erdal Ronahi <erdal.ronahi@gmail.com>\n"
-"Language-Team: Kurdish <ubuntu-l10n-kur@lists.ubuntu.com>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-24 12:38+0000\n"
+"Last-Translator: Hüseyin Kaya <kaya6491@gmail.com>\n"
+"Language-Team: Kurdish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ku/>\n"
 "Language: ku\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!= 1);\n"
-"X-Generator: Pootle 1.1.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.20-dev\n"
 "X-Poedit-Language: Kurdish\n"
 
 #. Name for ABW
@@ -150,7 +151,7 @@ msgstr "Komara Benîn"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "Bonaire, Sint Eustatius û Saba"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -218,11 +219,11 @@ msgstr "Bermûda"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "Dewleta Pirneteweyî yê Bolîvyayê"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
-msgstr ""
+msgstr "Dewleta Pirneteweyî yê Bolîvyayê"
 
 #. Common name for BOL
 msgid "Bolivia"
@@ -351,14 +352,10 @@ msgid "Union of the Comoros"
 msgstr "Yekîtiya Komoran"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Kap Verde"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Komara Kap Verde"
 
@@ -380,7 +377,7 @@ msgstr "Komara Kûba"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -400,7 +397,7 @@ msgstr "Komara Kibris"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Çekistan"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -471,9 +468,8 @@ msgid "Eritrea"
 msgstr "Erître"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "Dewletên Yekbûyî yên Emerîkayê"
+msgstr "Dewleta Erîtrêyayê"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -516,9 +512,8 @@ msgid "Fiji"
 msgstr "Fîjî"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "Komara Haîtî"
+msgstr "Komara Fîjî"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -597,10 +592,8 @@ msgid "Gambia"
 msgstr "Gambiya"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "Komara Gambiya"
+msgstr "Komara Îslamî ya Gambiyayê"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -866,9 +859,8 @@ msgid "Republic of Liberia"
 msgstr "Komara Lîberya"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Lîberya"
+msgstr "Lîbya"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -951,9 +943,8 @@ msgid "Principality of Monaco"
 msgstr "Mîrtiya Monako"
 
 #. Name for MDA
-#, fuzzy
 msgid "Moldova, Republic of"
-msgstr "Makedonya, Komara"
+msgstr "Komara Moldovayê"
 
 #. Official name for MDA
 msgid "Republic of Moldova"
@@ -1024,9 +1015,8 @@ msgid "Myanmar"
 msgstr "Miyanmar"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "Komara Guyana"
+msgstr "Komara Miyanmarê"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"

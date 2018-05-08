@@ -1,26 +1,19 @@
-# Translation of ISO 3166-1 to Kirghiz; Kyrgyz
-# Codes for the representation of names of countries and their subdivisions
-# Part 1: Country codes
-#
-# This file is distributed under the same license as the iso-codes package.
-#
-# Copyright ©
 msgid ""
 msgstr ""
-"Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
-"devel@lists.alioth.debian.org>\n"
-"POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2017-12-29 07:10+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
-"Language-Team: Kyrgyz <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-1/ky/>\n"
+"Project-Id-Version: Kyrgyz (iso-codes)\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-19 17:27+0000\n"
+"Last-Translator: Ilyas Bakirov <i.bakirov@gmail.com>\n"
+"Language-Team: Kyrgyz <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ky/>\n"
 "Language: ky\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 2.19\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -28,11 +21,11 @@ msgstr "Аруба"
 
 #. Name for AFG
 msgid "Afghanistan"
-msgstr "Афганистан"
+msgstr "Ооганстан"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
-msgstr ""
+msgstr "Ооганстан Ислам Республикасы"
 
 #. Name for AGO
 msgid "Angola"
@@ -40,7 +33,7 @@ msgstr "Ангола"
 
 #. Official name for AGO
 msgid "Republic of Angola"
-msgstr ""
+msgstr "Ангола Республикасы"
 
 #. Name for AIA
 msgid "Anguilla"
@@ -56,7 +49,7 @@ msgstr "Албания"
 
 #. Official name for ALB
 msgid "Republic of Albania"
-msgstr ""
+msgstr "Албания Республикасы"
 
 #. Name for AND
 msgid "Andorra"
@@ -64,7 +57,7 @@ msgstr "Андорра"
 
 #. Official name for AND
 msgid "Principality of Andorra"
-msgstr ""
+msgstr "Андорра Княздыгы"
 
 #. Name for ARE
 msgid "United Arab Emirates"
@@ -76,7 +69,7 @@ msgstr "Аргентина"
 
 #. Official name for ARG
 msgid "Argentine Republic"
-msgstr ""
+msgstr "Аргентина Республикасы"
 
 #. Name for ARM
 msgid "Armenia"
@@ -84,7 +77,7 @@ msgstr "Армения"
 
 #. Official name for ARM
 msgid "Republic of Armenia"
-msgstr ""
+msgstr "Армения Республикасы"
 
 #. Name for ASM
 msgid "American Samoa"
@@ -92,11 +85,11 @@ msgstr "Америка Самоасы"
 
 #. Name for ATA
 msgid "Antarctica"
-msgstr ""
+msgstr "Антарктида"
 
 #. Name for ATF
 msgid "French Southern Territories"
-msgstr ""
+msgstr "Франциянын Түштүк Аймактары"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
@@ -112,7 +105,7 @@ msgstr "Австрия"
 
 #. Official name for AUT
 msgid "Republic of Austria"
-msgstr ""
+msgstr "Австрия Республикасы"
 
 #. Name for AZE
 msgid "Azerbaijan"
@@ -120,7 +113,7 @@ msgstr "Азербайжан"
 
 #. Official name for AZE
 msgid "Republic of Azerbaijan"
-msgstr ""
+msgstr "Азербайжан Республикасы"
 
 #. Name for BDI
 msgid "Burundi"
@@ -128,7 +121,7 @@ msgstr "Бурунди"
 
 #. Official name for BDI
 msgid "Republic of Burundi"
-msgstr ""
+msgstr "Бурунди Республикасы"
 
 #. Name for BEL
 msgid "Belgium"
@@ -136,7 +129,7 @@ msgstr "Бельгия"
 
 #. Official name for BEL
 msgid "Kingdom of Belgium"
-msgstr ""
+msgstr "Бельгия Падышачылыгы"
 
 #. Name for BEN
 msgid "Benin"
@@ -144,11 +137,11 @@ msgstr "Бенин"
 
 #. Official name for BEN
 msgid "Republic of Benin"
-msgstr ""
+msgstr "Бенин Республикасы"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "Бонайре, Синт-Эстатиус жана Саба"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -160,7 +153,7 @@ msgstr "Баңгладеш"
 
 #. Official name for BGD
 msgid "People's Republic of Bangladesh"
-msgstr ""
+msgstr "Бангладеш Эл Республикасы"
 
 #. Name for BGR
 msgid "Bulgaria"
@@ -168,7 +161,7 @@ msgstr "Болгария"
 
 #. Official name for BGR
 msgid "Republic of Bulgaria"
-msgstr ""
+msgstr "Болгар Республикасы"
 
 #. Name for BHR
 msgid "Bahrain"
@@ -176,15 +169,15 @@ msgstr "Бахрейн"
 
 #. Official name for BHR
 msgid "Kingdom of Bahrain"
-msgstr ""
+msgstr "Бахрейн Падышалыгы"
 
 #. Name for BHS
 msgid "Bahamas"
-msgstr ""
+msgstr "Багама аралдары"
 
 #. Official name for BHS
 msgid "Commonwealth of the Bahamas"
-msgstr ""
+msgstr "Багама Аралдардын Ынтымактыгы"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
@@ -192,11 +185,11 @@ msgstr "Босния жана Герцеговина"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
-msgstr ""
+msgstr "Босния жана Герцеговина Республикасы"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr ""
+msgstr "Сен-Бартельми"
 
 #. Name for BLR
 msgid "Belarus"
@@ -204,7 +197,7 @@ msgstr "Беларусия"
 
 #. Official name for BLR
 msgid "Republic of Belarus"
-msgstr ""
+msgstr "Беларус Республикасы"
 
 #. Name for BLZ
 msgid "Belize"
@@ -212,15 +205,15 @@ msgstr "Белиз"
 
 #. Name for BMU
 msgid "Bermuda"
-msgstr ""
+msgstr "Бермуд аралдары"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "Боливия"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
-msgstr ""
+msgstr "Көп Улуттуу Боливия Мамлекети"
 
 #. Common name for BOL
 msgid "Bolivia"
@@ -232,7 +225,7 @@ msgstr "Бразилия"
 
 #. Official name for BRA
 msgid "Federative Republic of Brazil"
-msgstr ""
+msgstr "Бразилия Федеративдик Республикасы"
 
 #. Name for BRB
 msgid "Barbados"
@@ -240,7 +233,7 @@ msgstr "Барбадос"
 
 #. Name for BRN
 msgid "Brunei Darussalam"
-msgstr ""
+msgstr "Бруней-Даруссалам"
 
 #. Name for BTN
 msgid "Bhutan"
@@ -248,11 +241,11 @@ msgstr "Бутан"
 
 #. Official name for BTN
 msgid "Kingdom of Bhutan"
-msgstr ""
+msgstr "Бутан Падышалыгы"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr ""
+msgstr "Буве аралы"
 
 #. Name for BWA
 msgid "Botswana"
@@ -260,7 +253,7 @@ msgstr "Ботсвана"
 
 #. Official name for BWA
 msgid "Republic of Botswana"
-msgstr ""
+msgstr "Ботсвана Республикасы"
 
 #. Name for CAF
 msgid "Central African Republic"
@@ -272,7 +265,7 @@ msgstr "Канада"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgstr "Кокос аралдары"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -280,7 +273,7 @@ msgstr "Швейцария"
 
 #. Official name for CHE
 msgid "Swiss Confederation"
-msgstr ""
+msgstr "Швейцария Конфедерациясы"
 
 #. Name for CHL
 msgid "Chile"
@@ -288,11 +281,11 @@ msgstr "Чили"
 
 #. Official name for CHL
 msgid "Republic of Chile"
-msgstr ""
+msgstr "Чили Республикасы"
 
 #. Name for CHN
 msgid "China"
-msgstr ""
+msgstr "Кытай"
 
 #. Official name for CHN
 msgid "People's Republic of China"
@@ -300,11 +293,11 @@ msgstr "Кытай"
 
 #. Name for CIV
 msgid "Côte d'Ivoire"
-msgstr ""
+msgstr "Кот-д'Ивуар"
 
 #. Official name for CIV
 msgid "Republic of Côte d'Ivoire"
-msgstr ""
+msgstr "Кот-д'Ивуар Республикасы"
 
 #. Name for CMR
 msgid "Cameroon"
@@ -312,15 +305,15 @@ msgstr "Камерун"
 
 #. Official name for CMR
 msgid "Republic of Cameroon"
-msgstr ""
+msgstr "Камерун Республикасы"
 
 #. Name for COD
 msgid "Congo, The Democratic Republic of the"
-msgstr ""
+msgstr "Конго Республикасы"
 
 #. Name for COG
 msgid "Congo"
-msgstr ""
+msgstr "Конго"
 
 #. Official name for COG
 msgid "Republic of the Congo"
@@ -336,7 +329,7 @@ msgstr "Колумбия"
 
 #. Official name for COL
 msgid "Republic of Colombia"
-msgstr ""
+msgstr "Колумбия Республикасы"
 
 #. Name for COM
 msgid "Comoros"
@@ -344,15 +337,15 @@ msgstr "Комор аралдары"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr ""
+msgstr "Комор Аралдар Биримдиги"
 
 #. Name for CPV
 msgid "Cabo Verde"
-msgstr ""
+msgstr "Кабо-Верде"
 
 #. Official name for CPV
 msgid "Republic of Cabo Verde"
-msgstr ""
+msgstr "Кабо-Верде Республикасы"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -360,7 +353,7 @@ msgstr "Коста-Рика"
 
 #. Official name for CRI
 msgid "Republic of Costa Rica"
-msgstr ""
+msgstr "Коста-Рика Республикасы"
 
 #. Name for CUB
 msgid "Cuba"
@@ -368,19 +361,19 @@ msgstr "Куба"
 
 #. Official name for CUB
 msgid "Republic of Cuba"
-msgstr ""
+msgstr "Куба Республикасы"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "Кюрасао"
 
 #. Name for CXR
 msgid "Christmas Island"
-msgstr ""
+msgstr "Рождество Аралы"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr ""
+msgstr "Кайман аралдары"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -388,11 +381,11 @@ msgstr "Кипр"
 
 #. Official name for CYP
 msgid "Republic of Cyprus"
-msgstr ""
+msgstr "Кипр Республикасы"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Чехия Республикасы"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -404,7 +397,7 @@ msgstr "Германия"
 
 #. Official name for DEU
 msgid "Federal Republic of Germany"
-msgstr ""
+msgstr "Германия Федеративдик Республикасы"
 
 #. Name for DJI
 msgid "Djibouti"
@@ -412,7 +405,7 @@ msgstr "Жибути"
 
 #. Official name for DJI
 msgid "Republic of Djibouti"
-msgstr ""
+msgstr "Джибути Республикасы"
 
 #. Name for DMA
 msgid "Dominica"
@@ -420,7 +413,7 @@ msgstr "Доминика"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
-msgstr ""
+msgstr "Доминикан Республикасы"
 
 #. Name for DNK
 msgid "Denmark"
@@ -428,7 +421,7 @@ msgstr "Дания"
 
 #. Official name for DNK
 msgid "Kingdom of Denmark"
-msgstr ""
+msgstr "Дания Падышалыгы"
 
 #. Name for DOM
 msgid "Dominican Republic"
@@ -440,7 +433,7 @@ msgstr "Алжир"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
-msgstr ""
+msgstr "Алжир Элдик-Демократиялык Республикасы"
 
 #. Name for ECU
 msgid "Ecuador"
@@ -448,7 +441,7 @@ msgstr "Эквадор"
 
 #. Official name for ECU
 msgid "Republic of Ecuador"
-msgstr ""
+msgstr "Эквадор Республикасы"
 
 #. Name for EGY
 msgid "Egypt"
@@ -456,7 +449,7 @@ msgstr "Египет"
 
 #. Official name for EGY
 msgid "Arab Republic of Egypt"
-msgstr ""
+msgstr "Египет Араб Республикасы"
 
 #. Name for ERI
 msgid "Eritrea"
@@ -464,11 +457,11 @@ msgstr "Эритрея"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr ""
+msgstr "Эритрея Мамлекети"
 
 #. Name for ESH
 msgid "Western Sahara"
-msgstr ""
+msgstr "Батыш Сахара"
 
 #. Name for ESP
 msgid "Spain"
@@ -476,15 +469,15 @@ msgstr "Испания"
 
 #. Official name for ESP
 msgid "Kingdom of Spain"
-msgstr ""
+msgstr "Испания Падышалыгы"
 
 #. Name for EST
 msgid "Estonia"
-msgstr ""
+msgstr "Эстония"
 
 #. Official name for EST
 msgid "Republic of Estonia"
-msgstr ""
+msgstr "Эстон Республикасы"
 
 #. Name for ETH
 msgid "Ethiopia"
@@ -492,7 +485,7 @@ msgstr "Эфиопия"
 
 #. Official name for ETH
 msgid "Federal Democratic Republic of Ethiopia"
-msgstr ""
+msgstr "Эфиопия Федеративдик Демократиялык Республикасы"
 
 #. Name for FIN
 msgid "Finland"
@@ -500,7 +493,7 @@ msgstr "Финляндия"
 
 #. Official name for FIN
 msgid "Republic of Finland"
-msgstr ""
+msgstr "Финланд Республикасы"
 
 #. Name for FJI
 msgid "Fiji"
@@ -508,11 +501,11 @@ msgstr "Фижи"
 
 #. Official name for FJI
 msgid "Republic of Fiji"
-msgstr ""
+msgstr "Фиджи Республикасы"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
-msgstr ""
+msgstr "Фолкленд (Мальвин) аралдары"
 
 #. Name for FRA
 msgid "France"
@@ -520,7 +513,7 @@ msgstr "Франция"
 
 #. Official name for FRA
 msgid "French Republic"
-msgstr ""
+msgstr "Француз Республикасы"
 
 #. Name for FRO
 msgid "Faroe Islands"
@@ -528,7 +521,7 @@ msgstr "Фарер аралдары"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "Микронезия Федерация Штаттары"
 
 #. Official name for FSM
 msgid "Federated States of Micronesia"
@@ -540,15 +533,15 @@ msgstr "Габон"
 
 #. Official name for GAB
 msgid "Gabonese Republic"
-msgstr ""
+msgstr "Габон Республикасы"
 
 #. Name for GBR
 msgid "United Kingdom"
-msgstr "Улуу Британия жана Түндүк Ирландия"
+msgstr "Улуу Британия"
 
 #. Official name for GBR
 msgid "United Kingdom of Great Britain and Northern Ireland"
-msgstr ""
+msgstr "Улуу Британия жана Түндүк Ирландиянын Кошмо Падышалыгы"
 
 #. Name for GEO
 msgid "Georgia"
@@ -556,7 +549,7 @@ msgstr "Грузия"
 
 #. Name for GGY
 msgid "Guernsey"
-msgstr ""
+msgstr "Гернси"
 
 #. Name for GHA
 msgid "Ghana"
@@ -564,7 +557,7 @@ msgstr "Гана"
 
 #. Official name for GHA
 msgid "Republic of Ghana"
-msgstr ""
+msgstr "Гана Республикасы"
 
 #. Name for GIB
 msgid "Gibraltar"
@@ -576,7 +569,7 @@ msgstr "Гвинея"
 
 #. Official name for GIN
 msgid "Republic of Guinea"
-msgstr ""
+msgstr "Гвинея Республикасы"
 
 #. Name for GLP
 msgid "Guadeloupe"
@@ -584,11 +577,11 @@ msgstr "Гваделупа"
 
 #. Name for GMB
 msgid "Gambia"
-msgstr ""
+msgstr "Гамбия"
 
 #. Official name for GMB
 msgid "Islamic Republic of the Gambia"
-msgstr ""
+msgstr "Гамбия Республикасы"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -596,15 +589,15 @@ msgstr "Гвинея-Бисау"
 
 #. Official name for GNB
 msgid "Republic of Guinea-Bissau"
-msgstr ""
+msgstr "Гвинея-Бисау Республикасы"
 
 #. Name for GNQ
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Экваториалдык Гвинея"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
-msgstr ""
+msgstr "Экваториалдык Гвинея Республикасы"
 
 #. Name for GRC
 msgid "Greece"
@@ -612,7 +605,7 @@ msgstr "Греция"
 
 #. Official name for GRC
 msgid "Hellenic Republic"
-msgstr ""
+msgstr "Грек Республикасы"
 
 #. Name for GRD
 msgid "Grenada"
@@ -620,7 +613,7 @@ msgstr "Гренада"
 
 #. Name for GRL
 msgid "Greenland"
-msgstr ""
+msgstr "Гренландия"
 
 #. Name for GTM
 msgid "Guatemala"
@@ -628,7 +621,7 @@ msgstr "Гватемала"
 
 #. Official name for GTM
 msgid "Republic of Guatemala"
-msgstr ""
+msgstr "Гватемала Республикасы"
 
 #. Name for GUF
 msgid "French Guiana"
@@ -636,7 +629,7 @@ msgstr "Гвиана"
 
 #. Name for GUM
 msgid "Guam"
-msgstr ""
+msgstr "Гуам"
 
 #. Name for GUY
 msgid "Guyana"
@@ -644,7 +637,7 @@ msgstr "Гайана"
 
 #. Official name for GUY
 msgid "Republic of Guyana"
-msgstr ""
+msgstr "Гайана Республикасы"
 
 #. Name for HKG
 msgid "Hong Kong"
@@ -652,11 +645,11 @@ msgstr "Гонконг"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr ""
+msgstr "Гонконг атайын административдик аймагы"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr ""
+msgstr "Херд аралы жана МакДональд аралдары"
 
 #. Name for HND
 msgid "Honduras"
@@ -664,7 +657,7 @@ msgstr "Гондурас"
 
 #. Official name for HND
 msgid "Republic of Honduras"
-msgstr ""
+msgstr "Гондурас Республикасы"
 
 #. Name for HRV
 msgid "Croatia"
@@ -672,7 +665,7 @@ msgstr "Хорватия"
 
 #. Official name for HRV
 msgid "Republic of Croatia"
-msgstr ""
+msgstr "Хорват Республикасы"
 
 #. Name for HTI
 msgid "Haiti"
@@ -680,7 +673,7 @@ msgstr "Гаити Республикасы"
 
 #. Official name for HTI
 msgid "Republic of Haiti"
-msgstr ""
+msgstr "Гаити Республикасы"
 
 #. Name for HUN, Official name for HUN
 msgid "Hungary"
@@ -692,7 +685,7 @@ msgstr "Индонезия"
 
 #. Official name for IDN
 msgid "Republic of Indonesia"
-msgstr ""
+msgstr "Индонезия Республикасы"
 
 #. Name for IMN
 msgid "Isle of Man"
@@ -704,7 +697,7 @@ msgstr "Индия"
 
 #. Official name for IND
 msgid "Republic of India"
-msgstr ""
+msgstr "Индия Республикасы"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
@@ -716,11 +709,11 @@ msgstr "Ирландия"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
-msgstr ""
+msgstr "Иран"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
-msgstr ""
+msgstr "Иран Ислам Республикасы"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -728,7 +721,7 @@ msgstr "Ирак"
 
 #. Official name for IRQ
 msgid "Republic of Iraq"
-msgstr ""
+msgstr "Ирак Республикасы"
 
 #. Name for ISL
 msgid "Iceland"
@@ -736,7 +729,7 @@ msgstr "Исландия"
 
 #. Official name for ISL
 msgid "Republic of Iceland"
-msgstr ""
+msgstr "Исландия Республикасы"
 
 #. Name for ISR
 msgid "Israel"
@@ -744,7 +737,7 @@ msgstr "Израиль"
 
 #. Official name for ISR
 msgid "State of Israel"
-msgstr ""
+msgstr "Израиль Мамлекети"
 
 #. Name for ITA
 msgid "Italy"
@@ -752,7 +745,7 @@ msgstr "Италия"
 
 #. Official name for ITA
 msgid "Italian Republic"
-msgstr ""
+msgstr "Италия Республикасы"
 
 #. Name for JAM
 msgid "Jamaica"
@@ -760,7 +753,7 @@ msgstr "Ямайка"
 
 #. Name for JEY
 msgid "Jersey"
-msgstr ""
+msgstr "Джерси"
 
 #. Name for JOR
 msgid "Jordan"
@@ -768,7 +761,7 @@ msgstr "Иордания"
 
 #. Official name for JOR
 msgid "Hashemite Kingdom of Jordan"
-msgstr ""
+msgstr "Иордан Хашимит Падышалыгы"
 
 #. Name for JPN
 msgid "Japan"
@@ -780,7 +773,7 @@ msgstr "Казакстан"
 
 #. Official name for KAZ
 msgid "Republic of Kazakhstan"
-msgstr ""
+msgstr "Казахстан Республикасы"
 
 #. Name for KEN
 msgid "Kenya"
@@ -788,7 +781,7 @@ msgstr "Кения"
 
 #. Official name for KEN
 msgid "Republic of Kenya"
-msgstr ""
+msgstr "Кения Республикасы"
 
 #. Name for KGZ
 msgid "Kyrgyzstan"
@@ -796,7 +789,7 @@ msgstr "Кыргызстан"
 
 #. Official name for KGZ
 msgid "Kyrgyz Republic"
-msgstr ""
+msgstr "Кыргызстан Республикасы"
 
 #. Name for KHM
 msgid "Cambodia"
@@ -804,7 +797,7 @@ msgstr "Камбожа"
 
 #. Official name for KHM
 msgid "Kingdom of Cambodia"
-msgstr ""
+msgstr "Камбоджа Падышалыгы"
 
 #. Name for KIR
 msgid "Kiribati"
@@ -812,7 +805,7 @@ msgstr "Кирибати"
 
 #. Official name for KIR
 msgid "Republic of Kiribati"
-msgstr ""
+msgstr "Кирибати Республикасы"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
@@ -820,7 +813,7 @@ msgstr "Сент-Китс жана Невис"
 
 #. Name for KOR
 msgid "Korea, Republic of"
-msgstr ""
+msgstr "Корея Республикасы"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -828,11 +821,11 @@ msgstr "Кувейт"
 
 #. Official name for KWT
 msgid "State of Kuwait"
-msgstr ""
+msgstr "Кувейт Мамлекети"
 
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
-msgstr ""
+msgstr "Лаос Элдик Демократияляк Республикасы"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -840,7 +833,7 @@ msgstr "Ливан"
 
 #. Official name for LBN
 msgid "Lebanese Republic"
-msgstr ""
+msgstr "Ливан Республикасы"
 
 #. Name for LBR
 msgid "Liberia"
@@ -848,7 +841,7 @@ msgstr "Либерия"
 
 #. Official name for LBR
 msgid "Republic of Liberia"
-msgstr ""
+msgstr "Либерия Республикасы"
 
 #. Name for LBY, Official name for LBY
 msgid "Libya"
@@ -864,7 +857,7 @@ msgstr "Лихтенштейн"
 
 #. Official name for LIE
 msgid "Principality of Liechtenstein"
-msgstr ""
+msgstr "Лихтенштейн Княжествосу"
 
 #. Name for LKA
 msgid "Sri Lanka"
@@ -872,7 +865,7 @@ msgstr "Шри-Ланка"
 
 #. Official name for LKA
 msgid "Democratic Socialist Republic of Sri Lanka"
-msgstr ""
+msgstr "Шри-Ланка Республикасы"
 
 #. Name for LSO
 msgid "Lesotho"
@@ -880,7 +873,7 @@ msgstr "Лесото"
 
 #. Official name for LSO
 msgid "Kingdom of Lesotho"
-msgstr ""
+msgstr "Лесото Падышалыгы"
 
 #. Name for LTU
 msgid "Lithuania"
@@ -888,7 +881,7 @@ msgstr "Литва"
 
 #. Official name for LTU
 msgid "Republic of Lithuania"
-msgstr ""
+msgstr "Литва Республикасы"
 
 #. Name for LUX
 msgid "Luxembourg"
@@ -896,7 +889,7 @@ msgstr "Люксембург"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
-msgstr ""
+msgstr "Люксембург Улуу Княжествосу"
 
 #. Name for LVA
 msgid "Latvia"
@@ -904,19 +897,19 @@ msgstr "Латвия"
 
 #. Official name for LVA
 msgid "Republic of Latvia"
-msgstr ""
+msgstr "Латвия Республикасы"
 
 #. Name for MAC
 msgid "Macao"
-msgstr ""
+msgstr "Макао"
 
 #. Official name for MAC
 msgid "Macao Special Administrative Region of China"
-msgstr ""
+msgstr "Макао Атайын Администрациялык Району"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
-msgstr ""
+msgstr "Сен-Мартин (Франция аймагы)"
 
 #. Name for MAR
 msgid "Morocco"
@@ -924,7 +917,7 @@ msgstr "Марокко"
 
 #. Official name for MAR
 msgid "Kingdom of Morocco"
-msgstr ""
+msgstr "Марокко Падышалыгы"
 
 #. Name for MCO
 msgid "Monaco"
@@ -932,15 +925,15 @@ msgstr "Монако"
 
 #. Official name for MCO
 msgid "Principality of Monaco"
-msgstr ""
+msgstr "Монако Княжествосу"
 
 #. Name for MDA
 msgid "Moldova, Republic of"
-msgstr ""
+msgstr "Молдова Республикасы"
 
 #. Official name for MDA
 msgid "Republic of Moldova"
-msgstr ""
+msgstr "Молдова Республикасы"
 
 #. Common name for MDA
 msgid "Moldova"
@@ -952,7 +945,7 @@ msgstr "Мадагаскар Республикасы"
 
 #. Official name for MDG
 msgid "Republic of Madagascar"
-msgstr ""
+msgstr "Мадагаскар Республикасы"
 
 #. Name for MDV
 msgid "Maldives"
@@ -960,7 +953,7 @@ msgstr "Мальдивдер"
 
 #. Official name for MDV
 msgid "Republic of Maldives"
-msgstr ""
+msgstr "Мальдив Республикасы"
 
 #. Name for MEX
 msgid "Mexico"
@@ -968,23 +961,23 @@ msgstr "Мексика"
 
 #. Official name for MEX
 msgid "United Mexican States"
-msgstr ""
+msgstr "Мексика Кошмо Штаттары"
 
 #. Name for MHL
 msgid "Marshall Islands"
-msgstr ""
+msgstr "Маршалл аралдары"
 
 #. Official name for MHL
 msgid "Republic of the Marshall Islands"
-msgstr ""
+msgstr "Маршалл Аралдары Республикасы"
 
 #. Name for MKD
 msgid "Macedonia, Republic of"
-msgstr ""
+msgstr "Македон Республикасы"
 
 #. Official name for MKD
 msgid "The Former Yugoslav Republic of Macedonia"
-msgstr ""
+msgstr "Мурунку Югославия Республикасы Македония"
 
 #. Name for MLI
 msgid "Mali"
@@ -992,7 +985,7 @@ msgstr "Мали"
 
 #. Official name for MLI
 msgid "Republic of Mali"
-msgstr ""
+msgstr "Мали Республикасы"
 
 #. Name for MLT
 msgid "Malta"
@@ -1000,7 +993,7 @@ msgstr "Мальта"
 
 #. Official name for MLT
 msgid "Republic of Malta"
-msgstr ""
+msgstr "Мальта Республикасы"
 
 #. Name for MMR
 msgid "Myanmar"
@@ -1008,7 +1001,7 @@ msgstr "Мьянма"
 
 #. Official name for MMR
 msgid "Republic of Myanmar"
-msgstr ""
+msgstr "Мьянма Союз Республикасы"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1020,11 +1013,11 @@ msgstr "Моңголстан"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "Түштүк Марианна аралдары"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
-msgstr ""
+msgstr "Түштүк Марианна Аралдардын Шериктештиги"
 
 #. Name for MOZ
 msgid "Mozambique"
@@ -1032,7 +1025,7 @@ msgstr "Мозамбик"
 
 #. Official name for MOZ
 msgid "Republic of Mozambique"
-msgstr ""
+msgstr "Мозамбик Республикасы"
 
 #. Name for MRT
 msgid "Mauritania"
@@ -1040,7 +1033,7 @@ msgstr "Мавритания"
 
 #. Official name for MRT
 msgid "Islamic Republic of Mauritania"
-msgstr ""
+msgstr "Мавритания Ислам Республикасы"
 
 #. Name for MSR
 msgid "Montserrat"
@@ -1056,7 +1049,7 @@ msgstr "Маврикий"
 
 #. Official name for MUS
 msgid "Republic of Mauritius"
-msgstr ""
+msgstr "Маврикий Республикасы"
 
 #. Name for MWI
 msgid "Malawi"
@@ -1064,7 +1057,7 @@ msgstr "Малави"
 
 #. Official name for MWI
 msgid "Republic of Malawi"
-msgstr ""
+msgstr "Малави Республикасы"
 
 #. Name for MYS
 msgid "Malaysia"
@@ -1072,7 +1065,7 @@ msgstr "Малайзия"
 
 #. Name for MYT
 msgid "Mayotte"
-msgstr "Майотта аралы"
+msgstr "Майот"
 
 #. Name for NAM
 msgid "Namibia"
@@ -1080,7 +1073,7 @@ msgstr "Намибия"
 
 #. Official name for NAM
 msgid "Republic of Namibia"
-msgstr ""
+msgstr "Намибия Республикасы"
 
 #. Name for NCL
 msgid "New Caledonia"
@@ -1092,7 +1085,7 @@ msgstr "Нигер"
 
 #. Official name for NER
 msgid "Republic of the Niger"
-msgstr ""
+msgstr "Нигер Республикасы"
 
 #. Name for NFK
 msgid "Norfolk Island"
@@ -1104,7 +1097,7 @@ msgstr "Нигерия"
 
 #. Official name for NGA
 msgid "Federal Republic of Nigeria"
-msgstr ""
+msgstr "Нигерия Федеративдик Республикасы"
 
 #. Name for NIC
 msgid "Nicaragua"
@@ -1112,7 +1105,7 @@ msgstr "Никарагуа"
 
 #. Official name for NIC
 msgid "Republic of Nicaragua"
-msgstr ""
+msgstr "Никарагуа Республикасы"
 
 #. Name for NIU, Official name for NIU
 msgid "Niue"
@@ -1124,7 +1117,7 @@ msgstr "Нидерландтар"
 
 #. Official name for NLD
 msgid "Kingdom of the Netherlands"
-msgstr ""
+msgstr "Нидерланд Падышалыгы"
 
 #. Name for NOR
 msgid "Norway"
@@ -1132,7 +1125,7 @@ msgstr "Норвегия"
 
 #. Official name for NOR
 msgid "Kingdom of Norway"
-msgstr ""
+msgstr "Норвегия Падышалыгы"
 
 #. Name for NPL
 msgid "Nepal"
@@ -1140,7 +1133,7 @@ msgstr "Непал"
 
 #. Official name for NPL
 msgid "Federal Democratic Republic of Nepal"
-msgstr ""
+msgstr "Непал Федералдык Демократиялык Республикасы"
 
 #. Name for NRU
 msgid "Nauru"
@@ -1148,7 +1141,7 @@ msgstr "Науру"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
-msgstr ""
+msgstr "Науру Республикасы"
 
 #. Name for NZL
 msgid "New Zealand"
@@ -1160,7 +1153,7 @@ msgstr "Оман"
 
 #. Official name for OMN
 msgid "Sultanate of Oman"
-msgstr ""
+msgstr "Оман Султанаты"
 
 #. Name for PAK
 msgid "Pakistan"
@@ -1168,7 +1161,7 @@ msgstr "Пакистан"
 
 #. Official name for PAK
 msgid "Islamic Republic of Pakistan"
-msgstr ""
+msgstr "Пакистан Ислам Республикасы"
 
 #. Name for PAN
 msgid "Panama"
@@ -1176,11 +1169,11 @@ msgstr "Панама"
 
 #. Official name for PAN
 msgid "Republic of Panama"
-msgstr ""
+msgstr "Панама Республикасы"
 
 #. Name for PCN
 msgid "Pitcairn"
-msgstr ""
+msgstr "Питкэрн аралдары"
 
 #. Name for PER
 msgid "Peru"
@@ -1188,7 +1181,7 @@ msgstr "Перу"
 
 #. Official name for PER
 msgid "Republic of Peru"
-msgstr ""
+msgstr "Перу Республикасы"
 
 #. Name for PHL
 msgid "Philippines"
@@ -1196,7 +1189,7 @@ msgstr "Филиппиндер"
 
 #. Official name for PHL
 msgid "Republic of the Philippines"
-msgstr ""
+msgstr "Филиппиндер Республикасы"
 
 #. Name for PLW
 msgid "Palau"
@@ -1204,15 +1197,15 @@ msgstr "Палау"
 
 #. Official name for PLW
 msgid "Republic of Palau"
-msgstr ""
+msgstr "Палау Республикасы"
 
 #. Name for PNG
 msgid "Papua New Guinea"
-msgstr "Папуа-Жаӊы-Гвинея."
+msgstr "Папуа-Жаӊы Гвинея"
 
 #. Official name for PNG
 msgid "Independent State of Papua New Guinea"
-msgstr ""
+msgstr "Эгемендүү Папуа-Жаңы Гвинея Мамлекети"
 
 #. Name for POL
 msgid "Poland"
@@ -1220,7 +1213,7 @@ msgstr "Польша"
 
 #. Official name for POL
 msgid "Republic of Poland"
-msgstr ""
+msgstr "Польша Республикасы"
 
 #. Name for PRI
 msgid "Puerto Rico"
@@ -1228,11 +1221,11 @@ msgstr "Пуэрто-Рико"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
-msgstr ""
+msgstr "Корея Элдик Демократиялык Республикасы"
 
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
-msgstr ""
+msgstr "Корея Элдик Демократиялык Республикасы"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1240,7 +1233,7 @@ msgstr "Португалия"
 
 #. Official name for PRT
 msgid "Portuguese Republic"
-msgstr ""
+msgstr "Португалия Республикасы"
 
 #. Name for PRY
 msgid "Paraguay"
@@ -1248,15 +1241,15 @@ msgstr "Парагвай"
 
 #. Official name for PRY
 msgid "Republic of Paraguay"
-msgstr ""
+msgstr "Парагвай Республикасы"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "Палестина Мамлекети"
 
 #. Official name for PSE
 msgid "the State of Palestine"
-msgstr ""
+msgstr "Палестина Мамлекети"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1268,7 +1261,7 @@ msgstr "Катар"
 
 #. Official name for QAT
 msgid "State of Qatar"
-msgstr ""
+msgstr "Катар Мамлекети"
 
 #. Name for REU
 msgid "Réunion"
@@ -1280,7 +1273,7 @@ msgstr "Румыния"
 
 #. Name for RUS
 msgid "Russian Federation"
-msgstr ""
+msgstr "Орус Федерациясы"
 
 #. Name for RWA
 msgid "Rwanda"
@@ -1288,7 +1281,7 @@ msgstr "Руанда"
 
 #. Official name for RWA
 msgid "Rwandese Republic"
-msgstr ""
+msgstr "Руанда Республикасы"
 
 #. Name for SAU
 msgid "Saudi Arabia"
@@ -1296,7 +1289,7 @@ msgstr "Сауд Арабия Падышалыгы"
 
 #. Official name for SAU
 msgid "Kingdom of Saudi Arabia"
-msgstr ""
+msgstr "Сауд Аравия Падышалыгы"
 
 #. Name for SDN
 msgid "Sudan"
@@ -1304,7 +1297,7 @@ msgstr "Судан"
 
 #. Official name for SDN
 msgid "Republic of the Sudan"
-msgstr ""
+msgstr "Судан Республикасы"
 
 #. Name for SEN
 msgid "Senegal"
@@ -1312,7 +1305,7 @@ msgstr "Сенегал"
 
 #. Official name for SEN
 msgid "Republic of Senegal"
-msgstr ""
+msgstr "Сенегал Республикасы"
 
 #. Name for SGP
 msgid "Singapore"
@@ -1320,23 +1313,23 @@ msgstr "Сингапур, мамлекет"
 
 #. Official name for SGP
 msgid "Republic of Singapore"
-msgstr ""
+msgstr "Сингапур Республикасы"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr ""
+msgstr "Түштүк Джорджия жана Түштүк Сандвич аралдары"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr ""
+msgstr "Касиеттүү Елена, Вознесение жана Тристан-да-Кунья аралдары"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
-msgstr ""
+msgstr "Шпицберген жана Ян-Майен"
 
 #. Name for SLB
 msgid "Solomon Islands"
-msgstr "Соломон Аралдары"
+msgstr "Соломон аралдары"
 
 #. Name for SLE
 msgid "Sierra Leone"
@@ -1344,23 +1337,23 @@ msgstr "Сьерра-Леоне"
 
 #. Official name for SLE
 msgid "Republic of Sierra Leone"
-msgstr ""
+msgstr "Сьерра-Леоне Республикасы"
 
 #. Name for SLV
 msgid "El Salvador"
-msgstr ""
+msgstr "Сальвадор"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
-msgstr ""
+msgstr "Сальвадор Республикасы"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "Сан Марино"
+msgstr "Сан-Марино"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
-msgstr ""
+msgstr "Сан-Марино Республикасы"
 
 #. Name for SOM
 msgid "Somalia"
@@ -1368,11 +1361,11 @@ msgstr "Сомали"
 
 #. Official name for SOM
 msgid "Federal Republic of Somalia"
-msgstr ""
+msgstr "Федеративдик Сомали Республикасы"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr ""
+msgstr "Сен-Пьер жана Микелон"
 
 #. Name for SRB
 msgid "Serbia"
@@ -1380,7 +1373,7 @@ msgstr "Сербия"
 
 #. Official name for SRB
 msgid "Republic of Serbia"
-msgstr ""
+msgstr "Серб Республикасы"
 
 #. Name for SSD
 msgid "South Sudan"
@@ -1388,7 +1381,7 @@ msgstr "Түштүк Судан"
 
 #. Official name for SSD
 msgid "Republic of South Sudan"
-msgstr ""
+msgstr "Түштүк Судан Республикасы"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1396,7 +1389,7 @@ msgstr "Сан-Томе жана Принсипи"
 
 #. Official name for STP
 msgid "Democratic Republic of Sao Tome and Principe"
-msgstr ""
+msgstr "Сан-Томе жана Принсипи Демократиялык Республикасы"
 
 #. Name for SUR
 msgid "Suriname"
@@ -1404,7 +1397,7 @@ msgstr "Суринам"
 
 #. Official name for SUR
 msgid "Republic of Suriname"
-msgstr ""
+msgstr "Суринам Республикасы"
 
 #. Name for SVK
 msgid "Slovakia"
@@ -1412,15 +1405,15 @@ msgstr "Словакия"
 
 #. Official name for SVK
 msgid "Slovak Republic"
-msgstr ""
+msgstr "Словак Республикасы"
 
 #. Name for SVN
 msgid "Slovenia"
-msgstr ""
+msgstr "Словения"
 
 #. Official name for SVN
 msgid "Republic of Slovenia"
-msgstr ""
+msgstr "Словения Республикасы"
 
 #. Name for SWE
 msgid "Sweden"
@@ -1428,7 +1421,7 @@ msgstr "Швеция"
 
 #. Official name for SWE
 msgid "Kingdom of Sweden"
-msgstr ""
+msgstr "Швеция Падышалыгы"
 
 #. Name for SWZ
 msgid "Swaziland"
@@ -1436,27 +1429,27 @@ msgstr "Свазиленд"
 
 #. Official name for SWZ
 msgid "Kingdom of Swaziland"
-msgstr ""
+msgstr "Свазиленд Падышалыгы"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
-msgstr ""
+msgstr "Синт-Мартен (Нидерланд аймагы)"
 
 #. Name for SYC
 msgid "Seychelles"
-msgstr "Сейшел Аралдары"
+msgstr "Сейшел аралдары"
 
 #. Official name for SYC
 msgid "Republic of Seychelles"
-msgstr ""
+msgstr "Сейшел Аралдары Республикасы"
 
 #. Name for SYR
 msgid "Syrian Arab Republic"
-msgstr ""
+msgstr "Сирия Араб Республикасы"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "Туркс жана Каикос аралдары"
 
 #. Name for TCD
 msgid "Chad"
@@ -1464,15 +1457,15 @@ msgstr "Чад"
 
 #. Official name for TCD
 msgid "Republic of Chad"
-msgstr ""
+msgstr "Чад Республикасы"
 
 #. Name for TGO
 msgid "Togo"
-msgstr ""
+msgstr "Того"
 
 #. Official name for TGO
 msgid "Togolese Republic"
-msgstr ""
+msgstr "Тоголез Республикасы"
 
 #. Name for THA
 msgid "Thailand"
@@ -1480,7 +1473,7 @@ msgstr "Таиланд"
 
 #. Official name for THA
 msgid "Kingdom of Thailand"
-msgstr ""
+msgstr "Тайланд Падышалыгы"
 
 #. Name for TJK
 msgid "Tajikistan"
@@ -1488,11 +1481,11 @@ msgstr "Тажикстан"
 
 #. Official name for TJK
 msgid "Republic of Tajikistan"
-msgstr ""
+msgstr "Тажикистан Республикасы"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr ""
+msgstr "Токелау"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1500,11 +1493,11 @@ msgstr "Түркмөнстан"
 
 #. Name for TLS
 msgid "Timor-Leste"
-msgstr ""
+msgstr "Тимор-Лесте"
 
 #. Official name for TLS
 msgid "Democratic Republic of Timor-Leste"
-msgstr ""
+msgstr "Тимор-Лесте Демократиялык Республикасы"
 
 #. Name for TON
 msgid "Tonga"
@@ -1512,7 +1505,7 @@ msgstr "Тонга"
 
 #. Official name for TON
 msgid "Kingdom of Tonga"
-msgstr ""
+msgstr "Тонга Падышалыгы"
 
 #. Name for TTO
 msgid "Trinidad and Tobago"
@@ -1520,7 +1513,7 @@ msgstr "Тринидад жана Тобаго"
 
 #. Official name for TTO
 msgid "Republic of Trinidad and Tobago"
-msgstr ""
+msgstr "Тринидад жана Тобаго Республикасы"
 
 #. Name for TUN
 msgid "Tunisia"
@@ -1528,7 +1521,7 @@ msgstr "Тунис"
 
 #. Official name for TUN
 msgid "Republic of Tunisia"
-msgstr ""
+msgstr "Тунис Республикасы"
 
 #. Name for TUR
 msgid "Turkey"
@@ -1536,7 +1529,7 @@ msgstr "Түркия Республикасы"
 
 #. Official name for TUR
 msgid "Republic of Turkey"
-msgstr ""
+msgstr "Түрк Республикасы"
 
 #. Name for TUV
 msgid "Tuvalu"
@@ -1544,7 +1537,7 @@ msgstr "Тувалу"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
-msgstr ""
+msgstr "Тайвань Кытай Провинциясы"
 
 #. Common name for TWN
 msgid "Taiwan"
@@ -1552,11 +1545,11 @@ msgstr "Тайвань"
 
 #. Name for TZA
 msgid "Tanzania, United Republic of"
-msgstr ""
+msgstr "Танзания"
 
 #. Official name for TZA
 msgid "United Republic of Tanzania"
-msgstr ""
+msgstr "Танзания Бириккен Республикасы"
 
 #. Common name for TZA
 msgid "Tanzania"
@@ -1568,7 +1561,7 @@ msgstr "Уганда"
 
 #. Official name for UGA
 msgid "Republic of Uganda"
-msgstr ""
+msgstr "Уганда Республикасы"
 
 #. Name for UKR
 msgid "Ukraine"
@@ -1576,19 +1569,19 @@ msgstr "Украина"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "АКШ Сырткы Кичине аралдары"
 
 #. Name for URY
 msgid "Uruguay"
-msgstr ""
+msgstr "Уругвай"
 
 #. Official name for URY
 msgid "Eastern Republic of Uruguay"
-msgstr ""
+msgstr "Уругвай Чыгыш Республикасы"
 
 #. Name for USA
 msgid "United States"
-msgstr ""
+msgstr "АКШ"
 
 #. Official name for USA
 msgid "United States of America"
@@ -1600,11 +1593,11 @@ msgstr "Өзбекстан"
 
 #. Official name for UZB
 msgid "Republic of Uzbekistan"
-msgstr ""
+msgstr "Өзбекстан Республикасы"
 
 #. Name for VAT
 msgid "Holy See (Vatican City State)"
-msgstr ""
+msgstr "Ватикан"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
@@ -1612,11 +1605,11 @@ msgstr "Сент-Винсент жана Гренадиндер"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
-msgstr ""
+msgstr "Венесуэла Боливар Республикасы"
 
 #. Official name for VEN
 msgid "Bolivarian Republic of Venezuela"
-msgstr ""
+msgstr "Венесуэла Боливар Республикасы"
 
 #. Common name for VEN
 msgid "Venezuela"
@@ -1624,27 +1617,27 @@ msgstr "Венесуэла"
 
 #. Name for VGB
 msgid "Virgin Islands, British"
-msgstr ""
+msgstr "Виргин аралдары (Улуу Британия)"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "Улуу Британия Виргин аралдары"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr ""
+msgstr "Виргин аралдары (АКШ)"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr ""
+msgstr "АКШ Виргин аралдары"
 
 #. Name for VNM
 msgid "Viet Nam"
-msgstr ""
+msgstr "Вьетнам"
 
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
-msgstr ""
+msgstr "Вьетнам Социалисттик Республикасы"
 
 #. Common name for VNM
 msgid "Vietnam"
@@ -1656,11 +1649,11 @@ msgstr "Вануату"
 
 #. Official name for VUT
 msgid "Republic of Vanuatu"
-msgstr ""
+msgstr "Вануату Республикасы"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr ""
+msgstr "Уоллес жана Футана"
 
 #. Name for WSM
 msgid "Samoa"
@@ -1668,7 +1661,7 @@ msgstr "Самоа"
 
 #. Official name for WSM
 msgid "Independent State of Samoa"
-msgstr ""
+msgstr "Самоа Көз Карандысыз Мамлекети"
 
 #. Name for YEM
 msgid "Yemen"
@@ -1676,7 +1669,7 @@ msgstr "Йемен"
 
 #. Official name for YEM
 msgid "Republic of Yemen"
-msgstr ""
+msgstr "Йемен Республикасы"
 
 #. Name for ZAF
 msgid "South Africa"
@@ -1684,7 +1677,7 @@ msgstr "Түштүк-Африка Республикасы"
 
 #. Official name for ZAF
 msgid "Republic of South Africa"
-msgstr ""
+msgstr "Түштүк-Африка Республикасы"
 
 #. Name for ZMB
 msgid "Zambia"
@@ -1692,7 +1685,7 @@ msgstr "Замбия"
 
 #. Official name for ZMB
 msgid "Republic of Zambia"
-msgstr ""
+msgstr "Замбия Республикасы"
 
 #. Name for ZWE
 msgid "Zimbabwe"
@@ -1700,4 +1693,4 @@ msgstr "Зимбабве"
 
 #. Official name for ZWE
 msgid "Republic of Zimbabwe"
-msgstr ""
+msgstr "Зимбабве Республикасы"

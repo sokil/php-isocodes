@@ -9,19 +9,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2017-12-23 14:58+0100\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
-"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-01-14 14:41+0000\n"
+"Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-5/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Poedit 2.0.5\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -49,7 +50,7 @@ msgstr "Alakaluf nyelvek"
 
 #. Name for aql
 msgid "Algic languages"
-msgstr ""
+msgstr "algikus nyelvek"
 
 #. Name for art
 msgid "Artificial languages"
@@ -61,7 +62,7 @@ msgstr "atapaszka nyelvek"
 
 #. Name for auf
 msgid "Arauan languages"
-msgstr ""
+msgstr "arauan nyelvek"
 
 #. Name for aus
 msgid "Australian languages"
@@ -69,7 +70,7 @@ msgstr "ausztráliai nyelvek"
 
 #. Name for awd
 msgid "Arawakan languages"
-msgstr ""
+msgstr "arawakan nyelvek"
 
 #. Name for azc
 msgid "Uto-Aztecan languages"
@@ -93,7 +94,7 @@ msgstr "berber nyelvek"
 
 #. Name for bih
 msgid "Bihari languages"
-msgstr "bihari languages"
+msgstr "bihari nyelvek"
 
 #. Name for bnt
 msgid "Bantu languages"
@@ -113,7 +114,7 @@ msgstr "kaukázusi nyelvek"
 
 #. Name for cba
 msgid "Chibchan languages"
-msgstr ""
+msgstr "csibcsa nyelvek"
 
 #. Name for ccn
 msgid "North Caucasian languages"
@@ -129,7 +130,7 @@ msgstr "csádi nyelvek"
 
 #. Name for cdd
 msgid "Caddoan languages"
-msgstr ""
+msgstr "kaddoa nyelvek"
 
 #. Name for cel
 msgid "Celtic languages"
@@ -169,7 +170,7 @@ msgstr "land dayak nyelvek"
 
 #. Name for dmn
 msgid "Mande languages"
-msgstr ""
+msgstr "mande nyelvek"
 
 #. Name for dra
 msgid "Dravidian languages"
@@ -193,7 +194,7 @@ msgstr "finnugor nyelvek"
 
 #. Name for fox
 msgid "Formosan languages"
-msgstr ""
+msgstr "formosan nyelvek"
 
 #. Name for gem
 msgid "Germanic languages"
@@ -217,11 +218,11 @@ msgstr "görög nyelvek"
 
 #. Name for hmx
 msgid "Hmong-Mien languages"
-msgstr ""
+msgstr "hmong-mien nyelvek"
 
 #. Name for hok
 msgid "Hokan languages"
-msgstr ""
+msgstr "hokan nyelvek"
 
 #. Name for hyx
 msgid "Armenian (family)"
@@ -233,7 +234,7 @@ msgstr "indoiráni nyelvek"
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr ""
+msgstr "ijo nyelvek"
 
 #. Name for inc
 msgid "Indic languages"
@@ -253,7 +254,7 @@ msgstr "irokéz nyelvek"
 
 #. Name for itc
 msgid "Italic languages"
-msgstr "olasz nyelvek"
+msgstr "italikus nyelvek"
 
 #. Name for jpx
 msgid "Japanese (family)"
@@ -281,7 +282,7 @@ msgstr "ausztronéz nyelvek"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr "mon–khmer nyelvek"
+msgstr "mon-khmer nyelvek"
 
 #. Name for mno
 msgid "Manobo languages"
@@ -305,7 +306,7 @@ msgstr "észak-amerikai indián nyelvek"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
-msgstr ""
+msgstr "közép-új-guineai nyelvek"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
@@ -317,7 +318,7 @@ msgstr "núbiai nyelvek"
 
 #. Name for omq
 msgid "Oto-Manguean languages"
-msgstr ""
+msgstr "oto-mangue nyelvek"
 
 #. Name for omv
 msgid "Omotic languages"

@@ -8,19 +8,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
-"devel@lists.alioth.debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2018-01-01 22:47+0000\n"
-"Last-Translator: Adolfo Jayme-Barrientos <fitojb@ubuntu.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/iso-"
-"codes/iso-15924/es/>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-05-03 18:40+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-15924/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -43,10 +43,8 @@ msgid "Arabic"
 msgstr "árabe"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "siríaco (variante oriental)"
+msgstr "árabe (variante «nastaliq»)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -154,7 +152,6 @@ msgid "Devanagari (Nagari)"
 msgstr "devanagari (Nagari)"
 
 #. Name for Dsrt
-#, fuzzy
 msgid "Deseret (Mormon)"
 msgstr "deseret (mormón)"
 
@@ -176,7 +173,7 @@ msgstr "jeroglíficos egipcios"
 
 #. Name for Elba
 msgid "Elbasan"
-msgstr ""
+msgstr "Elbasanés"
 
 #. Name for Ethi
 #, fuzzy
@@ -217,15 +214,15 @@ msgstr "gurmuji"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
-msgstr ""
+msgstr "han con bopomofo (alias de han + bopomofo)"
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
-msgstr "Hangul (Hangŭl, Hangeul)"
+msgstr "hangul (hangŭl, hangeul)"
 
 #. Name for Hani
 msgid "Han (Hanzi, Kanji, Hanja)"
-msgstr "Han (Hanzi, Kanji, Hanja)"
+msgstr "han (hanzi, kanji, hanja)"
 
 #. Name for Hano
 msgid "Hanunoo (Hanunóo)"
@@ -272,17 +269,15 @@ msgstr "húngaro antiguo (runas húngaras)"
 
 #. Name for Inds
 msgid "Indus (Harappan)"
-msgstr "proto-índico (alfabeto de Harappa)"
+msgstr "protoíndico (alfabeto de Harappa)"
 
 #. Name for Ital
 msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "itálico antiguo (etrusco, osco, etc.)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "coreano (alias para Hangul + Han)"
+msgstr "jamo (alias de subconjunto de jamo para hangul)"
 
 #. Name for Java
 msgid "Javanese"

@@ -11,17 +11,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2010-02-01 09:57+0100\n"
-"Last-Translator: Gabor Kelemen <kelemeng@gnome.hu>\n"
-"Language-Team: Hungarian <translation-team-hu@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-01-14 14:41+0000\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -267,7 +269,7 @@ msgstr "Durrës"
 
 #. Name for AL-03, Name for AL-EL
 msgid "Elbasan"
-msgstr "Elbasan"
+msgstr "elbasan"
 
 #. Name for AL-04, Name for AL-FR
 msgid "Fier"
@@ -3126,9 +3128,8 @@ msgid "San Andrés, Providencia y Santa Catalina"
 msgstr ""
 
 #. Name for CO-SUC, Name for VE-R
-#, fuzzy
 msgid "Sucre"
-msgstr "Szucsáva"
+msgstr "sucre"
 
 #. Name for CO-TOL
 msgid "Tolima"
@@ -5433,9 +5434,8 @@ msgid "Saint-Martin"
 msgstr "Szent Mária"
 
 #. Name for FR-MQ
-#, fuzzy
 msgid "Martinique"
-msgstr "Maine"
+msgstr "Martinique"
 
 #. Name for FR-NAQ
 #, fuzzy
@@ -6345,7 +6345,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr "Nagy-Britannia (Egyesült Királyság)"
+msgstr "Egyesült Királyság"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -7249,7 +7249,7 @@ msgstr "Intibucá"
 
 #. Name for HN-LE
 msgid "Lempira"
-msgstr ""
+msgstr "lempira"
 
 #. Name for HN-OC
 msgid "Ocotepeque"
@@ -7579,7 +7579,7 @@ msgstr "Banten"
 
 #. Name for ID-GO
 msgid "Gorontalo"
-msgstr "Gorontalo"
+msgstr "gorontalo"
 
 #. Name for ID-IJ, Name for ID-PA
 msgid "Papua"
@@ -7985,7 +7985,7 @@ msgstr ""
 
 #. Name for IN-SK
 msgid "Sikkim"
-msgstr ""
+msgstr "Szikkim"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"
@@ -16339,9 +16339,8 @@ msgid "Borgo Maggiore"
 msgstr "Borgo Maggiore"
 
 #. Name for SM-07
-#, fuzzy
 msgid "San Marino"
-msgstr "Szent Mária"
+msgstr "San Marino"
 
 #. Name for SM-08
 #, fuzzy
@@ -18371,7 +18370,7 @@ msgstr "Johnston-atoll"
 
 #. Name for UM-71
 msgid "Midway Islands"
-msgstr "Midway szigetek"
+msgstr "Midway-szigetek"
 
 #. Name for UM-76
 msgid "Navassa Island"
@@ -18379,7 +18378,7 @@ msgstr "Navassa sziget"
 
 #. Name for UM-79
 msgid "Wake Island"
-msgstr ""
+msgstr "Wake-sziget"
 
 #. Name for UM-81
 msgid "Baker Island"
@@ -18439,7 +18438,7 @@ msgstr "Wahington D.C."
 
 #. Name for US-DE
 msgid "Delaware"
-msgstr "Delaware"
+msgstr "delavár"
 
 #. Name for US-FL, Name for UY-FD
 #, fuzzy
@@ -18448,7 +18447,7 @@ msgstr "Florida"
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr "Georgia"
+msgstr "Grúzia"
 
 #. Name for US-GU
 msgid "Guam"
@@ -18508,7 +18507,7 @@ msgstr "Missouri"
 
 #. Name for US-MP
 msgid "Northern Mariana Islands"
-msgstr "Északi Mariana-szigetek"
+msgstr "Északi-Mariana-szigetek"
 
 #. Name for US-MS
 msgid "Mississippi"
@@ -18588,7 +18587,7 @@ msgstr "Texas"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "Amerikai Egyesült Államok - kisebb külső szigetek"
+msgstr "Az Amerikai Egyesült Államok lakatlan külbirtokai"
 
 #. Name for US-UT
 msgid "Utah"

@@ -5,22 +5,25 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Andhika Padmawan <andhika.padmawan@gmail.com>, 2010.
 # Ahmad Sofyan <fade@2bl.ac>, 2001.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Andhika Padmawan <andhika.padmawan@gmail.com>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2014-01-24 21:14+0700\n"
-"Last-Translator: Andhika Padmawan <andhika.padmawan@gmail.com>\n"
-"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-07 17:37+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-2/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.20-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -32,7 +35,7 @@ msgstr "Abkhazian"
 
 #. Name for ace
 msgid "Achinese"
-msgstr "Achin"
+msgstr "Aceh"
 
 #. Name for ach
 msgid "Acoli"
@@ -88,7 +91,7 @@ msgstr "Amharic"
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "English, Kuno (M 450-1100)"
+msgstr "Inggris, Kuno (kl. 450-1100)"
 
 #. Name for anp
 msgid "Angika"
@@ -160,7 +163,7 @@ msgstr "Aymara"
 
 #. Name for aze
 msgid "Azerbaijani"
-msgstr "Azerbaijani"
+msgstr "Azerbaijan"
 
 #. Name for bad
 msgid "Banda languages"
@@ -244,7 +247,7 @@ msgstr "Siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "Bantu (Lainnya)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -472,7 +475,7 @@ msgstr "Bahasa Dravidia"
 
 #. Name for dsb
 msgid "Lower Sorbian"
-msgstr "Sorbia Rendah"
+msgstr "Sorbia Bawah"
 
 #. Name for dua
 msgid "Duala"
@@ -480,7 +483,7 @@ msgstr "Duala"
 
 #. Name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "Belanda, Tengah (M 1050-1350)"
+msgstr "Belanda, Abad Pertengahan (M 1050-1350)"
 
 #. Name for dyu
 msgid "Dyula"
@@ -496,7 +499,7 @@ msgstr "Efik"
 
 #. Name for egy
 msgid "Egyptian (Ancient)"
-msgstr "Mesir Kuno"
+msgstr "Mesir (Kuno)"
 
 #. Name for eka
 msgid "Ekajuk"
@@ -640,7 +643,7 @@ msgstr "Irlandia"
 
 #. Name for glg
 msgid "Galician"
-msgstr "Galicia"
+msgstr "Galisia"
 
 #. Name for glv
 msgid "Manx"
@@ -708,7 +711,7 @@ msgstr "Hawaii"
 
 #. Name for heb
 msgid "Hebrew"
-msgstr "Israel"
+msgstr "Ibrani"
 
 #. Name for her
 msgid "Herero"
@@ -744,7 +747,7 @@ msgstr "Kroasia"
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Sorbian Bagian Atas"
+msgstr "Sorbia Bagian Atas"
 
 #. Name for hun
 msgid "Hungarian"
@@ -832,7 +835,7 @@ msgstr "Italia"
 
 #. Name for jav
 msgid "Javanese"
-msgstr "Bahasa Jawa"
+msgstr "Jawa"
 
 #. Name for jbo
 msgid "Lojban"
@@ -844,11 +847,11 @@ msgstr "Jepang"
 
 #. Name for jpr
 msgid "Judeo-Persian"
-msgstr "Judeo-Persian"
+msgstr "Judeo-Persia"
 
 #. Name for jrb
 msgid "Judeo-Arabic"
-msgstr "Judeo-Arabic"
+msgstr "Judeo-Arab"
 
 #. Name for kaa
 msgid "Kara-Kalpak"
@@ -884,7 +887,7 @@ msgstr "Kashmir"
 
 #. Name for kat
 msgid "Georgian"
-msgstr "Georgian"
+msgstr "Georgia"
 
 #. Name for kau
 msgid "Kanuri"
@@ -915,10 +918,8 @@ msgid "Central Khmer"
 msgstr "Khmer Tengah"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
-msgstr "Khotanese;Sakan"
+msgstr "Khotanese; Sakan"
 
 #. Name for kik
 msgid "Kikuyu; Gikuyu"
@@ -1142,7 +1143,7 @@ msgstr "Bahasa tak tersandi"
 
 #. Name for mkd
 msgid "Macedonian"
-msgstr "Masedonian"
+msgstr "Masedonia"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
@@ -1154,7 +1155,7 @@ msgstr "Malagasi"
 
 #. Name for mlt
 msgid "Maltese"
-msgstr "Maltese"
+msgstr "Malta"
 
 #. Name for mnc
 msgid "Manchu"
@@ -1337,10 +1338,8 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "Occitan (pasca 1500)"
+msgstr "Occitan (pasca 1500); Provençal"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1400,7 +1399,7 @@ msgstr "Palauan"
 
 #. Name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Persian, Kuno (kl. 600-400 S.M.)"
+msgstr "Persia, Kuno (kl. 600-400 S.M.)"
 
 #. Name for phi
 msgid "Philippine languages"
@@ -1431,10 +1430,8 @@ msgid "Prakrit languages"
 msgstr "Bahasa Prakrit"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "Provençal, Kuno (sampai 1500); Occitan, Kuno (sampai 1500)"
+msgstr "Provençal, Kuno (sampai 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1473,10 +1470,8 @@ msgid "Romany"
 msgstr "Romany"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Moldavian; Moldovan"
+msgstr "Rumania; Moldavia; Moldovan"
 
 #. Name for run
 msgid "Rundi"
@@ -1503,10 +1498,8 @@ msgid "Yakut"
 msgstr "Yakut"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "Bahasa Indian Amerika Selatan"
+msgstr "Indian Amerika Selatan (Lainnya)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1518,7 +1511,7 @@ msgstr "Samaritan Aramaic"
 
 #. Name for san
 msgid "Sanskrit"
-msgstr "Sanskrit"
+msgstr "Sanskerta"
 
 #. Name for sas
 msgid "Sasak"
@@ -1534,7 +1527,7 @@ msgstr "Sisilia"
 
 #. Name for sco
 msgid "Scots"
-msgstr "Scots"
+msgstr "Skotlandia"
 
 #. Name for sel
 msgid "Selkup"
@@ -1606,7 +1599,7 @@ msgstr "Inari Sami"
 
 #. Name for smo
 msgid "Samoan"
-msgstr "Samoan"
+msgstr "Samoa"
 
 #. Name for sms
 msgid "Skolt Sami"
@@ -1650,7 +1643,7 @@ msgstr "Albania"
 
 #. Name for srd
 msgid "Sardinian"
-msgstr "Sardinian"
+msgstr "Sardinia"
 
 #. Name for srn
 msgid "Sranan Tongo"
@@ -1678,7 +1671,7 @@ msgstr "Sukuma"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Sundan"
+msgstr "Sunda"
 
 #. Name for sus
 msgid "Susu"
@@ -1746,7 +1739,7 @@ msgstr "Tagalog"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Thailand"
+msgstr "Thai"
 
 #. Name for tig
 msgid "Tigre"
@@ -1846,7 +1839,7 @@ msgstr "Uighur; Uyghur"
 
 #. Name for ukr
 msgid "Ukrainian"
-msgstr "Ukrainia"
+msgstr "Ukraina"
 
 #. Name for umb
 msgid "Umbundu"
@@ -1890,7 +1883,7 @@ msgstr "Bahasa Wakashan"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "Walamo"
 
 #. Name for war
 msgid "Waray"

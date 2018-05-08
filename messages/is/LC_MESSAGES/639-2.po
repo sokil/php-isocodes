@@ -6,24 +6,25 @@
 #
 # Copyright ©
 # Þórarinn Rúnar Einarsson <thori@mindspring.com>
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
-# Sveinn í Felli <sv1@fellsnet.is>, 2010, 2011, 2012, 2013, 2017.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Sveinn í Felli <sv1@fellsnet.is>, 2010-2013, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2017-10-23 16:07+0000\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-17 10:38+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
-"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/is/>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
+"X-Generator: Weblate 2.20-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Name for aar
 msgid "Afar"
@@ -83,7 +84,7 @@ msgstr "Algonquísk tungumál"
 
 #. Name for alt
 msgid "Southern Altai"
-msgstr "Suður-altai"
+msgstr "Suður-Altai"
 
 #. Name for amh
 msgid "Amharic"
@@ -103,7 +104,7 @@ msgstr "Apache tungumál"
 
 #. Name for ara
 msgid "Arabic"
-msgstr "Arabíska"
+msgstr "Arabískt"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
@@ -147,11 +148,11 @@ msgstr "Áströlsk tungumál"
 
 #. Name for ava
 msgid "Avaric"
-msgstr "Avarísk"
+msgstr "Avaríska"
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avesta"
+msgstr "Avestan"
 
 #. Name for awa
 msgid "Awadhi"
@@ -183,11 +184,11 @@ msgstr "Baluchi"
 
 #. Name for bam
 msgid "Bambara"
-msgstr "Bambaríska"
+msgstr "Bambara"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "Balíska"
+msgstr "Balískt"
 
 #. Name for bas
 msgid "Basa"
@@ -211,7 +212,7 @@ msgstr "Bemba"
 
 #. Name for ben
 msgid "Bengali"
-msgstr "Bengalska"
+msgstr "Bengalskt"
 
 #. Common name for ben
 msgid "Bangla"
@@ -219,7 +220,7 @@ msgstr "Bangla"
 
 #. Name for ber
 msgid "Berber languages"
-msgstr "Berba tungumál"
+msgstr "Berbísk tungumál"
 
 #. Name for bho
 msgid "Bhojpuri"
@@ -275,7 +276,7 @@ msgstr "Buriat"
 
 #. Name for bug
 msgid "Buginese"
-msgstr "Buginíska"
+msgstr "Buginískt"
 
 #. Name for bul
 msgid "Bulgarian"
@@ -295,7 +296,7 @@ msgstr "Miðamerísk indíánatungumál"
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr "Galibi Carib"
+msgstr "Galibi karíbamál"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -379,7 +380,7 @@ msgstr "Chamísk tungumál"
 
 #. Name for cop
 msgid "Coptic"
-msgstr "Koptíska"
+msgstr "Koptískt"
 
 #. Name for cor
 msgid "Cornish"
@@ -587,7 +588,7 @@ msgstr "Franska, miðaldir (uþb. 1400-1600)"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Franska, forn (842-uþb. 1400)"
+msgstr "Franska, forn (842-u.þ.b. 1400)"
 
 #. Name for frr
 msgid "Northern Frisian"
@@ -655,7 +656,7 @@ msgstr "Háþýska, miðaldir (uþb. 1050-1500)"
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Háþýska, forn (uþb. 750-1050)"
+msgstr "Háþýska, forn (u.þ.b. 750-1050)"
 
 #. Name for gon
 msgid "Gondi"
@@ -663,11 +664,11 @@ msgstr "Gondi"
 
 #. Name for gor
 msgid "Gorontalo"
-msgstr "Gorontalo"
+msgstr "Gorontaló"
 
 #. Name for got
 msgid "Gothic"
-msgstr "Gotneska"
+msgstr "Gotneskt"
 
 #. Name for grb
 msgid "Grebo"
@@ -687,7 +688,7 @@ msgstr "Svissnesk þýska; Alemann; Alsatíska"
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "Gujaratíska"
+msgstr "Gujaratískt"
 
 #. Name for gwi
 msgid "Gwich'in"
@@ -707,11 +708,11 @@ msgstr "Hausa"
 
 #. Name for haw
 msgid "Hawaiian"
-msgstr "Hawaiíska"
+msgstr "Havaíska"
 
 #. Name for heb
 msgid "Hebrew"
-msgstr "Hebreska"
+msgstr "Hebreskt"
 
 #. Name for her
 msgid "Herero"
@@ -747,7 +748,7 @@ msgstr "Króatíska"
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Efri Sorbían"
+msgstr "Efri-sorbían"
 
 #. Name for hun
 msgid "Hungarian"
@@ -759,7 +760,7 @@ msgstr "Hupa"
 
 #. Name for hye
 msgid "Armenian"
-msgstr "Armenska"
+msgstr "Armenskt"
 
 #. Name for iba
 msgid "Iban"
@@ -835,7 +836,7 @@ msgstr "Ítalska"
 
 #. Name for jav
 msgid "Javanese"
-msgstr "Javaneskt"
+msgstr "Javanska"
 
 #. Name for jbo
 msgid "Lojban"
@@ -859,7 +860,7 @@ msgstr "Kara-Kalpak"
 
 #. Name for kab
 msgid "Kabyle"
-msgstr "Kabyle"
+msgstr "Kabylíska"
 
 #. Name for kac
 msgid "Kachin; Jingpho"
@@ -875,7 +876,7 @@ msgstr "Kamba"
 
 #. Name for kan
 msgid "Kannada"
-msgstr "Kannada"
+msgstr "Kannadískt"
 
 #. Name for kar
 msgid "Karen languages"
@@ -1007,11 +1008,11 @@ msgstr "Lamba"
 
 #. Name for lao
 msgid "Lao"
-msgstr "Laóska"
+msgstr "Laó"
 
 #. Name for lat
 msgid "Latin"
-msgstr "Latína"
+msgstr "Latneskt"
 
 #. Name for lav
 msgid "Latvian"
@@ -1095,7 +1096,7 @@ msgstr "Makasar"
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "Malasíska"
+msgstr "Malayanskt"
 
 #. Name for man
 msgid "Mandingo"
@@ -1175,7 +1176,7 @@ msgstr "Mohawk"
 
 #. Name for mon
 msgid "Mongolian"
-msgstr "Mongólska"
+msgstr "Mongólskt"
 
 #. Name for mos
 msgid "Mossi"
@@ -1295,7 +1296,7 @@ msgstr "Nogai"
 
 #. Name for non
 msgid "Norse, Old"
-msgstr "Norræna; fornnorræna"
+msgstr "Norræna, fornnorræna"
 
 #. Name for nor
 msgid "Norwegian"
@@ -1347,7 +1348,7 @@ msgstr "Ojibwa"
 
 #. Name for ori
 msgid "Oriya"
-msgstr "Oryanska"
+msgstr "Oryanskt"
 
 #. Name for orm
 msgid "Oromo"
@@ -1375,7 +1376,7 @@ msgstr "Papúönsk tungumál"
 
 #. Name for pag
 msgid "Pangasinan"
-msgstr "Pangasíska"
+msgstr "Pangasínan"
 
 #. Name for pal
 msgid "Pahlavi"
@@ -1399,7 +1400,7 @@ msgstr "Palauíska"
 
 #. Name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Persneska, forn (uþb. 600-400 F.K.)"
+msgstr "Persneska, forn (u.þ.b. 600-400 f.Kr.)"
 
 #. Name for phi
 msgid "Philippine languages"
@@ -1407,7 +1408,7 @@ msgstr "Filippínsk tungumál"
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Fönikíska"
+msgstr "Fönikískt"
 
 #. Name for pli
 msgid "Pali"
@@ -1463,11 +1464,11 @@ msgstr "Rómans tungumál"
 
 #. Name for roh
 msgid "Romansh"
-msgstr "Rómansh"
+msgstr "Rómanska; rhetorómanska"
 
 #. Name for rom
 msgid "Romany"
-msgstr "Rómanyska"
+msgstr "Rómaníska; sígaunamál"
 
 #. Name for ron
 msgid "Romanian; Moldavian; Moldovan"
@@ -1603,7 +1604,7 @@ msgstr "Samóíska"
 
 #. Name for sms
 msgid "Skolt Sami"
-msgstr "Skolt samíska"
+msgstr "Skolt-samíska"
 
 #. Name for sna
 msgid "Shona"
@@ -1671,7 +1672,7 @@ msgstr "Súkúma"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Sundanese"
+msgstr "Sundaneskt"
 
 #. Name for sus
 msgid "Susu"
@@ -1695,7 +1696,7 @@ msgstr "Klassísk sýrlenska"
 
 #. Name for syr
 msgid "Syriac"
-msgstr "Sýrlenska"
+msgstr "Sýrlenskt"
 
 #. Name for tah
 msgid "Tahitian"
@@ -1707,7 +1708,7 @@ msgstr "Tai tungumál"
 
 #. Name for tam
 msgid "Tamil"
-msgstr "Tamílska"
+msgstr "Tamílskt"
 
 #. Name for tat
 msgid "Tatar"
@@ -1731,7 +1732,7 @@ msgstr "Tetum"
 
 #. Name for tgk
 msgid "Tajik"
-msgstr "Tajikíska"
+msgstr "Tadsikíska"
 
 #. Name for tgl
 msgid "Tagalog"
@@ -1739,7 +1740,7 @@ msgstr "Tagalog"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Tælenska"
+msgstr "Tælenskt"
 
 #. Name for tig
 msgid "Tigre"

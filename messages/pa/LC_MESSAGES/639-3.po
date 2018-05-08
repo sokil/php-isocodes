@@ -5,23 +5,24 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Jaswinder Singh <jsingh@redhat.com>, 2009.
 # A S Alam <aalam@users.sf.net>, 2009.
+# Jaswinder Singh <jsingh@redhat.com>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2009-10-11 19:58+0530\n"
-"Last-Translator: A S Alam <aalam@users.sf.net>\n"
-"Language-Team: Punjabi <punjabi-l10n@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-01 03:40+0000\n"
+"Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -3089,7 +3090,6 @@ msgid "Bengali"
 msgstr "ਬੰਗਾਲੀ"
 
 #. Common name for ben
-#, fuzzy
 msgid "Bangla"
 msgstr "ਬੰਗਲਾ"
 
@@ -26097,9 +26097,8 @@ msgid "Old Provençal (to 1500)"
 msgstr "ਪਰੋਵੇਸਲ, ਪੁਰਾਣੀ (1500 ਤੱਕ)"
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "ਪਰੋਵੇਸਲ, ਪੁਰਾਣੀ (1500 ਤੱਕ)"
+msgstr "ਪਰੋਵੈਂਸਲ, ਪੁਰਾਣੀ (1500 ਨੂੰ)"
 
 #. Name for prp
 msgid "Parsi"
@@ -37512,7 +37511,7 @@ msgstr "ਜ਼ਹੂਆਂਗ, ਗੂਈਬੇਈ"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "ਮਿਆਰੀ ਮੋਰੋਕਾਨ ਟਾਮਾਜ਼ਾਘਟ"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

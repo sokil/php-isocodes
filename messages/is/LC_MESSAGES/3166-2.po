@@ -9,19 +9,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2017-04-25 21:36+0200\n"
-"PO-Revision-Date: 2017-11-02 16:40+0000\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-17 10:38+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
-"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/is/>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
+"X-Generator: Weblate 2.20-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 1.5\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -257,7 +258,7 @@ msgstr ""
 
 #. Name for AL-03, Name for AL-EL
 msgid "Elbasan"
-msgstr ""
+msgstr "Elbasan"
 
 #. Name for AL-04, Name for AL-FR
 msgid "Fier"
@@ -1825,11 +1826,11 @@ msgstr ""
 
 #. Name for BJ-ZO
 msgid "Zou"
-msgstr ""
+msgstr "Zou"
 
 #. Name for BN-BE
 msgid "Belait"
-msgstr ""
+msgstr "Belait"
 
 #. Name for BN-BM
 msgid "Brunei-Muara"
@@ -2133,7 +2134,7 @@ msgstr ""
 
 #. Name for BT-13
 msgid "Ha"
-msgstr ""
+msgstr "Ha"
 
 #. Name for BT-14
 msgid "Samtee"
@@ -2581,7 +2582,7 @@ msgstr ""
 
 #. Name for CH-UR
 msgid "Uri"
-msgstr ""
+msgstr "Uri"
 
 #. Name for CH-VD
 msgid "Vaud"
@@ -2917,7 +2918,7 @@ msgstr ""
 
 #. Name for CO-BOL, Name for EC-B, Name for VE-F
 msgid "Bolívar"
-msgstr ""
+msgstr "Bólívar"
 
 #. Name for CO-BOY
 msgid "Boyacá"
@@ -2937,7 +2938,7 @@ msgstr ""
 
 #. Name for CO-CAU
 msgid "Cauca"
-msgstr ""
+msgstr "Cauca"
 
 #. Name for CO-CES
 msgid "Cesar"
@@ -3013,7 +3014,7 @@ msgstr ""
 
 #. Name for CO-SUC, Name for VE-R
 msgid "Sucre"
-msgstr ""
+msgstr "Sucre"
 
 #. Name for CO-TOL
 msgid "Tolima"
@@ -3745,7 +3746,7 @@ msgstr ""
 
 #. Name for DJ-AR, Name for GR-31
 msgid "Arta"
-msgstr ""
+msgstr "Arta"
 
 #. Name for DJ-AS
 msgid "Ali Sabieh"
@@ -6125,7 +6126,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr "Breska samveldið"
+msgstr "Bretland"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -6977,7 +6978,7 @@ msgstr ""
 
 #. Name for HN-LE
 msgid "Lempira"
-msgstr ""
+msgstr "Lempira"
 
 #. Name for HN-OC
 msgid "Ocotepeque"
@@ -7305,7 +7306,7 @@ msgstr ""
 
 #. Name for ID-GO
 msgid "Gorontalo"
-msgstr ""
+msgstr "Gorontaló"
 
 #. Name for ID-IJ, Name for ID-PA
 msgid "Papua"
@@ -7517,7 +7518,7 @@ msgstr ""
 
 #. Name for IE-MO
 msgid "Mayo"
-msgstr ""
+msgstr "Mayo"
 
 #. Name for IE-OY
 msgid "Offaly"
@@ -7697,7 +7698,7 @@ msgstr ""
 
 #. Name for IN-SK
 msgid "Sikkim"
-msgstr ""
+msgstr "Sikkim"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"
@@ -8065,7 +8066,7 @@ msgstr ""
 
 #. Name for IT-BA, Name for SO-BR
 msgid "Bari"
-msgstr ""
+msgstr "Barí"
 
 #. Name for IT-BG
 msgid "Bergamo"
@@ -10869,7 +10870,7 @@ msgstr ""
 
 #. Name for MH-MIL
 msgid "Mili"
-msgstr ""
+msgstr "Mili"
 
 #. Name for MH-NMK
 msgid "Namdrik"
@@ -11265,7 +11266,7 @@ msgstr ""
 
 #. Name for ML-7
 msgid "Gao"
-msgstr ""
+msgstr "Gao"
 
 #. Name for ML-8
 msgid "Kidal"
@@ -11321,15 +11322,15 @@ msgstr ""
 
 #. Name for MM-15
 msgid "Mon"
-msgstr ""
+msgstr "Mon"
 
 #. Name for MM-16
 msgid "Rakhine"
-msgstr ""
+msgstr "Kado"
 
 #. Name for MM-17
 msgid "Shan"
-msgstr ""
+msgstr "Shan"
 
 #. Name for MN-035
 msgid "Orhon"
@@ -12357,7 +12358,7 @@ msgstr ""
 
 #. Name for NG-BA
 msgid "Bauchi"
-msgstr ""
+msgstr "Bauchi"
 
 #. Name for NG-BE
 msgid "Benue"
@@ -13077,7 +13078,7 @@ msgstr ""
 
 #. Name for PG-EPW
 msgid "Enga"
-msgstr ""
+msgstr "Enga"
 
 #. Name for PG-ESW
 msgid "East Sepik"
@@ -13433,7 +13434,7 @@ msgstr ""
 
 #. Name for PH-PAN
 msgid "Pangasinan"
-msgstr ""
+msgstr "Pangasínan"
 
 #. Name for PH-PLW
 msgid "Palawan"
@@ -13677,7 +13678,7 @@ msgstr ""
 
 #. Name for PT-02
 msgid "Beja"
-msgstr ""
+msgstr "Beja"
 
 #. Name for PT-03
 msgid "Braga"
@@ -16545,7 +16546,7 @@ msgstr ""
 
 #. Name for TH-95
 msgid "Yala"
-msgstr ""
+msgstr "Yala"
 
 #. Name for TH-96
 msgid "Narathiwat"
@@ -17805,7 +17806,7 @@ msgstr ""
 
 #. Name for UM-71
 msgid "Midway Islands"
-msgstr ""
+msgstr "Midway-eyjar"
 
 #. Name for UM-76
 msgid "Navassa Island"
@@ -17813,7 +17814,7 @@ msgstr ""
 
 #. Name for UM-79
 msgid "Wake Island"
-msgstr ""
+msgstr "Wake-eyja"
 
 #. Name for UM-81
 msgid "Baker Island"
@@ -17841,7 +17842,7 @@ msgstr ""
 
 #. Name for US-AL
 msgid "Alabama"
-msgstr ""
+msgstr "Alabama"
 
 #. Name for US-AR
 msgid "Arkansas"
@@ -17861,7 +17862,7 @@ msgstr ""
 
 #. Name for US-CO
 msgid "Colorado"
-msgstr ""
+msgstr "Colorado"
 
 #. Name for US-CT
 msgid "Connecticut"
@@ -17873,7 +17874,7 @@ msgstr ""
 
 #. Name for US-DE
 msgid "Delaware"
-msgstr ""
+msgstr "Delaware"
 
 #. Name for US-FL, Name for UY-FD
 msgid "Florida"

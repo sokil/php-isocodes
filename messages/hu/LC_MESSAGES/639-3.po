@@ -6,20 +6,23 @@
 #
 # Copyright ©
 # Andras TIMAR <timar@gnome.hu>, 2000-2001.
-# VERÓK István <vi@fsf.hu>, 2004
+# VERÓK István <vi@fsf.hu>, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2006-09-30 17:54+0100\n"
-"Last-Translator: SZERVÁC Attila <sas@321.hu>\n"
-"Language-Team: Hungarian <debian-l10n-hungarian@lists.d.o>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-23 20:37+0000\n"
+"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.20-dev\n"
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
 
@@ -310,7 +313,7 @@ msgstr ""
 # src/trans.h:220
 #. Name for ace
 msgid "Achinese"
-msgstr "akinéz"
+msgstr "acsehnéz"
 
 #. Name for acf
 msgid "Saint Lucian Creole French"
@@ -322,7 +325,7 @@ msgstr ""
 
 #. Name for ach
 msgid "Acoli"
-msgstr "acoli"
+msgstr "acsoli"
 
 #. Name for aci
 #, fuzzy
@@ -1322,9 +1325,8 @@ msgid "Albanian, Tosk"
 msgstr "albán"
 
 #. Name for alt
-#, fuzzy
 msgid "Southern Altai"
-msgstr "sotho, déli"
+msgstr "dél-altaji"
 
 #. Inverted name for alt
 #, fuzzy
@@ -2457,7 +2459,7 @@ msgstr ""
 
 #. Name for ave
 msgid "Avestan"
-msgstr "aveszti"
+msgstr "avesztán"
 
 #. Name for avi
 #, fuzzy
@@ -3429,9 +3431,8 @@ msgstr "banda"
 
 # src/trans.h:286
 #. Name for beg
-#, fuzzy
 msgid "Belait"
-msgstr "belorusz"
+msgstr "Belait"
 
 #. Name for beh
 #, fuzzy
@@ -4287,9 +4288,8 @@ msgid "Boloki"
 msgstr ""
 
 #. Name for bku
-#, fuzzy
 msgid "Buhid"
-msgstr "baluchi"
+msgstr "buhid"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -5997,9 +5997,8 @@ msgid "Binahari"
 msgstr "bihari"
 
 #. Name for bya
-#, fuzzy
 msgid "Batak"
-msgstr "basa"
+msgstr "batak"
 
 #. Name for byb
 #, fuzzy
@@ -6544,7 +6543,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr ""
+msgstr "chakma"
 
 #. Name for ccr
 msgid "Cacaopera"
@@ -6797,7 +6796,7 @@ msgstr ""
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "cserokí"
+msgstr "cseroki"
 
 #. Name for cht
 msgid "Cholón"
@@ -9183,9 +9182,8 @@ msgid "Domu"
 msgstr ""
 
 #. Name for doh
-#, fuzzy
 msgid "Dong"
-msgstr "mongo"
+msgstr "dong"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -11209,9 +11207,8 @@ msgid "Dari, Zoroastrian"
 msgstr ""
 
 #. Name for gcc
-#, fuzzy
 msgid "Mali"
-msgstr "mari"
+msgstr "Mali"
 
 #. Name for gcd
 #, fuzzy
@@ -12428,7 +12425,7 @@ msgstr ""
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "gudzsarati"
+msgstr "gudzsaráti"
 
 #. Name for guk
 msgid "Gumuz"
@@ -15247,7 +15244,7 @@ msgstr ""
 
 #. Name for juc
 msgid "Jurchen"
-msgstr ""
+msgstr "dzsürcsi"
 
 #. Name for jud
 msgid "Worodougou"
@@ -18851,9 +18848,8 @@ msgid "Subanen, Southern"
 msgstr "sotho (északi)"
 
 #. Name for lab
-#, fuzzy
 msgid "Linear A"
-msgstr "lingala"
+msgstr "lineáris A"
 
 #. Name for lac
 msgid "Lacandon"
@@ -19485,9 +19481,8 @@ msgstr "szikszika"
 
 # src/trans.h:309
 #. Name for lif
-#, fuzzy
 msgid "Limbu"
-msgstr "limburgi"
+msgstr "limbu"
 
 #. Name for lig
 msgid "Ligbi"
@@ -20202,9 +20197,8 @@ msgid "Loarki"
 msgstr "lozi"
 
 #. Name for lrl
-#, fuzzy
 msgid "Lari"
-msgstr "mari"
+msgstr "lari"
 
 #. Name for lrm
 #, fuzzy
@@ -20666,7 +20660,7 @@ msgstr "makasar"
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "malajalam"
+msgstr "malajálam"
 
 #. Name for mam
 #, fuzzy
@@ -28379,7 +28373,7 @@ msgstr ""
 # src/trans.h:313
 #. Name for phn
 msgid "Phoenician"
-msgstr "főníciai"
+msgstr "föníciai"
 
 #. Name for pho
 #, fuzzy
@@ -31133,7 +31127,7 @@ msgstr "szaszak"
 
 #. Name for saz
 msgid "Saurashtra"
-msgstr ""
+msgstr "saurashtra"
 
 #. Name for sba
 #, fuzzy
@@ -31971,9 +31965,8 @@ msgid "Mende (Papua New Guinea)"
 msgstr ""
 
 #. Name for sin
-#, fuzzy
 msgid "Sinhala"
-msgstr "szundanéz"
+msgstr "szingaléz"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -32406,9 +32399,8 @@ msgid "Simbari"
 msgstr "bihari"
 
 #. Name for smc
-#, fuzzy
 msgid "Som"
-msgstr "szomáli"
+msgstr "szom"
 
 #. Name for smd
 #, fuzzy
@@ -32479,9 +32471,8 @@ msgstr "szamoai"
 
 # src/trans.h:311
 #. Name for smp
-#, fuzzy
 msgid "Samaritan"
-msgstr "sumér"
+msgstr "szamaritánus"
 
 #. Name for smq
 #, fuzzy
@@ -34071,7 +34062,7 @@ msgstr ""
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr ""
+msgstr "tagbanwa"
 
 #. Name for tbx
 msgid "Kapin"
@@ -34901,7 +34892,7 @@ msgstr "malagasy"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr "tokelau"
+msgstr "Tokelau-szigetek"
 
 #. Name for tkm
 msgid "Takelma"
@@ -36496,7 +36487,7 @@ msgstr ""
 
 #. Name for uga
 msgid "Ugaritic"
-msgstr "uragi"
+msgstr "ugariti"
 
 #. Name for ugb
 msgid "Kuku-Ugbanh"
@@ -38661,9 +38652,8 @@ msgid "Chorasmian"
 msgstr "korzikai"
 
 #. Name for xcr
-#, fuzzy
 msgid "Carian"
-msgstr "karib"
+msgstr "kariai"
 
 #. Name for xct
 msgid "Classical Tibetan"
@@ -39049,15 +39039,13 @@ msgstr ""
 
 # src/trans.h:289
 #. Name for xlc
-#, fuzzy
 msgid "Lycian"
-msgstr "lett"
+msgstr "lük"
 
 # src/trans.h:47 src/trans.h:50
 #. Name for xld
-#, fuzzy
 msgid "Lydian"
-msgstr "ladino"
+msgstr "lüd"
 
 # src/trans.h:309
 #. Name for xle
@@ -41426,7 +41414,7 @@ msgstr "arawak"
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr ""
+msgstr "Bliss szimbólumok"
 
 # src/trans.h:285
 #. Name for zbt

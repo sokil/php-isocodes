@@ -6,24 +6,25 @@
 #
 # Copyright ©
 # Þórarinn Rúnar Einarsson <thori@mindspring.com>
-# Alastair McKinstry, <mckinstry@computer.org>, 2002.
-# Sveinn í Felli <sv1@fellsnet.is>, 2010, 2011, 2012, 2013, 2015, 2017.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Sveinn í Felli <sv1@fellsnet.is>, 2010-2013, 2015, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2017-04-25 17:24+0200\n"
-"PO-Revision-Date: 2017-10-23 16:04+0000\n"
-"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
-"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-14 18:36+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/is/>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -103,7 +104,7 @@ msgstr "Frönsku suðurhafshéruðin"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
-msgstr "Antigúa og Barbúda"
+msgstr "Antígva og Barbúda"
 
 #. Name for AUS
 msgid "Australia"
@@ -191,7 +192,7 @@ msgstr "Samveldisríki Bahamaeyja"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnía og Herzegóvína"
+msgstr "Bosnía og Hersegóvína"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -255,7 +256,7 @@ msgstr "Konungsríkið Bútan"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "Bouvet eyja"
+msgstr "Bouveteyja"
 
 #. Name for BWA
 msgid "Botswana"
@@ -383,7 +384,7 @@ msgstr "Jólaeyja"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Cayman-eyjar"
+msgstr "Caymaneyjar"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -435,7 +436,7 @@ msgstr "Konungsríkið Danmörk"
 
 #. Name for DOM
 msgid "Dominican Republic"
-msgstr "Lýðveldið Dóminíka"
+msgstr "Dóminíkanska lýðveldið"
 
 #. Name for DZA
 msgid "Algeria"
@@ -547,7 +548,7 @@ msgstr "Lýðveldið Gabon"
 
 #. Name for GBR
 msgid "United Kingdom"
-msgstr "Breska samveldið"
+msgstr "Bretland"
 
 #. Official name for GBR
 msgid "United Kingdom of Great Britain and Northern Ireland"
@@ -659,7 +660,7 @@ msgstr "Hong Kong sérstakt stjórnsýslusvæði Kína"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Heard-eyja og McDonald-eyjur"
+msgstr "Heard og McDonaldseyjar"
 
 #. Name for HND
 msgid "Honduras"
@@ -819,7 +820,7 @@ msgstr "Lýðveldið Kíribatí"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Sankti Kitts og Neviseyjur"
+msgstr "Sankti Kitts og Neviseyjar"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -1055,7 +1056,7 @@ msgstr "Martiník"
 
 #. Name for MUS
 msgid "Mauritius"
-msgstr "Máritus"
+msgstr "Máritíus"
 
 #. Official name for MUS
 msgid "Republic of Mauritius"
@@ -1087,7 +1088,7 @@ msgstr "Lýðveldið Namibía"
 
 #. Name for NCL
 msgid "New Caledonia"
-msgstr "Nýja Kaledónía"
+msgstr "Nýja-Kaledónía"
 
 #. Name for NER
 msgid "Niger"
@@ -1155,7 +1156,7 @@ msgstr "Lýðveldið Nárú"
 
 #. Name for NZL
 msgid "New Zealand"
-msgstr "Nýja Sjáland"
+msgstr "Nýja-Sjáland"
 
 #. Name for OMN
 msgid "Oman"
@@ -1327,7 +1328,7 @@ msgstr "Lýðveldið Singapúr"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Suður-Georgía og Suður-Sandwich eyjar"
+msgstr "Suður-Georgía og Suður-Sandvíkureyjar"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -1459,7 +1460,7 @@ msgstr "Sýrlenska arabalýðveldið"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Turks og Kaikós eyjar"
+msgstr "Turks- og Kaikós-eyjar"
 
 #. Name for TCD
 msgid "Chad"
@@ -1631,7 +1632,7 @@ msgstr "Jómfrúareyjar, bresku"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "Bresku Jómfrúreyjar"
+msgstr "Bresku Jómfrúaeyjar"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
@@ -1683,7 +1684,7 @@ msgstr "Lýðveldið Jemen"
 
 #. Name for ZAF
 msgid "South Africa"
-msgstr "Suður Afríka"
+msgstr "Suður-Afríka"
 
 #. Official name for ZAF
 msgid "Republic of South Africa"

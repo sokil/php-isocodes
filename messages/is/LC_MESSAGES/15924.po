@@ -8,23 +8,24 @@
 # þessvegna haft hér í hvorugkyni, nema þar sem átt er við ritmálið sjálft.
 #
 # Copyright ©
-# Sveinn í Felli <sv1@fellsnet.is>, 2010, 2011, 2012, 2013, 2017.
+# Sveinn í Felli <sv1@fellsnet.is>, 2010-2013, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2017-11-02 09:55+0000\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-17 10:38+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
-"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
+"iso-15924/is/>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
+"X-Generator: Weblate 2.20-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -280,7 +281,7 @@ msgstr "Jamó (samheiti fyrir Jamó undirhluta Hangúl)"
 
 #. Name for Java
 msgid "Javanese"
-msgstr "Javaneskt"
+msgstr "Javanska"
 
 #. Name for Jpan
 msgid "Japanese (alias for Han + Hiragana + Katakana)"
@@ -652,7 +653,7 @@ msgstr "Nýja Tai Lue"
 
 #. Name for Taml
 msgid "Tamil"
-msgstr "Tamilskt"
+msgstr "Tamílskt"
 
 #. Name for Tang
 msgid "Tangut"
@@ -684,7 +685,7 @@ msgstr "Thaanískt"
 
 #. Name for Thai
 msgid "Thai"
-msgstr "Taílenska"
+msgstr "Tælenskt"
 
 #. Name for Tibt
 msgid "Tibetan"

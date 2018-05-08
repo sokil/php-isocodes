@@ -9,20 +9,23 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2014-01-26 08:59+0700\n"
-"Last-Translator: Andhika Padmawan <andhika.padmawan@gmail.com>\n"
-"Language-Team: Indonesian <translation-team-id@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-03-05 19:47+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-"
+"codes/iso-15924/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.20-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "Adlam"
 
 #. Name for Afak
 msgid "Afaka"
@@ -34,17 +37,15 @@ msgstr "Kaukasia Albania"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
-msgstr ""
+msgstr "Ahom, Tai Ahom"
 
 #. Name for Arab
 msgid "Arabic"
 msgstr "Arab"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "Syriac (varian Timur)"
+msgstr "Arab (varian Nastaliq)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -76,11 +77,11 @@ msgstr "Batak"
 
 #. Name for Beng
 msgid "Bengali"
-msgstr "Bengali"
+msgstr "Bengal"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
-msgstr ""
+msgstr "Bhaiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
@@ -124,7 +125,7 @@ msgstr "Cham"
 
 #. Name for Cher
 msgid "Cherokee"
-msgstr "Cheroke"
+msgstr "Cherokee"
 
 #. Name for Cirt
 msgid "Cirth"
@@ -132,7 +133,7 @@ msgstr "Cirth"
 
 #. Name for Copt
 msgid "Coptic"
-msgstr "Coptic"
+msgstr "Koptik"
 
 #. Name for Cprt
 msgid "Cypriot"
@@ -192,7 +193,7 @@ msgstr "Glagolitic"
 
 #. Name for Goth
 msgid "Gothic"
-msgstr "Gothic"
+msgstr "Gothik"
 
 #. Name for Gran
 msgid "Grantha"
@@ -212,7 +213,7 @@ msgstr "Gurmukhi"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
-msgstr ""
+msgstr "Han dengan Bopomofo (alias untuk Han + Bopomofo)"
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
@@ -240,7 +241,7 @@ msgstr "Hatran"
 
 #. Name for Hebr
 msgid "Hebrew"
-msgstr "Yahudi"
+msgstr "Ibrani"
 
 #. Name for Hira
 msgid "Hiragana"
@@ -271,10 +272,8 @@ msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "Italik lama (Etruscan, Oscan, dll.)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "Korea (alias untuk Hangul + Han)"
+msgstr "Jamo (alias untuk Jamo subset dari Hangul)"
 
 #. Name for Java
 msgid "Javanese"
@@ -310,11 +309,11 @@ msgstr "Khojki"
 
 #. Name for Kitl
 msgid "Khitan large script"
-msgstr ""
+msgstr "Khitan skrip besar"
 
 #. Name for Kits
 msgid "Khitan small script"
-msgstr ""
+msgstr "Khitan skrip kecil"
 
 #. Name for Knda
 msgid "Kannada"
@@ -354,7 +353,7 @@ msgstr "Latin"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "Leke"
 
 #. Name for Lepc
 msgid "Lepcha (Róng)"
@@ -401,10 +400,8 @@ msgid "Manichaean"
 msgstr "Manichaean"
 
 #. Name for Marc
-#, fuzzy
-#| msgid "Jurchen"
 msgid "Marchen"
-msgstr "Jurchen"
+msgstr "Marchen"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -464,7 +461,7 @@ msgstr "Nabataean"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
-msgstr ""
+msgstr "Newa, Newar, Newari, Nepāla lipi"
 
 #. Name for Nkgb
 msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
@@ -496,7 +493,7 @@ msgstr "Oriya"
 
 #. Name for Osge
 msgid "Osage"
-msgstr ""
+msgstr "Osage"
 
 #. Name for Osma
 msgid "Osmanya"
@@ -536,7 +533,7 @@ msgstr "Phoenician"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
-msgstr ""
+msgstr "Klingon (KLI pIqaD)"
 
 #. Name for Plrd
 msgid "Miao (Pollard)"
@@ -735,10 +732,8 @@ msgid "Mathematical notation"
 msgstr "Notasi Matematika"
 
 #. Name for Zsye
-#, fuzzy
-#| msgid "Syriac (Estrangelo variant)"
 msgid "Symbols (Emoji variant)"
-msgstr "Syriac (varian Estrangelo)"
+msgstr "Simbol (varian Emoji)"
 
 #. Name for Zsym
 msgid "Symbols"

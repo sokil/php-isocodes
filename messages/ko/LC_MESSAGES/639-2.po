@@ -9,20 +9,20 @@
 # http://ko.wikipedia.org/wiki/ISO_639
 #
 # Copyright ©
-# Kang, JeongHee <Keizi@mail.co.kr>, 2000.
+# JeongHee Kang <Keizi@mail.co.kr>, 2000.
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Eungkyu Song <eungkyu@sparcs.org>, 2001.
-# Alastair McKinstry <mckinstry@computer.org>, 2001.
 # Changwoo Ryu <cwryu@debian.org>, 2011, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
-"devel@lists.alioth.debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2018-01-01 15:05+0000\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-04 12:54+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/iso-"
-"codes/iso-639-2/ko/>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -605,7 +605,7 @@ msgstr "프리지아어 (동부)"
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr "프리지아어"
+msgstr "프리지아어 (서부)"
 
 #. Name for ful
 msgid "Fulah"
@@ -1219,7 +1219,7 @@ msgstr "마르와르어"
 
 #. Name for mya
 msgid "Burmese"
-msgstr "미얀마어"
+msgstr "버마어"
 
 #. Name for myn
 msgid "Mayan languages"
@@ -1749,7 +1749,7 @@ msgstr "타갈로그어"
 
 #. Name for tha
 msgid "Thai"
-msgstr "타이어"
+msgstr "태국어"
 
 #. Name for tig
 msgid "Tigre"

@@ -5,26 +5,27 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
+# Axel Bojer <axelb@skolelinux.no>, 2004.
 # Håvard Korsvoll <korsvoll@skulelinux.no>, 2004.
 # Knut Yrvin <knuty@skolelinux.no>, 2004.
-# Axel Bojer <axelb@skolelinux.no>, 2004.
 # Bjørn Steensrud <bjornst@powertech.no>, 2006.
 # Hans Fredrik Nordhaug <hans@nordhaug.priv.no>, 2007-2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2015-07-16 15:58+0200\n"
-"Last-Translator: Hans Fredrik Nordhaug <hans@nordhaug.priv.no>\n"
-"Language-Team: Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-01-07 16:23+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-3/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.2\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=n>1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -96,7 +97,7 @@ msgstr "Nye Hebridene"
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
-msgstr "Dronning Maud Land"
+msgstr "Dronning Mauds Land"
 
 #. Name for NTHH
 msgid "Neutral Zone"

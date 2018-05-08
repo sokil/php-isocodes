@@ -7,24 +7,24 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Alexander Nyakhaychyk <nyakhaychyk@gmail.com>, 2009.
-# Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010, 2012, 2013.
+# Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010, 2012-2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
-"devel@lists.alioth.debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2017-12-19 11:04+0000\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-20 00:34+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
-"Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-"
-"codes/iso-639-2/be/>\n"
+"Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/be/>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.18\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.19\n"
 
 #. Name for aar
 msgid "Afar"
@@ -442,7 +442,7 @@ msgstr "даякскія мовы"
 
 #. Name for del
 msgid "Delaware"
-msgstr "дэлавары"
+msgstr "Дэлавэр"
 
 #. Name for den
 msgid "Slave (Athapascan)"
@@ -662,7 +662,7 @@ msgstr "гондзі"
 
 #. Name for gor
 msgid "Gorontalo"
-msgstr "гаронтала"
+msgstr "Гарантала"
 
 #. Name for got
 msgid "Gothic"
@@ -1374,7 +1374,7 @@ msgstr "папуаскія мовы"
 
 #. Name for pag
 msgid "Pangasinan"
-msgstr "пангасінанская"
+msgstr "Пангасінан"
 
 #. Name for pal
 msgid "Pahlavi"
@@ -1546,7 +1546,7 @@ msgstr "мовы жэстаў"
 
 #. Name for shn
 msgid "Shan"
-msgstr "шанская"
+msgstr "Шан"
 
 #. Name for sid
 msgid "Sidamo"

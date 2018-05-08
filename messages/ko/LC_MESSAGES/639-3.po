@@ -5,19 +5,19 @@
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# Kang, JeongHee <Keizi@mail.co.kr>, 2000.
+# JeongHee Kang <Keizi@mail.co.kr>, 2000.
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Eungkyu Song <eungkyu@sparcs.org>, 2001.
-# Alastair McKinstry <mckinstry@computer.org>, 2001.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-"
-"devel@lists.alioth.debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2018-01-01 15:07+0000\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-02-04 12:56+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/iso-"
-"codes/iso-639-3/ko/>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -295,9 +295,8 @@ msgid "Gikyode"
 msgstr ""
 
 #. Name for ace
-#, fuzzy
 msgid "Achinese"
-msgstr "중국어"
+msgstr "아체어"
 
 #. Name for acf
 msgid "Saint Lucian Creole French"
@@ -1036,9 +1035,8 @@ msgid "Karbi, Amri"
 msgstr "터키어"
 
 #. Name for aka
-#, fuzzy
 msgid "Akan"
-msgstr "아프리칸스어"
+msgstr "아칸어"
 
 #. Name for akb
 #, fuzzy
@@ -1079,9 +1077,8 @@ msgid "Aka-Jeru"
 msgstr ""
 
 #. Name for akk
-#, fuzzy
 msgid "Akkadian"
-msgstr "알바니아어"
+msgstr "아카드어"
 
 #. Name for akl
 #, fuzzy
@@ -1141,9 +1138,8 @@ msgid "Aka-Kol"
 msgstr ""
 
 #. Name for akz
-#, fuzzy
 msgid "Alabama"
-msgstr "알바니아어"
+msgstr "알라바마어"
 
 #. Name for ala
 msgid "Alago"
@@ -1283,9 +1279,8 @@ msgid "Amurdak"
 msgstr ""
 
 #. Name for amh
-#, fuzzy
 msgid "Amharic"
-msgstr "아라비아어"
+msgstr "암하라어"
 
 #. Name for ami
 msgid "Amis"
@@ -1451,9 +1446,8 @@ msgid "Andoque"
 msgstr ""
 
 #. Name for anp
-#, fuzzy
 msgid "Angika"
-msgstr "아프리칸스어"
+msgstr "안기카어"
 
 #. Name for anq
 #, fuzzy
@@ -1781,7 +1775,7 @@ msgstr "아프리칸스어"
 
 #. Name for ara
 msgid "Arabic"
-msgstr "아라비아어"
+msgstr "아랍어"
 
 #. Name for arb
 msgid "Standard Arabic"
@@ -1814,9 +1808,8 @@ msgid "Arrarnta, Western"
 msgstr ""
 
 #. Name for arg
-#, fuzzy
 msgid "Aragonese"
-msgstr "페로스어"
+msgstr "아라곤어"
 
 #. Name for arh
 #, fuzzy
@@ -2264,9 +2257,8 @@ msgid "Arabic, Uzbeki"
 msgstr "아라비아어"
 
 #. Name for ava
-#, fuzzy
 msgid "Avaric"
-msgstr "아라비아어"
+msgstr "아바르어"
 
 #. Name for avb
 #, fuzzy
@@ -2725,9 +2717,8 @@ msgid "Bambara"
 msgstr "밤바라어"
 
 #. Name for ban
-#, fuzzy
 msgid "Balinese"
-msgstr "중국어"
+msgstr "발리어"
 
 #. Name for bao
 msgid "Waimaha"
@@ -3205,14 +3196,12 @@ msgid "Bemba (Zambia)"
 msgstr ""
 
 #. Name for ben
-#, fuzzy
 msgid "Bengali"
-msgstr "발트어"
+msgstr "벵골어"
 
 #. Common name for ben
-#, fuzzy
 msgid "Bangla"
-msgstr "발트어"
+msgstr "방글라데시어"
 
 #. Name for beo
 #, fuzzy
@@ -3979,7 +3968,7 @@ msgstr "찾기"
 
 #. Name for bku
 msgid "Buhid"
-msgstr ""
+msgstr "부히드어"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -4439,9 +4428,8 @@ msgid "Borôro"
 msgstr ""
 
 #. Name for bos
-#, fuzzy
 msgid "Bosnian"
-msgstr "루마니아어"
+msgstr "보스니아어"
 
 #. Name for bot
 msgid "Bongo"
@@ -4730,7 +4718,7 @@ msgstr ""
 
 #. Name for bre
 msgid "Breton"
-msgstr "프랑스어"
+msgstr "브르타뉴어"
 
 #. Name for brf
 #, fuzzy
@@ -5070,9 +5058,8 @@ msgid "Batak Alas-Kluet"
 msgstr ""
 
 #. Name for bua
-#, fuzzy
 msgid "Buriat"
-msgstr "불가리아어"
+msgstr "부리아트어"
 
 #. Name for bub
 #, fuzzy
@@ -5097,9 +5084,8 @@ msgid "Bushoong"
 msgstr ""
 
 #. Name for bug
-#, fuzzy
 msgid "Buginese"
-msgstr "중국어"
+msgstr "부기어"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -5559,9 +5545,8 @@ msgid "Binahari"
 msgstr "태국어"
 
 #. Name for bya
-#, fuzzy
 msgid "Batak"
-msgstr "Balsa"
+msgstr "바타크어"
 
 #. Name for byb
 msgid "Bikya"
@@ -5885,9 +5870,8 @@ msgid "Nicobarese, Car"
 msgstr ""
 
 #. Name for car
-#, fuzzy
 msgid "Galibi Carib"
-msgstr "갤리언"
+msgstr "카리브어"
 
 #. Inverted name for car
 msgid "Carib, Galibi"
@@ -6175,7 +6159,7 @@ msgstr "중국어"
 
 #. Name for ces
 msgid "Czech"
-msgstr "체크어"
+msgstr "체코어"
 
 #. Name for cet
 msgid "Centúúm"
@@ -6241,9 +6225,8 @@ msgid "Chontal, Highland Oaxaca"
 msgstr ""
 
 #. Name for che
-#, fuzzy
 msgid "Chechen"
-msgstr "체크어"
+msgstr "체첸어"
 
 #. Name for chf
 msgid "Tabasco Chontal"
@@ -6270,9 +6253,8 @@ msgid "Chinantec, Ojitlán"
 msgstr ""
 
 #. Name for chk
-#, fuzzy
 msgid "Chuukese"
-msgstr "중국어"
+msgstr "추크어"
 
 #. Name for chl
 msgid "Cahuilla"
@@ -6888,9 +6870,8 @@ msgid "Coquille"
 msgstr ""
 
 #. Name for cor
-#, fuzzy
 msgid "Cornish"
-msgstr "색상"
+msgstr "콘월어"
 
 #. Name for cos
 msgid "Corsican"
@@ -7029,9 +7010,8 @@ msgid "Coeur d'Alene"
 msgstr ""
 
 #. Name for cre
-#, fuzzy
 msgid "Cree"
-msgstr "그리스어"
+msgstr "크리어"
 
 #. Name for crf
 #, fuzzy
@@ -7671,9 +7651,8 @@ msgid "Maria, Dandami"
 msgstr ""
 
 #. Name for dar
-#, fuzzy
 msgid "Dargwa"
-msgstr "여백"
+msgstr "다르과어"
 
 #. Name for das
 msgid "Daho-Doo"
@@ -8699,9 +8678,8 @@ msgid "Darai"
 msgstr "여백"
 
 #. Name for dsb
-#, fuzzy
 msgid "Lower Sorbian"
-msgstr "세르비아어"
+msgstr "소르비아어 (저지)"
 
 #. Inverted name for dsb
 #, fuzzy
@@ -8838,9 +8816,8 @@ msgid "Dotyali"
 msgstr "발트어"
 
 #. Name for dua
-#, fuzzy
 msgid "Duala"
-msgstr "Balsa"
+msgstr "두알라어"
 
 #. Name for dub
 #, fuzzy
@@ -9748,14 +9725,12 @@ msgid "Fataleka"
 msgstr "카탈로니아어"
 
 #. Name for fas
-#, fuzzy
 msgid "Persian"
-msgstr "출력"
+msgstr "페르시아어"
 
 #. Name for fat
-#, fuzzy
 msgid "Fanti"
-msgstr "주소"
+msgstr "판티어"
 
 #. Name for fau
 msgid "Fayu"
@@ -9827,9 +9802,8 @@ msgid "Fyer"
 msgstr ""
 
 #. Name for fij
-#, fuzzy
 msgid "Fijian"
-msgstr "찾기"
+msgstr "피지어"
 
 #. Name for fil
 #, fuzzy
@@ -10027,18 +10001,16 @@ msgid "Forak"
 msgstr ""
 
 #. Name for frr
-#, fuzzy
 msgid "Northern Frisian"
-msgstr "우크라이나어"
+msgstr "프리지아어 (북부)"
 
 #. Inverted name for frr
 msgid "Frisian, Northern"
 msgstr ""
 
 #. Name for frs
-#, fuzzy
 msgid "Eastern Frisian"
-msgstr "우크라이나어"
+msgstr "프리지아어 (동부)"
 
 #. Inverted name for frs
 #, fuzzy
@@ -10050,9 +10022,8 @@ msgid "Fortsenal"
 msgstr ""
 
 #. Name for fry
-#, fuzzy
 msgid "Western Frisian"
-msgstr "우크라이나어"
+msgstr "프리지아어 (서부)"
 
 #. Inverted name for fry
 #, fuzzy
@@ -10146,9 +10117,8 @@ msgid "Fulfulde, Central-Eastern Niger"
 msgstr ""
 
 #. Name for fur
-#, fuzzy
 msgid "Friulian"
-msgstr "우크라이나어"
+msgstr "프리울리어"
 
 #. Name for fut
 msgid "Futuna-Aniwa"
@@ -10675,9 +10645,8 @@ msgid "Enya"
 msgstr ""
 
 #. Name for gez
-#, fuzzy
 msgid "Geez"
-msgstr "그리스어"
+msgstr "그으즈어"
 
 #. Name for gfk
 msgid "Patpatar"
@@ -10820,9 +10789,8 @@ msgid "Githabul"
 msgstr ""
 
 #. Name for gil
-#, fuzzy
 msgid "Gilbertese"
-msgstr "베트남어"
+msgstr "키리바스어"
 
 #. Name for gim
 msgid "Gimi (Eastern Highlands)"
@@ -10979,9 +10947,8 @@ msgid "Irish"
 msgstr "아일랜드어"
 
 #. Name for glg
-#, fuzzy
 msgid "Galician"
-msgstr "갤리언"
+msgstr "갈리시아어"
 
 #. Name for glh
 #, fuzzy
@@ -11023,9 +10990,8 @@ msgid "Gula (Chad)"
 msgstr ""
 
 #. Name for glv
-#, fuzzy
 msgid "Manx"
-msgstr "여백"
+msgstr "맨어"
 
 #. Name for glw
 msgid "Glavda"
@@ -11263,9 +11229,8 @@ msgid "Konkani, Goan"
 msgstr "한국어"
 
 #. Name for gon
-#, fuzzy
 msgid "Gondi"
-msgstr "찾기"
+msgstr "곤드어"
 
 #. Name for goo
 msgid "Gone Dau"
@@ -11361,9 +11326,8 @@ msgid "Garasia, Rajput"
 msgstr ""
 
 #. Name for grb
-#, fuzzy
 msgid "Grebo"
-msgstr "그리스어"
+msgstr "그레보어"
 
 #. Name for grc
 msgid "Ancient Greek (to 1453)"
@@ -11891,9 +11855,8 @@ msgid "Hahon"
 msgstr ""
 
 #. Name for hai
-#, fuzzy
 msgid "Haida"
-msgstr "찾기"
+msgstr "하이다어"
 
 #. Name for haj
 #, fuzzy
@@ -11955,9 +11918,8 @@ msgid "Haitian"
 msgstr "라트비아어"
 
 #. Name for hau
-#, fuzzy
 msgid "Hausa"
-msgstr "Balsa"
+msgstr "하우사어"
 
 #. Name for hav
 #, fuzzy
@@ -12058,7 +12020,7 @@ msgstr ""
 
 #. Name for heb
 msgid "Hebrew"
-msgstr "헤브루어"
+msgstr "히브리어"
 
 #. Name for hed
 msgid "Herdé"
@@ -12082,9 +12044,8 @@ msgid "Hemba"
 msgstr ""
 
 #. Name for her
-#, fuzzy
 msgid "Herero"
-msgstr "헤브루어"
+msgstr "헤레로어"
 
 #. Name for hgm
 msgid "Hai//om"
@@ -12161,9 +12122,8 @@ msgid "Hiligaynon"
 msgstr "힐리가이노어"
 
 #. Name for hin
-#, fuzzy
 msgid "Hindi"
-msgstr "찾기"
+msgstr "힌두어"
 
 #. Name for hio
 msgid "Tsoa"
@@ -12350,9 +12310,8 @@ msgid "Hmong"
 msgstr ""
 
 #. Name for hmo
-#, fuzzy
 msgid "Hiri Motu"
-msgstr "찾기"
+msgstr "히리 모투"
 
 #. Name for hmp
 msgid "Northern Mashan Hmong"
@@ -12627,9 +12586,8 @@ msgid "Harzani"
 msgstr "헝가리어"
 
 #. Name for hsb
-#, fuzzy
 msgid "Upper Sorbian"
-msgstr "세르비아어"
+msgstr "소르비아어 (고지)"
 
 #. Inverted name for hsb
 msgid "Sorbian, Upper"
@@ -12759,9 +12717,8 @@ msgid "Hu"
 msgstr "Balsa"
 
 #. Name for hup
-#, fuzzy
 msgid "Hupa"
-msgstr "Balsa"
+msgstr "후파어"
 
 #. Name for huq
 msgid "Tsat"
@@ -13323,9 +13280,8 @@ msgid "Degexit'an"
 msgstr ""
 
 #. Name for inh
-#, fuzzy
 msgid "Ingush"
-msgstr "영어"
+msgstr "인구시어"
 
 #. Name for inj
 msgid "Jungle Inga"
@@ -13385,9 +13341,8 @@ msgid "Ipili"
 msgstr ""
 
 #. Name for ipk
-#, fuzzy
 msgid "Inupiaq"
-msgstr "인도어"
+msgstr "이누피아크어"
 
 #. Name for ipo
 msgid "Ipiko"
@@ -13751,9 +13706,8 @@ msgid "Yaur"
 msgstr "터키어"
 
 #. Name for jav
-#, fuzzy
 msgid "Javanese"
-msgstr "일본어"
+msgstr "자와어"
 
 #. Name for jax
 msgid "Jambi Malay"
@@ -14159,9 +14113,8 @@ msgid "Japanese"
 msgstr "일본어"
 
 #. Name for jpr
-#, fuzzy
 msgid "Judeo-Persian"
-msgstr "출력"
+msgstr "유대페르시아어"
 
 #. Name for jqr
 msgid "Jaqaru"
@@ -14173,9 +14126,8 @@ msgid "Jarai"
 msgstr "여백"
 
 #. Name for jrb
-#, fuzzy
 msgid "Judeo-Arabic"
-msgstr "아라비아어"
+msgstr "유대아랍어"
 
 #. Name for jrr
 msgid "Jiru"
@@ -14388,9 +14340,8 @@ msgid "Georgian"
 msgstr "조지아어"
 
 #. Name for kau
-#, fuzzy
 msgid "Kanuri"
-msgstr "터키어"
+msgstr "카누리어"
 
 #. Name for kav
 msgid "Katukína"
@@ -15123,9 +15074,8 @@ msgid "Kyerung"
 msgstr ""
 
 #. Name for kha
-#, fuzzy
 msgid "Khasi"
-msgstr "태국어"
+msgstr "카시어"
 
 #. Name for khb
 msgid "Lü"
@@ -16110,9 +16060,8 @@ msgid "Korean"
 msgstr "한국어"
 
 #. Name for kos
-#, fuzzy
 msgid "Kosraean"
-msgstr "한국어"
+msgstr "코스라에어"
 
 #. Name for kot
 #, fuzzy
@@ -16434,9 +16383,8 @@ msgid "Kerek"
 msgstr "그리스어"
 
 #. Name for krl
-#, fuzzy
 msgid "Karelian"
-msgstr "한국어"
+msgstr "카리알라어"
 
 #. Name for krm
 #, fuzzy
@@ -16470,9 +16418,8 @@ msgid "Kanuri, Tumari"
 msgstr "터키어"
 
 #. Name for kru
-#, fuzzy
 msgid "Kurukh"
-msgstr "터키어"
+msgstr "쿠루크어"
 
 #. Name for krv
 #, fuzzy
@@ -16836,9 +16783,8 @@ msgid "Karipuna"
 msgstr "한국어"
 
 #. Name for kur
-#, fuzzy
 msgid "Kurdish"
-msgstr "터키어"
+msgstr "쿠르드어"
 
 #. Name for kus
 msgid "Kusaal"
@@ -17534,9 +17480,8 @@ msgid "Lacandon"
 msgstr ""
 
 #. Name for lad
-#, fuzzy
 msgid "Ladino"
-msgstr "주소"
+msgstr "라디노어"
 
 #. Name for lae
 msgid "Pattani"
@@ -17601,9 +17546,8 @@ msgid "Lama (Togo)"
 msgstr ""
 
 #. Name for lat
-#, fuzzy
 msgid "Latin"
-msgstr "주소"
+msgstr "라틴어"
 
 #. Name for lau
 msgid "Laba"
@@ -18109,9 +18053,8 @@ msgid "Likila"
 msgstr "Le_gal"
 
 #. Name for lif
-#, fuzzy
 msgid "Limbu"
-msgstr "리투아니아어"
+msgstr "림부어"
 
 #. Name for lig
 msgid "Ligbi"
@@ -18140,9 +18083,8 @@ msgid "Limburgan"
 msgstr "리투아니아어"
 
 #. Name for lin
-#, fuzzy
 msgid "Lingala"
-msgstr "Le_gal"
+msgstr "링갈라어"
 
 #. Name for lio
 msgid "Liki"
@@ -18987,9 +18929,8 @@ msgid "Laura"
 msgstr "Balsa"
 
 #. Name for lus
-#, fuzzy
 msgid "Lushai"
-msgstr "태국어"
+msgstr "루샤이어"
 
 #. Name for lut
 msgid "Lushootseed"
@@ -19152,9 +19093,8 @@ msgid "Mixtec, Yutanduchi"
 msgstr ""
 
 #. Name for mad
-#, fuzzy
 msgid "Madurese"
-msgstr "거짓"
+msgstr "마두라어"
 
 #. Name for mae
 msgid "Bo-Rukul"
@@ -19170,9 +19110,8 @@ msgid "Magahi"
 msgstr "마가드어"
 
 #. Name for mah
-#, fuzzy
 msgid "Marshallese"
-msgstr "거짓"
+msgstr "마셜어"
 
 #. Name for mai
 msgid "Maithili"
@@ -19216,9 +19155,8 @@ msgid "Marathi"
 msgstr "마라티어"
 
 #. Name for mas
-#, fuzzy
 msgid "Masai"
-msgstr "Balsa"
+msgstr "마사이어"
 
 #. Name for mat
 msgid "San Francisco Matlatzinca"
@@ -19605,9 +19543,8 @@ msgid "Mbole"
 msgstr ""
 
 #. Name for mdr
-#, fuzzy
 msgid "Mandar"
-msgstr "여백"
+msgstr "만다르어"
 
 #. Name for mds
 msgid "Maria (Papua New Guinea)"
@@ -20568,9 +20505,8 @@ msgid "Mal"
 msgstr "Balsa"
 
 #. Name for mlg
-#, fuzzy
 msgid "Malagasy"
-msgstr "Balsa"
+msgstr "말라가시어"
 
 #. Name for mlh
 #, fuzzy
@@ -20633,9 +20569,8 @@ msgid "Masalit"
 msgstr "Balsa"
 
 #. Name for mlt
-#, fuzzy
 msgid "Maltese"
-msgstr "거짓"
+msgstr "몰타어"
 
 #. Name for mlu
 msgid "To'abaita"
@@ -20801,9 +20736,8 @@ msgid "Muna"
 msgstr "여백"
 
 #. Name for mnc
-#, fuzzy
 msgid "Manchu"
-msgstr "여백"
+msgstr "만주어"
 
 #. Name for mnd
 msgid "Mondé"
@@ -20831,9 +20765,8 @@ msgid "Mono (Democratic Republic of Congo)"
 msgstr ""
 
 #. Name for mni
-#, fuzzy
 msgid "Manipuri"
-msgstr "터키어"
+msgstr "마니푸르어"
 
 #. Name for mnj
 msgid "Munji"
@@ -20979,9 +20912,8 @@ msgid "Moro"
 msgstr "여백"
 
 #. Name for mos
-#, fuzzy
 msgid "Mossi"
-msgstr "여백"
+msgstr "모시어"
 
 #. Name for mot
 msgid "Barí"
@@ -21309,9 +21241,8 @@ msgid "Chin, Mara"
 msgstr ""
 
 #. Name for mri
-#, fuzzy
 msgid "Maori"
-msgstr "여백"
+msgstr "마오리어"
 
 #. Name for mrj
 #, fuzzy
@@ -21733,9 +21664,8 @@ msgid "Murle"
 msgstr "거짓"
 
 #. Name for mus
-#, fuzzy
 msgid "Creek"
-msgstr "그리스어"
+msgstr "무스코지어"
 
 #. Name for mut
 #, fuzzy
@@ -21935,9 +21865,8 @@ msgid "Maninkakan, Kita"
 msgstr ""
 
 #. Name for mwl
-#, fuzzy
 msgid "Mirandese"
-msgstr "거짓"
+msgstr "미란데어"
 
 #. Name for mwm
 msgid "Sar"
@@ -21969,9 +21898,8 @@ msgid "Chin, Mün"
 msgstr ""
 
 #. Name for mwr
-#, fuzzy
 msgid "Marwari"
-msgstr "여백"
+msgstr "마르와르어"
 
 #. Name for mws
 msgid "Mwimbi-Muthambi"
@@ -22163,7 +22091,7 @@ msgstr ""
 
 #. Name for mya
 msgid "Burmese"
-msgstr "미얀마어"
+msgstr "버마어"
 
 #. Name for myb
 #, fuzzy
@@ -24018,9 +23946,8 @@ msgid "Nomane"
 msgstr "루마니아어"
 
 #. Name for nog
-#, fuzzy
 msgid "Nogai"
-msgstr "찾기"
+msgstr "노가이어"
 
 #. Name for noh
 msgid "Nomu"
@@ -25605,9 +25532,8 @@ msgid "Oriya (macrolanguage)"
 msgstr "한국어"
 
 #. Name for orm
-#, fuzzy
 msgid "Oromo"
-msgstr "처음"
+msgstr "오로모어"
 
 #. Name for orn
 msgid "Orang Kanaq"
@@ -25932,9 +25858,8 @@ msgid "Paranawát"
 msgstr ""
 
 #. Name for pag
-#, fuzzy
 msgid "Pangasinan"
-msgstr "헝가리어"
+msgstr "팡가시난어"
 
 #. Name for pah
 #, fuzzy
@@ -26455,9 +26380,8 @@ msgid "Phimbi"
 msgstr ""
 
 #. Name for phn
-#, fuzzy
 msgid "Phoenician"
-msgstr "슬로베니아어"
+msgstr "페니키아어"
 
 #. Name for pho
 msgid "Phunoi"
@@ -26691,9 +26615,8 @@ msgid "Paulohi"
 msgstr "폴란드어"
 
 #. Name for pli
-#, fuzzy
 msgid "Pali"
-msgstr "폴란드어"
+msgstr "팔리어"
 
 #. Name for plj
 #, fuzzy
@@ -27088,9 +27011,8 @@ msgid "Pomo, Southeastern"
 msgstr ""
 
 #. Name for pon
-#, fuzzy
 msgid "Pohnpeian"
-msgstr "인도네시아어"
+msgstr "폰페이어"
 
 #. Name for poo
 msgid "Central Pomo"
@@ -28656,9 +28578,8 @@ msgid "Roglai, Northern"
 msgstr ""
 
 #. Name for roh
-#, fuzzy
 msgid "Romansh"
-msgstr "루마니아어"
+msgstr "로만슈어"
 
 #. Name for rol
 #, fuzzy
@@ -28666,9 +28587,8 @@ msgid "Romblomanon"
 msgstr "루마니아어"
 
 #. Name for rom
-#, fuzzy
 msgid "Romany"
-msgstr "루마니아어"
+msgstr "롬어"
 
 #. Name for ron
 msgid "Romanian"
@@ -28963,18 +28883,16 @@ msgid "Sake"
 msgstr "산-세리프"
 
 #. Name for sam
-#, fuzzy
 msgid "Samaritan Aramaic"
-msgstr "세르비아어"
+msgstr "사마리아 아람어"
 
 #. Inverted name for sam
 msgid "Aramaic, Samaritan"
 msgstr ""
 
 #. Name for san
-#, fuzzy
 msgid "Sanskrit"
-msgstr "산-세리프"
+msgstr "산스크리트어"
 
 #. Name for sao
 #, fuzzy
@@ -28990,9 +28908,8 @@ msgid "Saraveca"
 msgstr ""
 
 #. Name for sas
-#, fuzzy
 msgid "Sasak"
-msgstr "산-세리프"
+msgstr "사사크어"
 
 #. Name for sat
 msgid "Santali"
@@ -29198,14 +29115,12 @@ msgid "Shina"
 msgstr ""
 
 #. Name for scn
-#, fuzzy
 msgid "Sicilian"
-msgstr "우크라이나어"
+msgstr "시칠리아어"
 
 #. Name for sco
-#, fuzzy
 msgid "Scots"
-msgstr "멈춤"
+msgstr "스코트어"
 
 #. Name for scp
 msgid "Helambu Sherpa"
@@ -29799,9 +29714,8 @@ msgid "Mende (Papua New Guinea)"
 msgstr ""
 
 #. Name for sin
-#, fuzzy
 msgid "Sinhala"
-msgstr "베트남어"
+msgstr "신할라어"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -30204,9 +30118,8 @@ msgid "Sama"
 msgstr "산-세리프"
 
 #. Name for sme
-#, fuzzy
 msgid "Northern Sami"
-msgstr "한국어"
+msgstr "사미어 (북)"
 
 #. Inverted name for sme
 msgid "Sami, Northern"
@@ -30248,9 +30161,8 @@ msgid "Musasa"
 msgstr "Balsa"
 
 #. Name for smn
-#, fuzzy
 msgid "Inari Sami"
-msgstr "여백"
+msgstr "사미어 (이나리)"
 
 #. Inverted name for smn
 #, fuzzy
@@ -30327,9 +30239,8 @@ msgid "Sinaugoro"
 msgstr ""
 
 #. Name for snd
-#, fuzzy
 msgid "Sindhi"
-msgstr "찾기"
+msgstr "신디어"
 
 #. Name for sne
 msgid "Bau Bidayuh"
@@ -30365,9 +30276,8 @@ msgid "Sango, Riverain"
 msgstr ""
 
 #. Name for snk
-#, fuzzy
 msgid "Soninke"
-msgstr "슬로베니아어"
+msgstr "소닌케어"
 
 #. Name for snl
 #, fuzzy
@@ -30459,9 +30369,8 @@ msgid "Songomeno"
 msgstr ""
 
 #. Name for sog
-#, fuzzy
 msgid "Sogdian"
-msgstr "노르웨이어"
+msgstr "소그드어"
 
 #. Name for soh
 #, fuzzy
@@ -30738,9 +30647,8 @@ msgid "Sardinian, Logudorese"
 msgstr "마케도니아어"
 
 #. Name for srd
-#, fuzzy
 msgid "Sardinian"
-msgstr "마케도니아어"
+msgstr "사르데냐어"
 
 #. Name for sre
 #, fuzzy
@@ -30778,9 +30686,8 @@ msgid "Saramaccan"
 msgstr ""
 
 #. Name for srn
-#, fuzzy
 msgid "Sranan Tongo"
-msgstr "우크라이나어"
+msgstr "스라난 통고"
 
 #. Name for sro
 #, fuzzy
@@ -31162,9 +31069,8 @@ msgid "Sumbwa"
 msgstr ""
 
 #. Name for sux
-#, fuzzy
 msgid "Sumerian"
-msgstr "세르비아어"
+msgstr "수메르어"
 
 #. Name for suy
 msgid "Suyá"
@@ -31456,9 +31362,8 @@ msgid "Suoy"
 msgstr ""
 
 #. Name for syr
-#, fuzzy
 msgid "Syriac"
-msgstr "세르비아어"
+msgstr "시리아어"
 
 #. Name for sys
 msgid "Sinyar"
@@ -31565,9 +31470,8 @@ msgid "Tagoi"
 msgstr "태국어"
 
 #. Name for tah
-#, fuzzy
 msgid "Tahitian"
-msgstr "라트비아어"
+msgstr "타히티어"
 
 #. Name for taj
 msgid "Eastern Tamang"
@@ -31587,9 +31491,8 @@ msgid "Tal"
 msgstr "태국어"
 
 #. Name for tam
-#, fuzzy
 msgid "Tamil"
-msgstr "태국어"
+msgstr "타밀어"
 
 #. Name for tan
 msgid "Tangale"
@@ -31760,7 +31663,7 @@ msgstr ""
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr ""
+msgstr "타그반와어"
 
 #. Name for tbx
 #, fuzzy
@@ -32198,9 +32101,8 @@ msgid "Tagin"
 msgstr "덴마크어"
 
 #. Name for tgk
-#, fuzzy
 msgid "Tajik"
-msgstr "태국어"
+msgstr "타지크어"
 
 #. Name for tgl
 msgid "Tagalog"
@@ -32409,9 +32311,8 @@ msgid "Tifal"
 msgstr "태국어"
 
 #. Name for tig
-#, fuzzy
 msgid "Tigre"
-msgstr "터키어"
+msgstr "티그레어"
 
 #. Name for tih
 msgid "Timugon Murut"
@@ -32463,9 +32364,8 @@ msgid "Tiéfo"
 msgstr ""
 
 #. Name for tir
-#, fuzzy
 msgid "Tigrinya"
-msgstr "터키어"
+msgstr "티그리냐어"
 
 #. Name for tis
 msgid "Masadiit Itneg"
@@ -33450,9 +33350,8 @@ msgid "Tsuvan"
 msgstr ""
 
 #. Name for tsi
-#, fuzzy
 msgid "Tsimshian"
-msgstr "우크라이나어"
+msgstr "침시아어"
 
 #. Name for tsj
 msgid "Tshangla"
@@ -34430,9 +34329,8 @@ msgid "Watut, North"
 msgstr ""
 
 #. Name for und
-#, fuzzy
 msgid "Undetermined"
-msgstr "표시"
+msgstr "미확인 언어"
 
 #. Name for une
 msgid "Uneme"
@@ -37783,9 +37681,8 @@ msgid "Yao"
 msgstr "야오어"
 
 #. Name for yap
-#, fuzzy
 msgid "Yapese"
-msgstr "일본어"
+msgstr "야프어"
 
 #. Name for yaq
 msgid "Yaqui"
@@ -39150,9 +39047,8 @@ msgid "Zhuang, Eastern Hongshuihe"
 msgstr ""
 
 #. Name for zen
-#, fuzzy
 msgid "Zenaga"
-msgstr "발트어"
+msgstr "제나가어"
 
 #. Name for zga
 #, fuzzy
