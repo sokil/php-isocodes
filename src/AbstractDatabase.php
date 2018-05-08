@@ -201,11 +201,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     protected function find($indexedFieldName, $fieldValue)
     {
         $fieldIndex = $this->getIndex($indexedFieldName);
-        if (!isset($fieldIndex[$fieldValue])) {
-            throw new \InvalidArgumentException(sprintf('Unknown field %s', $indexedFieldName));
-        }
 
-        return $fieldIndex[$fieldValue];
+        return isset($fieldIndex[$fieldValue]) ? $fieldIndex[$fieldValue] : null;
     }
 
     /**
