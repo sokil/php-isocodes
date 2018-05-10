@@ -34,7 +34,8 @@ Usage
 ------
 
 * [Locale configuration](#locale-configuration)
-* [Countries database (ISO 3166-1)]()
+* [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
+* [Subdivisions database (ISO 3166-2)](#subdivisions-database-iso-3166-2)
 
 ### Locale configuration
 
