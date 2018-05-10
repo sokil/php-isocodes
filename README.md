@@ -73,8 +73,7 @@ Generating locales...
 Generation complete.
 ```
 
-Countries
----------
+### Countries
 
 Get localized name of country by it's alpha2 code:
 ```php
@@ -100,3 +99,28 @@ $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 foreach($isoCodes->getCountries() as $country) {
   echo $country->getLocalName();
 }
+
+### Subdivisions
+
+```php
+<?php
+
+$isoCodes = new IsoCodesFactory();
+
+$subDivisions = $isoCodes->getSubdivisions();
+
+// get subdivision by code
+$subDivision = $subDivisions->getByCode('UA-43');
+
+// get subdivision code
+$subDivision->getCode(); // UA-43
+
+// get subdivision name
+$subDivision->getName(); // Respublika Krym
+    
+// get localised subdivision name
+$subDivision->getLocalName(); Автономна Республіка Крим
+
+// get subdivision type
+$subDivision->getType(); // 'Autonomous republic'
+```
