@@ -130,7 +130,7 @@ $subDivision->getCode(); // UA-43
 $subDivision->getName(); // Respublika Krym
     
 // get localised subdivision name
-$subDivision->getLocalName(); Автономна Республіка Крим
+$subDivision->getLocalName(); // Автономна Республіка Крим
 
 // get subdivision type
 $subDivision->getType(); // 'Autonomous republic'
