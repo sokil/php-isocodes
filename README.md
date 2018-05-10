@@ -143,3 +143,10 @@ $subDivision->getType(); // 'Autonomous republic'
 ### Currencies database (ISO 4217)
 
 ### Languages database (ISO 639-3)
+
+
+See also
+--------
+
+* [State Classifier of objects of administrative and territorial structure of Ukraine](https://github.com/sokil/koatuu) -generates database of detailed list of cities and settlements of Ukraine
+* [A Symfony's PHP replacement layer for the C intl extension that also provides access to the localization data of the ICU library](http://symfony.com/doc/current/components/intl.html)
