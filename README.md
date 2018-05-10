@@ -73,7 +73,7 @@ Generating locales...
 Generation complete.
 ```
 
-### Countries
+### Countries (ISO 3166-1)
 
 Get localized name of country by it's alpha2 code:
 ```php
@@ -83,7 +83,7 @@ $isoCodes->getCountries()->getByAlpha2('UA')->getLocalName();
 
 Get localized name of country by it's alpha2 code:
 ```php
-$isoCodes = new \Sokil\IsoCodes;
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 $isoCodes->getCountries()->getByAlpha2('UKR')->getName();
 ```
 
@@ -99,8 +99,9 @@ $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 foreach($isoCodes->getCountries() as $country) {
   echo $country->getLocalName();
 }
+```
 
-### Subdivisions
+### Subdivisions (ISO 3166-2)
 
 ```php
 <?php
