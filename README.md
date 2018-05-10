@@ -36,6 +36,10 @@ Usage
 * [Locale configuration](#locale-configuration)
 * [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
 * [Subdivisions database (ISO 3166-2)](#subdivisions-database-iso-3166-2)
+* [Historic countries database (ISO 3166-3)](#historic-countries-database-iso-3166-3)
+* [Scripts database (ISO 15924)](#scripts-database-iso-15924)
+* [Currencies database (ISO 4217)](#currencies-database-iso-4217)
+* [Languages database (ISO 639-3)](#languages-database-iso-639-3)
 
 ### Locale configuration
 
@@ -131,3 +135,11 @@ $subDivision->getLocalName(); Автономна Республіка Крим
 // get subdivision type
 $subDivision->getType(); // 'Autonomous republic'
 ```
+
+### Historic countries database (ISO 3166-3)
+
+### Scripts database (ISO 15924)
+
+### Currencies database (ISO 4217)
+
+### Languages database (ISO 639-3)
