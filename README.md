@@ -33,6 +33,11 @@ composer require sokil/php-isocodes
 Usage
 ------
 
+* [Locale configuration](#locale-configuration)
+* [Countries database (ISO 3166-1)]()
+
+### Locale configuration
+
 Before using IsoCodes database you need to setup valid locale to get transtions worked:
 
 ```php
@@ -73,7 +78,7 @@ Generating locales...
 Generation complete.
 ```
 
-### Countries (ISO 3166-1)
+### Countries database (ISO 3166-1)
 
 Get localized name of country by it's alpha2 code:
 ```php
@@ -101,7 +106,7 @@ foreach($isoCodes->getCountries() as $country) {
 }
 ```
 
-### Subdivisions (ISO 3166-2)
+### Subdivisions database (ISO 3166-2)
 
 ```php
 <?php
