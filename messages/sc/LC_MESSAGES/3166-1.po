@@ -1,18 +1,17 @@
 # Translation of ISO 3166-1 to Sardinian
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
+# Ajeje Brazorf <lmelonimamo@yahoo.it>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-01-01 15:44+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2018-06-03 23:43+0000\n"
+"Last-Translator: Ajeje Brazorf <lmelonimamo@yahoo.it>\n"
 "Language-Team: Sardinian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/sc/>\n"
 "Language: sc\n"
@@ -20,19 +19,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0\n"
 
 #. Name for ABW
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #. Name for AFG
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afghànistan"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
-msgstr ""
+msgstr "Repùblica islàmica de s'Afghànistan"
 
 #. Name for AGO
 msgid "Angola"
@@ -40,11 +39,11 @@ msgstr "Angola"
 
 #. Official name for AGO
 msgid "Republic of Angola"
-msgstr ""
+msgstr "Repùblica de s'Angola"
 
 #. Name for AIA
 msgid "Anguilla"
-msgstr ""
+msgstr "Anguilla"
 
 #. Name for ALA
 msgid "Åland Islands"
@@ -56,7 +55,7 @@ msgstr "Albania"
 
 #. Official name for ALB
 msgid "Republic of Albania"
-msgstr ""
+msgstr "Repùblica de Albania"
 
 #. Name for AND
 msgid "Andorra"
@@ -64,11 +63,11 @@ msgstr "Andorra"
 
 #. Official name for AND
 msgid "Principality of Andorra"
-msgstr ""
+msgstr "Printzipadu de Andorra"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Emiratos Àrabos Unidos"
 
 #. Name for ARG
 msgid "Argentina"
@@ -76,7 +75,7 @@ msgstr "Argentina"
 
 #. Official name for ARG
 msgid "Argentine Republic"
-msgstr ""
+msgstr "Repùblica Argentina"
 
 #. Name for ARM
 msgid "Armenia"
@@ -84,7 +83,7 @@ msgstr "Armènia"
 
 #. Official name for ARM
 msgid "Republic of Armenia"
-msgstr ""
+msgstr "Repùblica de Armènia"
 
 #. Name for ASM
 msgid "American Samoa"
@@ -92,11 +91,11 @@ msgstr "Samoa Americanas"
 
 #. Name for ATA
 msgid "Antarctica"
-msgstr ""
+msgstr "Antàrticu"
 
 #. Name for ATF
 msgid "French Southern Territories"
-msgstr ""
+msgstr "Territòrios australes frantzesos"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
@@ -112,15 +111,15 @@ msgstr "Àustria"
 
 #. Official name for AUT
 msgid "Republic of Austria"
-msgstr ""
+msgstr "Repùblica de Àustria"
 
 #. Name for AZE
 msgid "Azerbaijan"
-msgstr "Azerbaigián"
+msgstr "Azerbaigiàn"
 
 #. Official name for AZE
 msgid "Republic of Azerbaijan"
-msgstr ""
+msgstr "Repùblica de Azerbaigiàn"
 
 #. Name for BDI
 msgid "Burundi"

@@ -1,29 +1,28 @@
 # Translation of ISO 639-2 to Indonesian
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Ahmad Sofyan <fade@2bl.ac>, 2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Andhika Padmawan <andhika.padmawan@gmail.com>, 2010.
+# Andika Triwidada <andika@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-03-07 17:37+0000\n"
+"PO-Revision-Date: 2018-05-29 14:39+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
-"Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-"
-"codes/iso-639-2/id/>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -143,7 +142,7 @@ msgstr "Bahasa Athapascan"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr "Bahasa Australian"
+msgstr "Bahasa Australia"
 
 #. Name for ava
 msgid "Avaric"
@@ -807,7 +806,7 @@ msgstr "Bahasa Indonesia"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr "Bahasa Indo-Eropa"
+msgstr "Bahasa-bahasa Indo-Eropa"
 
 #. Name for inh
 msgid "Ingush"
@@ -819,11 +818,11 @@ msgstr "Inupiaq"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr "Bahasa Iran"
+msgstr "Bahasa-bahasa Iran"
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr "Bahasa Iroquoian"
+msgstr "Bahasa-bahasa Iroquoian"
 
 #. Name for isl
 msgid "Icelandic"
@@ -879,7 +878,7 @@ msgstr "Kannada"
 
 #. Name for kar
 msgid "Karen languages"
-msgstr "Bahasa Karen"
+msgstr "Bahasa-bahasa Karen"
 
 #. Name for kas
 msgid "Kashmiri"
@@ -911,7 +910,7 @@ msgstr "Khasi"
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr "Bahasa Khoisan"
+msgstr "Bahasa-bahasa Khoisa"
 
 #. Name for khm
 msgid "Central Khmer"
@@ -971,7 +970,7 @@ msgstr "Karelian"
 
 #. Name for kro
 msgid "Kru languages"
-msgstr "Bahasa Kru"
+msgstr "Bahasa-bahasa Kru"
 
 #. Name for kru
 msgid "Kurukh"
@@ -1103,7 +1102,7 @@ msgstr "Mandingo"
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr "Bahasa Austronesia"
+msgstr "Bahasa-bahasa Austronesia"
 
 #. Name for mar
 msgid "Marathi"
@@ -1147,7 +1146,7 @@ msgstr "Masedonia"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr "Bahasa Mon-Khmer"
+msgstr "Bahasa-bahasa Mon-Khmer"
 
 #. Name for mlg
 msgid "Malagasy"
@@ -1167,7 +1166,7 @@ msgstr "Manipuri"
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr "Bahasa Manobo"
+msgstr "Bahasa-bahasa Manobo"
 
 #. Name for moh
 msgid "Mohawk"
@@ -1195,7 +1194,7 @@ msgstr "Banyak bahasa"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr "Bahasa Munda"
+msgstr "Bahasa-bahasa Munda"
 
 #. Name for mus
 msgid "Creek"
@@ -1215,7 +1214,7 @@ msgstr "Burma"
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr "Bahasa Maya"
+msgstr "Bahasa-bahasa Maya"
 
 #. Name for myv
 msgid "Erzya"
@@ -1223,11 +1222,11 @@ msgstr "Erzya"
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr "Bahaya Nahuatl"
+msgstr "Bahasa-bahasa Nahuatl"
 
 #. Name for nai
 msgid "North American Indian languages"
-msgstr "Bahasa Indian Amerika Utara"
+msgstr "Bahasa-bahasa Indian Amerika Utara"
 
 #. Name for nap
 msgid "Neapolitan"
@@ -1271,7 +1270,7 @@ msgstr "Nias"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr "Bahasa Niger-Kordofanian"
+msgstr "Bahasa-bahasa Niger-Kordofania"
 
 #. Name for niu
 msgid "Niuean"
@@ -1311,7 +1310,7 @@ msgstr "Pedi; Sepedi; Sotho Bagian Utara"
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr "Bahasa Nubia"
+msgstr "Bahasa-bahasa Nubia"
 
 #. Name for nwc
 msgid "Classical Newari; Old Newari; Classical Nepal Bhasa"
@@ -1367,11 +1366,11 @@ msgstr "Turkish, Ottoman (1500-1928)"
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr "Bahasa Otomia"
+msgstr "Bahasa-bahasa Otomia"
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr "Bahasa Papua"
+msgstr "Bahasa-bahasa Papua"
 
 #. Name for pag
 msgid "Pangasinan"
@@ -1403,7 +1402,7 @@ msgstr "Persia, Kuno (kl. 600-400 S.M.)"
 
 #. Name for phi
 msgid "Philippine languages"
-msgstr "Bahasa Filipina"
+msgstr "Bahasa-bahasa Filipina"
 
 #. Name for phn
 msgid "Phoenician"
@@ -1427,7 +1426,7 @@ msgstr "Portugis"
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr "Bahasa Prakrit"
+msgstr "Bahasa-bahasa Prakrit"
 
 #. Name for pro
 msgid "Provençal, Old (to 1500)"
@@ -1459,7 +1458,7 @@ msgstr "Rarotongan; Kepulauan Cook Maori"
 
 #. Name for roa
 msgid "Romance languages"
-msgstr "Bahasa Romance"
+msgstr "Bahasa-bahasa Romance"
 
 #. Name for roh
 msgid "Romansh"
@@ -1503,7 +1502,7 @@ msgstr "Indian Amerika Selatan (Lainnya)"
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr "Bahasa Salishan"
+msgstr "Bahasa-bahasa Salisha"
 
 #. Name for sam
 msgid "Samaritan Aramaic"
@@ -1535,7 +1534,7 @@ msgstr "Selkup"
 
 #. Name for sem
 msgid "Semitic languages"
-msgstr "Bahasa Semitic"
+msgstr "Bahasa-bahasa Semit"
 
 #. Name for sga
 msgid "Irish, Old (to 900)"
@@ -1559,15 +1558,15 @@ msgstr "Sinhala; Sinhalese"
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr "Bahasa Sioua"
+msgstr "Bahasa-bahasa Sioua"
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
-msgstr "Bahasa Sino-Tibetan"
+msgstr "Bahasa-bahasa Sino-Tibet"
 
 #. Name for sla
 msgid "Slavic languages"
-msgstr "Bahasa Slavic"
+msgstr "Bahasa-bahasa Slavik"
 
 #. Name for slk
 msgid "Slovak"
@@ -1587,7 +1586,7 @@ msgstr "Northern Sami"
 
 #. Name for smi
 msgid "Sami languages"
-msgstr "Bahasa Sami"
+msgstr "Bahasa-bahasa Sami"
 
 #. Name for smj
 msgid "Lule Sami"
@@ -1627,7 +1626,7 @@ msgstr "Somali"
 
 #. Name for son
 msgid "Songhai languages"
-msgstr "Bahasa Songhai"
+msgstr "Bahasa-bahasa Songhai"
 
 #. Name for sot
 msgid "Sotho, Southern"
@@ -1659,7 +1658,7 @@ msgstr "Serer"
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
-msgstr "Bahasa Nilo-Saharan"
+msgstr "Bahasa-bahasa Nilo-Sahara"
 
 #. Name for ssw
 msgid "Swati"
@@ -1703,7 +1702,7 @@ msgstr "Tahiti"
 
 #. Name for tai
 msgid "Tai languages"
-msgstr "Bahasa Tai"
+msgstr "Bahasa-bahasa Tai"
 
 #. Name for tam
 msgid "Tamil"
@@ -1803,7 +1802,7 @@ msgstr "Tumbuka"
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr "Bahasa Tupi"
+msgstr "Bahasa-bahasa Tupi"
 
 #. Name for tur
 msgid "Turkish"
@@ -1811,7 +1810,7 @@ msgstr "Turki"
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr "Bahasa Altaic"
+msgstr "Bahasa-bahasa Altai"
 
 #. Name for tvl
 msgid "Tuvalu"
@@ -1879,7 +1878,7 @@ msgstr "Votic"
 
 #. Name for wak
 msgid "Wakashan languages"
-msgstr "Bahasa Wakashan"
+msgstr "Bahasa-bahasa Wakasha"
 
 #. Name for wal
 msgid "Walamo"
@@ -1895,7 +1894,7 @@ msgstr "Washo"
 
 #. Name for wen
 msgid "Sorbian languages"
-msgstr "Bahasa Sorbia"
+msgstr "Bahasa-bahasa Sorbia"
 
 #. Name for wln
 msgid "Walloon"
@@ -1931,7 +1930,7 @@ msgstr "Yoruba"
 
 #. Name for ypk
 msgid "Yupik languages"
-msgstr "Bahasa Yupik"
+msgstr "Bahasa-bahasa Yupik"
 
 #. Name for zap
 msgid "Zapotec"
@@ -1959,7 +1958,7 @@ msgstr "Cina"
 
 #. Name for znd
 msgid "Zande languages"
-msgstr "Bahasa Zande"
+msgstr "Bahasa-bahasa Zande"
 
 #. Name for zul
 msgid "Zulu"

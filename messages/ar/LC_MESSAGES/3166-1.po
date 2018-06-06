@@ -14,16 +14,17 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2010-08-14 15:04+0300\n"
-"Last-Translator: Ossama M. Khayat <okhayat@yahoo.com>\n"
-"Language-Team: Arabic <support@arabeyes.org>\n"
+"PO-Revision-Date: 2018-05-13 17:34+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -353,13 +354,11 @@ msgstr "إتّحاد جزر القمر"
 #, fuzzy
 #| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "كاب فيرد"
+msgstr "الرأس الأخضر"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "جمهوريّة كاب فيرد"
+msgstr "جمهورية الرأس الأخضر"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -379,7 +378,7 @@ msgstr "جمهوريّة كوبا"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "جزر كوراكاو"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -399,7 +398,7 @@ msgstr "جمهوريّة قبرص"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "التشيك"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -472,7 +471,7 @@ msgstr "إريتريا"
 #. Official name for ERI
 #, fuzzy
 msgid "the State of Eritrea"
-msgstr "الولايات المتّحدة الأميركيّة"
+msgstr "دولة إريتريا"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -517,7 +516,7 @@ msgstr "فيجي"
 #. Official name for FJI
 #, fuzzy
 msgid "Republic of Fiji"
-msgstr "جمهوريّة هايتي"
+msgstr "جمهورية فيجي"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -596,10 +595,8 @@ msgid "Gambia"
 msgstr "غامبيا"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "جمهوريّة غامبيا"
+msgstr "جمهوريّة غامبيا الإسلامية"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -1020,7 +1017,7 @@ msgstr "ميانمار"
 #. Official name for MMR
 #, fuzzy
 msgid "Republic of Myanmar"
-msgstr "جمهوريّة غويانا"
+msgstr "جمهورية ميانمار"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1265,12 +1262,12 @@ msgstr "جمهوريّة الباراغواي"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "دولة فلسطين"
 
 #. Official name for PSE
 #, fuzzy
 msgid "the State of Palestine"
-msgstr "الولايات المتّحدة الأميركيّة"
+msgstr "دولة فلسطين"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1383,7 +1380,7 @@ msgstr "الصّومال"
 #. Official name for SOM
 #, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "جمهوريّة ألمانيا الاتّحاديّة"
+msgstr "جمهورية الصومال الاتحادية"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1400,12 +1397,12 @@ msgstr "جمهوريّة صربية"
 #. Name for SSD
 #, fuzzy
 msgid "South Sudan"
-msgstr "جمهوريّة السّودان"
+msgstr "جنوب السودان"
 
 #. Official name for SSD
 #, fuzzy
 msgid "Republic of South Sudan"
-msgstr "جمهوريّة السّودان"
+msgstr "جمهورية جنوب السودان"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1510,7 +1507,7 @@ msgstr "جمهوريّة طاجيكستان"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "توكيلاو"
+msgstr "جزر توكيلو"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1578,7 +1575,7 @@ msgstr "جمهوريّة تنزانيا المتّحدة"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "تنزانيا"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1668,7 +1665,7 @@ msgstr "جمهوريّة الفييتنام الاشتراكيّة"
 #, fuzzy
 #| msgid "Viet Nam"
 msgid "Vietnam"
-msgstr "الفييتنام"
+msgstr "فيتنام"
 
 #. Name for VUT
 msgid "Vanuatu"

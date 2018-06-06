@@ -1,30 +1,30 @@
 # Translation of ISO 4217 to Bokmål, Norwegian; Norwegian Bokmål
 # Codes for the representation of currencies
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Roy-Magne Mo <rmo@sunnmore.net>, 2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Eirik U. Birkeland <eirbir@gmail.com>, 2008.
 # Kjartan Maraas <kmaraas@gnome.org>, 2001-2009.
 # Hans Fredrik Nordhaug <hans@nordhaug.priv.no>, 2011-2015.
+# Petter Reinholdtsen <pere-weblate@hungry.com>, 2018.
+# Allan Nordhøy <epost@anotheragency.no>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-01-31 11:38+0000\n"
-"Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/iso-"
-"codes/iso-4217/nb/>\n"
+"PO-Revision-Date: 2018-06-01 18:40+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
+"iso-codes/iso-4217/nb/>\n"
 "Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -46,7 +46,7 @@ msgstr "Armenske dram"
 #, fuzzy
 #| msgid "Netherlands Antillian Guilder"
 msgid "Netherlands Antillean Guilder"
-msgstr "Antillianske gylden"
+msgstr "Antilliansk gylden"
 
 #. Name for AOA
 msgid "Kwanza"
@@ -64,61 +64,59 @@ msgstr "Australske dollar"
 #, fuzzy
 #| msgid "Aruban Guilder"
 msgid "Aruban Florin"
-msgstr "Arubanske florin"
+msgstr "Arubansk florin"
 
 #. Name for AZN
 msgid "Azerbaijanian Manat"
 msgstr "Aserbajdsjanske manat"
 
 #. Name for BAM
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Convertible Mark"
 msgstr "Konvertibilna mark"
 
 #. Name for BBD
 msgid "Barbados Dollar"
-msgstr "Barbadiske dollar"
+msgstr "Barbadisk dollar"
 
 #. Name for BDT
 msgid "Taka"
-msgstr "Bangladeshiske taka"
+msgstr "Bangladeshisk taka"
 
 #. Name for BGN
 msgid "Bulgarian Lev"
-msgstr "Bulgarske lev"
+msgstr "Bulgarsk lev"
 
 #. Name for BHD
 msgid "Bahraini Dinar"
-msgstr "Bahrainske dinar"
+msgstr "Bahrainsk dinar"
 
 #. Name for BIF
 msgid "Burundi Franc"
-msgstr "Burundiske franc"
+msgstr "Burundisk franc"
 
 #. Name for BMD
 msgid "Bermudian Dollar"
-msgstr "Bermudiske dollar"
+msgstr "Bermudisk dollar"
 
 #. Name for BND
 msgid "Brunei Dollar"
-msgstr "Bruneiske dollar"
+msgstr "Bruneisk dollar"
 
 #. Name for BOB
 msgid "Boliviano"
-msgstr "Bolivianske boliviano"
+msgstr "Boliviansk boliviano"
 
 #. Name for BRL
 msgid "Brazilian Real"
-msgstr "Brasilianske real"
+msgstr "Brasiliansk real"
 
 #. Name for BSD
 msgid "Bahamian Dollar"
-msgstr "Bahamanske dollar"
+msgstr "Bahamansk dollar"
 
 #. Name for BTN
 msgid "Ngultrum"
-msgstr "Bhutanske ngultrum"
+msgstr "Bhutansk ngultrum"
 
 #. Name for BWP
 msgid "Pula"
@@ -161,14 +159,12 @@ msgid "Costa Rican Colon"
 msgstr "Costaricanske colon"
 
 #. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Peso Convertible"
-msgstr "Konvertibilna mark"
+msgstr "Konvertibel peso"
 
 #. Name for CUP
 msgid "Cuban Peso"
-msgstr "Cubanske pesos"
+msgstr "Cubansk peso"
 
 #. Name for CVE
 #, fuzzy
@@ -412,7 +408,7 @@ msgstr "Maldiviske rufiyah"
 #, fuzzy
 #| msgid "Zambian Kwacha"
 msgid "Malawi Kwacha"
-msgstr "Zambiske kwacha"
+msgstr "Malaviske kwacha"
 
 #. Name for MXN
 msgid "Mexican Peso"
@@ -459,10 +455,8 @@ msgid "Balboa"
 msgstr "Panamanske balboa"
 
 #. Name for PEN
-#, fuzzy
-#| msgid "Som"
 msgid "Sol"
-msgstr "Kirgisiske som"
+msgstr "Peruansk nuevo sol"
 
 #. Name for PGK
 msgid "Kina"
@@ -587,10 +581,8 @@ msgid "Pa’anga"
 msgstr "Tonganske pa’anga"
 
 #. Name for TRY
-#, fuzzy
-#| msgid "New Turkish Lira"
 msgid "Turkish Lira"
-msgstr "Tyrkiske nye lira"
+msgstr "Tyrkiske lire"
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
@@ -626,7 +618,7 @@ msgstr "Usbekiske som"
 
 #. Name for VEF
 msgid "Bolívar"
-msgstr ""
+msgstr "Bolívar"
 
 #. Name for VND
 msgid "Dong"

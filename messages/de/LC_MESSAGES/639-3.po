@@ -25,15 +25,16 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2012-11-27 14:34+0100\n"
-"Last-Translator: Daniel Schury <Daniel.Schury@physik.uni-giessen.de>\n"
-"Language-Team: Deutsch <Ubuntu Translators <ubuntu-l10n-de-community@lists."
-"launchpad.net>>\n"
+"PO-Revision-Date: 2018-05-14 16:38+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -321,7 +322,7 @@ msgstr "Mesopotamisch-Arabisch"
 
 #. Inverted name for acm
 msgid "Arabic, Mesopotamian"
-msgstr "Arabisch, Mesopotamische"
+msgstr "Arabisch, Mesopotamisch"
 
 #. Name for acn
 msgid "Achang"
@@ -329,7 +330,7 @@ msgstr "Achang"
 
 #. Name for acp
 msgid "Eastern Acipa"
-msgstr "Ost-Acipa"
+msgstr "Östliches Acipa"
 
 #. Inverted name for acp
 msgid "Acipa, Eastern"
@@ -508,14 +509,10 @@ msgid "Argentine Sign Language"
 msgstr "Argentinische Gebärdensprache"
 
 #. Name for aee
-#, fuzzy
-#| msgid "Northeast Pashayi"
 msgid "Northeast Pashai"
-msgstr "Nordost-Pashai"
+msgstr "Nordöstliches Pashai"
 
 #. Inverted name for aee
-#, fuzzy
-#| msgid "Pashayi, Northeast"
 msgid "Pashai, Northeast"
 msgstr "Pashai, Nordöstliches"
 
@@ -1707,7 +1704,7 @@ msgstr "Arrarnta, Westliches"
 
 #. Name for arg
 msgid "Aragonese"
-msgstr "Aragonese"
+msgstr "Aragonesisch"
 
 #. Name for arh
 msgid "Arhuaco"
@@ -2997,7 +2994,7 @@ msgstr "Bekati'"
 
 #. Name for bej
 msgid "Beja"
-msgstr "Bedja (Bedauye)"
+msgstr "Bedscha"
 
 #. Name for bek
 msgid "Bebeli"
@@ -3017,7 +3014,7 @@ msgstr "Bengalisch"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr "Bengali"
+msgstr "Bengalisch"
 
 #. Name for beo
 msgid "Beami"
@@ -3597,7 +3594,7 @@ msgstr "Banda, Mittelsüdliches"
 
 #. Name for bjp
 msgid "Fanamaket"
-msgstr ""
+msgstr "Fanamaket"
 
 #. Name for bjr
 msgid "Binumarien"
@@ -5177,7 +5174,7 @@ msgstr "Binahari"
 
 #. Name for bya
 msgid "Batak"
-msgstr "Batak"
+msgstr "Batakisch"
 
 #. Name for byb
 msgid "Bikya"
@@ -5558,7 +5555,7 @@ msgstr "Izora"
 
 #. Name for cbq
 msgid "Tsucuba"
-msgstr ""
+msgstr "Tsucuba"
 
 #. Name for cbr
 msgid "Cashibo-Cacataibo"
@@ -5878,7 +5875,7 @@ msgstr "Kirchenslawisch"
 
 #. Inverted name for chu
 msgid "Slavic, Church"
-msgstr ""
+msgstr "Slawisch, Kirche"
 
 #. Name for chv
 msgid "Chuvash"
@@ -6478,7 +6475,7 @@ msgstr "Cherepon"
 
 #. Name for cpo
 msgid "Kpeego"
-msgstr ""
+msgstr "Kpeego"
 
 #. Name for cps
 msgid "Capiznon"
@@ -7038,7 +7035,7 @@ msgstr "Cayubaba"
 
 #. Name for cym
 msgid "Welsh"
-msgstr "Kymrisch"
+msgstr "Walisisch"
 
 #. Name for cyo
 msgid "Cuyonon"
@@ -7972,7 +7969,7 @@ msgstr "Domu"
 
 #. Name for doh
 msgid "Dong"
-msgstr "Kam"
+msgstr "Dong"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -8188,7 +8185,7 @@ msgstr "Dogon, Tomo Kan"
 
 #. Name for dtn
 msgid "Daatsʼíin"
-msgstr ""
+msgstr "Daatsʼíin"
 
 #. Name for dto
 msgid "Tommo So Dogon"
@@ -8300,7 +8297,7 @@ msgstr "Mittelniederländisch (ca. 1050-1350)"
 
 #. Inverted name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "Niederländisch, Mittleres (ca. 1050-1350)"
+msgstr "Niederländisch, Mittel (ca. 1050-1350)"
 
 #. Name for dun
 msgid "Dusun Deyah"
@@ -8789,7 +8786,7 @@ msgstr "Mittelenglisch (1100-1500)"
 
 #. Inverted name for enm
 msgid "English, Middle (1100-1500)"
-msgstr "Englisch, Mittleres (1100-1500)"
+msgstr "Englisch, Mittel (1100-1500)"
 
 #. Name for enn
 msgid "Engenni"
@@ -8823,7 +8820,7 @@ msgstr "Enwan (Akwa Ibom)"
 
 #. Name for enx
 msgid "Enxet"
-msgstr ""
+msgstr "Enxet"
 
 #. Name for eot
 msgid "Beti (Côte d'Ivoire)"
@@ -9045,7 +9042,7 @@ msgstr "Kalenjin"
 
 #. Name for eza
 msgid "Ezaa"
-msgstr ""
+msgstr "Ezaa"
 
 #. Name for eze
 msgid "Uzekwe"
@@ -9057,7 +9054,7 @@ msgstr "Fasu"
 
 #. Name for fab
 msgid "Fa d'Ambu"
-msgstr ""
+msgstr "Fa d'Ambu"
 
 #. Name for fad
 msgid "Wagi"
@@ -9283,7 +9280,7 @@ msgstr "Muria, Tiefwestlich"
 
 #. Name for fnb
 msgid "Fanbak"
-msgstr ""
+msgstr "Fanbak"
 
 #. Name for fng
 msgid "Fanagalo"
@@ -9355,7 +9352,7 @@ msgstr "Mittelfranzösisch (ca. 1400 - 1600)"
 
 #. Inverted name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "Französisch, Mittleres (ca. 1400 - 1600)"
+msgstr "Französisch, Mittel (ca. 1400-1600)"
 
 #. Name for fro
 msgid "Old French (842-ca. 1400)"
@@ -9363,7 +9360,7 @@ msgstr "Altfranzösisch (842 - ca. 1400)"
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Französisch, Alt (842 - ca. 1400)"
+msgstr "Französisch, Alt (842-ca. 1400)"
 
 #. Name for frp
 msgid "Arpitan"
@@ -9744,7 +9741,7 @@ msgstr "Gbanu"
 
 #. Name for gbw
 msgid "Gabi-Gabi"
-msgstr ""
+msgstr "Gabi-Gabi"
 
 #. Name for gbx
 msgid "Eastern Xwla Gbe"
@@ -9949,7 +9946,7 @@ msgstr "Gen"
 
 #. Name for gek
 msgid "Ywom"
-msgstr ""
+msgstr "Ywom"
 
 #. Name for gel
 msgid "ut-Ma'in"
@@ -9965,7 +9962,7 @@ msgstr "Geser-Gorom"
 
 #. Name for gev
 msgid "Eviya"
-msgstr ""
+msgstr "Evija"
 
 #. Name for gew
 msgid "Gera"
@@ -10115,7 +10112,7 @@ msgstr "Goaria"
 
 #. Name for gih
 msgid "Githabul"
-msgstr ""
+msgstr "Githabul"
 
 #. Name for gil
 msgid "Gilbertese"
@@ -10246,7 +10243,7 @@ msgstr "Kpelle, Guinea"
 
 #. Name for gku
 msgid "ǂUngkue"
-msgstr ""
+msgstr "ǂUngkue"
 
 #. Name for gla
 msgid "Scottish Gaelic"
@@ -10270,7 +10267,7 @@ msgstr "Irisch"
 
 #. Name for glg
 msgid "Galician"
-msgstr "Galicisch"
+msgstr "Galizisch"
 
 #. Name for glh
 #, fuzzy
@@ -10339,7 +10336,7 @@ msgstr "Mághdì"
 
 #. Name for gmg
 msgid "Magɨyi"
-msgstr ""
+msgstr "Magɨyi"
 
 #. Name for gmh
 msgid "Middle High German (ca. 1050-1500)"
@@ -10387,7 +10384,7 @@ msgstr "Griechisch, Mykenisch"
 
 #. Name for gmz
 msgid "Mgbolizhia"
-msgstr ""
+msgstr "Mgbolizhia"
 
 #. Name for gna
 msgid "Kaansa"
@@ -11808,7 +11805,7 @@ msgstr "Harzani"
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Hochsorbisch"
+msgstr "Obersorbisch"
 
 #. Inverted name for hsb
 msgid "Sorbian, Upper"
@@ -12864,11 +12861,11 @@ msgstr "Yaqay"
 
 #. Name for jas
 msgid "New Caledonian Javanese"
-msgstr "Neu-Kaledonien-Jawanesisch"
+msgstr "Neu-Kaledonien-Javanisch"
 
 #. Inverted name for jas
 msgid "Javanese, New Caledonian"
-msgstr "Jawanesisch, Neu-Kaledonien"
+msgstr "Javanisch, Neu-Kaledonien"
 
 #. Name for jat
 msgid "Jakati"
@@ -14154,7 +14151,7 @@ msgstr "Kyerung"
 
 #. Name for kha
 msgid "Khasi"
-msgstr "Khasi-Sprache"
+msgstr "Khasi"
 
 #. Name for khb
 msgid "Lü"
@@ -14338,7 +14335,7 @@ msgstr "Karagas"
 
 #. Name for kin
 msgid "Kinyarwanda"
-msgstr "Rwanda"
+msgstr "Kinyarwanda"
 
 #. Name for kio
 msgid "Kiowa"
@@ -15385,7 +15382,7 @@ msgstr "Kerekisch"
 
 #. Name for krl
 msgid "Karelian"
-msgstr "Karenisch"
+msgstr "Karelisch"
 
 #. Name for krm
 msgid "Krim"
@@ -17930,11 +17927,11 @@ msgstr "Mafa"
 
 #. Name for mag
 msgid "Magahi"
-msgstr "Khotta"
+msgstr "Magahi"
 
 #. Name for mah
 msgid "Marshallese"
-msgstr "Marshallesisch"
+msgstr "Marschallesisch"
 
 #. Name for mai
 msgid "Maithili"
@@ -18613,7 +18610,7 @@ msgstr "Mittelirisch (900-1200)"
 
 #. Inverted name for mga
 msgid "Irish, Middle (900-1200)"
-msgstr "Irisch, Mittleres (900-1200)"
+msgstr "Irisch, Mittel (900-1200)"
 
 #. Name for mgb
 msgid "Mararit"
@@ -18933,7 +18930,7 @@ msgstr "Mixe, Isthmus"
 
 #. Name for mis
 msgid "Uncoded languages"
-msgstr "Nichtklassifizierte Sprachen"
+msgstr "Nicht kodierte Sprachen"
 
 #. Name for mit
 msgid "Southern Puebla Mixtec"
@@ -19469,7 +19466,7 @@ msgstr "Mono (Demokratische Republik Kongo)"
 
 #. Name for mni
 msgid "Manipuri"
-msgstr "Meithei-Sprache"
+msgstr "Manipuri"
 
 #. Name for mnj
 msgid "Munji"
@@ -20998,7 +20995,7 @@ msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "Nauruanisch"
+msgstr "Nauruisch"
 
 #. Name for nav
 msgid "Navajo"
@@ -22488,7 +22485,7 @@ msgstr "Altnordisch"
 
 #. Inverted name for non
 msgid "Norse, Old"
-msgstr "Nordisch, Altes"
+msgstr "Nordisch, Alt"
 
 #. Name for nop
 msgid "Numanggang"
@@ -24614,7 +24611,7 @@ msgstr "Altpersisch (ca. 600-400 v.Chr.)"
 
 #. Inverted name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Persisch, Alt (ca. 600-400 v.Chr.)"
+msgstr "Persisch, Alt (ca. 600-400 v. Chr.)"
 
 #. Name for pep
 msgid "Kunja"
@@ -24698,7 +24695,7 @@ msgstr "Primitives Irisch"
 
 #. Inverted name for pgl
 msgid "Irish, Primitive"
-msgstr "Irisch, Primitiv"
+msgstr "Irisch, Primitives"
 
 #. Name for pgn
 msgid "Paelignian"
@@ -24748,7 +24745,7 @@ msgstr "Phimbi"
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Phönikisch"
+msgstr "Phönizisch"
 
 #. Name for pho
 msgid "Phunoi"
@@ -26698,7 +26695,7 @@ msgstr "Romani, Baltikum"
 
 #. Name for rmm
 msgid "Roma"
-msgstr "Romani"
+msgstr "Roma"
 
 #. Name for rmn
 msgid "Balkan Romani"
@@ -28247,7 +28244,7 @@ msgstr "Ma'ya"
 
 #. Name for sma
 msgid "Southern Sami"
-msgstr "Süd-Sami"
+msgstr "Süd-Samisch"
 
 #. Inverted name for sma
 msgid "Sami, Southern"
@@ -28267,7 +28264,7 @@ msgstr "Sama"
 
 #. Name for sme
 msgid "Northern Sami"
-msgstr "Nord-Sami"
+msgstr "Nord-Samisch"
 
 #. Inverted name for sme
 msgid "Sami, Northern"
@@ -30027,7 +30024,7 @@ msgstr "Telugu"
 
 #. Name for tem
 msgid "Timne"
-msgstr "Temne"
+msgstr "Temnisch"
 
 #. Name for ten
 msgid "Tama (Colombia)"
@@ -31687,7 +31684,7 @@ msgstr "Ambrym, Südöstliches"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "Elliceanisch"
+msgstr "Tuvaluisch"
 
 #. Name for tvm
 msgid "Tela-Masbuar"
@@ -32079,7 +32076,7 @@ msgstr "Wuzlam"
 
 #. Name for udm
 msgid "Udmurt"
-msgstr "Udmurt"
+msgstr "Udmurtisch"
 
 #. Name for udu
 msgid "Uduk"
@@ -34169,7 +34166,7 @@ msgstr "Choresmisch"
 
 #. Name for xcr
 msgid "Carian"
-msgstr "Küsten-Kariben"
+msgstr "Karisch"
 
 #. Name for xct
 msgid "Classical Tibetan"

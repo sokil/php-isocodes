@@ -1,8 +1,6 @@
 # Translation of ISO 4217 to Swedish
 # Codes for the representation of currencies
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Andreas Hyden <a.hyden@cyberpoint.se>, 2000.
 # Jörgen Tegnér <jorgen.tegner@telia.com>, 2001.
@@ -10,21 +8,24 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Christian Rose <menthos@menthos.com>, 2000-2001, 2006.
 # Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017.
+# Allan Nordhøy <epost@anotheragency.no>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-03-27 13:19+0200\n"
-"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
-"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"PO-Revision-Date: 2018-06-01 18:42+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-4217/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Poedit 1.8.11\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -68,11 +69,11 @@ msgstr "Azerbajdzjanska manat"
 
 #. Name for BAM
 msgid "Convertible Mark"
-msgstr "Konvertibla mark"
+msgstr "Konvertibilna marka"
 
 #. Name for BBD
 msgid "Barbados Dollar"
-msgstr "Barbadosdollar"
+msgstr "Barbadisk dollar"
 
 #. Name for BDT
 msgid "Taka"

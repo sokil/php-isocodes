@@ -8,9 +8,9 @@ PHP ISO Codes
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sokil/php-isocodes/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sokil/php-isocodes/?branch=master)
 
 This library used to get localized names of countries, currencies, languages and scripts.
-Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian's [iso-codes](http://pkg-isocodes.alioth.debian.org/).
+Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian's [iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes.git).
 
-Database version: iso-codes-3.79-69-g060cd4dd from 2018-05-08 22:22
+Database version: iso-codes-3.77-562-gd6cb176 from 2018-06-06 08:19
 
 ISO Standarts
 -------------

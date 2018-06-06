@@ -35,15 +35,17 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-07 21:45+0100\n"
-"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
-"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"PO-Revision-Date: 2018-05-12 19:42+0000\n"
+"Last-Translator: Sebastian Rasmussen <sebras@gmail.com>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.0-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
-"X-Generator: Poedit 2.0.4\n"
 
 #. Name for aar
 msgid "Afar"
@@ -56,7 +58,7 @@ msgstr "Abchaziska"
 # Libris vill ha achinese här.
 #. Name for ace
 msgid "Achinese"
-msgstr "Achinesiska"
+msgstr "Acehenesiska"
 
 #. Name for ach
 msgid "Acoli"
@@ -444,7 +446,7 @@ msgstr "Kreol- och pidginspråk"
 # Ej verifierat
 #. Name for csb
 msgid "Kashubian"
-msgstr "Kasjubianska"
+msgstr "Kasjubiska"
 
 #. Name for cus
 msgid "Cushitic languages"
@@ -466,7 +468,7 @@ msgstr "Danska"
 # Libris vill ha "Darginska (Dargwa)". Jag antar att Dargwa är vanligare.
 #. Name for dar
 msgid "Dargwa"
-msgstr "Dargwa"
+msgstr "Darginska"
 
 #. Name for day
 msgid "Land Dayak languages"
@@ -523,7 +525,7 @@ msgstr "Dyula"
 # Libris vill ha med parentesen.
 #. Name for dzo
 msgid "Dzongkha"
-msgstr "Bhutanesiska (Dzongkha)"
+msgstr "Dzongkha"
 
 #. Name for efi
 msgid "Efik"
@@ -656,7 +658,7 @@ msgstr "Gbaya"
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr "Germaniska språk"
+msgstr "Germanska språk"
 
 # Libris vill ha det så.
 #. Name for gez
@@ -768,7 +770,7 @@ msgstr "Hindi"
 # Libris vill ha det så.
 #. Name for hit
 msgid "Hittite"
-msgstr "Hettitiska språk"
+msgstr "Hettitiska"
 
 # Libris vill ha det så.
 #. Name for hmn
@@ -778,7 +780,7 @@ msgstr "Hmong"
 # Libris vill ha det så.
 #. Name for hmo
 msgid "Hiri Motu"
-msgstr "Hirimotu"
+msgstr "Hiri motu"
 
 #. Name for hrv
 msgid "Croatian"
@@ -917,7 +919,7 @@ msgstr "Kamba"
 # Även kanaresiska (äldre form)
 #. Name for kan
 msgid "Kannada"
-msgstr "Kannada"
+msgstr "Kanaresiska"
 
 #. Name for kar
 msgid "Karen languages"
@@ -1011,7 +1013,7 @@ msgstr "Kpelle"
 # Ej verifierat
 #. Name for krc
 msgid "Karachay-Balkar"
-msgstr "Karatjaj-balkar"
+msgstr "Karatjajbalkariska"
 
 #. Name for krl
 msgid "Karelian"
@@ -1128,7 +1130,7 @@ msgstr "Mizo (lushai)"
 # Tidigare maduresiska.
 #. Name for mad
 msgid "Madurese"
-msgstr "Madura"
+msgstr "Maduresiska"
 
 #. Name for mag
 msgid "Magahi"
@@ -1235,7 +1237,7 @@ msgstr "Mohawk"
 # Libris vill ha det så.
 #. Name for mon
 msgid "Mongolian"
-msgstr "Mongoliska språk"
+msgstr "Mongoliska"
 
 #. Name for mos
 msgid "Mossi"
@@ -1251,7 +1253,7 @@ msgstr "Malajiska"
 
 #. Name for mul
 msgid "Multiple languages"
-msgstr "Flerspråkigt"
+msgstr "Flera språk"
 
 #. Name for mun
 msgid "Munda languages"
@@ -1272,7 +1274,7 @@ msgstr "Marwari"
 # Libris vill ha det så.
 #. Name for mya
 msgid "Burmese"
-msgstr "Burmanska"
+msgstr "Burmesiska"
 
 #. Name for myn
 msgid "Mayan languages"
@@ -1298,7 +1300,7 @@ msgstr "Neapolitansk italienska"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "Nauruanska"
+msgstr "Nauru"
 
 #. Name for nav
 msgid "Navajo; Navaho"
@@ -1431,7 +1433,7 @@ msgstr "Ossetiska"
 
 #. Name for ota
 msgid "Turkish, Ottoman (1500-1928)"
-msgstr "Ottomanska (1500-1928)"
+msgstr "Osmanska (1500-1928)"
 
 #. Name for oto
 msgid "Otomian languages"
@@ -1464,7 +1466,7 @@ msgstr "Papiamento"
 
 #. Name for pau
 msgid "Palauan"
-msgstr "Palau"
+msgstr "Palauiska"
 
 #. Name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
@@ -1702,7 +1704,7 @@ msgstr "Songhaispråk"
 
 #. Name for sot
 msgid "Sotho, Southern"
-msgstr "Sotho, syd"
+msgstr "Sydsotho"
 
 #. Name for spa
 msgid "Spanish; Castilian"
@@ -1788,7 +1790,7 @@ msgstr "Tatariska"
 
 #. Name for tel
 msgid "Telugu"
-msgstr "Telugo"
+msgstr "Telugu"
 
 #. Name for tem
 msgid "Timne"

@@ -1,19 +1,18 @@
 # Translation of ISO 639-3 to Bokmål, Norwegian; Norwegian Bokmål
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Rune Nordvik <rune@linuxnorge.com>, 2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Petter Reinholdtsen <pere-weblate@hungry.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-04-14 04:39+0000\n"
+"PO-Revision-Date: 2018-06-01 05:40+0000\n"
 "Last-Translator: Petter Reinholdtsen <pere-weblate@hungry.com>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "iso-codes/iso-639-3/nb/>\n"
@@ -19127,9 +19126,8 @@ msgid "Loarki"
 msgstr "Maori"
 
 #. Name for lrl
-#, fuzzy
 msgid "Lari"
-msgstr "Maori"
+msgstr "Georgiske lari"
 
 #. Name for lrm
 #, fuzzy
@@ -33286,7 +33284,7 @@ msgstr "madagassisk"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr ""
+msgstr "Tokelau"
 
 #. Name for tkm
 msgid "Takelma"
@@ -34521,9 +34519,8 @@ msgid "Ambrym, Southeast"
 msgstr ""
 
 #. Name for tvl
-#, fuzzy
 msgid "Tuvalu"
-msgstr "Julia"
+msgstr "Tuvalu"
 
 #. Name for tvm
 msgid "Tela-Masbuar"

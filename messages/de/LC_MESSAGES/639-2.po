@@ -25,8 +25,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-01-17 21:04+0000\n"
-"Last-Translator: Franz Wagner <franz.wagner35@gmail.com>\n"
+"PO-Revision-Date: 2018-05-14 16:38+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/de/>\n"
 "Language: de\n"
@@ -34,7 +34,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -309,7 +309,7 @@ msgstr "Zentralamerikanische Indianische Sprachen"
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr "Karibisch"
+msgstr "Galíbi-Karibisch"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -459,7 +459,7 @@ msgstr "Delaware"
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr "Slave (Athapaskische Sprachen)"
+msgstr "Slave (Athapaskisch)"
 
 #. Name for deu
 msgid "German"
@@ -511,7 +511,7 @@ msgstr "Efik"
 
 #. Name for egy
 msgid "Egyptian (Ancient)"
-msgstr "Ägyptisch (Alt-)"
+msgstr "Ägyptisch (Historisch)"
 
 #. Name for eka
 msgid "Ekajuk"
@@ -929,11 +929,11 @@ msgstr "Khoisan-Sprachen"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr "Khmer-Sprache"
+msgstr "Zentral-Khmer"
 
 #. Name for kho
 msgid "Khotanese; Sakan"
-msgstr "Sakisch"
+msgstr "Khotanesisch, Sakisch"
 
 #. Name for kik
 msgid "Kikuyu; Gikuyu"
@@ -989,7 +989,7 @@ msgstr "Kru-Sprachen"
 
 #. Name for kru
 msgid "Kurukh"
-msgstr "Oraon; Kurukh"
+msgstr "Kurukh"
 
 #. Name for kua
 msgid "Kuanyama; Kwanyama"
@@ -1117,7 +1117,7 @@ msgstr "Malayalam"
 
 #. Name for man
 msgid "Mandingo"
-msgstr "Mande; Mandigo; Malinke"
+msgstr "Mandingo"
 
 #. Name for map
 msgid "Austronesian languages"
@@ -1431,7 +1431,7 @@ msgstr "Philippinische Sprachen"
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Phönikisch"
+msgstr "Phönizisch"
 
 #. Name for pli
 msgid "Pali"
@@ -1532,7 +1532,7 @@ msgstr "Salish-Sprachen"
 
 #. Name for sam
 msgid "Samaritan Aramaic"
-msgstr "Samaritanisch"
+msgstr "Samaritanisch-Aramäisch"
 
 #. Name for san
 msgid "Sanskrit"
@@ -1606,11 +1606,11 @@ msgstr "Slowenisch"
 
 #. Name for sma
 msgid "Southern Sami"
-msgstr "Samisch (Süd)"
+msgstr "Süd-Samisch"
 
 #. Name for sme
 msgid "Northern Sami"
-msgstr "Samisch (Nord)"
+msgstr "Nord-Samisch"
 
 #. Name for smi
 msgid "Sami languages"
@@ -1622,7 +1622,7 @@ msgstr "Samisch (Lule)"
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr "Samisch (Inari)"
+msgstr "Inari-Samisch"
 
 #. Name for smo
 msgid "Samoan"
