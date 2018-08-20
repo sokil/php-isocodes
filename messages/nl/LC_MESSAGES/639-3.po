@@ -1,21 +1,20 @@
 # Translation of ISO 639-3 to Dutch; Flemish
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Taco Witte <tcwitte@cs.uu.nl>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2009-2015, 2017.
+# Pander <pander@users.sourceforge.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"PO-Revision-Date: 2018-06-14 14:37+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/nl/>\n"
 "Language: nl\n"
@@ -23,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -108,7 +107,7 @@ msgstr "Abnaki, Oostelijk"
 
 #. Name for aar
 msgid "Afar"
-msgstr "Afar, Hamitisch"
+msgstr "Afar"
 
 #. Name for aas
 msgid "Aasáx"
@@ -1312,7 +1311,7 @@ msgstr "Oud Engels (ca.450-1100)"
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "Engels, Oud (ca.450-1100)"
+msgstr "Engels, Oud (ca. 450-1100)"
 
 #. Name for anh
 msgid "Nend"
@@ -1660,19 +1659,19 @@ msgstr "Arabisch"
 
 #. Name for arb
 msgid "Standard Arabic"
-msgstr ""
+msgstr "Standaard Arabisch"
 
 #. Inverted name for arb
 msgid "Arabic, Standard"
-msgstr ""
+msgstr "Arabisch, Standaard"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE)"
-msgstr ""
+msgstr "Officieel Aramees (700-300 v.Chr.)"
 
 #. Inverted name for arc
 msgid "Aramaic, Official (700-300 BCE)"
-msgstr ""
+msgstr "Aramees, Officieel (700-300 v.Chr.)"
 
 #. Name for ard
 msgid "Arabana"
@@ -2384,7 +2383,7 @@ msgstr ""
 
 #. Name for ayr
 msgid "Central Aymara"
-msgstr "Centraal Aymara"
+msgstr "Centraal-Aymara"
 
 #. Inverted name for ayr
 msgid "Aymara, Central"
@@ -2988,7 +2987,7 @@ msgstr "Bengaals"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr "Bangla"
+msgstr "Bangaals"
 
 #. Name for beo
 msgid "Beami"
@@ -4124,7 +4123,7 @@ msgstr "Buamu"
 
 #. Name for boy
 msgid "Bodo (Central African Republic)"
-msgstr "Bodo (Centraal Afrikaanse Republiek)"
+msgstr "Bodo (Centraal-Afrikaanse Republiek)"
 
 #. Name for boz
 msgid "Tiéyaxo Bozo"
@@ -6177,9 +6176,8 @@ msgid "Chinese, Mandarin"
 msgstr ""
 
 #. Name for cmo
-#, fuzzy
 msgid "Central Mnong"
-msgstr "Santali"
+msgstr "Centraal-Santali"
 
 #. Inverted name for cmo
 msgid "Mnong, Central"
@@ -6266,9 +6264,8 @@ msgid "Con"
 msgstr "Fon"
 
 #. Name for cns
-#, fuzzy
 msgid "Central Asmat"
-msgstr "Santali"
+msgstr "Centraal-Santali"
 
 #. Inverted name for cns
 msgid "Asmat, Central"
@@ -9596,16 +9593,15 @@ msgstr "Frans, Middel (ca.1400-1600)"
 
 #. Inverted name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "Frans, Middel (ca.1400-1600)"
+msgstr "Frans, Middel (ca. 1400-1600)"
 
 #. Name for fro
-#, fuzzy
 msgid "Old French (842-ca. 1400)"
-msgstr "Frans, Oud (842-ca.1400)"
+msgstr "Frans, Oud (842-ca. 1400)"
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Frans, Oud (842-ca.1400)"
+msgstr "Frans, Oud (842-ca. 1400)"
 
 #. Name for frp
 #, fuzzy
@@ -10610,16 +10606,12 @@ msgid "Galician"
 msgstr "Galiciaans"
 
 #. Name for glh
-#, fuzzy
-#| msgid "Northeast Pashayi"
 msgid "Northwest Pashai"
-msgstr "Noordoostelijk Pashayi"
+msgstr "Noordoostelijk Pashai"
 
 #. Inverted name for glh
-#, fuzzy
-#| msgid "Pashayi, Northeast"
 msgid "Pashai, Northwest"
-msgstr "Pashayi, Noordoostelijk"
+msgstr "Pashai, Noordoostelijk"
 
 #. Name for gli
 #, fuzzy
@@ -10689,7 +10681,7 @@ msgstr "Duits, Middel Hoog (ca.1050-1500)"
 
 #. Inverted name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "Duits, Middel Hoog (ca.1050-1500)"
+msgstr "Duits, Middel Hoog (ca. 1050-1500)"
 
 #. Name for gml
 msgid "Middle Low German"
@@ -10876,7 +10868,7 @@ msgstr "Duits, Oud Hoog (ca.750-1050)"
 
 #. Inverted name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Duits, Oud Hoog (ca.750-1050)"
+msgstr "Duits, Oud Hoog (ca. 750-1050)"
 
 #. Name for goi
 msgid "Gobasi"
@@ -11091,9 +11083,8 @@ msgid "Central Grebo"
 msgstr ""
 
 #. Inverted name for grv
-#, fuzzy
 msgid "Grebo, Central"
-msgstr "Gorontalo"
+msgstr "Gorontalo, Centraal"
 
 #. Name for grw
 #, fuzzy
@@ -14146,7 +14137,7 @@ msgstr ""
 
 #. Name for kan
 msgid "Kannada"
-msgstr "Kannada, Kanara, Kanarees"
+msgstr "Kannada"
 
 #. Name for kao
 msgid "Xaasongaxango"
@@ -15008,7 +14999,7 @@ msgstr "Lushai"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr "Centraal Khmer"
+msgstr "Centraal-Khmer"
 
 #. Inverted name for khm
 #, fuzzy
@@ -15778,9 +15769,8 @@ msgid "Kalinga, Lubuagan"
 msgstr "Kalinga, Lubuagan"
 
 #. Name for knc
-#, fuzzy
 msgid "Central Kanuri"
-msgstr "Kanuri"
+msgstr "Centraal-Kanuri"
 
 #. Inverted name for knc
 msgid "Kanuri, Central"
@@ -17596,14 +17586,12 @@ msgid "Ladakhi"
 msgstr "Awadhi"
 
 #. Name for lbk
-#, fuzzy
 msgid "Central Bontok"
-msgstr "Bontok"
+msgstr "Centraal-Bontok"
 
 #. Inverted name for lbk
-#, fuzzy
 msgid "Bontok, Central"
-msgstr "Santali"
+msgstr "Santali, Centraal"
 
 #. Name for lbl
 #, fuzzy
@@ -19253,14 +19241,12 @@ msgid "Malay, North Moluccan"
 msgstr ""
 
 #. Name for maz
-#, fuzzy
 msgid "Central Mazahua"
-msgstr "Santali"
+msgstr "Centraal-Santali"
 
 #. Inverted name for maz
-#, fuzzy
 msgid "Mazahua, Central"
-msgstr "Nahuatl"
+msgstr "Nahuatl, Centraal"
 
 #. Name for mba
 #, fuzzy
@@ -19711,9 +19697,8 @@ msgid "Mekeo"
 msgstr "Mende"
 
 #. Name for mel
-#, fuzzy
 msgid "Central Melanau"
-msgstr "Santali"
+msgstr "Centraal-Santali"
 
 #. Inverted name for mel
 #, fuzzy
@@ -25148,14 +25133,12 @@ msgid "Oroch"
 msgstr "Oromo"
 
 #. Name for oar
-#, fuzzy
 msgid "Old Aramaic (up to 700 BCE)"
-msgstr "Iers, Oud (tot 900)"
+msgstr "Iers, Oud (tot 700 v.Chr.)"
 
 #. Inverted name for oar
-#, fuzzy
 msgid "Aramaic, Old (up to 700 BCE)"
-msgstr "Iers, Oud (tot 900)"
+msgstr "Iers, Oud (tot 700 v.Chr.)"
 
 #. Name for oav
 msgid "Old Avar"
@@ -26543,13 +26526,12 @@ msgid "Phende"
 msgstr "Mende"
 
 #. Name for peo
-#, fuzzy
 msgid "Old Persian (ca. 600-400 B.C.)"
-msgstr "Oud Perzisch (ca.600-400 B.C.)"
+msgstr "Oud Perzisch (ca. 600-400 v.Chr.)"
 
 #. Inverted name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Oud Perzisch (ca.600-400 B.C.)"
+msgstr "Oud Perzisch (ca. 600-400 v.Chr.)"
 
 #. Name for pep
 #, fuzzy
@@ -26698,7 +26680,7 @@ msgstr ""
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Foenisisch"
+msgstr "Fenicisch"
 
 #. Name for pho
 #, fuzzy
@@ -27624,26 +27606,20 @@ msgid "Penang Sign Language"
 msgstr "Gebarentalen"
 
 #. Name for psh
-#, fuzzy
 msgid "Southwest Pashai"
-msgstr "Zuid-Sothaans"
+msgstr "Zuidwest-Pashai"
 
 #. Inverted name for psh
-#, fuzzy
-#| msgid "Pashayi, Northeast"
 msgid "Pashai, Southwest"
-msgstr "Pashayi, Noordoostelijk"
+msgstr "Pashai, Noordoostelijk"
 
 #. Name for psi
-#, fuzzy
 msgid "Southeast Pashai"
-msgstr "Zuid-Sothaans"
+msgstr "Zuidoost-Pashai"
 
 #. Inverted name for psi
-#, fuzzy
-#| msgid "Pashayi, Northeast"
 msgid "Pashai, Southeast"
-msgstr "Pashayi, Noordoostelijk"
+msgstr "Pashai, Noordoostelijk"
 
 #. Name for psl
 #, fuzzy
@@ -30922,7 +30898,7 @@ msgstr "Zuid-Sothaans"
 
 #. Inverted name for sot
 msgid "Sotho, Southern"
-msgstr "Zuid-Sothaans"
+msgstr "Sothaans, Zuid"
 
 #. Name for sou
 #, fuzzy
@@ -31563,7 +31539,7 @@ msgstr "Sukuma"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Soendanees, Sundanees"
+msgstr "Soendanees"
 
 #. Name for suq
 #, fuzzy
@@ -32759,7 +32735,7 @@ msgstr "Palauaans"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Thai"
+msgstr "Thais"
 
 #. Name for thd
 msgid "Thayore"

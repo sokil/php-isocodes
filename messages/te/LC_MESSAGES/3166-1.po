@@ -1,27 +1,27 @@
 # Translation of ISO 3166-1 to Telugu
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Krishna Babu K <kkrothap@redhat.com>, 2009.
 # Y Giridhar Appaji Nag <appaji@debian.org>, 2008-2009.
+# వీవెన్ <veeven@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2009-08-06 18:27+0530\n"
-"Last-Translator: Krishna Babu K <kkrothap@redhat.com>\n"
-"Language-Team: Telugu <Fedora-trans-te@redhat.com>\n"
+"PO-Revision-Date: 2018-07-10 10:42+0000\n"
+"Last-Translator: వీవెన్ <veeven@gmail.com>\n"
+"Language-Team: Telugu <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/te/>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -513,9 +513,8 @@ msgid "Fiji"
 msgstr "ఫిజీ"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "రిపబ్లిక్ ఆఫ్ హైతీ"
+msgstr "రిపబ్లిక్ ఆఫ్ ఫిజీ"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -594,10 +593,8 @@ msgid "Gambia"
 msgstr "గాంబియా"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "రిపబ్లిక్ ఆఫ్ ది గాంబియా"
+msgstr "ఇస్లామిక్ రిపబ్లిక్ ఆఫ్ ది గాంబియా"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -1016,9 +1013,8 @@ msgid "Myanmar"
 msgstr "మయన్మార్"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "రిపబ్లిక్ ఆఫ్ గయానా"
+msgstr "రిపబ్లిక్ ఆఫ్ మియన్మార్"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1263,12 +1259,11 @@ msgstr "రిపబ్లిక్ ఆఫ్ పరాగ్వే"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "పాలస్తీన్, స్టేట్ ఆఫ్"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "యునైటెడ్ స్టేట్స్ ఆఫ్ అమెరికా"
+msgstr "స్టేట్ ఆఫ్ పాలస్తీనా"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1396,14 +1391,12 @@ msgid "Republic of Serbia"
 msgstr "రిపబ్లిక్ ఆఫ్ సెర్బియా"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "రిపబ్లిక్ ఆఫ్ సుడాన్"
+msgstr "దక్షిణ సూడాన్"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "రిపబ్లిక్ ఆఫ్ సుడాన్"
+msgstr "రిపబ్లిక్ ఆఫ్ దక్షిణ సుడాన్"
 
 #. Name for STP
 msgid "Sao Tome and Principe"

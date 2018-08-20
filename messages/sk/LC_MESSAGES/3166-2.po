@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2018-06-18 16:05+0200\n"
 "PO-Revision-Date: 2014-11-14 10:51+0200\n"
 "Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -7821,7 +7821,7 @@ msgid "Chhattisgarh"
 msgstr ""
 
 #. Name for IN-DD
-msgid "Damen and Diu"
+msgid "Daman and Diu"
 msgstr ""
 
 #. Name for IN-DL
@@ -7893,7 +7893,7 @@ msgid "Nagaland"
 msgstr ""
 
 #. Name for IN-OR
-msgid "Orissa"
+msgid "Odisha"
 msgstr ""
 
 #. Name for IN-PB, Name for PK-PB
@@ -7911,6 +7911,12 @@ msgstr ""
 #. Name for IN-SK
 msgid "Sikkim"
 msgstr ""
+
+# [geodesy]
+#. Name for IN-TG
+#, fuzzy
+msgid "Telangana"
+msgstr "Ning-sia"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"

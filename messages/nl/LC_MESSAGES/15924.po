@@ -1,19 +1,18 @@
 # Translation of ISO 15924 to Dutch; Flemish
 # Codes for the representation of names of scripts
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2007-2012, 2014, 2017.
+# Pander <pander@users.sourceforge.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"PO-Revision-Date: 2018-06-14 12:36+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/nl/>\n"
 "Language: nl\n"
@@ -21,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for Adlm
@@ -531,7 +530,7 @@ msgstr "Book Pahlavi"
 
 #. Name for Phnx
 msgid "Phoenician"
-msgstr "Foenicisch"
+msgstr "Fenicisch"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
@@ -611,7 +610,7 @@ msgstr "Sora Sompeng"
 
 #. Name for Sund
 msgid "Sundanese"
-msgstr "Sundanees"
+msgstr "Soendanees"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
@@ -687,7 +686,7 @@ msgstr "Thais"
 
 #. Name for Tibt
 msgid "Tibetan"
-msgstr "Tibettaans"
+msgstr "Tibetaans"
 
 #. Name for Tirh
 msgid "Tirhuta"

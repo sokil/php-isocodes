@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-06-01 18:40+0000\n"
+"PO-Revision-Date: 2018-08-16 15:38+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/"
 "iso-codes/iso-4217/nb/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 3.2-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -420,7 +420,7 @@ msgstr "Malaysiske ringgit"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "Mosambikisk metical"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -567,8 +567,9 @@ msgid "Somoni"
 msgstr "Tadsjikiske somoni"
 
 #. Name for TMT
+#, fuzzy
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "Turkmenistansk ny-manat"
 
 #. Name for TND
 msgid "Tunisian Dinar"
@@ -695,8 +696,9 @@ msgid "Platinum"
 msgstr "Platinum"
 
 #. Name for XSU
+#, fuzzy
 msgid "Sucre"
-msgstr ""
+msgstr "Sucre"
 
 #. Name for XTS
 #, fuzzy
@@ -706,16 +708,15 @@ msgstr "Kode for testing"
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr ""
+msgstr "ADB-regneenhet"
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr ""
-"Kodene som er tildelt for oversettelser der det ikke er noen valuta involvert"
+msgstr "Kodene tildelt oversettelser der det ikke er noen valuta involvert"
 
 #. Name for YER
 msgid "Yemeni Rial"
-msgstr "Jemenittiske rial"
+msgstr "Jemenittisk riyal"
 
 #. Name for ZAR
 msgid "Rand"

@@ -32,7 +32,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2018-06-18 16:05+0200\n"
 "PO-Revision-Date: 2013-08-19 14:45+0900\n"
 "Last-Translator: Yasuaki Taniguchi <yasuakit@gmail.com>\n"
 "Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
@@ -7990,7 +7990,7 @@ msgstr "チャッティースガル"
 # 地図帳
 #. Name for IN-DD
 #, fuzzy
-msgid "Damen and Diu"
+msgid "Daman and Diu"
 msgstr "ダマン=ディウ"
 
 # 地図帳
@@ -8071,10 +8071,9 @@ msgstr "ミゾラム"
 msgid "Nagaland"
 msgstr "ナガラント"
 
-# 地図帳
 #. Name for IN-OR
-msgid "Orissa"
-msgstr "オリッサ"
+msgid "Odisha"
+msgstr ""
 
 # 地図帳
 #. Name for IN-PB, Name for PK-PB
@@ -8095,6 +8094,12 @@ msgstr "ラージャスターン"
 #. Name for IN-SK
 msgid "Sikkim"
 msgstr "シッキム"
+
+#. Name for IN-TG
+#, fuzzy
+#| msgid "Tanga"
+msgid "Telangana"
+msgstr "タンガ"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"

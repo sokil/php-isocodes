@@ -10,7 +10,7 @@ PHP ISO Codes
 This library used to get localized names of countries, currencies, languages and scripts.
 Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian's [iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes.git).
 
-Database version: iso-codes-3.77-562-gd6cb176 from 2018-06-06 08:19
+Database version: iso-codes-3.77-628-g360ef4e from 2018-08-20 16:31
 
 ISO Standarts
 -------------

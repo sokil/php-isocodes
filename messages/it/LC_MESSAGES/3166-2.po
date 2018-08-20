@@ -1,21 +1,20 @@
 # Translation of ISO 3166-2 to Italian
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Andrea Scialpi <solopec@tiscalinet.it>, 2001.
 # Milo Casagrande <milo@milo.name>, 2008-2013, 2017.
+# Milo Casagrande <milo@ubuntu.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-25 21:47+0000\n"
-"Last-Translator: Matteo Gheza <matteo.gheza07@gmail.com>\n"
+"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"PO-Revision-Date: 2018-06-12 06:40+0000\n"
+"Last-Translator: Milo Casagrande <milo@ubuntu.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/it/>\n"
 "Language: it\n"
@@ -23,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -2961,9 +2960,8 @@ msgid "Cundinamarca"
 msgstr "Cundinamarca"
 
 #. Name for CO-DC
-#, fuzzy
 msgid "Distrito Capital de Bogotá"
-msgstr "Distretto Capitale di Bogotá"
+msgstr "Distretto Capitale di Bogotà"
 
 #. Name for CO-GUA
 msgid "Guainía"
@@ -7618,7 +7616,9 @@ msgid "Chhattisgarh"
 msgstr "Chhattisgarh"
 
 #. Name for IN-DD
-msgid "Damen and Diu"
+#, fuzzy
+#| msgid "Damen and Diu"
+msgid "Daman and Diu"
 msgstr "Damen e Diu"
 
 #. Name for IN-DL
@@ -7690,8 +7690,8 @@ msgid "Nagaland"
 msgstr "Nagaland"
 
 #. Name for IN-OR
-msgid "Orissa"
-msgstr "Orissa"
+msgid "Odisha"
+msgstr ""
 
 #. Name for IN-PB, Name for PK-PB
 msgid "Punjab"
@@ -7708,6 +7708,12 @@ msgstr "Rajasthan"
 #. Name for IN-SK
 msgid "Sikkim"
 msgstr "Sikkim"
+
+#. Name for IN-TG
+#, fuzzy
+#| msgid "Tanga"
+msgid "Telangana"
+msgstr "Tanga"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"

@@ -10,23 +10,22 @@
 # Copyright ©
 # Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2012, 2016-2017.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2012, 2016-2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-02-07 19:26+0000\n"
+"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"PO-Revision-Date: 2018-06-18 16:08+0100\n"
 "Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
-"Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-2/de/>\n"
+"Language-Team: German <debian-l10n-german@lists.debian.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Lokalize 2.0\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -7613,7 +7612,7 @@ msgid "Chhattisgarh"
 msgstr "Chhattīsgarh"
 
 #. Name for IN-DD
-msgid "Damen and Diu"
+msgid "Daman and Diu"
 msgstr "Daman und Diu"
 
 #. Name for IN-DL
@@ -7685,8 +7684,8 @@ msgid "Nagaland"
 msgstr "Nagaland"
 
 #. Name for IN-OR
-msgid "Orissa"
-msgstr "Orissa"
+msgid "Odisha"
+msgstr "Odisha"
 
 #. Name for IN-PB, Name for PK-PB
 msgid "Punjab"
@@ -7703,6 +7702,10 @@ msgstr "Rājasthān"
 #. Name for IN-SK
 msgid "Sikkim"
 msgstr "Sikkim"
+
+#. Name for IN-TG
+msgid "Telangana"
+msgstr "Telangana"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"

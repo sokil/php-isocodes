@@ -1,22 +1,21 @@
 # Translation of ISO 639-2 to Dutch; Flemish
 # Codes for the representation of names of languages
 # Part 2: Alpha-3 code
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Taco Witte <tcwitte@cs.uu.nl>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Reinout van Schouwen <reinouts@gnome.org>, 2007.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2010, 2012-2013, 2017.
+# Pander <pander@users.sourceforge.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-28 21:48+0000\n"
-"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"PO-Revision-Date: 2018-06-14 14:37+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/nl/>\n"
 "Language: nl\n"
@@ -24,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
@@ -218,7 +217,7 @@ msgstr "Bengaals"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr "Bengaals"
+msgstr "Bangaals"
 
 #. Name for ber
 msgid "Berber languages"
@@ -508,7 +507,7 @@ msgstr "Ekajuk"
 
 #. Name for ell
 msgid "Greek, Modern (1453-)"
-msgstr "Grieks, Modern (vanaf 1453)"
+msgstr "Grieks, Modern (1453-)"
 
 #. Name for elx
 msgid "Elamite"
@@ -876,7 +875,7 @@ msgstr "Kamba"
 
 #. Name for kan
 msgid "Kannada"
-msgstr "Kannada, Kanarees"
+msgstr "Kannada"
 
 #. Name for kar
 msgid "Karen languages"
@@ -916,7 +915,7 @@ msgstr "Khoisantalen"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr "Centraal Khmer"
+msgstr "Centraal-Khmer"
 
 #. Name for kho
 msgid "Khotanese; Sakan"
@@ -1408,7 +1407,7 @@ msgstr "Filipijnse talen"
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Foenisisch"
+msgstr "Fenicisch"
 
 #. Name for pli
 msgid "Pali"
@@ -1632,7 +1631,7 @@ msgstr "Songhai-talen"
 
 #. Name for sot
 msgid "Sotho, Southern"
-msgstr "Zuid-Sothaans"
+msgstr "Sothaans, Zuid"
 
 #. Name for spa
 msgid "Spanish; Castilian"
@@ -1672,7 +1671,7 @@ msgstr "Sukuma"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Soendanees, Sundanees"
+msgstr "Soendanees"
 
 #. Name for sus
 msgid "Susu"
@@ -1740,7 +1739,7 @@ msgstr "Tagalog"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Thai"
+msgstr "Thais"
 
 #. Name for tig
 msgid "Tigre"

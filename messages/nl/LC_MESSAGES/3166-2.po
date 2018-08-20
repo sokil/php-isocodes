@@ -1,29 +1,27 @@
 # Translation of ISO 3166-2 to Dutch; Flemish
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Notes:
 # oblast, voblast, oblysy = regio
 # kraj, krai, kray = provincie
 # (kraj ligt in Rusland aan grens van politiek of geografisch gebied,
-#  waarvoor 'provincie' zich beter leent)
+# waarvoor 'provincie' zich beter leent)
 # -shire: hoe?? county=graafschap
 # gebruik gewest en graafschap door elkaar!!!
 # extra namen: consistente volgorde?
-#
 # Copyright ©
 # Taco Witte <tcwitte@cs.uu.nl>, 2006.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2013, 2017.
+# Pander <pander@users.sourceforge.net>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"PO-Revision-Date: 2018-06-14 14:36+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/nl/>\n"
 "Language: nl\n"
@@ -31,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.0.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -1358,7 +1356,7 @@ msgstr "Luik"
 
 #. Name for BE-WLX, Name for LU-L
 msgid "Luxembourg"
-msgstr "Luxemburg (België)"
+msgstr "Luxemburg"
 
 #. Name for BE-WNA
 msgid "Namur"
@@ -7624,7 +7622,9 @@ msgid "Chhattisgarh"
 msgstr "Chhattisgarh"
 
 #. Name for IN-DD
-msgid "Damen and Diu"
+#, fuzzy
+#| msgid "Damen and Diu"
+msgid "Daman and Diu"
 msgstr "Daman en Diu"
 
 #. Name for IN-DL
@@ -7696,8 +7696,8 @@ msgid "Nagaland"
 msgstr "Nagaland"
 
 #. Name for IN-OR
-msgid "Orissa"
-msgstr "Orissa"
+msgid "Odisha"
+msgstr ""
 
 #. Name for IN-PB, Name for PK-PB
 msgid "Punjab"
@@ -7714,6 +7714,12 @@ msgstr "Rajasthan"
 #. Name for IN-SK
 msgid "Sikkim"
 msgstr "Sikkim"
+
+#. Name for IN-TG
+#, fuzzy
+#| msgid "Tanga"
+msgid "Telangana"
+msgstr "Tanga"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"
@@ -13461,7 +13467,7 @@ msgstr "Pampanga"
 
 #. Name for PH-PAN
 msgid "Pangasinan"
-msgstr "Pangasinan"
+msgstr "Pangasinaans"
 
 #. Name for PH-PLW
 msgid "Palawan"
@@ -17879,7 +17885,7 @@ msgstr "Arkansas"
 
 #. Name for US-AS
 msgid "American Samoa"
-msgstr "Amerikaans Samoa"
+msgstr "Amerikaans-Samoa"
 
 #. Name for US-AZ
 msgid "Arizona"
@@ -18051,7 +18057,7 @@ msgstr "Texas"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "Verenigde Staten Kleine Uitliggende Eilanden"
+msgstr "Kleine afgelegen eilanden van de Verenigde Staten"
 
 #. Name for US-UT
 msgid "Utah"
