@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"POT-Creation-Date: 2018-08-31 14:11+0200\n"
 "PO-Revision-Date: 2008-05-18 15:01+0200\n"
 "Last-Translator:  Miroslav Kure <kurem@debian.cz>\n"
 "Language-Team: Czech <debian-l10n-czech@lists.debian.org>\n"
@@ -20816,7 +20816,7 @@ msgstr ""
 msgid "Free State"
 msgstr "United States"
 
-#. Name for ZA-GP
+#. Name for ZA-GT
 msgid "Gauteng"
 msgstr ""
 
@@ -20834,6 +20834,10 @@ msgstr ""
 msgid "Northern Cape"
 msgstr "Northern Marianas"
 
+#. Name for ZA-NL
+msgid "Kwazulu-Natal"
+msgstr ""
+
 #. Name for ZA-NW
 #, fuzzy
 msgid "North-West (South Africa)"
@@ -20843,10 +20847,6 @@ msgstr "Northwest Territory"
 #, fuzzy
 msgid "Western Cape"
 msgstr "Western Sahara"
-
-#. Name for ZA-ZN
-msgid "Kwazulu-Natal"
-msgstr ""
 
 #. Name for ZM-04
 msgid "Luapula"

@@ -1,31 +1,29 @@
 # Translation of ISO 3166-2 to German
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Notes:
 # Sources: Freie Enzyklopädie Wikipedia (http://de.wikipedia.org/wiki/ISO_3166-2)
-#
 # Copyright ©
 # Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2012, 2016-2017, 2018.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2012, 2016-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-06-18 16:05+0200\n"
-"PO-Revision-Date: 2018-06-18 16:08+0100\n"
+"POT-Creation-Date: 2018-08-31 14:11+0200\n"
+"PO-Revision-Date: 2018-08-25 13:49+0000\n"
 "Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
-"Language-Team: German <debian-l10n-german@lists.debian.org>\n"
+"Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/de/>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Weblate 3.2-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -17813,7 +17811,7 @@ msgstr "Johnston-Atoll"
 
 #. Name for UM-71
 msgid "Midway Islands"
-msgstr "Midway-Inseln"
+msgstr "Midwayinseln"
 
 #. Name for UM-76
 msgid "Navassa Island"
@@ -17821,7 +17819,7 @@ msgstr "Navassa-Insel"
 
 #. Name for UM-79
 msgid "Wake Island"
-msgstr "Wake-Insel"
+msgstr "Wake"
 
 #. Name for UM-81
 msgid "Baker Island"
@@ -18683,7 +18681,7 @@ msgstr "Ostkap"
 msgid "Free State"
 msgstr "Freistaat"
 
-#. Name for ZA-GP
+#. Name for ZA-GT
 msgid "Gauteng"
 msgstr "Gauteng"
 
@@ -18699,6 +18697,10 @@ msgstr "Mpumalanga"
 msgid "Northern Cape"
 msgstr "Nordkap"
 
+#. Name for ZA-NL
+msgid "Kwazulu-Natal"
+msgstr "Kwazulu-Natal"
+
 #. Name for ZA-NW
 msgid "North-West (South Africa)"
 msgstr "Nordwest (Südafrika)"
@@ -18706,10 +18708,6 @@ msgstr "Nordwest (Südafrika)"
 #. Name for ZA-WC
 msgid "Western Cape"
 msgstr "Westkap"
-
-#. Name for ZA-ZN
-msgid "Kwazulu-Natal"
-msgstr "Kwazulu-Natal"
 
 #. Name for ZM-04
 msgid "Luapula"

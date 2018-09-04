@@ -1,18 +1,17 @@
-# Translation of ISO 3166-2 to LANGUAGE
+# Translation of ISO 3166-2 to Kirghiz; Kyrgyz
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
 #
 # This file is distributed under the same license as the iso-codes package.
 #
 # Copyright ©
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Ilyas Bakirov <i.bakirov@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"POT-Creation-Date: 2018-08-31 14:11+0200\n"
 "PO-Revision-Date: 2018-02-20 17:37+0000\n"
 "Last-Translator: Ilyas Bakirov <i.bakirov@gmail.com>\n"
 "Language-Team: Kyrgyz <https://hosted.weblate.org/projects/iso-codes/"
@@ -18680,7 +18679,7 @@ msgstr ""
 msgid "Free State"
 msgstr ""
 
-#. Name for ZA-GP
+#. Name for ZA-GT
 msgid "Gauteng"
 msgstr ""
 
@@ -18696,16 +18695,16 @@ msgstr ""
 msgid "Northern Cape"
 msgstr ""
 
+#. Name for ZA-NL
+msgid "Kwazulu-Natal"
+msgstr ""
+
 #. Name for ZA-NW
 msgid "North-West (South Africa)"
 msgstr ""
 
 #. Name for ZA-WC
 msgid "Western Cape"
-msgstr ""
-
-#. Name for ZA-ZN
-msgid "Kwazulu-Natal"
 msgstr ""
 
 #. Name for ZM-04

@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"POT-Creation-Date: 2018-08-31 14:11+0200\n"
 "PO-Revision-Date: 2018-06-18 15:28+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
@@ -19,8 +19,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 3.0.1\n"
 
 #. Name for AD-02
@@ -18679,7 +18679,7 @@ msgstr "Східна Капська провінція"
 msgid "Free State"
 msgstr "Вільна держава"
 
-#. Name for ZA-GP
+#. Name for ZA-GT
 msgid "Gauteng"
 msgstr "Гаутенг"
 
@@ -18695,6 +18695,10 @@ msgstr "Мпумаланга"
 msgid "Northern Cape"
 msgstr "Північна Капська провінція"
 
+#. Name for ZA-NL
+msgid "Kwazulu-Natal"
+msgstr "Квазулу-Наталь"
+
 #. Name for ZA-NW
 msgid "North-West (South Africa)"
 msgstr "Північно-західна (Південна Африка)"
@@ -18702,10 +18706,6 @@ msgstr "Північно-західна (Південна Африка)"
 #. Name for ZA-WC
 msgid "Western Cape"
 msgstr "Західна Капська провінція"
-
-#. Name for ZA-ZN
-msgid "Kwazulu-Natal"
-msgstr "Квазулу-Наталь"
 
 #. Name for ZM-04
 msgid "Luapula"

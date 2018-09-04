@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"POT-Creation-Date: 2018-08-31 14:11+0200\n"
 "PO-Revision-Date: 2007-07-04 19:00+0200\n"
 "Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: English\n"
@@ -20227,7 +20227,7 @@ msgstr "Eastern Cape"
 msgid "Free State"
 msgstr "Free State"
 
-#. Name for ZA-GP
+#. Name for ZA-GT
 msgid "Gauteng"
 msgstr "Gauteng"
 
@@ -20243,6 +20243,10 @@ msgstr "Mpumalanga"
 msgid "Northern Cape"
 msgstr "Northern Cape"
 
+#. Name for ZA-NL
+msgid "Kwazulu-Natal"
+msgstr "Kwazulu-Natal"
+
 #. Name for ZA-NW
 #, fuzzy
 msgid "North-West (South Africa)"
@@ -20251,10 +20255,6 @@ msgstr "North-West Frontier"
 #. Name for ZA-WC
 msgid "Western Cape"
 msgstr "Western Cape"
-
-#. Name for ZA-ZN
-msgid "Kwazulu-Natal"
-msgstr "Kwazulu-Natal"
 
 #. Name for ZM-04
 msgid "Luapula"

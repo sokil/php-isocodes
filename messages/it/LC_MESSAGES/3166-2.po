@@ -5,14 +5,13 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Andrea Scialpi <solopec@tiscalinet.it>, 2001.
-# Milo Casagrande <milo@milo.name>, 2008-2013, 2017.
-# Milo Casagrande <milo@ubuntu.com>, 2018.
+# Milo Casagrande <milo@ubuntu.com>, 2008-2013, 2017-2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-06-18 16:05+0200\n"
+"POT-Creation-Date: 2018-08-31 14:11+0200\n"
 "PO-Revision-Date: 2018-06-12 06:40+0000\n"
 "Last-Translator: Milo Casagrande <milo@ubuntu.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
@@ -18701,7 +18700,7 @@ msgstr "Capo orientale"
 msgid "Free State"
 msgstr "Free State"
 
-#. Name for ZA-GP
+#. Name for ZA-GT
 msgid "Gauteng"
 msgstr "Gauteng"
 
@@ -18717,6 +18716,10 @@ msgstr "Mpumalanga"
 msgid "Northern Cape"
 msgstr "Capo settentrionale"
 
+#. Name for ZA-NL
+msgid "Kwazulu-Natal"
+msgstr "Kwazulu-Natal"
+
 #. Name for ZA-NW
 msgid "North-West (South Africa)"
 msgstr "Nord-Ovest (Sud Africa)"
@@ -18724,10 +18727,6 @@ msgstr "Nord-Ovest (Sud Africa)"
 #. Name for ZA-WC
 msgid "Western Cape"
 msgstr "Capo orientale"
-
-#. Name for ZA-ZN
-msgid "Kwazulu-Natal"
-msgstr "Kwazulu-Natal"
 
 #. Name for ZM-04
 msgid "Luapula"
