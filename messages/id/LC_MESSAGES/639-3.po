@@ -1,9 +1,7 @@
 # Translation of ISO 639-3 to Indonesian
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 # Copyright ©
 # Andika Triwidada <andika@gmail.com>, 2018.
 msgid ""
@@ -12,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-05-29 15:38+0000\n"
+"PO-Revision-Date: 2018-09-28 13:27+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/id/>\n"
@@ -21,7 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.2-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -2757,7 +2755,7 @@ msgstr "Bunaba"
 
 #. Name for bcl
 msgid "Central Bikol"
-msgstr ""
+msgstr "Bikol Pusat"
 
 #. Inverted name for bcl
 msgid "Bikol, Central"
@@ -2777,7 +2775,7 @@ msgstr "Kaluli"
 
 #. Name for bcp
 msgid "Bali (Democratic Republic of Congo)"
-msgstr ""
+msgstr "Bali (Republik Demokratik Kongo)"
 
 #. Name for bcq
 msgid "Bench"
@@ -2889,11 +2887,11 @@ msgstr "Bahnar"
 
 #. Name for bdr
 msgid "West Coast Bajau"
-msgstr ""
+msgstr "Pantai Barat Bajau"
 
 #. Inverted name for bdr
 msgid "Bajau, West Coast"
-msgstr ""
+msgstr "Bajau, Pantai Barat"
 
 #. Name for bds
 msgid "Burunge"
@@ -3085,7 +3083,7 @@ msgstr "Blafe"
 
 #. Name for bfi
 msgid "British Sign Language"
-msgstr ""
+msgstr "Bahasa Isyarat Britania"
 
 #. Name for bfj
 msgid "Bafanji"
@@ -3093,7 +3091,7 @@ msgstr "Bafanji"
 
 #. Name for bfk
 msgid "Ban Khor Sign Language"
-msgstr ""
+msgstr "Bahasa Isyarat Ban Khor"
 
 #. Name for bfl
 msgid "Banda-Ndélé"
@@ -3133,7 +3131,7 @@ msgstr "Bai Bagian Selatan"
 
 #. Inverted name for bfs
 msgid "Bai, Southern"
-msgstr ""
+msgstr "Bai, Selatan"
 
 #. Name for bft
 msgid "Balti"
@@ -3217,7 +3215,7 @@ msgstr "Balochi Bagian Barat"
 
 #. Inverted name for bgn
 msgid "Balochi, Western"
-msgstr ""
+msgstr "Balochi, Barat"
 
 #. Name for bgo
 msgid "Baga Koga"
@@ -3225,11 +3223,11 @@ msgstr "Baga Koga"
 
 #. Name for bgp
 msgid "Eastern Balochi"
-msgstr ""
+msgstr "Balochi Bagian Timur"
 
 #. Inverted name for bgp
 msgid "Balochi, Eastern"
-msgstr ""
+msgstr "Balochi, Timur"
 
 #. Name for bgq
 msgid "Bagri"
@@ -3265,11 +3263,11 @@ msgstr "Bhatri"
 
 #. Name for bgx
 msgid "Balkan Gagauz Turkish"
-msgstr ""
+msgstr "Turki Balkan Gagauz"
 
 #. Inverted name for bgx
 msgid "Turkish, Balkan Gagauz"
-msgstr ""
+msgstr "Turki, Balkan Gagauz"
 
 #. Name for bgy
 msgid "Benggoi"
@@ -3329,11 +3327,11 @@ msgstr "Bathari"
 
 #. Name for bhn
 msgid "Bohtan Neo-Aramaic"
-msgstr ""
+msgstr "Neo Aramaic Bohtan"
 
 #. Inverted name for bhn
 msgid "Neo-Aramaic, Bohtan"
-msgstr ""
+msgstr "Neo-Aramaic, Bohtan"
 
 #. Name for bho
 msgid "Bhojpuri"
@@ -3345,7 +3343,7 @@ msgstr "Bima"
 
 #. Name for bhq
 msgid "Tukang Besi South"
-msgstr ""
+msgstr "Tukang Besi Selatan"
 
 #. Name for bhr
 msgid "Bara Malagasy"
@@ -3464,13 +3462,12 @@ msgid "Biete"
 msgstr "Biete"
 
 #. Name for biv
-#, fuzzy
 msgid "Southern Birifor"
-msgstr "Northern Sami"
+msgstr "Birifor Selatan"
 
 #. Inverted name for biv
 msgid "Birifor, Southern"
-msgstr ""
+msgstr "Birifor, Selatan"
 
 #. Name for biw
 msgid "Kol (Cameroon)"
@@ -3510,11 +3507,11 @@ msgstr "Mien, Biao-Jiao"
 
 #. Name for bjf
 msgid "Barzani Jewish Neo-Aramaic"
-msgstr ""
+msgstr "Neo Aramaic Barzani Yahudi"
 
 #. Inverted name for bjf
 msgid "Neo-Aramaic, Barzani Jewish"
-msgstr ""
+msgstr "Neo Aramaic, Barzani Yahudi"
 
 #. Name for bjg
 msgid "Bidyogo"
@@ -3549,13 +3546,12 @@ msgid "Banjar"
 msgstr "Banjar"
 
 #. Name for bjo
-#, fuzzy
 msgid "Mid-Southern Banda"
-msgstr "Northern Sami"
+msgstr "Banda Tengah-Selatan"
 
 #. Inverted name for bjo
 msgid "Banda, Mid-Southern"
-msgstr ""
+msgstr "Banda, Tengah-Selatan"
 
 #. Name for bjp
 msgid "Fanamaket"
@@ -3655,7 +3651,7 @@ msgstr "Kwa'"
 
 #. Name for bkp
 msgid "Boko (Democratic Republic of Congo)"
-msgstr ""
+msgstr "Boko (Republik Demokratik Kongo)"
 
 #. Name for bkq
 msgid "Bakairí"
@@ -3666,14 +3662,12 @@ msgid "Bakumpai"
 msgstr "Bakumpai"
 
 #. Name for bks
-#, fuzzy
 msgid "Northern Sorsoganon"
-msgstr "Northern Sami"
+msgstr "Sorsoganon Utara"
 
 #. Inverted name for bks
-#, fuzzy
 msgid "Sorsoganon, Northern"
-msgstr "Northern Sami"
+msgstr "Sorsoganon, Utara"
 
 #. Name for bkt
 msgid "Boloki"
@@ -3760,14 +3754,12 @@ msgid "Beli (Sudan)"
 msgstr "Beli (Sudan)"
 
 #. Name for bln
-#, fuzzy
 msgid "Southern Catanduanes Bikol"
-msgstr "Northern Sami"
+msgstr "Catanduanes Bikol Selatan"
 
 #. Inverted name for bln
-#, fuzzy
 msgid "Bikol, Southern Catanduanes"
-msgstr "Northern Sami"
+msgstr "Bikol, Catanduanes Selatan"
 
 #. Name for blo
 msgid "Anii"
@@ -3875,7 +3867,7 @@ msgstr ""
 
 #. Inverted name for bmm
 msgid "Malagasy, Northern Betsimisaraka"
-msgstr ""
+msgstr "Malagasi, Betsimisaraka Bagian Utara"
 
 #. Name for bmn
 msgid "Bina (Papua New Guinea)"
@@ -3963,7 +3955,7 @@ msgstr "Bangi"
 
 #. Name for bnj
 msgid "Eastern Tawbuid"
-msgstr ""
+msgstr "Tawbuid Bagian Timur"
 
 #. Inverted name for bnj
 msgid "Tawbuid, Eastern"
@@ -4434,18 +4426,16 @@ msgid "Bitare"
 msgstr "Bitare"
 
 #. Name for bru
-#, fuzzy
 msgid "Eastern Bru"
-msgstr "Ukraina"
+msgstr "Bru Bagian Timur"
 
 #. Inverted name for bru
 msgid "Bru, Eastern"
 msgstr ""
 
 #. Name for brv
-#, fuzzy
 msgid "Western Bru"
-msgstr "Ukraina"
+msgstr "Bru Bagian Barat"
 
 #. Inverted name for brv
 msgid "Bru, Western"
@@ -4612,9 +4602,8 @@ msgid "Burate"
 msgstr "Burate"
 
 #. Name for btj
-#, fuzzy
 msgid "Bacanese Malay"
-msgstr "Jepang"
+msgstr "Melayu Bacan"
 
 #. Inverted name for btj
 msgid "Malay, Bacanese"
@@ -4865,9 +4854,8 @@ msgid "Bati (Indonesia)"
 msgstr "Bati (Indonesia)"
 
 #. Name for bvu
-#, fuzzy
 msgid "Bukit Malay"
-msgstr "Bulgaria"
+msgstr "Melayu Bukit"
 
 #. Inverted name for bvu
 msgid "Malay, Bukit"
@@ -4970,9 +4958,8 @@ msgid "Mandobo Bawah"
 msgstr "Mandobo Bawah"
 
 #. Name for bwq
-#, fuzzy
 msgid "Southern Bobo Madaré"
-msgstr "Northern Sami"
+msgstr "Bobo Madaré Bagian Selatan"
 
 #. Inverted name for bwq
 msgid "Bobo Madaré, Southern"
@@ -5371,9 +5358,8 @@ msgid "Lehar"
 msgstr "Lehar"
 
 #. Name for caf
-#, fuzzy
 msgid "Southern Carrier"
-msgstr "Northern Sami"
+msgstr "Carrier Bagian Selatan"
 
 #. Inverted name for caf
 msgid "Carrier, Southern"
@@ -5576,9 +5562,8 @@ msgid "Cutchi-Swahili"
 msgstr "Cutchi-Swahili"
 
 #. Name for ccm
-#, fuzzy
 msgid "Malaccan Creole Malay"
-msgstr "Malayalam"
+msgstr "Melayu Creole Malaka"
 
 #. Inverted name for ccm
 msgid "Creole Malay, Malaccan"
@@ -5637,9 +5622,8 @@ msgid "Chaudangsi"
 msgstr "Chaudangsi"
 
 #. Name for cdo
-#, fuzzy
 msgid "Min Dong Chinese"
-msgstr "Cina"
+msgstr "Cina Min Dong"
 
 #. Inverted name for cdo
 msgid "Chinese, Min Dong"
@@ -5662,9 +5646,8 @@ msgid "Koda"
 msgstr "Koda"
 
 #. Name for cea
-#, fuzzy
 msgid "Lower Chehalis"
-msgstr "Nepal"
+msgstr "Chehalis Bagian Bawah"
 
 #. Inverted name for cea
 msgid "Chehalis, Lower"
@@ -5679,14 +5662,12 @@ msgid "Chamacoco"
 msgstr "Chamacoco"
 
 #. Name for cek
-#, fuzzy
 msgid "Eastern Khumi Chin"
-msgstr "Ukraina"
+msgstr "Khumi Chin Bagian Timur"
 
 #. Inverted name for cek
-#, fuzzy
 msgid "Chin, Eastern Khumi"
-msgstr "Ukraina"
+msgstr "Chin, Khumi Bagian Timur"
 
 #. Name for cen
 msgid "Cen"
@@ -5918,9 +5899,8 @@ msgid "Chaima"
 msgstr "Chaima"
 
 #. Name for cja
-#, fuzzy
 msgid "Western Cham"
-msgstr "Ukraina"
+msgstr "Cham Bagian Barat"
 
 #. Inverted name for cja
 msgid "Cham, Western"
@@ -5947,9 +5927,8 @@ msgid "Chokwe"
 msgstr "Chokwe"
 
 #. Name for cjm
-#, fuzzy
 msgid "Eastern Cham"
-msgstr "Ukraina"
+msgstr "Cham Bagian Timur"
 
 #. Inverted name for cjm
 msgid "Cham, Eastern"
@@ -5976,24 +5955,20 @@ msgid "Chuave"
 msgstr "Chuave"
 
 #. Name for cjy
-#, fuzzy
 msgid "Jinyu Chinese"
-msgstr "Cina"
+msgstr "Cina Jinyu"
 
 #. Inverted name for cjy
-#, fuzzy
 msgid "Chinese, Jinyu"
-msgstr "Cina"
+msgstr "Cina, Jinyu"
 
 #. Name for ckb
-#, fuzzy
 msgid "Central Kurdish"
-msgstr "Turki"
+msgstr "Kurdi Pusat"
 
 #. Inverted name for ckb
-#, fuzzy
 msgid "Kurdish, Central"
-msgstr "Turki"
+msgstr "Kurdi, Pusat"
 
 #. Name for ckh
 msgid "Chak"
@@ -6145,14 +6120,12 @@ msgid "Cerma"
 msgstr "Cerma"
 
 #. Name for cmg
-#, fuzzy
 msgid "Classical Mongolian"
-msgstr "Masedonian"
+msgstr "Mongolia Klasik"
 
 #. Inverted name for cmg
-#, fuzzy
 msgid "Mongolian, Classical"
-msgstr "Masedonian"
+msgstr "Mongolia, Klasik"
 
 #. Name for cmi
 msgid "Emberá-Chamí"
@@ -6167,9 +6140,8 @@ msgid "Michigamea"
 msgstr "Michigamea"
 
 #. Name for cmn
-#, fuzzy
 msgid "Mandarin Chinese"
-msgstr "Bengal"
+msgstr "Cina Mandarin"
 
 #. Inverted name for cmn
 msgid "Chinese, Mandarin"
@@ -6216,9 +6188,8 @@ msgid "Côông"
 msgstr "Côông"
 
 #. Name for cng
-#, fuzzy
 msgid "Northern Qiang"
-msgstr "Northern Sami"
+msgstr "Qiang Bagian Utara"
 
 #. Inverted name for cng
 msgid "Qiang, Northern"
@@ -6285,14 +6256,12 @@ msgid "Chin, Ngawn"
 msgstr "Chin, Ngawn"
 
 #. Name for cnx
-#, fuzzy
 msgid "Middle Cornish"
-msgstr "Irlandia"
+msgstr "Cornish Tengah"
 
 #. Inverted name for cnx
-#, fuzzy
 msgid "Cornish, Middle"
-msgstr "Irlandia"
+msgstr "Cornish, Tengah"
 
 #. Name for coa
 msgid "Cocos Islands Malay"
@@ -6427,9 +6396,8 @@ msgid "Greek, Cappadocian"
 msgstr ""
 
 #. Name for cpi
-#, fuzzy
 msgid "Chinese Pidgin English"
-msgstr "Cina"
+msgstr "Cina Inggris Pidgin"
 
 #. Inverted name for cpi
 msgid "Pidgin English, Chinese"
@@ -6456,14 +6424,12 @@ msgid "Ashéninka, Pichis"
 msgstr "Ashéninka, Pichis"
 
 #. Name for cpx
-#, fuzzy
 msgid "Pu-Xian Chinese"
-msgstr "Cina"
+msgstr "Cina Pu-Xian"
 
 #. Inverted name for cpx
-#, fuzzy
 msgid "Chinese, Pu-Xian"
-msgstr "Cina"
+msgstr "Cina, Pu-Xian"
 
 #. Name for cpy
 msgid "South Ucayali Ashéninka"
@@ -6526,14 +6492,12 @@ msgid "Sãotomense"
 msgstr "Sãotomense"
 
 #. Name for crj
-#, fuzzy
 msgid "Southern East Cree"
-msgstr "Northern Sami"
+msgstr "Cree Bagian Selatan Timur"
 
 #. Inverted name for crj
-#, fuzzy
 msgid "Cree, Southern East"
-msgstr "Northern Sami"
+msgstr "Cree, Bagian Selatan Timur"
 
 #. Name for crk
 msgid "Plains Cree"
@@ -6544,14 +6508,12 @@ msgid "Cree, Plains"
 msgstr ""
 
 #. Name for crl
-#, fuzzy
 msgid "Northern East Cree"
-msgstr "Northern Sami"
+msgstr "Cree Bagian Utara Timur"
 
 #. Inverted name for crl
-#, fuzzy
 msgid "Cree, Northern East"
-msgstr "Northern Sami"
+msgstr "Cree, Bagian Utara Timur"
 
 #. Name for crm
 msgid "Moose Cree"
@@ -6718,18 +6680,16 @@ msgid "Costa Rican Sign Language"
 msgstr ""
 
 #. Name for css
-#, fuzzy
 msgid "Southern Ohlone"
-msgstr "Northern Sami"
+msgstr "Ohlone Bagian Selatan"
 
 #. Inverted name for css
 msgid "Ohlone, Southern"
 msgstr ""
 
 #. Name for cst
-#, fuzzy
 msgid "Northern Ohlone"
-msgstr "Northern Sami"
+msgstr "Ohlone Bagian Utara"
 
 #. Inverted name for cst
 msgid "Ohlone, Northern"
@@ -6832,14 +6792,12 @@ msgid "Chatino, Western Highland"
 msgstr ""
 
 #. Name for cts
-#, fuzzy
 msgid "Northern Catanduanes Bikol"
-msgstr "Northern Sami"
+msgstr "Catanduanes Bikol Bagian Selatan"
 
 #. Inverted name for cts
-#, fuzzy
 msgid "Bikol, Northern Catanduanes"
-msgstr "Northern Sami"
+msgstr "Bikol, Catanduanes Bagian Selatan"
 
 #. Name for ctt
 msgid "Wayanad Chetti"
@@ -7010,14 +6968,12 @@ msgid "Cuyonon"
 msgstr "Cuyonon"
 
 #. Name for czh
-#, fuzzy
 msgid "Huizhou Chinese"
-msgstr "Cina"
+msgstr "Cina Huizhou"
 
 #. Inverted name for czh
-#, fuzzy
 msgid "Chinese, Huizhou"
-msgstr "Cina"
+msgstr "Cina, Huizhou"
 
 #. Name for czk
 msgid "Knaanic"
@@ -7380,9 +7336,8 @@ msgid "Dengese"
 msgstr "Dengese"
 
 #. Name for dga
-#, fuzzy
 msgid "Southern Dagaare"
-msgstr "Northern Sami"
+msgstr "Dagaare Bagian Selatan"
 
 #. Inverted name for dga
 msgid "Dagaare, Southern"
@@ -7421,9 +7376,8 @@ msgid "Dghwede"
 msgstr "Dghwede"
 
 #. Name for dgi
-#, fuzzy
 msgid "Northern Dagara"
-msgstr "Northern Sami"
+msgstr "Dagara Bagian Utara"
 
 #. Inverted name for dgi
 msgid "Dagara, Northern"
