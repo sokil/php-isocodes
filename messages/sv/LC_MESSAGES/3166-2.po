@@ -1,22 +1,23 @@
 # Translation of ISO 3166-2 to Swedish
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Mattias Newzella <newzella@linux.nu>, 2001.
 # Daniel Nylander <po@danielnylander.se>, 2007.
 # Josef Andersson <josef.andersson@fripost.org>, 2016.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
-"PO-Revision-Date: 2018-05-11 19:48+0000\n"
-"Last-Translator: Sebastian Rasmussen <sebras@gmail.com>\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
+"PO-Revision-Date: 2018-10-15 13:37+0000\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/sv/>\n"
 "Language: sv\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.2.1\n"
 "X-Launchpad-Export-Date: 2015-08-18 09:08+0000\n"
 
 #. Name for AD-02
@@ -1915,7 +1916,7 @@ msgstr "Bahia"
 msgid "Ceará"
 msgstr "Ceará"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr "Distrito Federal"
 
@@ -7612,10 +7613,8 @@ msgid "Chhattisgarh"
 msgstr "Chhattisgarh"
 
 #. Name for IN-DD
-#, fuzzy
-#| msgid "Damen and Diu"
 msgid "Daman and Diu"
-msgstr "Damen and Diu"
+msgstr "Daman och Diu"
 
 #. Name for IN-DL
 msgid "Delhi"
@@ -12060,9 +12059,13 @@ msgstr "Chihuahua"
 msgid "Chiapas"
 msgstr "Chiapas"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-msgid "Coahuila"
-msgstr "Coahuila"
+msgid "Coahuila de Zaragoza"
+msgstr ""
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12093,7 +12096,9 @@ msgid "México"
 msgstr "Mexiko"
 
 #. Name for MX-MIC
-msgid "Michoacán"
+#, fuzzy
+#| msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr "Michoacán"
 
 #. Name for MX-MOR
@@ -12149,8 +12154,8 @@ msgid "Tlaxcala"
 msgstr "Tlaxcala"
 
 #. Name for MX-VER
-msgid "Veracruz"
-msgstr "Veracruz"
+msgid "Veracruz de Ignacio de la Llave"
+msgstr ""
 
 #. Name for MX-YUC
 msgid "Yucatán"

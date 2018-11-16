@@ -1,19 +1,20 @@
 # Translation of ISO 3166-2 to Greek, Modern (1453-)
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Panayotis Pakos <aeikineton@yahoo.com>
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
-"PO-Revision-Date: 2018-01-29 08:38+0000\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
+"PO-Revision-Date: 2018-10-15 12:28+0000\n"
 "Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/el/>\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.2.1\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -58,7 +59,7 @@ msgstr ""
 
 #. Name for AE-AZ
 msgid "Abū Ȥaby [Abu Dhabi]"
-msgstr ""
+msgstr "Abū Ȥaby [Αμπού Ντάμπι]"
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -1093,7 +1094,6 @@ msgid "Chuadanga"
 msgstr ""
 
 #. Name for BD-13, Name for BD-C
-#, fuzzy
 msgid "Dhaka"
 msgstr "Ντάκα"
 
@@ -1921,7 +1921,7 @@ msgstr ""
 msgid "Ceará"
 msgstr ""
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr ""
 
@@ -2023,7 +2023,6 @@ msgid "Black Point"
 msgstr ""
 
 #. Name for BS-BY
-#, fuzzy
 msgid "Berry Islands"
 msgstr "Νησιά Μπέρι"
 
@@ -2122,9 +2121,8 @@ msgid "South Andros"
 msgstr "Νότια Καρολίνα"
 
 #. Name for BS-SE
-#, fuzzy
 msgid "South Eleuthera"
-msgstr "Νότια Αυστραλία"
+msgstr "Νότια Ελεύθερα"
 
 #. Name for BS-SO
 #, fuzzy
@@ -12119,8 +12117,12 @@ msgstr ""
 msgid "Chiapas"
 msgstr ""
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-msgid "Coahuila"
+msgid "Coahuila de Zaragoza"
 msgstr ""
 
 #. Name for MX-COL
@@ -12152,7 +12154,7 @@ msgid "México"
 msgstr ""
 
 #. Name for MX-MIC
-msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr ""
 
 #. Name for MX-MOR
@@ -12208,7 +12210,7 @@ msgid "Tlaxcala"
 msgstr ""
 
 #. Name for MX-VER
-msgid "Veracruz"
+msgid "Veracruz de Ignacio de la Llave"
 msgstr ""
 
 #. Name for MX-YUC

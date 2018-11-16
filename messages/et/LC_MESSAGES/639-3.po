@@ -1,7 +1,9 @@
 # Translation of ISO 639-3 to Estonian
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
 # Copyright ©
 # Margus Väli <mvali@hot.ee>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
@@ -5467,8 +5469,6 @@ msgid "Nicobarese, Car"
 msgstr ""
 
 # src/trans.h:7
-#
-#
 #. Name for car
 msgid "Galibi Carib"
 msgstr "kariibi"
@@ -9116,8 +9116,6 @@ msgid "Baissa Fali"
 msgstr "Paus"
 
 # src/trans.h:7
-#
-#
 #. Inverted name for fah
 #, fuzzy
 msgid "Fali, Baissa"
@@ -9866,8 +9864,6 @@ msgid "Ganggalida"
 msgstr "Ungari"
 
 # src/trans.h:7
-#
-#
 #. Name for gce
 #, fuzzy
 msgid "Galice"
@@ -9890,8 +9886,6 @@ msgid "Creole English, Grenadian"
 msgstr ""
 
 # src/trans.h:7
-#
-#
 #. Name for gcn
 #, fuzzy
 msgid "Gaina"
@@ -10395,8 +10389,6 @@ msgid "Irish"
 msgstr "Iiri"
 
 # src/trans.h:7
-#
-#
 #. Name for glg
 msgid "Galician"
 msgstr "galeegi"
@@ -21759,8 +21751,6 @@ msgid "Maiadomu"
 msgstr ""
 
 # src/trans.h:7
-#
-#
 #. Name for naa
 #, fuzzy
 msgid "Namla"
@@ -22988,8 +22978,6 @@ msgid "Ngombale"
 msgstr ""
 
 # src/trans.h:7
-#
-#
 #. Name for nlc
 #, fuzzy
 msgid "Nalca"
@@ -25758,8 +25746,6 @@ msgid "Irish, Primitive"
 msgstr "Türgi"
 
 # src/trans.h:7
-#
-#
 #. Name for pgn
 #, fuzzy
 msgid "Paelignian"
@@ -35015,8 +35001,6 @@ msgid "Wailapa"
 msgstr ""
 
 # src/trans.h:7
-#
-#
 #. Name for wls
 #, fuzzy
 msgid "Wallisian"
@@ -35778,8 +35762,6 @@ msgid "Darkinyung"
 msgstr "Korea"
 
 # src/trans.h:7
-#
-#
 #. Name for xdc
 #, fuzzy
 msgid "Dacian"
@@ -35844,16 +35826,12 @@ msgid "Keoru-Ahia"
 msgstr ""
 
 # src/trans.h:7
-#
-#
 #. Name for xfa
 #, fuzzy
 msgid "Faliscan"
 msgstr "Galeon"
 
 # src/trans.h:7
-#
-#
 #. Name for xga
 #, fuzzy
 msgid "Galatian"
@@ -35883,8 +35861,6 @@ msgid "Garingbal"
 msgstr "Makedoonia"
 
 # src/trans.h:7
-#
-#
 #. Name for xgl
 #, fuzzy
 msgid "Galindan"

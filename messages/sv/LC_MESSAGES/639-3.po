@@ -1,35 +1,35 @@
 # Translation of ISO 639-3 to Swedish
 # Codes for the representation of names of languages
 # Part 3: Alpha-3 code for comprehensive coverage of languages
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Notes:
 # The current version of this translation was done with
 # the following logic
-#
+# .
 # 1) Take the Swedish terms from
 # 	 http://www.kb.se/katalogisering/Formathandboken/Sprakkoder/Sprakkoder/
-#
+# .
 # 2) If not in 1) search for the English term on Wikipedia, see if there's a
 # 	Swedish post, if so, use that
-#
+# .
 # 3) Nothing at all found, just use the original term (Check back
 # 	in a few years again to check if there's a Swedish term available).
-#
+# .
 # Please note that many common language names in Swedish as a general rule
 # usually end in "ska". Nationality adjectives on the other hand usually end
 # in "sk". Please don't confuse the two.
-#
+# .
 # She speaks Japanese.    <=> Hon talar japanska.
 # She has a Japanese car. <=> Hon har en japansk bil.
-#
+# .
 # In addition, and as the example above shows, language names in Swedish should
 # always be written entirely *lowercase*, the exception of course being if it's
 # the first word in a sentence.
 # But since this is a list, rather than language names used inside
 # sentences, these translated language names use capital initial letters.
-#
+# .
 # Copyright ©
 # Christian Rose <menthos@menthos.com>, 2004.
 # Josef Andersson <josef.andersson@fripost.org>, 2017.

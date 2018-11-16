@@ -1,9 +1,9 @@
 # Translation of ISO 3166-2 to Hungarian
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Arpad Biro <biro_arpad@yahoo.com>, 2001.
 # VERÓK István <vi@fsf.hu>, 2004.
@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
 "PO-Revision-Date: 2018-01-14 14:41+0000\n"
 "Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
@@ -2000,7 +2000,7 @@ msgstr "Bahia"
 msgid "Ceará"
 msgstr "Ceará"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr "Distrito Federal"
 
@@ -12473,9 +12473,13 @@ msgstr "Chihuahua"
 msgid "Chiapas"
 msgstr "Chiapas"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-msgid "Coahuila"
-msgstr "Coahuila"
+msgid "Coahuila de Zaragoza"
+msgstr ""
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12508,7 +12512,7 @@ msgstr "Mexikó"
 
 #. Name for MX-MIC
 #, fuzzy
-msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr "Michigan"
 
 #. Name for MX-MOR
@@ -12565,7 +12569,7 @@ msgid "Tlaxcala"
 msgstr ""
 
 #. Name for MX-VER
-msgid "Veracruz"
+msgid "Veracruz de Ignacio de la Llave"
 msgstr ""
 
 #. Name for MX-YUC

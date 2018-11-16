@@ -1,12 +1,12 @@
 # Translation of ISO 3166-2 to Danish
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Notes:
 # Saint -> Sankt
-#
+# .
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Keld Simonsen <keld@dkuug.dk>, 2001.
@@ -17,7 +17,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
 "PO-Revision-Date: 2015-08-16 22:00+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
@@ -1920,7 +1920,7 @@ msgstr "Bahia"
 msgid "Ceará"
 msgstr "Ceará"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr "Distrito Federal"
 
@@ -3244,7 +3244,6 @@ msgstr "Larnaka"
 #    * Region Pafos
 #    * Region Troodos
 #    * Region Ammochostos
-#
 #. Name for CY-04
 msgid "Ammóchostos"
 msgstr "Ammochostos"
@@ -12315,9 +12314,13 @@ msgstr "Chihuahua"
 msgid "Chiapas"
 msgstr "Chiapas"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-msgid "Coahuila"
-msgstr "Coahuila"
+msgid "Coahuila de Zaragoza"
+msgstr ""
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12348,7 +12351,9 @@ msgid "México"
 msgstr "Mexico"
 
 #. Name for MX-MIC
-msgid "Michoacán"
+#, fuzzy
+#| msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr "Michoacán"
 
 #. Name for MX-MOR
@@ -12404,8 +12409,8 @@ msgid "Tlaxcala"
 msgstr "Tlaxcala"
 
 #. Name for MX-VER
-msgid "Veracruz"
-msgstr "Veracruz"
+msgid "Veracruz de Ignacio de la Llave"
+msgstr ""
 
 #. Name for MX-YUC
 msgid "Yucatán"

@@ -1,12 +1,12 @@
 # Translation of ISO 3166-2 to Japanese
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Notes:
 # ISO 3166 行政区域名
-#
+# .
 # 国名・地名に関する情報源
 # 外務省: http://www.mofa.go.jp/mofaj/area/index.html
 # 二宮書店 高等地図帳 (検定教科書): http://www.ninomiyashoten.co.jp/pc/atlas/
@@ -14,12 +14,12 @@
 # 2010年9月外務省データ等を基に表記修正
 # 島嶼などで地図帳に記載がないものは世界大百科事典、
 # 日本大百科全書、マイペディア、Google Earth などを参考にした。
-#
+# .
 # 原語がアラビア語の場合先頭の Al (英語の the) は音韻に入れない。
 # ただし地図帳にアルと表記されている場合は加える
-#
+# .
 # Capital Territory は首都特別地域と訳す (オーストラリアの慣例)
-#
+# .
 # Copyright ©
 # Kenshi Muto <kmuto@debian.org>
 # Taiki Komoda <kom@kde.gr.jp>
@@ -32,7 +32,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
 "PO-Revision-Date: 2013-08-19 14:45+0900\n"
 "Last-Translator: Yasuaki Taniguchi <yasuakit@gmail.com>\n"
 "Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
@@ -1993,7 +1993,7 @@ msgstr "バイア"
 msgid "Ceará"
 msgstr "セアラ"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr ""
 
@@ -9469,7 +9469,6 @@ msgstr "ラソン(羅先)"
 
 # 大韓民国
 # 大都市と州で構成される
-#
 # 京城は原語ではない(日本が支配していたときの名前)。
 # 原語には漢字は無い
 #. Name for KR-11
@@ -12598,9 +12597,13 @@ msgstr "チワワ"
 msgid "Chiapas"
 msgstr "チアパス"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-msgid "Coahuila"
-msgstr "コアウイラ"
+msgid "Coahuila de Zaragoza"
+msgstr ""
 
 # 地図帳
 #. Name for MX-COL
@@ -12635,7 +12638,9 @@ msgid "México"
 msgstr "メキシコ"
 
 #. Name for MX-MIC
-msgid "Michoacán"
+#, fuzzy
+#| msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr "ミチョアカン"
 
 #. Name for MX-MOR
@@ -12695,8 +12700,8 @@ msgid "Tlaxcala"
 msgstr "トラスカラ"
 
 #. Name for MX-VER
-msgid "Veracruz"
-msgstr "ベラクルス"
+msgid "Veracruz de Ignacio de la Llave"
+msgstr ""
 
 # 地図帳
 #. Name for MX-YUC

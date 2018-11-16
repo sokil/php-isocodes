@@ -1,20 +1,21 @@
 # Translation of ISO 3166-1 to Arabic
 # Codes for the representation of names of countries and their subdivisions
 # Part 1: Country codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Abdulaziz Al-Arfaj <alarfaj0@yahoo.com>, 2004.
 # Ossama M. Khayat <okhayat@yahoo.com>, 2006, 2008, 2010.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-05-13 17:34+0000\n"
+"PO-Revision-Date: 2018-10-24 23:23+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ar/>\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.3-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -152,7 +153,7 @@ msgstr "جمهوريّة بنين"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "بونير وسانت يوستاتيوس وسابا"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -514,7 +515,6 @@ msgid "Fiji"
 msgstr "فيجي"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
 msgstr "جمهورية فيجي"
 
@@ -1222,7 +1222,7 @@ msgstr "بابوا غينيا الجديدة"
 #. Official name for PNG
 #, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "دولة صاموا المستقلّة"
+msgstr "دوله بابوا غينيا الجديدة المستقلة"
 
 #. Name for POL
 msgid "Poland"
@@ -1265,7 +1265,6 @@ msgid "Palestine, State of"
 msgstr "دولة فلسطين"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
 msgstr "دولة فلسطين"
 
@@ -1455,7 +1454,7 @@ msgstr "مملكة سوازيلاند"
 #. Name for SXM, Official name for SXM
 #, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "سانت مارتين (القطاع الفرنسي)"
+msgstr "سينت مارتن (الجزء الهولندي)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1662,10 +1661,8 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "جمهوريّة الفييتنام الاشتراكيّة"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
-msgstr "فيتنام"
+msgstr "الفيتنام"
 
 #. Name for VUT
 msgid "Vanuatu"

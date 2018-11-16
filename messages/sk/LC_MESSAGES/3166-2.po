@@ -1,14 +1,14 @@
 # Translation of ISO 3166-2 to Slovak
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Notes:
 # sources:
 # [geodesy] www.geodesy.gov.sk
 # transliteration [CN] http://www.cinstina.cz/article.html?page=b6ca51787dff6e030dca936e2170a05f&section=2
-#
+# .
 # Copyright ©
 # Ivan Masár <helix84@centrum.sk>, 2007, 2014.
 msgid ""
@@ -16,7 +16,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
 "PO-Revision-Date: 2014-11-14 10:51+0200\n"
 "Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -1966,7 +1966,7 @@ msgid "Ceará"
 msgstr "Ceará"
 
 # [geodesy]
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 #, fuzzy
 msgid "Distrito Federal"
 msgstr "Federálny dištrikt"
@@ -12271,8 +12271,12 @@ msgstr ""
 msgid "Chiapas"
 msgstr ""
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-msgid "Coahuila"
+msgid "Coahuila de Zaragoza"
 msgstr ""
 
 #. Name for MX-COL
@@ -12304,7 +12308,7 @@ msgid "México"
 msgstr ""
 
 #. Name for MX-MIC
-msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr ""
 
 #. Name for MX-MOR
@@ -12360,7 +12364,7 @@ msgid "Tlaxcala"
 msgstr ""
 
 #. Name for MX-VER
-msgid "Veracruz"
+msgid "Veracruz de Ignacio de la Llave"
 msgstr ""
 
 #. Name for MX-YUC

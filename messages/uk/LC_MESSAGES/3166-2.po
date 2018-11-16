@@ -1,7 +1,9 @@
 # Translation of ISO 3166-2 to Ukrainian
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
 # Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
 # Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2016, 2018.
@@ -10,8 +12,8 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
-"PO-Revision-Date: 2018-06-18 15:28+0000\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
+"PO-Revision-Date: 2018-10-15 11:36+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/uk/>\n"
@@ -19,9 +21,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.0.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.2.1\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -1911,7 +1913,7 @@ msgstr "Байя"
 msgid "Ceará"
 msgstr "Сеара"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr "Федеральний округ"
 
@@ -12051,9 +12053,13 @@ msgstr "Чиуауа"
 msgid "Chiapas"
 msgstr "Чіапас"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr "Місто Мехіко"
+
 #. Name for MX-COA
-msgid "Coahuila"
-msgstr "Коауїла"
+msgid "Coahuila de Zaragoza"
+msgstr "Коауїла-де-Сарагоса"
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12084,8 +12090,8 @@ msgid "México"
 msgstr "Мехіко"
 
 #. Name for MX-MIC
-msgid "Michoacán"
-msgstr "Мічоакан"
+msgid "Michoacán de Ocampo"
+msgstr "Мічоакан-де-Окампо"
 
 #. Name for MX-MOR
 msgid "Morelos"
@@ -12140,8 +12146,8 @@ msgid "Tlaxcala"
 msgstr "Тлашкала"
 
 #. Name for MX-VER
-msgid "Veracruz"
-msgstr "Веракрус"
+msgid "Veracruz de Ignacio de la Llave"
+msgstr "Веракрус-де-Ігнасіо-де-ла-Льяве"
 
 #. Name for MX-YUC
 msgid "Yucatán"

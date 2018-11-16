@@ -1,9 +1,9 @@
 # Translation of ISO 3166-2 to Irish
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
 "PO-Revision-Date: 2017-12-10 21:39+0000\n"
 "Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: Irish <https://hosted.weblate.org/projects/iso-codes/"
@@ -24,8 +24,6 @@ msgstr ""
 "(n>6 && n<11) ? 3 : 4;\n"
 "X-Generator: Weblate 2.18-dev\n"
 
-#
-#
 #. Name for AD-02
 #, fuzzy
 msgid "Canillo"
@@ -266,8 +264,6 @@ msgstr "Beirmiúda"
 msgid "Redonda"
 msgstr ""
 
-#
-#
 #. Name for AL-01, Name for AL-BR
 #, fuzzy
 msgid "Berat"
@@ -449,8 +445,6 @@ msgstr ""
 msgid "Armavir"
 msgstr ""
 
-#
-#
 #. Name for AM-ER
 msgid "Erevan"
 msgstr ""
@@ -483,8 +477,6 @@ msgstr ""
 msgid "Vayoc Jor"
 msgstr ""
 
-#
-#
 #. Name for AO-BGO
 msgid "Bengo"
 msgstr ""
@@ -651,8 +643,6 @@ msgstr ""
 msgid "Santa Cruz"
 msgstr "San Héilin"
 
-#
-#
 #. Name for AT-1
 msgid "Burgenland"
 msgstr ""
@@ -725,8 +715,6 @@ msgstr ""
 msgid "Abşeron"
 msgstr ""
 
-#
-#
 #. Name for AZ-AGA
 #, fuzzy
 msgid "Ağstafa"
@@ -770,8 +758,6 @@ msgstr "An Albáin"
 msgid "Bərdə"
 msgstr ""
 
-#
-#
 #. Name for AZ-BEY
 #, fuzzy
 msgid "Beyləqan"
@@ -1118,8 +1104,6 @@ msgstr "An tSúdáin"
 msgid "Barguna"
 msgstr ""
 
-#
-#
 #. Name for BD-03
 #, fuzzy
 msgid "Bogra"
@@ -1348,8 +1332,6 @@ msgstr ""
 msgid "Rangpur"
 msgstr ""
 
-#
-#
 #. Name for BD-56
 #, fuzzy
 msgid "Rangamati"
@@ -1392,8 +1374,6 @@ msgstr ""
 msgid "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest"
 msgstr ""
 
-#
-#
 #. Name for BE-VAN
 msgid "Antwerpen"
 msgstr ""
@@ -1700,8 +1680,6 @@ msgstr ""
 msgid "Blagoevgrad"
 msgstr ""
 
-#
-#
 #. Name for BG-02
 msgid "Burgas"
 msgstr ""
@@ -1744,8 +1722,6 @@ msgstr "Cuáit"
 msgid "Kyustendil"
 msgstr "An Chóiré"
 
-#
-#
 #. Name for BG-11
 #, fuzzy
 msgid "Lovech"
@@ -1930,8 +1906,6 @@ msgstr "An Pholainn"
 msgid "Ruyigi"
 msgstr ""
 
-#
-#
 #. Name for BJ-AK
 msgid "Atakora"
 msgstr ""
@@ -1984,8 +1958,6 @@ msgstr ""
 msgid "Zou"
 msgstr ""
 
-#
-#
 #. Name for BN-BE
 msgid "Belait"
 msgstr ""
@@ -2006,8 +1978,6 @@ msgstr ""
 msgid "El Beni"
 msgstr ""
 
-#
-#
 #. Name for BO-C
 msgid "Cochabamba"
 msgstr ""
@@ -2051,8 +2021,6 @@ msgstr ""
 msgid "Sint Eustatius"
 msgstr "San Héilin"
 
-#
-#
 #. Name for BR-AC
 msgid "Acre"
 msgstr ""
@@ -2071,8 +2039,6 @@ msgstr "An Ostair"
 msgid "Amapá"
 msgstr "An Tasmáin"
 
-#
-#
 #. Name for BR-BA
 #, fuzzy
 msgid "Bahia"
@@ -2083,7 +2049,7 @@ msgstr "Málta"
 msgid "Ceará"
 msgstr "Ceanada"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr ""
 
@@ -2364,8 +2330,6 @@ msgstr ""
 msgid "Trongsa"
 msgstr ""
 
-#
-#
 #. Name for BT-33
 msgid "Bumthang"
 msgstr ""
@@ -2494,9 +2458,6 @@ msgstr ""
 msgid "Toledo"
 msgstr "An Bholaiv"
 
-#
-#
-#
 #. Name for CA-AB
 #, fuzzy
 msgid "Alberta"
@@ -2573,8 +2534,6 @@ msgstr ""
 msgid "Kasai-Oriental"
 msgstr ""
 
-#
-#
 #. Name for CD-KN
 msgid "Kinshasa"
 msgstr ""
@@ -2591,9 +2550,6 @@ msgstr ""
 msgid "Nord-Kivu"
 msgstr ""
 
-#
-#
-#
 #. Name for CD-OR
 #, fuzzy
 msgid "Orientale"
@@ -2611,8 +2567,6 @@ msgstr ""
 msgid "Bamingui-Bangoran"
 msgstr ""
 
-#
-#
 #. Name for CF-BGF
 msgid "Bangui"
 msgstr ""
@@ -2715,8 +2669,6 @@ msgstr ""
 msgid "Niari"
 msgstr "An tSiria"
 
-#
-#
 #. Name for CG-BZV
 #, fuzzy
 msgid "Brazzaville"
@@ -2969,8 +2921,6 @@ msgstr "An Tasmáin"
 msgid "Valparaíso"
 msgstr ""
 
-#
-#
 #. Name for CM-AD
 msgid "Adamaoua"
 msgstr ""
@@ -3005,8 +2955,6 @@ msgstr ""
 msgid "South-West"
 msgstr "An Chóiré Dheas"
 
-#
-#
 #. Name for CN-11
 msgid "Beijing"
 msgstr ""
@@ -3160,8 +3108,6 @@ msgstr ""
 msgid "Arauca"
 msgstr ""
 
-#
-#
 #. Name for CO-ATL
 #, fuzzy
 msgid "Atlántico"
@@ -3171,8 +3117,6 @@ msgstr "An Albáin"
 msgid "Bolívar"
 msgstr ""
 
-#
-#
 #. Name for CO-BOY
 #, fuzzy
 msgid "Boyacá"
@@ -3297,8 +3241,6 @@ msgstr ""
 msgid "Vichada"
 msgstr ""
 
-#
-#
 #. Name for CR-A
 msgid "Alajuela"
 msgstr ""
@@ -3403,10 +3345,6 @@ msgstr "An Bhanglaidéis"
 msgid "Brava"
 msgstr "Burma"
 
-#
-#
-#
-#
 #. Name for CV-BV
 msgid "Boa Vista"
 msgstr ""
@@ -3886,8 +3824,6 @@ msgstr ""
 msgid "Havlíčkův Brod"
 msgstr ""
 
-#
-#
 #. Name for CZ-632
 #, fuzzy
 msgid "Jihlava"
@@ -3922,8 +3858,6 @@ msgstr ""
 msgid "Brno-venkov"
 msgstr ""
 
-#
-#
 #. Name for CZ-644
 #, fuzzy
 msgid "Břeclav"
@@ -3996,8 +3930,6 @@ msgstr ""
 msgid "Moravskoslezský kraj"
 msgstr ""
 
-#
-#
 #. Name for CZ-801
 #, fuzzy
 msgid "Bruntál"
@@ -4092,9 +4024,6 @@ msgstr ""
 msgid "Thüringen"
 msgstr ""
 
-#
-#
-#
 #. Name for DJ-AR, Name for GR-31
 #, fuzzy
 msgid "Arta"
@@ -4167,10 +4096,6 @@ msgstr ""
 msgid "Distrito Nacional (Santo Domingo)"
 msgstr ""
 
-#
-#
-#
-#
 #. Name for DO-02
 msgid "Azua"
 msgstr ""
@@ -4287,9 +4212,6 @@ msgstr ""
 msgid "Hato Mayor"
 msgstr ""
 
-#
-#
-#
 #. Name for DZ-01, Name for MR-07
 #, fuzzy
 msgid "Adrar"
@@ -4501,8 +4423,6 @@ msgstr "Gána"
 msgid "Relizane"
 msgstr ""
 
-#
-#
 #. Name for EC-A
 msgid "Azuay"
 msgstr ""
@@ -5087,8 +5007,6 @@ msgstr ""
 msgid "Valenciana, Comunidad / Valenciana, Comunitat"
 msgstr ""
 
-#
-#
 #. Name for ES-VI
 #, fuzzy
 msgid "Álava"
@@ -5260,8 +5178,6 @@ msgstr "An Chóiré"
 msgid "Pohnpei"
 msgstr ""
 
-#
-#
 #. Name for FM-TRK
 msgid "Chuuk"
 msgstr ""
@@ -5270,8 +5186,6 @@ msgstr ""
 msgid "Yap"
 msgstr ""
 
-#
-#
 #. Name for FR-01
 msgid "Ain"
 msgstr ""
@@ -5547,9 +5461,6 @@ msgstr ""
 msgid "Hautes-Pyrénées"
 msgstr ""
 
-#
-#
-#
 #. Name for FR-66
 #, fuzzy
 msgid "Pyrénées-Orientales"
@@ -5748,9 +5659,6 @@ msgstr "San Héilin"
 msgid "Martinique"
 msgstr "Mósaimbic"
 
-#
-#
-#
 #. Name for FR-NAQ
 #, fuzzy
 msgid "Nouvelle-Aquitaine"
@@ -5764,9 +5672,6 @@ msgstr ""
 msgid "Normandie"
 msgstr ""
 
-#
-#
-#
 #. Name for FR-OCC
 #, fuzzy
 msgid "Occitanie"
@@ -5844,8 +5749,6 @@ msgstr ""
 msgid "Aberdeenshire"
 msgstr ""
 
-#
-#
 #. Name for GB-ABE
 msgid "Aberdeen City"
 msgstr ""
@@ -6767,10 +6670,6 @@ msgstr "An Iarmhí"
 msgid "West Sussex"
 msgstr ""
 
-#
-#
-#
-#
 #. Name for GB-YOR
 #, fuzzy
 msgid "York"
@@ -6842,8 +6741,6 @@ msgstr "An Túinéis"
 msgid "Greater Accra"
 msgstr ""
 
-#
-#
 #. Name for GH-AH
 msgid "Ashanti"
 msgstr ""
@@ -6881,8 +6778,6 @@ msgstr ""
 msgid "Kommuneqarfik Sermersooq"
 msgstr ""
 
-#
-#
 #. Name for GM-B
 msgid "Banjul"
 msgstr ""
@@ -6908,8 +6803,6 @@ msgstr ""
 msgid "Boké"
 msgstr ""
 
-#
-#
 #. Name for GN-BE
 #, fuzzy
 msgid "Beyla"
@@ -7216,8 +7109,6 @@ msgstr "An Ghréig"
 msgid "Drama"
 msgstr "Gána"
 
-#
-#
 #. Name for GR-53
 #, fuzzy
 msgid "Imathia"
@@ -7279,8 +7170,6 @@ msgstr ""
 msgid "Evros"
 msgstr ""
 
-#
-#
 #. Name for GR-72
 #, fuzzy
 msgid "Xanthi"
@@ -7317,8 +7206,6 @@ msgstr "An tSín"
 msgid "Irakleio"
 msgstr "An Nigéir"
 
-#
-#
 #. Name for GR-92
 #, fuzzy
 msgid "Lasithi"
@@ -7493,8 +7380,6 @@ msgstr "An Bholaiv"
 msgid "Biombo"
 msgstr ""
 
-#
-#
 #. Name for GW-BS
 msgid "Bissau"
 msgstr ""
@@ -7537,8 +7422,6 @@ msgstr "An tSúdáin"
 msgid "Tombali"
 msgstr "An Rómáin"
 
-#
-#
 #. Name for GY-BA
 #, fuzzy
 msgid "Barima-Waini"
@@ -7580,8 +7463,6 @@ msgstr ""
 msgid "Upper Takutu-Upper Essequibo"
 msgstr ""
 
-#
-#
 #. Name for HN-AT
 #, fuzzy
 msgid "Atlántida"
@@ -7610,8 +7491,6 @@ msgstr "An Spáinn"
 msgid "Cortés"
 msgstr "An Chipir"
 
-#
-#
 #. Name for HN-EP
 #, fuzzy
 msgid "El Paraíso"
@@ -7791,8 +7670,6 @@ msgstr ""
 msgid "Bács-Kiskun"
 msgstr ""
 
-#
-#
 #. Name for HU-BU
 msgid "Budapest"
 msgstr ""
@@ -7962,9 +7839,6 @@ msgstr ""
 msgid "Aceh"
 msgstr ""
 
-#
-#
-#
 #. Name for ID-BA
 msgid "Bali"
 msgstr ""
@@ -8138,10 +8012,6 @@ msgstr "An Clár"
 msgid "Cavan"
 msgstr "An Cabhán"
 
-#
-#
-#
-#
 #. Name for IE-CO
 msgid "Cork"
 msgstr "Corcaigh"
@@ -8252,10 +8122,6 @@ msgstr "Cill Mhaintáin"
 msgid "Wexford"
 msgstr "Loch Garman"
 
-#
-#
-#
-#
 #. Name for IL-D
 msgid "HaDarom"
 msgstr ""
@@ -8284,8 +8150,6 @@ msgstr ""
 msgid "Andaman and Nicobar Islands"
 msgstr ""
 
-#
-#
 #. Name for IN-AP
 msgid "Andhra Pradesh"
 msgstr ""
@@ -8436,8 +8300,6 @@ msgstr ""
 msgid "West Bengal"
 msgstr "An Iarmhí"
 
-#
-#
 #. Name for IQ-AN
 msgid "Al Anbar"
 msgstr ""
@@ -8678,8 +8540,6 @@ msgstr ""
 msgid "Norðurland eystra"
 msgstr ""
 
-#
-#
 #. Name for IS-7
 msgid "Austurland"
 msgstr ""
@@ -8785,9 +8645,6 @@ msgstr "Srí Lanca"
 msgid "Sardegna"
 msgstr "An Fhrainc"
 
-#
-#
-#
 #. Name for IT-AG
 msgid "Agrigento"
 msgstr ""
@@ -9270,8 +9127,6 @@ msgstr "Éire"
 msgid "Saint Elizabeth"
 msgstr ""
 
-#
-#
 #. Name for JM-13
 msgid "Clarendon"
 msgstr ""
@@ -9423,10 +9278,6 @@ msgstr ""
 msgid "Shizuoka"
 msgstr ""
 
-#
-#
-#
-#
 #. Name for JP-23
 msgid "Aichi"
 msgstr ""
@@ -9532,8 +9383,6 @@ msgstr ""
 msgid "Okinawa"
 msgstr ""
 
-#
-#
 #. Name for KE-110
 msgid "Nairobi Municipality"
 msgstr ""
@@ -9693,9 +9542,6 @@ msgstr "Ceanada"
 msgid "Kach Kong"
 msgstr ""
 
-#
-#
-#
 #. Name for KI-G
 msgid "Gilbert Islands"
 msgstr ""
@@ -9829,16 +9675,10 @@ msgstr ""
 msgid "Nasŏn (Najin-Sŏnbong)"
 msgstr ""
 
-#
-#
-#
-#
 #. Name for KR-11
 msgid "Seoul Teugbyeolsi"
 msgstr ""
 
-#
-#
 #. Name for KR-26
 msgid "Busan Gwang'yeogsi"
 msgstr ""
@@ -9899,8 +9739,6 @@ msgstr ""
 msgid "Jejudo"
 msgstr ""
 
-#
-#
 #. Name for KW-AH
 msgid "Al Ahmadi"
 msgstr ""
@@ -9934,9 +9772,6 @@ msgstr ""
 msgid "Aqtöbe oblysy"
 msgstr ""
 
-#
-#
-#
 #. Name for KZ-ALA
 msgid "Almaty"
 msgstr ""
@@ -9945,8 +9780,6 @@ msgstr ""
 msgid "Almaty oblysy"
 msgstr ""
 
-#
-#
 #. Name for KZ-AST
 #, fuzzy
 msgid "Astana"
@@ -10051,9 +9884,6 @@ msgstr "An Pholainn"
 msgid "Savannakhét"
 msgstr ""
 
-#
-#
-#
 #. Name for LA-VI, Name for LA-VT
 #, fuzzy
 msgid "Vientiane"
@@ -10316,8 +10146,6 @@ msgstr ""
 msgid "Bong"
 msgstr "An Congó"
 
-#
-#
 #. Name for LR-BM
 msgid "Bomi"
 msgstr ""
@@ -10383,8 +10211,6 @@ msgstr ""
 msgid "Leribe"
 msgstr ""
 
-#
-#
 #. Name for LS-D
 #, fuzzy
 msgid "Berea"
@@ -10414,8 +10240,6 @@ msgstr ""
 msgid "Thaba-Tseka"
 msgstr ""
 
-#
-#
 #. Name for LT-AL
 msgid "Alytaus Apskritis"
 msgstr ""
@@ -10456,8 +10280,6 @@ msgstr ""
 msgid "Vilniaus Apskritis"
 msgstr ""
 
-#
-#
 #. Name for LU-D
 msgid "Diekirch"
 msgstr ""
@@ -11058,9 +10880,6 @@ msgstr ""
 msgid "Taza-Al Hoceima-Taounate"
 msgstr ""
 
-#
-#
-#
 #. Name for MA-04
 #, fuzzy
 msgid "L'Oriental"
@@ -11140,9 +10959,6 @@ msgstr ""
 msgid "Berkane"
 msgstr "An Fhrainc"
 
-#
-#
-#
 #. Name for MA-BES
 #, fuzzy
 msgid "Ben Slimane"
@@ -11404,8 +11220,6 @@ msgstr "Camarún"
 msgid "La Condamine"
 msgstr ""
 
-#
-#
 #. Name for MC-FO
 #, fuzzy
 msgid "Fontvieille"
@@ -11570,9 +11384,6 @@ msgstr "Málta"
 msgid "Leova"
 msgstr ""
 
-#
-#
-#
 #. Name for MD-NI
 #, fuzzy
 msgid "Nisporeni"
@@ -11745,8 +11556,6 @@ msgstr ""
 msgid "Mahajanga"
 msgstr ""
 
-#
-#
 #. Name for MG-T
 msgid "Antananarivo"
 msgstr ""
@@ -11883,8 +11692,6 @@ msgstr "An Ghabúin"
 msgid "Bitola"
 msgstr "An Bholaiv"
 
-#
-#
 #. Name for MK-05
 #, fuzzy
 msgid "Bogdanci"
@@ -11904,8 +11711,6 @@ msgstr ""
 msgid "Brvenica"
 msgstr "Maracó"
 
-#
-#
 #. Name for MK-09
 #, fuzzy
 msgid "Butel"
@@ -12278,8 +12083,6 @@ msgstr ""
 msgid "Kidal"
 msgstr ""
 
-#
-#
 #. Name for ML-BK0
 msgid "Bamako"
 msgstr ""
@@ -12311,8 +12114,6 @@ msgstr ""
 msgid "Yangon"
 msgstr "An Liobáin"
 
-#
-#
 #. Name for MM-07
 msgid "Ayeyarwady"
 msgstr ""
@@ -12439,8 +12240,6 @@ msgstr ""
 msgid "Arhangay"
 msgstr "Paraguay"
 
-#
-#
 #. Name for MN-1
 msgid "Ulanbaatar"
 msgstr ""
@@ -12490,15 +12289,10 @@ msgstr ""
 msgid "Inchiri"
 msgstr ""
 
-#
-#
 #. Name for MR-NKC
 msgid "Nouakchott"
 msgstr ""
 
-#
-#
-#
 #. Name for MT-01
 #, fuzzy
 msgid "Attard"
@@ -12819,8 +12613,6 @@ msgstr ""
 msgid "Black River"
 msgstr ""
 
-#
-#
 #. Name for MU-BR
 msgid "Beau Bassin-Rose Hill"
 msgstr ""
@@ -12961,8 +12753,6 @@ msgstr ""
 msgid "Gnaviyani"
 msgstr ""
 
-#
-#
 #. Name for MV-MLE
 #, fuzzy
 msgid "Male"
@@ -12992,8 +12782,6 @@ msgstr "Lú"
 msgid "Balaka"
 msgstr "An Albáin"
 
-#
-#
 #. Name for MW-BL
 msgid "Blantyre"
 msgstr ""
@@ -13152,10 +12940,13 @@ msgstr "An tSín"
 msgid "Chiapas"
 msgstr "An tSín"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-#, fuzzy
-msgid "Coahuila"
-msgstr "Cósta Rice"
+msgid "Coahuila de Zaragoza"
+msgstr ""
 
 #. Name for MX-COL
 #, fuzzy
@@ -13189,7 +12980,7 @@ msgid "México"
 msgstr "Meicsiceo"
 
 #. Name for MX-MIC
-msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr ""
 
 #. Name for MX-MOR
@@ -13250,7 +13041,7 @@ msgid "Tlaxcala"
 msgstr ""
 
 #. Name for MX-VER
-msgid "Veracruz"
+msgid "Veracruz de Ignacio de la Llave"
 msgstr ""
 
 #. Name for MX-YUC
@@ -13317,9 +13108,6 @@ msgstr ""
 msgid "Sarawak"
 msgstr ""
 
-#
-#
-#
 #. Name for MY-14
 msgid "Wilayah Persekutuan Kuala Lumpur"
 msgstr ""
@@ -13351,8 +13139,6 @@ msgstr "Gána"
 msgid "Inhambane"
 msgstr ""
 
-#
-#
 #. Name for MZ-L
 msgid "Maputo"
 msgstr ""
@@ -13383,8 +13169,6 @@ msgstr ""
 msgid "Tete"
 msgstr "An Tibéid"
 
-#
-#
 #. Name for NA-CA
 msgid "Caprivi"
 msgstr ""
@@ -13469,8 +13253,6 @@ msgstr ""
 msgid "Zinder"
 msgstr ""
 
-#
-#
 #. Name for NE-8
 msgid "Niamey"
 msgstr ""
@@ -13537,9 +13319,6 @@ msgstr "Háítí"
 msgid "Enugu"
 msgstr ""
 
-#
-#
-#
 #. Name for NG-FC
 msgid "Abuja Capital Territory"
 msgstr ""
@@ -13630,22 +13409,16 @@ msgstr ""
 msgid "Zamfara"
 msgstr "An tSaimbia"
 
-#
-#
 #. Name for NI-AN
 #, fuzzy
 msgid "Atlántico Norte"
 msgstr "An Albáin"
 
-#
-#
 #. Name for NI-AS
 #, fuzzy
 msgid "Atlántico Sur"
 msgstr "An Albáin"
 
-#
-#
 #. Name for NI-BO
 #, fuzzy
 msgid "Boaco"
@@ -13770,8 +13543,6 @@ msgstr ""
 msgid "Østfold"
 msgstr ""
 
-#
-#
 #. Name for NO-02
 msgid "Akershus"
 msgstr ""
@@ -13880,8 +13651,6 @@ msgstr ""
 msgid "Sudur Pashchimanchal"
 msgstr ""
 
-#
-#
 #. Name for NP-BA
 #, fuzzy
 msgid "Bagmati"
@@ -13935,8 +13704,6 @@ msgstr "An tSín"
 msgid "Narayani"
 msgstr "Gána"
 
-#
-#
 #. Name for NP-RA
 #, fuzzy
 msgid "Rapti"
@@ -13962,8 +13729,6 @@ msgstr "an tAntartasch"
 msgid "Anabar"
 msgstr "An tSaimbia"
 
-#
-#
 #. Name for NR-03
 #, fuzzy
 msgid "Anetan"
@@ -13974,15 +13739,11 @@ msgstr "An Albáin"
 msgid "Anibare"
 msgstr "An Tibéid"
 
-#
-#
 #. Name for NR-05
 #, fuzzy
 msgid "Baiti"
 msgstr "Málta"
 
-#
-#
 #. Name for NR-06
 #, fuzzy
 msgid "Boe"
@@ -14025,10 +13786,6 @@ msgstr "An Chóiré"
 msgid "Yaren"
 msgstr "An Fhrainc"
 
-#
-#
-#
-#
 #. Name for NZ-AUK
 #, fuzzy
 msgid "Auckland"
@@ -14144,8 +13901,6 @@ msgstr "An tSalvadóir"
 msgid "Z̧ufār"
 msgstr ""
 
-#
-#
 #. Name for PA-1
 msgid "Bocas del Toro"
 msgstr ""
@@ -14216,8 +13971,6 @@ msgstr ""
 msgid "Cajamarca"
 msgstr ""
 
-#
-#
 #. Name for PE-CAL
 #, fuzzy
 msgid "El Callao"
@@ -14349,8 +14102,6 @@ msgstr "Madagascar"
 msgid "Manus"
 msgstr ""
 
-#
-#
 #. Name for PG-NCD
 msgid "National Capital District (Port Moresby)"
 msgstr ""
@@ -14360,8 +14111,6 @@ msgstr ""
 msgid "New Ireland"
 msgstr "An Nua-Shéalainn"
 
-#
-#
 #. Name for PG-NSB
 #, fuzzy
 msgid "Bougainville"
@@ -14462,8 +14211,6 @@ msgstr ""
 msgid "MIMAROPA (Region IV-B)"
 msgstr ""
 
-#
-#
 #. Name for PH-ABR
 msgid "Abra"
 msgstr ""
@@ -14803,8 +14550,6 @@ msgstr "An tSaimbia"
 msgid "Zamboanga Sibugay"
 msgstr ""
 
-#
-#
 #. Name for PK-BA
 #, fuzzy
 msgid "Balochistan"
@@ -14814,8 +14559,6 @@ msgstr "Málta"
 msgid "Gilgit-Baltistan"
 msgstr ""
 
-#
-#
 #. Name for PK-IS
 msgid "Islamabad"
 msgstr ""
@@ -14968,8 +14711,6 @@ msgstr ""
 msgid "Tulkarm"
 msgstr ""
 
-#
-#
 #. Name for PT-01
 msgid "Aveiro"
 msgstr ""
@@ -15206,8 +14947,6 @@ msgstr "Paraguay"
 msgid "Asunción"
 msgstr ""
 
-#
-#
 #. Name for QA-DA
 msgid "Ad Dawhah"
 msgstr ""
@@ -15419,8 +15158,6 @@ msgstr "An Fhrainc"
 msgid "Vaslui"
 msgstr ""
 
-#
-#
 #. Name for RS-00
 #, fuzzy
 msgid "Beograd"
@@ -15961,8 +15698,6 @@ msgstr ""
 msgid "Choiseul"
 msgstr "An Chipir"
 
-#
-#
 #. Name for SB-CT
 msgid "Capital Territory (Honiara)"
 msgstr ""
@@ -16323,8 +16058,6 @@ msgstr "Bairéin"
 msgid "Borovnica"
 msgstr "Maracó"
 
-#
-#
 #. Name for SI-006
 #, fuzzy
 msgid "Bovec"
@@ -16340,8 +16073,6 @@ msgstr "Beirmiúda"
 msgid "Brezovica"
 msgstr "An Bholaiv"
 
-#
-#
 #. Name for SI-009
 #, fuzzy
 msgid "Brežice"
@@ -16919,9 +16650,6 @@ msgstr "Vitneam"
 msgid "Vipava"
 msgstr "An tSiria"
 
-#
-#
-#
 #. Name for SI-137
 #, fuzzy
 msgid "Vitanje"
@@ -17156,8 +16884,6 @@ msgstr ""
 msgid "Vransko"
 msgstr ""
 
-#
-#
 #. Name for SI-190
 #, fuzzy
 msgid "Žalec"
@@ -17303,16 +17029,11 @@ msgstr "An Cabhán"
 msgid "Domagnano"
 msgstr ""
 
-#
-#
 #. Name for SM-04
 #, fuzzy
 msgid "Faetano"
 msgstr "An Albáin"
 
-#
-#
-#
 #. Name for SM-05
 #, fuzzy
 msgid "Fiorentino"
@@ -17339,8 +17060,6 @@ msgstr ""
 msgid "Diourbel"
 msgstr ""
 
-#
-#
 #. Name for SN-DK
 msgid "Dakar"
 msgstr ""
@@ -17398,8 +17117,6 @@ msgstr "An Tibéid"
 msgid "Ziguinchor"
 msgstr ""
 
-#
-#
 #. Name for SO-AW
 msgid "Awdal"
 msgstr ""
@@ -17468,8 +17185,6 @@ msgstr ""
 msgid "Woqooyi Galbeed"
 msgstr ""
 
-#
-#
 #. Name for SR-BR
 msgid "Brokopondo"
 msgstr ""
@@ -17624,8 +17339,6 @@ msgstr ""
 msgid "Dayr az Zawr"
 msgstr ""
 
-#
-#
 #. Name for SY-HA
 msgid "Al Hasakah"
 msgstr ""
@@ -17674,8 +17387,6 @@ msgstr ""
 msgid "Tartus"
 msgstr "Málta"
 
-#
-#
 #. Name for SZ-HH
 msgid "Hhohho"
 msgstr ""
@@ -17803,8 +17514,6 @@ msgstr ""
 msgid "Région des Savannes"
 msgstr ""
 
-#
-#
 #. Name for TH-10
 msgid "Krung Thep Maha Nakhon Bangkok"
 msgstr ""
@@ -18357,8 +18066,6 @@ msgstr "Málta"
 msgid "Vava'u"
 msgstr "An tSiria"
 
-#
-#
 #. Name for TR-01
 #, fuzzy
 msgid "Adana"
@@ -18720,8 +18427,6 @@ msgstr "An Ostair"
 msgid "Chaguanas"
 msgstr ""
 
-#
-#
 #. Name for TT-CTT
 msgid "Couva-Tabaquite-Talparo"
 msgstr ""
@@ -18854,8 +18559,6 @@ msgstr ""
 msgid "Kaohsiung City"
 msgstr ""
 
-#
-#
 #. Name for TW-KHQ
 msgid "Kaohsiung"
 msgstr ""
@@ -18915,8 +18618,6 @@ msgstr ""
 msgid "Yunlin"
 msgstr ""
 
-#
-#
 #. Name for TZ-01
 #, fuzzy
 msgid "Arusha"
@@ -19125,8 +18826,6 @@ msgstr ""
 msgid "Khmel'nyts'ka Oblast'"
 msgstr ""
 
-#
-#
 #. Name for UA-71
 msgid "Cherkas'ka Oblast'"
 msgstr ""
@@ -19321,8 +19020,6 @@ msgstr "Paraguay"
 msgid "Bududa"
 msgstr "Beirmiúda"
 
-#
-#
 #. Name for UG-224
 #, fuzzy
 msgid "Bukedea"
@@ -19333,8 +19030,6 @@ msgstr "An Chóiré"
 msgid "Adjumani"
 msgstr "An tSúdáin"
 
-#
-#
 #. Name for UG-302
 msgid "Apac"
 msgstr ""
@@ -19524,8 +19219,6 @@ msgstr ""
 msgid "Wake Island"
 msgstr ""
 
-#
-#
 #. Name for UM-81
 msgid "Baker Island"
 msgstr ""
@@ -19551,8 +19244,6 @@ msgstr ""
 msgid "Alaska"
 msgstr "An Albáin"
 
-#
-#
 #. Name for US-AL
 #, fuzzy
 msgid "Alabama"
@@ -20155,8 +19846,6 @@ msgstr ""
 msgid "Bà Rịa-Vũng Tàu"
 msgstr ""
 
-#
-#
 #. Name for VN-44
 msgid "An Giang"
 msgstr ""
@@ -20280,8 +19969,6 @@ msgstr ""
 msgid "Hồ Chí Minh [Sài Gòn]"
 msgstr ""
 
-#
-#
 #. Name for VU-MAP
 #, fuzzy
 msgid "Malampa"
@@ -20311,8 +19998,6 @@ msgstr "Málta"
 msgid "Torba"
 msgstr "An Chóiré"
 
-#
-#
 #. Name for WS-AA
 #, fuzzy
 msgid "A'ana"
@@ -20359,8 +20044,6 @@ msgstr ""
 msgid "Vaisigano"
 msgstr ""
 
-#
-#
 #. Name for YE-AB
 #, fuzzy
 msgid "Abyān"
@@ -20440,8 +20123,6 @@ msgstr ""
 msgid "Tā'izz"
 msgstr ""
 
-#
-#
 #. Name for ZA-EC
 msgid "Eastern Cape"
 msgstr ""
@@ -20500,8 +20181,6 @@ msgstr ""
 msgid "Lusaka"
 msgstr ""
 
-#
-#
 #. Name for ZW-BU
 #, fuzzy
 msgid "Bulawayo"

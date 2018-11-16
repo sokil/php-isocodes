@@ -1,9 +1,9 @@
 # Translation of ISO 3166-2 to Simplified Chinese
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Wang Jian <lark@linux.net.cn>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
 "PO-Revision-Date: 2009-06-27 18:21+0800\n"
 "Last-Translator: LI Daobing <lidaobing@gmail.com>\n"
 "Language-Team: Chinese (simplified) <translation-team-zh-cn@lists."
@@ -2033,7 +2033,7 @@ msgstr "巴伊亚"
 msgid "Ceará"
 msgstr "塞阿腊"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr "首都特区"
 
@@ -12824,9 +12824,13 @@ msgstr "奇瓦瓦州"
 msgid "Chiapas"
 msgstr "恰帕斯州"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr ""
+
 #. Name for MX-COA
-msgid "Coahuila"
-msgstr "科阿韦拉州"
+msgid "Coahuila de Zaragoza"
+msgstr ""
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12859,7 +12863,7 @@ msgstr "莫希科省"
 
 #. Name for MX-MIC
 #, fuzzy
-msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr "米却肯州"
 
 #. Name for MX-MOR
@@ -12918,8 +12922,8 @@ msgid "Tlaxcala"
 msgstr "特拉斯卡拉州"
 
 #. Name for MX-VER
-msgid "Veracruz"
-msgstr "韦拉克鲁斯州"
+msgid "Veracruz de Ignacio de la Llave"
+msgstr ""
 
 #. Name for MX-YUC
 #, fuzzy

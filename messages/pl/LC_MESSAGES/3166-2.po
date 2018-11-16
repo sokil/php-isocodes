@@ -1,26 +1,30 @@
 # Translation of ISO 3166-2 to Polish
 # Codes for the representation of names of countries and their subdivisions
 # Part 2: Country subdivision codes
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-08-31 14:11+0200\n"
-"PO-Revision-Date: 2017-10-24 20:31+0200\n"
+"POT-Creation-Date: 2018-10-14 12:06+0200\n"
+"PO-Revision-Date: 2018-10-29 17:23+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
-"Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -1915,7 +1919,7 @@ msgstr "Bahia"
 msgid "Ceará"
 msgstr "Ceará"
 
-#. Name for BR-DF, Name for MX-DIF, Name for VE-A
+#. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
 msgstr "Dystrykt Federalny"
 
@@ -2418,15 +2422,15 @@ msgstr "Haut-Mbomou"
 
 #. Name for CF-HS
 msgid "Haute-Sangha / Mambéré-Kadéï"
-msgstr ""
+msgstr "Mambéré-Kadéï"
 
 #. Name for CF-KB
 msgid "Gribingui"
-msgstr ""
+msgstr "Nana-Grébizi"
 
 #. Name for CF-KG
 msgid "Kémo-Gribingui"
-msgstr ""
+msgstr "Kémo"
 
 #. Name for CF-LB
 msgid "Lobaye"
@@ -7619,8 +7623,6 @@ msgid "Chhattisgarh"
 msgstr "Chhattisgarh"
 
 #. Name for IN-DD
-#, fuzzy
-#| msgid "Damen and Diu"
 msgid "Daman and Diu"
 msgstr "Daman i Diu"
 
@@ -7694,7 +7696,7 @@ msgstr "Nagaland"
 
 #. Name for IN-OR
 msgid "Odisha"
-msgstr ""
+msgstr "Orisa"
 
 #. Name for IN-PB, Name for PK-PB
 msgid "Punjab"
@@ -7713,10 +7715,8 @@ msgid "Sikkim"
 msgstr "Sikkim"
 
 #. Name for IN-TG
-#, fuzzy
-#| msgid "Tanga"
 msgid "Telangana"
-msgstr "Tanga"
+msgstr "Telangana"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"
@@ -9260,7 +9260,7 @@ msgstr "Xiasômboun"
 
 #. Name for LB-AK
 msgid "Aakkâr"
-msgstr ""
+msgstr "Akkar"
 
 #. Name for LB-AS
 msgid "Liban-Nord"
@@ -9272,7 +9272,7 @@ msgstr "Bejrut"
 
 #. Name for LB-BH
 msgid "Baalbek-Hermel"
-msgstr ""
+msgstr "Baalbek-Hirmil"
 
 #. Name for LB-BI
 msgid "Béqaa"
@@ -9428,11 +9428,11 @@ msgstr "Prowincja Północno-Zachodnia"
 
 #. Name for LK-61
 msgid "Kuruṇægala"
-msgstr ""
+msgstr "Kurunegala"
 
 #. Name for LK-62
 msgid "Puttalama"
-msgstr ""
+msgstr "Puttalam"
 
 #. Name for LK-7
 msgid "Uturumæ̆da paḷāta"
@@ -9452,11 +9452,11 @@ msgstr "Prowincja Uva"
 
 #. Name for LK-81
 msgid "Badulla"
-msgstr ""
+msgstr "Badulla"
 
 #. Name for LK-82
 msgid "Mŏṇarāgala"
-msgstr ""
+msgstr "Moneragala"
 
 #. Name for LK-9
 msgid "Sabaragamuva paḷāta"
@@ -9464,11 +9464,11 @@ msgstr "Prowincja Sabaragamuwa"
 
 #. Name for LK-91
 msgid "Ratnapura"
-msgstr ""
+msgstr "Ratnapura"
 
 #. Name for LK-92
 msgid "Kægalla"
-msgstr ""
+msgstr "Kegalle"
 
 #. Name for LR-BG
 msgid "Bong"
@@ -10308,11 +10308,11 @@ msgstr "Asmara"
 
 #. Name for MA-FAH
 msgid "Fahs-Beni Makada"
-msgstr ""
+msgstr "Fahs-Andżira"
 
 #. Name for MA-FES
 msgid "Fès-Dar-Dbibegh"
-msgstr ""
+msgstr "Fez"
 
 #. Name for MA-FIG
 msgid "Figuig"
@@ -10380,7 +10380,7 @@ msgstr "Al-Araisz"
 
 #. Name for MA-MED
 msgid "Médiouna"
-msgstr ""
+msgstr "Madjuna"
 
 #. Name for MA-MEK
 msgid "Meknès"
@@ -10408,7 +10408,7 @@ msgstr "An-Nazur"
 
 #. Name for MA-NOU
 msgid "Nouaceur"
-msgstr ""
+msgstr "An-Nuwasar"
 
 #. Name for MA-OUA
 msgid "Ouarzazate"
@@ -10453,7 +10453,7 @@ msgstr "Sachirat-Timara"
 
 #. Name for MA-SYB
 msgid "Sidi Youssef Ben Ali"
-msgstr ""
+msgstr "Sidi Youssef Ben Ali"
 
 #. Name for MA-TAI
 msgid "Taourirt"
@@ -10509,11 +10509,11 @@ msgstr "Fontvieille"
 
 #. Name for MC-GA
 msgid "La Gare"
-msgstr ""
+msgstr "La Gare"
 
 #. Name for MC-JE
 msgid "Jardin Exotique"
-msgstr "Jardin exotique"
+msgstr "Jardin Exotique"
 
 #. Name for MC-LA
 msgid "Larvotto"
@@ -10521,7 +10521,7 @@ msgstr "Larvotto"
 
 #. Name for MC-MA
 msgid "Malbousquet"
-msgstr ""
+msgstr "Malbousquet"
 
 #. Name for MC-MC
 msgid "Monte-Carlo"
@@ -10537,23 +10537,23 @@ msgstr "Monaco-Ville"
 
 #. Name for MC-MU
 msgid "Moulins"
-msgstr ""
+msgstr "Moulins"
 
 #. Name for MC-PH
 msgid "Port-Hercule"
-msgstr ""
+msgstr "Port-Hercule"
 
 #. Name for MC-SD
 msgid "Sainte-Dévote"
-msgstr "Ravin de Sainte-Dévote"
+msgstr "Sainte-Dévote"
 
 #. Name for MC-SO
 msgid "La Source"
-msgstr ""
+msgstr "La Source"
 
 #. Name for MC-SP
 msgid "Spélugues"
-msgstr ""
+msgstr "Spélugues"
 
 #. Name for MC-SR
 msgid "Saint-Roman"
@@ -10561,7 +10561,7 @@ msgstr "Saint Roman"
 
 #. Name for MC-VR
 msgid "Vallon de la Rousse"
-msgstr ""
+msgstr "Vallon de la Rousse"
 
 #. Name for MD-AN
 msgid "Anenii Noi"
@@ -12067,9 +12067,13 @@ msgstr "Chihuahua"
 msgid "Chiapas"
 msgstr "Chiapas"
 
+#. Name for MX-CMX
+msgid "Ciudad de México"
+msgstr "Meksyk"
+
 #. Name for MX-COA
-msgid "Coahuila"
-msgstr "Coahuila"
+msgid "Coahuila de Zaragoza"
+msgstr "Coahuila de Zaragoza"
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12100,7 +12104,7 @@ msgid "México"
 msgstr "Meksyk"
 
 #. Name for MX-MIC
-msgid "Michoacán"
+msgid "Michoacán de Ocampo"
 msgstr "Michoacán"
 
 #. Name for MX-MOR
@@ -12156,7 +12160,7 @@ msgid "Tlaxcala"
 msgstr "Tlaxcala"
 
 #. Name for MX-VER
-msgid "Veracruz"
+msgid "Veracruz de Ignacio de la Llave"
 msgstr "Veracruz"
 
 #. Name for MX-YUC

@@ -1,13 +1,13 @@
 # Translation of ISO 15924 to Danish
 # Codes for the representation of names of scripts
-#
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Notes:
 # Vedrørende stort begyndelsesbogstav: På engelsk er de her ord med stort,
 # det er de ikke på dansk. Sproget kan bruges inde i sætninger og de
 # skal derfor oversættes med småt.
-#
+# .
 # Kenneths kommentarer (som er fulgt)
 # Jeg tror ikke vi skal bruge stort begyndelsesbogstav i starten af
 # sætningerne, der hvor det er sprognavne der står. Så vidt jeg forstår
@@ -17,11 +17,11 @@
 # disse strenge ligeså nemt kan blive sat ind i midten af en streng i
 # det pågældende program som i starten og så har vi problemerne med om
 # det bliver korrekt eller ej.
-#
+# .
 # Ovenstående er ikke helt afklaret, så hvis nogen ser dem her brugt i praksis
 # hvor de ikke er korrekte, så vend venligst tilbage på <dansk@dansk-gruppen.dk>
 # På forhånd tak, Joe
-#
+# .
 # Copyright ©
 # Computeroversættelse Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Joe Hansen <joedalton2@yahoo.dk>, 2009-2012, 2014, 2017.
@@ -81,7 +81,7 @@ msgstr "avestisk"
 msgid "Balinese"
 msgstr "balinesisk"
 
-# Bamoun, is one of the Benue-Congo languages of Cameroon, 
+# Bamoun, is one of the Benue-Congo languages of Cameroon,
 # with approximately a quarter million speakers.
 # den store danske har bamum.
 #. Name for Bamu
@@ -200,9 +200,9 @@ msgstr "egyptisk hieratisk"
 msgid "Egyptian hieroglyphs"
 msgstr "egyptiske hieroglyffer"
 
-# Albanian has also been written with two other scripts: Elbasan and 
-# Beitha Kukju, local inventions which appeared during the 18th and 
-# 19th centuries but were not widely used. 
+# Albanian has also been written with two other scripts: Elbasan and
+# Beitha Kukju, local inventions which appeared during the 18th and
+# 19th centuries but were not widely used.
 # måske elbasansk
 # "Elbasan er en by i det centrale Albanien, med et indbyggertal (pr.
 # 2003) på ca. 100.000. Byen er hovedstad i et distrikt af samme navn, og
@@ -234,8 +234,8 @@ msgstr "glagolitisk"
 msgid "Gothic"
 msgstr "gotisk"
 
-# grantha meaning "book" or "manuscript") is an ancient script that 
-# was prevalent in South India. 
+# grantha meaning "book" or "manuscript") is an ancient script that
+# was prevalent in South India.
 # den store danske har grantha.
 #. Name for Gran
 msgid "Grantha"
@@ -382,10 +382,10 @@ msgstr "kpelle"
 msgid "Kaithi"
 msgstr "kaithi"
 
-# The Tai Tham script, also known as the Lanna script is used for 
-# three living languages: Northern Thai (that is, Kam Mu’ang), Tai 
-# Lü and Khün. In addition, the Lanna script is also used for Lao 
-# Tham (or old Lao) and other dialect variants in Buddhist palm leaves 
+# The Tai Tham script, also known as the Lanna script is used for
+# three living languages: Northern Thai (that is, Kam Mu’ang), Tai
+# Lü and Khün. In addition, the Lanna script is also used for Lao
+# Tham (or old Lao) and other dialect variants in Buddhist palm leaves
 # and notebooks. The script is also known as Tham or Yuan script.
 #. Name for Lana
 msgid "Tai Tham (Lanna)"
@@ -494,7 +494,7 @@ msgid "Moon (Moon code, Moon script, Moon type)"
 msgstr "moon (moonkode, moonskript, moontype)"
 
 # Information about Mru (Language code 'mro')
-# GRN currently recognizes 3 distinct spoken languages and dialects within this language code. 
+# GRN currently recognizes 3 distinct spoken languages and dialects within this language code.
 #. Name for Mroo
 msgid "Mro, Mru"
 msgstr "mro, mru"
