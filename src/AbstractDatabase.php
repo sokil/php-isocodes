@@ -100,7 +100,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     private function getDatabaseFilePath()
     {
-        return $this->baseDirectory . '/iso_' . $this->getISONumber() . '.json';
+        return $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $this->getISONumber() . '.json';
     }
 
     /**
