@@ -96,7 +96,7 @@ If you want to update database more often, use script `update_db.sh`.
 Call this script by cron, during deploy process or when build your docker image. 
 
 ```
-/path/to/project/vendor/sokil/php-isocodes/update_db.sh /var/isododes
+/path/to/project/vendor/sokil/php-isocodes/update_db.sh /var/isocodes
 ```
 
 Now you need to configure factory to use this directory:
@@ -104,7 +104,7 @@ Now you need to configure factory to use this directory:
 ```php
 <?php
 
-$databaseBaseDir = '/var/isododes';
+$databaseBaseDir = '/var/isocodes';
 
 $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory($databaseBaseDir);
 ```
