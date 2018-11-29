@@ -18,6 +18,8 @@ Current translation status: https://salsa.debian.org/iso-codes-team/iso-codes#st
 
 * [ISO Standards](#iso-standarts)
 * [Installation](#installation)
+* [Locale configuration](#locale-configuration)
+* [Manual database update](#manual-database-update)
 * [Usage](#usage)
   * [Locale configuration](#locale-configuration)
   * [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
@@ -43,17 +45,7 @@ You can install library through Composer:
 composer require sokil/php-isocodes
 ```
 
-## Usage
-
-* [Locale configuration](#locale-configuration)
-* [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
-* [Subdivisions database (ISO 3166-2)](#subdivisions-database-iso-3166-2)
-* [Historic countries database (ISO 3166-3)](#historic-countries-database-iso-3166-3)
-* [Scripts database (ISO 15924)](#scripts-database-iso-15924)
-* [Currencies database (ISO 4217)](#currencies-database-iso-4217)
-* [Languages database (ISO 639-3)](#languages-database-iso-639-3)
-
-### Locale configuration
+## Locale configuration
 
 Before using IsoCodes database you need to setup valid locale to get transtions worked:
 
@@ -94,6 +86,37 @@ Generating locales...
   uk_UA.utf-8... done
 Generation complete.
 ```
+
+## Manual database update
+
+Database and related gettext files located inside this repo in `databases` and `messages` directories. 
+This data periodically updated with package version increment.
+
+If you want to update database more often, use script `update_db.sh`. 
+Call this script by cron, during deploy process or when build your docker image. 
+
+```
+/path/to/project/vendor/sokil/php-isocodes/update_db.sh /var/isododes
+```
+
+Now you need to configure factory to use this directory:
+
+```php
+<?php
+
+$databaseBaseDir = '/var/isododes';
+
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory($databaseBaseDir);
+```
+
+## Usage
+
+* [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
+* [Subdivisions database (ISO 3166-2)](#subdivisions-database-iso-3166-2)
+* [Historic countries database (ISO 3166-3)](#historic-countries-database-iso-3166-3)
+* [Scripts database (ISO 15924)](#scripts-database-iso-15924)
+* [Currencies database (ISO 4217)](#currencies-database-iso-4217)
+* [Languages database (ISO 639-3)](#languages-database-iso-639-3)
 
 ### Countries database (ISO 3166-1)
 
