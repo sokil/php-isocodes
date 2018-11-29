@@ -1,5 +1,5 @@
-PHP ISO Codes
-=========
+# PHP ISO Codes
+
 [![Build Status](https://travis-ci.org/sokil/php-isocodes.png?branch=master&1)](https://travis-ci.org/sokil/php-isocodes)
 [![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes)
 [![Coverage Status](https://coveralls.io/repos/sokil/php-isocodes/badge.png)](https://coveralls.io/r/sokil/php-isocodes)
@@ -12,8 +12,22 @@ Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian
 
 Database version: iso-codes-3.79-244-gdae9d2b8 from 2018-11-29 20:08
 
-ISO Standarts
--------------
+Current translation status: https://salsa.debian.org/iso-codes-team/iso-codes#status-of-translations
+
+## Table of contents
+
+* [ISO Standards](#iso-standarts)
+* [Installation](#installation)
+* [Usage](#usage)
+  * [Locale configuration](#locale-configuration)
+  * [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
+  * [Subdivisions database (ISO 3166-2)](#subdivisions-database-iso-3166-2)
+  * [Historic countries database (ISO 3166-3)](#historic-countries-database-iso-3166-3)
+  * [Scripts database (ISO 15924)](#scripts-database-iso-15924)
+  * [Currencies database (ISO 4217)](#currencies-database-iso-4217)
+  * [Languages database (ISO 639-3)](#languages-database-iso-639-3)
+
+## ISO Standards
 
 * **ISO 3166-1**: Country codes (alpha-2, alpha-3, numeric)
 * **ISO 3166-2**: Principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1
@@ -22,16 +36,14 @@ ISO Standarts
 * **ISO 4217**: Currencies
 * **ISO 639-3**: Languages
 
-Installation
-------------
+## Installation
 
 You can install library through Composer:
 ```
 composer require sokil/php-isocodes
 ```
 
-Usage
-------
+## Usage
 
 * [Locale configuration](#locale-configuration)
 * [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
@@ -138,12 +150,82 @@ $subDivision->getType(); // 'Autonomous republic'
 
 ### Historic countries database (ISO 3166-3)
 
+```php
+<?php
+
+$isoCodes = new IsoCodesFactory();
+
+$countries = $isoCodes->getHistoricCountries();
+
+$country = $countries->getByAlpha4('ZRCD');
+
+$country->getName(); //'Zaire, Republic of'
+$country->getAlpha4(); // 'ZRCD'
+$country->getAlpha3(); // 'ZAR'
+$country->getAlpha2(); // 'ZR'
+$country->getWithdrawalDate(); // '1997-07-14'
+$country->getNumericCode(); // 180
+```
+
 ### Scripts database (ISO 15924)
+
+```php
+<?php
+$isoCodes = new IsoCodesFactory();
+
+$scripts = $isoCodes->getScripts();
+
+$script = $scripts->getByAlpha4('Aghb');
+
+$script->getName(); // Caucasian Albanian
+$script->getLocalName(); // кавказька албанська
+$script->getAlpha4(); // Aghb
+$script->getNumericCode(); 239
+```
 
 ### Currencies database (ISO 4217)
 
+```php
+<?php
+
+$isoCodes = new IsoCodesFactory();
+
+$currencies = $isoCodes->getCurrencies();
+
+$currency = $currencies->getByLetterCode('CZK');
+
+$currency->getName(); // Czech Koruna
+$currency->getLocalName(); // Чеська крона
+$currency->getLetterCode(); // CZK
+$currency->getNumericCode(); // 203
+```
+
 ### Languages database (ISO 639-3)
 
+```php
+<?php
+$isoCodes = new IsoCodesFactory();
+
+$languages = $isoCodes->getLanguages();
+
+$language = $languages->getByAlpha2('uk');
+
+$language->getAlpha2(); // uk
+
+$language->getName(); // Ukrainian
+
+$language->getLocalName(); // українська
+
+$language->getAlpha3(); // ukr
+
+// Scope of denotation, see mote at https://iso639-3.sil.org/about/scope
+$language->getScope(); // I
+
+// Type of language, see https://iso639-3.sil.org/about/types
+$language->getType(); // L
+
+$language->getInvertedName(); // null
+```
 
 See also
 --------

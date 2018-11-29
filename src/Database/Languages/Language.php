@@ -7,6 +7,29 @@ use Sokil\IsoCodes\Database\Languages;
 class Language
 {
     /**
+     * @see https://iso639-3.sil.org/about/scope
+     */
+    const SCOPE_COLLECTIVE = 'C';
+    const SCOPE_INDIVIDUAL = 'I';
+    const SCOPE_LOCAL = 'L';
+    const SCOPE_MACROLANGUAGE = 'M';
+    const SCOPE_SPECIAL = 'S';
+
+    /**
+     * @see https://iso639-3.sil.org/about/types
+     */
+    const TYPE_ANCIENT = 'A';
+    const TYPE_CONSTRUCTED = 'C';
+    const TYPE_EXTINCT = 'E';
+    const TYPE_GENETIC = 'GENETIC'; // not supported
+    const TYPE_GENETIC_ANCIENT = 'GENETIC_ANCIENT'; // not supported
+    const TYPE_GENETIC_LIKE = 'GENETIC_LIKE'; // not supported
+    const TYPE_GEOGRAPHIC = 'GEOGRAPHIC'; // not supported
+    const TYPE_HISTORICAL = 'H';
+    const TYPE_LIVING = 'L';
+    const TYPE_SPECIAL = 'S';
+
+    /**
      * @var string
      */
     private $name;
@@ -22,11 +45,23 @@ class Language
     private $alpha3;
 
     /**
+     * Scope of denotation
+     *
+     * One of self::SCOPE_*
+     *
+     * @see https://iso639-3.sil.org/about/scope
+     *
      * @var string
      */
     private $scope;
 
     /**
+     * Type of language
+     *
+     * One of TYPE_*
+     *
+     * @see https://iso639-3.sil.org/about/types
+     *
      * @var string
      */
     private $type;
