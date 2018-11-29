@@ -15,9 +15,24 @@ use Sokil\IsoCodes\Database\Subdivisions;
 class IsoCodesFactory
 {
     /**
+     * Path to directory with databases
+     *
+     * @var string
+     */
+    private $baseDirectory;
+
+    /**
      * @var AbstractDatabase[]
      */
     private $databases = [];
+
+    /**
+     * @param string|null $baseDirectory
+     */
+    public function __construct($baseDirectory = null)
+    {
+        $this->baseDirectory = $baseDirectory;
+    }
 
     /**
      * @param string $className
@@ -27,7 +42,7 @@ class IsoCodesFactory
     private function getDatabase($className)
     {
         if (empty($this->databases[$className])) {
-            $this->databases[$className] = new $className();
+            $this->databases[$className] = new $className($this->baseDirectory);
         }
 
         return $this->databases[$className];

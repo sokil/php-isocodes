@@ -8,14 +8,21 @@ namespace Sokil\IsoCodes;
 abstract class AbstractDatabase implements \Iterator, \Countable
 {
     /**
-     * Path to ISO databases
+     * Default ath ISO databases
      */
-    const DATABASE_PATH = '/../databases';
+    const DATABASE_PATH = 'databases';
 
     /**
-     * Path to gettext localised messages
+     * Default path to gettext localised messages
      */
-    const MESSAGES_PATH = '/../messages';
+    const MESSAGES_PATH = 'messages';
+
+    /**
+     * Path to directory with databases
+     *
+     * @var string
+     */
+    private $baseDirectory;
 
     /**
      * Cluster index used for iteration by entries
@@ -31,8 +38,19 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      */
     private $index;
 
-    public function __construct()
+    /**
+     * @param null|string $baseDirectory
+     *
+     * @throws \Exception
+     */
+    public function __construct($baseDirectory = null)
     {
+        if (empty($this->baseDirectory)) {
+            $this->baseDirectory = __DIR__ . '/../';
+        } else {
+            $this->baseDirectory = rtrim($baseDirectory, '/') . '/';
+        }
+
         $this->loadDatabase($this->getDatabaseFilePath());
     }
 
@@ -48,7 +66,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         // abstract static methods not allowed on PHP < 7.0
         throw new \Exception(
             sprintf(
-                'Method "%s" must be inmpemented in class %s',
+                'Method "%s" must be implemented in class %s',
                 __METHOD__,
                 get_class()
             )
@@ -76,25 +94,31 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
+     * Get path to database file
+     *
      * @return string
      */
     private function getDatabaseFilePath()
     {
-        return __DIR__ . self::DATABASE_PATH . '/iso_' . $this->getISONumber() . '.json';
+        return $this->baseDirectory . '/iso_' . $this->getISONumber() . '.json';
     }
 
     /**
+     * Get path to directory with gettext messages
+     *
      * @return string
      */
-    private function getLocalMessagesPath()
+    private function getLocalMessagesDirPath()
     {
-        return __DIR__ . self::MESSAGES_PATH;
+        return $this->baseDirectory . self::MESSAGES_PATH;
     }
 
     /**
      * Build cluster index for iteration
      *
      * @param string $databaseFile
+     *
+     * @throws \Exception
      */
     private function loadDatabase($databaseFile)
     {
@@ -103,7 +127,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         // add gettext domain
         bindtextdomain(
             $isoNumber,
-            $this->getLocalMessagesPath()
+            $this->getLocalMessagesDirPath()
         );
 
         bind_textdomain_codeset(
