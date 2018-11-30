@@ -1,5 +1,5 @@
 ## 2.2 (2018-11-29)
-* Added possibility to configure directory with databases and messages, and manuaklly update them without updating composer 
+* Added possibility to configure directory with databases and messages, and manually update them without updating composer 
 * Constants `AbstractDatabase::DATABASE_PATH` and `AbstractDatabase::MESSAGES_PATH` now contain directory name instead of directory path
 * Manual database update
 
