@@ -7,7 +7,7 @@
 [![Daily Downloads](https://poser.pugx.org/sokil/php-isocodes/d/daily)](https://packagist.org/packages/sokil/php-isocodes/stats)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sokil/php-isocodes/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sokil/php-isocodes/?branch=master)
 
-This library used to get localized names of countries, currencies, languages and scripts.
+:star: This library used to get localized names of countries, currencies, languages and scripts.
 Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian's [iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes.git).
 
 Database version: iso-codes-3.79-244-gdae9d2b8 from 2018-11-29 20:08
