@@ -33,7 +33,7 @@ if [[ -d $PKG_ISOCODES_DIR ]]; then
     git pull origin master
 else
     mkdir -p $PKG_ISOCODES_DIR
-    git clone $PKG_ISOCODES_REPO $PKG_ISOCODES_DIR/iso-codes
+    git clone $PKG_ISOCODES_REPO $PKG_ISOCODES_DIR
 fi
 
 # clear previous database and locales files
