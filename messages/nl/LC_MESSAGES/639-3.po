@@ -9,14 +9,15 @@
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2009-2015, 2017.
 # Pander <pander@users.sourceforge.net>, 2018.
+# Nathan Follens <nthn@unseen.is>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-10-05 19:24+0000\n"
-"Last-Translator: Pander <pander@users.sourceforge.net>\n"
+"PO-Revision-Date: 2019-01-14 17:21+0000\n"
+"Last-Translator: Nathan Follens <nthn@unseen.is>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/nl/>\n"
 "Language: nl\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.2\n"
+"X-Generator: Weblate 3.4-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -1309,11 +1310,11 @@ msgstr ""
 
 #. Name for ang
 msgid "Old English (ca. 450-1100)"
-msgstr "Oud Engels (ca.450-1100)"
+msgstr "Oudengels (ca.450-1100)"
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "Engels, Oud (ca. 450-1100)"
+msgstr "Oudengels (ca. 450-1100)"
 
 #. Name for anh
 msgid "Nend"
@@ -5417,7 +5418,7 @@ msgstr ""
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr "Galibi Caraïbisch"
+msgstr "Caribische talen"
 
 #. Inverted name for car
 msgid "Carib, Galibi"
@@ -5773,7 +5774,7 @@ msgstr ""
 
 #. Name for chk
 msgid "Chuukese"
-msgstr "Chukees"
+msgstr "Chuukees"
 
 #. Name for chl
 msgid "Cahuilla"
@@ -8456,7 +8457,7 @@ msgstr "Nederlands, Middel (ca. 1050-1350)"
 
 #. Inverted name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "Nederlands, Middel (ca. 1050-1350)"
+msgstr "Middelnederlands (ca. 1050-1350)"
 
 #. Name for dun
 msgid "Dusun Deyah"
@@ -9584,26 +9585,24 @@ msgid "Fordata"
 msgstr ""
 
 #. Name for frk
-#, fuzzy
 msgid "Frankish"
-msgstr "Deens"
+msgstr "Frankisch"
 
 #. Name for frm
-#, fuzzy
 msgid "Middle French (ca. 1400-1600)"
-msgstr "Frans, Middel (ca.1400-1600)"
+msgstr "Middelfrans (ca.1400-1600)"
 
 #. Inverted name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "Frans, Middel (ca. 1400-1600)"
+msgstr "Middelfrans (ca. 1400-1600)"
 
 #. Name for fro
 msgid "Old French (842-ca. 1400)"
-msgstr "Frans, Oud (842-ca. 1400)"
+msgstr "Oudfrans (842-ca. 1400)"
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Frans, Oud (842-ca. 1400)"
+msgstr "Oudfrans (842-ca. 1400)"
 
 #. Name for frp
 #, fuzzy
@@ -9615,9 +9614,8 @@ msgid "Forak"
 msgstr ""
 
 #. Name for frr
-#, fuzzy
 msgid "Northern Frisian"
-msgstr "Noord-Sami"
+msgstr "Noord-Fries"
 
 #. Inverted name for frr
 msgid "Frisian, Northern"
@@ -10677,102 +10675,88 @@ msgid "Magɨyi"
 msgstr ""
 
 #. Name for gmh
-#, fuzzy
 msgid "Middle High German (ca. 1050-1500)"
-msgstr "Duits, Middel Hoog (ca.1050-1500)"
+msgstr "Middelhoogduits (ca.1050-1500)"
 
 #. Inverted name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "Duits, Middel Hoog (ca. 1050-1500)"
+msgstr "Middelhoogduits (ca. 1050-1500)"
 
 #. Name for gml
 msgid "Middle Low German"
-msgstr ""
+msgstr "Middellaagduits"
 
 #. Inverted name for gml
-#, fuzzy
 msgid "German, Middle Low"
-msgstr "Armeens"
+msgstr "Middellaagduits"
 
 #. Name for gmm
 msgid "Gbaya-Mbodomo"
-msgstr ""
+msgstr "Gbaya-Mbodomo"
 
 #. Name for gmn
-#, fuzzy
 msgid "Gimnime"
-msgstr "Timne"
+msgstr "Gimnime"
 
 #. Name for gmu
-#, fuzzy
 msgid "Gumalu"
-msgstr "Tuvalu"
+msgstr "Gumalu"
 
 #. Name for gmv
-#, fuzzy
 msgid "Gamo"
-msgstr "Gayo"
+msgstr "Gamo"
 
 #. Name for gmx
-#, fuzzy
 msgid "Magoma"
-msgstr "Magahisch"
+msgstr "Magoma"
 
 #. Name for gmy
 msgid "Mycenaean Greek"
-msgstr ""
+msgstr "Myceens Grieks"
 
 #. Inverted name for gmy
 msgid "Greek, Mycenaean"
-msgstr ""
+msgstr "Myceens Grieks"
 
 #. Name for gmz
 msgid "Mgbolizhia"
-msgstr ""
+msgstr "Mgbolizhia"
 
 #. Name for gna
-#, fuzzy
 msgid "Kaansa"
-msgstr "Kannada, Kanara, Kanarees"
+msgstr "Kaansa"
 
 #. Name for gnb
-#, fuzzy
 msgid "Gangte"
-msgstr "Adangme"
+msgstr "Gangte"
 
 #. Name for gnc
-#, fuzzy
 msgid "Guanche"
-msgstr "Manchu"
+msgstr "Guanche"
 
 #. Name for gnd
 msgid "Zulgo-Gemzek"
-msgstr ""
+msgstr "Zulgo-Gemzek"
 
 #. Name for gne
-#, fuzzy
 msgid "Ganang"
-msgstr "Ganda"
+msgstr "Ganang"
 
 #. Name for gng
-#, fuzzy
 msgid "Ngangam"
-msgstr "Ndonga"
+msgstr "Ngangam"
 
 #. Name for gnh
-#, fuzzy
 msgid "Lere"
-msgstr "Serer"
+msgstr "Lere"
 
 #. Name for gni
-#, fuzzy
 msgid "Gooniyandi"
-msgstr "Gondi"
+msgstr "Gooniyandi"
 
 #. Name for gnk
-#, fuzzy
 msgid "//Gana"
-msgstr "Ganda"
+msgstr "//Gana"
 
 #. Name for gnl
 msgid "Gangulu"
@@ -10864,13 +10848,12 @@ msgid "Gogo"
 msgstr "Mongo"
 
 #. Name for goh
-#, fuzzy
 msgid "Old High German (ca. 750-1050)"
-msgstr "Duits, Oud Hoog (ca.750-1050)"
+msgstr "Oudhoogduits (ca.750-1050)"
 
 #. Inverted name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Duits, Oud Hoog (ca. 750-1050)"
+msgstr "Oudhoogduits (ca. 750-1050)"
 
 #. Name for goi
 msgid "Gobasi"
@@ -10881,14 +10864,12 @@ msgid "Gowlan"
 msgstr ""
 
 #. Name for gok
-#, fuzzy
 msgid "Gowli"
-msgstr "Gondi"
+msgstr "Gowli"
 
 #. Name for gol
-#, fuzzy
 msgid "Gola"
-msgstr "Ga"
+msgstr "Gola"
 
 #. Name for gom
 msgid "Goan Konkani"
@@ -12329,9 +12310,8 @@ msgid "Harzani"
 msgstr "Guarani"
 
 #. Name for hsb
-#, fuzzy
 msgid "Upper Sorbian"
-msgstr "Servisch"
+msgstr "Oppersorbisch"
 
 #. Inverted name for hsb
 msgid "Sorbian, Upper"
@@ -14088,7 +14068,7 @@ msgstr "Kabyle"
 
 #. Name for kac
 msgid "Kachin"
-msgstr "Katsjin"
+msgstr "Kachin"
 
 #. Name for kad
 #, fuzzy
@@ -22577,7 +22557,7 @@ msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "Nauruaans"
+msgstr "Nauru"
 
 #. Name for nav
 #, fuzzy
@@ -25872,7 +25852,7 @@ msgstr "Oromo"
 
 #. Name for osa
 msgid "Osage"
-msgstr "Osaags"
+msgstr "Osage"
 
 #. Name for osc
 #, fuzzy
@@ -26529,16 +26509,15 @@ msgstr "Mende"
 
 #. Name for peo
 msgid "Old Persian (ca. 600-400 B.C.)"
-msgstr "Oud Perzisch (ca. 600-400 v.Chr.)"
+msgstr "Oudperzisch (ca. 600-400 v.Chr.)"
 
 #. Inverted name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Oud Perzisch (ca. 600-400 v.Chr.)"
+msgstr "Oudperzisch (ca. 600-400 v.Chr.)"
 
 #. Name for pep
-#, fuzzy
 msgid "Kunja"
-msgstr "Punjabi"
+msgstr "Kunja"
 
 #. Name for peq
 #, fuzzy
@@ -27529,7 +27508,6 @@ msgid "Old Provençal (to 1500)"
 msgstr "Provençaals, Oud (tot 1500)"
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
 msgstr "Provençaals, Oud (tot 1500)"
 
@@ -29273,9 +29251,8 @@ msgid "Sake"
 msgstr "Sasaaks"
 
 #. Name for sam
-#, fuzzy
 msgid "Samaritan Aramaic"
-msgstr "Samaritaans"
+msgstr "Samaritaans Aramees"
 
 #. Inverted name for sam
 msgid "Aramaic, Samaritan"
@@ -30014,7 +29991,7 @@ msgstr ""
 
 #. Name for shn
 msgid "Shan"
-msgstr "Sjaans"
+msgstr "Shan"
 
 #. Name for sho
 #, fuzzy
@@ -30643,9 +30620,8 @@ msgid "Simeulue"
 msgstr ""
 
 #. Name for sms
-#, fuzzy
 msgid "Skolt Sami"
-msgstr "Lule Sami"
+msgstr "Skolt-Sami"
 
 #. Inverted name for sms
 #, fuzzy
@@ -31127,7 +31103,7 @@ msgstr "Sardinisch"
 
 #. Name for srd
 msgid "Sardinian"
-msgstr "Sardinisch"
+msgstr "Sardijns"
 
 #. Name for sre
 #, fuzzy

@@ -11,7 +11,7 @@
 
 :package: Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian's [iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes.git).
 
-:1234: Database version: iso-codes-3.77-699-g3b0559b from 2019-01-03 16:53
+:1234: Database version: iso-codes-4.2 from 2019-01-31 16:44
 
 :tongue: Current translation status: https://salsa.debian.org/iso-codes-team/iso-codes#status-of-translations
 
