@@ -9,14 +9,13 @@
 # Simos Xenitellis <simos@hellug.gr>, 2001.
 # Konstantinos Margaritis <markos@debian.org>, 2004.
 # Athanasios Lefteris <alefteris@gmail.com>, 2008.
-# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-29 09:08+0000\n"
+"PO-Revision-Date: 2018-01-01 15:05+0000\n"
 "Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/el/>\n"
@@ -25,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -38,7 +37,7 @@ msgstr ""
 #. Name for ace
 #, fuzzy
 msgid "Achinese"
-msgstr "Ατσενίζ"
+msgstr "Κινέζικα"
 
 #. Name for ach
 msgid "Acoli"
@@ -53,8 +52,9 @@ msgid "Adyghe; Adygei"
 msgstr ""
 
 #. Name for afa
+#, fuzzy
 msgid "Afro-Asiatic languages"
-msgstr "Αφρο-ασιατικές γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for afh
 msgid "Afrihili"
@@ -125,8 +125,9 @@ msgid "Arapaho"
 msgstr "Αραπάχο"
 
 #. Name for art
+#, fuzzy
 msgid "Artificial languages"
-msgstr "Τεχνητές γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for arw
 msgid "Arawak"
@@ -143,7 +144,7 @@ msgstr ""
 #. Name for ath
 #, fuzzy
 msgid "Athapascan languages"
-msgstr "Αθαπάσκαν γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for aus
 msgid "Australian languages"
@@ -172,7 +173,7 @@ msgstr "Αζερμπαϊτζιανά"
 #. Name for bad
 #, fuzzy
 msgid "Banda languages"
-msgstr "Μπάντα γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for bai
 msgid "Bamileke languages"
@@ -199,8 +200,9 @@ msgid "Basa"
 msgstr ""
 
 #. Name for bat
+#, fuzzy
 msgid "Baltic languages"
-msgstr "Βαλτικές γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for bej
 msgid "Beja; Bedawiyet"
@@ -225,7 +227,7 @@ msgstr ""
 #. Name for ber
 #, fuzzy
 msgid "Berber languages"
-msgstr "Μπέρμπερ γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for bho
 msgid "Bhojpuri"
@@ -234,7 +236,7 @@ msgstr ""
 #. Name for bih
 #, fuzzy
 msgid "Bihari languages"
-msgstr "Μπιχάρι γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for bik
 msgid "Bikol"
@@ -276,7 +278,7 @@ msgstr "Βρετονικά"
 #. Name for btk
 #, fuzzy
 msgid "Batak languages"
-msgstr "Μπατάκ γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for bua
 msgid "Buriat"
@@ -299,8 +301,9 @@ msgid "Caddo"
 msgstr ""
 
 #. Name for cai
+#, fuzzy
 msgid "Central American Indian languages"
-msgstr "Ινδιάνικες γλώσσες Κεντρικής Αμερικής"
+msgstr "Ινδιάνικα Κεντρικής Αμερικής (άλλη)"
 
 #. Name for car
 msgid "Galibi Carib"
@@ -311,16 +314,18 @@ msgid "Catalan; Valencian"
 msgstr ""
 
 #. Name for cau
+#, fuzzy
 msgid "Caucasian languages"
-msgstr "Καυκάσιες γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for ceb
 msgid "Cebuano"
 msgstr ""
 
 #. Name for cel
+#, fuzzy
 msgid "Celtic languages"
-msgstr "Κελτικές γλώσσες"
+msgstr "Πολλαπλές γλώσσες"
 
 #. Name for ces
 msgid "Czech"
@@ -343,8 +348,9 @@ msgid "Chagatai"
 msgstr ""
 
 #. Name for chk
+#, fuzzy
 msgid "Chuukese"
-msgstr ""
+msgstr "Κινέζικα"
 
 #. Name for chm
 msgid "Mari"
@@ -399,30 +405,31 @@ msgstr "Κορσικανικά"
 #. Name for cpe
 #, fuzzy
 msgid "Creoles and pidgins, English based"
-msgstr "Κρεολέ και pidgins, βασισμένη στα Αγγλικά"
+msgstr "Βασισμένη στην Αγγλική (άλλη)"
 
 #. Name for cpf
 #, fuzzy
 msgid "Creoles and pidgins, French-based"
-msgstr "Κρεολέ και pidgins, βασισμένη στα Γαλλικά"
+msgstr "Βασισμένη στην Γαλλική (άλλη)"
 
 #. Name for cpp
 #, fuzzy
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "Κρεολέ και pidgins, βασισμένη στα Πορτογαλικά"
+msgstr "Βασισμένη στην Πορτογαλική (άλλη)"
 
 #. Name for cre
 msgid "Cree"
 msgstr ""
 
 #. Name for crh
+#, fuzzy
 msgid "Crimean Tatar; Crimean Turkish"
-msgstr "Ταταρικά Κριμαίας, Τουρκικά Κριμαίας"
+msgstr "Τουρκικά Κριμαίας, Ταταρικά Κριμαίας"
 
 #. Name for crp
 #, fuzzy
 msgid "Creoles and pidgins"
-msgstr "Κρεολέ και pidgins"
+msgstr "Βασισμένη στην Γαλλική (άλλη)"
 
 #. Name for csb
 msgid "Kashubian"
@@ -431,7 +438,7 @@ msgstr ""
 #. Name for cus
 #, fuzzy
 msgid "Cushitic languages"
-msgstr "Κουσιτικές γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for cym
 msgid "Welsh"
@@ -452,7 +459,7 @@ msgstr ""
 #. Name for day
 #, fuzzy
 msgid "Land Dayak languages"
-msgstr "Land Dayak γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for del
 msgid "Delaware"
@@ -485,7 +492,7 @@ msgstr ""
 #. Name for dra
 #, fuzzy
 msgid "Dravidian languages"
-msgstr "Dravidian γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for dsb
 msgid "Lower Sorbian"
@@ -586,7 +593,7 @@ msgstr "Φινλανδικά"
 #. Name for fiu
 #, fuzzy
 msgid "Finno-Ugrian languages"
-msgstr "Finno-Ugrian γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for fon
 msgid "Fon"
@@ -611,7 +618,7 @@ msgstr ""
 #. Name for frs
 #, fuzzy
 msgid "Eastern Frisian"
-msgstr "Ανατολικά Frisian"
+msgstr "Εσθονικά"
 
 #. Name for fry
 msgid "Western Frisian"
@@ -640,11 +647,12 @@ msgstr ""
 #. Name for gem
 #, fuzzy
 msgid "Germanic languages"
-msgstr "Γερμανικές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for gez
+#, fuzzy
 msgid "Geez"
-msgstr ""
+msgstr "Ελληνικά"
 
 #. Name for gil
 msgid "Gilbertese"
@@ -653,7 +661,7 @@ msgstr ""
 #. Name for gla
 #, fuzzy
 msgid "Gaelic; Scottish Gaelic"
-msgstr "Γαελική, Σκωτική γαελική"
+msgstr "Κέλτικα, Σκωτσέζικα"
 
 #. Name for gle
 msgid "Irish"
@@ -798,7 +806,7 @@ msgstr ""
 #. Name for ijo
 #, fuzzy
 msgid "Ijo languages"
-msgstr "Ijo γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for iku
 msgid "Inuktitut"
@@ -819,15 +827,16 @@ msgstr "Ιντερλίνγκουα (Διεθνής Ένωση Βοηθητική
 #. Name for inc
 #, fuzzy
 msgid "Indic languages"
-msgstr "Ινδικές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for ind
 msgid "Indonesian"
 msgstr "Ινδονησιακά"
 
 #. Name for ine
+#, fuzzy
 msgid "Indo-European languages"
-msgstr "Ινδο-Ευρωπαϊκές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for inh
 msgid "Ingush"
@@ -838,8 +847,9 @@ msgid "Inupiaq"
 msgstr ""
 
 #. Name for ira
+#, fuzzy
 msgid "Iranian languages"
-msgstr "Ιρανικές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for iro
 msgid "Iroquoian languages"
@@ -888,7 +898,7 @@ msgstr ""
 #. Name for kal
 #, fuzzy
 msgid "Kalaallisut; Greenlandic"
-msgstr "Kalaallisut, Γροιλανδικά"
+msgstr "Γροιλανδικά (Kalaallisut)"
 
 #. Name for kam
 msgid "Kamba"
@@ -901,7 +911,7 @@ msgstr ""
 #. Name for kar
 #, fuzzy
 msgid "Karen languages"
-msgstr "Κάρεν γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for kas
 msgid "Kashmiri"
@@ -930,12 +940,12 @@ msgstr ""
 #. Name for kha
 #, fuzzy
 msgid "Khasi"
-msgstr "Κάζι"
+msgstr "Ταϊλανδέζικη"
 
 #. Name for khi
 #, fuzzy
 msgid "Khoisan languages"
-msgstr "Khoisan γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for khm
 msgid "Central Khmer"
@@ -992,12 +1002,12 @@ msgstr ""
 #. Name for krl
 #, fuzzy
 msgid "Karelian"
-msgstr "Καρελιακά"
+msgstr "Κορεάτικα"
 
 #. Name for kro
 #, fuzzy
 msgid "Kru languages"
-msgstr "Kru γλώσσες"
+msgstr "Πολλαπλές γλώσσες"
 
 #. Name for kru
 msgid "Kurukh"
@@ -1131,7 +1141,7 @@ msgstr ""
 #. Name for map
 #, fuzzy
 msgid "Austronesian languages"
-msgstr "Αυστραλονησιακές γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for mar
 msgid "Marathi"
@@ -1177,7 +1187,7 @@ msgstr "Σλαβομακεδονικά"
 #. Name for mkh
 #, fuzzy
 msgid "Mon-Khmer languages"
-msgstr "Μον-Χμερ γλώσσες"
+msgstr "Πολλαπλές γλώσσες"
 
 #. Name for mlg
 msgid "Malagasy"
@@ -1235,7 +1245,7 @@ msgstr ""
 #. Name for mwl
 #, fuzzy
 msgid "Mirandese"
-msgstr "Μιραντέζικα"
+msgstr "Κινέζικα"
 
 #. Name for mwr
 msgid "Marwari"
@@ -1256,11 +1266,12 @@ msgstr ""
 #. Name for nah
 #, fuzzy
 msgid "Nahuatl languages"
-msgstr "Nahuatl γλώσσες"
+msgstr "Πολλαπλές γλώσσες"
 
 #. Name for nai
+#, fuzzy
 msgid "North American Indian languages"
-msgstr "Ινδιάνικες γλώσσες Βόρειας Αμερικής"
+msgstr "Ινδιάνικα Νότιας Αμερικής (άλλη)"
 
 #. Name for nap
 msgid "Neapolitan"
@@ -1287,8 +1298,9 @@ msgid "Ndonga"
 msgstr ""
 
 #. Name for nds
+#, fuzzy
 msgid "Low German; Low Saxon; German, Low; Saxon, Low"
-msgstr "Κάτω Γερμανικά; Κάτω Σαξονικά; Γερμανικά, κάτω; Σαξονικά, κάτω"
+msgstr "German, Low"
 
 #. Name for nep
 msgid "Nepali"
@@ -1305,7 +1317,7 @@ msgstr ""
 #. Name for nic
 #, fuzzy
 msgid "Niger-Kordofanian languages"
-msgstr "Niger-Kordofanian γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for niu
 msgid "Niuean"
@@ -1405,8 +1417,9 @@ msgid "Otomian languages"
 msgstr ""
 
 #. Name for paa
+#, fuzzy
 msgid "Papuan languages"
-msgstr "Παπούα γλώσσες"
+msgstr "Πολλαπλές γλώσσες"
 
 #. Name for pag
 msgid "Pangasinan"
@@ -1433,13 +1446,14 @@ msgid "Palauan"
 msgstr ""
 
 #. Name for peo
+#, fuzzy
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Περσικά, παλαιά (600-400 π.Χ.)"
+msgstr "Περσικά, Παλαιά (600-400 π.Χ.)"
 
 #. Name for phi
 #, fuzzy
 msgid "Philippine languages"
-msgstr "Φιλιππίνων γλώσσες"
+msgstr "Πολλαπλές γλώσσες"
 
 #. Name for phn
 msgid "Phoenician"
@@ -1468,7 +1482,7 @@ msgstr ""
 #. Name for pro
 #, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "Προβηγκικά, παλαιά (ως το 1500)"
+msgstr "Ιρλανδικά, Παλαιά (ως το 900)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1495,8 +1509,9 @@ msgid "Rarotongan; Cook Islands Maori"
 msgstr ""
 
 #. Name for roa
+#, fuzzy
 msgid "Romance languages"
-msgstr "Λατινογενείς γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for roh
 #, fuzzy
@@ -1511,7 +1526,7 @@ msgstr ""
 #, fuzzy
 #| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Ρουμανικά, Μολδαβικά"
+msgstr "Μολδαβιανά"
 
 #. Name for run
 msgid "Rundi"
@@ -1575,14 +1590,16 @@ msgid "Selkup"
 msgstr ""
 
 #. Name for sem
+#, fuzzy
 msgid "Semitic languages"
-msgstr "Σημιτικές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for sga
 msgid "Irish, Old (to 900)"
 msgstr "Ιρλανδικά, Παλαιά (ως το 900)"
 
 #. Name for sgn
+#, fuzzy
 msgid "Sign Languages"
 msgstr "Νοηματικές γλώσσες"
 
@@ -1603,12 +1620,14 @@ msgid "Siouan languages"
 msgstr ""
 
 #. Name for sit
+#, fuzzy
 msgid "Sino-Tibetan languages"
-msgstr "Σινο-θιβετιανές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for sla
+#, fuzzy
 msgid "Slavic languages"
-msgstr "Σλαβικές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for slk
 msgid "Slovak"
@@ -1629,7 +1648,7 @@ msgstr ""
 #. Name for smi
 #, fuzzy
 msgid "Sami languages"
-msgstr "Sami γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for smj
 msgid "Lule Sami"
@@ -1670,15 +1689,16 @@ msgstr "Σομαλικά"
 #. Name for son
 #, fuzzy
 msgid "Songhai languages"
-msgstr "Σονγκαϊκές γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for sot
 msgid "Sotho, Southern"
 msgstr ""
 
 #. Name for spa
+#, fuzzy
 msgid "Spanish; Castilian"
-msgstr "Ισπανικά, Καστιλιάνικα"
+msgstr "Ισπανικά"
 
 #. Name for sqi
 msgid "Albanian"
@@ -1691,7 +1711,7 @@ msgstr ""
 #. Name for srn
 #, fuzzy
 msgid "Sranan Tongo"
-msgstr "Σρανάρ Τόνγκο"
+msgstr "Ουκρανικά"
 
 #. Name for srp
 msgid "Serbian"
@@ -1704,7 +1724,7 @@ msgstr ""
 #. Name for ssa
 #, fuzzy
 msgid "Nilo-Saharan languages"
-msgstr "Nilo-Σαχάρια γλώσσες"
+msgstr "Πολλαπλές γλώσσες"
 
 #. Name for ssw
 msgid "Swati"
@@ -1747,8 +1767,9 @@ msgid "Tahitian"
 msgstr ""
 
 #. Name for tai
+#, fuzzy
 msgid "Tai languages"
-msgstr "Τάι γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for tam
 msgid "Tamil"
@@ -1807,8 +1828,9 @@ msgid "Klingon; tlhIngan-Hol"
 msgstr ""
 
 #. Name for tli
+#, fuzzy
 msgid "Tlingit"
-msgstr ""
+msgstr "Ινδουικά"
 
 #. Name for tmh
 msgid "Tamashek"
@@ -1855,8 +1877,9 @@ msgid "Turkish"
 msgstr "Τουρκικά"
 
 #. Name for tut
+#, fuzzy
 msgid "Altaic languages"
-msgstr "Αλταϊκές γλώσσες"
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for tvl
 msgid "Tuvalu"
@@ -2005,7 +2028,7 @@ msgstr "Κινέζικα"
 #. Name for znd
 #, fuzzy
 msgid "Zande languages"
-msgstr "Zande γλώσσες"
+msgstr "Νοηματικές γλώσσες"
 
 #. Name for zul
 msgid "Zulu"

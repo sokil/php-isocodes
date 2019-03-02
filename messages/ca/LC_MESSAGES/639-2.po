@@ -11,15 +11,14 @@
 # Toni Hermoso Pulido <toniher@softcatala.org>, 2010.
 # Jordi Mas i Hernàndez <jmas@softcatala.org>, 2015.
 # ferranroig <forums@ferranroig.com>, 2018.
-# Joan Montané <joan@montane.cat>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-24 08:04+0000\n"
-"Last-Translator: Joan Montané <joan@montane.cat>\n"
+"PO-Revision-Date: 2018-06-02 10:35+0000\n"
+"Last-Translator: ferranroig <forums@ferranroig.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/ca/>\n"
 "Language: ca\n"
@@ -27,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4\n"
+"X-Generator: Weblate 3.0\n"
 
 #. Name for aar
 msgid "Afar"
@@ -251,7 +250,7 @@ msgstr "siksika; peus negres"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr "bantu (altra)"
+msgstr ""
 
 #. Name for bod
 msgid "Tibetan"
@@ -920,8 +919,10 @@ msgid "Central Khmer"
 msgstr "khmer central"
 
 #. Name for kho
+#, fuzzy
+#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
-msgstr "khotanès; sakan"
+msgstr "khotanès"
 
 #. Name for kik
 msgid "Kikuyu; Gikuyu"
@@ -1340,8 +1341,10 @@ msgid "Nzima"
 msgstr "nzema; nzima; appolo"
 
 #. Name for oci
+#, fuzzy
+#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "occità (després del 1500); provençal"
+msgstr "occità (després del 1500)"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1432,8 +1435,10 @@ msgid "Prakrit languages"
 msgstr "llengües pràcrits"
 
 #. Name for pro
+#, fuzzy
+#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "provençal antic (fins al 1500)"
+msgstr "provençal antic (fins al 1500); occità antic (fins al 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1472,8 +1477,10 @@ msgid "Romany"
 msgstr "romaní"
 
 #. Name for ron
+#, fuzzy
+#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "romanès; moldau"
+msgstr "moldau"
 
 #. Name for run
 msgid "Rundi"
@@ -1500,8 +1507,10 @@ msgid "Yakut"
 msgstr "iacut"
 
 #. Name for sai
+#, fuzzy
+#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "llengua ameríndia d'Amèrica del Sud (altra)"
+msgstr "llengües ameríndies d'Amèrica del Sud"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1885,7 +1894,7 @@ msgstr "llengües wakashan"
 
 #. Name for wal
 msgid "Walamo"
-msgstr "walamo"
+msgstr ""
 
 #. Name for war
 msgid "Waray"

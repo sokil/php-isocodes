@@ -22,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-10-14 12:06+0200\n"
-"PO-Revision-Date: 2018-12-21 09:09+0000\n"
+"PO-Revision-Date: 2018-06-14 14:36+0000\n"
 "Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/nl/>\n"
@@ -31,7 +31,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.0.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -7624,6 +7624,8 @@ msgid "Chhattisgarh"
 msgstr "Chhattisgarh"
 
 #. Name for IN-DD
+#, fuzzy
+#| msgid "Damen and Diu"
 msgid "Daman and Diu"
 msgstr "Daman en Diu"
 
@@ -7697,7 +7699,7 @@ msgstr "Nagaland"
 
 #. Name for IN-OR
 msgid "Odisha"
-msgstr "Odisha"
+msgstr ""
 
 #. Name for IN-PB, Name for PK-PB
 msgid "Punjab"
@@ -7716,8 +7718,10 @@ msgid "Sikkim"
 msgstr "Sikkim"
 
 #. Name for IN-TG
+#, fuzzy
+#| msgid "Tanga"
 msgid "Telangana"
-msgstr "Telangana"
+msgstr "Tanga"
 
 #. Name for IN-TN
 msgid "Tamil Nadu"
@@ -12080,11 +12084,11 @@ msgstr "Chiapas"
 
 #. Name for MX-CMX
 msgid "Ciudad de México"
-msgstr "Mexico-Stad"
+msgstr ""
 
 #. Name for MX-COA
 msgid "Coahuila de Zaragoza"
-msgstr "Coahuila de Zaragoza"
+msgstr ""
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12115,8 +12119,10 @@ msgid "México"
 msgstr "Mexico"
 
 #. Name for MX-MIC
+#, fuzzy
+#| msgid "Michoacán"
 msgid "Michoacán de Ocampo"
-msgstr "Michoacán de Ocampo"
+msgstr "Michoacán"
 
 #. Name for MX-MOR
 msgid "Morelos"
@@ -12172,7 +12178,7 @@ msgstr "Tlaxcala"
 
 #. Name for MX-VER
 msgid "Veracruz de Ignacio de la Llave"
-msgstr "Veracruz de Ignacio de la Llave"
+msgstr ""
 
 #. Name for MX-YUC
 msgid "Yucatán"

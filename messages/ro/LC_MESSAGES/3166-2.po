@@ -8,15 +8,14 @@
 # Claudiu Costin <claudiuc@geocities.com>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
-# Andrei POPESCU <andreimpopescu@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-10-14 12:06+0200\n"
-"PO-Revision-Date: 2018-11-30 15:08+0000\n"
-"Last-Translator: Andrei POPESCU <andreimpopescu@gmail.com>\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/ro/>\n"
 "Language: ro\n"
@@ -25,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:02+0000\n"
 
 #. Name for AD-02
@@ -6316,7 +6315,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr "Regatul Unit"
+msgstr "Regatul unit al Marii Britanii"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -12956,6 +12955,7 @@ msgid "Aruba"
 msgstr "Aruba"
 
 #. Name for NL-CW
+#, fuzzy
 msgid "Curaçao"
 msgstr "Curaçao"
 
@@ -18578,7 +18578,7 @@ msgstr "Texas"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "Insulele de Coasta ale Statelor Unite"
+msgstr "Insulele de Coastă ale Statelor Unite"
 
 #. Name for US-UT
 msgid "Utah"

@@ -8,15 +8,14 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # JOE MAN <trmetal@yahoo.com.hk>, 2001.
 # Cheng-Chia Tseng <pswo10680@gmail.com>, 2017.
-# Louies <louies0623@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-14 17:21+0000\n"
-"Last-Translator: Louies <louies0623@gmail.com>\n"
+"PO-Revision-Date: 2017-12-21 08:38+0000\n"
+"Last-Translator: Chang-Chia Tseng <pswo10680@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-639-3/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -24,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 2.18\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -38,7 +37,7 @@ msgstr ""
 #. Name for aac
 #, fuzzy
 msgid "Ari"
-msgstr "阿里"
+msgstr "阿拉伯"
 
 #. Name for aad
 msgid "Amal"
@@ -296,8 +295,9 @@ msgid "Gikyode"
 msgstr ""
 
 #. Name for ace
+#, fuzzy
 msgid "Achinese"
-msgstr "亞齊語"
+msgstr "中文"
 
 #. Name for acf
 msgid "Saint Lucian Creole French"
@@ -472,7 +472,7 @@ msgstr ""
 
 #. Name for ads
 msgid "Adamorobe Sign Language"
-msgstr "阿達莫羅貝手語"
+msgstr ""
 
 #. Name for adt
 msgid "Adnyamathanha"
@@ -528,7 +528,7 @@ msgstr "阿拉伯"
 
 #. Name for aed
 msgid "Argentine Sign Language"
-msgstr "阿根廷手語"
+msgstr ""
 
 #. Name for aee
 #, fuzzy
@@ -554,7 +554,7 @@ msgstr ""
 
 #. Name for aen
 msgid "Armenian Sign Language"
-msgstr "亞美尼亞手語"
+msgstr ""
 
 #. Name for aeq
 msgid "Aer"
@@ -612,7 +612,7 @@ msgstr ""
 
 #. Name for afg
 msgid "Afghan Sign Language"
-msgstr "阿富汗手語"
+msgstr ""
 
 #. Name for afh
 msgid "Afrihili"
@@ -724,8 +724,9 @@ msgid "Fembe"
 msgstr ""
 
 #. Name for agm
+#, fuzzy
 msgid "Angaataha"
-msgstr ""
+msgstr "加泰隆文"
 
 #. Name for agn
 msgid "Agutaynen"
@@ -1034,8 +1035,9 @@ msgid "Karbi, Amri"
 msgstr "土耳其"
 
 #. Name for aka
+#, fuzzy
 msgid "Akan"
-msgstr "迦納語"
+msgstr "南非荷蘭文"
 
 #. Name for akb
 #, fuzzy
@@ -1076,8 +1078,9 @@ msgid "Aka-Jeru"
 msgstr ""
 
 #. Name for akk
+#, fuzzy
 msgid "Akkadian"
-msgstr "阿卡德語"
+msgstr "阿爾巴尼亞文"
 
 #. Name for akl
 #, fuzzy
@@ -1279,8 +1282,9 @@ msgid "Amurdak"
 msgstr ""
 
 #. Name for amh
+#, fuzzy
 msgid "Amharic"
-msgstr "阿姆哈拉語"
+msgstr "阿拉伯"
 
 #. Name for ami
 msgid "Amis"
@@ -1400,11 +1404,11 @@ msgstr ""
 
 #. Name for ang
 msgid "Old English (ca. 450-1100)"
-msgstr "古英語 (約 450-1100)"
+msgstr ""
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "古英語 (約 450-1100)"
+msgstr "古英語(約 450-1100)"
 
 #. Name for anh
 msgid "Nend"
@@ -1446,8 +1450,9 @@ msgid "Andoque"
 msgstr ""
 
 #. Name for anp
+#, fuzzy
 msgid "Angika"
-msgstr "昂加語"
+msgstr "南非荷蘭文"
 
 #. Name for anq
 #, fuzzy
@@ -1774,7 +1779,7 @@ msgstr "南非荷蘭文"
 
 #. Name for ara
 msgid "Arabic"
-msgstr "阿拉伯語"
+msgstr "阿拉伯"
 
 #. Name for arb
 msgid "Standard Arabic"
@@ -1807,8 +1812,9 @@ msgid "Arrarnta, Western"
 msgstr ""
 
 #. Name for arg
+#, fuzzy
 msgid "Aragonese"
-msgstr "阿拉貢語"
+msgstr "法羅文"
 
 #. Name for arh
 #, fuzzy
@@ -1926,11 +1932,11 @@ msgstr ""
 
 #. Name for ase
 msgid "American Sign Language"
-msgstr "美國手語"
+msgstr ""
 
 #. Name for asf
 msgid "Australian Sign Language"
-msgstr "澳大利亞手語"
+msgstr ""
 
 #. Name for asg
 msgid "Cishingini"
@@ -1977,11 +1983,11 @@ msgstr "位置"
 
 #. Name for asp
 msgid "Algerian Sign Language"
-msgstr "阿爾及利亞手語"
+msgstr ""
 
 #. Name for asq
 msgid "Austrian Sign Language"
-msgstr "奧地利手語"
+msgstr ""
 
 #. Name for asr
 msgid "Asuri"
@@ -2010,7 +2016,7 @@ msgstr ""
 
 #. Name for asw
 msgid "Australian Aborigines Sign Language"
-msgstr "澳大利亞原住民手語"
+msgstr ""
 
 #. Name for asx
 msgid "Muratayak"
@@ -2255,8 +2261,9 @@ msgid "Arabic, Uzbeki"
 msgstr "阿拉伯"
 
 #. Name for ava
+#, fuzzy
 msgid "Avaric"
-msgstr "阿瓦爾語"
+msgstr "阿拉伯"
 
 #. Name for avb
 #, fuzzy
@@ -2269,7 +2276,7 @@ msgstr ""
 
 #. Name for ave
 msgid "Avestan"
-msgstr "阿維斯語"
+msgstr "阿維斯塔語"
 
 #. Name for avi
 #, fuzzy
@@ -2444,11 +2451,11 @@ msgstr "烏黑蘭文"
 
 #. Name for axm
 msgid "Middle Armenian"
-msgstr "中古亞美尼亞語"
+msgstr ""
 
 #. Inverted name for axm
 msgid "Armenian, Middle"
-msgstr "中古亞美尼亞語"
+msgstr ""
 
 #. Name for axx
 msgid "Xârâgurè"
@@ -2610,7 +2617,7 @@ msgstr ""
 
 #. Name for aze
 msgid "Azerbaijani"
-msgstr "亞塞拜然語"
+msgstr "亞塞拜疆文"
 
 #. Name for azg
 msgid "San Pedro Amuzgos Amuzgo"
@@ -2717,8 +2724,9 @@ msgid "Bambara"
 msgstr "班巴拉語"
 
 #. Name for ban
+#, fuzzy
 msgid "Balinese"
-msgstr "峇里語"
+msgstr "中文"
 
 #. Name for bao
 msgid "Waimaha"
@@ -3189,19 +3197,21 @@ msgstr "波羅的海"
 
 #. Name for bel
 msgid "Belarusian"
-msgstr "白俄羅斯語"
+msgstr "白俄羅斯文"
 
 #. Name for bem
 msgid "Bemba (Zambia)"
 msgstr ""
 
 #. Name for ben
+#, fuzzy
 msgid "Bengali"
-msgstr "孟加拉語"
+msgstr "波羅的海"
 
 #. Common name for ben
+#, fuzzy
 msgid "Bangla"
-msgstr "孟加拉語"
+msgstr "波羅的海"
 
 #. Name for beo
 #, fuzzy
@@ -3309,7 +3319,7 @@ msgstr ""
 
 #. Name for bfi
 msgid "British Sign Language"
-msgstr "英國手語"
+msgstr ""
 
 #. Name for bfj
 msgid "Bafanji"
@@ -3317,7 +3327,7 @@ msgstr ""
 
 #. Name for bfk
 msgid "Ban Khor Sign Language"
-msgstr "班霍爾手語"
+msgstr ""
 
 #. Name for bfl
 msgid "Banda-Ndélé"
@@ -3966,7 +3976,7 @@ msgstr "尋找："
 
 #. Name for bku
 msgid "Buhid"
-msgstr "布黑德語"
+msgstr ""
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -4368,7 +4378,7 @@ msgstr "尋找："
 
 #. Name for bog
 msgid "Bamako Sign Language"
-msgstr "巴馬科手語"
+msgstr ""
 
 #. Name for boh
 #, fuzzy
@@ -4424,8 +4434,9 @@ msgid "Borôro"
 msgstr ""
 
 #. Name for bos
+#, fuzzy
 msgid "Bosnian"
-msgstr "波士尼亞語"
+msgstr "羅馬尼亞文"
 
 #. Name for bot
 msgid "Bongo"
@@ -4636,7 +4647,7 @@ msgstr ""
 
 #. Name for bqn
 msgid "Bulgarian Sign Language"
-msgstr "保加利亞手語"
+msgstr ""
 
 #. Name for bqo
 msgid "Balo"
@@ -4685,7 +4696,7 @@ msgstr "波羅的海"
 
 #. Name for bqy
 msgid "Bengkala Sign Language"
-msgstr "本加拉手語"
+msgstr ""
 
 #. Name for bqz
 #, fuzzy
@@ -4714,7 +4725,7 @@ msgstr ""
 
 #. Name for bre
 msgid "Breton"
-msgstr "布里敦語"
+msgstr "布列塔尼文"
 
 #. Name for brf
 #, fuzzy
@@ -5054,8 +5065,9 @@ msgid "Batak Alas-Kluet"
 msgstr ""
 
 #. Name for bua
+#, fuzzy
 msgid "Buriat"
-msgstr "布里亞特語"
+msgstr "保加利亞文"
 
 #. Name for bub
 #, fuzzy
@@ -5080,8 +5092,9 @@ msgid "Bushoong"
 msgstr ""
 
 #. Name for bug
+#, fuzzy
 msgid "Buginese"
-msgstr "布吉斯語"
+msgstr "中文"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -5107,7 +5120,7 @@ msgstr "保加利亞文"
 
 #. Name for bul
 msgid "Bulgarian"
-msgstr "保加利亞語"
+msgstr "保加利亞文"
 
 #. Name for bum
 msgid "Bulu (Cameroon)"
@@ -5223,7 +5236,7 @@ msgstr "保加利亞文"
 
 #. Name for bvl
 msgid "Bolivian Sign Language"
-msgstr "玻利維亞手語"
+msgstr ""
 
 #. Name for bvm
 msgid "Bamunka"
@@ -5541,8 +5554,9 @@ msgid "Binahari"
 msgstr "泰國"
 
 #. Name for bya
+#, fuzzy
 msgid "Batak"
-msgstr "巴塔克語"
+msgstr "暫停"
 
 #. Name for byb
 msgid "Bikya"
@@ -5749,7 +5763,7 @@ msgstr "泰國"
 
 #. Name for bzs
 msgid "Brazilian Sign Language"
-msgstr "巴西手語"
+msgstr ""
 
 #. Name for bzt
 #, fuzzy
@@ -5866,8 +5880,9 @@ msgid "Nicobarese, Car"
 msgstr ""
 
 #. Name for car
+#, fuzzy
 msgid "Galibi Carib"
-msgstr "加勒比語"
+msgstr "Galeon"
 
 #. Inverted name for car
 msgid "Carib, Galibi"
@@ -5880,7 +5895,7 @@ msgstr "烏黑蘭文"
 
 #. Name for cat
 msgid "Catalan"
-msgstr "加泰隆尼亞語"
+msgstr "加泰隆文"
 
 #. Name for cav
 msgid "Cavineña"
@@ -6047,7 +6062,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr "查克馬語"
+msgstr ""
 
 #. Name for ccr
 msgid "Cacaopera"
@@ -6095,7 +6110,7 @@ msgstr ""
 
 #. Name for cdo
 msgid "Min Dong Chinese"
-msgstr "閩東語 漢語"
+msgstr "閩東語"
 
 #. Inverted name for cdo
 msgid "Chinese, Min Dong"
@@ -6107,7 +6122,7 @@ msgstr ""
 
 #. Name for cds
 msgid "Chadian Sign Language"
-msgstr "查德手語"
+msgstr ""
 
 #. Name for cdy
 #, fuzzy
@@ -6153,7 +6168,7 @@ msgstr "中文"
 
 #. Name for ces
 msgid "Czech"
-msgstr "捷克語"
+msgstr "捷克文"
 
 #. Name for cet
 msgid "Centúúm"
@@ -6219,8 +6234,9 @@ msgid "Chontal, Highland Oaxaca"
 msgstr ""
 
 #. Name for che
+#, fuzzy
 msgid "Chechen"
-msgstr "車臣語"
+msgstr "捷克文"
 
 #. Name for chf
 msgid "Tabasco Chontal"
@@ -6247,8 +6263,9 @@ msgid "Chinantec, Ojitlán"
 msgstr ""
 
 #. Name for chk
+#, fuzzy
 msgid "Chuukese"
-msgstr "丘克語"
+msgstr "中文"
 
 #. Name for chl
 msgid "Cahuilla"
@@ -6450,7 +6467,7 @@ msgstr "中文"
 
 #. Name for cjy
 msgid "Jinyu Chinese"
-msgstr "晉語 漢語"
+msgstr "晉語"
 
 #. Inverted name for cjy
 msgid "Chinese, Jinyu"
@@ -6654,7 +6671,7 @@ msgstr ""
 
 #. Name for cmn
 msgid "Mandarin Chinese"
-msgstr "官話 漢語"
+msgstr "官話漢語"
 
 #. Inverted name for cmn
 msgid "Chinese, Mandarin"
@@ -6777,12 +6794,14 @@ msgid "Chin, Ngawn"
 msgstr ""
 
 #. Name for cnx
+#, fuzzy
 msgid "Middle Cornish"
-msgstr "中古康瓦爾語"
+msgstr "色彩"
 
 #. Inverted name for cnx
+#, fuzzy
 msgid "Cornish, Middle"
-msgstr "中古康瓦爾語"
+msgstr "色彩"
 
 #. Name for coa
 msgid "Cocos Islands Malay"
@@ -6859,8 +6878,9 @@ msgid "Coquille"
 msgstr ""
 
 #. Name for cor
+#, fuzzy
 msgid "Cornish"
-msgstr "康沃爾語"
+msgstr "色彩"
 
 #. Name for cos
 msgid "Corsican"
@@ -6922,7 +6942,7 @@ msgstr ""
 
 #. Name for cpi
 msgid "Chinese Pidgin English"
-msgstr "漢語 洋涇浜英語"
+msgstr "洋涇浜英語"
 
 #. Inverted name for cpi
 msgid "Pidgin English, Chinese"
@@ -6951,7 +6971,7 @@ msgstr ""
 
 #. Name for cpx
 msgid "Pu-Xian Chinese"
-msgstr "莆仙語 漢語"
+msgstr "莆仙語"
 
 #. Inverted name for cpx
 msgid "Chinese, Pu-Xian"
@@ -6995,8 +7015,9 @@ msgid "Coeur d'Alene"
 msgstr ""
 
 #. Name for cre
+#, fuzzy
 msgid "Cree"
-msgstr "克里語"
+msgstr "希臘"
 
 #. Name for crf
 #, fuzzy
@@ -7133,23 +7154,23 @@ msgstr "卡舒比語"
 
 #. Name for csc
 msgid "Catalan Sign Language"
-msgstr "加泰隆尼亞手語"
+msgstr ""
 
 #. Name for csd
 msgid "Chiangmai Sign Language"
-msgstr "清邁手語"
+msgstr ""
 
 #. Name for cse
 msgid "Czech Sign Language"
-msgstr "捷克手語"
+msgstr ""
 
 #. Name for csf
 msgid "Cuba Sign Language"
-msgstr "古巴手語"
+msgstr ""
 
 #. Name for csg
 msgid "Chilean Sign Language"
-msgstr "智利手語"
+msgstr ""
 
 #. Name for csh
 msgid "Asho Chin"
@@ -7195,7 +7216,7 @@ msgstr ""
 
 #. Name for csn
 msgid "Colombian Sign Language"
-msgstr "哥倫比亞手語"
+msgstr ""
 
 #. Name for cso
 msgid "Sochiapam Chinantec"
@@ -7207,11 +7228,11 @@ msgstr ""
 
 #. Name for csq
 msgid "Croatia Sign Language"
-msgstr "克羅埃西亞手語"
+msgstr ""
 
 #. Name for csr
 msgid "Costa Rican Sign Language"
-msgstr "哥斯大黎加手語"
+msgstr ""
 
 #. Name for css
 msgid "Southern Ohlone"
@@ -7522,7 +7543,7 @@ msgstr ""
 
 #. Name for czh
 msgid "Huizhou Chinese"
-msgstr "徽州語 漢語"
+msgstr "徽州語"
 
 #. Inverted name for czh
 msgid "Chinese, Huizhou"
@@ -7543,7 +7564,7 @@ msgstr ""
 
 #. Name for czo
 msgid "Min Zhong Chinese"
-msgstr "閩中語 漢語"
+msgstr "閩中語"
 
 #. Inverted name for czo
 msgid "Chinese, Min Zhong"
@@ -7613,7 +7634,7 @@ msgstr "邊界"
 
 #. Name for dan
 msgid "Danish"
-msgstr "丹麥語"
+msgstr "丹麥文"
 
 #. Name for dao
 #, fuzzy
@@ -7634,8 +7655,9 @@ msgid "Maria, Dandami"
 msgstr ""
 
 #. Name for dar
+#, fuzzy
 msgid "Dargwa"
-msgstr "達爾格瓦語"
+msgstr "邊界"
 
 #. Name for das
 msgid "Daho-Doo"
@@ -7872,7 +7894,7 @@ msgstr ""
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr "史拉維語 (阿薩帕斯坎語)"
+msgstr "史拉維語"
 
 #. Name for dep
 msgid "Pidgin Delaware"
@@ -7898,7 +7920,7 @@ msgstr "列印"
 
 #. Name for deu
 msgid "German"
-msgstr "德語"
+msgstr "德文"
 
 #. Name for dev
 msgid "Domung"
@@ -8499,8 +8521,9 @@ msgid "Domu"
 msgstr ""
 
 #. Name for doh
+#, fuzzy
 msgid "Dong"
-msgstr "侗語"
+msgstr "邊界"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -8531,7 +8554,7 @@ msgstr "暫停"
 
 #. Name for doq
 msgid "Dominican Sign Language"
-msgstr "多明尼加手語"
+msgstr ""
 
 #. Name for dor
 #, fuzzy
@@ -8651,8 +8674,9 @@ msgid "Darai"
 msgstr "邊界"
 
 #. Name for dsb
+#, fuzzy
 msgid "Lower Sorbian"
-msgstr "低地文德語"
+msgstr "塞爾維亞文"
 
 #. Inverted name for dsb
 #, fuzzy
@@ -8661,7 +8685,7 @@ msgstr "德文"
 
 #. Name for dse
 msgid "Dutch Sign Language"
-msgstr "荷蘭手語"
+msgstr ""
 
 #. Name for dsh
 msgid "Daasanach"
@@ -8674,7 +8698,7 @@ msgstr "丹麥文"
 
 #. Name for dsl
 msgid "Danish Sign Language"
-msgstr "丹麥手語"
+msgstr ""
 
 #. Name for dsn
 msgid "Dusner"
@@ -8842,7 +8866,7 @@ msgstr ""
 
 #. Name for dum
 msgid "Middle Dutch (ca. 1050-1350)"
-msgstr "中古荷蘭語 (約 1050-1350)"
+msgstr ""
 
 #. Inverted name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
@@ -9055,7 +9079,7 @@ msgstr "韓國"
 
 #. Name for ecs
 msgid "Ecuadorian Sign Language"
-msgstr "厄瓜多手語"
+msgstr ""
 
 #. Name for ecy
 msgid "Eteocypriot"
@@ -9333,7 +9357,7 @@ msgstr ""
 
 #. Name for eng
 msgid "English"
-msgstr "英語"
+msgstr "英文"
 
 #. Name for enh
 msgid "Tundra Enets"
@@ -9349,7 +9373,7 @@ msgstr ""
 
 #. Name for enm
 msgid "Middle English (1100-1500)"
-msgstr "中古英語 (1100-1500)"
+msgstr ""
 
 #. Inverted name for enm
 msgid "English, Middle (1100-1500)"
@@ -9483,7 +9507,7 @@ msgstr ""
 
 #. Name for esl
 msgid "Egypt Sign Language"
-msgstr "埃及手語"
+msgstr ""
 
 #. Name for esm
 msgid "Esuma"
@@ -9491,11 +9515,11 @@ msgstr ""
 
 #. Name for esn
 msgid "Salvadoran Sign Language"
-msgstr "薩爾瓦多手語"
+msgstr ""
 
 #. Name for eso
 msgid "Estonian Sign Language"
-msgstr "愛沙尼亞手語"
+msgstr ""
 
 #. Name for esq
 msgid "Esselen"
@@ -9511,7 +9535,7 @@ msgstr ""
 
 #. Name for est
 msgid "Estonian"
-msgstr "愛沙尼亞語"
+msgstr "愛沙尼亞文"
 
 #. Name for esu
 msgid "Central Yupik"
@@ -9536,7 +9560,7 @@ msgstr ""
 
 #. Name for eth
 msgid "Ethiopian Sign Language"
-msgstr "衣索比亞手語"
+msgstr ""
 
 #. Name for etn
 msgid "Eton (Vanuatu)"
@@ -9572,7 +9596,7 @@ msgstr ""
 
 #. Name for eus
 msgid "Basque"
-msgstr "巴斯克語"
+msgstr "巴斯克文"
 
 #. Name for eve
 msgid "Even"
@@ -9678,7 +9702,7 @@ msgstr ""
 
 #. Name for fao
 msgid "Faroese"
-msgstr "法羅群島語"
+msgstr "法羅文"
 
 #. Name for fap
 #, fuzzy
@@ -9691,12 +9715,14 @@ msgid "Fataleka"
 msgstr "加泰隆文"
 
 #. Name for fas
+#, fuzzy
 msgid "Persian"
-msgstr "波斯語"
+msgstr "列印"
 
 #. Name for fat
+#, fuzzy
 msgid "Fanti"
-msgstr "芳蒂語"
+msgstr "位置"
 
 #. Name for fau
 msgid "Fayu"
@@ -9735,7 +9761,7 @@ msgstr ""
 
 #. Name for fcs
 msgid "Quebec Sign Language"
-msgstr "魁北克手語"
+msgstr ""
 
 #. Name for fer
 #, fuzzy
@@ -9777,7 +9803,7 @@ msgstr "烏黑蘭文"
 
 #. Name for fin
 msgid "Finnish"
-msgstr "芬蘭語"
+msgstr "芬蘭文"
 
 #. Name for fip
 msgid "Fipa"
@@ -9916,7 +9942,7 @@ msgstr "法羅文"
 
 #. Name for fra
 msgid "French"
-msgstr "法語"
+msgstr "法文"
 
 #. Name for frc
 #, fuzzy
@@ -9939,7 +9965,7 @@ msgstr "丹麥文"
 
 #. Name for frm
 msgid "Middle French (ca. 1400-1600)"
-msgstr "中古法語 (約 1400-1600)"
+msgstr ""
 
 #. Inverted name for frm
 msgid "French, Middle (ca. 1400-1600)"
@@ -9947,7 +9973,7 @@ msgstr "中古法語 (約 1400-1600)"
 
 #. Name for fro
 msgid "Old French (842-ca. 1400)"
-msgstr "古法語 (842-約 1400)"
+msgstr ""
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
@@ -9963,16 +9989,18 @@ msgid "Forak"
 msgstr ""
 
 #. Name for frr
+#, fuzzy
 msgid "Northern Frisian"
-msgstr "北夫里斯蘭語"
+msgstr "烏黑蘭文"
 
 #. Inverted name for frr
 msgid "Frisian, Northern"
 msgstr ""
 
 #. Name for frs
+#, fuzzy
 msgid "Eastern Frisian"
-msgstr "東夫里斯蘭語"
+msgstr "烏黑蘭文"
 
 #. Inverted name for frs
 #, fuzzy
@@ -9984,8 +10012,9 @@ msgid "Fortsenal"
 msgstr ""
 
 #. Name for fry
+#, fuzzy
 msgid "Western Frisian"
-msgstr "西夫里斯蘭語"
+msgstr "烏黑蘭文"
 
 #. Inverted name for fry
 #, fuzzy
@@ -9994,15 +10023,15 @@ msgstr "烏黑蘭文"
 
 #. Name for fse
 msgid "Finnish Sign Language"
-msgstr "芬蘭手語"
+msgstr ""
 
 #. Name for fsl
 msgid "French Sign Language"
-msgstr "法國手語"
+msgstr ""
 
 #. Name for fss
 msgid "Finland-Swedish Sign Language"
-msgstr "芬蘭瑞典語手語"
+msgstr ""
 
 #. Name for fub
 msgid "Adamawa Fulfulde"
@@ -10078,8 +10107,9 @@ msgid "Fulfulde, Central-Eastern Niger"
 msgstr ""
 
 #. Name for fur
+#, fuzzy
 msgid "Friulian"
-msgstr "弗留利語"
+msgstr "烏黑蘭文"
 
 #. Name for fut
 msgid "Futuna-Aniwa"
@@ -10178,7 +10208,7 @@ msgstr "Man"
 
 #. Name for gan
 msgid "Gan Chinese"
-msgstr "贛語 漢語"
+msgstr "贛語"
 
 #. Inverted name for gan
 msgid "Chinese, Gan"
@@ -10506,7 +10536,7 @@ msgstr ""
 
 #. Name for gds
 msgid "Ghandruk Sign Language"
-msgstr "甘杜克手語"
+msgstr ""
 
 #. Name for gdt
 #, fuzzy
@@ -10603,8 +10633,9 @@ msgid "Enya"
 msgstr ""
 
 #. Name for gez
+#, fuzzy
 msgid "Geez"
-msgstr "吉茲語"
+msgstr "希臘"
 
 #. Name for gfk
 msgid "Patpatar"
@@ -10747,8 +10778,9 @@ msgid "Githabul"
 msgstr ""
 
 #. Name for gil
+#, fuzzy
 msgid "Gilbertese"
-msgstr "吉伯特語"
+msgstr "越南"
 
 #. Name for gim
 msgid "Gimi (Eastern Highlands)"
@@ -10901,11 +10933,12 @@ msgstr "邊界"
 
 #. Name for gle
 msgid "Irish"
-msgstr "愛爾蘭語"
+msgstr "愛爾蘭文"
 
 #. Name for glg
+#, fuzzy
 msgid "Galician"
-msgstr "加里斯亞語"
+msgstr "Galeon"
 
 #. Name for glh
 #, fuzzy
@@ -10947,8 +10980,9 @@ msgid "Gula (Chad)"
 msgstr ""
 
 #. Name for glv
+#, fuzzy
 msgid "Manx"
-msgstr "馬恩語"
+msgstr "Man"
 
 #. Name for glw
 msgid "Glavda"
@@ -10977,7 +11011,7 @@ msgstr ""
 
 #. Name for gmh
 msgid "Middle High German (ca. 1050-1500)"
-msgstr "中古高地德語 (約 1050-1500)"
+msgstr ""
 
 #. Inverted name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
@@ -10985,11 +11019,12 @@ msgstr "中古高地德語 (約 1050-1500)"
 
 #. Name for gml
 msgid "Middle Low German"
-msgstr "中古低地德語"
+msgstr ""
 
 #. Inverted name for gml
+#, fuzzy
 msgid "German, Middle Low"
-msgstr "中古低地德語"
+msgstr "新增別名 (_A)"
 
 #. Name for gmm
 msgid "Gbaya-Mbodomo"
@@ -11151,7 +11186,7 @@ msgstr ""
 
 #. Name for goh
 msgid "Old High German (ca. 750-1050)"
-msgstr "古高地德語 (約 750-1050)"
+msgstr ""
 
 #. Inverted name for goh
 msgid "German, Old High (ca. 750-1050)"
@@ -11184,8 +11219,9 @@ msgid "Konkani, Goan"
 msgstr "韓國"
 
 #. Name for gon
+#, fuzzy
 msgid "Gondi"
-msgstr "貢德語"
+msgstr "尋找："
 
 #. Name for goo
 msgid "Gone Dau"
@@ -11281,8 +11317,9 @@ msgid "Garasia, Rajput"
 msgstr ""
 
 #. Name for grb
+#, fuzzy
 msgid "Grebo"
-msgstr "格列博語"
+msgstr "希臘"
 
 #. Name for grc
 msgid "Ancient Greek (to 1453)"
@@ -11324,7 +11361,7 @@ msgstr ""
 
 #. Name for grn
 msgid "Guarani"
-msgstr "瓜拉尼語"
+msgstr "瓜拉尼語(西印度)"
 
 #. Name for gro
 #, fuzzy
@@ -11386,11 +11423,11 @@ msgstr ""
 
 #. Name for gse
 msgid "Ghanaian Sign Language"
-msgstr "迦納手語"
+msgstr ""
 
 #. Name for gsg
 msgid "German Sign Language"
-msgstr "德國手語"
+msgstr ""
 
 #. Name for gsl
 msgid "Gusilay"
@@ -11398,7 +11435,7 @@ msgstr ""
 
 #. Name for gsm
 msgid "Guatemalan Sign Language"
-msgstr "瓜地馬拉手語"
+msgstr ""
 
 #. Name for gsn
 msgid "Nema"
@@ -11418,7 +11455,7 @@ msgstr ""
 
 #. Name for gss
 msgid "Greek Sign Language"
-msgstr "希臘手語"
+msgstr ""
 
 #. Name for gsw
 #, fuzzy
@@ -11533,7 +11570,7 @@ msgstr "法羅文"
 
 #. Name for gus
 msgid "Guinean Sign Language"
-msgstr "幾內亞手語"
+msgstr ""
 
 #. Name for gut
 msgid "Maléku Jaíka"
@@ -11771,7 +11808,7 @@ msgstr ""
 
 #. Name for hab
 msgid "Hanoi Sign Language"
-msgstr "河內市手語"
+msgstr ""
 
 #. Name for hac
 #, fuzzy
@@ -11793,7 +11830,7 @@ msgstr ""
 
 #. Name for haf
 msgid "Haiphong Sign Language"
-msgstr "海防市手語"
+msgstr ""
 
 #. Name for hag
 #, fuzzy
@@ -11805,8 +11842,9 @@ msgid "Hahon"
 msgstr ""
 
 #. Name for hai
+#, fuzzy
 msgid "Haida"
-msgstr "海達語"
+msgstr "尋找："
 
 #. Name for haj
 msgid "Hajong"
@@ -11814,7 +11852,7 @@ msgstr ""
 
 #. Name for hak
 msgid "Hakka Chinese"
-msgstr "客家語 漢語"
+msgstr "客家語"
 
 #. Inverted name for hak
 msgid "Chinese, Hakka"
@@ -11865,8 +11903,9 @@ msgid "Haitian"
 msgstr "拉脫維亞文"
 
 #. Name for hau
+#, fuzzy
 msgid "Hausa"
-msgstr "豪撒語(蘇丹)"
+msgstr "暫停"
 
 #. Name for hav
 #, fuzzy
@@ -11950,7 +11989,7 @@ msgstr ""
 
 #. Name for hds
 msgid "Honduras Sign Language"
-msgstr "洪都拉斯手語"
+msgstr ""
 
 #. Name for hdy
 #, fuzzy
@@ -11967,7 +12006,7 @@ msgstr ""
 
 #. Name for heb
 msgid "Hebrew"
-msgstr "希伯來語"
+msgstr "希伯來"
 
 #. Name for hed
 msgid "Herdé"
@@ -11991,8 +12030,9 @@ msgid "Hemba"
 msgstr ""
 
 #. Name for her
+#, fuzzy
 msgid "Herero"
-msgstr "赫雷羅語"
+msgstr "希伯來"
 
 #. Name for hgm
 msgid "Hai//om"
@@ -12069,8 +12109,9 @@ msgid "Hiligaynon"
 msgstr "希利蓋農語"
 
 #. Name for hin
+#, fuzzy
 msgid "Hindi"
-msgstr "印地語(北印度)"
+msgstr "尋找："
 
 #. Name for hio
 msgid "Tsoa"
@@ -12114,7 +12155,7 @@ msgstr ""
 
 #. Name for hks
 msgid "Hong Kong Sign Language"
-msgstr "香港手語"
+msgstr ""
 
 #. Name for hla
 #, fuzzy
@@ -12257,8 +12298,9 @@ msgid "Hmong"
 msgstr ""
 
 #. Name for hmo
+#, fuzzy
 msgid "Hiri Motu"
-msgstr "希里莫圖語"
+msgstr "尋找："
 
 #. Name for hmp
 msgid "Northern Mashan Hmong"
@@ -12439,7 +12481,7 @@ msgstr "希伯來"
 
 #. Name for hos
 msgid "Ho Chi Minh City Sign Language"
-msgstr "胡志明市手語"
+msgstr ""
 
 #. Name for hot
 msgid "Hote"
@@ -12467,8 +12509,10 @@ msgid "Hpon"
 msgstr ""
 
 #. Name for hps
+#, fuzzy
+#| msgid "Taiwan Sign Language"
 msgid "Hawai'i Sign Language (HSL)"
-msgstr "夏威夷手語 (HSL)"
+msgstr "臺灣手語"
 
 #. Name for hra
 msgid "Hrangkhol"
@@ -12515,7 +12559,7 @@ msgstr "暫停"
 
 #. Name for hrv
 msgid "Croatian"
-msgstr "克羅埃西亞語"
+msgstr "克羅地亞文"
 
 #. Name for hrw
 #, fuzzy
@@ -12533,8 +12577,9 @@ msgid "Harzani"
 msgstr "匈牙利文"
 
 #. Name for hsb
+#, fuzzy
 msgid "Upper Sorbian"
-msgstr "高地文德語"
+msgstr "塞爾維亞文"
 
 #. Inverted name for hsb
 msgid "Sorbian, Upper"
@@ -12542,15 +12587,15 @@ msgstr ""
 
 #. Name for hsh
 msgid "Hungarian Sign Language"
-msgstr "匈牙利手語"
+msgstr ""
 
 #. Name for hsl
 msgid "Hausa Sign Language"
-msgstr "豪薩手語"
+msgstr ""
 
 #. Name for hsn
 msgid "Xiang Chinese"
-msgstr "湘語 漢語"
+msgstr "湘語"
 
 #. Inverted name for hsn
 msgid "Chinese, Xiang"
@@ -12584,11 +12629,11 @@ msgstr ""
 
 #. Name for htx
 msgid "Middle Hittite"
-msgstr "中古西臺語"
+msgstr ""
 
 #. Inverted name for htx
 msgid "Hittite, Middle"
-msgstr "中古西臺語"
+msgstr ""
 
 #. Name for hub
 #, fuzzy
@@ -12654,7 +12699,7 @@ msgstr "匈牙利文"
 
 #. Name for hun
 msgid "Hungarian"
-msgstr "匈牙利語"
+msgstr "匈牙利文"
 
 #. Name for huo
 #, fuzzy
@@ -12662,8 +12707,9 @@ msgid "Hu"
 msgstr "暫停"
 
 #. Name for hup
+#, fuzzy
 msgid "Hupa"
-msgstr "胡帕語"
+msgstr "暫停"
 
 #. Name for huq
 msgid "Tsat"
@@ -12847,7 +12893,7 @@ msgstr ""
 
 #. Name for icl
 msgid "Icelandic Sign Language"
-msgstr "冰島手語"
+msgstr ""
 
 #. Name for icr
 msgid "Islander Creole English"
@@ -13084,8 +13130,9 @@ msgid "Ikaranggal"
 msgstr "韓國"
 
 #. Name for iks
+#, fuzzy
 msgid "Inuit Sign Language"
-msgstr "因紐特手語"
+msgstr "韓國"
 
 #. Name for ikt
 msgid "Inuinnaqtun"
@@ -13214,15 +13261,16 @@ msgstr "波羅的海"
 
 #. Name for ind
 msgid "Indonesian"
-msgstr "印尼語"
+msgstr "印尼文"
 
 #. Name for ing
 msgid "Degexit'an"
 msgstr ""
 
 #. Name for inh
+#, fuzzy
 msgid "Ingush"
-msgstr "印古什語"
+msgstr "英文"
 
 #. Name for inj
 msgid "Jungle Inga"
@@ -13234,7 +13282,7 @@ msgstr ""
 
 #. Name for inl
 msgid "Indonesian Sign Language"
-msgstr "印尼手語"
+msgstr ""
 
 #. Name for inm
 msgid "Minaean"
@@ -13255,7 +13303,7 @@ msgstr ""
 
 #. Name for ins
 msgid "Indian Sign Language"
-msgstr "印度手語"
+msgstr ""
 
 #. Name for int
 msgid "Intha"
@@ -13282,8 +13330,9 @@ msgid "Ipili"
 msgstr ""
 
 #. Name for ipk
+#, fuzzy
 msgid "Inupiaq"
-msgstr "依努庇克語"
+msgstr "印度"
 
 #. Name for ipo
 msgid "Ipiko"
@@ -13350,11 +13399,11 @@ msgstr ""
 
 #. Name for ise
 msgid "Italian Sign Language"
-msgstr "義大利手語"
+msgstr ""
 
 #. Name for isg
 msgid "Irish Sign Language"
-msgstr "愛爾蘭手語"
+msgstr ""
 
 #. Name for ish
 #, fuzzy
@@ -13371,7 +13420,7 @@ msgstr ""
 
 #. Name for isl
 msgid "Icelandic"
-msgstr "冰島語"
+msgstr "冰島文"
 
 #. Name for ism
 #, fuzzy
@@ -13388,7 +13437,7 @@ msgstr ""
 
 #. Name for isr
 msgid "Israeli Sign Language"
-msgstr "以色列手語"
+msgstr ""
 
 #. Name for ist
 msgid "Istriot"
@@ -13400,7 +13449,7 @@ msgstr ""
 
 #. Name for ita
 msgid "Italian"
-msgstr "義大利語"
+msgstr "意大利文"
 
 #. Name for itb
 msgid "Binongan Itneg"
@@ -13645,8 +13694,9 @@ msgid "Yaur"
 msgstr "土耳其"
 
 #. Name for jav
+#, fuzzy
 msgid "Javanese"
-msgstr "爪哇語"
+msgstr "日本"
 
 #. Name for jax
 msgid "Jambi Malay"
@@ -13710,7 +13760,7 @@ msgstr ""
 
 #. Name for jcs
 msgid "Jamaican Country Sign Language"
-msgstr "牙買加國家手語"
+msgstr ""
 
 #. Name for jct
 #, fuzzy
@@ -13802,7 +13852,7 @@ msgstr "泰國"
 
 #. Name for jhs
 msgid "Jhankot Sign Language"
-msgstr "Jhankot 手語"
+msgstr ""
 
 #. Name for jia
 msgid "Jina"
@@ -13927,7 +13977,7 @@ msgstr "邊界"
 
 #. Name for jls
 msgid "Jamaican Sign Language"
-msgstr "牙買加手語"
+msgstr ""
 
 #. Name for jma
 msgid "Dima"
@@ -14033,7 +14083,7 @@ msgstr ""
 
 #. Name for jos
 msgid "Jordanian Sign Language"
-msgstr "約旦手語"
+msgstr ""
 
 #. Name for jow
 msgid "Jowulu"
@@ -14049,11 +14099,12 @@ msgstr ""
 
 #. Name for jpn
 msgid "Japanese"
-msgstr "日語"
+msgstr "日本語"
 
 #. Name for jpr
+#, fuzzy
 msgid "Judeo-Persian"
-msgstr "猶太-波斯語"
+msgstr "列印"
 
 #. Name for jqr
 msgid "Jaqaru"
@@ -14065,8 +14116,9 @@ msgid "Jarai"
 msgstr "邊界"
 
 #. Name for jrb
+#, fuzzy
 msgid "Judeo-Arabic"
-msgstr "猶太-阿拉伯語"
+msgstr "阿拉伯"
 
 #. Name for jrr
 msgid "Jiru"
@@ -14141,7 +14193,7 @@ msgstr ""
 
 #. Name for jus
 msgid "Jumla Sign Language"
-msgstr "手語"
+msgstr ""
 
 #. Name for jut
 #, fuzzy
@@ -14254,7 +14306,7 @@ msgstr ""
 
 #. Name for kan
 msgid "Kannada"
-msgstr "卡納達語"
+msgstr "卡納達語(西南印度)"
 
 #. Name for kao
 msgid "Xaasongaxango"
@@ -14277,8 +14329,9 @@ msgid "Georgian"
 msgstr "喬治亞語"
 
 #. Name for kau
+#, fuzzy
 msgid "Kanuri"
-msgstr "卡努里語"
+msgstr "土耳其"
 
 #. Name for kav
 msgid "Katukína"
@@ -14932,7 +14985,7 @@ msgstr ""
 
 #. Name for kgi
 msgid "Selangor Sign Language"
-msgstr "雪蘭莪手語"
+msgstr ""
 
 #. Name for kgj
 msgid "Gamale Kham"
@@ -15008,8 +15061,9 @@ msgid "Kyerung"
 msgstr ""
 
 #. Name for kha
+#, fuzzy
 msgid "Khasi"
-msgstr "卡西語"
+msgstr "泰國"
 
 #. Name for khb
 msgid "Lü"
@@ -15990,8 +16044,9 @@ msgid "Korean"
 msgstr "韓語"
 
 #. Name for kos
+#, fuzzy
 msgid "Kosraean"
-msgstr "科斯拉伊語"
+msgstr "韓國"
 
 #. Name for kot
 #, fuzzy
@@ -16310,8 +16365,9 @@ msgid "Kerek"
 msgstr "希臘"
 
 #. Name for krl
+#, fuzzy
 msgid "Karelian"
-msgstr "卡累利阿語"
+msgstr "韓國"
 
 #. Name for krm
 #, fuzzy
@@ -16345,8 +16401,9 @@ msgid "Kanuri, Tumari"
 msgstr "土耳其"
 
 #. Name for kru
+#, fuzzy
 msgid "Kurukh"
-msgstr "庫盧克語"
+msgstr "土耳其"
 
 #. Name for krv
 #, fuzzy
@@ -16710,8 +16767,9 @@ msgid "Karipuna"
 msgstr "韓國"
 
 #. Name for kur
+#, fuzzy
 msgid "Kurdish"
-msgstr "庫德語"
+msgstr "土耳其"
 
 #. Name for kus
 msgid "Kusaal"
@@ -17394,16 +17452,18 @@ msgid "Subanen, Southern"
 msgstr ""
 
 #. Name for lab
+#, fuzzy
 msgid "Linear A"
-msgstr "線性文字 A"
+msgstr "Legal (_G)"
 
 #. Name for lac
 msgid "Lacandon"
 msgstr ""
 
 #. Name for lad
+#, fuzzy
 msgid "Ladino"
-msgstr "拉迪諾語"
+msgstr "位置"
 
 #. Name for lae
 msgid "Pattani"
@@ -17468,8 +17528,9 @@ msgid "Lama (Togo)"
 msgstr ""
 
 #. Name for lat
+#, fuzzy
 msgid "Latin"
-msgstr "拉丁語"
+msgstr "位置"
 
 #. Name for lau
 msgid "Laba"
@@ -17477,7 +17538,7 @@ msgstr ""
 
 #. Name for lav
 msgid "Latvian"
-msgstr "拉脫維亞語"
+msgstr "拉脫維亞文"
 
 #. Name for law
 msgid "Lauje"
@@ -17580,7 +17641,7 @@ msgstr ""
 
 #. Name for lbs
 msgid "Libyan Sign Language"
-msgstr "利比亞手語"
+msgstr ""
 
 #. Name for lbt
 #, fuzzy
@@ -17974,8 +18035,9 @@ msgid "Likila"
 msgstr "Legal (_G)"
 
 #. Name for lif
+#, fuzzy
 msgid "Limbu"
-msgstr "林佈語"
+msgstr "立陶宛文"
 
 #. Name for lig
 msgid "Ligbi"
@@ -18004,8 +18066,9 @@ msgid "Limburgan"
 msgstr "立陶宛文"
 
 #. Name for lin
+#, fuzzy
 msgid "Lingala"
-msgstr "陵加拉語"
+msgstr "Legal (_G)"
 
 #. Name for lio
 msgid "Liki"
@@ -18034,7 +18097,7 @@ msgstr ""
 
 #. Name for lit
 msgid "Lithuanian"
-msgstr "立陶宛語"
+msgstr "立陶宛文"
 
 #. Name for liu
 #, fuzzy
@@ -18254,7 +18317,7 @@ msgstr ""
 
 #. Name for lls
 msgid "Lithuanian Sign Language"
-msgstr "立陶宛手語"
+msgstr ""
 
 #. Name for llu
 msgid "Lau"
@@ -18627,8 +18690,9 @@ msgid "Loarki"
 msgstr "邊界"
 
 #. Name for lrl
+#, fuzzy
 msgid "Lari"
-msgstr "拉里"
+msgstr "邊界"
 
 #. Name for lrm
 #, fuzzy
@@ -18685,7 +18749,7 @@ msgstr ""
 
 #. Name for lsg
 msgid "Lyons Sign Language"
-msgstr "里昂手語"
+msgstr ""
 
 #. Name for lsh
 #, fuzzy
@@ -18699,7 +18763,7 @@ msgstr "泰國"
 
 #. Name for lsl
 msgid "Latvian Sign Language"
-msgstr "拉脫維亞手語"
+msgstr ""
 
 #. Name for lsm
 #, fuzzy
@@ -18708,11 +18772,11 @@ msgstr "Sans serif(無襯線字體)"
 
 #. Name for lso
 msgid "Laos Sign Language"
-msgstr "老撾手語"
+msgstr ""
 
 #. Name for lsp
 msgid "Panamanian Sign Language"
-msgstr "巴拿馬手語"
+msgstr ""
 
 #. Name for lsr
 msgid "Aruop"
@@ -18725,19 +18789,19 @@ msgstr "邊界"
 
 #. Name for lst
 msgid "Trinidad and Tobago Sign Language"
-msgstr "千里達及托巴哥手語"
+msgstr ""
 
 #. Name for lsy
 msgid "Mauritian Sign Language"
-msgstr "模里西斯手語"
+msgstr ""
 
 #. Name for ltc
 msgid "Late Middle Chinese"
-msgstr "中晚期古漢語"
+msgstr "中古漢語"
 
 #. Inverted name for ltc
 msgid "Chinese, Late Middle"
-msgstr "中晚期古漢語"
+msgstr "漢語，中古語"
 
 #. Name for ltg
 #, fuzzy
@@ -18848,8 +18912,9 @@ msgid "Laura"
 msgstr "暫停"
 
 #. Name for lus
+#, fuzzy
 msgid "Lushai"
-msgstr "盧薩語"
+msgstr "泰國"
 
 #. Name for lut
 msgid "Lushootseed"
@@ -18969,7 +19034,7 @@ msgstr "立陶宛文"
 
 #. Name for lzh
 msgid "Literary Chinese"
-msgstr "文言 漢語"
+msgstr "文言漢語"
 
 #. Inverted name for lzh
 msgid "Chinese, Literary"
@@ -19010,8 +19075,9 @@ msgid "Mixtec, Yutanduchi"
 msgstr ""
 
 #. Name for mad
+#, fuzzy
 msgid "Madurese"
-msgstr "馬都拉語"
+msgstr "否"
 
 #. Name for mae
 msgid "Bo-Rukul"
@@ -19027,8 +19093,9 @@ msgid "Magahi"
 msgstr "馬加赫語"
 
 #. Name for mah
+#, fuzzy
 msgid "Marshallese"
-msgstr "馬紹爾語"
+msgstr "否"
 
 #. Name for mai
 msgid "Maithili"
@@ -19069,11 +19136,12 @@ msgstr ""
 
 #. Name for mar
 msgid "Marathi"
-msgstr "馬拉提語"
+msgstr "馬拉提語(中西印度)"
 
 #. Name for mas
+#, fuzzy
 msgid "Masai"
-msgstr "馬塞語"
+msgstr "邊界"
 
 #. Name for mat
 msgid "San Francisco Matlatzinca"
@@ -19437,7 +19505,7 @@ msgstr ""
 
 #. Name for mdl
 msgid "Maltese Sign Language"
-msgstr "馬耳他手語"
+msgstr ""
 
 #. Name for mdm
 msgid "Mayogo"
@@ -19458,8 +19526,9 @@ msgid "Mbole"
 msgstr ""
 
 #. Name for mdr
+#, fuzzy
 msgid "Mandar"
-msgstr "曼達語"
+msgstr "Man"
 
 #. Name for mds
 msgid "Maria (Papua New Guinea)"
@@ -19715,7 +19784,7 @@ msgstr "邊界"
 
 #. Name for mfs
 msgid "Mexican Sign Language"
-msgstr "墨西哥手語"
+msgstr ""
 
 #. Name for mft
 msgid "Mokerang"
@@ -19750,7 +19819,7 @@ msgstr "加泰隆文"
 
 #. Name for mga
 msgid "Middle Irish (900-1200)"
-msgstr "中古愛爾蘭語 (900-1200)"
+msgstr ""
 
 #. Inverted name for mga
 msgid "Irish, Middle (900-1200)"
@@ -20276,7 +20345,7 @@ msgstr ""
 
 #. Name for mkd
 msgid "Macedonian"
-msgstr "馬其頓語"
+msgstr "馬其頓文"
 
 #. Name for mke
 #, fuzzy
@@ -20478,8 +20547,9 @@ msgid "Masalit"
 msgstr "邊界"
 
 #. Name for mlt
+#, fuzzy
 msgid "Maltese"
-msgstr "馬爾他語"
+msgstr "否"
 
 #. Name for mlu
 msgid "To'abaita"
@@ -20643,7 +20713,7 @@ msgstr "Man"
 
 #. Name for mnc
 msgid "Manchu"
-msgstr "滿洲語"
+msgstr "滿語"
 
 #. Name for mnd
 msgid "Mondé"
@@ -20671,8 +20741,9 @@ msgid "Mono (Democratic Republic of Congo)"
 msgstr ""
 
 #. Name for mni
+#, fuzzy
 msgid "Manipuri"
-msgstr "曼尼普爾語"
+msgstr "土耳其"
 
 #. Name for mnj
 msgid "Munji"
@@ -20703,7 +20774,7 @@ msgstr ""
 
 #. Name for mnp
 msgid "Min Bei Chinese"
-msgstr "閩北語 漢語"
+msgstr "閩北語"
 
 #. Inverted name for mnp
 msgid "Chinese, Min Bei"
@@ -20816,8 +20887,9 @@ msgid "Moro"
 msgstr "邊界"
 
 #. Name for mos
+#, fuzzy
 msgid "Mossi"
-msgstr "莫西語"
+msgstr "邊界"
 
 #. Name for mot
 msgid "Barí"
@@ -20895,11 +20967,11 @@ msgstr ""
 
 #. Name for mpl
 msgid "Middle Watut"
-msgstr "中古沃圖特語"
+msgstr ""
 
 #. Inverted name for mpl
 msgid "Watut, Middle"
-msgstr "中古沃圖特語"
+msgstr ""
 
 #. Name for mpm
 msgid "Yosondúa Mixtec"
@@ -21124,7 +21196,7 @@ msgstr ""
 
 #. Name for mre
 msgid "Martha's Vineyard Sign Language"
-msgstr "瑪莎葡萄園島手語"
+msgstr ""
 
 #. Name for mrf
 msgid "Elseng"
@@ -21145,8 +21217,9 @@ msgid "Chin, Mara"
 msgstr ""
 
 #. Name for mri
+#, fuzzy
 msgid "Maori"
-msgstr "毛利語"
+msgstr "邊界"
 
 #. Name for mrj
 #, fuzzy
@@ -21250,7 +21323,7 @@ msgstr ""
 
 #. Name for msd
 msgid "Yucatec Maya Sign Language"
-msgstr "猶加敦馬雅手語"
+msgstr ""
 
 #. Name for mse
 #, fuzzy
@@ -21563,8 +21636,9 @@ msgid "Murle"
 msgstr "否"
 
 #. Name for mus
+#, fuzzy
 msgid "Creek"
-msgstr "克里克語"
+msgstr "希臘"
 
 #. Name for mut
 #, fuzzy
@@ -21764,8 +21838,9 @@ msgid "Maninkakan, Kita"
 msgstr ""
 
 #. Name for mwl
+#, fuzzy
 msgid "Mirandese"
-msgstr "米蘭德斯語"
+msgstr "否"
 
 #. Name for mwm
 msgid "Sar"
@@ -21797,8 +21872,9 @@ msgid "Chin, Mün"
 msgstr ""
 
 #. Name for mwr
+#, fuzzy
 msgid "Marwari"
-msgstr "馬爾瓦利語"
+msgstr "邊界"
 
 #. Name for mws
 msgid "Mwimbi-Muthambi"
@@ -22110,7 +22186,7 @@ msgstr ""
 
 #. Name for mzc
 msgid "Madagascar Sign Language"
-msgstr "馬達加斯加手語"
+msgstr ""
 
 #. Name for mzd
 msgid "Malimba"
@@ -22123,7 +22199,7 @@ msgstr "邊界"
 
 #. Name for mzg
 msgid "Monastic Sign Language"
-msgstr "Monastic 手語"
+msgstr ""
 
 #. Name for mzh
 msgid "Wichí Lhamtés Güisnay"
@@ -22211,7 +22287,7 @@ msgstr ""
 
 #. Name for mzy
 msgid "Mozambican Sign Language"
-msgstr "莫三比克手語"
+msgstr ""
 
 #. Name for mzz
 msgid "Maiadomu"
@@ -22268,7 +22344,7 @@ msgstr ""
 
 #. Name for nan
 msgid "Min Nan Chinese"
-msgstr "閩南語 漢語"
+msgstr "閩南語"
 
 #. Inverted name for nan
 msgid "Chinese, Min Nan"
@@ -22279,8 +22355,9 @@ msgid "Naaba"
 msgstr ""
 
 #. Name for nap
+#, fuzzy
 msgid "Neapolitan"
-msgstr "拿坡里語"
+msgstr "新增別名 (_A)"
 
 #. Name for naq
 msgid "Khoekhoe"
@@ -22300,7 +22377,7 @@ msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "諾魯語"
+msgstr "諾魯"
 
 #. Name for nav
 msgid "Navajo"
@@ -22418,7 +22495,7 @@ msgstr ""
 
 #. Name for nbs
 msgid "Namibian Sign Language"
-msgstr "納米比亞手語"
+msgstr ""
 
 #. Name for nbt
 msgid "Na"
@@ -22543,7 +22620,7 @@ msgstr ""
 
 #. Name for ncs
 msgid "Nicaraguan Sign Language"
-msgstr "尼加拉瓜手語"
+msgstr ""
 
 #. Name for nct
 msgid "Chothe Naga"
@@ -23447,7 +23524,7 @@ msgstr "Galeon"
 
 #. Name for nld
 msgid "Dutch"
-msgstr "荷蘭語"
+msgstr "荷蘭文"
 
 #. Name for nle
 msgid "East Nyala"
@@ -23832,8 +23909,9 @@ msgid "Nomane"
 msgstr "羅馬尼亞文"
 
 #. Name for nog
+#, fuzzy
 msgid "Nogai"
-msgstr "諾蓋語"
+msgstr "邊界"
 
 #. Name for noh
 msgid "Nomu"
@@ -23863,8 +23941,9 @@ msgid "Nocamán"
 msgstr ""
 
 #. Name for non
+#, fuzzy
 msgid "Old Norse"
-msgstr "古諾爾斯語"
+msgstr "列印"
 
 #. Inverted name for non
 msgid "Norse, Old"
@@ -23880,7 +23959,7 @@ msgstr ""
 
 #. Name for nor
 msgid "Norwegian"
-msgstr "挪威語"
+msgstr "挪威文"
 
 #. Name for nos
 msgid "Eastern Nisu"
@@ -24173,7 +24252,7 @@ msgstr ""
 
 #. Name for nsi
 msgid "Nigerian Sign Language"
-msgstr "奈及利亞手語"
+msgstr ""
 
 #. Name for nsk
 #, fuzzy
@@ -24182,7 +24261,7 @@ msgstr "邊界"
 
 #. Name for nsl
 msgid "Norwegian Sign Language"
-msgstr "挪威手語"
+msgstr ""
 
 #. Name for nsm
 msgid "Sumi Naga"
@@ -24202,7 +24281,7 @@ msgstr ""
 
 #. Name for nsp
 msgid "Nepalese Sign Language"
-msgstr "尼泊爾手語"
+msgstr ""
 
 #. Name for nsq
 msgid "Northern Sierra Miwok"
@@ -24214,7 +24293,7 @@ msgstr ""
 
 #. Name for nsr
 msgid "Maritime Sign Language"
-msgstr "Maritime 手語"
+msgstr ""
 
 #. Name for nss
 #, fuzzy
@@ -24516,11 +24595,12 @@ msgstr "新增別名 (_A)"
 
 #. Name for nwx
 msgid "Middle Newar"
-msgstr "中古尼瓦爾語"
+msgstr ""
 
 #. Inverted name for nwx
+#, fuzzy
 msgid "Newar, Middle"
-msgstr "中古尼瓦爾語"
+msgstr "新增別名 (_A)"
 
 #. Name for nwy
 msgid "Nottoway-Meherrin"
@@ -24731,7 +24811,7 @@ msgstr ""
 
 #. Name for nzs
 msgid "New Zealand Sign Language"
-msgstr "紐西蘭手語"
+msgstr ""
 
 #. Name for nzu
 msgid "Teke-Nzikou"
@@ -24760,20 +24840,22 @@ msgid "Oroch"
 msgstr "從："
 
 #. Name for oar
+#, fuzzy
 msgid "Old Aramaic (up to 700 BCE)"
-msgstr "古亞拉姆語 (西元前700年)"
+msgstr "阿拉伯"
 
 #. Inverted name for oar
+#, fuzzy
 msgid "Aramaic, Old (up to 700 BCE)"
-msgstr "古亞拉姆語 (西元前700年)"
+msgstr "阿拉伯"
 
 #. Name for oav
 msgid "Old Avar"
-msgstr "古阿瓦爾語"
+msgstr ""
 
 #. Inverted name for oav
 msgid "Avar, Old"
-msgstr "古阿瓦爾語"
+msgstr ""
 
 #. Name for obi
 msgid "Obispeño"
@@ -24804,20 +24886,23 @@ msgid "Manobo, Obo"
 msgstr ""
 
 #. Name for obr
+#, fuzzy
 msgid "Old Burmese"
-msgstr "古緬甸語"
+msgstr "布列塔尼文"
 
 #. Inverted name for obr
 msgid "Burmese, Old"
-msgstr "古緬甸語"
+msgstr ""
 
 #. Name for obt
+#, fuzzy
 msgid "Old Breton"
-msgstr "古布列塔尼語"
+msgstr "布列塔尼文"
 
 #. Inverted name for obt
+#, fuzzy
 msgid "Breton, Old"
-msgstr "古布列塔尼語"
+msgstr "布列塔尼文"
 
 #. Name for obu
 msgid "Obulom"
@@ -24829,23 +24914,25 @@ msgstr ""
 
 #. Name for och
 msgid "Old Chinese"
-msgstr "古漢語"
+msgstr "上古漢語"
 
 #. Inverted name for och
 msgid "Chinese, Old"
-msgstr "古漢語"
+msgstr "漢語，上古語"
 
 #. Name for oci
 msgid "Occitan (post 1500)"
 msgstr ""
 
 #. Name for oco
+#, fuzzy
 msgid "Old Cornish"
-msgstr "古康瓦爾語"
+msgstr "色彩"
 
 #. Inverted name for oco
+#, fuzzy
 msgid "Cornish, Old"
-msgstr "古康瓦爾語"
+msgstr "色彩"
 
 #. Name for ocu
 msgid "Atzingo Matlatzinca"
@@ -24864,12 +24951,14 @@ msgid "Od"
 msgstr ""
 
 #. Name for odt
+#, fuzzy
 msgid "Old Dutch"
-msgstr "古荷蘭語"
+msgstr "荷蘭文"
 
 #. Inverted name for odt
+#, fuzzy
 msgid "Dutch, Old"
-msgstr "古荷蘭語"
+msgstr "荷蘭文"
 
 #. Name for odu
 msgid "Odual"
@@ -24880,12 +24969,14 @@ msgid "Ofo"
 msgstr ""
 
 #. Name for ofs
+#, fuzzy
 msgid "Old Frisian"
-msgstr "古菲士蘭語"
+msgstr "列印"
 
 #. Inverted name for ofs
+#, fuzzy
 msgid "Frisian, Old"
-msgstr "古菲士蘭語"
+msgstr "烏黑蘭文"
 
 #. Name for ofu
 msgid "Efutop"
@@ -24900,12 +24991,13 @@ msgid "Ogbah"
 msgstr ""
 
 #. Name for oge
+#, fuzzy
 msgid "Old Georgian"
-msgstr "古喬治亞語"
+msgstr "列印"
 
 #. Inverted name for oge
 msgid "Georgian, Old"
-msgstr "古喬治亞語"
+msgstr ""
 
 #. Name for ogg
 msgid "Ogbogolo"
@@ -24922,19 +25014,21 @@ msgstr ""
 
 #. Name for oht
 msgid "Old Hittite"
-msgstr "古西臺語"
+msgstr ""
 
 #. Inverted name for oht
 msgid "Hittite, Old"
-msgstr "古西臺語"
+msgstr ""
 
 #. Name for ohu
+#, fuzzy
 msgid "Old Hungarian"
-msgstr "古匈牙利語"
+msgstr "匈牙利文"
 
 #. Inverted name for ohu
+#, fuzzy
 msgid "Hungarian, Old"
-msgstr "古匈牙利語"
+msgstr "匈牙利文"
 
 #. Name for oia
 msgid "Oirata"
@@ -24983,7 +25077,7 @@ msgstr "古日本語"
 
 #. Inverted name for ojp
 msgid "Japanese, Old"
-msgstr "古日本語"
+msgstr "日本語，古語"
 
 #. Name for ojs
 msgid "Severn Ojibwa"
@@ -25050,12 +25144,13 @@ msgid "One, Kwamtim"
 msgstr ""
 
 #. Name for okl
+#, fuzzy
 msgid "Old Kentish Sign Language"
-msgstr "古肯特手語"
+msgstr "韓國"
 
 #. Inverted name for okl
 msgid "Kentish Sign Language, Old"
-msgstr "古肯特手語"
+msgstr ""
 
 #. Name for okm
 msgid "Middle Korean (10th-16th cent.)"
@@ -25063,7 +25158,7 @@ msgstr "中古韓語（10世紀至16世紀）"
 
 #. Inverted name for okm
 msgid "Korean, Middle (10th-16th cent.)"
-msgstr "中古韓語（10世紀至16世紀）"
+msgstr "韓語，中古語（10世紀至16世紀）"
 
 #. Name for okn
 msgid "Oki-No-Erabu"
@@ -25071,11 +25166,11 @@ msgstr ""
 
 #. Name for oko
 msgid "Old Korean (3rd-9th cent.)"
-msgstr "古韓語（3世紀至9世紀）"
+msgstr "上古韓語（3世紀至9世紀）"
 
 #. Inverted name for oko
 msgid "Korean, Old (3rd-9th cent.)"
-msgstr "古韓語（3世紀至9世紀）"
+msgstr "韓語，上古語（3世紀至9世紀）"
 
 #. Name for okr
 #, fuzzy
@@ -25131,12 +25226,16 @@ msgid "Olrat"
 msgstr "從："
 
 #. Name for olt
+#, fuzzy
+#| msgid "Lithuanian"
 msgid "Old Lithuanian"
-msgstr "古立陶宛文"
+msgstr "立陶宛文"
 
 #. Inverted name for olt
+#, fuzzy
+#| msgid "Lithuanian"
 msgid "Lithuanian, Old"
-msgstr "古立陶宛文"
+msgstr "立陶宛文"
 
 #. Name for olu
 msgid "Kuvale"
@@ -25186,20 +25285,22 @@ msgid "Utarmbung"
 msgstr ""
 
 #. Name for omp
+#, fuzzy
 msgid "Old Manipuri"
-msgstr "古曼尼普爾語"
+msgstr "土耳其"
 
 #. Inverted name for omp
 msgid "Manipuri, Old"
-msgstr "古曼尼普爾語"
+msgstr ""
 
 #. Name for omr
+#, fuzzy
 msgid "Old Marathi"
-msgstr "古馬拉提語"
+msgstr "邊界"
 
 #. Inverted name for omr
 msgid "Marathi, Old"
-msgstr "古馬拉提語"
+msgstr ""
 
 #. Name for omt
 msgid "Omotik"
@@ -25219,11 +25320,11 @@ msgstr ""
 
 #. Name for omx
 msgid "Old Mon"
-msgstr "古孟語"
+msgstr ""
 
 #. Inverted name for omx
 msgid "Mon, Old"
-msgstr "古孟語"
+msgstr ""
 
 #. Name for ona
 msgid "Ona"
@@ -25293,12 +25394,13 @@ msgid "Unua"
 msgstr ""
 
 #. Name for onw
+#, fuzzy
 msgid "Old Nubian"
-msgstr "古努比亞語"
+msgstr "列印"
 
 #. Inverted name for onw
 msgid "Nubian, Old"
-msgstr "古努比亞語"
+msgstr ""
 
 #. Name for onx
 msgid "Onin Based Pidgin"
@@ -25321,12 +25423,14 @@ msgid "Oorlams"
 msgstr ""
 
 #. Name for oos
+#, fuzzy
 msgid "Old Ossetic"
-msgstr "古奧塞提亞語"
+msgstr "俄羅斯文"
 
 #. Inverted name for oos
+#, fuzzy
 msgid "Ossetic, Old"
-msgstr "古奧塞提亞語"
+msgstr "俄羅斯文"
 
 #. Name for opa
 msgid "Okpamheri"
@@ -25380,8 +25484,9 @@ msgid "Oriya (macrolanguage)"
 msgstr "韓國"
 
 #. Name for orm
+#, fuzzy
 msgid "Oromo"
-msgstr "奧洛莫語"
+msgstr "從："
 
 #. Name for orn
 msgid "Orang Kanaq"
@@ -25415,12 +25520,14 @@ msgid "Ormuri"
 msgstr ""
 
 #. Name for orv
+#, fuzzy
 msgid "Old Russian"
-msgstr "古俄羅斯語"
+msgstr "俄羅斯文"
 
 #. Inverted name for orv
+#, fuzzy
 msgid "Russian, Old"
-msgstr "古俄羅斯語"
+msgstr "俄羅斯文"
 
 #. Name for orw
 msgid "Oro Win"
@@ -25442,7 +25549,7 @@ msgstr "從："
 
 #. Name for osa
 msgid "Osage"
-msgstr "歐塞奇語"
+msgstr "奧塞奇語"
 
 #. Name for osc
 #, fuzzy
@@ -25460,12 +25567,14 @@ msgid "Ososo"
 msgstr "從："
 
 #. Name for osp
+#, fuzzy
 msgid "Old Spanish"
-msgstr "古西班牙語"
+msgstr "西班牙文"
 
 #. Inverted name for osp
+#, fuzzy
 msgid "Spanish, Old"
-msgstr "古西班牙語"
+msgstr "西班牙文"
 
 #. Name for oss
 #, fuzzy
@@ -25485,12 +25594,13 @@ msgid "One, Southern"
 msgstr ""
 
 #. Name for osx
+#, fuzzy
 msgid "Old Saxon"
-msgstr "古撒克遜語"
+msgstr "列印"
 
 #. Inverted name for osx
 msgid "Saxon, Old"
-msgstr "古撒克遜語"
+msgstr ""
 
 #. Name for ota
 msgid "Ottoman Turkish (1500-1928)"
@@ -25501,12 +25611,13 @@ msgid "Turkish, Ottoman (1500-1928)"
 msgstr "鄂圖曼土耳其語 (1500-1928)"
 
 #. Name for otb
+#, fuzzy
 msgid "Old Tibetan"
-msgstr "古藏語"
+msgstr "列印"
 
 #. Inverted name for otb
 msgid "Tibetan, Old"
-msgstr "古藏語"
+msgstr ""
 
 #. Name for otd
 #, fuzzy
@@ -25526,12 +25637,14 @@ msgid "Oti"
 msgstr ""
 
 #. Name for otk
+#, fuzzy
 msgid "Old Turkish"
-msgstr "古土耳其語"
+msgstr "土耳其"
 
 #. Inverted name for otk
+#, fuzzy
 msgid "Turkish, Old"
-msgstr "古土耳其語"
+msgstr "土耳其"
 
 #. Name for otl
 msgid "Tilapa Otomi"
@@ -25603,12 +25716,14 @@ msgid "Otomi, Texcatepec"
 msgstr ""
 
 #. Name for oty
+#, fuzzy
 msgid "Old Tamil"
-msgstr "古泰米爾語"
+msgstr "泰國"
 
 #. Inverted name for oty
+#, fuzzy
 msgid "Tamil, Old"
-msgstr "古泰米爾語"
+msgstr "泰國"
 
 #. Name for otz
 msgid "Ixtenco Otomi"
@@ -25632,11 +25747,11 @@ msgstr ""
 
 #. Name for oui
 msgid "Old Uighur"
-msgstr "古維吾爾語"
+msgstr ""
 
 #. Inverted name for oui
 msgid "Uighur, Old"
-msgstr "古維吾爾語"
+msgstr ""
 
 #. Name for oum
 msgid "Ouma"
@@ -25647,12 +25762,13 @@ msgid "Owiniga"
 msgstr ""
 
 #. Name for owl
+#, fuzzy
 msgid "Old Welsh"
-msgstr "古威爾士語"
+msgstr "列印"
 
 #. Inverted name for owl
 msgid "Welsh, Old"
-msgstr "古威爾士語"
+msgstr ""
 
 #. Name for oyb
 msgid "Oy"
@@ -26073,11 +26189,11 @@ msgstr ""
 
 #. Name for peo
 msgid "Old Persian (ca. 600-400 B.C.)"
-msgstr "古波斯語  (約公元前 600-400)"
+msgstr ""
 
 #. Inverted name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "古波斯語  (約公元前 600-400)"
+msgstr "古波斯語 (約公元前 600-400)"
 
 #. Name for pep
 msgid "Kunja"
@@ -26184,8 +26300,9 @@ msgid "Pagu"
 msgstr ""
 
 #. Name for pgz
+#, fuzzy
 msgid "Papua New Guinean Sign Language"
-msgstr "巴布亞紐幾內亞手語"
+msgstr "韓國"
 
 #. Name for pha
 msgid "Pa-Hng"
@@ -26217,8 +26334,9 @@ msgid "Phimbi"
 msgstr ""
 
 #. Name for phn
+#, fuzzy
 msgid "Phoenician"
-msgstr "腓尼基語"
+msgstr "斯洛文尼亞文"
 
 #. Name for pho
 msgid "Phunoi"
@@ -26403,7 +26521,7 @@ msgstr ""
 
 #. Name for pks
 msgid "Pakistan Sign Language"
-msgstr "巴基斯坦手語"
+msgstr ""
 
 #. Name for pkt
 #, fuzzy
@@ -26451,8 +26569,9 @@ msgid "Paulohi"
 msgstr "波蘭文"
 
 #. Name for pli
+#, fuzzy
 msgid "Pali"
-msgstr "巴利語"
+msgstr "波蘭文"
 
 #. Name for plj
 #, fuzzy
@@ -26834,7 +26953,7 @@ msgstr ""
 
 #. Name for pol
 msgid "Polish"
-msgstr "波蘭語"
+msgstr "波蘭文"
 
 #. Name for pom
 msgid "Southeastern Pomo"
@@ -26845,8 +26964,9 @@ msgid "Pomo, Southeastern"
 msgstr ""
 
 #. Name for pon
+#, fuzzy
 msgid "Pohnpeian"
-msgstr "波那貝語"
+msgstr "印尼文"
 
 #. Name for poo
 msgid "Central Pomo"
@@ -26870,7 +26990,7 @@ msgstr ""
 
 #. Name for por
 msgid "Portuguese"
-msgstr "葡萄牙語"
+msgstr "葡萄牙文"
 
 #. Name for pos
 msgid "Sayula Popoluca"
@@ -27015,7 +27135,7 @@ msgstr ""
 
 #. Name for prl
 msgid "Peruvian Sign Language"
-msgstr "秘魯手語"
+msgstr ""
 
 #. Name for prm
 #, fuzzy
@@ -27028,9 +27148,11 @@ msgstr ""
 
 #. Name for pro
 msgid "Old Provençal (to 1500)"
-msgstr "古普羅旺斯語 (至 1500)"
+msgstr ""
 
 #. Inverted name for pro
+#, fuzzy
+#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
 msgstr "古普羅旺斯語 (至 1500)"
 
@@ -27073,7 +27195,7 @@ msgstr ""
 
 #. Name for prz
 msgid "Providencia Sign Language"
-msgstr "普洛威頓斯手語"
+msgstr ""
 
 #. Name for psa
 msgid "Asue Awyu"
@@ -27085,11 +27207,11 @@ msgstr ""
 
 #. Name for psc
 msgid "Persian Sign Language"
-msgstr "波斯手語"
+msgstr ""
 
 #. Name for psd
 msgid "Plains Indian Sign Language"
-msgstr "平原印第安手語"
+msgstr ""
 
 #. Name for pse
 msgid "Central Malay"
@@ -27102,7 +27224,7 @@ msgstr "中文"
 
 #. Name for psg
 msgid "Penang Sign Language"
-msgstr "檳城手語"
+msgstr ""
 
 #. Name for psh
 #, fuzzy
@@ -27126,7 +27248,7 @@ msgstr "烏黑蘭文"
 
 #. Name for psl
 msgid "Puerto Rican Sign Language"
-msgstr "波多黎各手語"
+msgstr ""
 
 #. Name for psm
 #, fuzzy
@@ -27140,11 +27262,11 @@ msgstr "匈牙利文"
 
 #. Name for pso
 msgid "Polish Sign Language"
-msgstr "波蘭手語"
+msgstr ""
 
 #. Name for psp
 msgid "Philippine Sign Language"
-msgstr "菲律賓手語"
+msgstr ""
 
 #. Name for psq
 #, fuzzy
@@ -27153,7 +27275,7 @@ msgstr "波蘭文"
 
 #. Name for psr
 msgid "Portuguese Sign Language"
-msgstr "葡萄牙手語"
+msgstr ""
 
 #. Name for pss
 msgid "Kaulong"
@@ -27405,7 +27527,7 @@ msgstr ""
 
 #. Name for pys
 msgid "Paraguayan Sign Language"
-msgstr "巴拉圭手語"
+msgstr ""
 
 #. Name for pyu
 msgid "Puyuma"
@@ -27457,7 +27579,7 @@ msgstr ""
 
 #. Name for que
 msgid "Quechua"
-msgstr "克丘亞語"
+msgstr "印加語"
 
 #. Name for quf
 msgid "Lambayeque Quechua"
@@ -28285,7 +28407,7 @@ msgstr ""
 
 #. Name for rms
 msgid "Romanian Sign Language"
-msgstr "羅馬尼亞手語"
+msgstr ""
 
 #. Name for rmt
 #, fuzzy
@@ -28404,8 +28526,9 @@ msgid "Roglai, Northern"
 msgstr ""
 
 #. Name for roh
+#, fuzzy
 msgid "Romansh"
-msgstr "里托羅曼語"
+msgstr "羅馬尼亞文"
 
 #. Name for rol
 #, fuzzy
@@ -28413,8 +28536,9 @@ msgid "Romblomanon"
 msgstr "羅馬尼亞文"
 
 #. Name for rom
+#, fuzzy
 msgid "Romany"
-msgstr "羅曼尼語"
+msgstr "羅馬尼亞文"
 
 #. Name for ron
 msgid "Romanian"
@@ -28470,15 +28594,16 @@ msgstr "羅馬尼亞文"
 
 #. Name for rsi
 msgid "Rennellese Sign Language"
-msgstr "拉納爾島手語"
+msgstr ""
 
 #. Name for rsl
 msgid "Russian Sign Language"
-msgstr "俄羅斯手語"
+msgstr ""
 
 #. Name for rsm
+#, fuzzy
 msgid "Miriwoong Sign Language"
-msgstr "Miriwoong 手語"
+msgstr "韓國"
 
 #. Name for rtc
 #, fuzzy
@@ -28581,7 +28706,7 @@ msgstr "羅馬尼亞文"
 
 #. Name for rus
 msgid "Russian"
-msgstr "俄羅斯語"
+msgstr "俄羅斯文"
 
 #. Name for rut
 msgid "Rutul"
@@ -28690,7 +28815,7 @@ msgstr ""
 
 #. Name for sag
 msgid "Sango"
-msgstr "桑戈語"
+msgstr "桑戈語(中非)"
 
 #. Name for sah
 msgid "Yakut"
@@ -28707,16 +28832,18 @@ msgid "Sake"
 msgstr "Sans serif(無襯線字體)"
 
 #. Name for sam
+#, fuzzy
 msgid "Samaritan Aramaic"
-msgstr "撒瑪麗亞阿拉姆語"
+msgstr "塞爾維亞文"
 
 #. Inverted name for sam
 msgid "Aramaic, Samaritan"
 msgstr ""
 
 #. Name for san
+#, fuzzy
 msgid "Sanskrit"
-msgstr "梵語"
+msgstr "Sans serif(無襯線字體)"
 
 #. Name for sao
 #, fuzzy
@@ -28732,8 +28859,9 @@ msgid "Saraveca"
 msgstr ""
 
 #. Name for sas
+#, fuzzy
 msgid "Sasak"
-msgstr "莎莎克語"
+msgstr "Sans serif(無襯線字體)"
 
 #. Name for sat
 msgid "Santali"
@@ -28763,7 +28891,7 @@ msgstr "Sans serif(無襯線字體)"
 
 #. Name for saz
 msgid "Saurashtra"
-msgstr "索拉什特拉語"
+msgstr ""
 
 #. Name for sba
 msgid "Ngambay"
@@ -28937,12 +29065,14 @@ msgid "Shina"
 msgstr ""
 
 #. Name for scn
+#, fuzzy
 msgid "Sicilian"
-msgstr "西西里語"
+msgstr "烏黑蘭文"
 
 #. Name for sco
+#, fuzzy
 msgid "Scots"
-msgstr "蘇格蘭語"
+msgstr "停止"
 
 #. Name for scp
 msgid "Helambu Sherpa"
@@ -29029,7 +29159,7 @@ msgstr "土耳其"
 
 #. Name for sdl
 msgid "Saudi Arabian Sign Language"
-msgstr "沙烏地阿拉伯手語"
+msgstr ""
 
 #. Name for sdm
 msgid "Semandang"
@@ -29250,7 +29380,7 @@ msgstr ""
 
 #. Name for sfs
 msgid "South African Sign Language"
-msgstr "南非手語"
+msgstr ""
 
 #. Name for sfw
 msgid "Sehwi"
@@ -29258,7 +29388,7 @@ msgstr ""
 
 #. Name for sga
 msgid "Old Irish (to 900)"
-msgstr "古愛爾蘭語 (至 900)"
+msgstr ""
 
 #. Inverted name for sga
 msgid "Irish, Old (to 900)"
@@ -29290,7 +29420,7 @@ msgstr "波羅的海"
 
 #. Name for sgg
 msgid "Swiss-German Sign Language"
-msgstr "瑞士德語手語"
+msgstr ""
 
 #. Name for sgh
 msgid "Shughni"
@@ -29343,7 +29473,7 @@ msgstr ""
 
 #. Name for sgx
 msgid "Sierra Leone Sign Language"
-msgstr "獅子山手語"
+msgstr ""
 
 #. Name for sgy
 #, fuzzy
@@ -29531,8 +29661,9 @@ msgid "Mende (Papua New Guinea)"
 msgstr ""
 
 #. Name for sin
+#, fuzzy
 msgid "Sinhala"
-msgstr "僧伽羅語"
+msgstr "越南"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -29811,7 +29942,7 @@ msgstr ""
 
 #. Name for slf
 msgid "Swiss-Italian Sign Language"
-msgstr "瑞士義大利語手語"
+msgstr ""
 
 #. Name for slg
 msgid "Selungai Murut"
@@ -29841,7 +29972,7 @@ msgstr ""
 
 #. Name for slk
 msgid "Slovak"
-msgstr "斯洛伐克語"
+msgstr "斯洛伐克文"
 
 #. Name for sll
 msgid "Salt-Yui"
@@ -29876,7 +30007,7 @@ msgstr "Sans serif(無襯線字體)"
 
 #. Name for sls
 msgid "Singapore Sign Language"
-msgstr "新加坡手語"
+msgstr ""
 
 #. Name for slt
 #, fuzzy
@@ -29890,7 +30021,7 @@ msgstr "白俄羅斯文"
 
 #. Name for slv
 msgid "Slovenian"
-msgstr "斯洛維尼亞語"
+msgstr "斯洛文尼亞文"
 
 #. Name for slw
 msgid "Sialum"
@@ -29924,7 +30055,7 @@ msgstr "泰國"
 
 #. Name for smc
 msgid "Som"
-msgstr "吉爾吉斯索姆"
+msgstr ""
 
 #. Name for smd
 #, fuzzy
@@ -29932,8 +30063,9 @@ msgid "Sama"
 msgstr "Sans serif(無襯線字體)"
 
 #. Name for sme
+#, fuzzy
 msgid "Northern Sami"
-msgstr "北薩米語"
+msgstr "韓國"
 
 #. Inverted name for sme
 msgid "Sami, Northern"
@@ -29975,8 +30107,9 @@ msgid "Musasa"
 msgstr "邊界"
 
 #. Name for smn
+#, fuzzy
 msgid "Inari Sami"
-msgstr "伊納里薩米語"
+msgstr "新增別名 (_A)"
 
 #. Inverted name for smn
 #, fuzzy
@@ -29988,8 +30121,9 @@ msgid "Samoan"
 msgstr "薩摩亞語"
 
 #. Name for smp
+#, fuzzy
 msgid "Samaritan"
-msgstr "撒瑪麗亞語"
+msgstr "塞爾維亞文"
 
 #. Name for smq
 msgid "Samo"
@@ -30053,7 +30187,7 @@ msgstr ""
 
 #. Name for snd
 msgid "Sindhi"
-msgstr "信德語"
+msgstr "信德語(印度)"
 
 #. Name for sne
 msgid "Bau Bidayuh"
@@ -30089,8 +30223,9 @@ msgid "Sango, Riverain"
 msgstr ""
 
 #. Name for snk
+#, fuzzy
 msgid "Soninke"
-msgstr "索寧克語"
+msgstr "斯洛文尼亞文"
 
 #. Name for snl
 #, fuzzy
@@ -30180,8 +30315,9 @@ msgid "Songomeno"
 msgstr ""
 
 #. Name for sog
+#, fuzzy
 msgid "Sogdian"
-msgstr "粟特語"
+msgstr "挪威文"
 
 #. Name for soh
 #, fuzzy
@@ -30388,11 +30524,11 @@ msgstr ""
 
 #. Name for sqi
 msgid "Albanian"
-msgstr "阿爾巴尼亞語"
+msgstr "阿爾巴尼亞文"
 
 #. Name for sqk
 msgid "Albanian Sign Language"
-msgstr "阿爾巴尼亞手語"
+msgstr ""
 
 #. Name for sqm
 #, fuzzy
@@ -30423,7 +30559,7 @@ msgstr "阿拉伯"
 
 #. Name for sqs
 msgid "Sri Lankan Sign Language"
-msgstr "斯里蘭卡手語"
+msgstr ""
 
 #. Name for sqt
 msgid "Soqotri"
@@ -30455,8 +30591,9 @@ msgid "Sardinian, Logudorese"
 msgstr "馬其頓文"
 
 #. Name for srd
+#, fuzzy
 msgid "Sardinian"
-msgstr "薩丁尼亞語"
+msgstr "馬其頓文"
 
 #. Name for sre
 #, fuzzy
@@ -30494,8 +30631,9 @@ msgid "Saramaccan"
 msgstr ""
 
 #. Name for srn
+#, fuzzy
 msgid "Sranan Tongo"
-msgstr "蘇利南東墎語"
+msgstr "烏黑蘭文"
 
 #. Name for sro
 #, fuzzy
@@ -30508,7 +30646,7 @@ msgstr ""
 
 #. Name for srp
 msgid "Serbian"
-msgstr "塞爾維亞語"
+msgstr "塞爾維亞文"
 
 #. Name for srq
 msgid "Sirionó"
@@ -30638,7 +30776,7 @@ msgstr ""
 
 #. Name for ssp
 msgid "Spanish Sign Language"
-msgstr "西班牙手語"
+msgstr ""
 
 #. Name for ssq
 #, fuzzy
@@ -30647,7 +30785,7 @@ msgstr "斯洛伐克文"
 
 #. Name for ssr
 msgid "Swiss-French Sign Language"
-msgstr "瑞士法語手語"
+msgstr ""
 
 #. Name for sss
 msgid "Sô"
@@ -30848,7 +30986,7 @@ msgstr "蘇庫馬語"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "巽丹語"
+msgstr "巽他語"
 
 #. Name for suq
 #, fuzzy
@@ -30876,8 +31014,9 @@ msgid "Sumbwa"
 msgstr ""
 
 #. Name for sux
+#, fuzzy
 msgid "Sumerian"
-msgstr "蘇美語"
+msgstr "塞爾維亞文"
 
 #. Name for suy
 msgid "Suyá"
@@ -30911,7 +31050,7 @@ msgstr "塞爾維亞文"
 
 #. Name for svk
 msgid "Slovakian Sign Language"
-msgstr "斯洛伐克手語"
+msgstr ""
 
 #. Name for svm
 msgid "Slavomolisano"
@@ -30950,7 +31089,7 @@ msgstr ""
 
 #. Name for swe
 msgid "Swedish"
-msgstr "瑞典語"
+msgstr "瑞典文"
 
 #. Name for swf
 #, fuzzy
@@ -30986,7 +31125,7 @@ msgstr ""
 
 #. Name for swl
 msgid "Swedish Sign Language"
-msgstr "瑞典手語"
+msgstr ""
 
 #. Name for swm
 #, fuzzy
@@ -31168,8 +31307,9 @@ msgid "Suoy"
 msgstr ""
 
 #. Name for syr
+#, fuzzy
 msgid "Syriac"
-msgstr "敘利亞語"
+msgstr "塞爾維亞文"
 
 #. Name for sys
 msgid "Sinyar"
@@ -31186,7 +31326,7 @@ msgstr "Sans serif(無襯線字體)"
 
 #. Name for syy
 msgid "Al-Sayyid Bedouin Sign Language"
-msgstr "Al-Sayyid 貝都因手語"
+msgstr ""
 
 #. Name for sza
 msgid "Semelai"
@@ -31276,8 +31416,9 @@ msgid "Tagoi"
 msgstr "泰國"
 
 #. Name for tah
+#, fuzzy
 msgid "Tahitian"
-msgstr "大溪地語"
+msgstr "拉脫維亞文"
 
 #. Name for taj
 msgid "Eastern Tamang"
@@ -31288,8 +31429,9 @@ msgid "Tamang, Eastern"
 msgstr ""
 
 #. Name for tak
+#, fuzzy
 msgid "Tala"
-msgstr "塔拉語"
+msgstr "泰國"
 
 #. Name for tal
 #, fuzzy
@@ -31297,8 +31439,9 @@ msgid "Tal"
 msgstr "泰國"
 
 #. Name for tam
+#, fuzzy
 msgid "Tamil"
-msgstr "坦米爾語"
+msgstr "泰國"
 
 #. Name for tan
 msgid "Tangale"
@@ -31469,7 +31612,7 @@ msgstr ""
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr "塔格板瓦語"
+msgstr ""
 
 #. Name for tbx
 #, fuzzy
@@ -31906,8 +32049,9 @@ msgid "Tagin"
 msgstr "丹麥文"
 
 #. Name for tgk
+#, fuzzy
 msgid "Tajik"
-msgstr "塔吉克語"
+msgstr "泰國"
 
 #. Name for tgl
 msgid "Tagalog"
@@ -31980,7 +32124,7 @@ msgstr "加泰隆文"
 
 #. Name for tha
 msgid "Thai"
-msgstr "泰語"
+msgstr "泰國"
 
 #. Name for thd
 msgid "Thayore"
@@ -32114,8 +32258,9 @@ msgid "Tifal"
 msgstr "泰國"
 
 #. Name for tig
+#, fuzzy
 msgid "Tigre"
-msgstr "泰格瑞語"
+msgstr "土耳其"
 
 #. Name for tih
 msgid "Timugon Murut"
@@ -32167,8 +32312,9 @@ msgid "Tiéfo"
 msgstr ""
 
 #. Name for tir
+#, fuzzy
 msgid "Tigrinya"
-msgstr "提格利尼亞語"
+msgstr "土耳其"
 
 #. Name for tis
 msgid "Masadiit Itneg"
@@ -33124,7 +33270,7 @@ msgstr "愛沙尼亞文"
 
 #. Name for tse
 msgid "Tunisian Sign Language"
-msgstr "突尼西亞手語"
+msgstr ""
 
 #. Name for tsg
 msgid "Tausug"
@@ -33135,8 +33281,9 @@ msgid "Tsuvan"
 msgstr ""
 
 #. Name for tsi
+#, fuzzy
 msgid "Tsimshian"
-msgstr "欽西安語"
+msgstr "烏黑蘭文"
 
 #. Name for tsj
 msgid "Tshangla"
@@ -33152,7 +33299,7 @@ msgstr ""
 
 #. Name for tsm
 msgid "Turkish Sign Language"
-msgstr "土耳其手語"
+msgstr ""
 
 #. Name for tsn
 msgid "Tswana"
@@ -33172,7 +33319,7 @@ msgstr ""
 
 #. Name for tsq
 msgid "Thai Sign Language"
-msgstr "泰國手語"
+msgstr ""
 
 #. Name for tsr
 msgid "Akei"
@@ -33210,7 +33357,7 @@ msgstr "邊界"
 
 #. Name for tsy
 msgid "Tebul Sign Language"
-msgstr "Tebul 手語"
+msgstr ""
 
 #. Name for tsz
 msgid "Purepecha"
@@ -33419,7 +33566,7 @@ msgstr "波羅的海"
 
 #. Name for tur
 msgid "Turkish"
-msgstr "土耳其語"
+msgstr "土耳其"
 
 #. Name for tus
 msgid "Tuscarora"
@@ -33469,7 +33616,7 @@ msgstr ""
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "吐瓦魯語"
+msgstr "吐瓦魯"
 
 #. Name for tvm
 msgid "Tela-Masbuar"
@@ -33557,7 +33704,7 @@ msgstr ""
 
 #. Name for twi
 msgid "Twi"
-msgstr "奇族語"
+msgstr "奇族語(迦那)"
 
 #. Name for twl
 #, fuzzy
@@ -33638,7 +33785,7 @@ msgstr ""
 
 #. Name for txg
 msgid "Tangut"
-msgstr "西夏語"
+msgstr ""
 
 #. Name for txh
 #, fuzzy
@@ -33771,7 +33918,7 @@ msgstr ""
 
 #. Name for tza
 msgid "Tanzanian Sign Language"
-msgstr "坦尚尼亞手語"
+msgstr ""
 
 #. Name for tzh
 #, fuzzy
@@ -33893,7 +34040,7 @@ msgstr ""
 
 #. Name for uga
 msgid "Ugaritic"
-msgstr "烏加里特楔形文字"
+msgstr "烏加里特語"
 
 #. Name for ugb
 msgid "Kuku-Ugbanh"
@@ -33905,7 +34052,7 @@ msgstr ""
 
 #. Name for ugn
 msgid "Ugandan Sign Language"
-msgstr "烏干達手語"
+msgstr ""
 
 #. Name for ugo
 msgid "Ugong"
@@ -33913,7 +34060,7 @@ msgstr ""
 
 #. Name for ugy
 msgid "Uruguayan Sign Language"
-msgstr "烏拉圭手語"
+msgstr ""
 
 #. Name for uha
 #, fuzzy
@@ -33957,7 +34104,7 @@ msgstr ""
 
 #. Name for ukl
 msgid "Ukrainian Sign Language"
-msgstr "烏克蘭手語"
+msgstr ""
 
 #. Name for ukp
 msgid "Ukpe-Bayobiri"
@@ -33968,12 +34115,13 @@ msgid "Ukwa"
 msgstr ""
 
 #. Name for ukr
+#, fuzzy
 msgid "Ukrainian"
-msgstr "烏克蘭語"
+msgstr "烏黑蘭文"
 
 #. Name for uks
 msgid "Urubú-Kaapor Sign Language"
-msgstr "烏魯布-卡阿珀手語"
+msgstr ""
 
 #. Name for uku
 msgid "Ukue"
@@ -34106,8 +34254,9 @@ msgid "Watut, North"
 msgstr ""
 
 #. Name for und
+#, fuzzy
 msgid "Undetermined"
-msgstr "未確定"
+msgstr "頁面處理"
 
 #. Name for une
 msgid "Uneme"
@@ -34516,7 +34665,7 @@ msgstr ""
 
 #. Name for vie
 msgid "Vietnamese"
-msgstr "越南語"
+msgstr "越南"
 
 #. Name for vif
 msgid "Vili"
@@ -34796,15 +34945,15 @@ msgstr "保加利亞文"
 
 #. Name for vsi
 msgid "Moldova Sign Language"
-msgstr "摩爾多瓦手語"
+msgstr ""
 
 #. Name for vsl
 msgid "Venezuelan Sign Language"
-msgstr "委內瑞拉手語"
+msgstr ""
 
 #. Name for vsv
 msgid "Valencian Sign Language"
-msgstr "瓦倫西亞手語"
+msgstr ""
 
 #. Name for vto
 msgid "Vitou"
@@ -35319,15 +35468,15 @@ msgstr ""
 
 #. Name for wlm
 msgid "Middle Welsh"
-msgstr "中古威爾斯語"
+msgstr ""
 
 #. Inverted name for wlm
 msgid "Welsh, Middle"
-msgstr "中古威爾斯語"
+msgstr ""
 
 #. Name for wln
 msgid "Walloon"
-msgstr "瓦隆語"
+msgstr "瓦隆語(比利時)"
 
 #. Name for wlo
 msgid "Wolio"
@@ -35761,7 +35910,7 @@ msgstr ""
 
 #. Name for wuu
 msgid "Wu Chinese"
-msgstr "吳語 漢語"
+msgstr "吳語"
 
 #. Inverted name for wuu
 msgid "Chinese, Wu"
@@ -35980,12 +36129,14 @@ msgid "Birrpayi"
 msgstr "泰國"
 
 #. Name for xbm
+#, fuzzy
 msgid "Middle Breton"
-msgstr "中古布列塔尼語"
+msgstr "布列塔尼文"
 
 #. Inverted name for xbm
+#, fuzzy
 msgid "Breton, Middle"
-msgstr "中古布列塔尼語"
+msgstr "布列塔尼文"
 
 #. Name for xbn
 #, fuzzy
@@ -36061,8 +36212,9 @@ msgid "Chorasmian"
 msgstr "克羅地亞文"
 
 #. Name for xcr
+#, fuzzy
 msgid "Carian"
-msgstr "卡里亞語"
+msgstr "邊界"
 
 #. Name for xct
 msgid "Classical Tibetan"
@@ -36341,7 +36493,7 @@ msgstr ""
 
 #. Name for xki
 msgid "Kenyan Sign Language"
-msgstr "肯亞手語"
+msgstr ""
 
 #. Name for xkj
 #, fuzzy
@@ -36426,12 +36578,14 @@ msgid "Loup B"
 msgstr ""
 
 #. Name for xlc
+#, fuzzy
 msgid "Lycian"
-msgstr "呂基亞語"
+msgstr "拉脫維亞文"
 
 #. Name for xld
+#, fuzzy
 msgid "Lydian"
-msgstr "利底安語"
+msgstr "位置"
 
 #. Name for xle
 #, fuzzy
@@ -36529,7 +36683,7 @@ msgstr "馬其頓文"
 
 #. Name for xml
 msgid "Malaysian Sign Language"
-msgstr "馬來西亞手語"
+msgstr ""
 
 #. Name for xmm
 msgid "Manado Malay"
@@ -36541,11 +36695,11 @@ msgstr ""
 
 #. Name for xmn
 msgid "Manichaean Middle Persian"
-msgstr "中古摩尼教波斯語"
+msgstr ""
 
 #. Inverted name for xmn
 msgid "Persian, Manichaean Middle"
-msgstr "中古摩尼教波斯語"
+msgstr ""
 
 #. Name for xmo
 #, fuzzy
@@ -36566,7 +36720,7 @@ msgstr ""
 
 #. Name for xms
 msgid "Moroccan Sign Language"
-msgstr "摩洛哥手語"
+msgstr ""
 
 #. Name for xmt
 msgid "Matbat"
@@ -36620,12 +36774,13 @@ msgid "Kanakanabu"
 msgstr ""
 
 #. Name for xng
+#, fuzzy
 msgid "Middle Mongolian"
-msgstr "中古蒙古語"
+msgstr "匈牙利文"
 
 #. Inverted name for xng
 msgid "Mongolian, Middle"
-msgstr "中古蒙古語"
+msgstr ""
 
 #. Name for xnh
 #, fuzzy
@@ -37422,8 +37577,9 @@ msgid "Yao"
 msgstr "瑤語"
 
 #. Name for yap
+#, fuzzy
 msgid "Yapese"
-msgstr "雅蒲語"
+msgstr "日本"
 
 #. Name for yaq
 msgid "Yaqui"
@@ -37651,8 +37807,9 @@ msgid "Yagaria"
 msgstr "保加利亞文"
 
 #. Name for ygs
+#, fuzzy
 msgid "Yolŋu Sign Language"
-msgstr "雍古手語"
+msgstr "韓國"
 
 #. Name for ygu
 msgid "Yugul"
@@ -37691,8 +37848,9 @@ msgid "Phowa, Hlepho"
 msgstr ""
 
 #. Name for yhs
+#, fuzzy
 msgid "Yan-nhaŋu Sign Language"
-msgstr "Yan-nhaŋu 手語"
+msgstr "韓國"
 
 #. Name for yia
 #, fuzzy
@@ -38249,7 +38407,7 @@ msgstr "波羅的海"
 
 #. Name for ysl
 msgid "Yugoslavian Sign Language"
-msgstr "南斯拉夫手語"
+msgstr ""
 
 #. Name for ysn
 #, fuzzy
@@ -38332,7 +38490,7 @@ msgstr ""
 
 #. Name for yue
 msgid "Yue Chinese"
-msgstr "粵語 漢語"
+msgstr "粵語"
 
 #. Inverted name for yue
 msgid "Chinese, Yue"
@@ -38716,7 +38874,7 @@ msgstr "德文"
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr "布力辛博語"
+msgstr ""
 
 #. Name for zbt
 #, fuzzy
@@ -38775,8 +38933,9 @@ msgid "Zhuang, Eastern Hongshuihe"
 msgstr ""
 
 #. Name for zen
+#, fuzzy
 msgid "Zenaga"
-msgstr "澤納加語"
+msgstr "波羅的海"
 
 #. Name for zga
 #, fuzzy
@@ -38865,7 +39024,7 @@ msgstr ""
 
 #. Name for zib
 msgid "Zimbabwe Sign Language"
-msgstr "辛巴威手語"
+msgstr ""
 
 #. Name for zik
 msgid "Zimakani"
@@ -39440,7 +39599,7 @@ msgstr "韓國"
 
 #. Name for zsl
 msgid "Zambian Sign Language"
-msgstr "尚比亞手語"
+msgstr ""
 
 #. Name for zsm
 #, fuzzy

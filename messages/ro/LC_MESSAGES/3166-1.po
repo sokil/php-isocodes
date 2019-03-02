@@ -9,15 +9,14 @@
 # Eddy Petrișor <eddy.petrisor@gmail.com>, 2004, 2006-2009.
 # Andrei Popescu <andreimpopescu@gmail.com>, 2010.
 # Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
-# Andrei POPESCU <andreimpopescu@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-30 15:08+0000\n"
-"Last-Translator: Andrei POPESCU <andreimpopescu@gmail.com>\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ro/>\n"
 "Language: ro\n"
@@ -26,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:01+0000\n"
 
 #. Name for ABW
@@ -155,7 +154,7 @@ msgstr "Republica Benin"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr "Bonaire, Sint Eustatius și Saba"
+msgstr ""
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -354,10 +353,14 @@ msgid "Union of the Comoros"
 msgstr "Uniunea Comoros"
 
 #. Name for CPV
+#, fuzzy
+#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Capul Verde"
 
 #. Official name for CPV
+#, fuzzy
+#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Republica Capul Verde"
 
@@ -378,6 +381,7 @@ msgid "Republic of Cuba"
 msgstr "Republica Cuba"
 
 #. Name for CUW, Official name for CUW
+#, fuzzy
 msgid "Curaçao"
 msgstr "Curaçao"
 
@@ -399,7 +403,7 @@ msgstr "Republica Cipru"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr "Cehia"
+msgstr ""
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -470,8 +474,9 @@ msgid "Eritrea"
 msgstr "Eritreea"
 
 #. Official name for ERI
+#, fuzzy
 msgid "the State of Eritrea"
-msgstr "Statul Eritrea"
+msgstr "Statele Unite ale Americii"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -514,8 +519,9 @@ msgid "Fiji"
 msgstr "Fiji"
 
 #. Official name for FJI
+#, fuzzy
 msgid "Republic of Fiji"
-msgstr "Republica Fiji"
+msgstr "Republica Haiti"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -551,7 +557,7 @@ msgstr "Republica Gabon"
 
 #. Name for GBR
 msgid "United Kingdom"
-msgstr "Regatul Unit"
+msgstr "Regatul Unit al Marii Britanii"
 
 #. Official name for GBR
 msgid "United Kingdom of Great Britain and Northern Ireland"
@@ -594,8 +600,10 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
+#, fuzzy
+#| msgid "Republic of the Gambia"
 msgid "Islamic Republic of the Gambia"
-msgstr "Republica Islamică Gambia"
+msgstr "Republica Gambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -663,7 +671,7 @@ msgstr "Regiunea Chineză cu administrare specială Hong Kong"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Insula Heard și Insulele McDonald"
+msgstr "Insulele Heard și McDonald"
 
 #. Name for HND
 msgid "Honduras"
@@ -823,7 +831,7 @@ msgstr "Republica Kiribati"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Saint Kitts și Nevis"
+msgstr "Sfinții Kitts și Nevis"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -991,7 +999,7 @@ msgstr "Macedonia, Republica"
 
 #. Official name for MKD
 msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Fosta Republică Iugoslavă Macedonia"
+msgstr "Fosta republică iugoslavă Macedonia"
 
 #. Name for MLI
 msgid "Mali"
@@ -1014,8 +1022,9 @@ msgid "Myanmar"
 msgstr "Myanmar"
 
 #. Official name for MMR
+#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "Republica Myanmar"
+msgstr "Republica Guyana"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1218,8 +1227,9 @@ msgid "Papua New Guinea"
 msgstr "Papua Noua Guinee"
 
 #. Official name for PNG
+#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Statul Independent Papua Noua Guinee"
+msgstr "Statul Independent Samoa"
 
 #. Name for POL
 msgid "Poland"
@@ -1259,11 +1269,12 @@ msgstr "Republica Paraguay"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr "Palestina, Statul"
+msgstr ""
 
 #. Official name for PSE
+#, fuzzy
 msgid "the State of Palestine"
-msgstr "Statul Palestina"
+msgstr "Statele Unite ale Americii"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1374,12 +1385,13 @@ msgid "Somalia"
 msgstr "Somalia"
 
 #. Official name for SOM
+#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Republica Federală Somalia"
+msgstr "Republica federală Germană"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr "Saint Pierre și Miquelon"
+msgstr "Sfinții Pierre și Miquelon"
 
 #. Name for SRB
 msgid "Serbia"
@@ -1394,8 +1406,9 @@ msgid "South Sudan"
 msgstr "Sudanul de Sud"
 
 #. Official name for SSD
+#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "Republica Sudanului de Sud"
+msgstr "Republica Sudan"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1407,7 +1420,7 @@ msgstr "Republica democrată Sao Tome și Principe"
 
 #. Name for SUR
 msgid "Suriname"
-msgstr "Surinam"
+msgstr "Suriname"
 
 #. Official name for SUR
 msgid "Republic of Suriname"
@@ -1446,8 +1459,9 @@ msgid "Kingdom of Swaziland"
 msgstr "Regatul Swaziland"
 
 #. Name for SXM, Official name for SXM
+#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "Sfântul Martin (partea olandeză)"
+msgstr "Sfântul Martin (partea franceză)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1566,6 +1580,7 @@ msgid "United Republic of Tanzania"
 msgstr "Republica Unită Tanzania"
 
 #. Common name for TZA
+#, fuzzy
 msgid "Tanzania"
 msgstr "Tanzania"
 
@@ -1615,7 +1630,7 @@ msgstr "Vatican"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
-msgstr "Saint Vincent și Grenadinele"
+msgstr "Sfinții Vincent și Grenadines"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
@@ -1654,6 +1669,8 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Republica socialistă Vietnam"
 
 #. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vietnam"
 

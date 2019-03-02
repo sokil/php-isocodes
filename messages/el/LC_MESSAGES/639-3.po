@@ -10,14 +10,14 @@
 # Konstantinos Margaritis <markos@debian.org>, 2004.
 # Athanasios Lefteris <alefteris@gmail.com>, 2008.
 # Savvas Radevic <vicedar@gmail.com>, 2012.
-# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2014, 2018.
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-29 09:08+0000\n"
+"PO-Revision-Date: 2018-01-01 15:07+0000\n"
 "Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/el/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -283,7 +283,7 @@ msgstr ""
 #. Name for ace
 #, fuzzy
 msgid "Achinese"
-msgstr "Ατσενίζ"
+msgstr "Κινέζικα"
 
 #. Name for acf
 msgid "Saint Lucian Creole French"
@@ -5803,8 +5803,9 @@ msgid "Chinantec, Ojitlán"
 msgstr ""
 
 #. Name for chk
+#, fuzzy
 msgid "Chuukese"
-msgstr ""
+msgstr "Κινέζικα"
 
 #. Name for chl
 msgid "Cahuilla"
@@ -9334,7 +9335,7 @@ msgstr ""
 #. Name for frs
 #, fuzzy
 msgid "Eastern Frisian"
-msgstr "Ανατολικά Frisian"
+msgstr "Εσθονικά"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
@@ -9932,8 +9933,9 @@ msgid "Enya"
 msgstr ""
 
 #. Name for gez
+#, fuzzy
 msgid "Geez"
-msgstr ""
+msgstr "Ελληνικά"
 
 #. Name for gfk
 msgid "Patpatar"
@@ -14088,7 +14090,7 @@ msgstr ""
 #. Name for kha
 #, fuzzy
 msgid "Khasi"
-msgstr "Κάζι"
+msgstr "Ταϊλανδέζικη"
 
 #. Name for khb
 msgid "Lü"
@@ -15311,7 +15313,7 @@ msgstr ""
 #. Name for krl
 #, fuzzy
 msgid "Karelian"
-msgstr "Καρελιακά"
+msgstr "Ιταλικά"
 
 #. Name for krm
 msgid "Krim"
@@ -20397,7 +20399,7 @@ msgstr ""
 #. Name for mwl
 #, fuzzy
 msgid "Mirandese"
-msgstr "Μιραντέζικα"
+msgstr "Κινέζικα"
 
 #. Name for mwm
 msgid "Sar"
@@ -24551,8 +24553,9 @@ msgid "Old Persian (ca. 600-400 B.C.)"
 msgstr ""
 
 #. Inverted name for peo
+#, fuzzy
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Περσικά, παλαιά (600-400 π.Χ.)"
+msgstr "Περσικά, Παλαιά (600-400 π.Χ.)"
 
 #. Name for pep
 msgid "Kunja"
@@ -25456,7 +25459,7 @@ msgstr "Ιρλανδικά, Παλαιά (ως το 900)"
 #. Inverted name for pro
 #, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "Προβηγκικά, παλαιά (ως το 1500)"
+msgstr "Ιρλανδικά, Παλαιά (ως το 900)"
 
 #. Name for prp
 msgid "Parsi"
@@ -28733,7 +28736,7 @@ msgstr ""
 #. Name for srn
 #, fuzzy
 msgid "Sranan Tongo"
-msgstr "Σρανάρ Τόνγκο"
+msgstr "Ουκρανικά"
 
 #. Name for sro
 #, fuzzy
@@ -30530,8 +30533,9 @@ msgid "Klingon"
 msgstr ""
 
 #. Name for tli
+#, fuzzy
 msgid "Tlingit"
-msgstr ""
+msgstr "Ινδουικά"
 
 #. Name for tlj
 msgid "Talinga-Bwisi"

@@ -7,14 +7,14 @@
 # Spiros Papadimitriou <spapadim+@cs.cmu.edu>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Konstantinos Margaritis <markos@debian.org>, 2004.
-# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2015-2017, 2018.
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2015-2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-29 09:08+0000\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
 "el/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -556,6 +556,8 @@ msgid "Surinam Dollar"
 msgstr "δολάριο Σουρινάμ"
 
 #. Name for SSP
+#, fuzzy
+#| msgid "Sudanese Pound"
 msgid "South Sudanese Pound"
 msgstr "λίρα Νότιου Σουδάν"
 

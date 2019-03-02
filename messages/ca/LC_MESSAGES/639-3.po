@@ -9,15 +9,14 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Softcatalà <info@softcatala.org>, 2000-2001.
 # ferranroig <forums@ferranroig.com>, 2018.
-# Joan Montané <joan@montane.cat>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-24 08:04+0000\n"
-"Last-Translator: Joan Montané <joan@montane.cat>\n"
+"PO-Revision-Date: 2018-06-07 12:14+0000\n"
+"Last-Translator: ferranroig <forums@ferranroig.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ca/>\n"
 "Language: ca\n"
@@ -25,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4\n"
+"X-Generator: Weblate 3.0\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -27681,8 +27680,10 @@ msgid "Old Provençal (to 1500)"
 msgstr ""
 
 #. Inverted name for pro
+#, fuzzy
+#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "provençal antic (fins al 1500)"
+msgstr "provençal antic (fins al 1500); occità antic (fins al 1500)"
 
 #. Name for prp
 #, fuzzy
