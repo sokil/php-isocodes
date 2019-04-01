@@ -6,6 +6,7 @@ language: php
 
 php:
   - nightly
+  - 7.3
   - 7.2
   - 7.1
   - 7.0
@@ -15,15 +16,14 @@ php:
 matrix:
   allow_failures:
     - php: nightly
-    - php: 7.2
 
 before_script:
   - composer install --no-interaction
   - sudo locale-gen uk_UA.UTF-8
-  
+
 script:
   - mkdir -p build/logs
   - composer cover
-  
+
 after_script:
   - composer coveralls
