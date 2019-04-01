@@ -84,6 +84,10 @@ if [[ $? -eq 1 ]]; then
     fi
 fi
 
+if [[ ! -e "vendor/" ]]; then
+    $COMPOSER_PATH install
+fi
+
 $COMPOSER_PATH test
 
 # message on success test
