@@ -1,5 +1,12 @@
 #!/usr/bin/env bash
 
+#############################################
+#                                           #
+#    Update internal database for           #
+#    publishing to GitHub                   #
+#                                           #
+#############################################
+
 CURRENT_DIR=$(dirname $(readlink -f $0))
 PROJECT_DIR=$CURRENT_DIR/..
 PKG_ISOCODES_DIR="${PROJECT_DIR}/build/iso-codes"

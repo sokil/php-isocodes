@@ -52,7 +52,7 @@ composer require sokil/php-isocodes
 
 ## Locale configuration
 
-Before using IsoCodes database you need to setup valid locale to get transtions worked:
+Before using IsoCodes database you need to setup valid locale to get translations worked:
 
 ```php
 <?php
@@ -97,8 +97,8 @@ Generation complete.
 Database and related gettext files located inside this repo in `databases` and `messages` directories. 
 This data periodically updated with package version increment.
 
-If you want to update database more often, use script `update_db.sh`. 
-Call this script by cron, during deploy process or when build your docker image. 
+If you want to update database more often, use script `./bin/update_iso_codes_db.sh`. 
+Call this script by cron, during deploy process or when build your docker image.
 
 ```
 /path/to/project/vendor/sokil/php-isocodes/bin/update_iso_codes_db.sh /var/isocodes
