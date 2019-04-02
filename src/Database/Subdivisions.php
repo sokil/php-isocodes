@@ -39,20 +39,22 @@ class Subdivisions extends AbstractDatabase
     }
 
     /**
-     * @param $code
+     * @param string $subdivisionCode in format "alpha2country-subdivision", e.g. "UA-43"
+     *
      * @return Subdivision
      */
-    public function getByCode($code)
+    public function getByCode($subdivisionCode)
     {
-        return $this->find('code', $code);
+        return $this->find('code', $subdivisionCode);
     }
 
     /**
-     * @param $code
+     * @param string $alpha2CountryCode e.g. "UA"
+     *
      * @return Subdivision[]
      */
-    public function getAllByCountryCode($code)
+    public function getAllByCountryCode($alpha2CountryCode)
     {
-        return $this->find('country_code', $code);
+        return $this->find('country_code', $alpha2CountryCode);
     }
 }
