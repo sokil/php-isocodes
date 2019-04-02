@@ -11,7 +11,7 @@
 
 :package: Based on Python's [pycountry](https://pypi.python.org/pypi/pycountry) and Debian's [iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes.git).
 
-:1234: Database version: iso-codes-4.2 from 2019-04-02 08:53
+:1234: Database version: iso-codes-4.2-87-g90ab7c14 from 2019-04-02 23:51
 
 :tongue: Current translation status: https://salsa.debian.org/iso-codes-team/iso-codes#status-of-translations
 
@@ -101,7 +101,7 @@ If you want to update database more often, use script `update_db.sh`.
 Call this script by cron, during deploy process or when build your docker image. 
 
 ```
-/path/to/project/vendor/sokil/php-isocodes/update_db.sh /var/isocodes
+/path/to/project/vendor/sokil/php-isocodes/bin/update_iso_codes_db.sh /var/isocodes
 ```
 
 Now you need to configure factory to use this directory:
