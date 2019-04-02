@@ -16,21 +16,23 @@
 # Keld Simonsen <keld@dkuug.dk>, 2000-2001.
 # Ole Laursen <olau@hardworking.dk>, 2001.
 # Claus Hindsgaul <claus_h@image.dk>, 2004-2005.
+# scootergrisen <scootergrisen@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2005-12-27 12:09+0100\n"
-"Last-Translator: Claus Hindsgaul <claus_h@image.dk>\n"
-"Language-Team: Danish <dansk@klid.dk>\n"
+"PO-Revision-Date: 2019-03-06 12:57+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.10.2\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.5\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -8929,9 +8931,8 @@ msgid "Domu"
 msgstr ""
 
 #. Name for doh
-#, fuzzy
 msgid "Dong"
-msgstr "Mongo"
+msgstr "Dong"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -10891,9 +10892,8 @@ msgid "Dari, Zoroastrian"
 msgstr ""
 
 #. Name for gcc
-#, fuzzy
 msgid "Mali"
-msgstr "Mari (Tjeremissisk)"
+msgstr "Mali"
 
 #. Name for gcd
 #, fuzzy
@@ -11449,7 +11449,7 @@ msgstr "Santali"
 
 #. Name for gle
 msgid "Irish"
-msgstr "Irsk"
+msgstr "irsk; gælisk (irsk)"
 
 #. Name for glg
 #, fuzzy
@@ -19623,9 +19623,8 @@ msgid "Loarki"
 msgstr "Lozi"
 
 #. Name for lrl
-#, fuzzy
 msgid "Lari"
-msgstr "Mari (Tjeremissisk)"
+msgstr "Lari"
 
 #. Name for lrm
 #, fuzzy
@@ -28511,9 +28510,8 @@ msgid "Old Provençal (to 1500)"
 msgstr "Provençalsk Gammelt (indtil 1500)"
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "Provençalsk Gammelt (indtil 1500)"
+msgstr "provençalsk, gammelt (indtil 1500)"
 
 #. Name for prp
 #, fuzzy
@@ -31552,9 +31550,8 @@ msgid "Simbari"
 msgstr "Bihari"
 
 #. Name for smc
-#, fuzzy
 msgid "Som"
-msgstr "Somalisk"
+msgstr "Som"
 
 #. Name for smd
 #, fuzzy
@@ -32999,9 +32996,8 @@ msgid "Tamang, Eastern"
 msgstr ""
 
 #. Name for tak
-#, fuzzy
 msgid "Tala"
-msgstr "Tatarisk"
+msgstr "Tala"
 
 #. Name for tal
 #, fuzzy

@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Maori <https://hosted.weblate.org/projects/iso-codes/"
@@ -616,7 +616,7 @@ msgstr ""
 
 #. Official name for GMB
 #, fuzzy
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Tūwehe"
 
 #. Name for GNB
@@ -1028,14 +1028,14 @@ msgid "Republic of the Marshall Islands"
 msgstr "Tūwehe"
 
 #. Name for MKD
-#, fuzzy
-msgid "Macedonia, Republic of"
-msgstr "Makerōnia"
+msgid "North Macedonia"
+msgstr ""
 
 #. Official name for MKD
 #, fuzzy
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Makerōnia"
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Tūwehe Rituānia"
 
 #. Name for MLI
 msgid "Mali"
@@ -1503,13 +1503,14 @@ msgid "Kingdom of Sweden"
 msgstr "Kīngitanga o Huitene"
 
 #. Name for SWZ
-msgid "Swaziland"
+msgid "Eswatini"
 msgstr ""
 
 #. Official name for SWZ
 #, fuzzy
-msgid "Kingdom of Swaziland"
-msgstr "Kīngitanga o"
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Kīngitanga o Pāniora"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

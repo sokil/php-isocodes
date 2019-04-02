@@ -7,15 +7,15 @@
 # Copyright ©
 # Þórarinn Rúnar Einarsson <thori@mindspring.com>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Sveinn í Felli <sv1@fellsnet.is>, 2010-2013, 2015, 2017.
+# Sveinn í Felli <sv1@fellsnet.is>, 2010-2013, 2015, 2017, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-02-14 18:36+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/is/>\n"
 "Language: is\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.6-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -591,8 +591,8 @@ msgid "Gambia"
 msgstr "Gambía"
 
 #. Official name for GMB
-msgid "Islamic Republic of the Gambia"
-msgstr "Íslamska lýðveldið Gambía"
+msgid "Republic of the Gambia"
+msgstr "Lýðveldið Gambía"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -983,12 +983,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Lýðveldi Marshalleyja"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Lýðveldið Makedónía"
+msgid "North Macedonia"
+msgstr "Norður-Makedónía"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Fyrrum júgóslavíulýðveldið Makedónía"
+msgid "Republic of North Macedonia"
+msgstr "Lýðveldið Norðurmakedónía"
 
 #. Name for MLI
 msgid "Mali"
@@ -1435,12 +1435,12 @@ msgid "Kingdom of Sweden"
 msgstr "Sænska konungsríkið"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Svasíland"
+msgid "Eswatini"
+msgstr "Esvatiní (Svasíland)"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Konungsríkið Svasíland"
+msgid "Kingdom of Eswatini"
+msgstr "Konungsríkið Esvatiní (Svasíland)"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

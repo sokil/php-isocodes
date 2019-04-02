@@ -1,0 +1,484 @@
+# Translation of ISO 639-5 to Danish
+# Codes for the representation of names of languages
+# Part 5: Alpha-3 code for language families and groups
+# .
+# This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
+# scootergrisen <scootergrisen@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_639-5\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-02-06 11:10+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-5/da/>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.5-dev\n"
+
+#. Name for aav
+msgid "Austro-Asiatic languages"
+msgstr ""
+
+#. Name for afa
+msgid "Afro-Asiatic languages"
+msgstr ""
+
+#. Name for alg
+msgid "Algonquian languages"
+msgstr ""
+
+#. Name for alv
+msgid "Atlantic-Congo languages"
+msgstr ""
+
+#. Name for apa
+msgid "Apache languages"
+msgstr ""
+
+#. Name for aqa
+msgid "Alacalufan languages"
+msgstr ""
+
+#. Name for aql
+msgid "Algic languages"
+msgstr ""
+
+#. Name for art
+msgid "Artificial languages"
+msgstr ""
+
+#. Name for ath
+msgid "Athapascan languages"
+msgstr ""
+
+#. Name for auf
+msgid "Arauan languages"
+msgstr ""
+
+#. Name for aus
+msgid "Australian languages"
+msgstr ""
+
+#. Name for awd
+msgid "Arawakan languages"
+msgstr ""
+
+#. Name for azc
+msgid "Uto-Aztecan languages"
+msgstr ""
+
+#. Name for bad
+msgid "Banda languages"
+msgstr ""
+
+#. Name for bai
+msgid "Bamileke languages"
+msgstr ""
+
+#. Name for bat
+msgid "Baltic languages"
+msgstr ""
+
+#. Name for ber
+msgid "Berber languages"
+msgstr ""
+
+#. Name for bih
+msgid "Bihari languages"
+msgstr ""
+
+#. Name for bnt
+msgid "Bantu languages"
+msgstr ""
+
+#. Name for btk
+msgid "Batak languages"
+msgstr ""
+
+#. Name for cai
+msgid "Central American Indian languages"
+msgstr ""
+
+#. Name for cau
+msgid "Caucasian languages"
+msgstr ""
+
+#. Name for cba
+msgid "Chibchan languages"
+msgstr ""
+
+#. Name for ccn
+msgid "North Caucasian languages"
+msgstr ""
+
+#. Name for ccs
+msgid "South Caucasian languages"
+msgstr ""
+
+#. Name for cdc
+msgid "Chadic languages"
+msgstr ""
+
+#. Name for cdd
+msgid "Caddoan languages"
+msgstr ""
+
+#. Name for cel
+msgid "Celtic languages"
+msgstr ""
+
+#. Name for cmc
+msgid "Chamic languages"
+msgstr ""
+
+#. Name for cpe
+msgid "Creoles and pidgins, English‑based"
+msgstr ""
+
+#. Name for cpf
+msgid "Creoles and pidgins, French‑based"
+msgstr ""
+
+#. Name for cpp
+msgid "Creoles and pidgins, Portuguese-based"
+msgstr ""
+
+#. Name for crp
+msgid "Creoles and pidgins"
+msgstr ""
+
+#. Name for csu
+msgid "Central Sudanic languages"
+msgstr ""
+
+#. Name for cus
+msgid "Cushitic languages"
+msgstr ""
+
+#. Name for day
+msgid "Land Dayak languages"
+msgstr ""
+
+#. Name for dmn
+msgid "Mande languages"
+msgstr ""
+
+#. Name for dra
+msgid "Dravidian languages"
+msgstr ""
+
+#. Name for egx
+msgid "Egyptian languages"
+msgstr ""
+
+#. Name for esx
+msgid "Eskimo-Aleut languages"
+msgstr ""
+
+#. Name for euq
+msgid "Basque (family)"
+msgstr ""
+
+#. Name for fiu
+msgid "Finno-Ugrian languages"
+msgstr ""
+
+#. Name for fox
+msgid "Formosan languages"
+msgstr ""
+
+#. Name for gem
+msgid "Germanic languages"
+msgstr ""
+
+#. Name for gme
+msgid "East Germanic languages"
+msgstr ""
+
+#. Name for gmq
+msgid "North Germanic languages"
+msgstr ""
+
+#. Name for gmw
+msgid "West Germanic languages"
+msgstr ""
+
+#. Name for grk
+msgid "Greek languages"
+msgstr ""
+
+#. Name for hmx
+msgid "Hmong-Mien languages"
+msgstr ""
+
+#. Name for hok
+msgid "Hokan languages"
+msgstr ""
+
+#. Name for hyx
+msgid "Armenian (family)"
+msgstr ""
+
+#. Name for iir
+msgid "Indo-Iranian languages"
+msgstr ""
+
+#. Name for ijo
+msgid "Ijo languages"
+msgstr ""
+
+#. Name for inc
+msgid "Indic languages"
+msgstr "indiske sprog"
+
+#. Name for ine
+msgid "Indo-European languages"
+msgstr "indoeuropæiske sprog"
+
+#. Name for ira
+msgid "Iranian languages"
+msgstr "iranske sprog"
+
+#. Name for iro
+msgid "Iroquoian languages"
+msgstr ""
+
+#. Name for itc
+msgid "Italic languages"
+msgstr ""
+
+#. Name for jpx
+msgid "Japanese (family)"
+msgstr ""
+
+#. Name for kar
+msgid "Karen languages"
+msgstr ""
+
+#. Name for kdo
+msgid "Kordofanian languages"
+msgstr ""
+
+#. Name for khi
+msgid "Khoisan languages"
+msgstr ""
+
+#. Name for kro
+msgid "Kru languages"
+msgstr ""
+
+#. Name for map
+msgid "Austronesian languages"
+msgstr ""
+
+#. Name for mkh
+msgid "Mon-Khmer languages"
+msgstr ""
+
+#. Name for mno
+msgid "Manobo languages"
+msgstr ""
+
+#. Name for mun
+msgid "Munda languages"
+msgstr ""
+
+#. Name for myn
+msgid "Mayan languages"
+msgstr ""
+
+#. Name for nah
+msgid "Nahuatl languages"
+msgstr ""
+
+#. Name for nai
+msgid "North American Indian languages"
+msgstr ""
+
+#. Name for ngf
+msgid "Trans-New Guinea languages"
+msgstr ""
+
+#. Name for nic
+msgid "Niger-Kordofanian languages"
+msgstr ""
+
+#. Name for nub
+msgid "Nubian languages"
+msgstr ""
+
+#. Name for omq
+msgid "Oto-Manguean languages"
+msgstr ""
+
+#. Name for omv
+msgid "Omotic languages"
+msgstr ""
+
+#. Name for oto
+msgid "Otomian languages"
+msgstr ""
+
+#. Name for paa
+msgid "Papuan languages"
+msgstr "papuanske sprog"
+
+#. Name for phi
+msgid "Philippine languages"
+msgstr "filippinske sprog"
+
+#. Name for plf
+msgid "Central Malayo-Polynesian languages"
+msgstr ""
+
+#. Name for poz
+msgid "Malayo-Polynesian languages"
+msgstr ""
+
+#. Name for pqe
+msgid "Eastern Malayo-Polynesian languages"
+msgstr ""
+
+#. Name for pqw
+msgid "Western Malayo-Polynesian languages"
+msgstr ""
+
+#. Name for pra
+msgid "Prakrit languages"
+msgstr ""
+
+#. Name for qwe
+msgid "Quechuan (family)"
+msgstr ""
+
+#. Name for roa
+msgid "Romance languages"
+msgstr "romanske sprog"
+
+#. Name for sai
+msgid "South American Indian languages"
+msgstr ""
+
+#. Name for sal
+msgid "Salishan languages"
+msgstr ""
+
+#. Name for sdv
+msgid "Eastern Sudanic languages"
+msgstr ""
+
+#. Name for sem
+msgid "Semitic languages"
+msgstr ""
+
+#. Name for sgn
+msgid "sign languages"
+msgstr ""
+
+#. Name for sio
+msgid "Siouan languages"
+msgstr ""
+
+#. Name for sit
+msgid "Sino-Tibetan languages"
+msgstr ""
+
+#. Name for sla
+msgid "Slavic languages"
+msgstr ""
+
+#. Name for smi
+msgid "Sami languages"
+msgstr ""
+
+#. Name for son
+msgid "Songhai languages"
+msgstr ""
+
+#. Name for sqj
+msgid "Albanian languages"
+msgstr ""
+
+#. Name for ssa
+msgid "Nilo-Saharan languages"
+msgstr ""
+
+#. Name for syd
+msgid "Samoyedic languages"
+msgstr ""
+
+#. Name for tai
+msgid "Tai languages"
+msgstr ""
+
+#. Name for tbq
+msgid "Tibeto-Burman languages"
+msgstr ""
+
+#. Name for trk
+msgid "Turkic languages"
+msgstr ""
+
+#. Name for tup
+msgid "Tupi languages"
+msgstr ""
+
+#. Name for tut
+msgid "Altaic languages"
+msgstr "altaiske sprog"
+
+#. Name for tuw
+msgid "Tungus languages"
+msgstr ""
+
+#. Name for urj
+msgid "Uralic languages"
+msgstr ""
+
+#. Name for wak
+msgid "Wakashan languages"
+msgstr ""
+
+#. Name for wen
+msgid "Sorbian languages"
+msgstr ""
+
+#. Name for xgn
+msgid "Mongolian languages"
+msgstr ""
+
+#. Name for xnd
+msgid "Na-Dene languages"
+msgstr ""
+
+#. Name for ypk
+msgid "Yupik languages"
+msgstr ""
+
+#. Name for zhx
+msgid "Chinese (family)"
+msgstr ""
+
+#. Name for zle
+msgid "East Slavic languages"
+msgstr ""
+
+#. Name for zls
+msgid "South Slavic languages"
+msgstr ""
+
+#. Name for zlw
+msgid "West Slavic languages"
+msgstr ""
+
+#. Name for znd
+msgid "Zande languages"
+msgstr ""

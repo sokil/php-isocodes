@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2018-05-03 12:39+0000\n"
 "Last-Translator: Muhammad Nur Hidayat Yasuyoshi <mnh48mail@gmail.com>\n"
 "Language-Team: Malay <https://hosted.weblate.org/projects/iso-codes/"
@@ -603,7 +603,7 @@ msgstr "Gambia"
 #. Official name for GMB
 #, fuzzy
 #| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Republik Gambia"
 
 #. Name for GNB
@@ -999,12 +999,15 @@ msgstr ""
 
 #. Name for MKD
 #, fuzzy
-msgid "Macedonia, Republic of"
-msgstr "Republik Dominican"
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "New Caledonia"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr ""
+#, fuzzy
+#| msgid "Republic of Estonia"
+msgid "Republic of North Macedonia"
+msgstr "Republik Estonia"
 
 #. Name for MLI
 msgid "Mali"
@@ -1456,12 +1459,14 @@ msgid "Kingdom of Sweden"
 msgstr ""
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr ""
+#, fuzzy
+#| msgid "Kingdom of Bahrain"
+msgid "Kingdom of Eswatini"
+msgstr "Negara Bahrain"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

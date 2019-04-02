@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2010-04-07 12:26+0530\n"
 "Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
 "Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
@@ -595,9 +595,9 @@ msgstr "ଗାମ୍ବିୟା"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "ଗାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "ଜାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -988,12 +988,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "ମାର୍ଶାଲ ଦ୍ୱିପ ଗଣତନ୍ତ୍ର"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "ମେସିଡୋନିୟା, ଗଣତନ୍ତ୍ର"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "ନ୍ଯୁ କାଲେଡୋନିୟା"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "ମେସିଡୋନିୟାର ପୂର୍ବତନ ୟୁଗୋସ୍ଲାଭ ଗଣତନ୍ତ୍ର"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "ଲିଥୁଆନିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for MLI
 msgid "Mali"
@@ -1446,12 +1450,14 @@ msgid "Kingdom of Sweden"
 msgstr "ସ୍ବୀଡେନ ସାମ୍ରାଜ୍ୟ"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ ସାମ୍ରାଜ୍ୟ"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "ସ୍ପେନ ଗଣତନ୍ତ୍ର"
 
 #. Name for SXM, Official name for SXM
 #, fuzzy

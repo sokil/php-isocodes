@@ -6,14 +6,15 @@
 # .
 # Copyright ©
 # Balázs Meskó <meskobalazs@fedoraproject.org>, 2017.
+# Doma Gergő <domag02@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-01-14 14:41+0000\n"
-"Last-Translator: Balázs Meskó <meskobalazs@gmail.com>\n"
+"PO-Revision-Date: 2019-03-27 08:04+0000\n"
+"Last-Translator: Doma Gergő <domag02@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/hu/>\n"
 "Language: hu\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.6-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aav
@@ -322,7 +323,7 @@ msgstr "oto-mangue nyelvek"
 
 #. Name for omv
 msgid "Omotic languages"
-msgstr ""
+msgstr "omotik nyelvek"
 
 #. Name for oto
 msgid "Otomian languages"
@@ -446,7 +447,7 @@ msgstr "uráli nyelvek"
 
 #. Name for wak
 msgid "Wakashan languages"
-msgstr ""
+msgstr "vakasa nyelvek"
 
 #. Name for wen
 msgid "Sorbian languages"
@@ -458,7 +459,7 @@ msgstr "mongol nyelvek"
 
 #. Name for xnd
 msgid "Na-Dene languages"
-msgstr ""
+msgstr "na-dene nyelvek"
 
 #. Name for ypk
 msgid "Yupik languages"

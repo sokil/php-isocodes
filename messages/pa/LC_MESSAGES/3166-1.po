@@ -7,13 +7,14 @@
 # Copyright ©
 # Amanpreet Singh Alam[ਆਲਮ] <amanpreetalam@yahoo.com>, 2005.
 # A S Alam <apbrar@gmail.com>, 2009.
+# Aman ALam <alam.yellow@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-02-01 03:40+0000\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-03-11 16:03+0000\n"
 "Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
 "Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/pa/>\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.5.1\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -589,8 +590,10 @@ msgid "Gambia"
 msgstr "ਗਾਬੀਆ"
 
 #. Official name for GMB
-msgid "Islamic Republic of the Gambia"
-msgstr "ਗੈਂਬੀਆ ਇਸਲਾਮਿਕ ਗਣਰਾਜ"
+#, fuzzy
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "ਜੈਂਬੀਆ ਗਣਰਾਜ"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -981,12 +984,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "ਮਾਰਸ਼ਲ ਟਾਪੂ ਗਣਰਾਜ"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "ਮੈਕਡੋਨੀਆ ਦਾ ਪੁਰਾਣਾ ਯੂਗੋਸਲਾਵ ਗਣਰਾਜ"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "ਲੀਥੂਨੀਆ ਗਣਰਾਜ"
 
 #. Name for MLI
 msgid "Mali"
@@ -1330,7 +1337,7 @@ msgstr "ਦੱਖਣੀ ਜਾਰਜੀਆ ਅਤੇ ਦੱਖਣੀ ਸੈਂ�
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr ""
+msgstr "ਸੇਂਟ ਹੇਲੇਨਾ, ਅਸੀਂਸੀਅਨ ਅਤੇ ਟਰੀਸਟਾਨ ਡਾ ਚੁਨਹਾ"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
@@ -1369,9 +1376,8 @@ msgid "Somalia"
 msgstr "ਸੋਮਾਲੀਆ"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "ਸੰਘੀ ਜਰਮਨੀ"
+msgstr "ਸੋਮਾਲੀਆ ਦਾ ਸੰਘੀ ਗਣਰਾਜ"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1386,14 +1392,12 @@ msgid "Republic of Serbia"
 msgstr "ਸੀਰਬੀਆ ਗਣਰਾਜ"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "ਸੂਡਾਨ ਗਣਰਾਜ"
+msgstr "ਦੱਖਣੀ ਸੂਡਾਨ"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "ਸੂਡਾਨ ਗਣਰਾਜ"
+msgstr "ਦੱਖਣੀ ਸੂਡਾਨ ਗਣਰਾਜ"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1436,17 +1440,18 @@ msgid "Kingdom of Sweden"
 msgstr "ਸਵੀਡਨ ਖੇਤਰ"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "ਸਵਰਜ਼ਲੈਂਡ"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "ਸਵਰਜ਼ਲੈਂਡ ਟਾਪੂ"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "ਸਪੇਨ ਦੇਸ਼"
 
 #. Name for SXM, Official name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "ਸੇਂਟ ਮਾਰਟਿਨ (ਫਰਾਂਸੀਸੀ ਭਾਗ)"
+msgstr "ਸੇਂਟ ਮਾਰਟਿਨ (ਡੱਚ ਭਾਗ)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1566,7 +1571,7 @@ msgstr "ਤਨਜ਼ਾਨੀਆ ਸੰਯੁਕਤ ਗਣਰਾਜ"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "ਤਨਜ਼ਾਨੀਆ"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1653,8 +1658,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "ਵੀਅਤਨਾਮ ਸਮਾਜਵਾਦੀ ਗਣਰਾਜ"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "ਵੀਅਤਨਾਮ"
 

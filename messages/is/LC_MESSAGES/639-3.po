@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Sveinn í Felli <sv1@fellsnet.is>, 2018.
+# Sveinn í Felli <sv1@fellsnet.is>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: Icelandic (iso-codes)\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-03-22 10:37+0000\n"
+"PO-Revision-Date: 2019-02-16 13:22+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/is/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 3.5-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -698,11 +698,11 @@ msgstr "Esimbi"
 
 #. Name for agt
 msgid "Central Cagayan Agta"
-msgstr ""
+msgstr "Mið-Cagayan Agta"
 
 #. Inverted name for agt
 msgid "Agta, Central Cagayan"
-msgstr ""
+msgstr "Agta, Mið-Cagayan"
 
 #. Name for agu
 msgid "Aguacateco"
@@ -2226,11 +2226,11 @@ msgstr "Araweté"
 
 #. Name for awu
 msgid "Central Awyu"
-msgstr ""
+msgstr "Mið-Awyu"
 
 #. Inverted name for awu
 msgid "Awyu, Central"
-msgstr ""
+msgstr "Awyu, miðhluti"
 
 #. Name for awv
 msgid "Jair Awyu"
@@ -2386,7 +2386,7 @@ msgstr "Mið-Aymara"
 
 #. Inverted name for ayr
 msgid "Aymara, Central"
-msgstr ""
+msgstr "Aymara, miðhluti"
 
 #. Name for ays
 msgid "Sorsogon Ayta"
@@ -2650,11 +2650,11 @@ msgstr ""
 
 #. Name for bbp
 msgid "West Central Banda"
-msgstr ""
+msgstr "Miðvestur-Banda"
 
 #. Inverted name for bbp
 msgid "Banda, West Central"
-msgstr ""
+msgstr "Banda, vestur-miðhluti"
 
 #. Name for bbq
 msgid "Bamali"
@@ -2702,11 +2702,11 @@ msgstr ""
 
 #. Name for bca
 msgid "Central Bai"
-msgstr ""
+msgstr "Mið-Bai"
 
 #. Inverted name for bca
 msgid "Bai, Central"
-msgstr ""
+msgstr "Bai, miðhluti"
 
 #. Name for bcb
 msgid "Bainouk-Samik"
@@ -2758,7 +2758,7 @@ msgstr "Bunaba"
 
 #. Name for bcl
 msgid "Central Bikol"
-msgstr ""
+msgstr "Mið-Bikol"
 
 #. Inverted name for bcl
 msgid "Bikol, Central"
@@ -6152,11 +6152,11 @@ msgstr ""
 
 #. Name for cmo
 msgid "Central Mnong"
-msgstr ""
+msgstr "Mið-Mnong"
 
 #. Inverted name for cmo
 msgid "Mnong, Central"
-msgstr ""
+msgstr "Mnong, miðhluti"
 
 #. Name for cmr
 msgid "Mro-Khimi Chin"
@@ -6232,11 +6232,11 @@ msgstr "Con"
 
 #. Name for cns
 msgid "Central Asmat"
-msgstr ""
+msgstr "Mið-Asmat"
 
 #. Inverted name for cns
 msgid "Asmat, Central"
-msgstr ""
+msgstr "Asmat, miðhluti"
 
 #. Name for cnt
 msgid "Tepetotutla Chinantec"
@@ -6656,11 +6656,11 @@ msgstr "Kínverskt táknmál"
 
 #. Name for csm
 msgid "Central Sierra Miwok"
-msgstr ""
+msgstr "Mið-Sierra Miwok"
 
 #. Inverted name for csm
 msgid "Miwok, Central Sierra"
-msgstr ""
+msgstr "Miwok, Mið-Sierra"
 
 #. Name for csn
 msgid "Colombian Sign Language"
@@ -7488,11 +7488,11 @@ msgstr "Dia"
 
 #. Name for dib
 msgid "South Central Dinka"
-msgstr ""
+msgstr "Mið-suður Dinka"
 
 #. Inverted name for dib
 msgid "Dinka, South Central"
-msgstr ""
+msgstr "Dinka, suður-miðhluti"
 
 #. Name for dic
 msgid "Lakota Dida"
@@ -8836,11 +8836,11 @@ msgstr "Esselen"
 
 #. Name for ess
 msgid "Central Siberian Yupik"
-msgstr ""
+msgstr "Mið-Síberíska Yupik"
 
 #. Inverted name for ess
 msgid "Yupik, Central Siberian"
-msgstr ""
+msgstr "Yupik, mið-síberíska"
 
 #. Name for est
 msgid "Estonian"
@@ -8848,11 +8848,11 @@ msgstr "Eistneska"
 
 #. Name for esu
 msgid "Central Yupik"
-msgstr ""
+msgstr "Mið-Yupik"
 
 #. Inverted name for esu
 msgid "Yupik, Central"
-msgstr ""
+msgstr "Yupik, miðhluti"
 
 #. Name for esy
 msgid "Eskayan"
@@ -9373,11 +9373,11 @@ msgstr "Fulniô"
 
 #. Name for fuq
 msgid "Central-Eastern Niger Fulfulde"
-msgstr ""
+msgstr "Mið-austur nígeríska Fulfulde"
 
 #. Inverted name for fuq
 msgid "Fulfulde, Central-Eastern Niger"
-msgstr ""
+msgstr "Fulfulde, mið-austur Níger"
 
 #. Name for fur
 msgid "Friulian"
@@ -9533,11 +9533,11 @@ msgstr "Gayo"
 
 #. Name for gaz
 msgid "West Central Oromo"
-msgstr ""
+msgstr "Miðvestur-Oromo"
 
 #. Inverted name for gaz
 msgid "Oromo, West Central"
-msgstr ""
+msgstr "Oromo, vestur-miðhluti"
 
 #. Name for gba
 msgid "Gbaya (Central African Republic)"
@@ -10580,11 +10580,11 @@ msgstr "Kistane"
 
 #. Name for grv
 msgid "Central Grebo"
-msgstr ""
+msgstr "Mið-Grebo"
 
 #. Inverted name for grv
 msgid "Grebo, Central"
-msgstr ""
+msgstr "Grebo, miðhluti"
 
 #. Name for grw
 msgid "Gweda"
@@ -11332,11 +11332,11 @@ msgstr ""
 
 #. Name for hmc
 msgid "Central Huishui Hmong"
-msgstr ""
+msgstr "Mið- Huishui Hmong"
 
 #. Inverted name for hmc
 msgid "Hmong, Central Huishui"
-msgstr ""
+msgstr "Hmong, mið-Huishui"
 
 #. Name for hmd
 msgid "Large Flowery Miao"
@@ -11400,7 +11400,7 @@ msgstr ""
 
 #. Name for hmm
 msgid "Central Mashan Hmong"
-msgstr ""
+msgstr "Mið-Mashan Hmong"
 
 #. Inverted name for hmm
 msgid "Hmong, Central Mashan"
@@ -14848,7 +14848,7 @@ msgstr "Mið-Kanuri"
 
 #. Inverted name for knc
 msgid "Kanuri, Central"
-msgstr ""
+msgstr "Kanuri, miðhluti"
 
 #. Name for knd
 #, fuzzy
@@ -16540,9 +16540,8 @@ msgid "Central Bontok"
 msgstr "Mið-Bontok"
 
 #. Inverted name for lbk
-#, fuzzy
 msgid "Bontok, Central"
-msgstr "Kúrdíska"
+msgstr "Bontok, miðhluti"
 
 #. Name for lbl
 #, fuzzy
@@ -16934,11 +16933,11 @@ msgstr ""
 
 #. Name for lia
 msgid "West-Central Limba"
-msgstr ""
+msgstr "Miðvestur Limba"
 
 #. Inverted name for lia
 msgid "Limba, West-Central"
-msgstr ""
+msgstr "Limba, vestur-miðhluti"
 
 #. Name for lib
 msgid "Likum"
@@ -17375,11 +17374,11 @@ msgstr ""
 
 #. Name for lnl
 msgid "South Central Banda"
-msgstr ""
+msgstr "Suððvestur-Banda"
 
 #. Inverted name for lnl
 msgid "Banda, South Central"
-msgstr ""
+msgstr "Banda, suður-miðhluti"
 
 #. Name for lnm
 msgid "Langam"
@@ -18051,12 +18050,11 @@ msgstr ""
 
 #. Name for maz
 msgid "Central Mazahua"
-msgstr ""
+msgstr "Mið-Mazahua"
 
 #. Inverted name for maz
-#, fuzzy
 msgid "Mazahua, Central"
-msgstr "Kúrdíska"
+msgstr "Mazahua, miðhluti"
 
 #. Name for mba
 msgid "Higaonon"
@@ -18488,12 +18486,11 @@ msgstr ""
 
 #. Name for mel
 msgid "Central Melanau"
-msgstr ""
+msgstr "Mið-Melanau"
 
 #. Inverted name for mel
-#, fuzzy
 msgid "Melanau, Central"
-msgstr "Kúrdíska"
+msgstr "Melanau, miðhluti"
 
 #. Name for mem
 #, fuzzy
@@ -20691,11 +20688,11 @@ msgstr ""
 
 #. Name for mwo
 msgid "Central Maewo"
-msgstr ""
+msgstr "Mið-Maewo"
 
 #. Inverted name for mwo
 msgid "Maewo, Central"
-msgstr ""
+msgstr "Maewo, miðhluti"
 
 #. Name for mwp
 msgid "Kala Lagaw Ya"
@@ -20893,11 +20890,11 @@ msgstr ""
 
 #. Name for mxz
 msgid "Central Masela"
-msgstr ""
+msgstr "Mið-Masela"
 
 #. Inverted name for mxz
 msgid "Masela, Central"
-msgstr ""
+msgstr "Masela, miðhluti"
 
 #. Name for mya
 msgid "Burmese"
@@ -21364,11 +21361,11 @@ msgstr ""
 
 #. Name for ncb
 msgid "Central Nicobarese"
-msgstr ""
+msgstr "Mið-Nicobarese"
 
 #. Inverted name for ncb
 msgid "Nicobarese, Central"
-msgstr ""
+msgstr "Nicobarese, miðhluti"
 
 #. Name for ncc
 #, fuzzy
@@ -23857,9 +23854,8 @@ msgid "Ojibwa, Northwestern"
 msgstr ""
 
 #. Name for ojc
-#, fuzzy
 msgid "Central Ojibwa"
-msgstr "Ojibwa"
+msgstr "Mið-Ojibwa"
 
 #. Inverted name for ojc
 msgid "Ojibwa, Central"
@@ -25995,9 +25991,8 @@ msgid "Central Malay"
 msgstr ""
 
 #. Inverted name for pse
-#, fuzzy
 msgid "Malay, Central"
-msgstr "Kínverska"
+msgstr "Malajíska, miðhluti"
 
 #. Name for psg
 msgid "Penang Sign Language"
@@ -30800,9 +30795,8 @@ msgid "Nume"
 msgstr ""
 
 #. Name for tgt
-#, fuzzy
 msgid "Central Tagbanwa"
-msgstr "Tagbanva"
+msgstr "Mið-Tagbanva"
 
 #. Inverted name for tgt
 msgid "Tagbanwa, Central"
@@ -37441,9 +37435,8 @@ msgid "Central Berawan"
 msgstr ""
 
 #. Inverted name for zbc
-#, fuzzy
 msgid "Berawan, Central"
-msgstr "Kúrdíska"
+msgstr "Berawan, miðhluti"
 
 #. Name for zbe
 msgid "East Berawan"

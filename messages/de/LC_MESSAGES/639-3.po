@@ -19,14 +19,15 @@
 # Wolfgang Rohdewald <wolfgang@rohdewald.de>, 2005.
 # Daniel Schury <Daniel.Schury@physik.uni-giessen.de>, 2012.
 # Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-05-14 16:38+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
+"PO-Revision-Date: 2019-03-23 21:34+0000\n"
+"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/de/>\n"
 "Language: de\n"
@@ -34,7 +35,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1475,10 +1476,8 @@ msgid "Taikat"
 msgstr "Taikat"
 
 #. Name for aot
-#, fuzzy
-#| msgid "Riang (India)"
 msgid "Atong (India)"
-msgstr "Riang (Indien)"
+msgstr "Atong (Indien)"
 
 #. Name for aou
 msgid "A'ou"
@@ -1661,10 +1660,8 @@ msgid "Arhâ"
 msgstr "Arha"
 
 #. Name for aqt
-#, fuzzy
-#| msgid "Angal"
 msgid "Angaité"
-msgstr "Angal"
+msgstr "Angaité"
 
 #. Name for aqz
 msgid "Akuntsu"
@@ -1831,9 +1828,8 @@ msgid "Buruwai"
 msgstr "Buruwai"
 
 #. Name for asj
-#, fuzzy
 msgid "Sari"
-msgstr "Sarikoli"
+msgstr "Sari"
 
 #. Name for ask
 msgid "Ashkun"
@@ -1968,10 +1964,8 @@ msgid "Ashtiani"
 msgstr "Ashtiani"
 
 #. Name for ato
-#, fuzzy
-#| msgid "Eton (Cameroon)"
 msgid "Atong (Cameroon)"
-msgstr "Eton (Kamerun)"
+msgstr "Atong (Kamerun)"
 
 #. Name for atp
 msgid "Pudtol Atta"
@@ -2318,9 +2312,8 @@ msgid "Armenian, Middle"
 msgstr "Armenisch, Mittleres"
 
 #. Name for axx
-#, fuzzy
 msgid "Xârâgurè"
-msgstr "Xârâcùù"
+msgstr "Xârâgurè"
 
 #. Name for aya
 msgid "Awar"
@@ -2763,10 +2756,8 @@ msgid "Bamu"
 msgstr "Bamu"
 
 #. Name for bcg
-#, fuzzy
-#| msgid "Baga Kaloum"
 msgid "Baga Pokur"
-msgstr "Baga Kaloum"
+msgstr "Baga Pokur"
 
 #. Name for bch
 msgid "Bariai"
@@ -3083,16 +3074,12 @@ msgid "Bareli, Pauri"
 msgstr "Bareli, Pauri"
 
 #. Name for bfc
-#, fuzzy
-#| msgid "Pauri Bareli"
 msgid "Panyi Bai"
-msgstr "Pauri Bareli"
+msgstr "Panyi Bai"
 
 #. Inverted name for bfc
-#, fuzzy
-#| msgid "Bareli, Pauri"
 msgid "Bai, Panyi"
-msgstr "Bareli, Pauri"
+msgstr "Bai, Panyi"
 
 #. Name for bfd
 msgid "Bafut"

@@ -13,14 +13,16 @@
 # Keld Simonsen <keld@dkuug.dk>, 2001.
 # Claus Hindsgaul <claus.hindsgaul@gmail.com>, 2004, 2006.
 # Joe Hansen <joedalton2@yahoo.dk>, 2010-2013, 2015.
+# scootergrisen <scootergrisen@gmail.com>, 2019.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-29 16:43+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/da/>\n"
 "Language: da\n"
@@ -28,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -199,7 +201,7 @@ msgstr "Commonwealth of the Bahamas"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Bosnien-Herzegovina"
+msgstr "Bosnien-Hercegovina"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
@@ -345,7 +347,7 @@ msgstr "Cookøerne"
 
 #. Name for COL
 msgid "Colombia"
-msgstr "Columbia"
+msgstr "Colombia"
 
 #. Official name for COL
 msgid "Republic of Colombia"
@@ -360,14 +362,10 @@ msgid "Union of the Comoros"
 msgstr "Unionen Comorerne"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Kap Verde"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Republikken Kap Verde"
 
@@ -410,7 +408,7 @@ msgstr "Republikken Cypern"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Tjekkiet"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -605,9 +603,7 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Republikken Gambia"
 
 #. Name for GNB
@@ -651,9 +647,8 @@ msgid "Republic of Guatemala"
 msgstr "Republikken Guatemala"
 
 #. Name for GUF
-#, fuzzy
 msgid "French Guiana"
-msgstr "Fransk Guinea"
+msgstr "Fransk Guyana"
 
 #. Name for GUM
 msgid "Guam"
@@ -669,7 +664,7 @@ msgstr "Republikken Guyana"
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Hong Kong"
+msgstr "Hongkong"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
@@ -729,7 +724,7 @@ msgstr "Republikken Indien"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "British Indian Ocean Territory"
+msgstr "Det britiske territorium i Det Indiske Ocean"
 
 #. Name for IRL
 msgid "Ireland"
@@ -913,7 +908,7 @@ msgstr "Republikken Litauen"
 
 #. Name for LUX
 msgid "Luxembourg"
-msgstr "Luxemburg"
+msgstr "Luxembourg"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
@@ -1001,12 +996,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republikken Marshalløerne"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Makedonien, Republikken"
+msgid "North Macedonia"
+msgstr "Nordmakedonien"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Den Tidligere Jugoslaviske Republik Makedonien"
+msgid "Republic of North Macedonia"
+msgstr "Republikken Nordmakedonien"
 
 #. Name for MLI
 msgid "Mali"
@@ -1456,12 +1451,12 @@ msgid "Kingdom of Sweden"
 msgstr "Kongeriget Sverige"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr "Eswatini"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Kongeriget Swaziland"
+msgid "Kingdom of Eswatini"
+msgstr "Kongeriget Eswatini"
 
 # Sint-Maarten → Nederlandske Antiller, De
 #. Name for SXM, Official name for SXM
@@ -1602,7 +1597,7 @@ msgstr "Ukraine"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Fjerne, mindre Amerikanske øer"
+msgstr "USA's ydre småøer"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1673,8 +1668,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Den Socialistiske Republik Vietnam"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vietnam"
 

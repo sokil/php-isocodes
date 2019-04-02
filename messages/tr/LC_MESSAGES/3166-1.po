@@ -11,21 +11,21 @@
 # Recai Oktaş <roktas@omu.edu.tr>, 2004.
 # Mert Dirik <mertdirik@gmail.com>, 2008.
 # İsmail Baydan <ibaydan@gmail.com>, 2011.
-# Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015.
+# Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015,2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2015-08-17 18:07+0200\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-09-25 15:25+0300\n"
 "Last-Translator: Atila KOÇ <koc@artielektronik.com.tr>\n"
 "Language-Team: Turkish <debian-l10n-turkish@lists.debian.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.8.11\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -352,16 +352,12 @@ msgid "Union of the Comoros"
 msgstr "Komorlar Birliği"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "Verde Burnu"
+msgstr "Yeşil Burun Adaları"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "Verde Burnu Cumhuriyeti"
+msgstr "Yeşil Burun Cumhuriyeti"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -401,7 +397,7 @@ msgstr "Kıbrıs Cumhuriyeti"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Çekya"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -597,9 +593,9 @@ msgstr "Gambiya"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Gambiya Cumhuriyeti"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Zambiya Cumhuriyeti"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -990,12 +986,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marşal Adaları Cumhuriyeti"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Makedonya Cumhuriyeti"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Yeni Kaledonya"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Makedonya Eski Yugoslavya Cumhuriyeti"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Litvanya Cumhuriyeti"
 
 #. Name for MLI
 msgid "Mali"
@@ -1442,12 +1442,14 @@ msgid "Kingdom of Sweden"
 msgstr "İsveç Krallığı"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Svaziland"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Svaziland"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "İspanya Krallığı"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1658,8 +1660,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnam Sosyalist Cumhuriyeti"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vietnam"
 

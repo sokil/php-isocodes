@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2002-01-05 18:40+0000\n"
 "Last-Translator: Antoinette Dekeni <antoinette@translate.org.za>\n"
 "Language-Team: Xhosa <xhosa@translate.org.za>\n"
@@ -626,7 +626,7 @@ msgstr "Jamaica"
 
 #. Official name for GMB
 #, fuzzy
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
 
 #. Name for GNB
@@ -1052,12 +1052,13 @@ msgstr ""
 
 #. Name for MKD
 #, fuzzy
-msgid "Macedonia, Republic of"
-msgstr "Ulawulo lokuziphatha kwe Dominican"
+msgid "North Macedonia"
+msgstr "Macedonia"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr ""
+#, fuzzy
+msgid "Republic of North Macedonia"
+msgstr "Lithuania"
 
 #. Name for MLI
 #, fuzzy
@@ -1541,13 +1542,12 @@ msgid "Kingdom of Sweden"
 msgstr ""
 
 #. Name for SWZ
-#, fuzzy
-msgid "Swaziland"
-msgstr "Thailand"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
 #, fuzzy
-msgid "Kingdom of Swaziland"
+msgid "Kingdom of Eswatini"
 msgstr "Thailand"
 
 #. Name for SXM, Official name for SXM

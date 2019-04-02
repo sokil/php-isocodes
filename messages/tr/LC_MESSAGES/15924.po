@@ -5,20 +5,23 @@
 # .
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
+# Serdar Sağlam <teknomobil@msn.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2007-09-09 16:07+0200\n"
-"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
-"Language-Team: Turkish\n"
-"Language: \n"
+"PO-Revision-Date: 2019-03-17 23:04+0000\n"
+"Last-Translator: Serdar Sağlam <teknomobil@msn.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-15924/tr/>\n"
+"Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -55,11 +58,11 @@ msgstr "Ermenice"
 
 #. Name for Avst
 msgid "Avestan"
-msgstr ""
+msgstr "Avestçe"
 
 #. Name for Bali
 msgid "Balinese"
-msgstr "Bali Dili"
+msgstr "Balinese"
 
 #. Name for Bamu
 msgid "Bamum"
@@ -99,7 +102,7 @@ msgstr "Braille"
 
 #. Name for Bugi
 msgid "Buginese"
-msgstr "Bugis"
+msgstr "Bugice"
 
 #. Name for Buhd
 msgid "Buhid"
@@ -123,7 +126,7 @@ msgstr ""
 
 #. Name for Cher
 msgid "Cherokee"
-msgstr "Çeroki"
+msgstr "Çerokice"
 
 #. Name for Cirt
 msgid "Cirth"
@@ -131,7 +134,7 @@ msgstr "Cirth"
 
 #. Name for Copt
 msgid "Coptic"
-msgstr "Koptik"
+msgstr "Kıptice"
 
 #. Name for Cprt
 msgid "Cypriot"

@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
-# Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2016, 2018.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2016, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-10-14 12:06+0200\n"
-"PO-Revision-Date: 2018-10-15 11:36+0000\n"
+"POT-Creation-Date: 2019-03-23 22:08+0100\n"
+"PO-Revision-Date: 2019-03-25 06:38+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/uk/>\n"
@@ -21,9 +21,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.2.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2769,141 +2769,145 @@ msgstr "Південна"
 msgid "South-West"
 msgstr "Південний Захід"
 
-#. Name for CN-11
-msgid "Beijing"
-msgstr "Пекін"
-
-#. Name for CN-12
-msgid "Tianjin"
-msgstr "Тяньцзінь"
-
-#. Name for CN-13
-msgid "Hebei"
-msgstr "Хебей"
-
-#. Name for CN-14
-msgid "Shanxi"
-msgstr "Шаньсі"
-
-#. Name for CN-15
-msgid "Nei Mongol"
-msgstr "Внутрішня Монголія"
-
-#. Name for CN-21
-msgid "Liaoning"
-msgstr "Ляонін"
-
-#. Name for CN-22
-msgid "Jilin"
-msgstr "Гірин"
-
-#. Name for CN-23
-msgid "Heilongjiang"
-msgstr "Хейлунцзян"
-
-#. Name for CN-31
-msgid "Shanghai"
-msgstr "Шанхай"
-
-#. Name for CN-32
-msgid "Jiangsu"
-msgstr "Цзянсу"
-
-#. Name for CN-33
-msgid "Zhejiang"
-msgstr "Чженцзян"
-
-#. Name for CN-34
-msgid "Anhui"
+#. Name for CN-AH
+msgid "Anhui Sheng"
 msgstr "Аньхой"
 
-#. Name for CN-35
-msgid "Fujian"
-msgstr "Фудзянь"
+#. Name for CN-BJ
+msgid "Beijing Shi"
+msgstr "Пекін"
 
-#. Name for CN-36
-msgid "Jiangxi"
-msgstr "Цзяньсі"
-
-#. Name for CN-37
-msgid "Shandong"
-msgstr "Шаньдун"
-
-#. Name for CN-41
-msgid "Henan"
-msgstr "Хенань"
-
-#. Name for CN-42
-msgid "Hubei"
-msgstr "Хубей"
-
-#. Name for CN-43
-msgid "Hunan"
-msgstr "Хунань"
-
-#. Name for CN-44
-msgid "Guangdong"
-msgstr "Гуандун"
-
-#. Name for CN-45
-msgid "Guangxi"
-msgstr "Гуаньсі-Чжуанський автономний район"
-
-#. Name for CN-46
-msgid "Hainan"
-msgstr "Хайнань"
-
-#. Name for CN-50
-msgid "Chongqing"
+#. Name for CN-CQ
+msgid "Chongqing Shi"
 msgstr "Чунцин"
 
-#. Name for CN-51
-msgid "Sichuan"
-msgstr "Сичуань"
+#. Name for CN-FJ
+msgid "Fujian Sheng"
+msgstr "Фудзянь"
 
-#. Name for CN-52
-msgid "Guizhou"
-msgstr "Гуйчжоу"
+#. Name for CN-GD
+msgid "Guangdong Sheng"
+msgstr "Гуандун"
 
-#. Name for CN-53
-msgid "Yunnan"
-msgstr "Юнань"
-
-#. Name for CN-54
-msgid "Xizang"
-msgstr "Тибетський автономний округ"
-
-#. Name for CN-61
-msgid "Shaanxi"
-msgstr "Шеньсі"
-
-#. Name for CN-62
-msgid "Gansu"
+#. Name for CN-GS
+msgid "Gansu Sheng"
 msgstr "Ганьсу"
 
-#. Name for CN-63
-msgid "Qinghai"
+#. Name for CN-GX
+msgid "Guangxi Zhuangzu Zizhiqu"
+msgstr "Гуансі-Чжуанський автономний район"
+
+#. Name for CN-GZ
+msgid "Guizhou Sheng"
+msgstr "Гуйчжоу"
+
+#. Name for CN-HA
+msgid "Henan Sheng"
+msgstr "Хенань"
+
+#. Name for CN-HB
+msgid "Hubei Sheng"
+msgstr "Хубей"
+
+#. Name for CN-HE
+msgid "Hebei Sheng"
+msgstr "Хебей"
+
+#. Name for CN-HI
+msgid "Hainan Sheng"
+msgstr "Хайнань"
+
+#. Name for CN-HK
+msgid "Hong Kong SAR (see also separate country code entry under HK)"
+msgstr ""
+"Особливий адміністративний район Гонконг (див. також окремий запис коду "
+"країни HK)"
+
+#. Name for CN-HL
+msgid "Heilongjiang Sheng"
+msgstr "Хейлунцзян"
+
+#. Name for CN-HN
+msgid "Hunan Sheng"
+msgstr "Хунань"
+
+#. Name for CN-JL
+msgid "Jilin Sheng"
+msgstr "Гірин"
+
+#. Name for CN-JS
+msgid "Jiangsu Sheng"
+msgstr "Цзянсу"
+
+#. Name for CN-JX
+msgid "Jiangxi Sheng"
+msgstr "Цзяньсі"
+
+#. Name for CN-LN
+msgid "Liaoning Sheng"
+msgstr "Ляонін"
+
+#. Name for CN-MO
+msgid "Macao SAR (see also separate country code entry under MO)"
+msgstr ""
+"Особливий адміністративний район Макао (див. також окремий запис коду країни "
+"MO)"
+
+#. Name for CN-NM
+msgid "Nei Mongol Zizhiqu"
+msgstr "Внутрішня Монголія"
+
+#. Name for CN-NX
+msgid "Ningxia Huizi Zizhiqu"
+msgstr "Нінся-Хуейський автономний район"
+
+#. Name for CN-QH
+msgid "Qinghai Sheng"
 msgstr "Цинхай"
 
-#. Name for CN-64
-msgid "Ningxia"
-msgstr "Нінся-Хуейський автономний округ"
+#. Name for CN-SC
+msgid "Sichuan Sheng"
+msgstr "Сичуань"
 
-#. Name for CN-65
-msgid "Xinjiang"
-msgstr "Сінцзянь-Уйгурський автономний округ"
+#. Name for CN-SD
+msgid "Shandong Sheng"
+msgstr "Шаньдун"
 
-#. Name for CN-71
-msgid "Taiwan"
-msgstr "Тайвань"
+#. Name for CN-SH
+msgid "Shanghai Shi"
+msgstr "Шанхай"
 
-#. Name for CN-91
-msgid "Xianggang (Hong-Kong)"
-msgstr "Гонконг"
+#. Name for CN-SN
+msgid "Shaanxi Sheng"
+msgstr "Шеньсі"
 
-#. Name for CN-92
-msgid "Aomen (Macau)"
-msgstr "Аоминь (Макао)"
+#. Name for CN-SX
+msgid "Shanxi Sheng"
+msgstr "Шаньсі"
+
+#. Name for CN-TJ
+msgid "Tianjin Shi"
+msgstr "Тяньцзінь"
+
+#. Name for CN-TW
+msgid "Taiwan Sheng (see also separate country code entry under TW)"
+msgstr "Тайвань (див. також окремий запис коду країни TW)"
+
+#. Name for CN-XJ
+msgid "Xinjiang Uygur Zizhiqu"
+msgstr "Сіньцзян-Уйгурський автономний район"
+
+#. Name for CN-XZ
+msgid "Xizang Zizhiqu"
+msgstr "Тибетський автономний округ"
+
+#. Name for CN-YN
+msgid "Yunnan Sheng"
+msgstr "Юнань"
+
+#. Name for CN-ZJ
+msgid "Zhejiang Sheng"
+msgstr "Чженцзян"
 
 #. Name for CO-ANT
 msgid "Antioquia"

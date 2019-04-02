@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2013-08-19 16:27+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: Vietnamese <>\n"
@@ -594,9 +594,9 @@ msgstr "Găm-bi-a"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Cộng hoà Găm-bi-a"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Nước Cộng Hoà Xam-bi-a"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -987,12 +987,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Nước Cộng Hoà Quần Đảo Ma-san"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Nước Cộng Hoà Ma-xê-đô-ni"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Niu Ca-lê-đô-ni-a"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Nước Cộng Hoà Nguyên Nam Tư Ma-xê-đô-ni"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Cộng hoà Li-tu-a-ni-a"
 
 #. Name for MLI
 msgid "Mali"
@@ -1439,12 +1443,14 @@ msgid "Kingdom of Sweden"
 msgstr "Vương quốc Thuỵ Điển"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Xouă-xi-lan"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Vương Quốc Xouă-xi-lan"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Vương Quốc Tay Ban Nha"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

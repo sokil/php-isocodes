@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Irish <https://hosted.weblate.org/projects/iso-codes/"
@@ -598,9 +598,9 @@ msgstr "An Ghaimbia"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Poblacht na Gaimbia"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Poblacht na Saimbia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -993,12 +993,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Poblacht Oileán Marshall"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Poblacht na Macadóine"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "An Nua-Chaladóin"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Iar-Phoblacht Iúgslavach na Macadóine"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Poblacht na Liotuáine"
 
 #. Name for MLI
 msgid "Mali"
@@ -1447,12 +1451,14 @@ msgid "Kingdom of Sweden"
 msgstr "Ríocht na Sualainne"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "An tSuasalainn"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Ríocht na Suasalainne"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Ríocht na Spáinne"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

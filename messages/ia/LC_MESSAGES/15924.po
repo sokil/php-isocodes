@@ -5,13 +5,14 @@
 # .
 # Copyright ©
 # Nik Kalach <nik.kalach@inbox.ru>, 2013.
+# Giovanni Sora <g.sora@tiscali.it>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-01-24 12:17+0000\n"
+"PO-Revision-Date: 2019-03-04 20:57+0000\n"
 "Last-Translator: Giovanni Sora <g.sora@tiscali.it>\n"
 "Language-Team: Interlingua <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ia/>\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.5\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -44,10 +45,8 @@ msgid "Arabic"
 msgstr "arabe"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "syriaco (variante oriental)"
+msgstr "Arabe (variante Nastaliq)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -276,10 +275,8 @@ msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "italico antique (etrusco, osco, etc.)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "coreano (hangul e han)"
+msgstr "Jamo (alias per Jamo subinsimul de Hangul)"
 
 #. Name for Java
 msgid "Javanese"
@@ -780,10 +777,8 @@ msgid "Mathematical notation"
 msgstr "notation mathematic"
 
 #. Name for Zsye
-#, fuzzy
-#| msgid "Syriac (Estrangelo variant)"
 msgid "Symbols (Emoji variant)"
-msgstr "syriaco (variante Estrangelo)"
+msgstr "Symbolos (variante Emoji)"
 
 #. Name for Zsym
 msgid "Symbols"

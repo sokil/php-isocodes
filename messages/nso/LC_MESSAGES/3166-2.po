@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-10-14 12:06+0200\n"
+"POT-Creation-Date: 2019-03-23 22:08+0100\n"
 "PO-Revision-Date: 2002-11-13 15:30+0200\n"
 "Last-Translator: Jerry Thobejane <jerry@translate.org.za>\n"
 "Language-Team: Northern Sotho <sepedi@translate.org.za>\n"
@@ -3099,154 +3099,151 @@ msgstr "Borwa bja Korea"
 msgid "South-West"
 msgstr "Borwa bja Korea"
 
-#. Name for CN-11
+#. Name for CN-AH
 #, fuzzy
-msgid "Beijing"
-msgstr "Benin"
-
-#. Name for CN-12
-#, fuzzy
-msgid "Tianjin"
-msgstr "Taiwan"
-
-#. Name for CN-13
-msgid "Hebei"
-msgstr ""
-
-#. Name for CN-14
-msgid "Shanxi"
-msgstr ""
-
-#. Name for CN-15
-msgid "Nei Mongol"
-msgstr ""
-
-#. Name for CN-21
-#, fuzzy
-msgid "Liaoning"
-msgstr "Eya gatisa"
-
-#. Name for CN-22
-msgid "Jilin"
-msgstr ""
-
-#. Name for CN-23
-msgid "Heilongjiang"
-msgstr ""
-
-#. Name for CN-31
-#, fuzzy
-msgid "Shanghai"
-msgstr "Ghana"
-
-#. Name for CN-32
-msgid "Jiangsu"
-msgstr ""
-
-#. Name for CN-33
-msgid "Zhejiang"
-msgstr ""
-
-#. Name for CN-34
-#, fuzzy
-msgid "Anhui"
+msgid "Anhui Sheng"
 msgstr "Anguilla"
 
-#. Name for CN-35
+#. Name for CN-BJ
 #, fuzzy
-msgid "Fujian"
+msgid "Beijing Shi"
+msgstr "Benin"
+
+#. Name for CN-CQ
+msgid "Chongqing Shi"
+msgstr ""
+
+#. Name for CN-FJ
+#, fuzzy
+msgid "Fujian Sheng"
 msgstr "Finland"
 
-#. Name for CN-36
-msgid "Jiangxi"
+#. Name for CN-GD
+msgid "Guangdong Sheng"
 msgstr ""
 
-#. Name for CN-37
-msgid "Shandong"
-msgstr ""
-
-#. Name for CN-41
+#. Name for CN-GS
 #, fuzzy
-msgid "Henan"
-msgstr "Kenya"
-
-#. Name for CN-42
-msgid "Hubei"
-msgstr ""
-
-#. Name for CN-43
-#, fuzzy
-msgid "Hunan"
-msgstr "Hungary"
-
-#. Name for CN-44
-msgid "Guangdong"
-msgstr ""
-
-#. Name for CN-45
-#, fuzzy
-msgid "Guangxi"
-msgstr "Guyana"
-
-#. Name for CN-46
-#, fuzzy
-msgid "Hainan"
-msgstr "Taiwan"
-
-#. Name for CN-50
-msgid "Chongqing"
-msgstr ""
-
-#. Name for CN-51
-#, fuzzy
-msgid "Sichuan"
-msgstr "Sudan"
-
-#. Name for CN-52
-msgid "Guizhou"
-msgstr ""
-
-#. Name for CN-53
-msgid "Yunnan"
-msgstr ""
-
-#. Name for CN-54
-msgid "Xizang"
-msgstr ""
-
-#. Name for CN-61
-msgid "Shaanxi"
-msgstr ""
-
-#. Name for CN-62
-#, fuzzy
-msgid "Gansu"
+msgid "Gansu Sheng"
 msgstr "Ghana"
 
-#. Name for CN-63
-msgid "Qinghai"
+#. Name for CN-GX
+msgid "Guangxi Zhuangzu Zizhiqu"
 msgstr ""
 
-#. Name for CN-64
-#, fuzzy
-msgid "Ningxia"
-msgstr "Nigeria"
+#. Name for CN-GZ
+msgid "Guizhou Sheng"
+msgstr ""
 
-#. Name for CN-65
+#. Name for CN-HA
 #, fuzzy
-msgid "Xinjiang"
-msgstr "Eya gatisa"
+msgid "Henan Sheng"
+msgstr "Kenya"
 
-#. Name for CN-71
-msgid "Taiwan"
+#. Name for CN-HB
+msgid "Hubei Sheng"
+msgstr ""
+
+#. Name for CN-HE
+msgid "Hebei Sheng"
+msgstr ""
+
+#. Name for CN-HI
+#, fuzzy
+msgid "Hainan Sheng"
 msgstr "Taiwan"
 
-#. Name for CN-91
-msgid "Xianggang (Hong-Kong)"
+#. Name for CN-HK
+msgid "Hong Kong SAR (see also separate country code entry under HK)"
 msgstr ""
 
-#. Name for CN-92
-msgid "Aomen (Macau)"
+#. Name for CN-HL
+msgid "Heilongjiang Sheng"
+msgstr ""
+
+#. Name for CN-HN
+#, fuzzy
+msgid "Hunan Sheng"
+msgstr "Hungary"
+
+#. Name for CN-JL
+msgid "Jilin Sheng"
+msgstr ""
+
+#. Name for CN-JS
+msgid "Jiangsu Sheng"
+msgstr ""
+
+#. Name for CN-JX
+msgid "Jiangxi Sheng"
+msgstr ""
+
+#. Name for CN-LN
+#, fuzzy
+msgid "Liaoning Sheng"
+msgstr "Eya gatisa"
+
+#. Name for CN-MO
+msgid "Macao SAR (see also separate country code entry under MO)"
+msgstr ""
+
+#. Name for CN-NM
+msgid "Nei Mongol Zizhiqu"
+msgstr ""
+
+#. Name for CN-NX
+msgid "Ningxia Huizi Zizhiqu"
+msgstr ""
+
+#. Name for CN-QH
+msgid "Qinghai Sheng"
+msgstr ""
+
+#. Name for CN-SC
+#, fuzzy
+msgid "Sichuan Sheng"
+msgstr "Sudan"
+
+#. Name for CN-SD
+msgid "Shandong Sheng"
+msgstr ""
+
+#. Name for CN-SH
+#, fuzzy
+msgid "Shanghai Shi"
+msgstr "Ghana"
+
+#. Name for CN-SN
+msgid "Shaanxi Sheng"
+msgstr ""
+
+#. Name for CN-SX
+msgid "Shanxi Sheng"
+msgstr ""
+
+#. Name for CN-TJ
+#, fuzzy
+msgid "Tianjin Shi"
+msgstr "Taiwan"
+
+#. Name for CN-TW
+msgid "Taiwan Sheng (see also separate country code entry under TW)"
+msgstr ""
+
+#. Name for CN-XJ
+msgid "Xinjiang Uygur Zizhiqu"
+msgstr ""
+
+#. Name for CN-XZ
+msgid "Xizang Zizhiqu"
+msgstr ""
+
+#. Name for CN-YN
+msgid "Yunnan Sheng"
+msgstr ""
+
+#. Name for CN-ZJ
+msgid "Zhejiang Sheng"
 msgstr ""
 
 #. Name for CO-ANT

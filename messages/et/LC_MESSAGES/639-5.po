@@ -5,14 +5,15 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
+# Mihkel Tõnnov <mihhkel@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-01-17 21:05+0000\n"
-"Last-Translator: Kristjan Räts <kristjanrats@gmail.com>\n"
+"PO-Revision-Date: 2019-02-10 00:10+0000\n"
+"Last-Translator: Mihkel Tõnnov <mihhkel@gmail.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/et/>\n"
 "Language: et\n"
@@ -20,11 +21,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.5-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
-msgstr "Austroaasia keelkond"
+msgstr "Austroaasia hõimkond"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
@@ -36,7 +37,7 @@ msgstr "algonkini keeled"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
-msgstr ""
+msgstr "Atlandi-Kongo keeled"
 
 #. Name for apa
 msgid "Apache languages"
@@ -44,11 +45,11 @@ msgstr "apatši keeled"
 
 #. Name for aqa
 msgid "Alacalufan languages"
-msgstr ""
+msgstr "kavaskari keeled"
 
 #. Name for aql
 msgid "Algic languages"
-msgstr ""
+msgstr "algonkini-ritva keelkond"
 
 #. Name for art
 msgid "Artificial languages"
@@ -60,7 +61,7 @@ msgstr "atapaski keeled"
 
 #. Name for auf
 msgid "Arauan languages"
-msgstr ""
+msgstr "arava keeled"
 
 #. Name for aus
 msgid "Australian languages"
@@ -68,11 +69,11 @@ msgstr "Austraalia keeled"
 
 #. Name for awd
 msgid "Arawakan languages"
-msgstr ""
+msgstr "aravaki keelkond"
 
 #. Name for azc
 msgid "Uto-Aztecan languages"
-msgstr ""
+msgstr "jutoasteegi keelkond"
 
 #. Name for bad
 msgid "Banda languages"
@@ -96,7 +97,7 @@ msgstr "bihaari keeled"
 
 #. Name for bnt
 msgid "Bantu languages"
-msgstr ""
+msgstr "bantu keeled"
 
 #. Name for btk
 msgid "Batak languages"
@@ -104,31 +105,31 @@ msgstr "bataki keeled"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr "Kesk-Ameerika indiaani keeled"
+msgstr "Kesk-Ameerika indiaanikeeled"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr "kaukaasia keeled"
+msgstr "kaukaasia hõimkond"
 
 #. Name for cba
 msgid "Chibchan languages"
-msgstr ""
+msgstr "tšibtša keelkond"
 
 #. Name for ccn
 msgid "North Caucasian languages"
-msgstr ""
+msgstr "Põhja-Kaukaasia keeled"
 
 #. Name for ccs
 msgid "South Caucasian languages"
-msgstr ""
+msgstr "kartveli keelkond"
 
 #. Name for cdc
 msgid "Chadic languages"
-msgstr ""
+msgstr "Tšaadi keeled"
 
 #. Name for cdd
 msgid "Caddoan languages"
-msgstr ""
+msgstr "kado keelkond"
 
 #. Name for cel
 msgid "Celtic languages"
@@ -140,11 +141,11 @@ msgstr "tšaami keeled"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English‑based"
-msgstr ""
+msgstr "inglispõhjalised kreool- ja pidžinkeeled"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French‑based"
-msgstr ""
+msgstr "prantsuspõhjalised kreool- ja pidžinkeeled"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
@@ -156,7 +157,7 @@ msgstr "kreool- ja pidžinkeeled"
 
 #. Name for csu
 msgid "Central Sudanic languages"
-msgstr ""
+msgstr "Kesk-Sudaani keeled"
 
 #. Name for cus
 msgid "Cushitic languages"
@@ -168,23 +169,23 @@ msgstr "sisemaadajaki keeled"
 
 #. Name for dmn
 msgid "Mande languages"
-msgstr ""
+msgstr "mande keelkond"
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr "draviidi keeled"
+msgstr "draviidi keelkond"
 
 #. Name for egx
 msgid "Egyptian languages"
-msgstr ""
+msgstr "Egiptuse keeled"
 
 #. Name for esx
 msgid "Eskimo-Aleut languages"
-msgstr ""
+msgstr "eskimo-aleuudi keelkond"
 
 #. Name for euq
 msgid "Basque (family)"
-msgstr ""
+msgstr "baski keeled"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
@@ -192,7 +193,7 @@ msgstr "soome-ugri keeled"
 
 #. Name for fox
 msgid "Formosan languages"
-msgstr ""
+msgstr "Taiwani keeled"
 
 #. Name for gem
 msgid "Germanic languages"
@@ -200,35 +201,35 @@ msgstr "germaani keeled"
 
 #. Name for gme
 msgid "East Germanic languages"
-msgstr ""
+msgstr "idagermaani keeled"
 
 #. Name for gmq
 msgid "North Germanic languages"
-msgstr ""
+msgstr "põhjagermaani keeled"
 
 #. Name for gmw
 msgid "West Germanic languages"
-msgstr ""
+msgstr "läänegermaani keeled"
 
 #. Name for grk
 msgid "Greek languages"
-msgstr ""
+msgstr "kreeka keeled"
 
 #. Name for hmx
 msgid "Hmong-Mien languages"
-msgstr ""
+msgstr "miao-jao keeled"
 
 #. Name for hok
 msgid "Hokan languages"
-msgstr ""
+msgstr "hoka hõimkond"
 
 #. Name for hyx
 msgid "Armenian (family)"
-msgstr ""
+msgstr "armeenia keeled"
 
 #. Name for iir
 msgid "Indo-Iranian languages"
-msgstr ""
+msgstr "Indoiraani keeled"
 
 #. Name for ijo
 msgid "Ijo languages"
@@ -252,11 +253,11 @@ msgstr "irokeesi keelkond"
 
 #. Name for itc
 msgid "Italic languages"
-msgstr ""
+msgstr "itali keeled"
 
 #. Name for jpx
 msgid "Japanese (family)"
-msgstr ""
+msgstr "Jaapani keeled"
 
 #. Name for kar
 msgid "Karen languages"
@@ -264,7 +265,7 @@ msgstr "kareni keeled"
 
 #. Name for kdo
 msgid "Kordofanian languages"
-msgstr ""
+msgstr "Kordofani keelkond"
 
 #. Name for khi
 msgid "Khoisan languages"
@@ -300,11 +301,11 @@ msgstr "asteegi keeled"
 
 #. Name for nai
 msgid "North American Indian languages"
-msgstr "Põhja-Ameerika indiaani keeled"
+msgstr "Põhja-Ameerika indiaanikeeled"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
-msgstr ""
+msgstr "Üld-Uus-Guinea hõimkond"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
@@ -316,11 +317,11 @@ msgstr "Nuubia keeled"
 
 #. Name for omq
 msgid "Oto-Manguean languages"
-msgstr ""
+msgstr "oto-mange hõimkond"
 
 #. Name for omv
 msgid "Omotic languages"
-msgstr ""
+msgstr "Omo keeled"
 
 #. Name for oto
 msgid "Otomian languages"
@@ -336,19 +337,19 @@ msgstr "Filipiini keeled"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
-msgstr ""
+msgstr "Kesk-Malai-Polüneesia keeled"
 
 #. Name for poz
 msgid "Malayo-Polynesian languages"
-msgstr ""
+msgstr "Austroneesia hõimkond"
 
 #. Name for pqe
 msgid "Eastern Malayo-Polynesian languages"
-msgstr ""
+msgstr "Kesk-Ida-Austroneesia keelkond"
 
 #. Name for pqw
 msgid "Western Malayo-Polynesian languages"
-msgstr ""
+msgstr "Lääne-Austroneesia keelkond"
 
 #. Name for pra
 msgid "Prakrit languages"
@@ -356,7 +357,7 @@ msgstr "praakriti keeled"
 
 #. Name for qwe
 msgid "Quechuan (family)"
-msgstr ""
+msgstr "ketšua keeled"
 
 #. Name for roa
 msgid "Romance languages"
@@ -364,7 +365,7 @@ msgstr "romaani keeled"
 
 #. Name for sai
 msgid "South American Indian languages"
-msgstr ""
+msgstr "Lõuna-Ameerika indiaanikeeled"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -372,7 +373,7 @@ msgstr "sališi keelkond"
 
 #. Name for sdv
 msgid "Eastern Sudanic languages"
-msgstr ""
+msgstr "Ida-Sudaani keeled"
 
 #. Name for sem
 msgid "Semitic languages"
@@ -380,7 +381,7 @@ msgstr "semi keeled"
 
 #. Name for sgn
 msgid "sign languages"
-msgstr ""
+msgstr "viipekeeled"
 
 #. Name for sio
 msgid "Siouan languages"
@@ -404,7 +405,7 @@ msgstr "songai keeled"
 
 #. Name for sqj
 msgid "Albanian languages"
-msgstr ""
+msgstr "albaania keeled"
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
@@ -412,7 +413,7 @@ msgstr "Niiluse-Sahara hõimkond"
 
 #. Name for syd
 msgid "Samoyedic languages"
-msgstr ""
+msgstr "samojeedi keeled"
 
 #. Name for tai
 msgid "Tai languages"
@@ -420,11 +421,11 @@ msgstr "tai keeled"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
-msgstr ""
+msgstr "Tiibeti-Birma keeled"
 
 #. Name for trk
 msgid "Turkic languages"
-msgstr ""
+msgstr "turgi keeled"
 
 #. Name for tup
 msgid "Tupi languages"
@@ -436,11 +437,11 @@ msgstr "Altai keelkond"
 
 #. Name for tuw
 msgid "Tungus languages"
-msgstr ""
+msgstr "tunguusi keeled"
 
 #. Name for urj
 msgid "Uralic languages"
-msgstr ""
+msgstr "Uurali keelkond"
 
 #. Name for wak
 msgid "Wakashan languages"
@@ -452,11 +453,11 @@ msgstr "sorbi keeled"
 
 #. Name for xgn
 msgid "Mongolian languages"
-msgstr ""
+msgstr "mongoli keeled"
 
 #. Name for xnd
 msgid "Na-Dene languages"
-msgstr ""
+msgstr "naa-dene hõimkond"
 
 #. Name for ypk
 msgid "Yupik languages"
@@ -464,19 +465,19 @@ msgstr "jupiki keeled"
 
 #. Name for zhx
 msgid "Chinese (family)"
-msgstr ""
+msgstr "hiina keeled"
 
 #. Name for zle
 msgid "East Slavic languages"
-msgstr ""
+msgstr "idaslaavi keeled"
 
 #. Name for zls
 msgid "South Slavic languages"
-msgstr ""
+msgstr "lõunaslaavi keeled"
 
 #. Name for zlw
 msgid "West Slavic languages"
-msgstr ""
+msgstr "lääneslaavi keeled"
 
 #. Name for znd
 msgid "Zande languages"

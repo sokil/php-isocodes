@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2017-12-25 21:47+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Afrikaans <https://hosted.weblate.org/projects/iso-codes/"
@@ -594,8 +594,10 @@ msgid "Gambia"
 msgstr "Gambië"
 
 #. Official name for GMB
-msgid "Islamic Republic of the Gambia"
-msgstr "Islamitiese Republiek van die Gambië"
+#, fuzzy
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Republiek van Zambië"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -988,12 +990,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republiek van die Marshall-eilande"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Masedonië"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Nieu-Kaledonië"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr ""
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Republiek van Litoue"
 
 #. Name for MLI
 msgid "Mali"
@@ -1441,12 +1447,14 @@ msgid "Kingdom of Sweden"
 msgstr "Koninkryk van Swede"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Koninkryk van Swaziland"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Koninkryk van Spanje"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

@@ -8,16 +8,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Budi Rachmanto <rac@linux-mandrake.com>, 2001.
 # Andhika Padmawan <andhika.padmawan@gmail.com>, 2011-2012.
-# Andika Triwidada <andika@gmail.com>, 2018.
+# Andika Triwidada <andika@gmail.com>, 2018, 2019.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-10-14 12:06+0200\n"
-"PO-Revision-Date: 2018-06-20 00:40+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2019-03-23 22:08+0100\n"
+"PO-Revision-Date: 2019-03-25 06:38+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/id/>\n"
 "Language: id\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2771,141 +2771,141 @@ msgstr "Selatan"
 msgid "South-West"
 msgstr "Barat Daya"
 
-#. Name for CN-11
-msgid "Beijing"
-msgstr "Beijing"
+#. Name for CN-AH
+msgid "Anhui Sheng"
+msgstr "Anhui Sheng"
 
-#. Name for CN-12
-msgid "Tianjin"
-msgstr "Tianjin"
+#. Name for CN-BJ
+msgid "Beijing Shi"
+msgstr "Beijing Shi"
 
-#. Name for CN-13
-msgid "Hebei"
-msgstr "Hebei"
+#. Name for CN-CQ
+msgid "Chongqing Shi"
+msgstr "Chongqing Shi"
 
-#. Name for CN-14
-msgid "Shanxi"
-msgstr "Shanxi"
+#. Name for CN-FJ
+msgid "Fujian Sheng"
+msgstr "Fujian Sheng"
 
-#. Name for CN-15
-msgid "Nei Mongol"
-msgstr "Nei Mongol"
+#. Name for CN-GD
+msgid "Guangdong Sheng"
+msgstr "Guangdong Sheng"
 
-#. Name for CN-21
-msgid "Liaoning"
-msgstr "Liaoning"
+#. Name for CN-GS
+msgid "Gansu Sheng"
+msgstr "Gansu Sheng"
 
-#. Name for CN-22
-msgid "Jilin"
-msgstr "Jilin"
+#. Name for CN-GX
+msgid "Guangxi Zhuangzu Zizhiqu"
+msgstr "Guangxi Zhuangzu Zizhiqu"
 
-#. Name for CN-23
-msgid "Heilongjiang"
-msgstr "Heilongjiang"
+#. Name for CN-GZ
+msgid "Guizhou Sheng"
+msgstr "Guizhou Sheng"
 
-#. Name for CN-31
-msgid "Shanghai"
-msgstr "Shanghai"
+#. Name for CN-HA
+msgid "Henan Sheng"
+msgstr "Henan Sheng"
 
-#. Name for CN-32
-msgid "Jiangsu"
-msgstr "Jiangsu"
+#. Name for CN-HB
+msgid "Hubei Sheng"
+msgstr "Hubei Sheng"
 
-#. Name for CN-33
-msgid "Zhejiang"
-msgstr "Zhejiang"
+#. Name for CN-HE
+msgid "Hebei Sheng"
+msgstr "Hebei Sheng"
 
-#. Name for CN-34
-msgid "Anhui"
-msgstr "Anhui"
+#. Name for CN-HI
+msgid "Hainan Sheng"
+msgstr "Hainan Sheng"
 
-#. Name for CN-35
-msgid "Fujian"
-msgstr "Fujian"
+#. Name for CN-HK
+msgid "Hong Kong SAR (see also separate country code entry under HK)"
+msgstr "Hong Kong SAR (lihat juga entri kode negara terpisah di bawah HK)"
 
-#. Name for CN-36
-msgid "Jiangxi"
-msgstr "Jiangxi"
+#. Name for CN-HL
+msgid "Heilongjiang Sheng"
+msgstr "Heilongjiang Sheng"
 
-#. Name for CN-37
-msgid "Shandong"
-msgstr "Shandong"
+#. Name for CN-HN
+msgid "Hunan Sheng"
+msgstr "Hunan Sheng"
 
-#. Name for CN-41
-msgid "Henan"
-msgstr "Henan"
+#. Name for CN-JL
+msgid "Jilin Sheng"
+msgstr "Jilin Sheng"
 
-#. Name for CN-42
-msgid "Hubei"
-msgstr "Hubei"
+#. Name for CN-JS
+msgid "Jiangsu Sheng"
+msgstr "Jiangsu Sheng"
 
-#. Name for CN-43
-msgid "Hunan"
-msgstr "Hunan"
+#. Name for CN-JX
+msgid "Jiangxi Sheng"
+msgstr "Jiangxi Sheng"
 
-#. Name for CN-44
-msgid "Guangdong"
-msgstr "Guangdong"
+#. Name for CN-LN
+msgid "Liaoning Sheng"
+msgstr "Liaoning Sheng"
 
-#. Name for CN-45
-msgid "Guangxi"
-msgstr "Guangxi"
+#. Name for CN-MO
+msgid "Macao SAR (see also separate country code entry under MO)"
+msgstr "Makau SAR (lihat juga entri kode negara terpisah di bawah  MO)"
 
-#. Name for CN-46
-msgid "Hainan"
-msgstr "Hainan"
+#. Name for CN-NM
+msgid "Nei Mongol Zizhiqu"
+msgstr "Nei Mongol Zizhiqu"
 
-#. Name for CN-50
-msgid "Chongqing"
-msgstr "Chongqing"
+#. Name for CN-NX
+msgid "Ningxia Huizi Zizhiqu"
+msgstr "Ningxia Huizi Zizhiqu"
 
-#. Name for CN-51
-msgid "Sichuan"
-msgstr "Sichuan"
+#. Name for CN-QH
+msgid "Qinghai Sheng"
+msgstr "Qinghai Sheng"
 
-#. Name for CN-52
-msgid "Guizhou"
-msgstr "Guizhou"
+#. Name for CN-SC
+msgid "Sichuan Sheng"
+msgstr "Sichuan Sheng"
 
-#. Name for CN-53
-msgid "Yunnan"
-msgstr "Yunnan"
+#. Name for CN-SD
+msgid "Shandong Sheng"
+msgstr "Shandong Sheng"
 
-#. Name for CN-54
-msgid "Xizang"
-msgstr "Xizang"
+#. Name for CN-SH
+msgid "Shanghai Shi"
+msgstr "Shanghai Shi"
 
-#. Name for CN-61
-msgid "Shaanxi"
-msgstr "Shaanxi"
+#. Name for CN-SN
+msgid "Shaanxi Sheng"
+msgstr "Shaanxi Sheng"
 
-#. Name for CN-62
-msgid "Gansu"
-msgstr "Gansu"
+#. Name for CN-SX
+msgid "Shanxi Sheng"
+msgstr "Shanxi Sheng"
 
-#. Name for CN-63
-msgid "Qinghai"
-msgstr "Qinghai"
+#. Name for CN-TJ
+msgid "Tianjin Shi"
+msgstr "Tianjin Shi"
 
-#. Name for CN-64
-msgid "Ningxia"
-msgstr "Ningxia"
+#. Name for CN-TW
+msgid "Taiwan Sheng (see also separate country code entry under TW)"
+msgstr "Taiwan Sheng (lihat juga entri kode negara terpisah di bawah  TW)"
 
-#. Name for CN-65
-msgid "Xinjiang"
-msgstr "Xinjiang"
+#. Name for CN-XJ
+msgid "Xinjiang Uygur Zizhiqu"
+msgstr "Xinjiang Uygur Zizhiqu"
 
-#. Name for CN-71
-msgid "Taiwan"
-msgstr "Taiwan"
+#. Name for CN-XZ
+msgid "Xizang Zizhiqu"
+msgstr "Xizang Zizhiqu"
 
-#. Name for CN-91
-msgid "Xianggang (Hong-Kong)"
-msgstr "Xianggang (Hong-Kong)"
+#. Name for CN-YN
+msgid "Yunnan Sheng"
+msgstr "Yunnan Sheng"
 
-#. Name for CN-92
-msgid "Aomen (Macau)"
-msgstr "Aomen (Macau)"
+#. Name for CN-ZJ
+msgid "Zhejiang Sheng"
+msgstr "Zhejiang Sheng"
 
 #. Name for CO-ANT
 msgid "Antioquia"
@@ -12057,11 +12057,11 @@ msgstr "Chiapas"
 
 #. Name for MX-CMX
 msgid "Ciudad de México"
-msgstr ""
+msgstr "Ciudad de México"
 
 #. Name for MX-COA
 msgid "Coahuila de Zaragoza"
-msgstr ""
+msgstr "Coahuila de Zaragoza"
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12092,10 +12092,8 @@ msgid "México"
 msgstr "México"
 
 #. Name for MX-MIC
-#, fuzzy
-#| msgid "Michoacán"
 msgid "Michoacán de Ocampo"
-msgstr "Michoacán"
+msgstr "Michoacán de Ocampo"
 
 #. Name for MX-MOR
 msgid "Morelos"
@@ -12151,7 +12149,7 @@ msgstr "Tlaxcala"
 
 #. Name for MX-VER
 msgid "Veracruz de Ignacio de la Llave"
-msgstr ""
+msgstr "Veracruz de Ignacio de la Llave"
 
 #. Name for MX-YUC
 msgid "Yucatán"

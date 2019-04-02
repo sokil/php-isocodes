@@ -10,21 +10,23 @@
 # Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>, 2001.
 # Volkan Gezer <volkangezer@gmail.com>, 2013.
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
+# Serdar Sağlam <teknomobil@msn.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2015-09-24 16:57+0300\n"
-"Last-Translator: Volkan Gezer <volkangezer@gmail.com>\n"
-"Language-Team: Turkish <gnu-tr-u12a@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2019-03-17 23:04+0000\n"
+"Last-Translator: Serdar Sağlam <teknomobil@msn.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -84,7 +86,7 @@ msgstr "Algonquian dilleri (Kuzey Amerika yerlileri)"
 
 #. Name for alt
 msgid "Southern Altai"
-msgstr "Southern Altai"
+msgstr "Güney Altay"
 
 #. Name for amh
 msgid "Amharic"
@@ -153,7 +155,7 @@ msgstr "Avarca"
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestan (Eski İran)"
+msgstr "Avestçe"
 
 #. Name for awa
 msgid "Awadhi"
@@ -189,7 +191,7 @@ msgstr "Bambara (Mali)"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "Balice (Bali adaları)"
+msgstr "Balinese"
 
 #. Name for bas
 msgid "Basa"
@@ -217,7 +219,7 @@ msgstr "Bengalce"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr "Bengali"
+msgstr "Bengalce"
 
 #. Name for ber
 msgid "Berber languages"
@@ -250,7 +252,7 @@ msgstr "Siksika (Kuzey Amerika yerlileri)"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "Bantu (Diğer)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -278,7 +280,7 @@ msgstr "Buriat (Moğolistan)"
 
 #. Name for bug
 msgid "Buginese"
-msgstr "Buginese (Endonezya)"
+msgstr "Bugice"
 
 #. Name for bul
 msgid "Bulgarian"
@@ -298,7 +300,7 @@ msgstr "Orta Amerika Kızıldereli dilleri"
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr "Galibi Carib"
+msgstr "Karayipler Galibi"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -358,7 +360,7 @@ msgstr "Chipewyan; Dene Suline"
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "Cherokee (Kuzey Amerika yerlileri)"
+msgstr "Çerokice"
 
 #. Name for chu
 msgid ""
@@ -382,7 +384,7 @@ msgstr "Chamic dilleri (Malay)"
 
 #. Name for cop
 msgid "Coptic"
-msgstr "Kıptice (Eski Mısır)"
+msgstr "Kıptice"
 
 #. Name for cor
 msgid "Cornish"
@@ -446,7 +448,7 @@ msgstr "Land Dayak dilleri"
 
 #. Name for del
 msgid "Delaware"
-msgstr "Delaware (Kuzey Amerika yerlileri)"
+msgstr "Delaware"
 
 #. Name for den
 msgid "Slave (Athapascan)"
@@ -482,7 +484,7 @@ msgstr "Aşağı Sırpça"
 
 #. Name for dua
 msgid "Duala"
-msgstr "Duala"
+msgstr "Duala Dili"
 
 #. Name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
@@ -498,7 +500,7 @@ msgstr "Dzongkha (Butan)"
 
 #. Name for efi
 msgid "Efik"
-msgstr "Efik"
+msgstr "Efik Dili"
 
 #. Name for egy
 msgid "Egyptian (Ancient)"
@@ -506,7 +508,7 @@ msgstr "Mısırca (Eski)"
 
 #. Name for eka
 msgid "Ekajuk"
-msgstr "Ekajuk"
+msgstr "Ekajuk Dili"
 
 #. Name for ell
 msgid "Greek, Modern (1453-)"
@@ -930,8 +932,6 @@ msgid "Central Khmer"
 msgstr "Merkez Khmer"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
 msgstr "Khotanese;Sakan"
 
@@ -1359,10 +1359,8 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "Occitan (post 1500)"
+msgstr "Oksitanca (1500 sonrası); Provensal"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1453,10 +1451,8 @@ msgid "Prakrit languages"
 msgstr "Prakrit dilleri"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "Provansça, Eski (1500 yılına kadar); Eski Katalak (1500 yılına kadar)"
+msgstr "Provensal, Eski (1500 yılı)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1495,10 +1491,8 @@ msgid "Romany"
 msgstr "Romany"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Moldavya Dili"
+msgstr "Romen; Moldovalı; Moldovalı"
 
 #. Name for run
 msgid "Rundi"
@@ -1525,10 +1519,8 @@ msgid "Yakut"
 msgstr "Yakut"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "Güney Amerika Kızılderili dilleri"
+msgstr "Güney Amerika Kızılderili (Diğer)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1917,7 +1909,7 @@ msgstr "Wakashan dilleri"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "Walamo"
 
 #. Name for war
 msgid "Waray"

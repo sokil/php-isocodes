@@ -10,21 +10,23 @@
 # Kemal Yilmaz <kyilmaz@uekae.tubitak.gov.tr>, 2001.
 # Volkan Gezer <volkangezer@gmail.com>, 2013.
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
+# Serdar Sağlam <teknomobil@msn.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2015-09-24 16:58+0300\n"
-"Last-Translator: Volkan Gezer <vlkngzr@gmail.com>\n"
-"Language-Team: Turkish <gnu-tr-u12a@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2019-03-17 23:04+0000\n"
+"Last-Translator: Serdar Sağlam <teknomobil@msn.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1171,9 +1173,8 @@ msgid "Albanian, Tosk"
 msgstr "Arnavutça, Tosk"
 
 #. Name for alt
-#, fuzzy
 msgid "Southern Altai"
-msgstr "Sesotho"
+msgstr "Güney Altay"
 
 #. Inverted name for alt
 msgid "Altai, Southern"
@@ -2174,7 +2175,7 @@ msgstr "Alviri-Vidari"
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestan (Eski İran)"
+msgstr "Avestçe"
 
 #. Name for avi
 msgid "Avikam"
@@ -2614,7 +2615,7 @@ msgstr "Bambara (Mali)"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "Balice (Bali adaları)"
+msgstr "Balinese"
 
 #. Name for bao
 msgid "Waimaha"
@@ -3058,7 +3059,6 @@ msgid "Bengali"
 msgstr "Bengalce"
 
 #. Common name for ben
-#, fuzzy
 msgid "Bangla"
 msgstr "Bengalce"
 
@@ -4810,7 +4810,7 @@ msgstr "Bushoong"
 
 #. Name for bug
 msgid "Buginese"
-msgstr "Buginese (Endonezya)"
+msgstr "Bugice"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -5537,9 +5537,8 @@ msgid "Nicobarese, Car"
 msgstr "Nicobarese, Car"
 
 #. Name for car
-#, fuzzy
 msgid "Galibi Carib"
-msgstr "Galiçya dili"
+msgstr "Karayipler Galibi"
 
 #. Inverted name for car
 msgid "Carib, Galibi"
@@ -5935,7 +5934,7 @@ msgstr "Chinantec, Quiotepec"
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "Cherokee (Kuzey Amerika yerlileri)"
+msgstr "Çerokice"
 
 #. Name for cht
 msgid "Cholón"
@@ -6484,7 +6483,7 @@ msgstr "Comox"
 
 #. Name for cop
 msgid "Coptic"
-msgstr "Kıptice (Eski Mısır)"
+msgstr "Kıptice"
 
 #. Name for coq
 msgid "Coquille"
@@ -7470,7 +7469,7 @@ msgstr "Dek"
 
 #. Name for del
 msgid "Delaware"
-msgstr "Delaware (Kuzey Amerika yerlileri)"
+msgstr "Delaware"
 
 #. Name for dem
 msgid "Dem"
@@ -8357,7 +8356,7 @@ msgstr "Yeni _takma ad"
 
 #. Name for dua
 msgid "Duala"
-msgstr "Duala (Afrika)"
+msgstr "Duala Dili"
 
 #. Name for dub
 msgid "Dubli"
@@ -8637,7 +8636,7 @@ msgstr "Efe"
 
 #. Name for efi
 msgid "Efik"
-msgstr "Efik (Afrika)"
+msgstr "Efik Dili"
 
 #. Name for ega
 msgid "Ega"
@@ -8677,7 +8676,7 @@ msgstr "Ejamat"
 
 #. Name for eka
 msgid "Ekajuk"
-msgstr "Ekajuk (Afrika)"
+msgstr "Ekajuk Dili"
 
 #. Name for ekc
 msgid "Eastern Karnic"
@@ -25908,7 +25907,7 @@ msgstr ""
 
 #. Inverted name for pro
 msgid "Provençal, Old (to 1500)"
-msgstr "Provençal, Old (to 1500)"
+msgstr "Provensal, Eski (1500 yılı)"
 
 #. Name for prp
 msgid "Parsi"
