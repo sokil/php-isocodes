@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\Database\Currencies\Currency;
