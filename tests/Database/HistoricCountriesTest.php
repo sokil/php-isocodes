@@ -10,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 
 class HistoricCountriesTest extends TestCase
 {
-    public function testIterator()
+    public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -24,7 +24,7 @@ class HistoricCountriesTest extends TestCase
         }
     }
 
-    public function testGetByAlpha4()
+    public function testGetByAlpha4(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -67,7 +67,7 @@ class HistoricCountriesTest extends TestCase
         );
     }
     
-    public function testGetLocalByAlpha4()
+    public function testGetLocalByAlpha4(): void
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');
@@ -89,7 +89,7 @@ class HistoricCountriesTest extends TestCase
         );
     }
     
-    public function testGetByAlpha3()
+    public function testGetByAlpha3(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -107,7 +107,7 @@ class HistoricCountriesTest extends TestCase
         );
     }
     
-    public function testGetLocalByAlpha3()
+    public function testGetLocalByAlpha3(): void
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');
@@ -129,7 +129,7 @@ class HistoricCountriesTest extends TestCase
         );
     }
     
-    public function testGetByNumericCode()
+    public function testGetByNumericCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -147,7 +147,7 @@ class HistoricCountriesTest extends TestCase
         );
     }
     
-    public function testGetLocalByNumericCode()
+    public function testGetLocalByNumericCode(): void
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');

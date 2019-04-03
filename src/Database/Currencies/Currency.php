@@ -27,33 +27,22 @@ class Currency
      */
     private $localName;
 
-    /**
-     * @param string $name
-     * @param string $letterCode
-     * @param int $numericCode
-     */
     public function __construct(
-        $name,
-        $letterCode,
-        $numericCode
+        string $name,
+        string $letterCode,
+        int $numericCode
     ) {
         $this->name = $name;
         $this->letterCode = $letterCode;
         $this->numericCode = $numericCode;
     }
 
-    /**
-     * @return string
-     */
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
 
-    /**
-     * @return string
-     */
-    public function getLocalName()
+    public function getLocalName(): string
     {
         if ($this->localName === null) {
             $this->localName = dgettext(
@@ -65,18 +54,12 @@ class Currency
         return $this->localName;
     }
 
-    /**
-     * @return string
-     */
-    public function getLetterCode()
+    public function getLetterCode(): string
     {
         return $this->letterCode;
     }
 
-    /**
-     * @return int
-     */
-    public function getNumericCode()
+    public function getNumericCode(): int
     {
         return $this->numericCode;
     }

@@ -12,4 +12,11 @@
             <property name="spacesCountAroundEqualsSign" value="0" />
         </properties>
     </rule>
+    <rule ref="SlevomatCodingStandard.TypeHints.TypeHintDeclaration">
+        <properties>
+            <property name="allAnnotationsAreUseful" value="true" />
+            <property name="enableEachParameterAndReturnInspection" value="true" />
+            <property name="enableObjectTypeHint" value="false" />
+        </properties>
+    </rule>
 </ruleset>

@@ -8,20 +8,15 @@ use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
 class Subdivisions extends AbstractDatabase
 {
-    /**
-     * @return string
-     */
-    public static function getISONumber()
+    public static function getISONumber(): string
     {
         return '3166-2';
     }
 
     /**
-     * @param array $entry
-     *
-     * @return Subdivision
+     * @param mixed[] $entry
      */
-    protected function arrayToEntry(array $entry)
+    protected function arrayToEntry(array $entry): Subdivision
     {
         return new Subdivision(
             $entry['name'],
@@ -32,9 +27,9 @@ class Subdivisions extends AbstractDatabase
     }
 
     /**
-     * @return array
+     * @return mixed[]
      */
-    protected function getIndexDefinition()
+    protected function getIndexDefinition(): array
     {
         return [
             'code',
@@ -44,10 +39,8 @@ class Subdivisions extends AbstractDatabase
 
     /**
      * @param string $subdivisionCode in format "alpha2country-subdivision", e.g. "UA-43"
-     *
-     * @return Subdivision
      */
-    public function getByCode($subdivisionCode)
+    public function getByCode(string $subdivisionCode): Subdivision
     {
         return $this->find('code', $subdivisionCode);
     }
@@ -57,7 +50,7 @@ class Subdivisions extends AbstractDatabase
      *
      * @return Subdivision[]
      */
-    public function getAllByCountryCode($alpha2CountryCode)
+    public function getAllByCountryCode(string $alpha2CountryCode): array
     {
         return $this->find('country_code', $alpha2CountryCode);
     }

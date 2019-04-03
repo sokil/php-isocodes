@@ -10,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 
 class CountriesTest extends TestCase
 {
-    public function testIterator()
+    public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
         $countries = $isoCodes->getCountries();
@@ -25,7 +25,7 @@ class CountriesTest extends TestCase
         $this->assertGreaterThan(0, count($countries));
     }
 
-    public function testGetByAlpha2()
+    public function testGetByAlpha2(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -68,7 +68,7 @@ class CountriesTest extends TestCase
         );
     }
 
-    public function testGetByAlpha3()
+    public function testGetByAlpha3(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -91,12 +91,12 @@ class CountriesTest extends TestCase
         );
     }
 
-    public function testGetByNumericCode()
+    public function testGetByNumericCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getCountries();
-        $country = $countries->getByNumericCode('804');
+        $country = $countries->getByNumericCode(804);
 
         $this->assertInstanceOf(
             Country::class,

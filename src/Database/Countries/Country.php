@@ -39,18 +39,13 @@ class Country
 
     /**
      * Country constructor.
-     * @param string $name
-     * @param string $alpha2
-     * @param string $alpha3
-     * @param int $numericCode
-     * @param string|null $officialName
      */
     public function __construct(
-        $name,
-        $alpha2,
-        $alpha3,
-        $numericCode,
-        $officialName = null
+        string $name,
+        string $alpha2,
+        string $alpha3,
+        int $numericCode,
+        ?string $officialName = null
     ) {
         $this->name = $name;
         $this->alpha2 = $alpha2;
@@ -59,42 +54,27 @@ class Country
         $this->officialName = $officialName;
     }
 
-    /**
-     * @return string
-     */
-    public function getAlpha2()
+    public function getAlpha2(): string
     {
         return $this->alpha2;
     }
 
-    /**
-     * @return string
-     */
-    public function getAlpha3()
+    public function getAlpha3(): string
     {
         return $this->alpha3;
     }
 
-    /**
-     * @return int
-     */
-    public function getNumericCode()
+    public function getNumericCode(): int
     {
         return $this->numericCode;
     }
 
-    /**
-     * @return string
-     */
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
 
-    /**
-     * @return string
-     */
-    public function getLocalName()
+    public function getLocalName(): string
     {
         if ($this->localName === null) {
             $this->localName = dgettext(
@@ -106,10 +86,7 @@ class Country
         return $this->localName;
     }
 
-    /**
-     * @return string|null
-     */
-    public function getOfficialName()
+    public function getOfficialName(): ?string
     {
         return $this->officialName;
     }

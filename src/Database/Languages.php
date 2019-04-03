@@ -8,20 +8,15 @@ use Sokil\IsoCodes\Database\Languages\Language;
 
 class Languages extends AbstractDatabase
 {
-    /**
-     * @return string
-     */
-    public static function getISONumber()
+    public static function getISONumber(): string
     {
         return '639-3';
     }
 
     /**
-     * @param array $entry
-     *
-     * @return Language
+     * @param string[] $entry
      */
-    protected function arrayToEntry(array $entry)
+    protected function arrayToEntry(array $entry): Language
     {
         return new Language(
             $entry['name'],
@@ -34,9 +29,9 @@ class Languages extends AbstractDatabase
     }
 
     /**
-     * @return array
+     * @return string[]
      */
-    protected function getIndexDefinition()
+    protected function getIndexDefinition(): array
     {
         return [
             'alpha_2',
@@ -44,22 +39,12 @@ class Languages extends AbstractDatabase
         ];
     }
 
-    /**
-     * @param string $alpha2
-     *
-     * @return null|Language
-     */
-    public function getByAlpha2($alpha2)
+    public function getByAlpha2(string $alpha2): ?Language
     {
         return $this->find('alpha_2', $alpha2);
     }
 
-    /**
-     * @param string $alpha3
-     *
-     * @return null|Language
-     */
-    public function getByAlpha3($alpha3)
+    public function getByAlpha3(string $alpha3): ?Language
     {
         return $this->find('alpha_3', $alpha3);
     }

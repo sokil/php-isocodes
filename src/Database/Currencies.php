@@ -8,20 +8,15 @@ use Sokil\IsoCodes\Database\Currencies\Currency;
 
 class Currencies extends AbstractDatabase
 {
-    /**
-     * @return string
-     */
-    public static function getISONumber()
+    public static function getISONumber(): string
     {
         return '4217';
     }
 
     /**
-     * @param array $entry
-     *
-     * @return Currency
+     * @param mixed[] $entry
      */
-    protected function arrayToEntry(array $entry)
+    protected function arrayToEntry(array $entry): Currency
     {
         return new Currency(
             $entry['name'],
@@ -31,9 +26,9 @@ class Currencies extends AbstractDatabase
     }
 
     /**
-     * @return array
+     * @return string[]
      */
-    protected function getIndexDefinition()
+    protected function getIndexDefinition(): array
     {
         return [
             'alpha_3',
@@ -41,20 +36,12 @@ class Currencies extends AbstractDatabase
         ];
     }
 
-    /**
-     * @param string $code
-     * @return null|Currency
-     */
-    public function getByLetterCode($code)
+    public function getByLetterCode(string $code): ?Currency
     {
         return $this->find('alpha_3', $code);
     }
 
-    /**
-     * @param int $code
-     * @return null|Currency
-     */
-    public function getByNumericCode($code)
+    public function getByNumericCode(int $code): ?Currency
     {
         return $this->find('numeric', $code);
     }

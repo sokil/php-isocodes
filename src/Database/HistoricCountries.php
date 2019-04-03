@@ -8,20 +8,15 @@ use Sokil\IsoCodes\Database\HistoricCountries\Country;
 
 class HistoricCountries extends AbstractDatabase
 {
-    /**
-     * @return string
-     */
-    public static function getISONumber()
+    public static function getISONumber(): string
     {
         return '3166-3';
     }
 
     /**
-     * @param array $entry
-     *
-     * @return Country
+     * @param string[] $entry
      */
-    protected function arrayToEntry(array $entry)
+    protected function arrayToEntry(array $entry): Country
     {
         return new Country(
             $entry['name'],
@@ -34,9 +29,9 @@ class HistoricCountries extends AbstractDatabase
     }
 
     /**
-     * @return array
+     * @return string[]
      */
-    protected function getIndexDefinition()
+    protected function getIndexDefinition(): array
     {
         return [
             'alpha_4',
@@ -46,42 +41,22 @@ class HistoricCountries extends AbstractDatabase
         ];
     }
 
-    /**
-     * @param string $code
-     *
-     * @return null|Country
-     */
-    public function getByAlpha4($code)
+    public function getByAlpha4(string $code): ?Country
     {
         return $this->find('alpha_4', $code);
     }
 
-    /**
-     * @param string $code
-     *
-     * @return null|Country
-     */
-    public function getByAlpha3($code)
+    public function getByAlpha3(string $code): ?Country
     {
         return $this->find('alpha_3', $code);
     }
 
-    /**
-     * @param string $code
-     *
-     * @return null|Country
-     */
-    public function getByAlpha2($code)
+    public function getByAlpha2(string $code): ?Country
     {
         return $this->find('alpha_2', $code);
     }
 
-    /**
-     * @param int $code
-     *
-     * @return null|Country
-     */
-    public function getByNumericCode($code)
+    public function getByNumericCode(int $code): ?Country
     {
         return $this->find('numeric', $code);
     }

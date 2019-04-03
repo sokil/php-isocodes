@@ -10,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 
 class SubdivisionsTest extends TestCase
 {
-    public function testIterator()
+    public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -24,7 +24,7 @@ class SubdivisionsTest extends TestCase
         }
     }
 
-    public function testGetByCode()
+    public function testGetByCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -62,7 +62,7 @@ class SubdivisionsTest extends TestCase
         );
     }
 
-    public function testGetAllByCountryCode()
+    public function testGetAllByCountryCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 

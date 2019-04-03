@@ -44,20 +44,14 @@ class Country
 
     /**
      * Country constructor.
-     * @param string $name
-     * @param string $alpha4
-     * @param string $alpha3
-     * @param string $alpha2
-     * @param string $withdrawalDate
-     * @param int|null $numericCode
      */
     public function __construct(
-        $name,
-        $alpha4,
-        $alpha3,
-        $alpha2,
-        $withdrawalDate,
-        $numericCode = null
+        string $name,
+        string $alpha4,
+        string $alpha3,
+        string $alpha2,
+        string $withdrawalDate,
+        ?int $numericCode = null
     ) {
         $this->name = $name;
         $this->alpha4 = $alpha4;
@@ -67,18 +61,12 @@ class Country
         $this->numericCode = $numericCode;
     }
 
-    /**
-     * @return string
-     */
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
 
-    /**
-     * @return string
-     */
-    public function getLocalName()
+    public function getLocalName(): string
     {
         if ($this->localName === null) {
             $this->localName = dgettext(
@@ -90,42 +78,27 @@ class Country
         return $this->localName;
     }
 
-    /**
-     * @return string
-     */
-    public function getAlpha4()
+    public function getAlpha4(): string
     {
         return $this->alpha4;
     }
 
-    /**
-     * @return string
-     */
-    public function getAlpha3()
+    public function getAlpha3(): string
     {
         return $this->alpha3;
     }
 
-    /**
-     * @return string
-     */
-    public function getAlpha2()
+    public function getAlpha2(): string
     {
         return $this->alpha2;
     }
 
-    /**
-     * @return string
-     */
-    public function getWithdrawalDate()
+    public function getWithdrawalDate(): string
     {
         return $this->withdrawalDate;
     }
 
-    /**
-     * @return int|null
-     */
-    public function getNumericCode()
+    public function getNumericCode(): ?int
     {
         return $this->numericCode;
     }
