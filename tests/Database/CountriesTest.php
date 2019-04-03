@@ -19,7 +19,7 @@ class CountriesTest extends TestCase
             );
         }
 
-        $this->assertInternalType('array', $countries->toArray());
+        $this->assertIsArray($countries->toArray());
         $this->assertGreaterThan(0, count($countries));
     }
 
@@ -88,7 +88,7 @@ class CountriesTest extends TestCase
             $country->getLocalName()
         );
     }
-    
+
     public function testGetByNumericCode()
     {
         $isoCodes = new IsoCodesFactory();

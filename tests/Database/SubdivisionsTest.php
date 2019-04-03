@@ -67,7 +67,7 @@ class SubdivisionsTest extends TestCase
         $subDivisionDatabase = $isoCodes->getSubdivisions();
         $subDivisions = $subDivisionDatabase->getAllByCountryCode('UA');
 
-        $this->assertInternalType('array', $subDivisions);
+        $this->assertIsArray($subDivisions);
 
         $this->assertArrayHasKey('UA-43', $subDivisions);
 
