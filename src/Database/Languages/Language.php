@@ -118,7 +118,6 @@ class Language
                 Languages::getISONumber(),
                 $this->name
             );
-
         }
 
         return $this->localName;
