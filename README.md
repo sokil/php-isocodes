@@ -33,6 +33,7 @@ Due to [currently supported versions](https://www.php.net/supported-versions.php
   * [Scripts database (ISO 15924)](#scripts-database-iso-15924)
   * [Currencies database (ISO 4217)](#currencies-database-iso-4217)
   * [Languages database (ISO 639-3)](#languages-database-iso-639-3)
+* [Tests](#tests)
 
 ## ISO Standards
 
@@ -255,8 +256,20 @@ $language->getType(); // L
 $language->getInvertedName(); // null
 ```
 
-See also
---------
+## Tests
+
+To start docker tests run following command:
+```
+./tests/docker/run-test.sh [PHP_VERSION]
+```
+
+For example for PHP 7.1 run following command:
+```
+./tests/docker/run-test.sh 7.1
+```
+
+
+## See also
 
 * [State Classifier of objects of administrative and territorial structure of Ukraine](https://github.com/sokil/koatuu) - generates database of detailed list of cities and settlements of Ukraine
 * [A Symfony's PHP replacement layer for the C intl extension that also provides access to the localization data of the ICU library](http://symfony.com/doc/current/components/intl.html)
