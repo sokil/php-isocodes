@@ -37,7 +37,7 @@ class Country
     private $withdrawalDate;
 
     /**
-     * @var int|null
+     * @var integer|null
      */
     public $numericCode;
 

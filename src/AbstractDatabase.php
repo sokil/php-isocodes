@@ -149,6 +149,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      * @param string $indexedFieldName
      *
      * @return array
+     *
+     * @throws \InvalidArgumentException If no index found in database
      */
     private function getIndex($indexedFieldName)
     {

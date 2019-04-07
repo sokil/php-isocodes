@@ -45,24 +45,24 @@ class Language
     private $alpha3;
 
     /**
+     * @var string
+     *
      * Scope of denotation
      *
      * One of self::SCOPE_*
      *
      * @see https://iso639-3.sil.org/about/scope
-     *
-     * @var string
      */
     private $scope;
 
     /**
+     * @var string
+     *
      * Type of language
      *
      * One of TYPE_*
      *
      * @see https://iso639-3.sil.org/about/types
-     *
-     * @var string
      */
     private $type;
 

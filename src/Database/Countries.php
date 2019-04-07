@@ -7,6 +7,9 @@ use Sokil\IsoCodes\Database\Countries\Country;
 
 class Countries extends AbstractDatabase
 {
+    /**
+     * @return string
+     */
     public static function getISONumber()
     {
         return '3166-1';

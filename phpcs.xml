@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="php-isocodes">
+    <description>PSR2 + extended checks</description>
+    <config name="ignore_errors_on_exit" value="1"/>
+    <config name="ignore_warnings_on_exit" value="1"/>
+    <rule ref="PSR2"/>
+    <rule ref="Squiz.Commenting.FunctionCommentThrowTag" />
+    <rule ref="Squiz.Commenting.VariableComment" />
+</ruleset>

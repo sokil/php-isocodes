@@ -12,7 +12,7 @@ class Currency
     private $letterCode;
 
     /**
-     * @var int
+     * @var integer
      */
     private $numericCode;
 

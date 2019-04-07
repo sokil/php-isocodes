@@ -22,7 +22,7 @@ class Script
     private $alpha4;
 
     /**
-     * @var int
+     * @var integer
      */
     private $numericCode;
 
