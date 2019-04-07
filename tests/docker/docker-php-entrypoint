@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+
+# install dependencies
+if [[ -z $(php -m | grep gettext) ]];
+then
+    docker-php-ext-install gettext;
+    #docker-php-ext-enable gettext
+fi
+
+# locales
+apt-get update
+apt-get install -y locales
+echo "uk_UA.UTF-8 UTF-8" > /etc/locale.gen
+locale-gen
+
+# run tests
+/php-isocodes/vendor/bin/phpunit -c /php-isocodes/tests/phpunit.xml /php-isocodes/tests

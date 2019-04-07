@@ -125,18 +125,18 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         $isoNumber = $this->getISONumber();
 
         // add gettext domain
-        bindtextdomain(
+        \bindtextdomain(
             $isoNumber,
             $this->getLocalMessagesDirPath()
         );
 
-        bind_textdomain_codeset(
+        \bind_textdomain_codeset(
             $isoNumber,
             'UTF-8'
         );
 
         // load database from json file
-        $json = json_decode(
+        $json = \json_decode(
             file_get_contents($databaseFile),
             true
         );
