@@ -9,14 +9,17 @@
         }
     ],
     "require": {
-        "php": ">=5.5",
+        "php": ">=7.1",
         "ext-gettext": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "^4.8 || ^6.5",
+        "phpunit/phpunit": "^7.0",
         "php-coveralls/php-coveralls": "^2.1",
         "squizlabs/php_codesniffer": "^3.4",
-        "phpmd/phpmd" : "@stable"
+        "phpmd/phpmd" : "@stable",
+        "phpbench/phpbench": "^0.16.9",
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "slevomat/coding-standard": "^5.0"
     },
     "autoload": {
         "psr-4": {
@@ -35,7 +38,7 @@
         "coveralls": "./vendor/bin/php-coveralls -v",
         "check-style": "./vendor/bin/phpcs -p src",
         "fix-style": "./vendor/bin/phpcbf -p src",
-        "bench": "phpbench run benchmarks/  --report=default",
+        "bench": "./vendor/bin/phpbench run benchmarks/  --report=default",
         "infection": "infection",
         "release": "./bin/release.sh",
         "update_iso_codes_db": "./bin/update_iso_codes_db.sh"

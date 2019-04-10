@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database\Scripts;
 
@@ -28,14 +29,11 @@ class Script
 
     /**
      * Script constructor.
-     * @param string $name
-     * @param string $alpha4
-     * @param int $numericCode
      */
     public function __construct(
-        $name,
-        $alpha4,
-        $numericCode
+        string $name,
+        string $alpha4,
+        int $numericCode
     ) {
         $this->name = $name;
         $this->alpha4 = $alpha4;
@@ -43,18 +41,12 @@ class Script
     }
 
 
-    /**
-     * @return string
-     */
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
 
-    /**
-     * @return string
-     */
-    public function getLocalName()
+    public function getLocalName(): string
     {
         if ($this->localName === null) {
             $this->localName = dgettext(
@@ -66,18 +58,12 @@ class Script
         return $this->localName;
     }
 
-    /**
-     * @return string
-     */
-    public function getAlpha4()
+    public function getAlpha4(): string
     {
         return $this->alpha4;
     }
 
-    /**
-     * @return int
-     */
-    public function getNumericCode()
+    public function getNumericCode(): int
     {
         return $this->numericCode;
     }

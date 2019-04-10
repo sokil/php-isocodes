@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes;
 
@@ -27,23 +28,21 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * Cluster index used for iteration by entries
      *
-     * @var array[]
+     * @var string[][]
      */
     private $clusterIndex;
 
     /**
      * Index to search by entry field's values
      *
-     * @var array
+     * @var object[][]
      */
     private $index;
 
     /**
-     * @param null|string $baseDirectory
-     *
      * @throws \Exception
      */
-    public function __construct($baseDirectory = null)
+    public function __construct(?string $baseDirectory = null)
     {
         if (empty($this->baseDirectory)) {
             $this->baseDirectory = __DIR__ . '/../';
@@ -57,11 +56,9 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * ISO Standard Number
      *
-     * @return string
-     *
      * @throws \Exception
      */
-    public static function getISONumber()
+    public static function getISONumber(): string
     {
         // abstract static methods not allowed on PHP < 7.0
         throw new \Exception(
@@ -74,7 +71,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
-     * @param array $entry
+     * @param mixed[] $entry
      *
      * @return object
      */
@@ -86,29 +83,25 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      *
      * First index in array used as cluster index.
      *
-     * @return array
+     * @return mixed[]
      */
-    protected function getIndexDefinition()
+    protected function getIndexDefinition(): array
     {
         return [];
     }
 
     /**
      * Get path to database file
-     *
-     * @return string
      */
-    private function getDatabaseFilePath()
+    private function getDatabaseFilePath(): string
     {
         return $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $this->getISONumber() . '.json';
     }
 
     /**
      * Get path to directory with gettext messages
-     *
-     * @return string
      */
-    private function getLocalMessagesDirPath()
+    private function getLocalMessagesDirPath(): string
     {
         return $this->baseDirectory . self::MESSAGES_PATH;
     }
@@ -116,11 +109,9 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * Build cluster index for iteration
      *
-     * @param string $databaseFile
-     *
      * @throws \Exception
      */
-    private function loadDatabase($databaseFile)
+    private function loadDatabase(string $databaseFile): void
     {
         $isoNumber = $this->getISONumber();
 
@@ -146,13 +137,11 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
-     * @param string $indexedFieldName
-     *
-     * @return array
+     * @return mixed[]
      *
      * @throws \InvalidArgumentException If no index found in database
      */
-    private function getIndex($indexedFieldName)
+    private function getIndex(string $indexedFieldName): array
     {
         // build index
         if ($this->index === null) {
@@ -219,12 +208,11 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
-     * @param string $indexedFieldName
      * @param string|int $fieldValue
      *
-     * @return object|null
+     * @return object|mixed[]|null
      */
-    protected function find($indexedFieldName, $fieldValue)
+    protected function find(string $indexedFieldName, $fieldValue)
     {
         $fieldIndex = $this->getIndex($indexedFieldName);
 
@@ -237,7 +225,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      *
      * @return object[]
      */
-    public function toArray()
+    public function toArray(): array
     {
         return iterator_to_array($this);
     }
@@ -250,36 +238,27 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         return $this->arrayToEntry(current($this->clusterIndex));
     }
 
-    /**
-     * @return int|null
-     */
-    public function key()
+    public function key(): ?int
     {
         return key($this->clusterIndex);
     }
 
-    public function next()
+    public function next(): void
     {
         next($this->clusterIndex);
     }
-    
-    public function rewind()
+
+    public function rewind(): void
     {
         reset($this->clusterIndex);
     }
 
-    /**
-     * @return bool
-     */
-    public function valid()
+    public function valid(): bool
     {
         return $this->key() !== null;
     }
 
-    /**
-     * @return int
-     */
-    public function count()
+    public function count(): int
     {
         return count($this->clusterIndex);
     }

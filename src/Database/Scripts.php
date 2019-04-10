@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database;
 
@@ -7,20 +8,15 @@ use Sokil\IsoCodes\Database\Scripts\Script;
 
 class Scripts extends AbstractDatabase
 {
-    /**
-     * @return string
-     */
-    public static function getISONumber()
+    public static function getISONumber(): string
     {
         return '15924';
     }
 
     /**
-     * @param array $entry
-     *
-     * @return Script
+     * @param string[] $entry
      */
-    protected function arrayToEntry(array $entry)
+    protected function arrayToEntry(array $entry): Script
     {
         return new Script(
             $entry['name'],
@@ -30,9 +26,9 @@ class Scripts extends AbstractDatabase
     }
 
     /**
-     * @return array
+     * @return string[]
      */
-    protected function getIndexDefinition()
+    protected function getIndexDefinition(): array
     {
         return [
             'alpha_4',
@@ -40,22 +36,12 @@ class Scripts extends AbstractDatabase
         ];
     }
 
-    /**
-     * @param string $alpha4
-     *
-     * @return null|Script
-     */
-    public function getByAlpha4($alpha4)
+    public function getByAlpha4(string $alpha4): ?Script
     {
         return $this->find('alpha_4', $alpha4);
     }
 
-    /**
-     * @param int $code
-     *
-     * @return null|Script
-     */
-    public function getByNumericCode($code)
+    public function getByNumericCode(int $code): ?Script
     {
         return $this->find('numeric', $code);
     }

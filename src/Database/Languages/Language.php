@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database\Languages;
 
@@ -76,21 +77,13 @@ class Language
      */
     private $alpha2;
 
-    /**
-     * @param string $name
-     * @param string $alpha3
-     * @param string $scope
-     * @param string $type
-     * @param string|null $invertedName
-     * @param string|null $alpha2
-     */
     public function __construct(
-        $name,
-        $alpha3,
-        $scope,
-        $type,
-        $invertedName = null,
-        $alpha2 = null
+        string $name,
+        string $alpha3,
+        string $scope,
+        string $type,
+        ?string $invertedName = null,
+        ?string $alpha2 = null
     ) {
         $this->name = $name;
         $this->alpha3 = $alpha3;
@@ -100,18 +93,12 @@ class Language
         $this->alpha2 = $alpha2;
     }
 
-    /**
-     * @return string
-     */
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
 
-    /**
-     * @return string
-     */
-    public function getLocalName()
+    public function getLocalName(): string
     {
         if ($this->localName === null) {
             $this->localName = dgettext(
@@ -123,42 +110,27 @@ class Language
         return $this->localName;
     }
 
-    /**
-     * @return string
-     */
-    public function getAlpha3()
+    public function getAlpha3(): string
     {
         return $this->alpha3;
     }
 
-    /**
-     * @return string
-     */
-    public function getScope()
+    public function getScope(): string
     {
         return $this->scope;
     }
 
-    /**
-     * @return string
-     */
-    public function getType()
+    public function getType(): string
     {
         return $this->type;
     }
 
-    /**
-     * @return string|null
-     */
-    public function getInvertedName()
+    public function getInvertedName(): ?string
     {
         return $this->invertedName;
     }
 
-    /**
-     * @return string|null
-     */
-    public function getAlpha2()
+    public function getAlpha2(): ?string
     {
         return $this->alpha2;
     }

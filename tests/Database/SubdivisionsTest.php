@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\IsoCodesFactory;
@@ -8,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 
 class SubdivisionsTest extends TestCase
 {
-    public function testIterator()
+    public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -22,7 +24,7 @@ class SubdivisionsTest extends TestCase
         }
     }
 
-    public function testGetByCode()
+    public function testGetByCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -60,14 +62,14 @@ class SubdivisionsTest extends TestCase
         );
     }
 
-    public function testGetAllByCountryCode()
+    public function testGetAllByCountryCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 
         $subDivisionDatabase = $isoCodes->getSubdivisions();
         $subDivisions = $subDivisionDatabase->getAllByCountryCode('UA');
 
-        $this->assertInternalType('array', $subDivisions);
+        $this->assertIsArray($subDivisions);
 
         $this->assertArrayHasKey('UA-43', $subDivisions);
 
