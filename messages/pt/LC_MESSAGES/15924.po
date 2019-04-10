@@ -5,57 +5,59 @@
 # .
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
+# Rui Mendes <xz9@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2007-09-09 16:07+0200\n"
-"Last-Translator: Tobias Quathamer <toddy@debian.org>\n"
-"Language-Team: Portuguese\n"
-"Language: \n"
+"PO-Revision-Date: 2019-04-05 15:04+0000\n"
+"Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
+"iso-15924/pt/>\n"
+"Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "adlam"
 
 #. Name for Afak
 msgid "Afaka"
-msgstr ""
+msgstr "afaka"
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
-msgstr ""
+msgstr "cáucaso-albanês"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
-msgstr ""
+msgstr "ahom, tai ahom"
 
 #. Name for Arab
 msgid "Arabic"
 msgstr "árabe"
 
 #. Name for Aran
-#, fuzzy
 msgid "Arabic (Nastaliq variant)"
-msgstr "siríaco estrangelo"
+msgstr "árabe (variante nasta'liq)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
-msgstr ""
+msgstr "aramaico imperial"
 
 #. Name for Armn
 msgid "Armenian"
-msgstr "armênio"
+msgstr "arménio"
 
 #. Name for Avst
 msgid "Avestan"
-msgstr ""
+msgstr "avéstico"
 
 #. Name for Bali
 msgid "Balinese"
@@ -63,11 +65,11 @@ msgstr "balinês"
 
 #. Name for Bamu
 msgid "Bamum"
-msgstr ""
+msgstr "bamum"
 
 #. Name for Bass
 msgid "Bassa Vah"
-msgstr ""
+msgstr "bassa vah"
 
 #. Name for Batk
 msgid "Batak"
@@ -78,10 +80,12 @@ msgid "Bengali"
 msgstr "bengali"
 
 #. Name for Bhks
+#, fuzzy
 msgid "Bhaiksuki"
-msgstr ""
+msgstr "bhaiksuki"
 
 #. Name for Blis
+#, fuzzy
 msgid "Blissymbols"
 msgstr "símbolos bliss"
 
@@ -91,7 +95,7 @@ msgstr "bopomofo"
 
 #. Name for Brah
 msgid "Brahmi"
-msgstr "brahmi"
+msgstr "brami"
 
 #. Name for Brai
 msgid "Braille"
@@ -115,8 +119,9 @@ msgid "Unified Canadian Aboriginal Syllabics"
 msgstr "símbolos aborígenes do Canadá Unificado"
 
 #. Name for Cari
+#, fuzzy
 msgid "Carian"
-msgstr ""
+msgstr "cariana"
 
 #. Name for Cham
 msgid "Cham"
@@ -132,7 +137,7 @@ msgstr "cirth"
 
 #. Name for Copt
 msgid "Coptic"
-msgstr "cóptico"
+msgstr "copta"
 
 #. Name for Cprt
 msgid "Cypriot"
@@ -175,7 +180,7 @@ msgstr "hieróglifos egípcios"
 
 #. Name for Elba
 msgid "Elbasan"
-msgstr ""
+msgstr "elbasan"
 
 #. Name for Ethi
 #, fuzzy
@@ -201,7 +206,7 @@ msgstr "gótico"
 
 #. Name for Gran
 msgid "Grantha"
-msgstr ""
+msgstr "grantha"
 
 #. Name for Grek
 msgid "Greek"
@@ -217,19 +222,19 @@ msgstr "gurmuqui"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
-msgstr ""
+msgstr "han com bopomofo (alternativa para han + bopomofo)"
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
-msgstr ""
+msgstr "hangul (hangŭl, hangeul)"
 
 #. Name for Hani
 msgid "Han (Hanzi, Kanji, Hanja)"
-msgstr ""
+msgstr "han (hanzi, kanji, hanja)"
 
 #. Name for Hano
 msgid "Hanunoo (Hanunóo)"
-msgstr ""
+msgstr "hanunoo (hanunó'o)"
 
 #. Name for Hans
 #, fuzzy
@@ -255,7 +260,7 @@ msgstr "hiragana"
 
 #. Name for Hluw
 msgid "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)"
-msgstr ""
+msgstr "hieróglifos anatólicos (hieróglifos luvitas, hieróglifos hititas)"
 
 #. Name for Hmng
 msgid "Pahawh Hmong"

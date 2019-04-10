@@ -8,14 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Juan Manuel García Molina <juanmagm@mail.com>, 2001.
 # advocatux <advocatux@airpost.net>, 2018.
+# Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-23 22:08+0100\n"
-"PO-Revision-Date: 2018-06-18 08:43+0000\n"
-"Last-Translator: advocatux <advocatux@airpost.net>\n"
+"PO-Revision-Date: 2019-04-07 21:04+0000\n"
+"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/es/>\n"
 "Language: es\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -3260,9 +3261,8 @@ msgid "Atlántico"
 msgstr "Antártica"
 
 #. Name for CO-BOL, Name for EC-B, Name for VE-F
-#, fuzzy
 msgid "Bolívar"
-msgstr "Bolivia"
+msgstr "Bolívar"
 
 #. Name for CO-BOY
 #, fuzzy
@@ -3368,9 +3368,8 @@ msgid "San Andrés, Providencia y Santa Catalina"
 msgstr ""
 
 #. Name for CO-SUC, Name for VE-R
-#, fuzzy
 msgid "Sucre"
-msgstr "Turquía"
+msgstr "SUCRE"
 
 #. Name for CO-TOL
 #, fuzzy

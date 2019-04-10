@@ -8,14 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Filipe Maia <fmaia@gmx.net>, 2001.
 # João Da Stronda <wellzsilva1@gmail.com>, 2018.
+# Rui Mendes <xz9@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-07-09 15:40+0000\n"
-"Last-Translator: João Da Stronda <wellzsilva1@gmail.com>\n"
+"PO-Revision-Date: 2019-04-05 15:04+0000\n"
+"Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/pt/>\n"
 "Language: pt\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.1-dev\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -13415,7 +13416,7 @@ msgstr ""
 
 #. Name for hye
 msgid "Armenian"
-msgstr "armênio"
+msgstr "arménio"
 
 #. Name for iai
 #, fuzzy
@@ -38050,7 +38051,7 @@ msgstr "córsico"
 #. Name for xcr
 #, fuzzy
 msgid "Carian"
-msgstr "Margens"
+msgstr "cariana"
 
 #. Name for xct
 msgid "Classical Tibetan"
@@ -40854,8 +40855,9 @@ msgid "Berawan, East"
 msgstr "arauaqui"
 
 #. Name for zbl
+#, fuzzy
 msgid "Blissymbols"
-msgstr ""
+msgstr "símbolos bliss"
 
 #. Name for zbt
 #, fuzzy

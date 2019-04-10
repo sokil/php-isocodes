@@ -10,16 +10,17 @@
 # Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2006-2009.
 # Rafael Fontenelle <rffontenelle@gmail.com>, 2013, 2016-2017.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2019.
+# Rui Mendes <xz9@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-20 12:15+0000\n"
-"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-1/pt_BR/>\n"
+"PO-Revision-Date: 2019-04-03 21:04+0000\n"
+"Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-1/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -351,7 +352,7 @@ msgstr "Comores"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr "União de Comores"
+msgstr "União das Comores"
 
 #. Name for CPV
 msgid "Cabo Verde"
@@ -547,7 +548,7 @@ msgstr "Gabão"
 
 #. Official name for GAB
 msgid "Gabonese Republic"
-msgstr "República do Gabão"
+msgstr "República Gabonesa"
 
 #. Name for GBR
 msgid "United Kingdom"
@@ -986,16 +987,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "República das Ilhas Marshall"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Nova Caledônia"
+msgstr "Macedônia do Norte"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "República da Lituânia"
+msgstr "República da Macedônia do Norte"
 
 #. Name for MLI
 msgid "Mali"
@@ -1003,7 +1000,7 @@ msgstr "Mali"
 
 #. Official name for MLI
 msgid "Republic of Mali"
-msgstr "República de Mali"
+msgstr "República do Mali"
 
 #. Name for MLT
 msgid "Malta"
