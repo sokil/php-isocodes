@@ -18,7 +18,7 @@
 ## :broken_heart: End of PHP 5 support
 
 Due to [currently supported versions](https://www.php.net/supported-versions.php), PHP 5 is no longer supported from 1 January 2019. So this library is also stops support of PHP5 from **1 May 2019**. Add any questions and proposals in [this issue](https://github.com/sokil/php-isocodes/issues/13).
-Also stops supporting of versions <= 3.0.
+Also stops supporting of php-isocode library versions <= 3.0.
 
 ## Table of contents
 
