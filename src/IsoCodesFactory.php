@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes;
 
@@ -26,20 +27,12 @@ class IsoCodesFactory
      */
     private $databases = [];
 
-    /**
-     * @param string|null $baseDirectory
-     */
-    public function __construct($baseDirectory = null)
+    public function __construct(?string $baseDirectory = null)
     {
         $this->baseDirectory = $baseDirectory;
     }
 
-    /**
-     * @param string $className
-     *
-     * @return AbstractDatabase
-     */
-    private function getDatabase($className)
+    private function getDatabase(string $className): AbstractDatabase
     {
         if (empty($this->databases[$className])) {
             $this->databases[$className] = new $className($this->baseDirectory);
@@ -50,59 +43,48 @@ class IsoCodesFactory
 
     /**
      * ISO 3166-1
-     *
-     * @return Countries
      */
-    public function getCountries()
+    public function getCountries(): Countries
     {
         return $this->getDatabase(Countries::class);
     }
 
     /**
      * ISO 3166-2
-     *
-     * @return Subdivisions
      */
-    public function getSubdivisions()
+    public function getSubdivisions(): Subdivisions
     {
         return $this->getDatabase(Subdivisions::class);
     }
-    
+
     /**
      * ISO 3166-3
-     *
-     * @return HistoricCountries
      */
-    public function getHistoricCountries()
+    public function getHistoricCountries(): HistoricCountries
     {
         return $this->getDatabase(HistoricCountries::class);
     }
-    
+
     /**
      * ISO 15924
-     *
-     * @return Scripts
      */
-    public function getScripts()
+    public function getScripts(): Scripts
     {
         return $this->getDatabase(Scripts::class);
     }
-    
+
     /**
      * ISO 4217
-     *
-     * @return Currencies
      */
-    public function getCurrencies()
+    public function getCurrencies(): Currencies
     {
         return $this->getDatabase(Currencies::class);
     }
-    
+
     /**
      * ISO 639-3
-     * @return Languages
      */
-    public function getLanguages()
+    public function getLanguages(): Languages
     {
         return $this->getDatabase(Languages::class);
     }

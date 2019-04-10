@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\IsoCodesFactory;
@@ -8,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 
 class LanguagesTest extends TestCase
 {
-    public function testIterator()
+    public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -22,7 +24,7 @@ class LanguagesTest extends TestCase
         }
     }
 
-    public function testGetByAlpha2()
+    public function testGetByAlpha2(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -70,7 +72,7 @@ class LanguagesTest extends TestCase
         );
     }
         
-    public function testGetByAlpha3()
+    public function testGetByAlpha3(): void
     {
         $isoCodes = new IsoCodesFactory();
 

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\IsoCodesFactory;
@@ -8,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 
 class ScriptsTest extends TestCase
 {
-    public function testIterator()
+    public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -22,7 +24,7 @@ class ScriptsTest extends TestCase
         }
     }
 
-    public function testGetByAlpha4()
+    public function testGetByAlpha4(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -54,13 +56,13 @@ class ScriptsTest extends TestCase
             $script->getNumericCode()
         );
     }
-        
-    public function testGetByNumericCode()
+
+    public function testGetByNumericCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 
         $scripts = $isoCodes->getScripts();
-        $script = $scripts->getByNumericCode('239');
+        $script = $scripts->getByNumericCode(239);
 
         $this->assertInstanceOf(
             Script::class,

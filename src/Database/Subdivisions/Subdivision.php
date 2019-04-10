@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database\Subdivisions;
 
@@ -33,16 +34,12 @@ class Subdivision
 
     /**
      * Subdivision constructor.
-     * @param string $name
-     * @param string $code
-     * @param string $type
-     * @param string|null $parent
      */
     public function __construct(
-        $name,
-        $code,
-        $type,
-        $parent = null
+        string $name,
+        string $code,
+        string $type,
+        ?string $parent = null
     ) {
         $this->name = $name;
         $this->code = $code;
@@ -50,18 +47,12 @@ class Subdivision
         $this->parent = $parent;
     }
 
-    /**
-     * @return string
-     */
-    public function getName()
+    public function getName(): string
     {
         return $this->name;
     }
 
-    /**
-     * @return string
-     */
-    public function getLocalName()
+    public function getLocalName(): string
     {
         if ($this->localName === null) {
             $this->localName = dgettext(
@@ -73,26 +64,17 @@ class Subdivision
         return $this->localName;
     }
 
-    /**
-     * @return string
-     */
-    public function getCode()
+    public function getCode(): string
     {
         return $this->code;
     }
 
-    /**
-     * @return string
-     */
-    public function getType()
+    public function getType(): string
     {
         return $this->type;
     }
 
-    /**
-     * @return string|null
-     */
-    public function getParent()
+    public function getParent(): ?string
     {
         return $this->parent;
     }

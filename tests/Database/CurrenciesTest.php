@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\Database\Currencies\Currency;
@@ -8,7 +10,7 @@ use PHPUnit\Framework\TestCase;
 
 class CurrenciesTest extends TestCase
 {        
-    public function testIterator()
+    public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
         $currencies = $isoCodes->getCurrencies();
@@ -20,7 +22,7 @@ class CurrenciesTest extends TestCase
         }
     }
     
-    public function testGetByLetterCode()
+    public function testGetByLetterCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 
@@ -53,7 +55,7 @@ class CurrenciesTest extends TestCase
         );
     }
         
-    public function testGetByNumericCode()
+    public function testGetByNumericCode(): void
     {
         $isoCodes = new IsoCodesFactory();
 

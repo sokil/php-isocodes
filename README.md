@@ -15,10 +15,6 @@
 
 :tongue: Current translation status: https://salsa.debian.org/iso-codes-team/iso-codes#status-of-translations
 
-## :broken_heart: End of PHP 5 support
-
-Due to [currently supported versions](https://www.php.net/supported-versions.php), PHP 5 is no longer supported from 1 January 2019. So this library is also stops support of PHP5 from **1 May 2019**. Add any questions and proposals in [this issue](https://github.com/sokil/php-isocodes/issues/13).
-
 ## Table of contents
 
 * [ISO Standards](#iso-standarts)
@@ -95,10 +91,10 @@ Generation complete.
 
 ## Manual database update
 
-Database and related gettext files located inside this repo in `databases` and `messages` directories. 
+Database and related gettext files located inside this repo in `databases` and `messages` directories.
 This data periodically updated with package version increment.
 
-If you want to update database more often, use script `./bin/update_iso_codes_db.sh`. 
+If you want to update database more often, use script `./bin/update_iso_codes_db.sh`.
 Call this script by cron, during deploy process or when build your docker image.
 
 ```
@@ -169,7 +165,7 @@ $subDivision->getCode(); // UA-43
 
 // get subdivision name
 $subDivision->getName(); // Respublika Krym
-    
+
 // get localised subdivision name
 $subDivision->getLocalName(); // Автономна Республіка Крим
 

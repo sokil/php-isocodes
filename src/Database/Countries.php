@@ -1,4 +1,5 @@
 <?php
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database;
 
@@ -7,20 +8,15 @@ use Sokil\IsoCodes\Database\Countries\Country;
 
 class Countries extends AbstractDatabase
 {
-    /**
-     * @return string
-     */
-    public static function getISONumber()
+    public static function getISONumber(): string
     {
         return '3166-1';
     }
 
     /**
-     * @param array $entry
-     *
-     * @return Country
+     * @param string[] $entry
      */
-    protected function arrayToEntry(array $entry)
+    protected function arrayToEntry(array $entry): Country
     {
         return new Country(
             $entry['name'],
@@ -32,9 +28,9 @@ class Countries extends AbstractDatabase
     }
 
     /**
-     * @return array
+     * @return string[]
      */
-    protected function getIndexDefinition()
+    protected function getIndexDefinition(): array
     {
         return [
             'alpha_2',
@@ -43,32 +39,17 @@ class Countries extends AbstractDatabase
         ];
     }
 
-    /**
-     * @param string $alpha2
-     *
-     * @return null|Country
-     */
-    public function getByAlpha2($alpha2)
+    public function getByAlpha2(string $alpha2): ?Country
     {
         return $this->find('alpha_2', $alpha2);
     }
 
-    /**
-     * @param string $alpha3
-     *
-     * @return null|Country
-     */
-    public function getByAlpha3($alpha3)
+    public function getByAlpha3(string $alpha3): ?Country
     {
         return $this->find('alpha_3', $alpha3);
     }
 
-    /**
-     * @param int $code
-     *
-     * @return null|Country
-     */
-    public function getByNumericCode($code)
+    public function getByNumericCode(int $code): ?Country
     {
         return $this->find('numeric', $code);
     }
