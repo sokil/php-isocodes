@@ -1,4 +1,4 @@
-return array (
+<?php return array (
   0 => 
   array (
     'code' => '37',

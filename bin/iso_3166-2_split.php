@@ -32,9 +32,16 @@ if (!file_exists(TARGET_DATABASE_DIR)) {
 }
 
 foreach ($countryAlpha2ToSubdivisionsMap as $countryAlpha2 => $countrySubdivisions) {
+    // save PHP file
     file_put_contents(
         sprintf('%s/%s.php', TARGET_DATABASE_DIR, $countryAlpha2),
-        sprintf('return %s;', var_export($countrySubdivisions, true))
+        sprintf('<?php return %s;', var_export($countrySubdivisions, true))
+    );
+
+    // save JSON file
+    file_put_contents(
+        sprintf('%s/%s.json', TARGET_DATABASE_DIR, $countryAlpha2),
+        json_encode($countrySubdivisions)
     );
 }
 
