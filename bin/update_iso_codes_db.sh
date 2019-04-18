@@ -80,3 +80,10 @@ done
 # add copyright notice
 echo -e "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
 echo -e "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
+
+# database postprocessing
+echo -e "\033[0;32mDatabase post-processing\033[0m"
+
+# Split ISO 3166-2 to per-country files
+echo -e "   * Split ISO 3166-2 database"
+php $CURRENT_DIR/iso_3166-2_split.php $DATABASES_DIR

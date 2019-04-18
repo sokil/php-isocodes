@@ -13,6 +13,13 @@ if (!is_writable(DATABASES_DIR)) {
 }
 
 // parse database
+if (!file_exists(SOURCE_DATABASE_PATH)) {
+    throw new \InvalidArgumentException(sprintf(
+        'Database file %s not found. Please, update database',
+        SOURCE_DATABASE_PATH
+    ));
+}
+
 $database = json_decode(file_get_contents(SOURCE_DATABASE_PATH), true);
 
 $countryAlpha2ToSubdivisionsMap = [];
