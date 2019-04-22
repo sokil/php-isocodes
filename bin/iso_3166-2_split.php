@@ -52,3 +52,16 @@ foreach ($countryAlpha2ToSubdivisionsMap as $countryAlpha2 => $countrySubdivisio
     );
 }
 
+// create country map file
+file_put_contents(
+    sprintf('%s/map.php', TARGET_DATABASE_DIR),
+    sprintf(
+        '<?php return %s;',
+        var_export(
+            array_keys($countryAlpha2ToSubdivisionsMap),
+            true
+        )
+    )
+);
+
+

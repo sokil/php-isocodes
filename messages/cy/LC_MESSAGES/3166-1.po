@@ -7,14 +7,15 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Dafydd Harries <daf@muse.19inch.net>, 2004, 2006.
+# Aled Powell <aled@aledpowell.cymru>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-03-18 00:40+0000\n"
-"Last-Translator: Huw Waters <huwwaters@gmail.com>\n"
+"PO-Revision-Date: 2019-04-19 13:34+0000\n"
+"Last-Translator: Aled Powell <aled@aledpowell.cymru>\n"
 "Language-Team: Welsh <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/cy/>\n"
 "Language: cy\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=(n==0) ? 0 : (n==1) ? 1 : (n==2) ? 2 : "
 "(n==3) ? 3 :(n==6) ? 4 : 5;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -590,10 +591,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Gweriniaeth Zambia"
+msgstr "Gweriniaeth Gambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -984,16 +983,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Gweriniaeth Ynysoedd Marshall"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Caledonia Newydd"
+msgstr "Gogledd Macedonia"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Gweriniaeth Lithwania"
+msgstr "Gweriniaeth Gogledd Macedonia"
 
 #. Name for MLI
 msgid "Mali"
@@ -1441,13 +1436,11 @@ msgstr "Gweriniaeth y Swdan"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Brenhiniaeth Sbaen"
+msgstr "Deyrnas Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

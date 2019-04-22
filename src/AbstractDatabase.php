@@ -50,25 +50,15 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             $this->baseDirectory = rtrim($baseDirectory, '/') . '/';
         }
 
-        $this->loadDatabase($this->getDatabaseFilePath());
+        $databaseFilePath = $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $this->getISONumber() . '.json';
+
+        $this->loadDatabase($databaseFilePath);
     }
 
     /**
      * ISO Standard Number
-     *
-     * @throws \Exception
      */
-    public static function getISONumber(): string
-    {
-        // abstract static methods not allowed on PHP < 7.0
-        throw new \Exception(
-            sprintf(
-                'Method "%s" must be implemented in class %s',
-                __METHOD__,
-                get_class()
-            )
-        );
-    }
+    abstract public static function getISONumber(): string;
 
     /**
      * @param mixed[] $entry
@@ -88,14 +78,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     protected function getIndexDefinition(): array
     {
         return [];
-    }
-
-    /**
-     * Get path to database file
-     */
-    private function getDatabaseFilePath(): string
-    {
-        return $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $this->getISONumber() . '.json';
     }
 
     /**
