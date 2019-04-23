@@ -23,14 +23,14 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      *
      * @var string
      */
-    private $baseDirectory;
+    protected $baseDirectory;
 
     /**
      * Cluster index used for iteration by entries
      *
      * @var string[][]
      */
-    private $clusterIndex;
+    protected $clusterIndex;
 
     /**
      * Index to search by entry field's values
@@ -50,9 +50,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             $this->baseDirectory = rtrim($baseDirectory, '/') . '/';
         }
 
-        $databaseFilePath = $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $this->getISONumber() . '.json';
 
-        $this->loadDatabase($databaseFilePath);
+        $this->bindGettextDomain();
     }
 
     /**
@@ -89,11 +88,9 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
-     * Build cluster index for iteration
-     *
-     * @throws \Exception
+     * Initialise domain of gettext translations
      */
-    private function loadDatabase(string $databaseFile): void
+    private function bindGettextDomain(): void
     {
         $isoNumber = $this->getISONumber();
 
@@ -107,15 +104,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             $isoNumber,
             'UTF-8'
         );
-
-        // load database from json file
-        $json = \json_decode(
-            file_get_contents($databaseFile),
-            true
-        );
-
-        // build cluster index from database
-        $this->clusterIndex = $json[$isoNumber];
     }
 
     /**

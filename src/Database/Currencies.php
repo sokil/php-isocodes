@@ -3,10 +3,10 @@ declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database;
 
-use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Currencies\Currency;
 
-class Currencies extends AbstractDatabase
+class Currencies extends AbstractNotPartitionedDatabase
 {
     public static function getISONumber(): string
     {

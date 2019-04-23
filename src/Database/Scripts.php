@@ -3,10 +3,10 @@ declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database;
 
-use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Scripts\Script;
 
-class Scripts extends AbstractDatabase
+class Scripts extends AbstractNotPartitionedDatabase
 {
     public static function getISONumber(): string
     {
