@@ -2,5 +2,6 @@
 build
 composer.lock
 infection-log.txt
+phpcs.xml
 phpunit.xml
 vendor
