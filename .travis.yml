@@ -14,8 +14,6 @@ cache:
   directories:
     - $HOME/.composer/cache
 
-before_install: mv ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/xdebug.ini{,.disabled} || echo "No xdebug"
-
 install: travis_retry composer install
 
 before_script: sudo locale-gen uk_UA.UTF-8
@@ -30,8 +28,6 @@ jobs:
     - stage: Quality assurance
       env: CODE_COVERAGE
       before_script:
-        - mv ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/xdebug.ini{.disabled,}
-        - if [[ ! $(php -m | grep -si xdebug) ]]; then echo "xdebug required for coverage"; exit 1; fi
         - mkdir -p build/logs
       script: composer cover
       after_script: composer coveralls
