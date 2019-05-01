@@ -5,23 +5,36 @@ dist: trusty
 language: php
 
 php:
-  - nightly
   - 7.3
   - 7.2
   - 7.1
+  - nightly
 
-matrix:
+cache:
+  directories:
+    - $HOME/.composer/cache
+
+before_install: mv ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/xdebug.ini{,.disabled} || echo "No xdebug"
+
+install: travis_retry composer install
+
+before_script: sudo locale-gen uk_UA.UTF-8
+
+script: composer test
+
+jobs:
   allow_failures:
     - php: nightly
 
-before_script:
-  - composer install --no-interaction
-  - sudo locale-gen uk_UA.UTF-8
-
-script:
-  - mkdir -p build/logs
-  - composer cover
-  - composer check-style
-
-after_script:
-  - composer coveralls
+  include:
+    - stage: Quality assurance
+      env: CODE_COVERAGE
+      before_script:
+        - mv ~/.phpenv/versions/$(phpenv version-name)/etc/conf.d/xdebug.ini{.disabled,}
+        - if [[ ! $(php -m | grep -si xdebug) ]]; then echo "xdebug required for coverage"; exit 1; fi
+        - mkdir -p build/logs
+      script: composer cover
+      after_script: composer coveralls
+    - stage: Quality assurance
+      env: CODE_STANDARDS
+      script: composer check-style
