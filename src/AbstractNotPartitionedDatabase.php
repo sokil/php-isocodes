@@ -8,31 +8,107 @@ namespace Sokil\IsoCodes;
  */
 abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
 {
-    public function __construct(?string $baseDirectory = null)
-    {
-        parent::__construct($baseDirectory);
+    /**
+     * Index to search by entry field's values
+     *
+     * @var object[][]
+     */
+    private $index;
 
-        // initialise cluster index
-        $databaseFilePath = $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $this->getISONumber() . '.json';
-        $this->loadClusterIndex($databaseFilePath);
+    /**
+     * List of entry fields to be indexed and searched.
+     * May be override in child classes to search by indexed fields.
+     *
+     * @return mixed[]
+     */
+    protected function getIndexDefinition(): array
+    {
+        return [];
     }
 
     /**
-     * Build cluster index for iteration
+     * @return mixed[]
      *
-     * @throws \Exception
+     * @throws \InvalidArgumentException If no index found in database
      */
-    private function loadClusterIndex(string $databaseFile): void
+    private function getIndex(string $indexedFieldName): array
     {
-        $isoNumber = $this->getISONumber();
+        // build index
+        if ($this->index === null) {
+            // init empty index
+            $this->index = [];
 
-        // load database from json file
-        $json = \json_decode(
-            file_get_contents($databaseFile),
-            true
-        );
+            // get index definition
+            $indexedFields = $this->getIndexDefinition();
 
-        // build cluster index from database
-        $this->clusterIndex = $json[$isoNumber];
+            // build index for database
+            if (!empty($indexedFields)) {
+                // initialise cluster index
+                $this->loadClusterIndex();
+
+                // init all defined indexes
+                foreach ($this->clusterIndex as $entryArray) {
+                    $entry = $this->arrayToEntry($entryArray);
+                    foreach ($indexedFields as $indexName => $indexDefinition) {
+                        if (is_array($indexDefinition)) {
+                            // compound index
+                            $reference = &$this->index[$indexName];
+                            foreach ($indexDefinition as $indexDefinitionPart) {
+                                // limited length of field
+                                if (is_array($indexDefinitionPart)) {
+                                    $indexDefinitionPartValue = substr(
+                                        $entryArray[$indexDefinitionPart[0]],
+                                        0,
+                                        $indexDefinitionPart[1]
+                                    );
+                                } else {
+                                    $indexDefinitionPartValue = $entryArray[$indexDefinitionPart];
+                                }
+                                if (!isset($reference[$indexDefinitionPartValue])) {
+                                    $reference[$indexDefinitionPartValue] = [];
+                                }
+                                $reference = &$reference[$indexDefinitionPartValue];
+                            }
+
+                            $reference = $entry;
+                        } else {
+                            // single index
+                            $indexName = $indexDefinition;
+                            // skip empty field
+                            if (empty($entryArray[$indexDefinition])) {
+                                continue;
+                            }
+                            // add to index
+                            $this->index[$indexName][$entryArray[$indexDefinition]] = $entry;
+                        }
+                    }
+                }
+            }
+        }
+
+        // get index
+        if (!isset($this->index[$indexedFieldName])) {
+            throw new \InvalidArgumentException(
+                sprintf(
+                    'Unknown index "%s" in database "%s"',
+                    $indexedFieldName,
+                    get_class()
+                )
+            );
+        }
+
+        return $this->index[$indexedFieldName];
+    }
+
+    /**
+     * @param string|int $fieldValue
+     *
+     * @return object|mixed[]|null
+     */
+    protected function find(string $indexedFieldName, $fieldValue)
+    {
+        $fieldIndex = $this->getIndex($indexedFieldName);
+
+        return $fieldIndex[$fieldValue] ?? null;
     }
 }

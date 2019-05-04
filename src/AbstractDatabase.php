@@ -33,13 +33,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     protected $clusterIndex;
 
     /**
-     * Index to search by entry field's values
-     *
-     * @var object[][]
-     */
-    private $index;
-
-    /**
      * @throws \Exception
      */
     public function __construct(?string $baseDirectory = null)
@@ -49,7 +42,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         } else {
             $this->baseDirectory = rtrim($baseDirectory, '/') . '/';
         }
-
 
         $this->bindGettextDomain();
     }
@@ -65,19 +57,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      * @return object
      */
     abstract protected function arrayToEntry(array $entry);
-
-    /**
-     * List of entry fields to be indexed and searched.
-     * May be override in child classes to search by indexed fields.
-     *
-     * First index in array used as cluster index.
-     *
-     * @return mixed[]
-     */
-    protected function getIndexDefinition(): array
-    {
-        return [];
-    }
 
     /**
      * Get path to directory with gettext messages
@@ -107,86 +86,29 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
-     * @return mixed[]
+     * Build cluster index for iteration
      *
-     * @throws \InvalidArgumentException If no index found in database
+     * @throws \Exception
      */
-    private function getIndex(string $indexedFieldName): array
+    protected function loadClusterIndex(): void
     {
-        // build index
-        if ($this->index === null) {
-            // init empty index
-            $this->index = [];
-
-            // get index definition
-            $indexedFields = $this->getIndexDefinition();
-
-            // build index for database
-            if (!empty($indexedFields)) {
-                // init all defined indexes
-                foreach ($this->clusterIndex as $entryArray) {
-                    $entry = $this->arrayToEntry($entryArray);
-                    foreach ($indexedFields as $indexName => $indexDefinition) {
-                        if (is_array($indexDefinition)) {
-                            // compound index
-                            $reference = &$this->index[$indexName];
-                            foreach ($indexDefinition as $indexDefinitionPart) {
-                                // limited length of field
-                                if (is_array($indexDefinitionPart)) {
-                                    $indexDefinitionPartValue = substr(
-                                        $entryArray[$indexDefinitionPart[0]],
-                                        0,
-                                        $indexDefinitionPart[1]
-                                    );
-                                } else {
-                                    $indexDefinitionPartValue = $entryArray[$indexDefinitionPart];
-                                }
-                                if (!isset($reference[$indexDefinitionPartValue])) {
-                                    $reference[$indexDefinitionPartValue] = [];
-                                }
-                                $reference = &$reference[$indexDefinitionPartValue];
-                            }
-
-                            $reference = $entry;
-                        } else {
-                            // single index
-                            $indexName = $indexDefinition;
-                            // skip empty field
-                            if (empty($entryArray[$indexDefinition])) {
-                                continue;
-                            }
-                            // add to index
-                            $this->index[$indexName][$entryArray[$indexDefinition]] = $entry;
-                        }
-                    }
-                }
-            }
+        // check if cluster index already loaded
+        if (!empty($this->clusterIndex)) {
+            return;
         }
 
-        // get index
-        if (!isset($this->index[$indexedFieldName])) {
-            throw new \InvalidArgumentException(
-                sprintf(
-                    'Unknown index "%s" in database "%s"',
-                    $indexedFieldName,
-                    get_class()
-                )
-            );
-        }
+        $isoNumber = $this->getISONumber();
 
-        return $this->index[$indexedFieldName];
-    }
+        // load database from json file
+        $databaseFilePath = $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $isoNumber . '.json';
 
-    /**
-     * @param string|int $fieldValue
-     *
-     * @return object|mixed[]|null
-     */
-    protected function find(string $indexedFieldName, $fieldValue)
-    {
-        $fieldIndex = $this->getIndex($indexedFieldName);
+        $json = \json_decode(
+            file_get_contents($databaseFilePath),
+            true
+        );
 
-        return isset($fieldIndex[$fieldValue]) ? $fieldIndex[$fieldValue] : null;
+        // build cluster index from database
+        $this->clusterIndex = $json[$isoNumber];
     }
 
     /**
@@ -220,6 +142,9 @@ abstract class AbstractDatabase implements \Iterator, \Countable
 
     public function rewind(): void
     {
+        // initialise cluster index
+        $this->loadClusterIndex();
+
         reset($this->clusterIndex);
     }
 
@@ -230,6 +155,9 @@ abstract class AbstractDatabase implements \Iterator, \Countable
 
     public function count(): int
     {
+        // initialise cluster index
+        $this->loadClusterIndex();
+
         return count($this->clusterIndex);
     }
 }
