@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <phpunit
   colors="true"
-  bootstrap="bootstrap.php"
+  bootstrap="tests/bootstrap.php"
   convertErrorsToExceptions="true"
   convertNoticesToExceptions="true"
   convertWarningsToExceptions="true"
 >
   <testsuites>
     <testsuite name="AllTests">
-      <directory>.</directory>
+      <directory>tests/</directory>
     </testsuite>
   </testsuites>
   <filter>
     <whitelist>
-      <directory>../src</directory>
+      <directory>src</directory>
     </whitelist>
   </filter>
 </phpunit>

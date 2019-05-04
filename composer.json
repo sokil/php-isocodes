@@ -33,11 +33,11 @@
         }
     },
     "scripts": {
-        "test": "./vendor/bin/phpunit -c ./tests/phpunit.xml ./tests",
-        "cover": "./vendor/bin/phpunit -c ./tests/phpunit.xml --coverage-clover ./build/logs/clover.xml ./tests",
+        "test": "./vendor/bin/phpunit",
+        "cover": "./vendor/bin/phpunit --coverage-clover ./build/logs/clover.xml",
         "coveralls": "./vendor/bin/php-coveralls -v",
-        "check-style": "./vendor/bin/phpcs -p src",
-        "fix-style": "./vendor/bin/phpcbf -p src",
+        "check-style": "./vendor/bin/phpcs",
+        "fix-style": "./vendor/bin/phpcbf",
         "bench": "./vendor/bin/phpbench run benchmarks/  --report=default",
         "infection": "infection",
         "release": "./bin/release.sh",
