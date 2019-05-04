@@ -36,6 +36,16 @@ class SubdivisionsBench
      * @Revs(100)
      * @Iterations(2)
      */
+    public function benchGetByCode(array $params): void
+    {
+        (new $params['database'])->getByCode('UA-43');
+    }
+
+    /**
+     * @ParamProviders({"databaseProvider"})
+     * @Revs(100)
+     * @Iterations(2)
+     */
     public function benchGetAllByCountryCode(array $params): void
     {
         (new $params['database'])->getAllByCountryCode('UA');
