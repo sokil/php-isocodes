@@ -9,6 +9,7 @@ use Sokil\IsoCodes\Database\HistoricCountries;
 use Sokil\IsoCodes\Database\Languages;
 use Sokil\IsoCodes\Database\Scripts;
 use Sokil\IsoCodes\Database\Subdivisions;
+use Sokil\IsoCodes\Database\SubdivisionsPartitioned;
 
 /**
  * Factory class to build ISO databases
@@ -55,6 +56,17 @@ class IsoCodesFactory
     public function getSubdivisions(): Subdivisions
     {
         return $this->getDatabase(Subdivisions::class);
+    }
+
+    /**
+     * ISO 3166-2
+     *
+     * Memory less.
+     * Loaded from bunch of database files instead of one single file
+     */
+    public function getSubdivisionsPartitioned(): SubdivisionsPartitioned
+    {
+        return $this->getDatabase(SubdivisionsPartitioned::class);
     }
 
     /**

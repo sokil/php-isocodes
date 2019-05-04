@@ -59,6 +59,16 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     abstract protected function arrayToEntry(array $entry);
 
     /**
+     * Get path to directory with database files
+     *
+     * @return string
+     */
+    protected function getDatabasesPath(): string
+    {
+        return $this->baseDirectory . self::DATABASE_PATH;
+    }
+
+    /**
      * Get path to directory with gettext messages
      */
     private function getLocalMessagesDirPath(): string
@@ -112,7 +122,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         $isoNumber = $this->getISONumber();
 
         // load database from json file
-        $databaseFilePath = $this->baseDirectory . self::DATABASE_PATH . '/iso_' . $isoNumber . '.json';
+        $databaseFilePath = $this->getDatabasesPath() . '/iso_' . $isoNumber . '.json';
 
         $json = \json_decode(
             file_get_contents($databaseFilePath),

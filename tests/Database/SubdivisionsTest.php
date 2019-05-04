@@ -3,19 +3,37 @@ declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Databases;
 
+use Sokil\IsoCodes\AbstractDatabase;
+use Sokil\IsoCodes\Database\Subdivisions;
+use Sokil\IsoCodes\Database\SubdivisionsPartitioned;
 use Sokil\IsoCodes\IsoCodesFactory;
 use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 use PHPUnit\Framework\TestCase;
 
 class SubdivisionsTest extends TestCase
 {
-    public function testIterator(): void
+    public function subDivisionsDatabaseProvider(): array
     {
         $isoCodes = new IsoCodesFactory();
 
-        $subDivisions = $isoCodes->getSubdivisions();
+        return [
+            'non_partitioned' => [
+                $isoCodes->getSubdivisions(),
+            ],
+            'partitioned' => [
+                $isoCodes->getSubdivisionsPartitioned(),
+            ],
+        ];
+    }
 
-        foreach ($subDivisions as $subDivision) {
+    /**
+     * @param Subdivisions|SubdivisionsPartitioned $subDivisionDatabase
+     *
+     * @dataProvider subDivisionsDatabaseProvider
+     */
+    public function testIterator(AbstractDatabase $subDivisionDatabase): void
+    {
+        foreach ($subDivisionDatabase as $subDivision) {
             $this->assertInstanceOf(
                 Subdivision::class,
                 $subDivision
@@ -23,13 +41,15 @@ class SubdivisionsTest extends TestCase
         }
     }
 
-    public function testIteratorByMethods(): void
+    /**
+     * @param Subdivisions|SubdivisionsPartitioned $subDivisionDatabase
+     *
+     * @dataProvider subDivisionsDatabaseProvider
+     */
+    public function testIteratorByMethods(AbstractDatabase $subDivisionDatabase): void
     {
-        $isoCodes = new IsoCodesFactory();
-        $subDivisions = $isoCodes->getSubdivisions();
-
-        $subDivisions->rewind();
-        $subDivision = $subDivisions->current();
+        $subDivisionDatabase->rewind();
+        $subDivision = $subDivisionDatabase->current();
 
         $this->assertInstanceOf(
             Subdivision::class,
@@ -37,12 +57,14 @@ class SubdivisionsTest extends TestCase
         );
     }
 
-    public function testGetByCode(): void
+    /**
+     * @param Subdivisions|SubdivisionsPartitioned $subDivisionDatabase
+     *
+     * @dataProvider subDivisionsDatabaseProvider
+     */
+    public function testGetByCode(AbstractDatabase $subDivisionDatabase): void
     {
-        $isoCodes = new IsoCodesFactory();
-
-        $subDivisions = $isoCodes->getSubdivisions();
-        $subDivision = $subDivisions->getByCode('UA-43');
+        $subDivision = $subDivisionDatabase->getByCode('UA-43');
 
         $this->assertInstanceOf(
             Subdivision::class,
@@ -75,11 +97,13 @@ class SubdivisionsTest extends TestCase
         );
     }
 
-    public function testGetAllByCountryCode(): void
+    /**
+     * @param Subdivisions|SubdivisionsPartitioned $subDivisionDatabase
+     *
+     * @dataProvider subDivisionsDatabaseProvider
+     */
+    public function testGetAllByCountryCode(AbstractDatabase $subDivisionDatabase): void
     {
-        $isoCodes = new IsoCodesFactory();
-
-        $subDivisionDatabase = $isoCodes->getSubdivisions();
         $subDivisions = $subDivisionDatabase->getAllByCountryCode('UA');
 
         $this->assertIsArray($subDivisions);
