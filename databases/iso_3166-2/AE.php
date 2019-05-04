@@ -1,43 +1,43 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AJ',
+    'code' => 'AE-AJ',
     'name' => '\'Ajmān',
     'type' => 'Emirate',
   ),
   1 => 
   array (
-    'code' => 'AZ',
+    'code' => 'AE-AZ',
     'name' => 'Abū Ȥaby [Abu Dhabi]',
     'type' => 'Emirate',
   ),
   2 => 
   array (
-    'code' => 'DU',
+    'code' => 'AE-DU',
     'name' => 'Dubayy',
     'type' => 'Emirate',
   ),
   3 => 
   array (
-    'code' => 'FU',
+    'code' => 'AE-FU',
     'name' => 'Al Fujayrah',
     'type' => 'Emirate',
   ),
   4 => 
   array (
-    'code' => 'RK',
+    'code' => 'AE-RK',
     'name' => 'Ra’s al Khaymah',
     'type' => 'Emirate',
   ),
   5 => 
   array (
-    'code' => 'SH',
+    'code' => 'AE-SH',
     'name' => 'Ash Shāriqah',
     'type' => 'Emirate',
   ),
   6 => 
   array (
-    'code' => 'UQ',
+    'code' => 'AE-UQ',
     'name' => 'Umm al Qaywayn',
     'type' => 'Emirate',
   ),

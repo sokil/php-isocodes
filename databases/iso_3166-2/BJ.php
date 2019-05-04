@@ -1,73 +1,73 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AK',
+    'code' => 'BJ-AK',
     'name' => 'Atakora',
     'type' => 'Department',
   ),
   1 => 
   array (
-    'code' => 'AL',
+    'code' => 'BJ-AL',
     'name' => 'Alibori',
     'type' => 'Department',
   ),
   2 => 
   array (
-    'code' => 'AQ',
+    'code' => 'BJ-AQ',
     'name' => 'Atlantique',
     'type' => 'Department',
   ),
   3 => 
   array (
-    'code' => 'BO',
+    'code' => 'BJ-BO',
     'name' => 'Borgou',
     'type' => 'Department',
   ),
   4 => 
   array (
-    'code' => 'CO',
+    'code' => 'BJ-CO',
     'name' => 'Collines',
     'type' => 'Department',
   ),
   5 => 
   array (
-    'code' => 'DO',
+    'code' => 'BJ-DO',
     'name' => 'Donga',
     'type' => 'Department',
   ),
   6 => 
   array (
-    'code' => 'KO',
+    'code' => 'BJ-KO',
     'name' => 'Kouffo',
     'type' => 'Department',
   ),
   7 => 
   array (
-    'code' => 'LI',
+    'code' => 'BJ-LI',
     'name' => 'Littoral',
     'type' => 'Department',
   ),
   8 => 
   array (
-    'code' => 'MO',
+    'code' => 'BJ-MO',
     'name' => 'Mono',
     'type' => 'Department',
   ),
   9 => 
   array (
-    'code' => 'OU',
+    'code' => 'BJ-OU',
     'name' => 'Ouémé',
     'type' => 'Department',
   ),
   10 => 
   array (
-    'code' => 'PL',
+    'code' => 'BJ-PL',
     'name' => 'Plateau',
     'type' => 'Department',
   ),
   11 => 
   array (
-    'code' => 'ZO',
+    'code' => 'BJ-ZO',
     'name' => 'Zou',
     'type' => 'Department',
   ),

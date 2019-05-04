@@ -1,25 +1,25 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'KSA',
+    'code' => 'FM-KSA',
     'name' => 'Kosrae',
     'type' => 'State',
   ),
   1 => 
   array (
-    'code' => 'PNI',
+    'code' => 'FM-PNI',
     'name' => 'Pohnpei',
     'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'TRK',
+    'code' => 'FM-TRK',
     'name' => 'Chuuk',
     'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'YAP',
+    'code' => 'FM-YAP',
     'name' => 'Yap',
     'type' => 'State',
   ),

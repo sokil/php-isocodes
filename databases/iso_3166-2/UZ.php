@@ -1,85 +1,85 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AN',
+    'code' => 'UZ-AN',
     'name' => 'Andijon',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'BU',
+    'code' => 'UZ-BU',
     'name' => 'Buxoro',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'FA',
+    'code' => 'UZ-FA',
     'name' => 'Farg\'ona',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'JI',
+    'code' => 'UZ-JI',
     'name' => 'Jizzax',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'NG',
+    'code' => 'UZ-NG',
     'name' => 'Namangan',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'NW',
+    'code' => 'UZ-NW',
     'name' => 'Navoiy',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'QA',
+    'code' => 'UZ-QA',
     'name' => 'Qashqadaryo',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'QR',
+    'code' => 'UZ-QR',
     'name' => 'Qoraqalpog\'iston Respublikasi',
     'type' => 'Republic',
   ),
   8 => 
   array (
-    'code' => 'SA',
+    'code' => 'UZ-SA',
     'name' => 'Samarqand',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => 'SI',
+    'code' => 'UZ-SI',
     'name' => 'Sirdaryo',
     'type' => 'Region',
   ),
   10 => 
   array (
-    'code' => 'SU',
+    'code' => 'UZ-SU',
     'name' => 'Surxondaryo',
     'type' => 'Region',
   ),
   11 => 
   array (
-    'code' => 'TK',
+    'code' => 'UZ-TK',
     'name' => 'Toshkent',
     'type' => 'City',
   ),
   12 => 
   array (
-    'code' => 'TO',
+    'code' => 'UZ-TO',
     'name' => 'Toshkent',
     'type' => 'Region',
   ),
   13 => 
   array (
-    'code' => 'XO',
+    'code' => 'UZ-XO',
     'name' => 'Xorazm',
     'type' => 'Region',
   ),

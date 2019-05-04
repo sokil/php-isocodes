@@ -1,157 +1,157 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AG',
+    'code' => 'CH-AG',
     'name' => 'Aargau',
     'type' => 'Canton',
   ),
   1 => 
   array (
-    'code' => 'AI',
+    'code' => 'CH-AI',
     'name' => 'Appenzell Innerrhoden',
     'type' => 'Canton',
   ),
   2 => 
   array (
-    'code' => 'AR',
+    'code' => 'CH-AR',
     'name' => 'Appenzell Ausserrhoden',
     'type' => 'Canton',
   ),
   3 => 
   array (
-    'code' => 'BE',
+    'code' => 'CH-BE',
     'name' => 'Bern',
     'type' => 'Canton',
   ),
   4 => 
   array (
-    'code' => 'BL',
+    'code' => 'CH-BL',
     'name' => 'Basel-Landschaft',
     'type' => 'Canton',
   ),
   5 => 
   array (
-    'code' => 'BS',
+    'code' => 'CH-BS',
     'name' => 'Basel-Stadt',
     'type' => 'Canton',
   ),
   6 => 
   array (
-    'code' => 'FR',
+    'code' => 'CH-FR',
     'name' => 'Fribourg',
     'type' => 'Canton',
   ),
   7 => 
   array (
-    'code' => 'GE',
+    'code' => 'CH-GE',
     'name' => 'Genève',
     'type' => 'Canton',
   ),
   8 => 
   array (
-    'code' => 'GL',
+    'code' => 'CH-GL',
     'name' => 'Glarus',
     'type' => 'Canton',
   ),
   9 => 
   array (
-    'code' => 'GR',
+    'code' => 'CH-GR',
     'name' => 'Graubünden',
     'type' => 'Canton',
   ),
   10 => 
   array (
-    'code' => 'JU',
+    'code' => 'CH-JU',
     'name' => 'Jura',
     'type' => 'Canton',
   ),
   11 => 
   array (
-    'code' => 'LU',
+    'code' => 'CH-LU',
     'name' => 'Luzern',
     'type' => 'Canton',
   ),
   12 => 
   array (
-    'code' => 'NE',
+    'code' => 'CH-NE',
     'name' => 'Neuchâtel',
     'type' => 'Canton',
   ),
   13 => 
   array (
-    'code' => 'NW',
+    'code' => 'CH-NW',
     'name' => 'Nidwalden',
     'type' => 'Canton',
   ),
   14 => 
   array (
-    'code' => 'OW',
+    'code' => 'CH-OW',
     'name' => 'Obwalden',
     'type' => 'Canton',
   ),
   15 => 
   array (
-    'code' => 'SG',
+    'code' => 'CH-SG',
     'name' => 'Sankt Gallen',
     'type' => 'Canton',
   ),
   16 => 
   array (
-    'code' => 'SH',
+    'code' => 'CH-SH',
     'name' => 'Schaffhausen',
     'type' => 'Canton',
   ),
   17 => 
   array (
-    'code' => 'SO',
+    'code' => 'CH-SO',
     'name' => 'Solothurn',
     'type' => 'Canton',
   ),
   18 => 
   array (
-    'code' => 'SZ',
+    'code' => 'CH-SZ',
     'name' => 'Schwyz',
     'type' => 'Canton',
   ),
   19 => 
   array (
-    'code' => 'TG',
+    'code' => 'CH-TG',
     'name' => 'Thurgau',
     'type' => 'Canton',
   ),
   20 => 
   array (
-    'code' => 'TI',
+    'code' => 'CH-TI',
     'name' => 'Ticino',
     'type' => 'Canton',
   ),
   21 => 
   array (
-    'code' => 'UR',
+    'code' => 'CH-UR',
     'name' => 'Uri',
     'type' => 'Canton',
   ),
   22 => 
   array (
-    'code' => 'VD',
+    'code' => 'CH-VD',
     'name' => 'Vaud',
     'type' => 'Canton',
   ),
   23 => 
   array (
-    'code' => 'VS',
+    'code' => 'CH-VS',
     'name' => 'Valais',
     'type' => 'Canton',
   ),
   24 => 
   array (
-    'code' => 'ZG',
+    'code' => 'CH-ZG',
     'name' => 'Zug',
     'type' => 'Canton',
   ),
   25 => 
   array (
-    'code' => 'ZH',
+    'code' => 'CH-ZH',
     'name' => 'Zürich',
     'type' => 'Canton',
   ),

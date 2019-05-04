@@ -1,247 +1,247 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'B',
+    'code' => 'GN-B',
     'name' => 'Boké',
     'type' => 'Governorate',
   ),
   1 => 
   array (
-    'code' => 'BE',
+    'code' => 'GN-BE',
     'name' => 'Beyla',
     'type' => 'Prefecture',
   ),
   2 => 
   array (
-    'code' => 'BF',
+    'code' => 'GN-BF',
     'name' => 'Boffa',
     'type' => 'Prefecture',
   ),
   3 => 
   array (
-    'code' => 'BK',
+    'code' => 'GN-BK',
     'name' => 'Boké',
     'type' => 'Prefecture',
   ),
   4 => 
   array (
-    'code' => 'C',
+    'code' => 'GN-C',
     'name' => 'Conakry',
     'type' => 'Special zone',
   ),
   5 => 
   array (
-    'code' => 'CO',
+    'code' => 'GN-CO',
     'name' => 'Coyah',
     'type' => 'Prefecture',
   ),
   6 => 
   array (
-    'code' => 'D',
+    'code' => 'GN-D',
     'name' => 'Kindia',
     'type' => 'Governorate',
   ),
   7 => 
   array (
-    'code' => 'DB',
+    'code' => 'GN-DB',
     'name' => 'Dabola',
     'type' => 'Prefecture',
   ),
   8 => 
   array (
-    'code' => 'DI',
+    'code' => 'GN-DI',
     'name' => 'Dinguiraye',
     'type' => 'Prefecture',
   ),
   9 => 
   array (
-    'code' => 'DL',
+    'code' => 'GN-DL',
     'name' => 'Dalaba',
     'type' => 'Prefecture',
   ),
   10 => 
   array (
-    'code' => 'DU',
+    'code' => 'GN-DU',
     'name' => 'Dubréka',
     'type' => 'Prefecture',
   ),
   11 => 
   array (
-    'code' => 'F',
+    'code' => 'GN-F',
     'name' => 'Faranah',
     'type' => 'Governorate',
   ),
   12 => 
   array (
-    'code' => 'FA',
+    'code' => 'GN-FA',
     'name' => 'Faranah',
     'type' => 'Prefecture',
   ),
   13 => 
   array (
-    'code' => 'FO',
+    'code' => 'GN-FO',
     'name' => 'Forécariah',
     'type' => 'Prefecture',
   ),
   14 => 
   array (
-    'code' => 'FR',
+    'code' => 'GN-FR',
     'name' => 'Fria',
     'type' => 'Prefecture',
   ),
   15 => 
   array (
-    'code' => 'GA',
+    'code' => 'GN-GA',
     'name' => 'Gaoual',
     'type' => 'Prefecture',
   ),
   16 => 
   array (
-    'code' => 'GU',
+    'code' => 'GN-GU',
     'name' => 'Guékédou',
     'type' => 'Prefecture',
   ),
   17 => 
   array (
-    'code' => 'K',
+    'code' => 'GN-K',
     'name' => 'Kankan',
     'type' => 'Governorate',
   ),
   18 => 
   array (
-    'code' => 'KA',
+    'code' => 'GN-KA',
     'name' => 'Kankan',
     'type' => 'Prefecture',
   ),
   19 => 
   array (
-    'code' => 'KB',
+    'code' => 'GN-KB',
     'name' => 'Koubia',
     'type' => 'Prefecture',
   ),
   20 => 
   array (
-    'code' => 'KD',
+    'code' => 'GN-KD',
     'name' => 'Kindia',
     'type' => 'Prefecture',
   ),
   21 => 
   array (
-    'code' => 'KE',
+    'code' => 'GN-KE',
     'name' => 'Kérouané',
     'type' => 'Prefecture',
   ),
   22 => 
   array (
-    'code' => 'KN',
+    'code' => 'GN-KN',
     'name' => 'Koundara',
     'type' => 'Prefecture',
   ),
   23 => 
   array (
-    'code' => 'KO',
+    'code' => 'GN-KO',
     'name' => 'Kouroussa',
     'type' => 'Prefecture',
   ),
   24 => 
   array (
-    'code' => 'KS',
+    'code' => 'GN-KS',
     'name' => 'Kissidougou',
     'type' => 'Prefecture',
   ),
   25 => 
   array (
-    'code' => 'L',
+    'code' => 'GN-L',
     'name' => 'Labé',
     'type' => 'Governorate',
   ),
   26 => 
   array (
-    'code' => 'LA',
+    'code' => 'GN-LA',
     'name' => 'Labé',
     'type' => 'Prefecture',
   ),
   27 => 
   array (
-    'code' => 'LE',
+    'code' => 'GN-LE',
     'name' => 'Lélouma',
     'type' => 'Prefecture',
   ),
   28 => 
   array (
-    'code' => 'LO',
+    'code' => 'GN-LO',
     'name' => 'Lola',
     'type' => 'Prefecture',
   ),
   29 => 
   array (
-    'code' => 'M',
+    'code' => 'GN-M',
     'name' => 'Mamou',
     'type' => 'Governorate',
   ),
   30 => 
   array (
-    'code' => 'MC',
+    'code' => 'GN-MC',
     'name' => 'Macenta',
     'type' => 'Prefecture',
   ),
   31 => 
   array (
-    'code' => 'MD',
+    'code' => 'GN-MD',
     'name' => 'Mandiana',
     'type' => 'Prefecture',
   ),
   32 => 
   array (
-    'code' => 'ML',
+    'code' => 'GN-ML',
     'name' => 'Mali',
     'type' => 'Prefecture',
   ),
   33 => 
   array (
-    'code' => 'MM',
+    'code' => 'GN-MM',
     'name' => 'Mamou',
     'type' => 'Prefecture',
   ),
   34 => 
   array (
-    'code' => 'N',
+    'code' => 'GN-N',
     'name' => 'Nzérékoré',
     'type' => 'Governorate',
   ),
   35 => 
   array (
-    'code' => 'NZ',
+    'code' => 'GN-NZ',
     'name' => 'Nzérékoré',
     'type' => 'Prefecture',
   ),
   36 => 
   array (
-    'code' => 'PI',
+    'code' => 'GN-PI',
     'name' => 'Pita',
     'type' => 'Prefecture',
   ),
   37 => 
   array (
-    'code' => 'SI',
+    'code' => 'GN-SI',
     'name' => 'Siguiri',
     'type' => 'Prefecture',
   ),
   38 => 
   array (
-    'code' => 'TE',
+    'code' => 'GN-TE',
     'name' => 'Télimélé',
     'type' => 'Prefecture',
   ),
   39 => 
   array (
-    'code' => 'TO',
+    'code' => 'GN-TO',
     'name' => 'Tougué',
     'type' => 'Prefecture',
   ),
   40 => 
   array (
-    'code' => 'YO',
+    'code' => 'GN-YO',
     'name' => 'Yomou',
     'type' => 'Prefecture',
   ),

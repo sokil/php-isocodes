@@ -1,343 +1,343 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AK',
+    'code' => 'US-AK',
     'name' => 'Alaska',
     'type' => 'State',
   ),
   1 => 
   array (
-    'code' => 'AL',
+    'code' => 'US-AL',
     'name' => 'Alabama',
     'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'AR',
+    'code' => 'US-AR',
     'name' => 'Arkansas',
     'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'AS',
+    'code' => 'US-AS',
     'name' => 'American Samoa',
     'type' => 'Outlying area',
   ),
   4 => 
   array (
-    'code' => 'AZ',
+    'code' => 'US-AZ',
     'name' => 'Arizona',
     'type' => 'State',
   ),
   5 => 
   array (
-    'code' => 'CA',
+    'code' => 'US-CA',
     'name' => 'California',
     'type' => 'State',
   ),
   6 => 
   array (
-    'code' => 'CO',
+    'code' => 'US-CO',
     'name' => 'Colorado',
     'type' => 'State',
   ),
   7 => 
   array (
-    'code' => 'CT',
+    'code' => 'US-CT',
     'name' => 'Connecticut',
     'type' => 'State',
   ),
   8 => 
   array (
-    'code' => 'DC',
+    'code' => 'US-DC',
     'name' => 'District of Columbia',
     'type' => 'District',
   ),
   9 => 
   array (
-    'code' => 'DE',
+    'code' => 'US-DE',
     'name' => 'Delaware',
     'type' => 'State',
   ),
   10 => 
   array (
-    'code' => 'FL',
+    'code' => 'US-FL',
     'name' => 'Florida',
     'type' => 'State',
   ),
   11 => 
   array (
-    'code' => 'GA',
+    'code' => 'US-GA',
     'name' => 'Georgia',
     'type' => 'State',
   ),
   12 => 
   array (
-    'code' => 'GU',
+    'code' => 'US-GU',
     'name' => 'Guam',
     'type' => 'Outlying area',
   ),
   13 => 
   array (
-    'code' => 'HI',
+    'code' => 'US-HI',
     'name' => 'Hawaii',
     'type' => 'State',
   ),
   14 => 
   array (
-    'code' => 'IA',
+    'code' => 'US-IA',
     'name' => 'Iowa',
     'type' => 'State',
   ),
   15 => 
   array (
-    'code' => 'ID',
+    'code' => 'US-ID',
     'name' => 'Idaho',
     'type' => 'State',
   ),
   16 => 
   array (
-    'code' => 'IL',
+    'code' => 'US-IL',
     'name' => 'Illinois',
     'type' => 'State',
   ),
   17 => 
   array (
-    'code' => 'IN',
+    'code' => 'US-IN',
     'name' => 'Indiana',
     'type' => 'State',
   ),
   18 => 
   array (
-    'code' => 'KS',
+    'code' => 'US-KS',
     'name' => 'Kansas',
     'type' => 'State',
   ),
   19 => 
   array (
-    'code' => 'KY',
+    'code' => 'US-KY',
     'name' => 'Kentucky',
     'type' => 'State',
   ),
   20 => 
   array (
-    'code' => 'LA',
+    'code' => 'US-LA',
     'name' => 'Louisiana',
     'type' => 'State',
   ),
   21 => 
   array (
-    'code' => 'MA',
+    'code' => 'US-MA',
     'name' => 'Massachusetts',
     'type' => 'State',
   ),
   22 => 
   array (
-    'code' => 'MD',
+    'code' => 'US-MD',
     'name' => 'Maryland',
     'type' => 'State',
   ),
   23 => 
   array (
-    'code' => 'ME',
+    'code' => 'US-ME',
     'name' => 'Maine',
     'type' => 'State',
   ),
   24 => 
   array (
-    'code' => 'MI',
+    'code' => 'US-MI',
     'name' => 'Michigan',
     'type' => 'State',
   ),
   25 => 
   array (
-    'code' => 'MN',
+    'code' => 'US-MN',
     'name' => 'Minnesota',
     'type' => 'State',
   ),
   26 => 
   array (
-    'code' => 'MO',
+    'code' => 'US-MO',
     'name' => 'Missouri',
     'type' => 'State',
   ),
   27 => 
   array (
-    'code' => 'MP',
+    'code' => 'US-MP',
     'name' => 'Northern Mariana Islands',
     'type' => 'Outlying area',
   ),
   28 => 
   array (
-    'code' => 'MS',
+    'code' => 'US-MS',
     'name' => 'Mississippi',
     'type' => 'State',
   ),
   29 => 
   array (
-    'code' => 'MT',
+    'code' => 'US-MT',
     'name' => 'Montana',
     'type' => 'State',
   ),
   30 => 
   array (
-    'code' => 'NC',
+    'code' => 'US-NC',
     'name' => 'North Carolina',
     'type' => 'State',
   ),
   31 => 
   array (
-    'code' => 'ND',
+    'code' => 'US-ND',
     'name' => 'North Dakota',
     'type' => 'State',
   ),
   32 => 
   array (
-    'code' => 'NE',
+    'code' => 'US-NE',
     'name' => 'Nebraska',
     'type' => 'State',
   ),
   33 => 
   array (
-    'code' => 'NH',
+    'code' => 'US-NH',
     'name' => 'New Hampshire',
     'type' => 'State',
   ),
   34 => 
   array (
-    'code' => 'NJ',
+    'code' => 'US-NJ',
     'name' => 'New Jersey',
     'type' => 'State',
   ),
   35 => 
   array (
-    'code' => 'NM',
+    'code' => 'US-NM',
     'name' => 'New Mexico',
     'type' => 'State',
   ),
   36 => 
   array (
-    'code' => 'NV',
+    'code' => 'US-NV',
     'name' => 'Nevada',
     'type' => 'State',
   ),
   37 => 
   array (
-    'code' => 'NY',
+    'code' => 'US-NY',
     'name' => 'New York',
     'type' => 'State',
   ),
   38 => 
   array (
-    'code' => 'OH',
+    'code' => 'US-OH',
     'name' => 'Ohio',
     'type' => 'State',
   ),
   39 => 
   array (
-    'code' => 'OK',
+    'code' => 'US-OK',
     'name' => 'Oklahoma',
     'type' => 'State',
   ),
   40 => 
   array (
-    'code' => 'OR',
+    'code' => 'US-OR',
     'name' => 'Oregon',
     'type' => 'State',
   ),
   41 => 
   array (
-    'code' => 'PA',
+    'code' => 'US-PA',
     'name' => 'Pennsylvania',
     'type' => 'State',
   ),
   42 => 
   array (
-    'code' => 'PR',
+    'code' => 'US-PR',
     'name' => 'Puerto Rico',
     'type' => 'Outlying area',
   ),
   43 => 
   array (
-    'code' => 'RI',
+    'code' => 'US-RI',
     'name' => 'Rhode Island',
     'type' => 'State',
   ),
   44 => 
   array (
-    'code' => 'SC',
+    'code' => 'US-SC',
     'name' => 'South Carolina',
     'type' => 'State',
   ),
   45 => 
   array (
-    'code' => 'SD',
+    'code' => 'US-SD',
     'name' => 'South Dakota',
     'type' => 'State',
   ),
   46 => 
   array (
-    'code' => 'TN',
+    'code' => 'US-TN',
     'name' => 'Tennessee',
     'type' => 'State',
   ),
   47 => 
   array (
-    'code' => 'TX',
+    'code' => 'US-TX',
     'name' => 'Texas',
     'type' => 'State',
   ),
   48 => 
   array (
-    'code' => 'UM',
+    'code' => 'US-UM',
     'name' => 'United States Minor Outlying Islands',
     'type' => 'Outlying area',
   ),
   49 => 
   array (
-    'code' => 'UT',
+    'code' => 'US-UT',
     'name' => 'Utah',
     'type' => 'State',
   ),
   50 => 
   array (
-    'code' => 'VA',
+    'code' => 'US-VA',
     'name' => 'Virginia',
     'type' => 'State',
   ),
   51 => 
   array (
-    'code' => 'VI',
+    'code' => 'US-VI',
     'name' => 'Virgin Islands',
     'type' => 'Outlying area',
   ),
   52 => 
   array (
-    'code' => 'VT',
+    'code' => 'US-VT',
     'name' => 'Vermont',
     'type' => 'State',
   ),
   53 => 
   array (
-    'code' => 'WA',
+    'code' => 'US-WA',
     'name' => 'Washington',
     'type' => 'State',
   ),
   54 => 
   array (
-    'code' => 'WI',
+    'code' => 'US-WI',
     'name' => 'Wisconsin',
     'type' => 'State',
   ),
   55 => 
   array (
-    'code' => 'WV',
+    'code' => 'US-WV',
     'name' => 'West Virginia',
     'type' => 'State',
   ),
   56 => 
   array (
-    'code' => 'WY',
+    'code' => 'US-WY',
     'name' => 'Wyoming',
     'type' => 'State',
   ),

@@ -1,49 +1,49 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'B',
+    'code' => 'KG-B',
     'name' => 'Batken',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'C',
+    'code' => 'KG-C',
     'name' => 'Chü',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'GB',
+    'code' => 'KG-GB',
     'name' => 'Bishkek',
     'type' => 'City',
   ),
   3 => 
   array (
-    'code' => 'J',
+    'code' => 'KG-J',
     'name' => 'Jalal-Abad',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'N',
+    'code' => 'KG-N',
     'name' => 'Naryn',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'O',
+    'code' => 'KG-O',
     'name' => 'Osh',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'T',
+    'code' => 'KG-T',
     'name' => 'Talas',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'Y',
+    'code' => 'KG-Y',
     'name' => 'Ysyk-Köl',
     'type' => 'Region',
   ),

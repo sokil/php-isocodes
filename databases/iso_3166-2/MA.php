@@ -1,475 +1,475 @@
 <?php return array (
   0 => 
   array (
-    'code' => '01',
+    'code' => 'MA-01',
     'name' => 'Tanger-Tétouan',
     'type' => 'Economic region',
   ),
   1 => 
   array (
-    'code' => '02',
+    'code' => 'MA-02',
     'name' => 'Gharb-Chrarda-Beni Hssen',
     'type' => 'Economic region',
   ),
   2 => 
   array (
-    'code' => '03',
+    'code' => 'MA-03',
     'name' => 'Taza-Al Hoceima-Taounate',
     'type' => 'Economic region',
   ),
   3 => 
   array (
-    'code' => '04',
+    'code' => 'MA-04',
     'name' => 'L\'Oriental',
     'type' => 'Economic region',
   ),
   4 => 
   array (
-    'code' => '05',
+    'code' => 'MA-05',
     'name' => 'Fès-Boulemane',
     'type' => 'Economic region',
   ),
   5 => 
   array (
-    'code' => '06',
+    'code' => 'MA-06',
     'name' => 'Meknès-Tafilalet',
     'type' => 'Economic region',
   ),
   6 => 
   array (
-    'code' => '07',
+    'code' => 'MA-07',
     'name' => 'Rabat-Salé-Zemmour-Zaer',
     'type' => 'Economic region',
   ),
   7 => 
   array (
-    'code' => '08',
+    'code' => 'MA-08',
     'name' => 'Grand Casablanca',
     'type' => 'Economic region',
   ),
   8 => 
   array (
-    'code' => '09',
+    'code' => 'MA-09',
     'name' => 'Chaouia-Ouardigha',
     'type' => 'Economic region',
   ),
   9 => 
   array (
-    'code' => '10',
+    'code' => 'MA-10',
     'name' => 'Doukhala-Abda',
     'type' => 'Economic region',
   ),
   10 => 
   array (
-    'code' => '11',
+    'code' => 'MA-11',
     'name' => 'Marrakech-Tensift-Al Haouz',
     'type' => 'Economic region',
   ),
   11 => 
   array (
-    'code' => '12',
+    'code' => 'MA-12',
     'name' => 'Tadla-Azilal',
     'type' => 'Economic region',
   ),
   12 => 
   array (
-    'code' => '13',
+    'code' => 'MA-13',
     'name' => 'Sous-Massa-Draa',
     'type' => 'Economic region',
   ),
   13 => 
   array (
-    'code' => '14',
+    'code' => 'MA-14',
     'name' => 'Guelmim-Es Smara',
     'type' => 'Economic region',
   ),
   14 => 
   array (
-    'code' => '15',
+    'code' => 'MA-15',
     'name' => 'Laâyoune-Boujdour-Sakia el Hamra',
     'type' => 'Economic region',
   ),
   15 => 
   array (
-    'code' => '16',
+    'code' => 'MA-16',
     'name' => 'Oued ed Dahab-Lagouira',
     'type' => 'Economic region',
   ),
   16 => 
   array (
-    'code' => 'AGD',
+    'code' => 'MA-AGD',
     'name' => 'Agadir-Ida-Outanane',
     'type' => 'Prefecture',
   ),
   17 => 
   array (
-    'code' => 'AOU',
+    'code' => 'MA-AOU',
     'name' => 'Aousserd',
     'type' => 'Prefecture',
   ),
   18 => 
   array (
-    'code' => 'ASZ',
+    'code' => 'MA-ASZ',
     'name' => 'Assa-Zag',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => 'AZI',
+    'code' => 'MA-AZI',
     'name' => 'Azilal',
     'type' => 'Province',
   ),
   20 => 
   array (
-    'code' => 'BEM',
+    'code' => 'MA-BEM',
     'name' => 'Beni Mellal',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => 'BER',
+    'code' => 'MA-BER',
     'name' => 'Berkane',
     'type' => 'Province',
   ),
   22 => 
   array (
-    'code' => 'BES',
+    'code' => 'MA-BES',
     'name' => 'Ben Slimane',
     'type' => 'Province',
   ),
   23 => 
   array (
-    'code' => 'BOD',
+    'code' => 'MA-BOD',
     'name' => 'Boujdour (EH)',
     'type' => 'Province',
   ),
   24 => 
   array (
-    'code' => 'BOM',
+    'code' => 'MA-BOM',
     'name' => 'Boulemane',
     'type' => 'Province',
   ),
   25 => 
   array (
-    'code' => 'CAS',
+    'code' => 'MA-CAS',
     'name' => 'Casablanca [Dar el Beïda]',
     'type' => 'Prefecture',
   ),
   26 => 
   array (
-    'code' => 'CHE',
+    'code' => 'MA-CHE',
     'name' => 'Chefchaouen',
     'type' => 'Province',
   ),
   27 => 
   array (
-    'code' => 'CHI',
+    'code' => 'MA-CHI',
     'name' => 'Chichaoua',
     'type' => 'Province',
   ),
   28 => 
   array (
-    'code' => 'CHT',
+    'code' => 'MA-CHT',
     'name' => 'Chtouka-Ait Baha',
     'type' => 'Province',
   ),
   29 => 
   array (
-    'code' => 'ERR',
+    'code' => 'MA-ERR',
     'name' => 'Errachidia',
     'type' => 'Province',
   ),
   30 => 
   array (
-    'code' => 'ESI',
+    'code' => 'MA-ESI',
     'name' => 'Essaouira',
     'type' => 'Province',
   ),
   31 => 
   array (
-    'code' => 'ESM',
+    'code' => 'MA-ESM',
     'name' => 'Es Smara (EH)',
     'type' => 'Province',
   ),
   32 => 
   array (
-    'code' => 'FAH',
+    'code' => 'MA-FAH',
     'name' => 'Fahs-Beni Makada',
     'type' => 'Prefecture',
   ),
   33 => 
   array (
-    'code' => 'FES',
+    'code' => 'MA-FES',
     'name' => 'Fès-Dar-Dbibegh',
     'type' => 'Prefecture',
   ),
   34 => 
   array (
-    'code' => 'FIG',
+    'code' => 'MA-FIG',
     'name' => 'Figuig',
     'type' => 'Province',
   ),
   35 => 
   array (
-    'code' => 'GUE',
+    'code' => 'MA-GUE',
     'name' => 'Guelmim',
     'type' => 'Province',
   ),
   36 => 
   array (
-    'code' => 'HAJ',
+    'code' => 'MA-HAJ',
     'name' => 'El Hajeb',
     'type' => 'Province',
   ),
   37 => 
   array (
-    'code' => 'HAO',
+    'code' => 'MA-HAO',
     'name' => 'Al Haouz',
     'type' => 'Province',
   ),
   38 => 
   array (
-    'code' => 'HOC',
+    'code' => 'MA-HOC',
     'name' => 'Al Hoceïma',
     'type' => 'Province',
   ),
   39 => 
   array (
-    'code' => 'IFR',
+    'code' => 'MA-IFR',
     'name' => 'Ifrane',
     'type' => 'Province',
   ),
   40 => 
   array (
-    'code' => 'INE',
+    'code' => 'MA-INE',
     'name' => 'Inezgane-Ait Melloul',
     'type' => 'Prefecture',
   ),
   41 => 
   array (
-    'code' => 'JDI',
+    'code' => 'MA-JDI',
     'name' => 'El Jadida',
     'type' => 'Province',
   ),
   42 => 
   array (
-    'code' => 'JRA',
+    'code' => 'MA-JRA',
     'name' => 'Jrada',
     'type' => 'Province',
   ),
   43 => 
   array (
-    'code' => 'KEN',
+    'code' => 'MA-KEN',
     'name' => 'Kénitra',
     'type' => 'Province',
   ),
   44 => 
   array (
-    'code' => 'KES',
+    'code' => 'MA-KES',
     'name' => 'Kelaat es Sraghna',
     'type' => 'Province',
   ),
   45 => 
   array (
-    'code' => 'KHE',
+    'code' => 'MA-KHE',
     'name' => 'Khemisaet',
     'type' => 'Province',
   ),
   46 => 
   array (
-    'code' => 'KHN',
+    'code' => 'MA-KHN',
     'name' => 'Khenifra',
     'type' => 'Province',
   ),
   47 => 
   array (
-    'code' => 'KHO',
+    'code' => 'MA-KHO',
     'name' => 'Khouribga',
     'type' => 'Province',
   ),
   48 => 
   array (
-    'code' => 'LAA',
+    'code' => 'MA-LAA',
     'name' => 'Laâyoune (EH)',
     'type' => 'Province',
   ),
   49 => 
   array (
-    'code' => 'LAR',
+    'code' => 'MA-LAR',
     'name' => 'Larache',
     'type' => 'Province',
   ),
   50 => 
   array (
-    'code' => 'MED',
+    'code' => 'MA-MED',
     'name' => 'Médiouna',
     'type' => 'Province',
   ),
   51 => 
   array (
-    'code' => 'MEK',
+    'code' => 'MA-MEK',
     'name' => 'Meknès',
     'type' => 'Prefecture',
   ),
   52 => 
   array (
-    'code' => 'MMD',
+    'code' => 'MA-MMD',
     'name' => 'Marrakech-Medina',
     'type' => 'Prefecture',
   ),
   53 => 
   array (
-    'code' => 'MMN',
+    'code' => 'MA-MMN',
     'name' => 'Marrakech-Menara',
     'type' => 'Prefecture',
   ),
   54 => 
   array (
-    'code' => 'MOH',
+    'code' => 'MA-MOH',
     'name' => 'Mohammadia',
     'type' => 'Prefecture',
   ),
   55 => 
   array (
-    'code' => 'MOU',
+    'code' => 'MA-MOU',
     'name' => 'Moulay Yacoub',
     'type' => 'Province',
   ),
   56 => 
   array (
-    'code' => 'NAD',
+    'code' => 'MA-NAD',
     'name' => 'Nador',
     'type' => 'Province',
   ),
   57 => 
   array (
-    'code' => 'NOU',
+    'code' => 'MA-NOU',
     'name' => 'Nouaceur',
     'type' => 'Province',
   ),
   58 => 
   array (
-    'code' => 'OUA',
+    'code' => 'MA-OUA',
     'name' => 'Ouarzazate',
     'type' => 'Province',
   ),
   59 => 
   array (
-    'code' => 'OUD',
+    'code' => 'MA-OUD',
     'name' => 'Oued ed Dahab (EH)',
     'type' => 'Province',
   ),
   60 => 
   array (
-    'code' => 'OUJ',
+    'code' => 'MA-OUJ',
     'name' => 'Oujda-Angad',
     'type' => 'Prefecture',
   ),
   61 => 
   array (
-    'code' => 'RAB',
+    'code' => 'MA-RAB',
     'name' => 'Rabat',
     'type' => 'Prefecture',
   ),
   62 => 
   array (
-    'code' => 'SAF',
+    'code' => 'MA-SAF',
     'name' => 'Safi',
     'type' => 'Province',
   ),
   63 => 
   array (
-    'code' => 'SAL',
+    'code' => 'MA-SAL',
     'name' => 'Salé',
     'type' => 'Prefecture',
   ),
   64 => 
   array (
-    'code' => 'SEF',
+    'code' => 'MA-SEF',
     'name' => 'Sefrou',
     'type' => 'Province',
   ),
   65 => 
   array (
-    'code' => 'SET',
+    'code' => 'MA-SET',
     'name' => 'Settat',
     'type' => 'Province',
   ),
   66 => 
   array (
-    'code' => 'SIK',
+    'code' => 'MA-SIK',
     'name' => 'Sidl Kacem',
     'type' => 'Province',
   ),
   67 => 
   array (
-    'code' => 'SKH',
+    'code' => 'MA-SKH',
     'name' => 'Skhirate-Témara',
     'type' => 'Prefecture',
   ),
   68 => 
   array (
-    'code' => 'SYB',
+    'code' => 'MA-SYB',
     'name' => 'Sidi Youssef Ben Ali',
     'type' => 'Prefecture',
   ),
   69 => 
   array (
-    'code' => 'TAI',
+    'code' => 'MA-TAI',
     'name' => 'Taourirt',
     'type' => 'Province',
   ),
   70 => 
   array (
-    'code' => 'TAO',
+    'code' => 'MA-TAO',
     'name' => 'Taounate',
     'type' => 'Province',
   ),
   71 => 
   array (
-    'code' => 'TAR',
+    'code' => 'MA-TAR',
     'name' => 'Taroudant',
     'type' => 'Province',
   ),
   72 => 
   array (
-    'code' => 'TAT',
+    'code' => 'MA-TAT',
     'name' => 'Tata',
     'type' => 'Province',
   ),
   73 => 
   array (
-    'code' => 'TAZ',
+    'code' => 'MA-TAZ',
     'name' => 'Taza',
     'type' => 'Province',
   ),
   74 => 
   array (
-    'code' => 'TET',
+    'code' => 'MA-TET',
     'name' => 'Tétouan',
     'type' => 'Prefecture',
   ),
   75 => 
   array (
-    'code' => 'TIZ',
+    'code' => 'MA-TIZ',
     'name' => 'Tiznit',
     'type' => 'Province',
   ),
   76 => 
   array (
-    'code' => 'TNG',
+    'code' => 'MA-TNG',
     'name' => 'Tanger-Assilah',
     'type' => 'Prefecture',
   ),
   77 => 
   array (
-    'code' => 'TNT',
+    'code' => 'MA-TNT',
     'name' => 'Tan-Tan',
     'type' => 'Province',
   ),
   78 => 
   array (
-    'code' => 'ZAG',
+    'code' => 'MA-ZAG',
     'name' => 'Zagora',
     'type' => 'Province',
   ),

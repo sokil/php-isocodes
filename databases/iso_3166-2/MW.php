@@ -1,187 +1,187 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BA',
+    'code' => 'MW-BA',
     'name' => 'Balaka',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'BL',
+    'code' => 'MW-BL',
     'name' => 'Blantyre',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'C',
+    'code' => 'MW-C',
     'name' => 'Central Region',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'CK',
+    'code' => 'MW-CK',
     'name' => 'Chikwawa',
     'type' => 'District',
   ),
   4 => 
   array (
-    'code' => 'CR',
+    'code' => 'MW-CR',
     'name' => 'Chiradzulu',
     'type' => 'District',
   ),
   5 => 
   array (
-    'code' => 'CT',
+    'code' => 'MW-CT',
     'name' => 'Chitipa',
     'type' => 'District',
   ),
   6 => 
   array (
-    'code' => 'DE',
+    'code' => 'MW-DE',
     'name' => 'Dedza',
     'type' => 'District',
   ),
   7 => 
   array (
-    'code' => 'DO',
+    'code' => 'MW-DO',
     'name' => 'Dowa',
     'type' => 'District',
   ),
   8 => 
   array (
-    'code' => 'KR',
+    'code' => 'MW-KR',
     'name' => 'Karonga',
     'type' => 'District',
   ),
   9 => 
   array (
-    'code' => 'KS',
+    'code' => 'MW-KS',
     'name' => 'Kasungu',
     'type' => 'District',
   ),
   10 => 
   array (
-    'code' => 'LI',
+    'code' => 'MW-LI',
     'name' => 'Lilongwe',
     'type' => 'District',
   ),
   11 => 
   array (
-    'code' => 'LK',
+    'code' => 'MW-LK',
     'name' => 'Likoma',
     'type' => 'District',
   ),
   12 => 
   array (
-    'code' => 'MC',
+    'code' => 'MW-MC',
     'name' => 'Mchinji',
     'type' => 'District',
   ),
   13 => 
   array (
-    'code' => 'MG',
+    'code' => 'MW-MG',
     'name' => 'Mangochi',
     'type' => 'District',
   ),
   14 => 
   array (
-    'code' => 'MH',
+    'code' => 'MW-MH',
     'name' => 'Machinga',
     'type' => 'District',
   ),
   15 => 
   array (
-    'code' => 'MU',
+    'code' => 'MW-MU',
     'name' => 'Mulanje',
     'type' => 'District',
   ),
   16 => 
   array (
-    'code' => 'MW',
+    'code' => 'MW-MW',
     'name' => 'Mwanza',
     'type' => 'District',
   ),
   17 => 
   array (
-    'code' => 'MZ',
+    'code' => 'MW-MZ',
     'name' => 'Mzimba',
     'type' => 'District',
   ),
   18 => 
   array (
-    'code' => 'N',
+    'code' => 'MW-N',
     'name' => 'Northern Region',
     'type' => 'Region',
   ),
   19 => 
   array (
-    'code' => 'NB',
+    'code' => 'MW-NB',
     'name' => 'Nkhata Bay',
     'type' => 'District',
   ),
   20 => 
   array (
-    'code' => 'NE',
+    'code' => 'MW-NE',
     'name' => 'Neno',
     'type' => 'District',
   ),
   21 => 
   array (
-    'code' => 'NI',
+    'code' => 'MW-NI',
     'name' => 'Ntchisi',
     'type' => 'District',
   ),
   22 => 
   array (
-    'code' => 'NK',
+    'code' => 'MW-NK',
     'name' => 'Nkhotakota',
     'type' => 'District',
   ),
   23 => 
   array (
-    'code' => 'NS',
+    'code' => 'MW-NS',
     'name' => 'Nsanje',
     'type' => 'District',
   ),
   24 => 
   array (
-    'code' => 'NU',
+    'code' => 'MW-NU',
     'name' => 'Ntcheu',
     'type' => 'District',
   ),
   25 => 
   array (
-    'code' => 'PH',
+    'code' => 'MW-PH',
     'name' => 'Phalombe',
     'type' => 'District',
   ),
   26 => 
   array (
-    'code' => 'RU',
+    'code' => 'MW-RU',
     'name' => 'Rumphi',
     'type' => 'District',
   ),
   27 => 
   array (
-    'code' => 'S',
+    'code' => 'MW-S',
     'name' => 'Southern Region',
     'type' => 'Region',
   ),
   28 => 
   array (
-    'code' => 'SA',
+    'code' => 'MW-SA',
     'name' => 'Salima',
     'type' => 'District',
   ),
   29 => 
   array (
-    'code' => 'TH',
+    'code' => 'MW-TH',
     'name' => 'Thyolo',
     'type' => 'District',
   ),
   30 => 
   array (
-    'code' => 'ZO',
+    'code' => 'MW-ZO',
     'name' => 'Zomba',
     'type' => 'District',
   ),

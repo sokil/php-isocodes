@@ -1,61 +1,61 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'A',
+    'code' => 'LS-A',
     'name' => 'Maseru',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'B',
+    'code' => 'LS-B',
     'name' => 'Butha-Buthe',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'C',
+    'code' => 'LS-C',
     'name' => 'Leribe',
     'type' => 'District',
   ),
   3 => 
   array (
-    'code' => 'D',
+    'code' => 'LS-D',
     'name' => 'Berea',
     'type' => 'District',
   ),
   4 => 
   array (
-    'code' => 'E',
+    'code' => 'LS-E',
     'name' => 'Mafeteng',
     'type' => 'District',
   ),
   5 => 
   array (
-    'code' => 'F',
+    'code' => 'LS-F',
     'name' => 'Mohale\'s Hoek',
     'type' => 'District',
   ),
   6 => 
   array (
-    'code' => 'G',
+    'code' => 'LS-G',
     'name' => 'Quthing',
     'type' => 'District',
   ),
   7 => 
   array (
-    'code' => 'H',
+    'code' => 'LS-H',
     'name' => 'Qacha\'s Nek',
     'type' => 'District',
   ),
   8 => 
   array (
-    'code' => 'J',
+    'code' => 'LS-J',
     'name' => 'Mokhotlong',
     'type' => 'District',
   ),
   9 => 
   array (
-    'code' => 'K',
+    'code' => 'LS-K',
     'name' => 'Thaba-Tseka',
     'type' => 'District',
   ),

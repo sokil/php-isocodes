@@ -1,19 +1,19 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'D',
+    'code' => 'LU-D',
     'name' => 'Diekirch',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'G',
+    'code' => 'LU-G',
     'name' => 'Grevenmacher',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'L',
+    'code' => 'LU-L',
     'name' => 'Luxembourg',
     'type' => 'District',
   ),

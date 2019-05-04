@@ -1,139 +1,139 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BA',
+    'code' => 'LY-BA',
     'name' => 'Banghāzī',
     'type' => 'Popularates',
   ),
   1 => 
   array (
-    'code' => 'BU',
+    'code' => 'LY-BU',
     'name' => 'Al Buţnān',
     'type' => 'Popularates',
   ),
   2 => 
   array (
-    'code' => 'DR',
+    'code' => 'LY-DR',
     'name' => 'Darnah',
     'type' => 'Popularates',
   ),
   3 => 
   array (
-    'code' => 'GT',
+    'code' => 'LY-GT',
     'name' => 'Ghāt',
     'type' => 'Popularates',
   ),
   4 => 
   array (
-    'code' => 'JA',
+    'code' => 'LY-JA',
     'name' => 'Al Jabal al Akhḑar',
     'type' => 'Popularates',
   ),
   5 => 
   array (
-    'code' => 'JB',
+    'code' => 'LY-JB',
     'name' => 'Jaghbūb',
     'type' => 'Popularates',
   ),
   6 => 
   array (
-    'code' => 'JG',
+    'code' => 'LY-JG',
     'name' => 'Al Jabal al Gharbī',
     'type' => 'Popularates',
   ),
   7 => 
   array (
-    'code' => 'JI',
+    'code' => 'LY-JI',
     'name' => 'Al Jifārah',
     'type' => 'Popularates',
   ),
   8 => 
   array (
-    'code' => 'JU',
+    'code' => 'LY-JU',
     'name' => 'Al Jufrah',
     'type' => 'Popularates',
   ),
   9 => 
   array (
-    'code' => 'KF',
+    'code' => 'LY-KF',
     'name' => 'Al Kufrah',
     'type' => 'Popularates',
   ),
   10 => 
   array (
-    'code' => 'MB',
+    'code' => 'LY-MB',
     'name' => 'Al Marqab',
     'type' => 'Popularates',
   ),
   11 => 
   array (
-    'code' => 'MI',
+    'code' => 'LY-MI',
     'name' => 'Mişrātah',
     'type' => 'Popularates',
   ),
   12 => 
   array (
-    'code' => 'MJ',
+    'code' => 'LY-MJ',
     'name' => 'Al Marj',
     'type' => 'Popularates',
   ),
   13 => 
   array (
-    'code' => 'MQ',
+    'code' => 'LY-MQ',
     'name' => 'Murzuq',
     'type' => 'Popularates',
   ),
   14 => 
   array (
-    'code' => 'NL',
+    'code' => 'LY-NL',
     'name' => 'Nālūt',
     'type' => 'Popularates',
   ),
   15 => 
   array (
-    'code' => 'NQ',
+    'code' => 'LY-NQ',
     'name' => 'An Nuqaţ al Khams',
     'type' => 'Popularates',
   ),
   16 => 
   array (
-    'code' => 'SB',
+    'code' => 'LY-SB',
     'name' => 'Sabhā',
     'type' => 'Popularates',
   ),
   17 => 
   array (
-    'code' => 'SR',
+    'code' => 'LY-SR',
     'name' => 'Surt',
     'type' => 'Popularates',
   ),
   18 => 
   array (
-    'code' => 'TB',
+    'code' => 'LY-TB',
     'name' => 'Ţarābulus',
     'type' => 'Popularates',
   ),
   19 => 
   array (
-    'code' => 'WA',
+    'code' => 'LY-WA',
     'name' => 'Al Wāḩāt',
     'type' => 'Popularates',
   ),
   20 => 
   array (
-    'code' => 'WD',
+    'code' => 'LY-WD',
     'name' => 'Wādī al Ḩayāt',
     'type' => 'Popularates',
   ),
   21 => 
   array (
-    'code' => 'WS',
+    'code' => 'LY-WS',
     'name' => 'Wādī ash Shāţiʾ',
     'type' => 'Popularates',
   ),
   22 => 
   array (
-    'code' => 'ZA',
+    'code' => 'LY-ZA',
     'name' => 'Az Zāwiyah',
     'type' => 'Popularates',
   ),

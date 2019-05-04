@@ -1,781 +1,781 @@
 <?php return array (
   0 => 
   array (
-    'code' => '21',
+    'code' => 'IT-21',
     'name' => 'Piemonte',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => '23',
+    'code' => 'IT-23',
     'name' => 'Valle d\'Aosta',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => '25',
+    'code' => 'IT-25',
     'name' => 'Lombardia',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => '32',
+    'code' => 'IT-32',
     'name' => 'Trentino-Alto Adige',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => '34',
+    'code' => 'IT-34',
     'name' => 'Veneto',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => '36',
+    'code' => 'IT-36',
     'name' => 'Friuli-Venezia Giulia',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => '42',
+    'code' => 'IT-42',
     'name' => 'Liguria',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => '45',
+    'code' => 'IT-45',
     'name' => 'Emilia-Romagna',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => '52',
+    'code' => 'IT-52',
     'name' => 'Toscana',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => '55',
+    'code' => 'IT-55',
     'name' => 'Umbria',
     'type' => 'Region',
   ),
   10 => 
   array (
-    'code' => '57',
+    'code' => 'IT-57',
     'name' => 'Marche',
     'type' => 'Region',
   ),
   11 => 
   array (
-    'code' => '62',
+    'code' => 'IT-62',
     'name' => 'Lazio',
     'type' => 'Region',
   ),
   12 => 
   array (
-    'code' => '65',
+    'code' => 'IT-65',
     'name' => 'Abruzzo',
     'type' => 'Region',
   ),
   13 => 
   array (
-    'code' => '67',
+    'code' => 'IT-67',
     'name' => 'Molise',
     'type' => 'Region',
   ),
   14 => 
   array (
-    'code' => '72',
+    'code' => 'IT-72',
     'name' => 'Campania',
     'type' => 'Region',
   ),
   15 => 
   array (
-    'code' => '75',
+    'code' => 'IT-75',
     'name' => 'Puglia',
     'type' => 'Region',
   ),
   16 => 
   array (
-    'code' => '77',
+    'code' => 'IT-77',
     'name' => 'Basilicata',
     'type' => 'Region',
   ),
   17 => 
   array (
-    'code' => '78',
+    'code' => 'IT-78',
     'name' => 'Calabria',
     'type' => 'Region',
   ),
   18 => 
   array (
-    'code' => '82',
+    'code' => 'IT-82',
     'name' => 'Sicilia',
     'type' => 'Region',
   ),
   19 => 
   array (
-    'code' => '88',
+    'code' => 'IT-88',
     'name' => 'Sardegna',
     'type' => 'Region',
   ),
   20 => 
   array (
-    'code' => 'AG',
+    'code' => 'IT-AG',
     'name' => 'Agrigento',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => 'AL',
+    'code' => 'IT-AL',
     'name' => 'Alessandria',
     'type' => 'Province',
   ),
   22 => 
   array (
-    'code' => 'AN',
+    'code' => 'IT-AN',
     'name' => 'Ancona',
     'type' => 'Province',
   ),
   23 => 
   array (
-    'code' => 'AO',
+    'code' => 'IT-AO',
     'name' => 'Aosta',
     'type' => 'Province',
   ),
   24 => 
   array (
-    'code' => 'AP',
+    'code' => 'IT-AP',
     'name' => 'Ascoli Piceno',
     'type' => 'Province',
   ),
   25 => 
   array (
-    'code' => 'AQ',
+    'code' => 'IT-AQ',
     'name' => 'L\'Aquila',
     'type' => 'Province',
   ),
   26 => 
   array (
-    'code' => 'AR',
+    'code' => 'IT-AR',
     'name' => 'Arezzo',
     'type' => 'Province',
   ),
   27 => 
   array (
-    'code' => 'AT',
+    'code' => 'IT-AT',
     'name' => 'Asti',
     'type' => 'Province',
   ),
   28 => 
   array (
-    'code' => 'AV',
+    'code' => 'IT-AV',
     'name' => 'Avellino',
     'type' => 'Province',
   ),
   29 => 
   array (
-    'code' => 'BA',
+    'code' => 'IT-BA',
     'name' => 'Bari',
     'type' => 'Province',
   ),
   30 => 
   array (
-    'code' => 'BG',
+    'code' => 'IT-BG',
     'name' => 'Bergamo',
     'type' => 'Province',
   ),
   31 => 
   array (
-    'code' => 'BI',
+    'code' => 'IT-BI',
     'name' => 'Biella',
     'type' => 'Province',
   ),
   32 => 
   array (
-    'code' => 'BL',
+    'code' => 'IT-BL',
     'name' => 'Belluno',
     'type' => 'Province',
   ),
   33 => 
   array (
-    'code' => 'BN',
+    'code' => 'IT-BN',
     'name' => 'Benevento',
     'type' => 'Province',
   ),
   34 => 
   array (
-    'code' => 'BO',
+    'code' => 'IT-BO',
     'name' => 'Bologna',
     'type' => 'Province',
   ),
   35 => 
   array (
-    'code' => 'BR',
+    'code' => 'IT-BR',
     'name' => 'Brindisi',
     'type' => 'Province',
   ),
   36 => 
   array (
-    'code' => 'BS',
+    'code' => 'IT-BS',
     'name' => 'Brescia',
     'type' => 'Province',
   ),
   37 => 
   array (
-    'code' => 'BT',
+    'code' => 'IT-BT',
     'name' => 'Barletta-Andria-Trani',
     'type' => 'Province',
   ),
   38 => 
   array (
-    'code' => 'BZ',
+    'code' => 'IT-BZ',
     'name' => 'Bolzano',
     'type' => 'Province',
   ),
   39 => 
   array (
-    'code' => 'CA',
+    'code' => 'IT-CA',
     'name' => 'Cagliari',
     'type' => 'Province',
   ),
   40 => 
   array (
-    'code' => 'CB',
+    'code' => 'IT-CB',
     'name' => 'Campobasso',
     'type' => 'Province',
   ),
   41 => 
   array (
-    'code' => 'CE',
+    'code' => 'IT-CE',
     'name' => 'Caserta',
     'type' => 'Province',
   ),
   42 => 
   array (
-    'code' => 'CH',
+    'code' => 'IT-CH',
     'name' => 'Chieti',
     'type' => 'Province',
   ),
   43 => 
   array (
-    'code' => 'CI',
+    'code' => 'IT-CI',
     'name' => 'Carbonia-Iglesias',
     'type' => 'Province',
   ),
   44 => 
   array (
-    'code' => 'CL',
+    'code' => 'IT-CL',
     'name' => 'Caltanissetta',
     'type' => 'Province',
   ),
   45 => 
   array (
-    'code' => 'CN',
+    'code' => 'IT-CN',
     'name' => 'Cuneo',
     'type' => 'Province',
   ),
   46 => 
   array (
-    'code' => 'CO',
+    'code' => 'IT-CO',
     'name' => 'Como',
     'type' => 'Province',
   ),
   47 => 
   array (
-    'code' => 'CR',
+    'code' => 'IT-CR',
     'name' => 'Cremona',
     'type' => 'Province',
   ),
   48 => 
   array (
-    'code' => 'CS',
+    'code' => 'IT-CS',
     'name' => 'Cosenza',
     'type' => 'Province',
   ),
   49 => 
   array (
-    'code' => 'CT',
+    'code' => 'IT-CT',
     'name' => 'Catania',
     'type' => 'Province',
   ),
   50 => 
   array (
-    'code' => 'CZ',
+    'code' => 'IT-CZ',
     'name' => 'Catanzaro',
     'type' => 'Province',
   ),
   51 => 
   array (
-    'code' => 'EN',
+    'code' => 'IT-EN',
     'name' => 'Enna',
     'type' => 'Province',
   ),
   52 => 
   array (
-    'code' => 'FC',
+    'code' => 'IT-FC',
     'name' => 'Forlì-Cesena',
     'type' => 'Province',
   ),
   53 => 
   array (
-    'code' => 'FE',
+    'code' => 'IT-FE',
     'name' => 'Ferrara',
     'type' => 'Province',
   ),
   54 => 
   array (
-    'code' => 'FG',
+    'code' => 'IT-FG',
     'name' => 'Foggia',
     'type' => 'Province',
   ),
   55 => 
   array (
-    'code' => 'FI',
+    'code' => 'IT-FI',
     'name' => 'Firenze',
     'type' => 'Province',
   ),
   56 => 
   array (
-    'code' => 'FM',
+    'code' => 'IT-FM',
     'name' => 'Fermo',
     'type' => 'Province',
   ),
   57 => 
   array (
-    'code' => 'FR',
+    'code' => 'IT-FR',
     'name' => 'Frosinone',
     'type' => 'Province',
   ),
   58 => 
   array (
-    'code' => 'GE',
+    'code' => 'IT-GE',
     'name' => 'Genova',
     'type' => 'Province',
   ),
   59 => 
   array (
-    'code' => 'GO',
+    'code' => 'IT-GO',
     'name' => 'Gorizia',
     'type' => 'Province',
   ),
   60 => 
   array (
-    'code' => 'GR',
+    'code' => 'IT-GR',
     'name' => 'Grosseto',
     'type' => 'Province',
   ),
   61 => 
   array (
-    'code' => 'IM',
+    'code' => 'IT-IM',
     'name' => 'Imperia',
     'type' => 'Province',
   ),
   62 => 
   array (
-    'code' => 'IS',
+    'code' => 'IT-IS',
     'name' => 'Isernia',
     'type' => 'Province',
   ),
   63 => 
   array (
-    'code' => 'KR',
+    'code' => 'IT-KR',
     'name' => 'Crotone',
     'type' => 'Province',
   ),
   64 => 
   array (
-    'code' => 'LC',
+    'code' => 'IT-LC',
     'name' => 'Lecco',
     'type' => 'Province',
   ),
   65 => 
   array (
-    'code' => 'LE',
+    'code' => 'IT-LE',
     'name' => 'Lecce',
     'type' => 'Province',
   ),
   66 => 
   array (
-    'code' => 'LI',
+    'code' => 'IT-LI',
     'name' => 'Livorno',
     'type' => 'Province',
   ),
   67 => 
   array (
-    'code' => 'LO',
+    'code' => 'IT-LO',
     'name' => 'Lodi',
     'type' => 'Province',
   ),
   68 => 
   array (
-    'code' => 'LT',
+    'code' => 'IT-LT',
     'name' => 'Latina',
     'type' => 'Province',
   ),
   69 => 
   array (
-    'code' => 'LU',
+    'code' => 'IT-LU',
     'name' => 'Lucca',
     'type' => 'Province',
   ),
   70 => 
   array (
-    'code' => 'MB',
+    'code' => 'IT-MB',
     'name' => 'Monza e Brianza',
     'type' => 'Province',
   ),
   71 => 
   array (
-    'code' => 'MC',
+    'code' => 'IT-MC',
     'name' => 'Macerata',
     'type' => 'Province',
   ),
   72 => 
   array (
-    'code' => 'ME',
+    'code' => 'IT-ME',
     'name' => 'Messina',
     'type' => 'Province',
   ),
   73 => 
   array (
-    'code' => 'MI',
+    'code' => 'IT-MI',
     'name' => 'Milano',
     'type' => 'Province',
   ),
   74 => 
   array (
-    'code' => 'MN',
+    'code' => 'IT-MN',
     'name' => 'Mantova',
     'type' => 'Province',
   ),
   75 => 
   array (
-    'code' => 'MO',
+    'code' => 'IT-MO',
     'name' => 'Modena',
     'type' => 'Province',
   ),
   76 => 
   array (
-    'code' => 'MS',
+    'code' => 'IT-MS',
     'name' => 'Massa-Carrara',
     'type' => 'Province',
   ),
   77 => 
   array (
-    'code' => 'MT',
+    'code' => 'IT-MT',
     'name' => 'Matera',
     'type' => 'Province',
   ),
   78 => 
   array (
-    'code' => 'NA',
+    'code' => 'IT-NA',
     'name' => 'Napoli',
     'type' => 'Province',
   ),
   79 => 
   array (
-    'code' => 'NO',
+    'code' => 'IT-NO',
     'name' => 'Novara',
     'type' => 'Province',
   ),
   80 => 
   array (
-    'code' => 'NU',
+    'code' => 'IT-NU',
     'name' => 'Nuoro',
     'type' => 'Province',
   ),
   81 => 
   array (
-    'code' => 'OG',
+    'code' => 'IT-OG',
     'name' => 'Ogliastra',
     'type' => 'Province',
   ),
   82 => 
   array (
-    'code' => 'OR',
+    'code' => 'IT-OR',
     'name' => 'Oristano',
     'type' => 'Province',
   ),
   83 => 
   array (
-    'code' => 'OT',
+    'code' => 'IT-OT',
     'name' => 'Olbia-Tempio',
     'type' => 'Province',
   ),
   84 => 
   array (
-    'code' => 'PA',
+    'code' => 'IT-PA',
     'name' => 'Palermo',
     'type' => 'Province',
   ),
   85 => 
   array (
-    'code' => 'PC',
+    'code' => 'IT-PC',
     'name' => 'Piacenza',
     'type' => 'Province',
   ),
   86 => 
   array (
-    'code' => 'PD',
+    'code' => 'IT-PD',
     'name' => 'Padova',
     'type' => 'Province',
   ),
   87 => 
   array (
-    'code' => 'PE',
+    'code' => 'IT-PE',
     'name' => 'Pescara',
     'type' => 'Province',
   ),
   88 => 
   array (
-    'code' => 'PG',
+    'code' => 'IT-PG',
     'name' => 'Perugia',
     'type' => 'Province',
   ),
   89 => 
   array (
-    'code' => 'PI',
+    'code' => 'IT-PI',
     'name' => 'Pisa',
     'type' => 'Province',
   ),
   90 => 
   array (
-    'code' => 'PN',
+    'code' => 'IT-PN',
     'name' => 'Pordenone',
     'type' => 'Province',
   ),
   91 => 
   array (
-    'code' => 'PO',
+    'code' => 'IT-PO',
     'name' => 'Prato',
     'type' => 'Province',
   ),
   92 => 
   array (
-    'code' => 'PR',
+    'code' => 'IT-PR',
     'name' => 'Parma',
     'type' => 'Province',
   ),
   93 => 
   array (
-    'code' => 'PT',
+    'code' => 'IT-PT',
     'name' => 'Pistoia',
     'type' => 'Province',
   ),
   94 => 
   array (
-    'code' => 'PU',
+    'code' => 'IT-PU',
     'name' => 'Pesaro e Urbino',
     'type' => 'Province',
   ),
   95 => 
   array (
-    'code' => 'PV',
+    'code' => 'IT-PV',
     'name' => 'Pavia',
     'type' => 'Province',
   ),
   96 => 
   array (
-    'code' => 'PZ',
+    'code' => 'IT-PZ',
     'name' => 'Potenza',
     'type' => 'Province',
   ),
   97 => 
   array (
-    'code' => 'RA',
+    'code' => 'IT-RA',
     'name' => 'Ravenna',
     'type' => 'Province',
   ),
   98 => 
   array (
-    'code' => 'RC',
+    'code' => 'IT-RC',
     'name' => 'Reggio Calabria',
     'type' => 'Province',
   ),
   99 => 
   array (
-    'code' => 'RE',
+    'code' => 'IT-RE',
     'name' => 'Reggio Emilia',
     'type' => 'Province',
   ),
   100 => 
   array (
-    'code' => 'RG',
+    'code' => 'IT-RG',
     'name' => 'Ragusa',
     'type' => 'Province',
   ),
   101 => 
   array (
-    'code' => 'RI',
+    'code' => 'IT-RI',
     'name' => 'Rieti',
     'type' => 'Province',
   ),
   102 => 
   array (
-    'code' => 'RM',
+    'code' => 'IT-RM',
     'name' => 'Roma',
     'type' => 'Province',
   ),
   103 => 
   array (
-    'code' => 'RN',
+    'code' => 'IT-RN',
     'name' => 'Rimini',
     'type' => 'Province',
   ),
   104 => 
   array (
-    'code' => 'RO',
+    'code' => 'IT-RO',
     'name' => 'Rovigo',
     'type' => 'Province',
   ),
   105 => 
   array (
-    'code' => 'SA',
+    'code' => 'IT-SA',
     'name' => 'Salerno',
     'type' => 'Province',
   ),
   106 => 
   array (
-    'code' => 'SI',
+    'code' => 'IT-SI',
     'name' => 'Siena',
     'type' => 'Province',
   ),
   107 => 
   array (
-    'code' => 'SO',
+    'code' => 'IT-SO',
     'name' => 'Sondrio',
     'type' => 'Province',
   ),
   108 => 
   array (
-    'code' => 'SP',
+    'code' => 'IT-SP',
     'name' => 'La Spezia',
     'type' => 'Province',
   ),
   109 => 
   array (
-    'code' => 'SR',
+    'code' => 'IT-SR',
     'name' => 'Siracusa',
     'type' => 'Province',
   ),
   110 => 
   array (
-    'code' => 'SS',
+    'code' => 'IT-SS',
     'name' => 'Sassari',
     'type' => 'Province',
   ),
   111 => 
   array (
-    'code' => 'SV',
+    'code' => 'IT-SV',
     'name' => 'Savona',
     'type' => 'Province',
   ),
   112 => 
   array (
-    'code' => 'TA',
+    'code' => 'IT-TA',
     'name' => 'Taranto',
     'type' => 'Province',
   ),
   113 => 
   array (
-    'code' => 'TE',
+    'code' => 'IT-TE',
     'name' => 'Teramo',
     'type' => 'Province',
   ),
   114 => 
   array (
-    'code' => 'TN',
+    'code' => 'IT-TN',
     'name' => 'Trento',
     'type' => 'Province',
   ),
   115 => 
   array (
-    'code' => 'TO',
+    'code' => 'IT-TO',
     'name' => 'Torino',
     'type' => 'Province',
   ),
   116 => 
   array (
-    'code' => 'TP',
+    'code' => 'IT-TP',
     'name' => 'Trapani',
     'type' => 'Province',
   ),
   117 => 
   array (
-    'code' => 'TR',
+    'code' => 'IT-TR',
     'name' => 'Terni',
     'type' => 'Province',
   ),
   118 => 
   array (
-    'code' => 'TS',
+    'code' => 'IT-TS',
     'name' => 'Trieste',
     'type' => 'Province',
   ),
   119 => 
   array (
-    'code' => 'TV',
+    'code' => 'IT-TV',
     'name' => 'Treviso',
     'type' => 'Province',
   ),
   120 => 
   array (
-    'code' => 'UD',
+    'code' => 'IT-UD',
     'name' => 'Udine',
     'type' => 'Province',
   ),
   121 => 
   array (
-    'code' => 'VA',
+    'code' => 'IT-VA',
     'name' => 'Varese',
     'type' => 'Province',
   ),
   122 => 
   array (
-    'code' => 'VB',
+    'code' => 'IT-VB',
     'name' => 'Verbano-Cusio-Ossola',
     'type' => 'Province',
   ),
   123 => 
   array (
-    'code' => 'VC',
+    'code' => 'IT-VC',
     'name' => 'Vercelli',
     'type' => 'Province',
   ),
   124 => 
   array (
-    'code' => 'VE',
+    'code' => 'IT-VE',
     'name' => 'Venezia',
     'type' => 'Province',
   ),
   125 => 
   array (
-    'code' => 'VI',
+    'code' => 'IT-VI',
     'name' => 'Vicenza',
     'type' => 'Province',
   ),
   126 => 
   array (
-    'code' => 'VR',
+    'code' => 'IT-VR',
     'name' => 'Verona',
     'type' => 'Province',
   ),
   127 => 
   array (
-    'code' => 'VS',
+    'code' => 'IT-VS',
     'name' => 'Medio Campidano',
     'type' => 'Province',
   ),
   128 => 
   array (
-    'code' => 'VT',
+    'code' => 'IT-VT',
     'name' => 'Viterbo',
     'type' => 'Province',
   ),
   129 => 
   array (
-    'code' => 'VV',
+    'code' => 'IT-VV',
     'name' => 'Vibo Valentia',
     'type' => 'Province',
   ),

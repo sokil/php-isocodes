@@ -1,139 +1,139 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'A',
+    'code' => 'AR-A',
     'name' => 'Salta',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'B',
+    'code' => 'AR-B',
     'name' => 'Buenos Aires',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'C',
+    'code' => 'AR-C',
     'name' => 'Ciudad Autónoma de Buenos Aires',
     'type' => 'City',
   ),
   3 => 
   array (
-    'code' => 'D',
+    'code' => 'AR-D',
     'name' => 'San Luis',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'E',
+    'code' => 'AR-E',
     'name' => 'Entre Rios',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'G',
+    'code' => 'AR-G',
     'name' => 'Santiago del Estero',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'H',
+    'code' => 'AR-H',
     'name' => 'Chaco',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'J',
+    'code' => 'AR-J',
     'name' => 'San Juan',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'K',
+    'code' => 'AR-K',
     'name' => 'Catamarca',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'L',
+    'code' => 'AR-L',
     'name' => 'La Pampa',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'M',
+    'code' => 'AR-M',
     'name' => 'Mendoza',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'N',
+    'code' => 'AR-N',
     'name' => 'Misiones',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'P',
+    'code' => 'AR-P',
     'name' => 'Formosa',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => 'Q',
+    'code' => 'AR-Q',
     'name' => 'Neuquen',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => 'R',
+    'code' => 'AR-R',
     'name' => 'Rio Negro',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'S',
+    'code' => 'AR-S',
     'name' => 'Santa Fe',
     'type' => 'Province',
   ),
   16 => 
   array (
-    'code' => 'T',
+    'code' => 'AR-T',
     'name' => 'Tucuman',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => 'U',
+    'code' => 'AR-U',
     'name' => 'Chubut',
     'type' => 'Province',
   ),
   18 => 
   array (
-    'code' => 'V',
+    'code' => 'AR-V',
     'name' => 'Tierra del Fuego',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => 'W',
+    'code' => 'AR-W',
     'name' => 'Corrientes',
     'type' => 'Province',
   ),
   20 => 
   array (
-    'code' => 'X',
+    'code' => 'AR-X',
     'name' => 'Cordoba',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => 'Y',
+    'code' => 'AR-Y',
     'name' => 'Jujuy',
     'type' => 'Province',
   ),
   22 => 
   array (
-    'code' => 'Z',
+    'code' => 'AR-Z',
     'name' => 'Santa Cruz',
     'type' => 'Province',
   ),

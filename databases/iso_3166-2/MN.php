@@ -1,133 +1,133 @@
 <?php return array (
   0 => 
   array (
-    'code' => '035',
+    'code' => 'MN-035',
     'name' => 'Orhon',
     'type' => 'Municipality',
   ),
   1 => 
   array (
-    'code' => '037',
+    'code' => 'MN-037',
     'name' => 'Darhan uul',
     'type' => 'Municipality',
   ),
   2 => 
   array (
-    'code' => '039',
+    'code' => 'MN-039',
     'name' => 'Hentiy',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => '041',
+    'code' => 'MN-041',
     'name' => 'Hövsgöl',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => '043',
+    'code' => 'MN-043',
     'name' => 'Hovd',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => '046',
+    'code' => 'MN-046',
     'name' => 'Uvs',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => '047',
+    'code' => 'MN-047',
     'name' => 'Töv',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => '049',
+    'code' => 'MN-049',
     'name' => 'Selenge',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => '051',
+    'code' => 'MN-051',
     'name' => 'Sühbaatar',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => '053',
+    'code' => 'MN-053',
     'name' => 'Ömnögovi',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => '055',
+    'code' => 'MN-055',
     'name' => 'Övörhangay',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => '057',
+    'code' => 'MN-057',
     'name' => 'Dzavhan',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => '059',
+    'code' => 'MN-059',
     'name' => 'Dundgovi',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => '061',
+    'code' => 'MN-061',
     'name' => 'Dornod',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => '063',
+    'code' => 'MN-063',
     'name' => 'Dornogovi',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => '064',
+    'code' => 'MN-064',
     'name' => 'Govi-Sumber',
     'type' => 'Municipality',
   ),
   16 => 
   array (
-    'code' => '065',
+    'code' => 'MN-065',
     'name' => 'Govi-Altay',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => '067',
+    'code' => 'MN-067',
     'name' => 'Bulgan',
     'type' => 'Province',
   ),
   18 => 
   array (
-    'code' => '069',
+    'code' => 'MN-069',
     'name' => 'Bayanhongor',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => '071',
+    'code' => 'MN-071',
     'name' => 'Bayan-Ölgiy',
     'type' => 'Province',
   ),
   20 => 
   array (
-    'code' => '073',
+    'code' => 'MN-073',
     'name' => 'Arhangay',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => '1',
+    'code' => 'MN-1',
     'name' => 'Ulanbaatar',
     'type' => 'Municipality',
   ),

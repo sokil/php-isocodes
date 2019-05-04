@@ -1,19 +1,19 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AC',
+    'code' => 'SH-AC',
     'name' => 'Ascension',
     'type' => 'Geographical Entity',
   ),
   1 => 
   array (
-    'code' => 'HL',
+    'code' => 'SH-HL',
     'name' => 'Saint Helena',
     'type' => 'Geographical Entity',
   ),
   2 => 
   array (
-    'code' => 'TA',
+    'code' => 'SH-TA',
     'name' => 'Tristan da Cunha',
     'type' => 'Geographical Entity',
   ),

@@ -1,79 +1,79 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AL',
+    'code' => 'TL-AL',
     'name' => 'Aileu',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'AN',
+    'code' => 'TL-AN',
     'name' => 'Ainaro',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'BA',
+    'code' => 'TL-BA',
     'name' => 'Baucau',
     'type' => 'District',
   ),
   3 => 
   array (
-    'code' => 'BO',
+    'code' => 'TL-BO',
     'name' => 'Bobonaro',
     'type' => 'District',
   ),
   4 => 
   array (
-    'code' => 'CO',
+    'code' => 'TL-CO',
     'name' => 'Cova Lima',
     'type' => 'District',
   ),
   5 => 
   array (
-    'code' => 'DI',
+    'code' => 'TL-DI',
     'name' => 'Díli',
     'type' => 'District',
   ),
   6 => 
   array (
-    'code' => 'ER',
+    'code' => 'TL-ER',
     'name' => 'Ermera',
     'type' => 'District',
   ),
   7 => 
   array (
-    'code' => 'LA',
+    'code' => 'TL-LA',
     'name' => 'Lautem',
     'type' => 'District',
   ),
   8 => 
   array (
-    'code' => 'LI',
+    'code' => 'TL-LI',
     'name' => 'Liquiça',
     'type' => 'District',
   ),
   9 => 
   array (
-    'code' => 'MF',
+    'code' => 'TL-MF',
     'name' => 'Manufahi',
     'type' => 'District',
   ),
   10 => 
   array (
-    'code' => 'MT',
+    'code' => 'TL-MT',
     'name' => 'Manatuto',
     'type' => 'District',
   ),
   11 => 
   array (
-    'code' => 'OE',
+    'code' => 'TL-OE',
     'name' => 'Oecussi',
     'type' => 'District',
   ),
   12 => 
   array (
-    'code' => 'VI',
+    'code' => 'TL-VI',
     'name' => 'Viqueque',
     'type' => 'District',
   ),

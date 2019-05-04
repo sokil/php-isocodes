@@ -1,37 +1,37 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'B',
+    'code' => 'GM-B',
     'name' => 'Banjul',
     'type' => 'City',
   ),
   1 => 
   array (
-    'code' => 'L',
+    'code' => 'GM-L',
     'name' => 'Lower River',
     'type' => 'Division',
   ),
   2 => 
   array (
-    'code' => 'M',
+    'code' => 'GM-M',
     'name' => 'Central River',
     'type' => 'Division',
   ),
   3 => 
   array (
-    'code' => 'N',
+    'code' => 'GM-N',
     'name' => 'North Bank',
     'type' => 'Division',
   ),
   4 => 
   array (
-    'code' => 'U',
+    'code' => 'GM-U',
     'name' => 'Upper River',
     'type' => 'Division',
   ),
   5 => 
   array (
-    'code' => 'W',
+    'code' => 'GM-W',
     'name' => 'Western',
     'type' => 'Division',
   ),

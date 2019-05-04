@@ -1,103 +1,103 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AG',
+    'code' => 'MU-AG',
     'name' => 'Agalega Islands',
     'type' => 'Dependency',
   ),
   1 => 
   array (
-    'code' => 'BL',
+    'code' => 'MU-BL',
     'name' => 'Black River',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'BR',
+    'code' => 'MU-BR',
     'name' => 'Beau Bassin-Rose Hill',
     'type' => 'City',
   ),
   3 => 
   array (
-    'code' => 'CC',
+    'code' => 'MU-CC',
     'name' => 'Cargados Carajos Shoals',
     'type' => 'Dependency',
   ),
   4 => 
   array (
-    'code' => 'CU',
+    'code' => 'MU-CU',
     'name' => 'Curepipe',
     'type' => 'City',
   ),
   5 => 
   array (
-    'code' => 'FL',
+    'code' => 'MU-FL',
     'name' => 'Flacq',
     'type' => 'District',
   ),
   6 => 
   array (
-    'code' => 'GP',
+    'code' => 'MU-GP',
     'name' => 'Grand Port',
     'type' => 'District',
   ),
   7 => 
   array (
-    'code' => 'MO',
+    'code' => 'MU-MO',
     'name' => 'Moka',
     'type' => 'District',
   ),
   8 => 
   array (
-    'code' => 'PA',
+    'code' => 'MU-PA',
     'name' => 'Pamplemousses',
     'type' => 'District',
   ),
   9 => 
   array (
-    'code' => 'PL',
+    'code' => 'MU-PL',
     'name' => 'Port Louis',
     'type' => 'District',
   ),
   10 => 
   array (
-    'code' => 'PU',
+    'code' => 'MU-PU',
     'name' => 'Port Louis',
     'type' => 'City',
   ),
   11 => 
   array (
-    'code' => 'PW',
+    'code' => 'MU-PW',
     'name' => 'Plaines Wilhems',
     'type' => 'District',
   ),
   12 => 
   array (
-    'code' => 'QB',
+    'code' => 'MU-QB',
     'name' => 'Quatre Bornes',
     'type' => 'City',
   ),
   13 => 
   array (
-    'code' => 'RO',
+    'code' => 'MU-RO',
     'name' => 'Rodrigues Island',
     'type' => 'Dependency',
   ),
   14 => 
   array (
-    'code' => 'RP',
+    'code' => 'MU-RP',
     'name' => 'Rivière du Rempart',
     'type' => 'District',
   ),
   15 => 
   array (
-    'code' => 'SA',
+    'code' => 'MU-SA',
     'name' => 'Savanne',
     'type' => 'District',
   ),
   16 => 
   array (
-    'code' => 'VP',
+    'code' => 'MU-VP',
     'name' => 'Vacoas-Phoenix',
     'type' => 'City',
   ),

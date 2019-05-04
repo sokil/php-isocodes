@@ -1,79 +1,79 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AB',
+    'code' => 'CA-AB',
     'name' => 'Alberta',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'BC',
+    'code' => 'CA-BC',
     'name' => 'British Columbia',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'MB',
+    'code' => 'CA-MB',
     'name' => 'Manitoba',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'NB',
+    'code' => 'CA-NB',
     'name' => 'New Brunswick',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'NL',
+    'code' => 'CA-NL',
     'name' => 'Newfoundland and Labrador',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'NS',
+    'code' => 'CA-NS',
     'name' => 'Nova Scotia',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'NT',
+    'code' => 'CA-NT',
     'name' => 'Northwest Territories',
     'type' => 'Territory',
   ),
   7 => 
   array (
-    'code' => 'NU',
+    'code' => 'CA-NU',
     'name' => 'Nunavut',
     'type' => 'Territory',
   ),
   8 => 
   array (
-    'code' => 'ON',
+    'code' => 'CA-ON',
     'name' => 'Ontario',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'PE',
+    'code' => 'CA-PE',
     'name' => 'Prince Edward Island',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'QC',
+    'code' => 'CA-QC',
     'name' => 'Quebec',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'SK',
+    'code' => 'CA-SK',
     'name' => 'Saskatchewan',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'YT',
+    'code' => 'CA-YT',
     'name' => 'Yukon Territory',
     'type' => 'Territory',
   ),

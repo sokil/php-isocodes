@@ -1,55 +1,55 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BA',
+    'code' => 'OM-BA',
     'name' => 'Al Bāţinah',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'BU',
+    'code' => 'OM-BU',
     'name' => 'Al Buraymī',
     'type' => 'Governorate',
   ),
   2 => 
   array (
-    'code' => 'DA',
+    'code' => 'OM-DA',
     'name' => 'Ad Dākhilīya',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'MA',
+    'code' => 'OM-MA',
     'name' => 'Masqaţ',
     'type' => 'Governorate',
   ),
   4 => 
   array (
-    'code' => 'MU',
+    'code' => 'OM-MU',
     'name' => 'Musandam',
     'type' => 'Governorate',
   ),
   5 => 
   array (
-    'code' => 'SH',
+    'code' => 'OM-SH',
     'name' => 'Ash Sharqīyah',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'WU',
+    'code' => 'OM-WU',
     'name' => 'Al Wusţá',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'ZA',
+    'code' => 'OM-ZA',
     'name' => 'Az̧ Z̧āhirah',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'ZU',
+    'code' => 'OM-ZU',
     'name' => 'Z̧ufār',
     'type' => 'Governorate',
   ),

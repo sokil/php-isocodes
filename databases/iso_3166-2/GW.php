@@ -1,73 +1,73 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BA',
+    'code' => 'GW-BA',
     'name' => 'Bafatá',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'BL',
+    'code' => 'GW-BL',
     'name' => 'Bolama',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'BM',
+    'code' => 'GW-BM',
     'name' => 'Biombo',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'BS',
+    'code' => 'GW-BS',
     'name' => 'Bissau',
     'type' => 'Autonomous sector',
   ),
   4 => 
   array (
-    'code' => 'CA',
+    'code' => 'GW-CA',
     'name' => 'Cacheu',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'GA',
+    'code' => 'GW-GA',
     'name' => 'Gabú',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'L',
+    'code' => 'GW-L',
     'name' => 'Leste',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'N',
+    'code' => 'GW-N',
     'name' => 'Norte',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'OI',
+    'code' => 'GW-OI',
     'name' => 'Oio',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => 'QU',
+    'code' => 'GW-QU',
     'name' => 'Quinara',
     'type' => 'Region',
   ),
   10 => 
   array (
-    'code' => 'S',
+    'code' => 'GW-S',
     'name' => 'Sul',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'TO',
+    'code' => 'GW-TO',
     'name' => 'Tombali',
     'type' => 'Region',
   ),

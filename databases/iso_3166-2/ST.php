@@ -1,13 +1,13 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'P',
+    'code' => 'ST-P',
     'name' => 'Príncipe',
     'type' => 'Municipality',
   ),
   1 => 
   array (
-    'code' => 'S',
+    'code' => 'ST-S',
     'name' => 'São Tomé',
     'type' => 'Municipality',
   ),

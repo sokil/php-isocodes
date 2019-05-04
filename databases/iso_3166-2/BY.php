@@ -1,43 +1,43 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BR',
+    'code' => 'BY-BR',
     'name' => 'Brèsckaja voblasc\'',
     'type' => 'Oblast',
   ),
   1 => 
   array (
-    'code' => 'HM',
+    'code' => 'BY-HM',
     'name' => 'Horad Minsk',
     'type' => 'City',
   ),
   2 => 
   array (
-    'code' => 'HO',
+    'code' => 'BY-HO',
     'name' => 'Homel\'skaja voblasc\'',
     'type' => 'Oblast',
   ),
   3 => 
   array (
-    'code' => 'HR',
+    'code' => 'BY-HR',
     'name' => 'Hrodzenskaja voblasc\'',
     'type' => 'Oblast',
   ),
   4 => 
   array (
-    'code' => 'MA',
+    'code' => 'BY-MA',
     'name' => 'Mahilëuskaja voblasc\'',
     'type' => 'Oblast',
   ),
   5 => 
   array (
-    'code' => 'MI',
+    'code' => 'BY-MI',
     'name' => 'Minskaja voblasc\'',
     'type' => 'Oblast',
   ),
   6 => 
   array (
-    'code' => 'VI',
+    'code' => 'BY-VI',
     'name' => 'Vicebskaja voblasc\'',
     'type' => 'Oblast',
   ),

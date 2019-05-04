@@ -1,97 +1,97 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BB',
+    'code' => 'BI-BB',
     'name' => 'Bubanza',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'BL',
+    'code' => 'BI-BL',
     'name' => 'Bujumbura Rural',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'BM',
+    'code' => 'BI-BM',
     'name' => 'Bujumbura Mairie',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'BR',
+    'code' => 'BI-BR',
     'name' => 'Bururi',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'CA',
+    'code' => 'BI-CA',
     'name' => 'Cankuzo',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'CI',
+    'code' => 'BI-CI',
     'name' => 'Cibitoke',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'GI',
+    'code' => 'BI-GI',
     'name' => 'Gitega',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'KI',
+    'code' => 'BI-KI',
     'name' => 'Kirundo',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'KR',
+    'code' => 'BI-KR',
     'name' => 'Karuzi',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'KY',
+    'code' => 'BI-KY',
     'name' => 'Kayanza',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'MA',
+    'code' => 'BI-MA',
     'name' => 'Makamba',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'MU',
+    'code' => 'BI-MU',
     'name' => 'Muramvya',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'MW',
+    'code' => 'BI-MW',
     'name' => 'Mwaro',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => 'NG',
+    'code' => 'BI-NG',
     'name' => 'Ngozi',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => 'RT',
+    'code' => 'BI-RT',
     'name' => 'Rutana',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'RY',
+    'code' => 'BI-RY',
     'name' => 'Ruyigi',
     'type' => 'Province',
   ),

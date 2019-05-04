@@ -1,97 +1,97 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'DS',
+    'code' => 'PL-DS',
     'name' => 'Dolnośląskie',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'KP',
+    'code' => 'PL-KP',
     'name' => 'Kujawsko-pomorskie',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'LB',
+    'code' => 'PL-LB',
     'name' => 'Lubuskie',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'LD',
+    'code' => 'PL-LD',
     'name' => 'Łódzkie',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'LU',
+    'code' => 'PL-LU',
     'name' => 'Lubelskie',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'MA',
+    'code' => 'PL-MA',
     'name' => 'Małopolskie',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'MZ',
+    'code' => 'PL-MZ',
     'name' => 'Mazowieckie',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'OP',
+    'code' => 'PL-OP',
     'name' => 'Opolskie',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'PD',
+    'code' => 'PL-PD',
     'name' => 'Podlaskie',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'PK',
+    'code' => 'PL-PK',
     'name' => 'Podkarpackie',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'PM',
+    'code' => 'PL-PM',
     'name' => 'Pomorskie',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'SK',
+    'code' => 'PL-SK',
     'name' => 'Świętokrzyskie',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'SL',
+    'code' => 'PL-SL',
     'name' => 'Śląskie',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => 'WN',
+    'code' => 'PL-WN',
     'name' => 'Warmińsko-mazurskie',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => 'WP',
+    'code' => 'PL-WP',
     'name' => 'Wielkopolskie',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'ZP',
+    'code' => 'PL-ZP',
     'name' => 'Zachodniopomorskie',
     'type' => 'Province',
   ),

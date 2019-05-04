@@ -1,109 +1,109 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AW',
+    'code' => 'SO-AW',
     'name' => 'Awdal',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'BK',
+    'code' => 'SO-BK',
     'name' => 'Bakool',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'BN',
+    'code' => 'SO-BN',
     'name' => 'Banaadir',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'BR',
+    'code' => 'SO-BR',
     'name' => 'Bari',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'BY',
+    'code' => 'SO-BY',
     'name' => 'Bay',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'GA',
+    'code' => 'SO-GA',
     'name' => 'Galguduud',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'GE',
+    'code' => 'SO-GE',
     'name' => 'Gedo',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'HI',
+    'code' => 'SO-HI',
     'name' => 'Hiirsan',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'JD',
+    'code' => 'SO-JD',
     'name' => 'Jubbada Dhexe',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => 'JH',
+    'code' => 'SO-JH',
     'name' => 'Jubbada Hoose',
     'type' => 'Region',
   ),
   10 => 
   array (
-    'code' => 'MU',
+    'code' => 'SO-MU',
     'name' => 'Mudug',
     'type' => 'Region',
   ),
   11 => 
   array (
-    'code' => 'NU',
+    'code' => 'SO-NU',
     'name' => 'Nugaal',
     'type' => 'Region',
   ),
   12 => 
   array (
-    'code' => 'SA',
+    'code' => 'SO-SA',
     'name' => 'Saneag',
     'type' => 'Region',
   ),
   13 => 
   array (
-    'code' => 'SD',
+    'code' => 'SO-SD',
     'name' => 'Shabeellaha Dhexe',
     'type' => 'Region',
   ),
   14 => 
   array (
-    'code' => 'SH',
+    'code' => 'SO-SH',
     'name' => 'Shabeellaha Hoose',
     'type' => 'Region',
   ),
   15 => 
   array (
-    'code' => 'SO',
+    'code' => 'SO-SO',
     'name' => 'Sool',
     'type' => 'Region',
   ),
   16 => 
   array (
-    'code' => 'TO',
+    'code' => 'SO-TO',
     'name' => 'Togdheer',
     'type' => 'Region',
   ),
   17 => 
   array (
-    'code' => 'WO',
+    'code' => 'SO-WO',
     'name' => 'Woqooyi Galbeed',
     'type' => 'Region',
   ),

@@ -1,145 +1,145 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'A',
+    'code' => 'EC-A',
     'name' => 'Azuay',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'B',
+    'code' => 'EC-B',
     'name' => 'Bolívar',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'C',
+    'code' => 'EC-C',
     'name' => 'Carchi',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'D',
+    'code' => 'EC-D',
     'name' => 'Orellana',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'E',
+    'code' => 'EC-E',
     'name' => 'Esmeraldas',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'F',
+    'code' => 'EC-F',
     'name' => 'Cañar',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'G',
+    'code' => 'EC-G',
     'name' => 'Guayas',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'H',
+    'code' => 'EC-H',
     'name' => 'Chimborazo',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'I',
+    'code' => 'EC-I',
     'name' => 'Imbabura',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'L',
+    'code' => 'EC-L',
     'name' => 'Loja',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'M',
+    'code' => 'EC-M',
     'name' => 'Manabí',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'N',
+    'code' => 'EC-N',
     'name' => 'Napo',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'O',
+    'code' => 'EC-O',
     'name' => 'El Oro',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => 'P',
+    'code' => 'EC-P',
     'name' => 'Pichincha',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => 'R',
+    'code' => 'EC-R',
     'name' => 'Los Ríos',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'S',
+    'code' => 'EC-S',
     'name' => 'Morona-Santiago',
     'type' => 'Province',
   ),
   16 => 
   array (
-    'code' => 'SD',
+    'code' => 'EC-SD',
     'name' => 'Santo Domingo de los Tsáchilas',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => 'SE',
+    'code' => 'EC-SE',
     'name' => 'Santa Elena',
     'type' => 'Province',
   ),
   18 => 
   array (
-    'code' => 'T',
+    'code' => 'EC-T',
     'name' => 'Tungurahua',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => 'U',
+    'code' => 'EC-U',
     'name' => 'Sucumbíos',
     'type' => 'Province',
   ),
   20 => 
   array (
-    'code' => 'W',
+    'code' => 'EC-W',
     'name' => 'Galápagos',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => 'X',
+    'code' => 'EC-X',
     'name' => 'Cotopaxi',
     'type' => 'Province',
   ),
   22 => 
   array (
-    'code' => 'Y',
+    'code' => 'EC-Y',
     'name' => 'Pastaza',
     'type' => 'Province',
   ),
   23 => 
   array (
-    'code' => 'Z',
+    'code' => 'EC-Z',
     'name' => 'Zamora-Chinchipe',
     'type' => 'Province',
   ),

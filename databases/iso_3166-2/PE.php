@@ -1,157 +1,157 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AMA',
+    'code' => 'PE-AMA',
     'name' => 'Amazonas',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'ANC',
+    'code' => 'PE-ANC',
     'name' => 'Ancash',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'APU',
+    'code' => 'PE-APU',
     'name' => 'Apurímac',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'ARE',
+    'code' => 'PE-ARE',
     'name' => 'Arequipa',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'AYA',
+    'code' => 'PE-AYA',
     'name' => 'Ayacucho',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'CAJ',
+    'code' => 'PE-CAJ',
     'name' => 'Cajamarca',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'CAL',
+    'code' => 'PE-CAL',
     'name' => 'El Callao',
     'type' => 'Constitutional province',
   ),
   7 => 
   array (
-    'code' => 'CUS',
+    'code' => 'PE-CUS',
     'name' => 'Cusco [Cuzco]',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'HUC',
+    'code' => 'PE-HUC',
     'name' => 'Huánuco',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => 'HUV',
+    'code' => 'PE-HUV',
     'name' => 'Huancavelica',
     'type' => 'Region',
   ),
   10 => 
   array (
-    'code' => 'ICA',
+    'code' => 'PE-ICA',
     'name' => 'Ica',
     'type' => 'Region',
   ),
   11 => 
   array (
-    'code' => 'JUN',
+    'code' => 'PE-JUN',
     'name' => 'Junín',
     'type' => 'Region',
   ),
   12 => 
   array (
-    'code' => 'LAL',
+    'code' => 'PE-LAL',
     'name' => 'La Libertad',
     'type' => 'Region',
   ),
   13 => 
   array (
-    'code' => 'LAM',
+    'code' => 'PE-LAM',
     'name' => 'Lambayeque',
     'type' => 'Region',
   ),
   14 => 
   array (
-    'code' => 'LIM',
+    'code' => 'PE-LIM',
     'name' => 'Lima',
     'type' => 'Region',
   ),
   15 => 
   array (
-    'code' => 'LMA',
+    'code' => 'PE-LMA',
     'name' => 'Municipalidad Metropolitana de Lima',
     'type' => 'Municipality',
   ),
   16 => 
   array (
-    'code' => 'LOR',
+    'code' => 'PE-LOR',
     'name' => 'Loreto',
     'type' => 'Region',
   ),
   17 => 
   array (
-    'code' => 'MDD',
+    'code' => 'PE-MDD',
     'name' => 'Madre de Dios',
     'type' => 'Region',
   ),
   18 => 
   array (
-    'code' => 'MOQ',
+    'code' => 'PE-MOQ',
     'name' => 'Moquegua',
     'type' => 'Region',
   ),
   19 => 
   array (
-    'code' => 'PAS',
+    'code' => 'PE-PAS',
     'name' => 'Pasco',
     'type' => 'Region',
   ),
   20 => 
   array (
-    'code' => 'PIU',
+    'code' => 'PE-PIU',
     'name' => 'Piura',
     'type' => 'Region',
   ),
   21 => 
   array (
-    'code' => 'PUN',
+    'code' => 'PE-PUN',
     'name' => 'Puno',
     'type' => 'Region',
   ),
   22 => 
   array (
-    'code' => 'SAM',
+    'code' => 'PE-SAM',
     'name' => 'San Martín',
     'type' => 'Region',
   ),
   23 => 
   array (
-    'code' => 'TAC',
+    'code' => 'PE-TAC',
     'name' => 'Tacna',
     'type' => 'Region',
   ),
   24 => 
   array (
-    'code' => 'TUM',
+    'code' => 'PE-TUM',
     'name' => 'Tumbes',
     'type' => 'Region',
   ),
   25 => 
   array (
-    'code' => 'UCA',
+    'code' => 'PE-UCA',
     'name' => 'Ucayali',
     'type' => 'Region',
   ),

@@ -1,205 +1,205 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AH',
+    'code' => 'CN-AH',
     'name' => 'Anhui Sheng',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'BJ',
+    'code' => 'CN-BJ',
     'name' => 'Beijing Shi',
     'type' => 'Municipality',
   ),
   2 => 
   array (
-    'code' => 'CQ',
+    'code' => 'CN-CQ',
     'name' => 'Chongqing Shi',
     'type' => 'Municipality',
   ),
   3 => 
   array (
-    'code' => 'FJ',
+    'code' => 'CN-FJ',
     'name' => 'Fujian Sheng',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'GD',
+    'code' => 'CN-GD',
     'name' => 'Guangdong Sheng',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'GS',
+    'code' => 'CN-GS',
     'name' => 'Gansu Sheng',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'GX',
+    'code' => 'CN-GX',
     'name' => 'Guangxi Zhuangzu Zizhiqu',
     'type' => 'Autonomous region',
   ),
   7 => 
   array (
-    'code' => 'GZ',
+    'code' => 'CN-GZ',
     'name' => 'Guizhou Sheng',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'HA',
+    'code' => 'CN-HA',
     'name' => 'Henan Sheng',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'HB',
+    'code' => 'CN-HB',
     'name' => 'Hubei Sheng',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'HE',
+    'code' => 'CN-HE',
     'name' => 'Hebei Sheng',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'HI',
+    'code' => 'CN-HI',
     'name' => 'Hainan Sheng',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'HK',
+    'code' => 'CN-HK',
     'name' => 'Hong Kong SAR (see also separate country code entry under HK)',
     'type' => 'Special administrative region',
   ),
   13 => 
   array (
-    'code' => 'HL',
+    'code' => 'CN-HL',
     'name' => 'Heilongjiang Sheng',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => 'HN',
+    'code' => 'CN-HN',
     'name' => 'Hunan Sheng',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'JL',
+    'code' => 'CN-JL',
     'name' => 'Jilin Sheng',
     'type' => 'Province',
   ),
   16 => 
   array (
-    'code' => 'JS',
+    'code' => 'CN-JS',
     'name' => 'Jiangsu Sheng',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => 'JX',
+    'code' => 'CN-JX',
     'name' => 'Jiangxi Sheng',
     'type' => 'Province',
   ),
   18 => 
   array (
-    'code' => 'LN',
+    'code' => 'CN-LN',
     'name' => 'Liaoning Sheng',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => 'MO',
+    'code' => 'CN-MO',
     'name' => 'Macao SAR (see also separate country code entry under MO)',
     'type' => 'Special administrative region',
   ),
   20 => 
   array (
-    'code' => 'NM',
+    'code' => 'CN-NM',
     'name' => 'Nei Mongol Zizhiqu',
     'type' => 'Autonomous region',
   ),
   21 => 
   array (
-    'code' => 'NX',
+    'code' => 'CN-NX',
     'name' => 'Ningxia Huizi Zizhiqu',
     'type' => 'Autonomous region',
   ),
   22 => 
   array (
-    'code' => 'QH',
+    'code' => 'CN-QH',
     'name' => 'Qinghai Sheng',
     'type' => 'Province',
   ),
   23 => 
   array (
-    'code' => 'SC',
+    'code' => 'CN-SC',
     'name' => 'Sichuan Sheng',
     'type' => 'Province',
   ),
   24 => 
   array (
-    'code' => 'SD',
+    'code' => 'CN-SD',
     'name' => 'Shandong Sheng',
     'type' => 'Province',
   ),
   25 => 
   array (
-    'code' => 'SH',
+    'code' => 'CN-SH',
     'name' => 'Shanghai Shi',
     'type' => 'Municipality',
   ),
   26 => 
   array (
-    'code' => 'SN',
+    'code' => 'CN-SN',
     'name' => 'Shaanxi Sheng',
     'type' => 'Province',
   ),
   27 => 
   array (
-    'code' => 'SX',
+    'code' => 'CN-SX',
     'name' => 'Shanxi Sheng',
     'type' => 'Province',
   ),
   28 => 
   array (
-    'code' => 'TJ',
+    'code' => 'CN-TJ',
     'name' => 'Tianjin Shi',
     'type' => 'Municipality',
   ),
   29 => 
   array (
-    'code' => 'TW',
+    'code' => 'CN-TW',
     'name' => 'Taiwan Sheng (see also separate country code entry under TW)',
     'type' => 'Province',
   ),
   30 => 
   array (
-    'code' => 'XJ',
+    'code' => 'CN-XJ',
     'name' => 'Xinjiang Uygur Zizhiqu',
     'type' => 'Autonomous region',
   ),
   31 => 
   array (
-    'code' => 'XZ',
+    'code' => 'CN-XZ',
     'name' => 'Xizang Zizhiqu',
     'type' => 'Autonomous region',
   ),
   32 => 
   array (
-    'code' => 'YN',
+    'code' => 'CN-YN',
     'name' => 'Yunnan Sheng',
     'type' => 'Province',
   ),
   33 => 
   array (
-    'code' => 'ZJ',
+    'code' => 'CN-ZJ',
     'name' => 'Zhejiang Sheng',
     'type' => 'Province',
   ),

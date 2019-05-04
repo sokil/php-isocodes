@@ -1,61 +1,61 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BR',
+    'code' => 'SR-BR',
     'name' => 'Brokopondo',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'CM',
+    'code' => 'SR-CM',
     'name' => 'Commewijne',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'CR',
+    'code' => 'SR-CR',
     'name' => 'Coronie',
     'type' => 'District',
   ),
   3 => 
   array (
-    'code' => 'MA',
+    'code' => 'SR-MA',
     'name' => 'Marowijne',
     'type' => 'District',
   ),
   4 => 
   array (
-    'code' => 'NI',
+    'code' => 'SR-NI',
     'name' => 'Nickerie',
     'type' => 'District',
   ),
   5 => 
   array (
-    'code' => 'PM',
+    'code' => 'SR-PM',
     'name' => 'Paramaribo',
     'type' => 'District',
   ),
   6 => 
   array (
-    'code' => 'PR',
+    'code' => 'SR-PR',
     'name' => 'Para',
     'type' => 'District',
   ),
   7 => 
   array (
-    'code' => 'SA',
+    'code' => 'SR-SA',
     'name' => 'Saramacca',
     'type' => 'District',
   ),
   8 => 
   array (
-    'code' => 'SI',
+    'code' => 'SR-SI',
     'name' => 'Sipaliwini',
     'type' => 'District',
   ),
   9 => 
   array (
-    'code' => 'WA',
+    'code' => 'SR-WA',
     'name' => 'Wanica',
     'type' => 'District',
   ),

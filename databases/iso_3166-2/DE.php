@@ -1,97 +1,97 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BB',
+    'code' => 'DE-BB',
     'name' => 'Brandenburg',
     'type' => 'State',
   ),
   1 => 
   array (
-    'code' => 'BE',
+    'code' => 'DE-BE',
     'name' => 'Berlin',
     'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'BW',
+    'code' => 'DE-BW',
     'name' => 'Baden-Württemberg',
     'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'BY',
+    'code' => 'DE-BY',
     'name' => 'Bayern',
     'type' => 'State',
   ),
   4 => 
   array (
-    'code' => 'HB',
+    'code' => 'DE-HB',
     'name' => 'Bremen',
     'type' => 'State',
   ),
   5 => 
   array (
-    'code' => 'HE',
+    'code' => 'DE-HE',
     'name' => 'Hessen',
     'type' => 'State',
   ),
   6 => 
   array (
-    'code' => 'HH',
+    'code' => 'DE-HH',
     'name' => 'Hamburg',
     'type' => 'State',
   ),
   7 => 
   array (
-    'code' => 'MV',
+    'code' => 'DE-MV',
     'name' => 'Mecklenburg-Vorpommern',
     'type' => 'State',
   ),
   8 => 
   array (
-    'code' => 'NI',
+    'code' => 'DE-NI',
     'name' => 'Niedersachsen',
     'type' => 'State',
   ),
   9 => 
   array (
-    'code' => 'NW',
+    'code' => 'DE-NW',
     'name' => 'Nordrhein-Westfalen',
     'type' => 'State',
   ),
   10 => 
   array (
-    'code' => 'RP',
+    'code' => 'DE-RP',
     'name' => 'Rheinland-Pfalz',
     'type' => 'State',
   ),
   11 => 
   array (
-    'code' => 'SH',
+    'code' => 'DE-SH',
     'name' => 'Schleswig-Holstein',
     'type' => 'State',
   ),
   12 => 
   array (
-    'code' => 'SL',
+    'code' => 'DE-SL',
     'name' => 'Saarland',
     'type' => 'State',
   ),
   13 => 
   array (
-    'code' => 'SN',
+    'code' => 'DE-SN',
     'name' => 'Sachsen',
     'type' => 'State',
   ),
   14 => 
   array (
-    'code' => 'ST',
+    'code' => 'DE-ST',
     'name' => 'Sachsen-Anhalt',
     'type' => 'State',
   ),
   15 => 
   array (
-    'code' => 'TH',
+    'code' => 'DE-TH',
     'name' => 'Thüringen',
     'type' => 'State',
   ),

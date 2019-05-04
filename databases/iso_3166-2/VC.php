@@ -1,37 +1,37 @@
 <?php return array (
   0 => 
   array (
-    'code' => '01',
+    'code' => 'VC-01',
     'name' => 'Charlotte',
     'type' => 'Parish',
   ),
   1 => 
   array (
-    'code' => '02',
+    'code' => 'VC-02',
     'name' => 'Saint Andrew',
     'type' => 'Parish',
   ),
   2 => 
   array (
-    'code' => '03',
+    'code' => 'VC-03',
     'name' => 'Saint David',
     'type' => 'Parish',
   ),
   3 => 
   array (
-    'code' => '04',
+    'code' => 'VC-04',
     'name' => 'Saint George',
     'type' => 'Parish',
   ),
   4 => 
   array (
-    'code' => '05',
+    'code' => 'VC-05',
     'name' => 'Saint Patrick',
     'type' => 'Parish',
   ),
   5 => 
   array (
-    'code' => '06',
+    'code' => 'VC-06',
     'name' => 'Grenadines',
     'type' => 'Parish',
   ),

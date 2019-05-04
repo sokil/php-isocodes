@@ -1,505 +1,505 @@
 <?php return array (
   0 => 
   array (
-    'code' => '101',
+    'code' => 'UG-101',
     'name' => 'Kalangala',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => '102',
+    'code' => 'UG-102',
     'name' => 'Kampala',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => '103',
+    'code' => 'UG-103',
     'name' => 'Kiboga',
     'type' => 'District',
   ),
   3 => 
   array (
-    'code' => '104',
+    'code' => 'UG-104',
     'name' => 'Luwero',
     'type' => 'District',
   ),
   4 => 
   array (
-    'code' => '105',
+    'code' => 'UG-105',
     'name' => 'Masaka',
     'type' => 'District',
   ),
   5 => 
   array (
-    'code' => '106',
+    'code' => 'UG-106',
     'name' => 'Mpigi',
     'type' => 'District',
   ),
   6 => 
   array (
-    'code' => '107',
+    'code' => 'UG-107',
     'name' => 'Mubende',
     'type' => 'District',
   ),
   7 => 
   array (
-    'code' => '108',
+    'code' => 'UG-108',
     'name' => 'Mukono',
     'type' => 'District',
   ),
   8 => 
   array (
-    'code' => '109',
+    'code' => 'UG-109',
     'name' => 'Nakasongola',
     'type' => 'District',
   ),
   9 => 
   array (
-    'code' => '110',
+    'code' => 'UG-110',
     'name' => 'Rakai',
     'type' => 'District',
   ),
   10 => 
   array (
-    'code' => '111',
+    'code' => 'UG-111',
     'name' => 'Sembabule',
     'type' => 'District',
   ),
   11 => 
   array (
-    'code' => '112',
+    'code' => 'UG-112',
     'name' => 'Kayunga',
     'type' => 'District',
   ),
   12 => 
   array (
-    'code' => '113',
+    'code' => 'UG-113',
     'name' => 'Wakiso',
     'type' => 'District',
   ),
   13 => 
   array (
-    'code' => '114',
+    'code' => 'UG-114',
     'name' => 'Mityana',
     'type' => 'District',
   ),
   14 => 
   array (
-    'code' => '115',
+    'code' => 'UG-115',
     'name' => 'Nakaseke',
     'type' => 'District',
   ),
   15 => 
   array (
-    'code' => '116',
+    'code' => 'UG-116',
     'name' => 'Lyantonde',
     'type' => 'District',
   ),
   16 => 
   array (
-    'code' => '201',
+    'code' => 'UG-201',
     'name' => 'Bugiri',
     'type' => 'District',
   ),
   17 => 
   array (
-    'code' => '202',
+    'code' => 'UG-202',
     'name' => 'Busia',
     'type' => 'District',
   ),
   18 => 
   array (
-    'code' => '203',
+    'code' => 'UG-203',
     'name' => 'Iganga',
     'type' => 'District',
   ),
   19 => 
   array (
-    'code' => '204',
+    'code' => 'UG-204',
     'name' => 'Jinja',
     'type' => 'District',
   ),
   20 => 
   array (
-    'code' => '205',
+    'code' => 'UG-205',
     'name' => 'Kamuli',
     'type' => 'District',
   ),
   21 => 
   array (
-    'code' => '206',
+    'code' => 'UG-206',
     'name' => 'Kapchorwa',
     'type' => 'District',
   ),
   22 => 
   array (
-    'code' => '207',
+    'code' => 'UG-207',
     'name' => 'Katakwi',
     'type' => 'District',
   ),
   23 => 
   array (
-    'code' => '208',
+    'code' => 'UG-208',
     'name' => 'Kumi',
     'type' => 'District',
   ),
   24 => 
   array (
-    'code' => '209',
+    'code' => 'UG-209',
     'name' => 'Mbale',
     'type' => 'District',
   ),
   25 => 
   array (
-    'code' => '210',
+    'code' => 'UG-210',
     'name' => 'Pallisa',
     'type' => 'District',
   ),
   26 => 
   array (
-    'code' => '211',
+    'code' => 'UG-211',
     'name' => 'Soroti',
     'type' => 'District',
   ),
   27 => 
   array (
-    'code' => '212',
+    'code' => 'UG-212',
     'name' => 'Tororo',
     'type' => 'District',
   ),
   28 => 
   array (
-    'code' => '213',
+    'code' => 'UG-213',
     'name' => 'Kaberamaido',
     'type' => 'District',
   ),
   29 => 
   array (
-    'code' => '214',
+    'code' => 'UG-214',
     'name' => 'Mayuge',
     'type' => 'District',
   ),
   30 => 
   array (
-    'code' => '215',
+    'code' => 'UG-215',
     'name' => 'Sironko',
     'type' => 'District',
   ),
   31 => 
   array (
-    'code' => '216',
+    'code' => 'UG-216',
     'name' => 'Amuria',
     'type' => 'District',
   ),
   32 => 
   array (
-    'code' => '217',
+    'code' => 'UG-217',
     'name' => 'Budaka',
     'type' => 'District',
   ),
   33 => 
   array (
-    'code' => '218',
+    'code' => 'UG-218',
     'name' => 'Bukwa',
     'type' => 'District',
   ),
   34 => 
   array (
-    'code' => '219',
+    'code' => 'UG-219',
     'name' => 'Butaleja',
     'type' => 'District',
   ),
   35 => 
   array (
-    'code' => '220',
+    'code' => 'UG-220',
     'name' => 'Kaliro',
     'type' => 'District',
   ),
   36 => 
   array (
-    'code' => '221',
+    'code' => 'UG-221',
     'name' => 'Manafwa',
     'type' => 'District',
   ),
   37 => 
   array (
-    'code' => '222',
+    'code' => 'UG-222',
     'name' => 'Namutumba',
     'type' => 'District',
   ),
   38 => 
   array (
-    'code' => '223',
+    'code' => 'UG-223',
     'name' => 'Bududa',
     'type' => 'District',
   ),
   39 => 
   array (
-    'code' => '224',
+    'code' => 'UG-224',
     'name' => 'Bukedea',
     'type' => 'District',
   ),
   40 => 
   array (
-    'code' => '301',
+    'code' => 'UG-301',
     'name' => 'Adjumani',
     'type' => 'District',
   ),
   41 => 
   array (
-    'code' => '302',
+    'code' => 'UG-302',
     'name' => 'Apac',
     'type' => 'District',
   ),
   42 => 
   array (
-    'code' => '303',
+    'code' => 'UG-303',
     'name' => 'Arua',
     'type' => 'District',
   ),
   43 => 
   array (
-    'code' => '304',
+    'code' => 'UG-304',
     'name' => 'Gulu',
     'type' => 'District',
   ),
   44 => 
   array (
-    'code' => '305',
+    'code' => 'UG-305',
     'name' => 'Kitgum',
     'type' => 'District',
   ),
   45 => 
   array (
-    'code' => '306',
+    'code' => 'UG-306',
     'name' => 'Kotido',
     'type' => 'District',
   ),
   46 => 
   array (
-    'code' => '307',
+    'code' => 'UG-307',
     'name' => 'Lira',
     'type' => 'District',
   ),
   47 => 
   array (
-    'code' => '308',
+    'code' => 'UG-308',
     'name' => 'Moroto',
     'type' => 'District',
   ),
   48 => 
   array (
-    'code' => '309',
+    'code' => 'UG-309',
     'name' => 'Moyo',
     'type' => 'District',
   ),
   49 => 
   array (
-    'code' => '310',
+    'code' => 'UG-310',
     'name' => 'Nebbi',
     'type' => 'District',
   ),
   50 => 
   array (
-    'code' => '311',
+    'code' => 'UG-311',
     'name' => 'Nakapiripirit',
     'type' => 'District',
   ),
   51 => 
   array (
-    'code' => '312',
+    'code' => 'UG-312',
     'name' => 'Pader',
     'type' => 'District',
   ),
   52 => 
   array (
-    'code' => '313',
+    'code' => 'UG-313',
     'name' => 'Yumbe',
     'type' => 'District',
   ),
   53 => 
   array (
-    'code' => '314',
+    'code' => 'UG-314',
     'name' => 'Amolatar',
     'type' => 'District',
   ),
   54 => 
   array (
-    'code' => '315',
+    'code' => 'UG-315',
     'name' => 'Kaabong',
     'type' => 'District',
   ),
   55 => 
   array (
-    'code' => '316',
+    'code' => 'UG-316',
     'name' => 'Koboko',
     'type' => 'District',
   ),
   56 => 
   array (
-    'code' => '317',
+    'code' => 'UG-317',
     'name' => 'Abim',
     'type' => 'District',
   ),
   57 => 
   array (
-    'code' => '318',
+    'code' => 'UG-318',
     'name' => 'Dokolo',
     'type' => 'District',
   ),
   58 => 
   array (
-    'code' => '319',
+    'code' => 'UG-319',
     'name' => 'Amuru',
     'type' => 'District',
   ),
   59 => 
   array (
-    'code' => '320',
+    'code' => 'UG-320',
     'name' => 'Maracha',
     'type' => 'District',
   ),
   60 => 
   array (
-    'code' => '321',
+    'code' => 'UG-321',
     'name' => 'Oyam',
     'type' => 'District',
   ),
   61 => 
   array (
-    'code' => '401',
+    'code' => 'UG-401',
     'name' => 'Bundibugyo',
     'type' => 'District',
   ),
   62 => 
   array (
-    'code' => '402',
+    'code' => 'UG-402',
     'name' => 'Bushenyi',
     'type' => 'District',
   ),
   63 => 
   array (
-    'code' => '403',
+    'code' => 'UG-403',
     'name' => 'Hoima',
     'type' => 'District',
   ),
   64 => 
   array (
-    'code' => '404',
+    'code' => 'UG-404',
     'name' => 'Kabale',
     'type' => 'District',
   ),
   65 => 
   array (
-    'code' => '405',
+    'code' => 'UG-405',
     'name' => 'Kabarole',
     'type' => 'District',
   ),
   66 => 
   array (
-    'code' => '406',
+    'code' => 'UG-406',
     'name' => 'Kasese',
     'type' => 'District',
   ),
   67 => 
   array (
-    'code' => '407',
+    'code' => 'UG-407',
     'name' => 'Kibaale',
     'type' => 'District',
   ),
   68 => 
   array (
-    'code' => '408',
+    'code' => 'UG-408',
     'name' => 'Kisoro',
     'type' => 'District',
   ),
   69 => 
   array (
-    'code' => '409',
+    'code' => 'UG-409',
     'name' => 'Masindi',
     'type' => 'District',
   ),
   70 => 
   array (
-    'code' => '410',
+    'code' => 'UG-410',
     'name' => 'Mbarara',
     'type' => 'District',
   ),
   71 => 
   array (
-    'code' => '411',
+    'code' => 'UG-411',
     'name' => 'Ntungamo',
     'type' => 'District',
   ),
   72 => 
   array (
-    'code' => '412',
+    'code' => 'UG-412',
     'name' => 'Rukungiri',
     'type' => 'District',
   ),
   73 => 
   array (
-    'code' => '413',
+    'code' => 'UG-413',
     'name' => 'Kamwenge',
     'type' => 'District',
   ),
   74 => 
   array (
-    'code' => '414',
+    'code' => 'UG-414',
     'name' => 'Kanungu',
     'type' => 'District',
   ),
   75 => 
   array (
-    'code' => '415',
+    'code' => 'UG-415',
     'name' => 'Kyenjojo',
     'type' => 'District',
   ),
   76 => 
   array (
-    'code' => '416',
+    'code' => 'UG-416',
     'name' => 'Ibanda',
     'type' => 'District',
   ),
   77 => 
   array (
-    'code' => '417',
+    'code' => 'UG-417',
     'name' => 'Isingiro',
     'type' => 'District',
   ),
   78 => 
   array (
-    'code' => '418',
+    'code' => 'UG-418',
     'name' => 'Kiruhura',
     'type' => 'District',
   ),
   79 => 
   array (
-    'code' => '419',
+    'code' => 'UG-419',
     'name' => 'Buliisa',
     'type' => 'District',
   ),
   80 => 
   array (
-    'code' => 'C',
+    'code' => 'UG-C',
     'name' => 'Central',
     'type' => 'Geographical region',
   ),
   81 => 
   array (
-    'code' => 'E',
+    'code' => 'UG-E',
     'name' => 'Eastern',
     'type' => 'Geographical region',
   ),
   82 => 
   array (
-    'code' => 'N',
+    'code' => 'UG-N',
     'name' => 'Northern',
     'type' => 'Geographical region',
   ),
   83 => 
   array (
-    'code' => 'W',
+    'code' => 'UG-W',
     'name' => 'Western',
     'type' => 'Geographical region',
   ),

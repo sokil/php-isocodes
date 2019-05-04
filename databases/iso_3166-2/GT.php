@@ -1,133 +1,133 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AV',
+    'code' => 'GT-AV',
     'name' => 'Alta Verapaz',
     'type' => 'Department',
   ),
   1 => 
   array (
-    'code' => 'BV',
+    'code' => 'GT-BV',
     'name' => 'Baja Verapaz',
     'type' => 'Department',
   ),
   2 => 
   array (
-    'code' => 'CM',
+    'code' => 'GT-CM',
     'name' => 'Chimaltenango',
     'type' => 'Department',
   ),
   3 => 
   array (
-    'code' => 'CQ',
+    'code' => 'GT-CQ',
     'name' => 'Chiquimula',
     'type' => 'Department',
   ),
   4 => 
   array (
-    'code' => 'ES',
+    'code' => 'GT-ES',
     'name' => 'Escuintla',
     'type' => 'Department',
   ),
   5 => 
   array (
-    'code' => 'GU',
+    'code' => 'GT-GU',
     'name' => 'Guatemala',
     'type' => 'Department',
   ),
   6 => 
   array (
-    'code' => 'HU',
+    'code' => 'GT-HU',
     'name' => 'Huehuetenango',
     'type' => 'Department',
   ),
   7 => 
   array (
-    'code' => 'IZ',
+    'code' => 'GT-IZ',
     'name' => 'Izabal',
     'type' => 'Department',
   ),
   8 => 
   array (
-    'code' => 'JA',
+    'code' => 'GT-JA',
     'name' => 'Jalapa',
     'type' => 'Department',
   ),
   9 => 
   array (
-    'code' => 'JU',
+    'code' => 'GT-JU',
     'name' => 'Jutiapa',
     'type' => 'Department',
   ),
   10 => 
   array (
-    'code' => 'PE',
+    'code' => 'GT-PE',
     'name' => 'Petén',
     'type' => 'Department',
   ),
   11 => 
   array (
-    'code' => 'PR',
+    'code' => 'GT-PR',
     'name' => 'El Progreso',
     'type' => 'Department',
   ),
   12 => 
   array (
-    'code' => 'QC',
+    'code' => 'GT-QC',
     'name' => 'Quiché',
     'type' => 'Department',
   ),
   13 => 
   array (
-    'code' => 'QZ',
+    'code' => 'GT-QZ',
     'name' => 'Quetzaltenango',
     'type' => 'Department',
   ),
   14 => 
   array (
-    'code' => 'RE',
+    'code' => 'GT-RE',
     'name' => 'Retalhuleu',
     'type' => 'Department',
   ),
   15 => 
   array (
-    'code' => 'SA',
+    'code' => 'GT-SA',
     'name' => 'Sacatepéquez',
     'type' => 'Department',
   ),
   16 => 
   array (
-    'code' => 'SM',
+    'code' => 'GT-SM',
     'name' => 'San Marcos',
     'type' => 'Department',
   ),
   17 => 
   array (
-    'code' => 'SO',
+    'code' => 'GT-SO',
     'name' => 'Sololá',
     'type' => 'Department',
   ),
   18 => 
   array (
-    'code' => 'SR',
+    'code' => 'GT-SR',
     'name' => 'Santa Rosa',
     'type' => 'Department',
   ),
   19 => 
   array (
-    'code' => 'SU',
+    'code' => 'GT-SU',
     'name' => 'Suchitepéquez',
     'type' => 'Department',
   ),
   20 => 
   array (
-    'code' => 'TO',
+    'code' => 'GT-TO',
     'name' => 'Totonicapán',
     'type' => 'Department',
   ),
   21 => 
   array (
-    'code' => 'ZA',
+    'code' => 'GT-ZA',
     'name' => 'Zacapa',
     'type' => 'Department',
   ),

@@ -1,79 +1,79 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'CA',
+    'code' => 'NA-CA',
     'name' => 'Caprivi',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'ER',
+    'code' => 'NA-ER',
     'name' => 'Erongo',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'HA',
+    'code' => 'NA-HA',
     'name' => 'Hardap',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'KA',
+    'code' => 'NA-KA',
     'name' => 'Karas',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'KH',
+    'code' => 'NA-KH',
     'name' => 'Khomas',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'KU',
+    'code' => 'NA-KU',
     'name' => 'Kunene',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'OD',
+    'code' => 'NA-OD',
     'name' => 'Otjozondjupa',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'OH',
+    'code' => 'NA-OH',
     'name' => 'Omaheke',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'OK',
+    'code' => 'NA-OK',
     'name' => 'Okavango',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => 'ON',
+    'code' => 'NA-ON',
     'name' => 'Oshana',
     'type' => 'Region',
   ),
   10 => 
   array (
-    'code' => 'OS',
+    'code' => 'NA-OS',
     'name' => 'Omusati',
     'type' => 'Region',
   ),
   11 => 
   array (
-    'code' => 'OT',
+    'code' => 'NA-OT',
     'name' => 'Oshikoto',
     'type' => 'Region',
   ),
   12 => 
   array (
-    'code' => 'OW',
+    'code' => 'NA-OW',
     'name' => 'Ohangwena',
     'type' => 'Region',
   ),

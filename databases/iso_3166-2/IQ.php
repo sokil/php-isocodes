@@ -1,109 +1,109 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AN',
+    'code' => 'IQ-AN',
     'name' => 'Al Anbar',
     'type' => 'Governorate',
   ),
   1 => 
   array (
-    'code' => 'AR',
+    'code' => 'IQ-AR',
     'name' => 'Arbil',
     'type' => 'Governorate',
   ),
   2 => 
   array (
-    'code' => 'BA',
+    'code' => 'IQ-BA',
     'name' => 'Al Basrah',
     'type' => 'Governorate',
   ),
   3 => 
   array (
-    'code' => 'BB',
+    'code' => 'IQ-BB',
     'name' => 'Babil',
     'type' => 'Governorate',
   ),
   4 => 
   array (
-    'code' => 'BG',
+    'code' => 'IQ-BG',
     'name' => 'Baghdad',
     'type' => 'Governorate',
   ),
   5 => 
   array (
-    'code' => 'DA',
+    'code' => 'IQ-DA',
     'name' => 'Dahuk',
     'type' => 'Governorate',
   ),
   6 => 
   array (
-    'code' => 'DI',
+    'code' => 'IQ-DI',
     'name' => 'Diyala',
     'type' => 'Governorate',
   ),
   7 => 
   array (
-    'code' => 'DQ',
+    'code' => 'IQ-DQ',
     'name' => 'Dhi Qar',
     'type' => 'Governorate',
   ),
   8 => 
   array (
-    'code' => 'KA',
+    'code' => 'IQ-KA',
     'name' => 'Karbala\'',
     'type' => 'Governorate',
   ),
   9 => 
   array (
-    'code' => 'MA',
+    'code' => 'IQ-MA',
     'name' => 'Maysan',
     'type' => 'Governorate',
   ),
   10 => 
   array (
-    'code' => 'MU',
+    'code' => 'IQ-MU',
     'name' => 'Al Muthanna',
     'type' => 'Governorate',
   ),
   11 => 
   array (
-    'code' => 'NA',
+    'code' => 'IQ-NA',
     'name' => 'An Najef',
     'type' => 'Governorate',
   ),
   12 => 
   array (
-    'code' => 'NI',
+    'code' => 'IQ-NI',
     'name' => 'Ninawa',
     'type' => 'Governorate',
   ),
   13 => 
   array (
-    'code' => 'QA',
+    'code' => 'IQ-QA',
     'name' => 'Al Qadisiyah',
     'type' => 'Governorate',
   ),
   14 => 
   array (
-    'code' => 'SD',
+    'code' => 'IQ-SD',
     'name' => 'Salah ad Din',
     'type' => 'Governorate',
   ),
   15 => 
   array (
-    'code' => 'SW',
+    'code' => 'IQ-SW',
     'name' => 'As Sulaymaniyah',
     'type' => 'Governorate',
   ),
   16 => 
   array (
-    'code' => 'TS',
+    'code' => 'IQ-TS',
     'name' => 'At Ta\'mim',
     'type' => 'Governorate',
   ),
   17 => 
   array (
-    'code' => 'WA',
+    'code' => 'IQ-WA',
     'name' => 'Wasit',
     'type' => 'Governorate',
   ),

@@ -1,61 +1,61 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BU',
+    'code' => 'ZW-BU',
     'name' => 'Bulawayo',
     'type' => 'City',
   ),
   1 => 
   array (
-    'code' => 'HA',
+    'code' => 'ZW-HA',
     'name' => 'Harare',
     'type' => 'City',
   ),
   2 => 
   array (
-    'code' => 'MA',
+    'code' => 'ZW-MA',
     'name' => 'Manicaland',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'MC',
+    'code' => 'ZW-MC',
     'name' => 'Mashonaland Central',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'ME',
+    'code' => 'ZW-ME',
     'name' => 'Mashonaland East',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'MI',
+    'code' => 'ZW-MI',
     'name' => 'Midlands',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'MN',
+    'code' => 'ZW-MN',
     'name' => 'Matabeleland North',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'MS',
+    'code' => 'ZW-MS',
     'name' => 'Matabeleland South',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'MV',
+    'code' => 'ZW-MV',
     'name' => 'Masvingo',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'MW',
+    'code' => 'ZW-MW',
     'name' => 'Mashonaland West',
     'type' => 'Province',
   ),

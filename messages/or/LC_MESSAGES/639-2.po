@@ -6,23 +6,23 @@
 # .
 # Copyright ©
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
+# Pro Neon <proneon267@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2010-04-07 12:27+0530\n"
-"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
-"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2019-05-03 21:32+0000\n"
+"Last-Translator: Pro Neon <proneon267@gmail.com>\n"
+"Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/iso-639-2/"
+"or/>\n"
 "Language: or\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"\n"
-"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -42,7 +42,7 @@ msgstr "ଆକୋଲି"
 
 #. Name for ada
 msgid "Adangme"
-msgstr "ଆଡ଼ାମେ"
+msgstr "ଆଡାଙ୍ଗମେ"
 
 #. Name for ady
 msgid "Adyghe; Adygei"
@@ -214,7 +214,7 @@ msgstr "ବଙ୍ଗାଳୀ"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr ""
+msgstr "ବାଙ୍ଗାଳ"
 
 #. Name for ber
 msgid "Berber languages"
@@ -246,7 +246,7 @@ msgstr "ସିକସିକା"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "ବନ୍ତୁ(ଅନ୍ୟ)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -916,10 +916,8 @@ msgid "Central Khmer"
 msgstr "ମଧ୍ଯ ଖ୍ମେର"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
-msgstr "ଖଓଟାନିଜ;ସାକାନ"
+msgstr "ଖୋଟାନିଜ; ସାକାନ"
 
 #. Name for kik
 msgid "Kikuyu; Gikuyu"
@@ -1338,10 +1336,8 @@ msgid "Nzima"
 msgstr "ଜୀମା"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "ଅଶିତାନ (ପୋଷ୍ଟ 1500)"
+msgstr "ଅଶିତାନ (ପୋଷ୍ଟ 1500); ପ୍ରୋଭେନକାଲ"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1432,10 +1428,8 @@ msgid "Prakrit languages"
 msgstr "ପ୍ରକୃତ ଭାଷା"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "ପ୍ରୋଭେଙ୍କାଲ, ପୁରୁଣା (1500 କୁ); ଓଶିତାନ, ପୁରୁଣା (to 1500)"
+msgstr "ପ୍ରୋଭେଙ୍କାଲ, ପୁରୁଣା (୧୫୦୦ ଯାଏ ); ଓଶିତାନ, ପୁରୁଣା (to ୧୫୦୦ )"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1474,10 +1468,8 @@ msgid "Romany"
 msgstr "ରୋମାନୀ"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "ମୋଲଡ଼ାଭିଆନ; ମୋଲଡ଼ୋଭାନ"
+msgstr "ରୋମେନିଆ; ମୋଲଡ଼ାଭିଆନ; ମୋଲଡ଼ୋଭାନ"
 
 #. Name for run
 msgid "Rundi"
@@ -1504,10 +1496,8 @@ msgid "Yakut"
 msgstr "ୟାକୁତ"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "ଦକ୍ଷିଣ ଆମେରିକୀୟ ଭାରତୀୟ ଭାଷା"
+msgstr "ଦକ୍ଷିଣ ଆମେରିକୀୟ ଭାରତୀୟ (ଅନ୍ୟ)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1891,7 +1881,7 @@ msgstr "ୱାକାଶାନ ଭାଷା"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "ୱାଲାମୋ"
 
 #. Name for war
 msgid "Waray"
@@ -1955,7 +1945,7 @@ msgstr "ଜେନାଗା"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "ସାଧାରଣ ମୋରୋକାନ ଟାମାଜାଇଟ"
 
 #. Name for zha
 msgid "Zhuang; Chuang"

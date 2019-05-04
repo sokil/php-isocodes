@@ -1,37 +1,37 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'D',
+    'code' => 'IL-D',
     'name' => 'HaDarom',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'HA',
+    'code' => 'IL-HA',
     'name' => 'Hefa',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'JM',
+    'code' => 'IL-JM',
     'name' => 'Yerushalayim Al Quds',
     'type' => 'District',
   ),
   3 => 
   array (
-    'code' => 'M',
+    'code' => 'IL-M',
     'name' => 'HaMerkaz',
     'type' => 'District',
   ),
   4 => 
   array (
-    'code' => 'TA',
+    'code' => 'IL-TA',
     'name' => 'Tel-Aviv',
     'type' => 'District',
   ),
   5 => 
   array (
-    'code' => 'Z',
+    'code' => 'IL-Z',
     'name' => 'HaZafon',
     'type' => 'District',
   ),

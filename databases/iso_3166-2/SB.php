@@ -1,61 +1,61 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'CE',
+    'code' => 'SB-CE',
     'name' => 'Central',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'CH',
+    'code' => 'SB-CH',
     'name' => 'Choiseul',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'CT',
+    'code' => 'SB-CT',
     'name' => 'Capital Territory (Honiara)',
     'type' => 'Capital territory',
   ),
   3 => 
   array (
-    'code' => 'GU',
+    'code' => 'SB-GU',
     'name' => 'Guadalcanal',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'IS',
+    'code' => 'SB-IS',
     'name' => 'Isabel',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'MK',
+    'code' => 'SB-MK',
     'name' => 'Makira',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'ML',
+    'code' => 'SB-ML',
     'name' => 'Malaita',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'RB',
+    'code' => 'SB-RB',
     'name' => 'Rennell and Bellona',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'TE',
+    'code' => 'SB-TE',
     'name' => 'Temotu',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'WE',
+    'code' => 'SB-WE',
     'name' => 'Western',
     'type' => 'Province',
   ),

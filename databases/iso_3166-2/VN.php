@@ -1,385 +1,385 @@
 <?php return array (
   0 => 
   array (
-    'code' => '01',
+    'code' => 'VN-01',
     'name' => 'Lai Châu',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => '02',
+    'code' => 'VN-02',
     'name' => 'Lào Cai',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => '03',
+    'code' => 'VN-03',
     'name' => 'Hà Giang',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => '04',
+    'code' => 'VN-04',
     'name' => 'Cao Bằng',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => '05',
+    'code' => 'VN-05',
     'name' => 'Sơn La',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => '06',
+    'code' => 'VN-06',
     'name' => 'Yên Bái',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => '07',
+    'code' => 'VN-07',
     'name' => 'Tuyên Quang',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => '09',
+    'code' => 'VN-09',
     'name' => 'Lạng Sơn',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => '13',
+    'code' => 'VN-13',
     'name' => 'Quảng Ninh',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => '14',
+    'code' => 'VN-14',
     'name' => 'Hoà Bình',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => '15',
+    'code' => 'VN-15',
     'name' => 'Hà Tây',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => '18',
+    'code' => 'VN-18',
     'name' => 'Ninh Bình',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => '20',
+    'code' => 'VN-20',
     'name' => 'Thái Bình',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => '21',
+    'code' => 'VN-21',
     'name' => 'Thanh Hóa',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => '22',
+    'code' => 'VN-22',
     'name' => 'Nghệ An',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => '23',
+    'code' => 'VN-23',
     'name' => 'Hà Tỉnh',
     'type' => 'Province',
   ),
   16 => 
   array (
-    'code' => '24',
+    'code' => 'VN-24',
     'name' => 'Quảng Bình',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => '25',
+    'code' => 'VN-25',
     'name' => 'Quảng Trị',
     'type' => 'Province',
   ),
   18 => 
   array (
-    'code' => '26',
+    'code' => 'VN-26',
     'name' => 'Thừa Thiên-Huế',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => '27',
+    'code' => 'VN-27',
     'name' => 'Quảng Nam',
     'type' => 'Province',
   ),
   20 => 
   array (
-    'code' => '28',
+    'code' => 'VN-28',
     'name' => 'Kon Tum',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => '29',
+    'code' => 'VN-29',
     'name' => 'Quảng Ngãi',
     'type' => 'Province',
   ),
   22 => 
   array (
-    'code' => '30',
+    'code' => 'VN-30',
     'name' => 'Gia Lai',
     'type' => 'Province',
   ),
   23 => 
   array (
-    'code' => '31',
+    'code' => 'VN-31',
     'name' => 'Bình Định',
     'type' => 'Province',
   ),
   24 => 
   array (
-    'code' => '32',
+    'code' => 'VN-32',
     'name' => 'Phú Yên',
     'type' => 'Province',
   ),
   25 => 
   array (
-    'code' => '33',
+    'code' => 'VN-33',
     'name' => 'Đắc Lắk',
     'type' => 'Province',
   ),
   26 => 
   array (
-    'code' => '34',
+    'code' => 'VN-34',
     'name' => 'Khánh Hòa',
     'type' => 'Province',
   ),
   27 => 
   array (
-    'code' => '35',
+    'code' => 'VN-35',
     'name' => 'Lâm Đồng',
     'type' => 'Province',
   ),
   28 => 
   array (
-    'code' => '36',
+    'code' => 'VN-36',
     'name' => 'Ninh Thuận',
     'type' => 'Province',
   ),
   29 => 
   array (
-    'code' => '37',
+    'code' => 'VN-37',
     'name' => 'Tây Ninh',
     'type' => 'Province',
   ),
   30 => 
   array (
-    'code' => '39',
+    'code' => 'VN-39',
     'name' => 'Đồng Nai',
     'type' => 'Province',
   ),
   31 => 
   array (
-    'code' => '40',
+    'code' => 'VN-40',
     'name' => 'Bình Thuận',
     'type' => 'Province',
   ),
   32 => 
   array (
-    'code' => '41',
+    'code' => 'VN-41',
     'name' => 'Long An',
     'type' => 'Province',
   ),
   33 => 
   array (
-    'code' => '43',
+    'code' => 'VN-43',
     'name' => 'Bà Rịa-Vũng Tàu',
     'type' => 'Province',
   ),
   34 => 
   array (
-    'code' => '44',
+    'code' => 'VN-44',
     'name' => 'An Giang',
     'type' => 'Province',
   ),
   35 => 
   array (
-    'code' => '45',
+    'code' => 'VN-45',
     'name' => 'Đồng Tháp',
     'type' => 'Province',
   ),
   36 => 
   array (
-    'code' => '46',
+    'code' => 'VN-46',
     'name' => 'Tiền Giang',
     'type' => 'Province',
   ),
   37 => 
   array (
-    'code' => '47',
+    'code' => 'VN-47',
     'name' => 'Kiên Giang',
     'type' => 'Province',
   ),
   38 => 
   array (
-    'code' => '49',
+    'code' => 'VN-49',
     'name' => 'Vĩnh Long',
     'type' => 'Province',
   ),
   39 => 
   array (
-    'code' => '50',
+    'code' => 'VN-50',
     'name' => 'Bến Tre',
     'type' => 'Province',
   ),
   40 => 
   array (
-    'code' => '51',
+    'code' => 'VN-51',
     'name' => 'Trà Vinh',
     'type' => 'Province',
   ),
   41 => 
   array (
-    'code' => '52',
+    'code' => 'VN-52',
     'name' => 'Sóc Trăng',
     'type' => 'Province',
   ),
   42 => 
   array (
-    'code' => '53',
+    'code' => 'VN-53',
     'name' => 'Bắc Kạn',
     'type' => 'Province',
   ),
   43 => 
   array (
-    'code' => '54',
+    'code' => 'VN-54',
     'name' => 'Bắc Giang',
     'type' => 'Province',
   ),
   44 => 
   array (
-    'code' => '55',
+    'code' => 'VN-55',
     'name' => 'Bạc Liêu',
     'type' => 'Province',
   ),
   45 => 
   array (
-    'code' => '56',
+    'code' => 'VN-56',
     'name' => 'Bắc Ninh',
     'type' => 'Province',
   ),
   46 => 
   array (
-    'code' => '57',
+    'code' => 'VN-57',
     'name' => 'Bình Dương',
     'type' => 'Province',
   ),
   47 => 
   array (
-    'code' => '58',
+    'code' => 'VN-58',
     'name' => 'Bình Phước',
     'type' => 'Province',
   ),
   48 => 
   array (
-    'code' => '59',
+    'code' => 'VN-59',
     'name' => 'Cà Mau',
     'type' => 'Province',
   ),
   49 => 
   array (
-    'code' => '61',
+    'code' => 'VN-61',
     'name' => 'Hải Duong',
     'type' => 'Province',
   ),
   50 => 
   array (
-    'code' => '63',
+    'code' => 'VN-63',
     'name' => 'Hà Nam',
     'type' => 'Province',
   ),
   51 => 
   array (
-    'code' => '66',
+    'code' => 'VN-66',
     'name' => 'Hưng Yên',
     'type' => 'Province',
   ),
   52 => 
   array (
-    'code' => '67',
+    'code' => 'VN-67',
     'name' => 'Nam Định',
     'type' => 'Province',
   ),
   53 => 
   array (
-    'code' => '68',
+    'code' => 'VN-68',
     'name' => 'Phú Thọ',
     'type' => 'Province',
   ),
   54 => 
   array (
-    'code' => '69',
+    'code' => 'VN-69',
     'name' => 'Thái Nguyên',
     'type' => 'Province',
   ),
   55 => 
   array (
-    'code' => '70',
+    'code' => 'VN-70',
     'name' => 'Vĩnh Phúc',
     'type' => 'Province',
   ),
   56 => 
   array (
-    'code' => '71',
+    'code' => 'VN-71',
     'name' => 'Điện Biên',
     'type' => 'Province',
   ),
   57 => 
   array (
-    'code' => '72',
+    'code' => 'VN-72',
     'name' => 'Đắk Nông',
     'type' => 'Province',
   ),
   58 => 
   array (
-    'code' => '73',
+    'code' => 'VN-73',
     'name' => 'Hậu Giang',
     'type' => 'Province',
   ),
   59 => 
   array (
-    'code' => 'CT',
+    'code' => 'VN-CT',
     'name' => 'Cần Thơ',
     'type' => 'Municipality',
   ),
   60 => 
   array (
-    'code' => 'DN',
+    'code' => 'VN-DN',
     'name' => 'Đà Nẵng',
     'type' => 'Municipality',
   ),
   61 => 
   array (
-    'code' => 'HN',
+    'code' => 'VN-HN',
     'name' => 'Hà Nội',
     'type' => 'Municipality',
   ),
   62 => 
   array (
-    'code' => 'HP',
+    'code' => 'VN-HP',
     'name' => 'Hải Phòng',
     'type' => 'Municipality',
   ),
   63 => 
   array (
-    'code' => 'SG',
+    'code' => 'VN-SG',
     'name' => 'Hồ Chí Minh [Sài Gòn]',
     'type' => 'Municipality',
   ),

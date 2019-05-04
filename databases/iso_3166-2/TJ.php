@@ -1,19 +1,19 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'GB',
+    'code' => 'TJ-GB',
     'name' => 'Gorno-Badakhshan',
     'type' => 'Autonomous region',
   ),
   1 => 
   array (
-    'code' => 'KT',
+    'code' => 'TJ-KT',
     'name' => 'Khatlon',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'SU',
+    'code' => 'TJ-SU',
     'name' => 'Sughd',
     'type' => 'Region',
   ),

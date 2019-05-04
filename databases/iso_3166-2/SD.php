@@ -1,104 +1,104 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'DC',
+    'code' => 'SD-DC',
     'name' => 'Zalingei',
-    'type' => 'state',
+    'type' => 'State',
   ),
   1 => 
   array (
-    'code' => 'DE',
+    'code' => 'SD-DE',
     'name' => 'Sharq Dārfūr',
-    'type' => 'state',
+    'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'DN',
+    'code' => 'SD-DN',
     'name' => 'Shamāl Dārfūr',
-    'type' => 'state',
+    'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'DS',
+    'code' => 'SD-DS',
     'name' => 'Janūb Dārfūr',
-    'type' => 'state',
+    'type' => 'State',
   ),
   4 => 
   array (
-    'code' => 'DW',
+    'code' => 'SD-DW',
     'name' => 'Gharb Dārfūr',
-    'type' => 'state',
+    'type' => 'State',
   ),
   5 => 
   array (
-    'code' => 'GD',
+    'code' => 'SD-GD',
     'name' => 'Al Qaḑārif',
-    'type' => 'state',
+    'type' => 'State',
   ),
   6 => 
   array (
-    'code' => 'GZ',
+    'code' => 'SD-GZ',
     'name' => 'Al Jazīrah',
-    'type' => 'state',
+    'type' => 'State',
   ),
   7 => 
   array (
-    'code' => 'KA',
+    'code' => 'SD-KA',
     'name' => 'Kassalā',
-    'type' => 'state',
+    'type' => 'State',
   ),
   8 => 
   array (
-    'code' => 'KH',
+    'code' => 'SD-KH',
     'name' => 'Al Kharţūm',
-    'type' => 'state',
+    'type' => 'State',
   ),
   9 => 
   array (
-    'code' => 'KN',
+    'code' => 'SD-KN',
     'name' => 'Shamāl Kurdufān',
-    'type' => 'state',
+    'type' => 'State',
   ),
   10 => 
   array (
-    'code' => 'KS',
+    'code' => 'SD-KS',
     'name' => 'Janūb Kurdufān',
-    'type' => 'state',
+    'type' => 'State',
   ),
   11 => 
   array (
-    'code' => 'NB',
+    'code' => 'SD-NB',
     'name' => 'An Nīl al Azraq',
-    'type' => 'state',
+    'type' => 'State',
   ),
   12 => 
   array (
-    'code' => 'NO',
+    'code' => 'SD-NO',
     'name' => 'Ash Shamālīyah',
-    'type' => 'state',
+    'type' => 'State',
   ),
   13 => 
   array (
-    'code' => 'NR',
+    'code' => 'SD-NR',
     'name' => 'An Nīl',
-    'type' => 'state',
+    'type' => 'State',
   ),
   14 => 
   array (
-    'code' => 'NW',
+    'code' => 'SD-NW',
     'name' => 'An Nīl al Abyaḑ',
-    'type' => 'state',
+    'type' => 'State',
   ),
   15 => 
   array (
-    'code' => 'RS',
+    'code' => 'SD-RS',
     'name' => 'Al Baḩr al Aḩmar',
-    'type' => 'state',
+    'type' => 'State',
   ),
   16 => 
   array (
-    'code' => 'SI',
+    'code' => 'SD-SI',
     'name' => 'Sinnār',
-    'type' => 'state',
+    'type' => 'State',
   ),
 );

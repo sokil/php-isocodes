@@ -1,116 +1,116 @@
 <?php return array (
   0 => 
   array (
-    'code' => '1',
+    'code' => 'NP-1',
     'name' => 'Madhyamanchal',
     'type' => 'Development region',
   ),
   1 => 
   array (
-    'code' => '2',
+    'code' => 'NP-2',
     'name' => 'Madhya Pashchimanchal',
     'type' => 'Development region',
   ),
   2 => 
   array (
-    'code' => '3',
+    'code' => 'NP-3',
     'name' => 'Pashchimanchal',
     'type' => 'Development region',
   ),
   3 => 
   array (
-    'code' => '4',
+    'code' => 'NP-4',
     'name' => 'Purwanchal',
     'type' => 'Development region',
   ),
   4 => 
   array (
-    'code' => '5',
+    'code' => 'NP-5',
     'name' => 'Sudur Pashchimanchal',
     'type' => 'Development region',
   ),
   5 => 
   array (
-    'code' => 'BA',
+    'code' => 'NP-BA',
     'name' => 'Bagmati',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   6 => 
   array (
-    'code' => 'BH',
+    'code' => 'NP-BH',
     'name' => 'Bheri',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   7 => 
   array (
-    'code' => 'DH',
+    'code' => 'NP-DH',
     'name' => 'Dhawalagiri',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   8 => 
   array (
-    'code' => 'GA',
+    'code' => 'NP-GA',
     'name' => 'Gandaki',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   9 => 
   array (
-    'code' => 'JA',
+    'code' => 'NP-JA',
     'name' => 'Janakpur',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   10 => 
   array (
-    'code' => 'KA',
+    'code' => 'NP-KA',
     'name' => 'Karnali',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   11 => 
   array (
-    'code' => 'KO',
+    'code' => 'NP-KO',
     'name' => 'Kosi',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   12 => 
   array (
-    'code' => 'LU',
+    'code' => 'NP-LU',
     'name' => 'Lumbini',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   13 => 
   array (
-    'code' => 'MA',
+    'code' => 'NP-MA',
     'name' => 'Mahakali',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   14 => 
   array (
-    'code' => 'ME',
+    'code' => 'NP-ME',
     'name' => 'Mechi',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   15 => 
   array (
-    'code' => 'NA',
+    'code' => 'NP-NA',
     'name' => 'Narayani',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   16 => 
   array (
-    'code' => 'RA',
+    'code' => 'NP-RA',
     'name' => 'Rapti',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   17 => 
   array (
-    'code' => 'SA',
+    'code' => 'NP-SA',
     'name' => 'Sagarmatha',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
   18 => 
   array (
-    'code' => 'SE',
+    'code' => 'NP-SE',
     'name' => 'Seti',
-    'type' => 'zone',
+    'type' => 'Zone',
   ),
 );

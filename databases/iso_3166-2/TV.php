@@ -1,49 +1,49 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'FUN',
+    'code' => 'TV-FUN',
     'name' => 'Funafuti',
     'type' => 'Town council',
   ),
   1 => 
   array (
-    'code' => 'NIT',
+    'code' => 'TV-NIT',
     'name' => 'Niutao',
     'type' => 'Island council',
   ),
   2 => 
   array (
-    'code' => 'NKF',
+    'code' => 'TV-NKF',
     'name' => 'Nukufetau',
     'type' => 'Island council',
   ),
   3 => 
   array (
-    'code' => 'NKL',
+    'code' => 'TV-NKL',
     'name' => 'Nukulaelae',
     'type' => 'Island council',
   ),
   4 => 
   array (
-    'code' => 'NMA',
+    'code' => 'TV-NMA',
     'name' => 'Nanumea',
     'type' => 'Island council',
   ),
   5 => 
   array (
-    'code' => 'NMG',
+    'code' => 'TV-NMG',
     'name' => 'Nanumanga',
     'type' => 'Island council',
   ),
   6 => 
   array (
-    'code' => 'NUI',
+    'code' => 'TV-NUI',
     'name' => 'Nui',
     'type' => 'Island council',
   ),
   7 => 
   array (
-    'code' => 'VAI',
+    'code' => 'TV-VAI',
     'name' => 'Vaitupu',
     'type' => 'Island council',
   ),

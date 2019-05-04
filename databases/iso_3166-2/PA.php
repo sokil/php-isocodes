@@ -1,73 +1,73 @@
 <?php return array (
   0 => 
   array (
-    'code' => '1',
+    'code' => 'PA-1',
     'name' => 'Bocas del Toro',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => '2',
+    'code' => 'PA-2',
     'name' => 'Coclé',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => '3',
+    'code' => 'PA-3',
     'name' => 'Colón',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => '4',
+    'code' => 'PA-4',
     'name' => 'Chiriquí',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => '5',
+    'code' => 'PA-5',
     'name' => 'Darién',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => '6',
+    'code' => 'PA-6',
     'name' => 'Herrera',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => '7',
+    'code' => 'PA-7',
     'name' => 'Los Santos',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => '8',
+    'code' => 'PA-8',
     'name' => 'Panamá',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => '9',
+    'code' => 'PA-9',
     'name' => 'Veraguas',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'EM',
+    'code' => 'PA-EM',
     'name' => 'Emberá',
     'type' => 'Indigenous region',
   ),
   10 => 
   array (
-    'code' => 'KY',
+    'code' => 'PA-KY',
     'name' => 'Kuna Yala',
     'type' => 'Indigenous region',
   ),
   11 => 
   array (
-    'code' => 'NB',
+    'code' => 'PA-NB',
     'name' => 'Ngöbe-Buglé',
     'type' => 'Indigenous region',
   ),

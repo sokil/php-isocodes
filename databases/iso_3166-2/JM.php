@@ -1,85 +1,85 @@
 <?php return array (
   0 => 
   array (
-    'code' => '01',
+    'code' => 'JM-01',
     'name' => 'Kingston',
     'type' => 'Parish',
   ),
   1 => 
   array (
-    'code' => '02',
+    'code' => 'JM-02',
     'name' => 'Saint Andrew',
     'type' => 'Parish',
   ),
   2 => 
   array (
-    'code' => '03',
+    'code' => 'JM-03',
     'name' => 'Saint Thomas',
     'type' => 'Parish',
   ),
   3 => 
   array (
-    'code' => '04',
+    'code' => 'JM-04',
     'name' => 'Portland',
     'type' => 'Parish',
   ),
   4 => 
   array (
-    'code' => '05',
+    'code' => 'JM-05',
     'name' => 'Saint Mary',
     'type' => 'Parish',
   ),
   5 => 
   array (
-    'code' => '06',
+    'code' => 'JM-06',
     'name' => 'Saint Ann',
     'type' => 'Parish',
   ),
   6 => 
   array (
-    'code' => '07',
+    'code' => 'JM-07',
     'name' => 'Trelawny',
     'type' => 'Parish',
   ),
   7 => 
   array (
-    'code' => '08',
+    'code' => 'JM-08',
     'name' => 'Saint James',
     'type' => 'Parish',
   ),
   8 => 
   array (
-    'code' => '09',
+    'code' => 'JM-09',
     'name' => 'Hanover',
     'type' => 'Parish',
   ),
   9 => 
   array (
-    'code' => '10',
+    'code' => 'JM-10',
     'name' => 'Westmoreland',
     'type' => 'Parish',
   ),
   10 => 
   array (
-    'code' => '11',
+    'code' => 'JM-11',
     'name' => 'Saint Elizabeth',
     'type' => 'Parish',
   ),
   11 => 
   array (
-    'code' => '12',
+    'code' => 'JM-12',
     'name' => 'Manchester',
     'type' => 'Parish',
   ),
   12 => 
   array (
-    'code' => '13',
+    'code' => 'JM-13',
     'name' => 'Clarendon',
     'type' => 'Parish',
   ),
   13 => 
   array (
-    'code' => '14',
+    'code' => 'JM-14',
     'name' => 'Saint Catherine',
     'type' => 'Parish',
   ),

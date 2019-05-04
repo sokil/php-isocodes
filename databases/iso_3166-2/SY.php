@@ -1,85 +1,85 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'DI',
+    'code' => 'SY-DI',
     'name' => 'Dimashq',
     'type' => 'Governorate',
   ),
   1 => 
   array (
-    'code' => 'DR',
+    'code' => 'SY-DR',
     'name' => 'Dar\'a',
     'type' => 'Governorate',
   ),
   2 => 
   array (
-    'code' => 'DY',
+    'code' => 'SY-DY',
     'name' => 'Dayr az Zawr',
     'type' => 'Governorate',
   ),
   3 => 
   array (
-    'code' => 'HA',
+    'code' => 'SY-HA',
     'name' => 'Al Hasakah',
     'type' => 'Governorate',
   ),
   4 => 
   array (
-    'code' => 'HI',
+    'code' => 'SY-HI',
     'name' => 'Homs',
     'type' => 'Governorate',
   ),
   5 => 
   array (
-    'code' => 'HL',
+    'code' => 'SY-HL',
     'name' => 'Halab',
     'type' => 'Governorate',
   ),
   6 => 
   array (
-    'code' => 'HM',
+    'code' => 'SY-HM',
     'name' => 'Hamah',
     'type' => 'Governorate',
   ),
   7 => 
   array (
-    'code' => 'ID',
+    'code' => 'SY-ID',
     'name' => 'Idlib',
     'type' => 'Governorate',
   ),
   8 => 
   array (
-    'code' => 'LA',
+    'code' => 'SY-LA',
     'name' => 'Al Ladhiqiyah',
     'type' => 'Governorate',
   ),
   9 => 
   array (
-    'code' => 'QU',
+    'code' => 'SY-QU',
     'name' => 'Al Qunaytirah',
     'type' => 'Governorate',
   ),
   10 => 
   array (
-    'code' => 'RA',
+    'code' => 'SY-RA',
     'name' => 'Ar Raqqah',
     'type' => 'Governorate',
   ),
   11 => 
   array (
-    'code' => 'RD',
+    'code' => 'SY-RD',
     'name' => 'Rif Dimashq',
     'type' => 'Governorate',
   ),
   12 => 
   array (
-    'code' => 'SU',
+    'code' => 'SY-SU',
     'name' => 'As Suwayda\'',
     'type' => 'Governorate',
   ),
   13 => 
   array (
-    'code' => 'TA',
+    'code' => 'SY-TA',
     'name' => 'Tartus',
     'type' => 'Governorate',
   ),

@@ -1,55 +1,55 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'EC',
+    'code' => 'ZA-EC',
     'name' => 'Eastern Cape',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'FS',
+    'code' => 'ZA-FS',
     'name' => 'Free State',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'GT',
+    'code' => 'ZA-GT',
     'name' => 'Gauteng',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'LP',
+    'code' => 'ZA-LP',
     'name' => 'Limpopo',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'MP',
+    'code' => 'ZA-MP',
     'name' => 'Mpumalanga',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'NC',
+    'code' => 'ZA-NC',
     'name' => 'Northern Cape',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'NL',
+    'code' => 'ZA-NL',
     'name' => 'Kwazulu-Natal',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'NW',
+    'code' => 'ZA-NW',
     'name' => 'North-West (South Africa)',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'WC',
+    'code' => 'ZA-WC',
     'name' => 'Western Cape',
     'type' => 'Province',
   ),

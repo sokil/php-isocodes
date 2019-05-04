@@ -1,169 +1,169 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'ALX',
+    'code' => 'EG-ALX',
     'name' => 'Al Iskandarīyah',
     'type' => 'Governorate',
   ),
   1 => 
   array (
-    'code' => 'ASN',
+    'code' => 'EG-ASN',
     'name' => 'Aswān',
     'type' => 'Governorate',
   ),
   2 => 
   array (
-    'code' => 'AST',
+    'code' => 'EG-AST',
     'name' => 'Asyūt',
     'type' => 'Governorate',
   ),
   3 => 
   array (
-    'code' => 'BA',
+    'code' => 'EG-BA',
     'name' => 'Al Bahr al Ahmar',
     'type' => 'Governorate',
   ),
   4 => 
   array (
-    'code' => 'BH',
+    'code' => 'EG-BH',
     'name' => 'Al Buhayrah',
     'type' => 'Governorate',
   ),
   5 => 
   array (
-    'code' => 'BNS',
+    'code' => 'EG-BNS',
     'name' => 'Banī Suwayf',
     'type' => 'Governorate',
   ),
   6 => 
   array (
-    'code' => 'C',
+    'code' => 'EG-C',
     'name' => 'Al Qāhirah',
     'type' => 'Governorate',
   ),
   7 => 
   array (
-    'code' => 'DK',
+    'code' => 'EG-DK',
     'name' => 'Ad Daqahlīyah',
     'type' => 'Governorate',
   ),
   8 => 
   array (
-    'code' => 'DT',
+    'code' => 'EG-DT',
     'name' => 'Dumyāt',
     'type' => 'Governorate',
   ),
   9 => 
   array (
-    'code' => 'FYM',
+    'code' => 'EG-FYM',
     'name' => 'Al Fayyūm',
     'type' => 'Governorate',
   ),
   10 => 
   array (
-    'code' => 'GH',
+    'code' => 'EG-GH',
     'name' => 'Al Gharbīyah',
     'type' => 'Governorate',
   ),
   11 => 
   array (
-    'code' => 'GZ',
+    'code' => 'EG-GZ',
     'name' => 'Al Jīzah',
     'type' => 'Governorate',
   ),
   12 => 
   array (
-    'code' => 'HU',
+    'code' => 'EG-HU',
     'name' => 'Ḩulwān',
     'type' => 'Governorate',
   ),
   13 => 
   array (
-    'code' => 'IS',
+    'code' => 'EG-IS',
     'name' => 'Al Ismā`īlīyah',
     'type' => 'Governorate',
   ),
   14 => 
   array (
-    'code' => 'JS',
+    'code' => 'EG-JS',
     'name' => 'Janūb Sīnā\'',
     'type' => 'Governorate',
   ),
   15 => 
   array (
-    'code' => 'KB',
+    'code' => 'EG-KB',
     'name' => 'Al Qalyūbīyah',
     'type' => 'Governorate',
   ),
   16 => 
   array (
-    'code' => 'KFS',
+    'code' => 'EG-KFS',
     'name' => 'Kafr ash Shaykh',
     'type' => 'Governorate',
   ),
   17 => 
   array (
-    'code' => 'KN',
+    'code' => 'EG-KN',
     'name' => 'Qinā',
     'type' => 'Governorate',
   ),
   18 => 
   array (
-    'code' => 'MN',
+    'code' => 'EG-MN',
     'name' => 'Al Minyā',
     'type' => 'Governorate',
   ),
   19 => 
   array (
-    'code' => 'MNF',
+    'code' => 'EG-MNF',
     'name' => 'Al Minūfīyah',
     'type' => 'Governorate',
   ),
   20 => 
   array (
-    'code' => 'MT',
+    'code' => 'EG-MT',
     'name' => 'Matrūh',
     'type' => 'Governorate',
   ),
   21 => 
   array (
-    'code' => 'PTS',
+    'code' => 'EG-PTS',
     'name' => 'Būr Sa`īd',
     'type' => 'Governorate',
   ),
   22 => 
   array (
-    'code' => 'SHG',
+    'code' => 'EG-SHG',
     'name' => 'Sūhāj',
     'type' => 'Governorate',
   ),
   23 => 
   array (
-    'code' => 'SHR',
+    'code' => 'EG-SHR',
     'name' => 'Ash Sharqīyah',
     'type' => 'Governorate',
   ),
   24 => 
   array (
-    'code' => 'SIN',
+    'code' => 'EG-SIN',
     'name' => 'Shamal Sīnā\'',
     'type' => 'Governorate',
   ),
   25 => 
   array (
-    'code' => 'SU',
+    'code' => 'EG-SU',
     'name' => 'As Sādis min Uktūbar',
     'type' => 'Governorate',
   ),
   26 => 
   array (
-    'code' => 'SUZ',
+    'code' => 'EG-SUZ',
     'name' => 'As Suways',
     'type' => 'Governorate',
   ),
   27 => 
   array (
-    'code' => 'WAD',
+    'code' => 'EG-WAD',
     'name' => 'Al Wādī al Jadīd',
     'type' => 'Governorate',
   ),

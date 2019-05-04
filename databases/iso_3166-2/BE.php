@@ -1,79 +1,79 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BRU',
+    'code' => 'BE-BRU',
     'name' => 'Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'VAN',
+    'code' => 'BE-VAN',
     'name' => 'Antwerpen',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'VBR',
+    'code' => 'BE-VBR',
     'name' => 'Vlaams-Brabant',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'VLG',
+    'code' => 'BE-VLG',
     'name' => 'Vlaams Gewest',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'VLI',
+    'code' => 'BE-VLI',
     'name' => 'Limburg',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'VOV',
+    'code' => 'BE-VOV',
     'name' => 'Oost-Vlaanderen',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'VWV',
+    'code' => 'BE-VWV',
     'name' => 'West-Vlaanderen',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'WAL',
+    'code' => 'BE-WAL',
     'name' => 'wallonne, Région',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'WBR',
+    'code' => 'BE-WBR',
     'name' => 'Brabant wallon',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'WHT',
+    'code' => 'BE-WHT',
     'name' => 'Hainaut',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'WLG',
+    'code' => 'BE-WLG',
     'name' => 'Liège',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'WLX',
+    'code' => 'BE-WLX',
     'name' => 'Luxembourg',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'WNA',
+    'code' => 'BE-WNA',
     'name' => 'Namur',
     'type' => 'Province',
   ),

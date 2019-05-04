@@ -1,62 +1,62 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BN',
+    'code' => 'SS-BN',
     'name' => 'Northern Bahr el-Ghazal',
-    'type' => 'state',
+    'type' => 'State',
   ),
   1 => 
   array (
-    'code' => 'BW',
+    'code' => 'SS-BW',
     'name' => 'Western Bahr el-Ghazal',
-    'type' => 'state',
+    'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'EC',
+    'code' => 'SS-EC',
     'name' => 'Central Equatoria',
-    'type' => 'state',
+    'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'EE8',
+    'code' => 'SS-EE8',
     'name' => 'Eastern Equatoria',
-    'type' => 'state',
+    'type' => 'State',
   ),
   4 => 
   array (
-    'code' => 'EW',
+    'code' => 'SS-EW',
     'name' => 'Western Equatoria',
-    'type' => 'state',
+    'type' => 'State',
   ),
   5 => 
   array (
-    'code' => 'JG',
+    'code' => 'SS-JG',
     'name' => 'Jonglei',
-    'type' => 'state',
+    'type' => 'State',
   ),
   6 => 
   array (
-    'code' => 'LK',
+    'code' => 'SS-LK',
     'name' => 'Lakes',
-    'type' => 'state',
+    'type' => 'State',
   ),
   7 => 
   array (
-    'code' => 'NU',
+    'code' => 'SS-NU',
     'name' => 'Upper Nile',
-    'type' => 'state',
+    'type' => 'State',
   ),
   8 => 
   array (
-    'code' => 'UY',
+    'code' => 'SS-UY',
     'name' => 'Unity',
-    'type' => 'state',
+    'type' => 'State',
   ),
   9 => 
   array (
-    'code' => 'WR',
+    'code' => 'SS-WR',
     'name' => 'Warrap',
-    'type' => 'state',
+    'type' => 'State',
   ),
 );

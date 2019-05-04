@@ -1,37 +1,37 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AR',
+    'code' => 'DJ-AR',
     'name' => 'Arta',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'AS',
+    'code' => 'DJ-AS',
     'name' => 'Ali Sabieh',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'DI',
+    'code' => 'DJ-DI',
     'name' => 'Dikhil',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'DJ',
+    'code' => 'DJ-DJ',
     'name' => 'Djibouti',
     'type' => 'City',
   ),
   4 => 
   array (
-    'code' => 'OB',
+    'code' => 'DJ-OB',
     'name' => 'Obock',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'TA',
+    'code' => 'DJ-TA',
     'name' => 'Tadjourah',
     'type' => 'Region',
   ),

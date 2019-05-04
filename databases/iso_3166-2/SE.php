@@ -1,127 +1,127 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AB',
+    'code' => 'SE-AB',
     'name' => 'Stockholms län',
     'type' => 'County',
   ),
   1 => 
   array (
-    'code' => 'AC',
+    'code' => 'SE-AC',
     'name' => 'Västerbottens län',
     'type' => 'County',
   ),
   2 => 
   array (
-    'code' => 'BD',
+    'code' => 'SE-BD',
     'name' => 'Norrbottens län',
     'type' => 'County',
   ),
   3 => 
   array (
-    'code' => 'C',
+    'code' => 'SE-C',
     'name' => 'Uppsala län',
     'type' => 'County',
   ),
   4 => 
   array (
-    'code' => 'D',
+    'code' => 'SE-D',
     'name' => 'Södermanlands län',
     'type' => 'County',
   ),
   5 => 
   array (
-    'code' => 'E',
+    'code' => 'SE-E',
     'name' => 'Östergötlands län',
     'type' => 'County',
   ),
   6 => 
   array (
-    'code' => 'F',
+    'code' => 'SE-F',
     'name' => 'Jönköpings län',
     'type' => 'County',
   ),
   7 => 
   array (
-    'code' => 'G',
+    'code' => 'SE-G',
     'name' => 'Kronobergs län',
     'type' => 'County',
   ),
   8 => 
   array (
-    'code' => 'H',
+    'code' => 'SE-H',
     'name' => 'Kalmar län',
     'type' => 'County',
   ),
   9 => 
   array (
-    'code' => 'I',
+    'code' => 'SE-I',
     'name' => 'Gotlands län',
     'type' => 'County',
   ),
   10 => 
   array (
-    'code' => 'K',
+    'code' => 'SE-K',
     'name' => 'Blekinge län',
     'type' => 'County',
   ),
   11 => 
   array (
-    'code' => 'M',
+    'code' => 'SE-M',
     'name' => 'Skåne län',
     'type' => 'County',
   ),
   12 => 
   array (
-    'code' => 'N',
+    'code' => 'SE-N',
     'name' => 'Hallands län',
     'type' => 'County',
   ),
   13 => 
   array (
-    'code' => 'O',
+    'code' => 'SE-O',
     'name' => 'Västra Götalands län',
     'type' => 'County',
   ),
   14 => 
   array (
-    'code' => 'S',
+    'code' => 'SE-S',
     'name' => 'Värmlands län',
     'type' => 'County',
   ),
   15 => 
   array (
-    'code' => 'T',
+    'code' => 'SE-T',
     'name' => 'Örebro län',
     'type' => 'County',
   ),
   16 => 
   array (
-    'code' => 'U',
+    'code' => 'SE-U',
     'name' => 'Västmanlands län',
     'type' => 'County',
   ),
   17 => 
   array (
-    'code' => 'W',
+    'code' => 'SE-W',
     'name' => 'Dalarnas län',
     'type' => 'County',
   ),
   18 => 
   array (
-    'code' => 'X',
+    'code' => 'SE-X',
     'name' => 'Gävleborgs län',
     'type' => 'County',
   ),
   19 => 
   array (
-    'code' => 'Y',
+    'code' => 'SE-Y',
     'name' => 'Västernorrlands län',
     'type' => 'County',
   ),
   20 => 
   array (
-    'code' => 'Z',
+    'code' => 'SE-Z',
     'name' => 'Jämtlands län',
     'type' => 'County',
   ),

@@ -1,37 +1,37 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'MAP',
+    'code' => 'VU-MAP',
     'name' => 'Malampa',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'PAM',
+    'code' => 'VU-PAM',
     'name' => 'Pénama',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'SAM',
+    'code' => 'VU-SAM',
     'name' => 'Sanma',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'SEE',
+    'code' => 'VU-SEE',
     'name' => 'Shéfa',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'TAE',
+    'code' => 'VU-TAE',
     'name' => 'Taféa',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'TOB',
+    'code' => 'VU-TOB',
     'name' => 'Torba',
     'type' => 'Province',
   ),

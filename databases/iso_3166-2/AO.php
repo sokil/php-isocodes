@@ -1,109 +1,109 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BGO',
+    'code' => 'AO-BGO',
     'name' => 'Bengo',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'BGU',
+    'code' => 'AO-BGU',
     'name' => 'Benguela',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'BIE',
+    'code' => 'AO-BIE',
     'name' => 'Bié',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'CAB',
+    'code' => 'AO-CAB',
     'name' => 'Cabinda',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'CCU',
+    'code' => 'AO-CCU',
     'name' => 'Cuando-Cubango',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'CNN',
+    'code' => 'AO-CNN',
     'name' => 'Cunene',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'CNO',
+    'code' => 'AO-CNO',
     'name' => 'Cuanza Norte',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'CUS',
+    'code' => 'AO-CUS',
     'name' => 'Cuanza Sul',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'HUA',
+    'code' => 'AO-HUA',
     'name' => 'Huambo',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'HUI',
+    'code' => 'AO-HUI',
     'name' => 'Huíla',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'LNO',
+    'code' => 'AO-LNO',
     'name' => 'Lunda Norte',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'LSU',
+    'code' => 'AO-LSU',
     'name' => 'Lunda Sul',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'LUA',
+    'code' => 'AO-LUA',
     'name' => 'Luanda',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => 'MAL',
+    'code' => 'AO-MAL',
     'name' => 'Malange',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => 'MOX',
+    'code' => 'AO-MOX',
     'name' => 'Moxico',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'NAM',
+    'code' => 'AO-NAM',
     'name' => 'Namibe',
     'type' => 'Province',
   ),
   16 => 
   array (
-    'code' => 'UIG',
+    'code' => 'AO-UIG',
     'name' => 'Uíge',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => 'ZAI',
+    'code' => 'AO-ZAI',
     'name' => 'Zaire',
     'type' => 'Province',
   ),

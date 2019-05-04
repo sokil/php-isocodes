@@ -1,73 +1,73 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AJ',
+    'code' => 'JO-AJ',
     'name' => '‘Ajlūn',
     'type' => 'Governorate',
   ),
   1 => 
   array (
-    'code' => 'AM',
+    'code' => 'JO-AM',
     'name' => '‘Ammān (Al ‘Aşimah)',
     'type' => 'Governorate',
   ),
   2 => 
   array (
-    'code' => 'AQ',
+    'code' => 'JO-AQ',
     'name' => 'Al ‘Aqabah',
     'type' => 'Governorate',
   ),
   3 => 
   array (
-    'code' => 'AT',
+    'code' => 'JO-AT',
     'name' => 'Aţ Ţafīlah',
     'type' => 'Governorate',
   ),
   4 => 
   array (
-    'code' => 'AZ',
+    'code' => 'JO-AZ',
     'name' => 'Az Zarqā\'',
     'type' => 'Governorate',
   ),
   5 => 
   array (
-    'code' => 'BA',
+    'code' => 'JO-BA',
     'name' => 'Al Balqā\'',
     'type' => 'Governorate',
   ),
   6 => 
   array (
-    'code' => 'IR',
+    'code' => 'JO-IR',
     'name' => 'Irbid',
     'type' => 'Governorate',
   ),
   7 => 
   array (
-    'code' => 'JA',
+    'code' => 'JO-JA',
     'name' => 'Jarash',
     'type' => 'Governorate',
   ),
   8 => 
   array (
-    'code' => 'KA',
+    'code' => 'JO-KA',
     'name' => 'Al Karak',
     'type' => 'Governorate',
   ),
   9 => 
   array (
-    'code' => 'MA',
+    'code' => 'JO-MA',
     'name' => 'Al Mafraq',
     'type' => 'Governorate',
   ),
   10 => 
   array (
-    'code' => 'MD',
+    'code' => 'JO-MD',
     'name' => 'Mādabā',
     'type' => 'Governorate',
   ),
   11 => 
   array (
-    'code' => 'MN',
+    'code' => 'JO-MN',
     'name' => 'Ma‘ān',
     'type' => 'Governorate',
   ),

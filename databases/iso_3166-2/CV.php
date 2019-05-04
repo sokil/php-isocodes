@@ -1,145 +1,145 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'B',
+    'code' => 'CV-B',
     'name' => 'Ilhas de Barlavento',
     'type' => 'Geographical region',
   ),
   1 => 
   array (
-    'code' => 'BR',
+    'code' => 'CV-BR',
     'name' => 'Brava',
     'type' => 'Municipality',
   ),
   2 => 
   array (
-    'code' => 'BV',
+    'code' => 'CV-BV',
     'name' => 'Boa Vista',
     'type' => 'Municipality',
   ),
   3 => 
   array (
-    'code' => 'CA',
+    'code' => 'CV-CA',
     'name' => 'Santa Catarina',
     'type' => 'Municipality',
   ),
   4 => 
   array (
-    'code' => 'CF',
+    'code' => 'CV-CF',
     'name' => 'Santa Catarina de Fogo',
     'type' => 'Municipality',
   ),
   5 => 
   array (
-    'code' => 'CR',
+    'code' => 'CV-CR',
     'name' => 'Santa Cruz',
     'type' => 'Municipality',
   ),
   6 => 
   array (
-    'code' => 'MA',
+    'code' => 'CV-MA',
     'name' => 'Maio',
     'type' => 'Municipality',
   ),
   7 => 
   array (
-    'code' => 'MO',
+    'code' => 'CV-MO',
     'name' => 'Mosteiros',
     'type' => 'Municipality',
   ),
   8 => 
   array (
-    'code' => 'PA',
+    'code' => 'CV-PA',
     'name' => 'Paul',
     'type' => 'Municipality',
   ),
   9 => 
   array (
-    'code' => 'PN',
+    'code' => 'CV-PN',
     'name' => 'Porto Novo',
     'type' => 'Municipality',
   ),
   10 => 
   array (
-    'code' => 'PR',
+    'code' => 'CV-PR',
     'name' => 'Praia',
     'type' => 'Municipality',
   ),
   11 => 
   array (
-    'code' => 'RB',
+    'code' => 'CV-RB',
     'name' => 'Ribeira Brava',
     'type' => 'Municipality',
   ),
   12 => 
   array (
-    'code' => 'RG',
+    'code' => 'CV-RG',
     'name' => 'Ribeira Grande',
     'type' => 'Municipality',
   ),
   13 => 
   array (
-    'code' => 'RS',
+    'code' => 'CV-RS',
     'name' => 'Ribeira Grande de Santiago',
     'type' => 'Municipality',
   ),
   14 => 
   array (
-    'code' => 'S',
+    'code' => 'CV-S',
     'name' => 'Ilhas de Sotavento',
     'type' => 'Geographical region',
   ),
   15 => 
   array (
-    'code' => 'SD',
+    'code' => 'CV-SD',
     'name' => 'São Domingos',
     'type' => 'Municipality',
   ),
   16 => 
   array (
-    'code' => 'SF',
+    'code' => 'CV-SF',
     'name' => 'São Filipe',
     'type' => 'Municipality',
   ),
   17 => 
   array (
-    'code' => 'SL',
+    'code' => 'CV-SL',
     'name' => 'Sal',
     'type' => 'Municipality',
   ),
   18 => 
   array (
-    'code' => 'SM',
+    'code' => 'CV-SM',
     'name' => 'São Miguel',
     'type' => 'Municipality',
   ),
   19 => 
   array (
-    'code' => 'SO',
+    'code' => 'CV-SO',
     'name' => 'São Lourenço dos Órgãos',
     'type' => 'Municipality',
   ),
   20 => 
   array (
-    'code' => 'SS',
+    'code' => 'CV-SS',
     'name' => 'São Salvador do Mundo',
     'type' => 'Municipality',
   ),
   21 => 
   array (
-    'code' => 'SV',
+    'code' => 'CV-SV',
     'name' => 'São Vicente',
     'type' => 'Municipality',
   ),
   22 => 
   array (
-    'code' => 'TA',
+    'code' => 'CV-TA',
     'name' => 'Tarrafal',
     'type' => 'Municipality',
   ),
   23 => 
   array (
-    'code' => 'TS',
+    'code' => 'CV-TS',
     'name' => 'Tarrafal de São Nicolau',
     'type' => 'Municipality',
   ),

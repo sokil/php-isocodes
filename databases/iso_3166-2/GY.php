@@ -1,61 +1,61 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BA',
+    'code' => 'GY-BA',
     'name' => 'Barima-Waini',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'CU',
+    'code' => 'GY-CU',
     'name' => 'Cuyuni-Mazaruni',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'DE',
+    'code' => 'GY-DE',
     'name' => 'Demerara-Mahaica',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'EB',
+    'code' => 'GY-EB',
     'name' => 'East Berbice-Corentyne',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'ES',
+    'code' => 'GY-ES',
     'name' => 'Essequibo Islands-West Demerara',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'MA',
+    'code' => 'GY-MA',
     'name' => 'Mahaica-Berbice',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'PM',
+    'code' => 'GY-PM',
     'name' => 'Pomeroon-Supenaam',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'PT',
+    'code' => 'GY-PT',
     'name' => 'Potaro-Siparuni',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'UD',
+    'code' => 'GY-UD',
     'name' => 'Upper Demerara-Berbice',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => 'UT',
+    'code' => 'GY-UT',
     'name' => 'Upper Takutu-Upper Essequibo',
     'type' => 'Region',
   ),

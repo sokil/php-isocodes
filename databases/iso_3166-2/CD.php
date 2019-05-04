@@ -1,67 +1,67 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BC',
+    'code' => 'CD-BC',
     'name' => 'Bas-Congo',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'BN',
+    'code' => 'CD-BN',
     'name' => 'Bandundu',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'EQ',
+    'code' => 'CD-EQ',
     'name' => 'Équateur',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'KA',
+    'code' => 'CD-KA',
     'name' => 'Katanga',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'KE',
+    'code' => 'CD-KE',
     'name' => 'Kasai-Oriental',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'KN',
+    'code' => 'CD-KN',
     'name' => 'Kinshasa',
     'type' => 'City',
   ),
   6 => 
   array (
-    'code' => 'KW',
+    'code' => 'CD-KW',
     'name' => 'Kasai-Occidental',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'MA',
+    'code' => 'CD-MA',
     'name' => 'Maniema',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'NK',
+    'code' => 'CD-NK',
     'name' => 'Nord-Kivu',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'OR',
+    'code' => 'CD-OR',
     'name' => 'Orientale',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'SK',
+    'code' => 'CD-SK',
     'name' => 'Sud-Kivu',
     'type' => 'Province',
   ),

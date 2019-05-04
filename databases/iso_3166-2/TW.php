@@ -1,139 +1,139 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'CHA',
+    'code' => 'TW-CHA',
     'name' => 'Changhua',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'CYI',
+    'code' => 'TW-CYI',
     'name' => 'Chiay City',
     'type' => 'Municipality',
   ),
   2 => 
   array (
-    'code' => 'CYQ',
+    'code' => 'TW-CYQ',
     'name' => 'Chiayi',
     'type' => 'District',
   ),
   3 => 
   array (
-    'code' => 'HSQ',
+    'code' => 'TW-HSQ',
     'name' => 'Hsinchu',
     'type' => 'District',
   ),
   4 => 
   array (
-    'code' => 'HSZ',
+    'code' => 'TW-HSZ',
     'name' => 'Hsinchui City',
     'type' => 'Municipality',
   ),
   5 => 
   array (
-    'code' => 'HUA',
+    'code' => 'TW-HUA',
     'name' => 'Hualien',
     'type' => 'District',
   ),
   6 => 
   array (
-    'code' => 'ILA',
+    'code' => 'TW-ILA',
     'name' => 'Ilan',
     'type' => 'District',
   ),
   7 => 
   array (
-    'code' => 'KEE',
+    'code' => 'TW-KEE',
     'name' => 'Keelung City',
     'type' => 'Municipality',
   ),
   8 => 
   array (
-    'code' => 'KHH',
+    'code' => 'TW-KHH',
     'name' => 'Kaohsiung City',
     'type' => 'Special Municipality',
   ),
   9 => 
   array (
-    'code' => 'KHQ',
+    'code' => 'TW-KHQ',
     'name' => 'Kaohsiung',
     'type' => 'District',
   ),
   10 => 
   array (
-    'code' => 'MIA',
+    'code' => 'TW-MIA',
     'name' => 'Miaoli',
     'type' => 'District',
   ),
   11 => 
   array (
-    'code' => 'NAN',
+    'code' => 'TW-NAN',
     'name' => 'Nantou',
     'type' => 'District',
   ),
   12 => 
   array (
-    'code' => 'PEN',
+    'code' => 'TW-PEN',
     'name' => 'Penghu',
     'type' => 'District',
   ),
   13 => 
   array (
-    'code' => 'PIF',
+    'code' => 'TW-PIF',
     'name' => 'Pingtung',
     'type' => 'District',
   ),
   14 => 
   array (
-    'code' => 'TAO',
+    'code' => 'TW-TAO',
     'name' => 'Taoyuan',
     'type' => 'District',
   ),
   15 => 
   array (
-    'code' => 'TNN',
+    'code' => 'TW-TNN',
     'name' => 'Tainan City',
     'type' => 'Municipality',
   ),
   16 => 
   array (
-    'code' => 'TNQ',
+    'code' => 'TW-TNQ',
     'name' => 'Tainan',
     'type' => 'District',
   ),
   17 => 
   array (
-    'code' => 'TPE',
+    'code' => 'TW-TPE',
     'name' => 'Taipei City',
     'type' => 'Special Municipality',
   ),
   18 => 
   array (
-    'code' => 'TPQ',
+    'code' => 'TW-TPQ',
     'name' => 'Taipei',
     'type' => 'District',
   ),
   19 => 
   array (
-    'code' => 'TTT',
+    'code' => 'TW-TTT',
     'name' => 'Taitung',
     'type' => 'District',
   ),
   20 => 
   array (
-    'code' => 'TXG',
+    'code' => 'TW-TXG',
     'name' => 'Taichung City',
     'type' => 'Municipality',
   ),
   21 => 
   array (
-    'code' => 'TXQ',
+    'code' => 'TW-TXQ',
     'name' => 'Taichung',
     'type' => 'District',
   ),
   22 => 
   array (
-    'code' => 'YUN',
+    'code' => 'TW-YUN',
     'name' => 'Yunlin',
     'type' => 'District',
   ),

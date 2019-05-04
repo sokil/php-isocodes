@@ -1,97 +1,97 @@
 <?php return array (
   0 => 
   array (
-    'code' => '002',
+    'code' => 'PW-002',
     'name' => 'Aimeliik',
     'type' => 'State',
   ),
   1 => 
   array (
-    'code' => '004',
+    'code' => 'PW-004',
     'name' => 'Airai',
     'type' => 'State',
   ),
   2 => 
   array (
-    'code' => '010',
+    'code' => 'PW-010',
     'name' => 'Angaur',
     'type' => 'State',
   ),
   3 => 
   array (
-    'code' => '050',
+    'code' => 'PW-050',
     'name' => 'Hatobohei',
     'type' => 'State',
   ),
   4 => 
   array (
-    'code' => '100',
+    'code' => 'PW-100',
     'name' => 'Kayangel',
     'type' => 'State',
   ),
   5 => 
   array (
-    'code' => '150',
+    'code' => 'PW-150',
     'name' => 'Koror',
     'type' => 'State',
   ),
   6 => 
   array (
-    'code' => '212',
+    'code' => 'PW-212',
     'name' => 'Melekeok',
     'type' => 'State',
   ),
   7 => 
   array (
-    'code' => '214',
+    'code' => 'PW-214',
     'name' => 'Ngaraard',
     'type' => 'State',
   ),
   8 => 
   array (
-    'code' => '218',
+    'code' => 'PW-218',
     'name' => 'Ngarchelong',
     'type' => 'State',
   ),
   9 => 
   array (
-    'code' => '222',
+    'code' => 'PW-222',
     'name' => 'Ngardmau',
     'type' => 'State',
   ),
   10 => 
   array (
-    'code' => '224',
+    'code' => 'PW-224',
     'name' => 'Ngatpang',
     'type' => 'State',
   ),
   11 => 
   array (
-    'code' => '226',
+    'code' => 'PW-226',
     'name' => 'Ngchesar',
     'type' => 'State',
   ),
   12 => 
   array (
-    'code' => '227',
+    'code' => 'PW-227',
     'name' => 'Ngeremlengui',
     'type' => 'State',
   ),
   13 => 
   array (
-    'code' => '228',
+    'code' => 'PW-228',
     'name' => 'Ngiwal',
     'type' => 'State',
   ),
   14 => 
   array (
-    'code' => '350',
+    'code' => 'PW-350',
     'name' => 'Peleliu',
     'type' => 'State',
   ),
   15 => 
   array (
-    'code' => '370',
+    'code' => 'PW-370',
     'name' => 'Sonsorol',
     'type' => 'State',
   ),

@@ -1,217 +1,217 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AN',
+    'code' => 'IN-AN',
     'name' => 'Andaman and Nicobar Islands',
     'type' => 'Union territory',
   ),
   1 => 
   array (
-    'code' => 'AP',
+    'code' => 'IN-AP',
     'name' => 'Andhra Pradesh',
     'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'AR',
+    'code' => 'IN-AR',
     'name' => 'Arunachal Pradesh',
     'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'AS',
+    'code' => 'IN-AS',
     'name' => 'Assam',
     'type' => 'State',
   ),
   4 => 
   array (
-    'code' => 'BR',
+    'code' => 'IN-BR',
     'name' => 'Bihar',
     'type' => 'State',
   ),
   5 => 
   array (
-    'code' => 'CH',
+    'code' => 'IN-CH',
     'name' => 'Chandigarh',
     'type' => 'Union territory',
   ),
   6 => 
   array (
-    'code' => 'CT',
+    'code' => 'IN-CT',
     'name' => 'Chhattisgarh',
     'type' => 'State',
   ),
   7 => 
   array (
-    'code' => 'DD',
+    'code' => 'IN-DD',
     'name' => 'Daman and Diu',
     'type' => 'Union territory',
   ),
   8 => 
   array (
-    'code' => 'DL',
+    'code' => 'IN-DL',
     'name' => 'Delhi',
     'type' => 'Union territory',
   ),
   9 => 
   array (
-    'code' => 'DN',
+    'code' => 'IN-DN',
     'name' => 'Dadra and Nagar Haveli',
     'type' => 'Union territory',
   ),
   10 => 
   array (
-    'code' => 'GA',
+    'code' => 'IN-GA',
     'name' => 'Goa',
     'type' => 'State',
   ),
   11 => 
   array (
-    'code' => 'GJ',
+    'code' => 'IN-GJ',
     'name' => 'Gujarat',
     'type' => 'State',
   ),
   12 => 
   array (
-    'code' => 'HP',
+    'code' => 'IN-HP',
     'name' => 'Himachal Pradesh',
     'type' => 'State',
   ),
   13 => 
   array (
-    'code' => 'HR',
+    'code' => 'IN-HR',
     'name' => 'Haryana',
     'type' => 'State',
   ),
   14 => 
   array (
-    'code' => 'JH',
+    'code' => 'IN-JH',
     'name' => 'Jharkhand',
     'type' => 'State',
   ),
   15 => 
   array (
-    'code' => 'JK',
+    'code' => 'IN-JK',
     'name' => 'Jammu and Kashmir',
     'type' => 'State',
   ),
   16 => 
   array (
-    'code' => 'KA',
+    'code' => 'IN-KA',
     'name' => 'Karnataka',
     'type' => 'State',
   ),
   17 => 
   array (
-    'code' => 'KL',
+    'code' => 'IN-KL',
     'name' => 'Kerala',
     'type' => 'State',
   ),
   18 => 
   array (
-    'code' => 'LD',
+    'code' => 'IN-LD',
     'name' => 'Lakshadweep',
     'type' => 'Union territory',
   ),
   19 => 
   array (
-    'code' => 'MH',
+    'code' => 'IN-MH',
     'name' => 'Maharashtra',
     'type' => 'State',
   ),
   20 => 
   array (
-    'code' => 'ML',
+    'code' => 'IN-ML',
     'name' => 'Meghalaya',
     'type' => 'State',
   ),
   21 => 
   array (
-    'code' => 'MN',
+    'code' => 'IN-MN',
     'name' => 'Manipur',
     'type' => 'State',
   ),
   22 => 
   array (
-    'code' => 'MP',
+    'code' => 'IN-MP',
     'name' => 'Madhya Pradesh',
     'type' => 'State',
   ),
   23 => 
   array (
-    'code' => 'MZ',
+    'code' => 'IN-MZ',
     'name' => 'Mizoram',
     'type' => 'State',
   ),
   24 => 
   array (
-    'code' => 'NL',
+    'code' => 'IN-NL',
     'name' => 'Nagaland',
     'type' => 'State',
   ),
   25 => 
   array (
-    'code' => 'OR',
+    'code' => 'IN-OR',
     'name' => 'Odisha',
     'type' => 'State',
   ),
   26 => 
   array (
-    'code' => 'PB',
+    'code' => 'IN-PB',
     'name' => 'Punjab',
     'type' => 'State',
   ),
   27 => 
   array (
-    'code' => 'PY',
+    'code' => 'IN-PY',
     'name' => 'Puducherry',
     'type' => 'Union territory',
   ),
   28 => 
   array (
-    'code' => 'RJ',
+    'code' => 'IN-RJ',
     'name' => 'Rajasthan',
     'type' => 'State',
   ),
   29 => 
   array (
-    'code' => 'SK',
+    'code' => 'IN-SK',
     'name' => 'Sikkim',
     'type' => 'State',
   ),
   30 => 
   array (
-    'code' => 'TG',
+    'code' => 'IN-TG',
     'name' => 'Telangana',
     'type' => 'State',
   ),
   31 => 
   array (
-    'code' => 'TN',
+    'code' => 'IN-TN',
     'name' => 'Tamil Nadu',
     'type' => 'State',
   ),
   32 => 
   array (
-    'code' => 'TR',
+    'code' => 'IN-TR',
     'name' => 'Tripura',
     'type' => 'State',
   ),
   33 => 
   array (
-    'code' => 'UP',
+    'code' => 'IN-UP',
     'name' => 'Uttar Pradesh',
     'type' => 'State',
   ),
   34 => 
   array (
-    'code' => 'UT',
+    'code' => 'IN-UT',
     'name' => 'Uttarakhand',
     'type' => 'State',
   ),
   35 => 
   array (
-    'code' => 'WB',
+    'code' => 'IN-WB',
     'name' => 'West Bengal',
     'type' => 'State',
   ),

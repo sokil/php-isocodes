@@ -1,145 +1,145 @@
 <?php return array (
   0 => 
   array (
-    'code' => '1',
+    'code' => 'KH-1',
     'name' => 'Banteay Mean Chey',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => '10',
+    'code' => 'KH-10',
     'name' => 'Krachoh',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => '11',
+    'code' => 'KH-11',
     'name' => 'Mondol Kiri',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => '12',
+    'code' => 'KH-12',
     'name' => 'Phnom Penh',
     'type' => 'Autonomous municipality',
   ),
   4 => 
   array (
-    'code' => '13',
+    'code' => 'KH-13',
     'name' => 'Preah Vihear',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => '14',
+    'code' => 'KH-14',
     'name' => 'Prey Veaeng',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => '15',
+    'code' => 'KH-15',
     'name' => 'Pousaat',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => '16',
+    'code' => 'KH-16',
     'name' => 'Rotanak Kiri',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => '17',
+    'code' => 'KH-17',
     'name' => 'Siem Reab',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => '18',
+    'code' => 'KH-18',
     'name' => 'Krong Preah Sihanouk',
     'type' => 'Autonomous municipality',
   ),
   10 => 
   array (
-    'code' => '19',
+    'code' => 'KH-19',
     'name' => 'Stueng Traeng',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => '2',
+    'code' => 'KH-2',
     'name' => 'Battambang',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => '20',
+    'code' => 'KH-20',
     'name' => 'Svaay Rieng',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => '21',
+    'code' => 'KH-21',
     'name' => 'Taakaev',
     'type' => 'Province',
   ),
   14 => 
   array (
-    'code' => '22',
+    'code' => 'KH-22',
     'name' => 'Otdar Mean Chey',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => '23',
+    'code' => 'KH-23',
     'name' => 'Krong Kaeb',
     'type' => 'Autonomous municipality',
   ),
   16 => 
   array (
-    'code' => '24',
+    'code' => 'KH-24',
     'name' => 'Krong Pailin',
     'type' => 'Autonomous municipality',
   ),
   17 => 
   array (
-    'code' => '3',
+    'code' => 'KH-3',
     'name' => 'Kampong Cham',
     'type' => 'Province',
   ),
   18 => 
   array (
-    'code' => '4',
+    'code' => 'KH-4',
     'name' => 'Kampong Chhnang',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => '5',
+    'code' => 'KH-5',
     'name' => 'Kampong Speu',
     'type' => 'Province',
   ),
   20 => 
   array (
-    'code' => '6',
+    'code' => 'KH-6',
     'name' => 'Kampong Thom',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => '7',
+    'code' => 'KH-7',
     'name' => 'Kampot',
     'type' => 'Province',
   ),
   22 => 
   array (
-    'code' => '8',
+    'code' => 'KH-8',
     'name' => 'Kandal',
     'type' => 'Province',
   ),
   23 => 
   array (
-    'code' => '9',
+    'code' => 'KH-9',
     'name' => 'Kach Kong',
     'type' => 'Province',
   ),

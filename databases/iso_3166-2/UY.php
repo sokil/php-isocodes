@@ -1,115 +1,115 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AR',
+    'code' => 'UY-AR',
     'name' => 'Artigas',
     'type' => 'Department',
   ),
   1 => 
   array (
-    'code' => 'CA',
+    'code' => 'UY-CA',
     'name' => 'Canelones',
     'type' => 'Department',
   ),
   2 => 
   array (
-    'code' => 'CL',
+    'code' => 'UY-CL',
     'name' => 'Cerro Largo',
     'type' => 'Department',
   ),
   3 => 
   array (
-    'code' => 'CO',
+    'code' => 'UY-CO',
     'name' => 'Colonia',
     'type' => 'Department',
   ),
   4 => 
   array (
-    'code' => 'DU',
+    'code' => 'UY-DU',
     'name' => 'Durazno',
     'type' => 'Department',
   ),
   5 => 
   array (
-    'code' => 'FD',
+    'code' => 'UY-FD',
     'name' => 'Florida',
     'type' => 'Department',
   ),
   6 => 
   array (
-    'code' => 'FS',
+    'code' => 'UY-FS',
     'name' => 'Flores',
     'type' => 'Department',
   ),
   7 => 
   array (
-    'code' => 'LA',
+    'code' => 'UY-LA',
     'name' => 'Lavalleja',
     'type' => 'Department',
   ),
   8 => 
   array (
-    'code' => 'MA',
+    'code' => 'UY-MA',
     'name' => 'Maldonado',
     'type' => 'Department',
   ),
   9 => 
   array (
-    'code' => 'MO',
+    'code' => 'UY-MO',
     'name' => 'Montevideo',
     'type' => 'Department',
   ),
   10 => 
   array (
-    'code' => 'PA',
+    'code' => 'UY-PA',
     'name' => 'Paysandú',
     'type' => 'Department',
   ),
   11 => 
   array (
-    'code' => 'RN',
+    'code' => 'UY-RN',
     'name' => 'Río Negro',
     'type' => 'Department',
   ),
   12 => 
   array (
-    'code' => 'RO',
+    'code' => 'UY-RO',
     'name' => 'Rocha',
     'type' => 'Department',
   ),
   13 => 
   array (
-    'code' => 'RV',
+    'code' => 'UY-RV',
     'name' => 'Rivera',
     'type' => 'Department',
   ),
   14 => 
   array (
-    'code' => 'SA',
+    'code' => 'UY-SA',
     'name' => 'Salto',
     'type' => 'Department',
   ),
   15 => 
   array (
-    'code' => 'SJ',
+    'code' => 'UY-SJ',
     'name' => 'San José',
     'type' => 'Department',
   ),
   16 => 
   array (
-    'code' => 'SO',
+    'code' => 'UY-SO',
     'name' => 'Soriano',
     'type' => 'Department',
   ),
   17 => 
   array (
-    'code' => 'TA',
+    'code' => 'UY-TA',
     'name' => 'Tacuarembó',
     'type' => 'Department',
   ),
   18 => 
   array (
-    'code' => 'TT',
+    'code' => 'UY-TT',
     'name' => 'Treinta y Tres',
     'type' => 'Department',
   ),

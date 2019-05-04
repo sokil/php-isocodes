@@ -1,121 +1,121 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AB',
+    'code' => 'YE-AB',
     'name' => 'Abyān',
     'type' => 'Governorate',
   ),
   1 => 
   array (
-    'code' => 'AD',
+    'code' => 'YE-AD',
     'name' => '\'Adan',
     'type' => 'Governorate',
   ),
   2 => 
   array (
-    'code' => 'AM',
+    'code' => 'YE-AM',
     'name' => '\'Amrān',
     'type' => 'Governorate',
   ),
   3 => 
   array (
-    'code' => 'BA',
+    'code' => 'YE-BA',
     'name' => 'Al Bayḑā\'',
     'type' => 'Governorate',
   ),
   4 => 
   array (
-    'code' => 'DA',
+    'code' => 'YE-DA',
     'name' => 'Aḑ Ḑāli‘',
     'type' => 'Governorate',
   ),
   5 => 
   array (
-    'code' => 'DH',
+    'code' => 'YE-DH',
     'name' => 'Dhamār',
     'type' => 'Governorate',
   ),
   6 => 
   array (
-    'code' => 'HD',
+    'code' => 'YE-HD',
     'name' => 'Ḩaḑramawt',
     'type' => 'Governorate',
   ),
   7 => 
   array (
-    'code' => 'HJ',
+    'code' => 'YE-HJ',
     'name' => 'Ḩajjah',
     'type' => 'Governorate',
   ),
   8 => 
   array (
-    'code' => 'IB',
+    'code' => 'YE-IB',
     'name' => 'Ibb',
     'type' => 'Governorate',
   ),
   9 => 
   array (
-    'code' => 'JA',
+    'code' => 'YE-JA',
     'name' => 'Al Jawf',
     'type' => 'Governorate',
   ),
   10 => 
   array (
-    'code' => 'LA',
+    'code' => 'YE-LA',
     'name' => 'Laḩij',
     'type' => 'Governorate',
   ),
   11 => 
   array (
-    'code' => 'MA',
+    'code' => 'YE-MA',
     'name' => 'Ma\'rib',
     'type' => 'Governorate',
   ),
   12 => 
   array (
-    'code' => 'MR',
+    'code' => 'YE-MR',
     'name' => 'Al Mahrah',
     'type' => 'Governorate',
   ),
   13 => 
   array (
-    'code' => 'MU',
+    'code' => 'YE-MU',
     'name' => 'Al Ḩudaydah',
     'type' => 'Governorate',
   ),
   14 => 
   array (
-    'code' => 'MW',
+    'code' => 'YE-MW',
     'name' => 'Al Maḩwīt',
     'type' => 'Governorate',
   ),
   15 => 
   array (
-    'code' => 'RA',
+    'code' => 'YE-RA',
     'name' => 'Raymah',
     'type' => 'Governorate',
   ),
   16 => 
   array (
-    'code' => 'SD',
+    'code' => 'YE-SD',
     'name' => 'Şa\'dah',
     'type' => 'Governorate',
   ),
   17 => 
   array (
-    'code' => 'SH',
+    'code' => 'YE-SH',
     'name' => 'Shabwah',
     'type' => 'Governorate',
   ),
   18 => 
   array (
-    'code' => 'SN',
+    'code' => 'YE-SN',
     'name' => 'Şan\'ā\'',
     'type' => 'Governorate',
   ),
   19 => 
   array (
-    'code' => 'TA',
+    'code' => 'YE-TA',
     'name' => 'Tā\'izz',
     'type' => 'Governorate',
   ),

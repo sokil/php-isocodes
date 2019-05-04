@@ -1,193 +1,193 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AGU',
+    'code' => 'MX-AGU',
     'name' => 'Aguascalientes',
     'type' => 'State',
   ),
   1 => 
   array (
-    'code' => 'BCN',
+    'code' => 'MX-BCN',
     'name' => 'Baja California',
     'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'BCS',
+    'code' => 'MX-BCS',
     'name' => 'Baja California Sur',
     'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'CAM',
+    'code' => 'MX-CAM',
     'name' => 'Campeche',
     'type' => 'State',
   ),
   4 => 
   array (
-    'code' => 'CHH',
+    'code' => 'MX-CHH',
     'name' => 'Chihuahua',
     'type' => 'State',
   ),
   5 => 
   array (
-    'code' => 'CHP',
+    'code' => 'MX-CHP',
     'name' => 'Chiapas',
     'type' => 'State',
   ),
   6 => 
   array (
-    'code' => 'CMX',
+    'code' => 'MX-CMX',
     'name' => 'Ciudad de México',
     'type' => 'Federal district',
   ),
   7 => 
   array (
-    'code' => 'COA',
+    'code' => 'MX-COA',
     'name' => 'Coahuila de Zaragoza',
     'type' => 'State',
   ),
   8 => 
   array (
-    'code' => 'COL',
+    'code' => 'MX-COL',
     'name' => 'Colima',
     'type' => 'State',
   ),
   9 => 
   array (
-    'code' => 'DUR',
+    'code' => 'MX-DUR',
     'name' => 'Durango',
     'type' => 'State',
   ),
   10 => 
   array (
-    'code' => 'GRO',
+    'code' => 'MX-GRO',
     'name' => 'Guerrero',
     'type' => 'State',
   ),
   11 => 
   array (
-    'code' => 'GUA',
+    'code' => 'MX-GUA',
     'name' => 'Guanajuato',
     'type' => 'State',
   ),
   12 => 
   array (
-    'code' => 'HID',
+    'code' => 'MX-HID',
     'name' => 'Hidalgo',
     'type' => 'State',
   ),
   13 => 
   array (
-    'code' => 'JAL',
+    'code' => 'MX-JAL',
     'name' => 'Jalisco',
     'type' => 'State',
   ),
   14 => 
   array (
-    'code' => 'MEX',
+    'code' => 'MX-MEX',
     'name' => 'México',
     'type' => 'State',
   ),
   15 => 
   array (
-    'code' => 'MIC',
+    'code' => 'MX-MIC',
     'name' => 'Michoacán de Ocampo',
     'type' => 'State',
   ),
   16 => 
   array (
-    'code' => 'MOR',
+    'code' => 'MX-MOR',
     'name' => 'Morelos',
     'type' => 'State',
   ),
   17 => 
   array (
-    'code' => 'NAY',
+    'code' => 'MX-NAY',
     'name' => 'Nayarit',
     'type' => 'State',
   ),
   18 => 
   array (
-    'code' => 'NLE',
+    'code' => 'MX-NLE',
     'name' => 'Nuevo León',
     'type' => 'State',
   ),
   19 => 
   array (
-    'code' => 'OAX',
+    'code' => 'MX-OAX',
     'name' => 'Oaxaca',
     'type' => 'State',
   ),
   20 => 
   array (
-    'code' => 'PUE',
+    'code' => 'MX-PUE',
     'name' => 'Puebla',
     'type' => 'State',
   ),
   21 => 
   array (
-    'code' => 'QUE',
+    'code' => 'MX-QUE',
     'name' => 'Querétaro',
     'type' => 'State',
   ),
   22 => 
   array (
-    'code' => 'ROO',
+    'code' => 'MX-ROO',
     'name' => 'Quintana Roo',
     'type' => 'State',
   ),
   23 => 
   array (
-    'code' => 'SIN',
+    'code' => 'MX-SIN',
     'name' => 'Sinaloa',
     'type' => 'State',
   ),
   24 => 
   array (
-    'code' => 'SLP',
+    'code' => 'MX-SLP',
     'name' => 'San Luis Potosí',
     'type' => 'State',
   ),
   25 => 
   array (
-    'code' => 'SON',
+    'code' => 'MX-SON',
     'name' => 'Sonora',
     'type' => 'State',
   ),
   26 => 
   array (
-    'code' => 'TAB',
+    'code' => 'MX-TAB',
     'name' => 'Tabasco',
     'type' => 'State',
   ),
   27 => 
   array (
-    'code' => 'TAM',
+    'code' => 'MX-TAM',
     'name' => 'Tamaulipas',
     'type' => 'State',
   ),
   28 => 
   array (
-    'code' => 'TLA',
+    'code' => 'MX-TLA',
     'name' => 'Tlaxcala',
     'type' => 'State',
   ),
   29 => 
   array (
-    'code' => 'VER',
+    'code' => 'MX-VER',
     'name' => 'Veracruz de Ignacio de la Llave',
     'type' => 'State',
   ),
   30 => 
   array (
-    'code' => 'YUC',
+    'code' => 'MX-YUC',
     'name' => 'Yucatán',
     'type' => 'State',
   ),
   31 => 
   array (
-    'code' => 'ZAC',
+    'code' => 'MX-ZAC',
     'name' => 'Zacatecas',
     'type' => 'State',
   ),

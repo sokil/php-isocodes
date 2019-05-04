@@ -1,43 +1,43 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'DA',
+    'code' => 'QA-DA',
     'name' => 'Ad Dawhah',
     'type' => 'Municipality',
   ),
   1 => 
   array (
-    'code' => 'KH',
+    'code' => 'QA-KH',
     'name' => 'Al Khawr wa adh Dhakhīrah',
     'type' => 'Municipality',
   ),
   2 => 
   array (
-    'code' => 'MS',
+    'code' => 'QA-MS',
     'name' => 'Ash Shamal',
     'type' => 'Municipality',
   ),
   3 => 
   array (
-    'code' => 'RA',
+    'code' => 'QA-RA',
     'name' => 'Ar Rayyan',
     'type' => 'Municipality',
   ),
   4 => 
   array (
-    'code' => 'US',
+    'code' => 'QA-US',
     'name' => 'Umm Salal',
     'type' => 'Municipality',
   ),
   5 => 
   array (
-    'code' => 'WA',
+    'code' => 'QA-WA',
     'name' => 'Al Wakrah',
     'type' => 'Municipality',
   ),
   6 => 
   array (
-    'code' => 'ZA',
+    'code' => 'QA-ZA',
     'name' => 'Az̧ Z̧a‘āyin',
     'type' => 'Municipality',
   ),

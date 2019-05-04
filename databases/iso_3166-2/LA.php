@@ -1,109 +1,109 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AT',
+    'code' => 'LA-AT',
     'name' => 'Attapu',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'BK',
+    'code' => 'LA-BK',
     'name' => 'Bokèo',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'BL',
+    'code' => 'LA-BL',
     'name' => 'Bolikhamxai',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'CH',
+    'code' => 'LA-CH',
     'name' => 'Champasak',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'HO',
+    'code' => 'LA-HO',
     'name' => 'Houaphan',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'KH',
+    'code' => 'LA-KH',
     'name' => 'Khammouan',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'LM',
+    'code' => 'LA-LM',
     'name' => 'Louang Namtha',
     'type' => 'Province',
   ),
   7 => 
   array (
-    'code' => 'LP',
+    'code' => 'LA-LP',
     'name' => 'Louangphabang',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'OU',
+    'code' => 'LA-OU',
     'name' => 'Oudômxai',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'PH',
+    'code' => 'LA-PH',
     'name' => 'Phôngsali',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'SL',
+    'code' => 'LA-SL',
     'name' => 'Salavan',
     'type' => 'Province',
   ),
   11 => 
   array (
-    'code' => 'SV',
+    'code' => 'LA-SV',
     'name' => 'Savannakhét',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'VI',
+    'code' => 'LA-VI',
     'name' => 'Vientiane',
     'type' => 'Province',
   ),
   13 => 
   array (
-    'code' => 'VT',
+    'code' => 'LA-VT',
     'name' => 'Vientiane',
     'type' => 'Prefecture',
   ),
   14 => 
   array (
-    'code' => 'XA',
+    'code' => 'LA-XA',
     'name' => 'Xaignabouli',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'XE',
+    'code' => 'LA-XE',
     'name' => 'Xékong',
     'type' => 'Province',
   ),
   16 => 
   array (
-    'code' => 'XI',
+    'code' => 'LA-XI',
     'name' => 'Xiangkhouang',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => 'XS',
+    'code' => 'LA-XS',
     'name' => 'Xaisômboun',
     'type' => 'Province',
   ),

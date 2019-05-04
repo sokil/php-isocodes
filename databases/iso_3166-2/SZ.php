@@ -1,25 +1,25 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'HH',
+    'code' => 'SZ-HH',
     'name' => 'Hhohho',
     'type' => 'District',
   ),
   1 => 
   array (
-    'code' => 'LU',
+    'code' => 'SZ-LU',
     'name' => 'Lubombo',
     'type' => 'District',
   ),
   2 => 
   array (
-    'code' => 'MA',
+    'code' => 'SZ-MA',
     'name' => 'Manzini',
     'type' => 'District',
   ),
   3 => 
   array (
-    'code' => 'SH',
+    'code' => 'SZ-SH',
     'name' => 'Shiselweni',
     'type' => 'District',
   ),

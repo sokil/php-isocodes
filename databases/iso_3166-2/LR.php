@@ -1,79 +1,79 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BG',
+    'code' => 'LR-BG',
     'name' => 'Bong',
     'type' => 'County',
   ),
   1 => 
   array (
-    'code' => 'BM',
+    'code' => 'LR-BM',
     'name' => 'Bomi',
     'type' => 'County',
   ),
   2 => 
   array (
-    'code' => 'CM',
+    'code' => 'LR-CM',
     'name' => 'Grand Cape Mount',
     'type' => 'County',
   ),
   3 => 
   array (
-    'code' => 'GB',
+    'code' => 'LR-GB',
     'name' => 'Grand Bassa',
     'type' => 'County',
   ),
   4 => 
   array (
-    'code' => 'GG',
+    'code' => 'LR-GG',
     'name' => 'Grand Gedeh',
     'type' => 'County',
   ),
   5 => 
   array (
-    'code' => 'GK',
+    'code' => 'LR-GK',
     'name' => 'Grand Kru',
     'type' => 'County',
   ),
   6 => 
   array (
-    'code' => 'LO',
+    'code' => 'LR-LO',
     'name' => 'Lofa',
     'type' => 'County',
   ),
   7 => 
   array (
-    'code' => 'MG',
+    'code' => 'LR-MG',
     'name' => 'Margibi',
     'type' => 'County',
   ),
   8 => 
   array (
-    'code' => 'MO',
+    'code' => 'LR-MO',
     'name' => 'Montserrado',
     'type' => 'County',
   ),
   9 => 
   array (
-    'code' => 'MY',
+    'code' => 'LR-MY',
     'name' => 'Maryland',
     'type' => 'County',
   ),
   10 => 
   array (
-    'code' => 'NI',
+    'code' => 'LR-NI',
     'name' => 'Nimba',
     'type' => 'County',
   ),
   11 => 
   array (
-    'code' => 'RI',
+    'code' => 'LR-RI',
     'name' => 'Rivercess',
     'type' => 'County',
   ),
   12 => 
   array (
-    'code' => 'SI',
+    'code' => 'LR-SI',
     'name' => 'Sinoe',
     'type' => 'County',
   ),

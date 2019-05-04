@@ -1,49 +1,49 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'BC',
+    'code' => 'SK-BC',
     'name' => 'Banskobystrický kraj',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'BL',
+    'code' => 'SK-BL',
     'name' => 'Bratislavský kraj',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'KI',
+    'code' => 'SK-KI',
     'name' => 'Košický kraj',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => 'NI',
+    'code' => 'SK-NI',
     'name' => 'Nitriansky kraj',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'PV',
+    'code' => 'SK-PV',
     'name' => 'Prešovský kraj',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => 'TA',
+    'code' => 'SK-TA',
     'name' => 'Trnavský kraj',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'TC',
+    'code' => 'SK-TC',
     'name' => 'Trenčiansky kraj',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'ZI',
+    'code' => 'SK-ZI',
     'name' => 'Žilinský kraj',
     'type' => 'Region',
   ),

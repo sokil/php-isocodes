@@ -1,169 +1,169 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AC',
+    'code' => 'BR-AC',
     'name' => 'Acre',
     'type' => 'State',
   ),
   1 => 
   array (
-    'code' => 'AL',
+    'code' => 'BR-AL',
     'name' => 'Alagoas',
     'type' => 'State',
   ),
   2 => 
   array (
-    'code' => 'AM',
+    'code' => 'BR-AM',
     'name' => 'Amazonas',
     'type' => 'State',
   ),
   3 => 
   array (
-    'code' => 'AP',
+    'code' => 'BR-AP',
     'name' => 'Amapá',
     'type' => 'State',
   ),
   4 => 
   array (
-    'code' => 'BA',
+    'code' => 'BR-BA',
     'name' => 'Bahia',
     'type' => 'State',
   ),
   5 => 
   array (
-    'code' => 'CE',
+    'code' => 'BR-CE',
     'name' => 'Ceará',
     'type' => 'State',
   ),
   6 => 
   array (
-    'code' => 'DF',
+    'code' => 'BR-DF',
     'name' => 'Distrito Federal',
     'type' => 'Federal District',
   ),
   7 => 
   array (
-    'code' => 'ES',
+    'code' => 'BR-ES',
     'name' => 'Espírito Santo',
     'type' => 'State',
   ),
   8 => 
   array (
-    'code' => 'FN',
+    'code' => 'BR-FN',
     'name' => 'Fernando de Noronha',
     'type' => 'State',
   ),
   9 => 
   array (
-    'code' => 'GO',
+    'code' => 'BR-GO',
     'name' => 'Goiás',
     'type' => 'State',
   ),
   10 => 
   array (
-    'code' => 'MA',
+    'code' => 'BR-MA',
     'name' => 'Maranhão',
     'type' => 'State',
   ),
   11 => 
   array (
-    'code' => 'MG',
+    'code' => 'BR-MG',
     'name' => 'Minas Gerais',
     'type' => 'State',
   ),
   12 => 
   array (
-    'code' => 'MS',
+    'code' => 'BR-MS',
     'name' => 'Mato Grosso do Sul',
     'type' => 'State',
   ),
   13 => 
   array (
-    'code' => 'MT',
+    'code' => 'BR-MT',
     'name' => 'Mato Grosso',
     'type' => 'State',
   ),
   14 => 
   array (
-    'code' => 'PA',
+    'code' => 'BR-PA',
     'name' => 'Pará',
     'type' => 'State',
   ),
   15 => 
   array (
-    'code' => 'PB',
+    'code' => 'BR-PB',
     'name' => 'Paraíba',
     'type' => 'State',
   ),
   16 => 
   array (
-    'code' => 'PE',
+    'code' => 'BR-PE',
     'name' => 'Pernambuco',
     'type' => 'State',
   ),
   17 => 
   array (
-    'code' => 'PI',
+    'code' => 'BR-PI',
     'name' => 'Piauí',
     'type' => 'State',
   ),
   18 => 
   array (
-    'code' => 'PR',
+    'code' => 'BR-PR',
     'name' => 'Paraná',
     'type' => 'State',
   ),
   19 => 
   array (
-    'code' => 'RJ',
+    'code' => 'BR-RJ',
     'name' => 'Rio de Janeiro',
     'type' => 'State',
   ),
   20 => 
   array (
-    'code' => 'RN',
+    'code' => 'BR-RN',
     'name' => 'Rio Grande do Norte',
     'type' => 'State',
   ),
   21 => 
   array (
-    'code' => 'RO',
+    'code' => 'BR-RO',
     'name' => 'Rondônia',
     'type' => 'State',
   ),
   22 => 
   array (
-    'code' => 'RR',
+    'code' => 'BR-RR',
     'name' => 'Roraima',
     'type' => 'State',
   ),
   23 => 
   array (
-    'code' => 'RS',
+    'code' => 'BR-RS',
     'name' => 'Rio Grande do Sul',
     'type' => 'State',
   ),
   24 => 
   array (
-    'code' => 'SC',
+    'code' => 'BR-SC',
     'name' => 'Santa Catarina',
     'type' => 'State',
   ),
   25 => 
   array (
-    'code' => 'SE',
+    'code' => 'BR-SE',
     'name' => 'Sergipe',
     'type' => 'State',
   ),
   26 => 
   array (
-    'code' => 'SP',
+    'code' => 'BR-SP',
     'name' => 'São Paulo',
     'type' => 'State',
   ),
   27 => 
   array (
-    'code' => 'TO',
+    'code' => 'BR-TO',
     'name' => 'Tocantins',
     'type' => 'State',
   ),

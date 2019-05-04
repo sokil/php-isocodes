@@ -1,241 +1,241 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AC',
+    'code' => 'ID-AC',
     'name' => 'Aceh',
     'type' => 'Autonomous Province',
   ),
   1 => 
   array (
-    'code' => 'BA',
+    'code' => 'ID-BA',
     'name' => 'Bali',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'BB',
+    'code' => 'ID-BB',
     'name' => 'Bangka Belitung',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'BE',
+    'code' => 'ID-BE',
     'name' => 'Bengkulu',
     'type' => 'Province',
   ),
   4 => 
   array (
-    'code' => 'BT',
+    'code' => 'ID-BT',
     'name' => 'Banten',
     'type' => 'Province',
   ),
   5 => 
   array (
-    'code' => 'GO',
+    'code' => 'ID-GO',
     'name' => 'Gorontalo',
     'type' => 'Province',
   ),
   6 => 
   array (
-    'code' => 'IJ',
+    'code' => 'ID-IJ',
     'name' => 'Papua',
     'type' => 'Geographical unit',
   ),
   7 => 
   array (
-    'code' => 'JA',
+    'code' => 'ID-JA',
     'name' => 'Jambi',
     'type' => 'Province',
   ),
   8 => 
   array (
-    'code' => 'JB',
+    'code' => 'ID-JB',
     'name' => 'Jawa Barat',
     'type' => 'Province',
   ),
   9 => 
   array (
-    'code' => 'JI',
+    'code' => 'ID-JI',
     'name' => 'Jawa Timur',
     'type' => 'Province',
   ),
   10 => 
   array (
-    'code' => 'JK',
+    'code' => 'ID-JK',
     'name' => 'Jakarta Raya',
     'type' => 'Special District',
   ),
   11 => 
   array (
-    'code' => 'JT',
+    'code' => 'ID-JT',
     'name' => 'Jawa Tengah',
     'type' => 'Province',
   ),
   12 => 
   array (
-    'code' => 'JW',
+    'code' => 'ID-JW',
     'name' => 'Jawa',
     'type' => 'Geographical unit',
   ),
   13 => 
   array (
-    'code' => 'KA',
+    'code' => 'ID-KA',
     'name' => 'Kalimantan',
     'type' => 'Geographical unit',
   ),
   14 => 
   array (
-    'code' => 'KB',
+    'code' => 'ID-KB',
     'name' => 'Kalimantan Barat',
     'type' => 'Province',
   ),
   15 => 
   array (
-    'code' => 'KI',
+    'code' => 'ID-KI',
     'name' => 'Kalimantan Timur',
     'type' => 'Province',
   ),
   16 => 
   array (
-    'code' => 'KR',
+    'code' => 'ID-KR',
     'name' => 'Kepulauan Riau',
     'type' => 'Province',
   ),
   17 => 
   array (
-    'code' => 'KS',
+    'code' => 'ID-KS',
     'name' => 'Kalimantan Selatan',
     'type' => 'Province',
   ),
   18 => 
   array (
-    'code' => 'KT',
+    'code' => 'ID-KT',
     'name' => 'Kalimantan Tengah',
     'type' => 'Province',
   ),
   19 => 
   array (
-    'code' => 'LA',
+    'code' => 'ID-LA',
     'name' => 'Lampung',
     'type' => 'Province',
   ),
   20 => 
   array (
-    'code' => 'MA',
+    'code' => 'ID-MA',
     'name' => 'Maluku',
     'type' => 'Province',
   ),
   21 => 
   array (
-    'code' => 'ML',
+    'code' => 'ID-ML',
     'name' => 'Maluku',
     'type' => 'Geographical unit',
   ),
   22 => 
   array (
-    'code' => 'MU',
+    'code' => 'ID-MU',
     'name' => 'Maluku Utara',
     'type' => 'Province',
   ),
   23 => 
   array (
-    'code' => 'NB',
+    'code' => 'ID-NB',
     'name' => 'Nusa Tenggara Barat',
     'type' => 'Province',
   ),
   24 => 
   array (
-    'code' => 'NT',
+    'code' => 'ID-NT',
     'name' => 'Nusa Tenggara Timur',
     'type' => 'Province',
   ),
   25 => 
   array (
-    'code' => 'NU',
+    'code' => 'ID-NU',
     'name' => 'Nusa Tenggara',
     'type' => 'Geographical unit',
   ),
   26 => 
   array (
-    'code' => 'PA',
+    'code' => 'ID-PA',
     'name' => 'Papua',
     'type' => 'Province',
   ),
   27 => 
   array (
-    'code' => 'PB',
+    'code' => 'ID-PB',
     'name' => 'Papua Barat',
     'type' => 'Province',
   ),
   28 => 
   array (
-    'code' => 'RI',
+    'code' => 'ID-RI',
     'name' => 'Riau',
     'type' => 'Province',
   ),
   29 => 
   array (
-    'code' => 'SA',
+    'code' => 'ID-SA',
     'name' => 'Sulawesi Utara',
     'type' => 'Province',
   ),
   30 => 
   array (
-    'code' => 'SB',
+    'code' => 'ID-SB',
     'name' => 'Sumatra Barat',
     'type' => 'Province',
   ),
   31 => 
   array (
-    'code' => 'SG',
+    'code' => 'ID-SG',
     'name' => 'Sulawesi Tenggara',
     'type' => 'Province',
   ),
   32 => 
   array (
-    'code' => 'SL',
+    'code' => 'ID-SL',
     'name' => 'Sulawesi',
     'type' => 'Geographical unit',
   ),
   33 => 
   array (
-    'code' => 'SM',
+    'code' => 'ID-SM',
     'name' => 'Sumatera',
     'type' => 'Geographical unit',
   ),
   34 => 
   array (
-    'code' => 'SN',
+    'code' => 'ID-SN',
     'name' => 'Sulawesi Selatan',
     'type' => 'Province',
   ),
   35 => 
   array (
-    'code' => 'SR',
+    'code' => 'ID-SR',
     'name' => 'Sulawesi Barat',
     'type' => 'Province',
   ),
   36 => 
   array (
-    'code' => 'SS',
+    'code' => 'ID-SS',
     'name' => 'Sumatra Selatan',
     'type' => 'Province',
   ),
   37 => 
   array (
-    'code' => 'ST',
+    'code' => 'ID-ST',
     'name' => 'Sulawesi Tengah',
     'type' => 'Province',
   ),
   38 => 
   array (
-    'code' => 'SU',
+    'code' => 'ID-SU',
     'name' => 'Sumatera Utara',
     'type' => 'Province',
   ),
   39 => 
   array (
-    'code' => 'YO',
+    'code' => 'ID-YO',
     'name' => 'Yogyakarta',
     'type' => 'Special Region',
   ),

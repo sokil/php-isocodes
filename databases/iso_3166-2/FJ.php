@@ -1,31 +1,31 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'C',
+    'code' => 'FJ-C',
     'name' => 'Central',
     'type' => 'Division',
   ),
   1 => 
   array (
-    'code' => 'E',
+    'code' => 'FJ-E',
     'name' => 'Eastern',
     'type' => 'Division',
   ),
   2 => 
   array (
-    'code' => 'N',
+    'code' => 'FJ-N',
     'name' => 'Northern',
     'type' => 'Division',
   ),
   3 => 
   array (
-    'code' => 'R',
+    'code' => 'FJ-R',
     'name' => 'Rotuma',
     'type' => 'Dependency',
   ),
   4 => 
   array (
-    'code' => 'W',
+    'code' => 'FJ-W',
     'name' => 'Western',
     'type' => 'Division',
   ),

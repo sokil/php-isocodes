@@ -1,97 +1,97 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AKM',
+    'code' => 'KZ-AKM',
     'name' => 'Aqmola oblysy',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => 'AKT',
+    'code' => 'KZ-AKT',
     'name' => 'Aqtöbe oblysy',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => 'ALA',
+    'code' => 'KZ-ALA',
     'name' => 'Almaty',
     'type' => 'City',
   ),
   3 => 
   array (
-    'code' => 'ALM',
+    'code' => 'KZ-ALM',
     'name' => 'Almaty oblysy',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => 'AST',
+    'code' => 'KZ-AST',
     'name' => 'Astana',
     'type' => 'City',
   ),
   5 => 
   array (
-    'code' => 'ATY',
+    'code' => 'KZ-ATY',
     'name' => 'Atyraū oblysy',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => 'KAR',
+    'code' => 'KZ-KAR',
     'name' => 'Qaraghandy oblysy',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => 'KUS',
+    'code' => 'KZ-KUS',
     'name' => 'Qostanay oblysy',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'KZY',
+    'code' => 'KZ-KZY',
     'name' => 'Qyzylorda oblysy',
     'type' => 'Region',
   ),
   9 => 
   array (
-    'code' => 'MAN',
+    'code' => 'KZ-MAN',
     'name' => 'Mangghystaū oblysy',
     'type' => 'Region',
   ),
   10 => 
   array (
-    'code' => 'PAV',
+    'code' => 'KZ-PAV',
     'name' => 'Pavlodar oblysy',
     'type' => 'Region',
   ),
   11 => 
   array (
-    'code' => 'SEV',
+    'code' => 'KZ-SEV',
     'name' => 'Soltüstik Quzaqstan oblysy',
     'type' => 'Region',
   ),
   12 => 
   array (
-    'code' => 'VOS',
+    'code' => 'KZ-VOS',
     'name' => 'Shyghys Qazaqstan oblysy',
     'type' => 'Region',
   ),
   13 => 
   array (
-    'code' => 'YUZ',
+    'code' => 'KZ-YUZ',
     'name' => 'Ongtüstik Qazaqstan oblysy',
     'type' => 'Region',
   ),
   14 => 
   array (
-    'code' => 'ZAP',
+    'code' => 'KZ-ZAP',
     'name' => 'Batys Quzaqstan oblysy',
     'type' => 'Region',
   ),
   15 => 
   array (
-    'code' => 'ZHA',
+    'code' => 'KZ-ZHA',
     'name' => 'Zhambyl oblysy',
     'type' => 'Region',
   ),

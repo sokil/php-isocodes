@@ -1,115 +1,115 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'AUK',
+    'code' => 'NZ-AUK',
     'name' => 'Auckland',
     'type' => 'Regional council',
   ),
   1 => 
   array (
-    'code' => 'BOP',
+    'code' => 'NZ-BOP',
     'name' => 'Bay of Plenty',
     'type' => 'Regional council',
   ),
   2 => 
   array (
-    'code' => 'CAN',
+    'code' => 'NZ-CAN',
     'name' => 'Canterbury',
     'type' => 'Regional council',
   ),
   3 => 
   array (
-    'code' => 'CIT',
+    'code' => 'NZ-CIT',
     'name' => 'Chatham Islands Territory',
     'type' => 'Special island authority',
   ),
   4 => 
   array (
-    'code' => 'GIS',
+    'code' => 'NZ-GIS',
     'name' => 'Gisborne District',
     'type' => 'Unitary authority',
   ),
   5 => 
   array (
-    'code' => 'HKB',
+    'code' => 'NZ-HKB',
     'name' => 'Hawke\'s Bay',
     'type' => 'Regional council',
   ),
   6 => 
   array (
-    'code' => 'MBH',
+    'code' => 'NZ-MBH',
     'name' => 'Marlborough District',
     'type' => 'Unitary authority',
   ),
   7 => 
   array (
-    'code' => 'MWT',
+    'code' => 'NZ-MWT',
     'name' => 'Manawatu-Wanganui',
     'type' => 'Regional council',
   ),
   8 => 
   array (
-    'code' => 'N',
+    'code' => 'NZ-N',
     'name' => 'North Island',
     'type' => 'Island',
   ),
   9 => 
   array (
-    'code' => 'NSN',
+    'code' => 'NZ-NSN',
     'name' => 'Nelson City',
     'type' => 'Unitary authority',
   ),
   10 => 
   array (
-    'code' => 'NTL',
+    'code' => 'NZ-NTL',
     'name' => 'Northland',
     'type' => 'Regional council',
   ),
   11 => 
   array (
-    'code' => 'OTA',
+    'code' => 'NZ-OTA',
     'name' => 'Otago',
     'type' => 'Regional council',
   ),
   12 => 
   array (
-    'code' => 'S',
+    'code' => 'NZ-S',
     'name' => 'South Island',
     'type' => 'Island',
   ),
   13 => 
   array (
-    'code' => 'STL',
+    'code' => 'NZ-STL',
     'name' => 'Southland',
     'type' => 'Regional council',
   ),
   14 => 
   array (
-    'code' => 'TAS',
+    'code' => 'NZ-TAS',
     'name' => 'Tasman District',
     'type' => 'Unitary authority',
   ),
   15 => 
   array (
-    'code' => 'TKI',
+    'code' => 'NZ-TKI',
     'name' => 'Taranaki',
     'type' => 'Regional council',
   ),
   16 => 
   array (
-    'code' => 'WGN',
+    'code' => 'NZ-WGN',
     'name' => 'Wellington',
     'type' => 'Regional council',
   ),
   17 => 
   array (
-    'code' => 'WKO',
+    'code' => 'NZ-WKO',
     'name' => 'Waikato',
     'type' => 'Regional council',
   ),
   18 => 
   array (
-    'code' => 'WTC',
+    'code' => 'NZ-WTC',
     'name' => 'West Coast',
     'type' => 'Regional council',
   ),

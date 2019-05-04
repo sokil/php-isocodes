@@ -1,55 +1,55 @@
 <?php return array (
   0 => 
   array (
-    'code' => '1',
+    'code' => 'ML-1',
     'name' => 'Kayes',
     'type' => 'Region',
   ),
   1 => 
   array (
-    'code' => '2',
+    'code' => 'ML-2',
     'name' => 'Koulikoro',
     'type' => 'Region',
   ),
   2 => 
   array (
-    'code' => '3',
+    'code' => 'ML-3',
     'name' => 'Sikasso',
     'type' => 'Region',
   ),
   3 => 
   array (
-    'code' => '4',
+    'code' => 'ML-4',
     'name' => 'Ségou',
     'type' => 'Region',
   ),
   4 => 
   array (
-    'code' => '5',
+    'code' => 'ML-5',
     'name' => 'Mopti',
     'type' => 'Region',
   ),
   5 => 
   array (
-    'code' => '6',
+    'code' => 'ML-6',
     'name' => 'Tombouctou',
     'type' => 'Region',
   ),
   6 => 
   array (
-    'code' => '7',
+    'code' => 'ML-7',
     'name' => 'Gao',
     'type' => 'Region',
   ),
   7 => 
   array (
-    'code' => '8',
+    'code' => 'ML-8',
     'name' => 'Kidal',
     'type' => 'Region',
   ),
   8 => 
   array (
-    'code' => 'BK0',
+    'code' => 'ML-BK0',
     'name' => 'Bamako',
     'type' => 'District',
   ),

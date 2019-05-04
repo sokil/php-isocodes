@@ -1,25 +1,25 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'E',
+    'code' => 'SL-E',
     'name' => 'Eastern',
     'type' => 'Province',
   ),
   1 => 
   array (
-    'code' => 'N',
+    'code' => 'SL-N',
     'name' => 'Northern',
     'type' => 'Province',
   ),
   2 => 
   array (
-    'code' => 'S',
+    'code' => 'SL-S',
     'name' => 'Southern (Sierra Leone)',
     'type' => 'Province',
   ),
   3 => 
   array (
-    'code' => 'W',
+    'code' => 'SL-W',
     'name' => 'Western Area (Freetown)',
     'type' => 'Area',
   ),

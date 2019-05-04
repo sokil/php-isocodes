@@ -1,19 +1,19 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'A',
+    'code' => 'KM-A',
     'name' => 'Andjouân (Anjwān)',
     'type' => 'Island',
   ),
   1 => 
   array (
-    'code' => 'G',
+    'code' => 'KM-G',
     'name' => 'Andjazîdja (Anjazījah)',
     'type' => 'Island',
   ),
   2 => 
   array (
-    'code' => 'M',
+    'code' => 'KM-M',
     'name' => 'Moûhîlî (Mūhīlī)',
     'type' => 'Island',
   ),

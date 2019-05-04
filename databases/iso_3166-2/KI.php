@@ -1,19 +1,19 @@
 <?php return array (
   0 => 
   array (
-    'code' => 'G',
+    'code' => 'KI-G',
     'name' => 'Gilbert Islands',
     'type' => 'Island group',
   ),
   1 => 
   array (
-    'code' => 'L',
+    'code' => 'KI-L',
     'name' => 'Line Islands',
     'type' => 'Island group',
   ),
   2 => 
   array (
-    'code' => 'P',
+    'code' => 'KI-P',
     'name' => 'Phoenix Islands',
     'type' => 'Island group',
   ),
