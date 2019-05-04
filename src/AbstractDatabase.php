@@ -30,7 +30,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      *
      * @var string[][]
      */
-    protected $clusterIndex;
+    private $clusterIndex = [];
 
     /**
      * @throws \Exception
@@ -86,11 +86,23 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     }
 
     /**
-     * Build cluster index for iteration
+     * Get list of all database rows.
+     * For large databases like ISO-3166-2 this may require a lot of memory.
      *
-     * @throws \Exception
+     * @return array
      */
-    protected function loadClusterIndex(): void
+    protected function getClusterIndex(): array
+    {
+        // initialise cluster index
+        $this->loadClusterIndex();
+
+        return $this->clusterIndex;
+    }
+
+    /**
+     * Build cluster index for iteration
+     */
+    private function loadClusterIndex(): void
     {
         // check if cluster index already loaded
         if (!empty($this->clusterIndex)) {
@@ -155,9 +167,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
 
     public function count(): int
     {
-        // initialise cluster index
-        $this->loadClusterIndex();
-
-        return count($this->clusterIndex);
+        return count($this->getClusterIndex());
     }
 }

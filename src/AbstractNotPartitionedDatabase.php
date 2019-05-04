@@ -43,11 +43,8 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
 
             // build index for database
             if (!empty($indexedFields)) {
-                // initialise cluster index
-                $this->loadClusterIndex();
-
                 // init all defined indexes
-                foreach ($this->clusterIndex as $entryArray) {
+                foreach ($this->getClusterIndex() as $entryArray) {
                     $entry = $this->arrayToEntry($entryArray);
                     foreach ($indexedFields as $indexName => $indexDefinition) {
                         if (is_array($indexDefinition)) {

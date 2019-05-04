@@ -1,3 +1,8 @@
+## 3.0 (2019-05-04)
+* PHP >=7.1 required.
+* Cluster index is now lazy loaded. If you use iterator methods directly to iterate through all database, 
+  you must call `rewind` first.
+
 ## 2.2 (2018-11-29)
 * Added possibility to configure directory with databases and messages, and manually update them without updating composer 
 * Constants `AbstractDatabase::DATABASE_PATH` and `AbstractDatabase::MESSAGES_PATH` now contain directory name instead of directory path

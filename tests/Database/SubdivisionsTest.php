@@ -23,6 +23,20 @@ class SubdivisionsTest extends TestCase
         }
     }
 
+    public function testIteratorByMethods(): void
+    {
+        $isoCodes = new IsoCodesFactory();
+        $subDivisions = $isoCodes->getSubdivisions();
+
+        $subDivisions->rewind();
+        $subDivision = $subDivisions->current();
+
+        $this->assertInstanceOf(
+            Subdivision::class,
+            $subDivision
+        );
+    }
+
     public function testGetByCode(): void
     {
         $isoCodes = new IsoCodesFactory();
