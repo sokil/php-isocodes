@@ -36,7 +36,7 @@ class SubdivisionsBench
      * @Revs(100)
      * @Iterations(2)
      */
-    public function benchNonPartitionedGetAllByCountryCode(array $params): void
+    public function benchGetAllByCountryCode(array $params): void
     {
         (new $params['database'])->getAllByCountryCode('UA');
     }
