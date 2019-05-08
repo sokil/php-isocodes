@@ -35,17 +35,27 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase
             $countryCodeAlpha2
         );
 
+        if (!file_exists($pathToPartitionFile)) {
+            // todo: benchmark this
+            return [];
+        }
+
+        // todo: stream_get_contents
         return \json_decode(\file_get_contents($pathToPartitionFile), true);
     }
 
     /**
      * @param string $subdivisionCode in format "alpha2country-subdivision", e.g. "UA-43"
      */
-    public function getByCode(string $subdivisionCode): Subdivision
+    public function getByCode(string $subdivisionCode): ?Subdivision
     {
+        if (strpos($subdivisionCode, '-') === false) {
+            return null;
+        }
+
         [$alpha2CountryCode] = explode('-', $subdivisionCode);
 
-        return $this->getAllByCountryCode($alpha2CountryCode)[$subdivisionCode];
+        return $this->getAllByCountryCode($alpha2CountryCode)[$subdivisionCode] ?? null;
     }
 
     /**
@@ -61,6 +71,7 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase
             $subdivisions[$subdivision['code']] = $this->arrayToEntry($subdivision);
         }
 
+        // todo: cache result for reuse
         return $subdivisions;
     }
 }

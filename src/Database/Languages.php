@@ -6,6 +6,9 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Languages\Language;
 
+/**
+ * Move to partitioned scheme
+ */
 class Languages extends AbstractNotPartitionedDatabase
 {
     public static function getISONumber(): string

@@ -40,7 +40,7 @@ class Subdivisions extends AbstractNotPartitionedDatabase
     /**
      * @param string $subdivisionCode in format "alpha2country-subdivision", e.g. "UA-43"
      */
-    public function getByCode(string $subdivisionCode): Subdivision
+    public function getByCode(string $subdivisionCode): ?Subdivision
     {
         return $this->find('code', $subdivisionCode);
     }
@@ -52,6 +52,12 @@ class Subdivisions extends AbstractNotPartitionedDatabase
      */
     public function getAllByCountryCode(string $alpha2CountryCode): array
     {
-        return $this->find('country_code', $alpha2CountryCode);
+        $subdivisions = $this->find('country_code', $alpha2CountryCode);
+
+        if (empty($subdivisions)) {
+            $subdivisions = [];
+        }
+
+        return $subdivisions;
     }
 }

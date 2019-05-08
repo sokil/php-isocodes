@@ -102,6 +102,28 @@ class SubdivisionsTest extends TestCase
      *
      * @dataProvider subDivisionsDatabaseProvider
      */
+    public function testGetByCodeInvalidSubDivisionCode(AbstractDatabase $subDivisionDatabase): void
+    {
+        $subDivision = $subDivisionDatabase->getByCode('Unknown');
+        $this->assertNull($subDivision);
+    }
+
+    /**
+     * @param Subdivisions|SubdivisionsPartitioned $subDivisionDatabase
+     *
+     * @dataProvider subDivisionsDatabaseProvider
+     */
+    public function testGetByCodeSubdivisionNotFound(AbstractDatabase $subDivisionDatabase): void
+    {
+        $subDivision = $subDivisionDatabase->getByCode('Unknown-42');
+        $this->assertNull($subDivision);
+    }
+
+    /**
+     * @param Subdivisions|SubdivisionsPartitioned $subDivisionDatabase
+     *
+     * @dataProvider subDivisionsDatabaseProvider
+     */
     public function testGetAllByCountryCode(AbstractDatabase $subDivisionDatabase): void
     {
         $subDivisions = $subDivisionDatabase->getAllByCountryCode('UA');
@@ -121,5 +143,16 @@ class SubdivisionsTest extends TestCase
             'Автономна Республіка Крим',
             $subDivision->getLocalName()
         );
+    }
+
+    /**
+     * @param Subdivisions|SubdivisionsPartitioned $subDivisionDatabase
+     *
+     * @dataProvider subDivisionsDatabaseProvider
+     */
+    public function testGetAllByCountryCodeCollectionNotFound(AbstractDatabase $subDivisionDatabase): void
+    {
+        $subDivisions = $subDivisionDatabase->getAllByCountryCode('11');
+        $this->assertEmpty($subDivisions);
     }
 }

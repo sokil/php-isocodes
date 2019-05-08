@@ -49,10 +49,12 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
                     foreach ($indexedFields as $indexName => $indexDefinition) {
                         if (is_array($indexDefinition)) {
                             // compound index
+
+                            // iteratively create hierarchy of array indexes
                             $reference = &$this->index[$indexName];
                             foreach ($indexDefinition as $indexDefinitionPart) {
-                                // limited length of field
                                 if (is_array($indexDefinitionPart)) {
+                                    // limited length of field
                                     $indexDefinitionPartValue = substr(
                                         $entryArray[$indexDefinitionPart[0]],
                                         0,
@@ -67,6 +69,7 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
                                 $reference = &$reference[$indexDefinitionPartValue];
                             }
 
+                            // add value
                             $reference = $entry;
                         } else {
                             // single index
@@ -75,7 +78,7 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
                             if (empty($entryArray[$indexDefinition])) {
                                 continue;
                             }
-                            // add to index
+                            // add to indexUA
                             $this->index[$indexName][$entryArray[$indexDefinition]] = $entry;
                         }
                     }

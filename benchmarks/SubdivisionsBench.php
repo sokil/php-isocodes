@@ -5,7 +5,6 @@ namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\Database\Subdivisions;
 use Sokil\IsoCodes\Database\SubdivisionsPartitioned;
-use Sokil\IsoCodes\IsoCodesFactory;
 
 class SubdivisionsBench
 {
@@ -28,7 +27,10 @@ class SubdivisionsBench
      */
     public function benchIterator(array $params): void
     {
-        (new $params['database'])->toArray();
+        /** @var Subdivisions|SubdivisionsPartitioned $database */
+        $database = new $params['database'];
+
+        $database->toArray();
     }
 
     /**
@@ -38,7 +40,14 @@ class SubdivisionsBench
      */
     public function benchGetByCode(array $params): void
     {
-        (new $params['database'])->getByCode('UA-43');
+        /** @var Subdivisions|SubdivisionsPartitioned $database */
+        $database = new $params['database'];
+
+        $database->getByCode('UA-05');
+        $database->getByCode('UA-07');
+        $database->getByCode('UA-40');
+        $database->getByCode('UA-44');
+        $database->getByCode('Unknown');
     }
 
     /**
@@ -48,6 +57,13 @@ class SubdivisionsBench
      */
     public function benchGetAllByCountryCode(array $params): void
     {
-        (new $params['database'])->getAllByCountryCode('UA');
+        /** @var Subdivisions|SubdivisionsPartitioned $database */
+        $database = new $params['database'];
+
+        $database->getAllByCountryCode('UA');
+        $database->getAllByCountryCode('PH');
+        $database->getAllByCountryCode('CZ');
+        $database->getAllByCountryCode('LV');
+        $database->getAllByCountryCode('Unknown');
     }
 }
