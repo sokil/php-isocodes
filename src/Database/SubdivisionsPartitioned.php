@@ -69,6 +69,7 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase
     public function getAllByCountryCode(string $alpha2CountryCode): array
     {
         if (!isset($this->subdivisions[$alpha2CountryCode])) {
+            $this->subdivisions[$alpha2CountryCode] = [];
             foreach ($this->loadFromJSONFile($alpha2CountryCode) as $subdivision) {
                 $this->subdivisions[$alpha2CountryCode][$subdivision['code']] = $this->arrayToEntry($subdivision);
             }
