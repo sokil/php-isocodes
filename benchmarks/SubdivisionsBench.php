@@ -38,16 +38,16 @@ class SubdivisionsBench
      * @Revs(100)
      * @Iterations(2)
      */
-    public function benchGetByCode(array $params): void
+    public function benchGetByCodeSameCode(array $params): void
     {
         /** @var Subdivisions|SubdivisionsPartitioned $database */
         $database = new $params['database'];
 
-        $database->getByCode('UA-05');
-        $database->getByCode('UA-07');
-        $database->getByCode('UA-40');
-        $database->getByCode('UA-44');
-        $database->getByCode('Unknown');
+        $database->getByCode('UA-43');
+        $database->getByCode('UA-43');
+        $database->getByCode('UA-43');
+        $database->getByCode('UA-43');
+        $database->getByCode('UA-43');
     }
 
     /**
@@ -55,7 +55,24 @@ class SubdivisionsBench
      * @Revs(100)
      * @Iterations(2)
      */
-    public function benchGetAllByCountryCode(array $params): void
+    public function benchGetAllByCountryCodeSameAlpha2CountryCode(array $params): void
+    {
+        /** @var Subdivisions|SubdivisionsPartitioned $database */
+        $database = new $params['database'];
+
+        $database->getAllByCountryCode('UA');
+        $database->getAllByCountryCode('UA');
+        $database->getAllByCountryCode('UA');
+        $database->getAllByCountryCode('UA');
+        $database->getAllByCountryCode('UA');
+    }
+
+    /**
+     * @ParamProviders({"databaseProvider"})
+     * @Revs(100)
+     * @Iterations(2)
+     */
+    public function benchGetAllByCountryCodeDiffAlpha2CountryCode(array $params): void
     {
         /** @var Subdivisions|SubdivisionsPartitioned $database */
         $database = new $params['database'];
@@ -64,6 +81,7 @@ class SubdivisionsBench
         $database->getAllByCountryCode('PH');
         $database->getAllByCountryCode('CZ');
         $database->getAllByCountryCode('LV');
-        $database->getAllByCountryCode('Unknown');
+        $database->getAllByCountryCode('GB');
     }
+
 }

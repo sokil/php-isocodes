@@ -8,6 +8,11 @@ use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
 class SubdivisionsPartitioned extends AbstractPartitionedDatabase
 {
+    /**
+     * @var Subdivision[][]
+     */
+    private $subdivisions = [];
+
     public static function getISONumber(): string
     {
         return '3166-2';
@@ -36,11 +41,9 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase
         );
 
         if (!file_exists($pathToPartitionFile)) {
-            // todo: benchmark this
             return [];
         }
 
-        // todo: stream_get_contents
         return \json_decode(\file_get_contents($pathToPartitionFile), true);
     }
 
@@ -65,13 +68,12 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase
      */
     public function getAllByCountryCode(string $alpha2CountryCode): array
     {
-        $subdivisions = [];
-
-        foreach ($this->loadFromJSONFile($alpha2CountryCode) as $subdivision) {
-            $subdivisions[$subdivision['code']] = $this->arrayToEntry($subdivision);
+        if (!isset($this->subdivisions[$alpha2CountryCode])) {
+            foreach ($this->loadFromJSONFile($alpha2CountryCode) as $subdivision) {
+                $this->subdivisions[$alpha2CountryCode][$subdivision['code']] = $this->arrayToEntry($subdivision);
+            }
         }
 
-        // todo: cache result for reuse
-        return $subdivisions;
+        return $this->subdivisions[$alpha2CountryCode];
     }
 }
