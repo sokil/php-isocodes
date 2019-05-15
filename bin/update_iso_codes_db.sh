@@ -87,3 +87,7 @@ echo -e "\033[0;32mDatabase post-processing\033[0m"
 # Split ISO 3166-2 to per-country files
 echo -e "   * Split ISO 3166-2 database"
 php $CURRENT_DIR/iso_3166-2_split.php $DATABASES_DIR
+
+# Split ISO 3166-2 to per-country files
+echo -e "   * Split ISO 639-3 database"
+php $CURRENT_DIR/iso_639-3_split.php $DATABASES_DIR

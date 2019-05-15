@@ -3,10 +3,10 @@ declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database;
 
-use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
+use Sokil\IsoCodes\AbstractPartitionedDatabase;
 use Sokil\IsoCodes\Database\Languages\Language;
 
-class Languages extends AbstractNotPartitionedDatabase
+class LanguagesPartitioned extends AbstractPartitionedDatabase
 {
     public static function getISONumber(): string
     {
@@ -26,17 +26,6 @@ class Languages extends AbstractNotPartitionedDatabase
             !empty($entry['inverted_name']) ? $entry['inverted_name'] : null,
             !empty($entry['alpha_2']) ? $entry['alpha_2'] : null
         );
-    }
-
-    /**
-     * @return string[]
-     */
-    protected function getIndexDefinition(): array
-    {
-        return [
-            'alpha_2',
-            'alpha_3',
-        ];
     }
 
     public function getByAlpha2(string $alpha2): ?Language

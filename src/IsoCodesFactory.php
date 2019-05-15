@@ -7,6 +7,7 @@ use Sokil\IsoCodes\Database\Countries;
 use Sokil\IsoCodes\Database\Currencies;
 use Sokil\IsoCodes\Database\HistoricCountries;
 use Sokil\IsoCodes\Database\Languages;
+use Sokil\IsoCodes\Database\LanguagesPartitioned;
 use Sokil\IsoCodes\Database\Scripts;
 use Sokil\IsoCodes\Database\Subdivisions;
 use Sokil\IsoCodes\Database\SubdivisionsPartitioned;
@@ -61,7 +62,6 @@ class IsoCodesFactory
     /**
      * ISO 3166-2
      *
-     * Memory less.
      * Loaded from bunch of database files instead of one single file
      */
     public function getSubdivisionsPartitioned(): SubdivisionsPartitioned
@@ -99,5 +99,13 @@ class IsoCodesFactory
     public function getLanguages(): Languages
     {
         return $this->getDatabase(Languages::class);
+    }
+
+    /**
+     * ISO 639-3
+     */
+    public function getLanguagesPartitioned(): LanguagesPartitioned
+    {
+        return $this->getDatabase(LanguagesPartitioned::class);
     }
 }

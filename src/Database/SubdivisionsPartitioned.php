@@ -31,22 +31,6 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase
         );
     }
 
-    private function loadFromJSONFile(string $countryCodeAlpha2) : array
-    {
-        $pathToPartitionFile = sprintf(
-            '%s/iso_%s/%s.json',
-            $this->getDatabasesPath(),
-            $this->getISONumber(),
-            $countryCodeAlpha2
-        );
-
-        if (!file_exists($pathToPartitionFile)) {
-            return [];
-        }
-
-        return \json_decode(\file_get_contents($pathToPartitionFile), true);
-    }
-
     /**
      * @param string $subdivisionCode in format "alpha2country-subdivision", e.g. "UA-43"
      */
