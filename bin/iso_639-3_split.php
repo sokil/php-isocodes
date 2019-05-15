@@ -25,7 +25,7 @@ $database = json_decode(file_get_contents(SOURCE_DATABASE_PATH), true);
 $languages = [];
 
 foreach ($database['639-3'] as $language) {
-    $partitionFileName = $language['alpha_3'][0];
+    $partitionFileName = substr($language['alpha_3'], 0, 2);
 
     $languages[$partitionFileName][] = [
         'name' => $language['name'],
