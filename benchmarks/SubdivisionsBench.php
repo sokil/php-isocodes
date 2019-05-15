@@ -10,12 +10,22 @@ class SubdivisionsBench
 {
     public function databaseProvider(): array
     {
+        $countries = \array_column(
+            \json_decode(
+                file_get_contents(__DIR__ . '/../databases/iso_3166-1.json'),
+                true
+            )['3166-1'],
+            'alpha_2'
+        );
+
         return [
             'non_partitioned' => [
-                'database' => Subdivisions::class
+                'database' => Subdivisions::class,
+                'countries' => $countries,
             ],
             'partitioned' => [
                 'database' => SubdivisionsPartitioned::class,
+                'countries' => $countries,
             ],
         ];
     }
@@ -77,11 +87,9 @@ class SubdivisionsBench
         /** @var Subdivisions|SubdivisionsPartitioned $database */
         $database = new $params['database'];
 
-        $database->getAllByCountryCode('UA');
-        $database->getAllByCountryCode('PH');
-        $database->getAllByCountryCode('CZ');
-        $database->getAllByCountryCode('LV');
-        $database->getAllByCountryCode('GB');
+        foreach ($params['countries'] as $countryAlpha2) {
+            $database->getAllByCountryCode($countryAlpha2);
+        }
     }
 
 }

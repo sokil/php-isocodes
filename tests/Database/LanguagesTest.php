@@ -3,19 +3,33 @@ declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Databases;
 
+use Sokil\IsoCodes\AbstractDatabase;
 use Sokil\IsoCodes\IsoCodesFactory;
 use Sokil\IsoCodes\Database\Languages\Language;
 use PHPUnit\Framework\TestCase;
 
 class LanguagesTest extends TestCase
 {
-    public function testIterator(): void
+    public function languageDatabaseProvider()
     {
         $isoCodes = new IsoCodesFactory();
 
-        $languages = $isoCodes->getLanguages();
+        return [
+            'non_partitioned' => [
+                $isoCodes->getLanguages(),
+            ],
+            'partitioned' => [
+                $isoCodes->getLanguagesPartitioned(),
+            ],
+        ];
+    }
 
-        foreach ($languages as $language) {
+    /**
+     * @dataProvider languageDatabaseProvider
+     */
+    public function testIterator(AbstractDatabase $languageDatabase): void
+    {
+        foreach ($languageDatabase as $language) {
             $this->assertInstanceOf(
                 Language::class,
                 $language
@@ -23,12 +37,12 @@ class LanguagesTest extends TestCase
         }
     }
 
-    public function testGetByAlpha2(): void
+    /**
+     * @dataProvider languageDatabaseProvider
+     */
+    public function testGetByAlpha2(AbstractDatabase $languageDatabase): void
     {
-        $isoCodes = new IsoCodesFactory();
-
-        $languages = $isoCodes->getLanguages();
-        $language = $languages->getByAlpha2('uk');
+        $language = $languageDatabase->getByAlpha2('uk');
         
         $this->assertInstanceOf(
             Language::class,
@@ -70,13 +84,13 @@ class LanguagesTest extends TestCase
             $language->getAlpha2()
         );
     }
-        
-    public function testGetByAlpha3(): void
-    {
-        $isoCodes = new IsoCodesFactory();
 
-        $languages = $isoCodes->getLanguages();
-        $language = $languages->getByAlpha3('ukr');
+    /**
+     * @dataProvider languageDatabaseProvider
+     */
+    public function testGetByAlpha3(AbstractDatabase $languageDatabase): void
+    {
+        $language = $languageDatabase->getByAlpha3('ukr');
         
         $this->assertEquals(
             'Ukrainian',
