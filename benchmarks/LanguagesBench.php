@@ -77,6 +77,23 @@ class LanguagesBench
         /** @var LanguagesPartitioned|Languages $database */
         $database = new $params['database'];
 
+        $database->getByAlpha2('zpz');
+        $database->getByAlpha2('zpz');
+        $database->getByAlpha2('zpz');
+        $database->getByAlpha2('zpz');
+        $database->getByAlpha2('zpz');
+    }
+
+    /**
+     * @ParamProviders({"databaseProvider"})
+     * @Revs(100)
+     * @Iterations(1)
+     */
+    public function benchGetByDiffAlpha3(array $params): void
+    {
+        /** @var LanguagesPartitioned|Languages $database */
+        $database = new $params['database'];
+
         $database->getByAlpha2('svx');
         $database->getByAlpha2('kuz');
         $database->getByAlpha2('nyy');
