@@ -30,11 +30,27 @@ class LanguagesPartitioned extends AbstractPartitionedDatabase
 
     public function getByAlpha2(string $alpha2): ?Language
     {
-        return $this->find('alpha_2', $alpha2);
+        $language = null;
+
+        foreach ($this->loadFromJSONFile('/alpha2/' . $alpha2[0]) as $languageRaw) {
+            if ($languageRaw['alpha_2'] === $alpha2) {
+                $language = $this->arrayToEntry($languageRaw);
+            }
+        }
+
+        return $language;
     }
 
     public function getByAlpha3(string $alpha3): ?Language
     {
-        return $this->find('alpha_3', $alpha3);
+        $language = null;
+
+        foreach ($this->loadFromJSONFile('/alpha3/' . substr($alpha3, 0, 2)) as $languageRaw) {
+            if ($languageRaw['alpha_3'] === $alpha3) {
+                $language = $this->arrayToEntry($languageRaw);
+            }
+        }
+
+        return $language;
     }
 }

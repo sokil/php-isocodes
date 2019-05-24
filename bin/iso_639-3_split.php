@@ -25,9 +25,9 @@ $database = json_decode(file_get_contents(SOURCE_DATABASE_PATH), true);
 $languages = [];
 
 foreach ($database['639-3'] as $language) {
+    // alpha3
     $partitionFileName = substr($language['alpha_3'], 0, 2);
-
-    $languages[$partitionFileName][] = [
+    $languages['alpha3/' . $partitionFileName][] = [
         'name' => $language['name'],
         'alpha_3' => $language['alpha_3'],
         'scope' => $language['scope'],
@@ -35,11 +35,28 @@ foreach ($database['639-3'] as $language) {
         'inverted_name' => $language['inverted_name'] ?? null,
         'alpha_2' => $language['alpha_2'] ?? null,
     ];
+
+    // alpha2
+    if (!empty($language['alpha_2'])) {
+        $partitionFileName = substr($language['alpha_2'], 0, 1);
+        $languages['alpha2/' . $partitionFileName][] = [
+            'name' => $language['name'],
+            'alpha_3' => $language['alpha_3'],
+            'scope' => $language['scope'],
+            'type' => $language['type'],
+            'inverted_name' => $language['inverted_name'] ?? null,
+            'alpha_2' => $language['alpha_2'] ?? null,
+        ];
+    }
 }
 
-// store splitted database
-if (!file_exists(TARGET_DATABASE_DIR)) {
-    mkdir(TARGET_DATABASE_DIR, 0775);
+// store partitioned database
+if (!file_exists(TARGET_DATABASE_DIR . '/alpha2')) {
+    mkdir(TARGET_DATABASE_DIR . '/alpha2', 0775);
+}
+
+if (!file_exists(TARGET_DATABASE_DIR . '/alpha3')) {
+    mkdir(TARGET_DATABASE_DIR . '/alpha3', 0775);
 }
 
 foreach ($languages as $partitionFileName => $countrySubdivisions) {
