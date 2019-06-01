@@ -113,6 +113,7 @@ $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory($databaseBaseDir);
 
 ## Usage
 
+* [Factory](#factory)
 * [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
 * [Subdivisions database (ISO 3166-2)](#subdivisions-database-iso-3166-2)
 * [Historic countries database (ISO 3166-3)](#historic-countries-database-iso-3166-3)
