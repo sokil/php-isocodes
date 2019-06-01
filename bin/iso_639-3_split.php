@@ -52,11 +52,11 @@ foreach ($database['639-3'] as $language) {
 
 // store partitioned database
 if (!file_exists(TARGET_DATABASE_DIR . '/alpha2')) {
-    mkdir(TARGET_DATABASE_DIR . '/alpha2', 0775);
+    mkdir(TARGET_DATABASE_DIR . '/alpha2', 0775, true);
 }
 
 if (!file_exists(TARGET_DATABASE_DIR . '/alpha3')) {
-    mkdir(TARGET_DATABASE_DIR . '/alpha3', 0775);
+    mkdir(TARGET_DATABASE_DIR . '/alpha3', 0775, true);
 }
 
 foreach ($languages as $partitionFileName => $countrySubdivisions) {
