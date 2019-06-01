@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-04-19 13:34+0000\n"
+"PO-Revision-Date: 2019-05-09 15:49+0000\n"
 "Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/pt/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -85,9 +85,8 @@ msgid "Bhaiksuki"
 msgstr "bhaiksuki"
 
 #. Name for Blis
-#, fuzzy
 msgid "Blissymbols"
-msgstr "símbolos bliss"
+msgstr "símbolos Bliss"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -146,19 +145,16 @@ msgid "Cyrillic"
 msgstr "cirílico"
 
 #. Name for Cyrs
-#, fuzzy
 msgid "Cyrillic (Old Church Slavonic variant)"
-msgstr "cirílico eslavo eclesiástico"
+msgstr "cirílico (variante antigo eslavo eclesiástico)"
 
 #. Name for Deva
-#, fuzzy
 msgid "Devanagari (Nagari)"
-msgstr "devanágari"
+msgstr "devanágari (nagari)"
 
 #. Name for Dsrt
-#, fuzzy
 msgid "Deseret (Mormon)"
-msgstr "deseret"
+msgstr "deseret (mórmon)"
 
 #. Name for Dupl
 msgid "Duployan shorthand, Duployan stenography"
@@ -266,7 +262,7 @@ msgstr ""
 
 #. Name for Hung
 msgid "Old Hungarian (Hungarian Runic)"
-msgstr ""
+msgstr "húngaro antigo (runas húngaras)"
 
 #. Name for Inds
 msgid "Indus (Harappan)"
@@ -286,7 +282,7 @@ msgstr "javanês"
 
 #. Name for Jpan
 msgid "Japanese (alias for Han + Hiragana + Katakana)"
-msgstr ""
+msgstr "japonês (alias para han + hiragana + katakana)"
 
 #. Name for Jurc
 msgid "Jurchen"
@@ -310,7 +306,7 @@ msgstr "khmer"
 
 #. Name for Khoj
 msgid "Khojki"
-msgstr ""
+msgstr "Khojki"
 
 #. Name for Kitl
 msgid "Khitan large script"
@@ -326,16 +322,15 @@ msgstr "kannada"
 
 #. Name for Kore
 msgid "Korean (alias for Hangul + Han)"
-msgstr ""
+msgstr "coreano (alias para hangul + han)"
 
 #. Name for Kpel
 msgid "Kpelle"
-msgstr ""
+msgstr "kpelle"
 
 #. Name for Kthi
-#, fuzzy
 msgid "Kaithi"
-msgstr "kharoshthi"
+msgstr "caiti"
 
 #. Name for Lana
 msgid "Tai Tham (Lanna)"
@@ -346,13 +341,12 @@ msgid "Lao"
 msgstr "lao"
 
 #. Name for Latf
-#, fuzzy
 msgid "Latin (Fraktur variant)"
-msgstr "latim fraktur"
+msgstr "latim (variante fraktur)"
 
 #. Name for Latg
 msgid "Latin (Gaelic variant)"
-msgstr ""
+msgstr "latim (variante gaélica)"
 
 #. Name for Latn
 msgid "Latin"
@@ -360,7 +354,7 @@ msgstr "latim"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "leque"
 
 #. Name for Lepc
 #, fuzzy
