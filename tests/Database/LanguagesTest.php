@@ -16,7 +16,7 @@ class LanguagesTest extends TestCase
 
         return [
             'non_partitioned' => [
-                $isoCodes->getLanguages(IsoCodesFactory::OPTIMISATION_TIME),
+                $isoCodes->getLanguages(IsoCodesFactory::OPTIMISATION_IO),
             ],
             'partitioned' => [
                 $isoCodes->getLanguages(IsoCodesFactory::OPTIMISATION_MEMORY),

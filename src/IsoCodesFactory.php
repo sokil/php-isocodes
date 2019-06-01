@@ -28,7 +28,7 @@ class IsoCodesFactory
      * This scenario may be useful when just few entries need
      * to be loaded, for example on web request when one entry fetched.
      *
-     * This may require a log of file read operations.
+     * This may require a lot of file read operations.
      */
     public const OPTIMISATION_MEMORY = 1;
 
@@ -43,7 +43,7 @@ class IsoCodesFactory
      *
      * This may require a lot of RAM for storing all entries.
      */
-    public const OPTIMISATION_TIME = 2;
+    public const OPTIMISATION_IO = 2;
 
     /**
      * Path to directory with databases
@@ -76,7 +76,7 @@ class IsoCodesFactory
             case self::OPTIMISATION_MEMORY:
                 $database = new SubdivisionsPartitioned($this->baseDirectory);
                 break;
-            case self::OPTIMISATION_TIME:
+            case self::OPTIMISATION_IO:
                 $database = new Subdivisions($this->baseDirectory);
                 break;
             default:
@@ -121,7 +121,7 @@ class IsoCodesFactory
             case self::OPTIMISATION_MEMORY:
                 $database = new LanguagesPartitioned($this->baseDirectory);
                 break;
-            case self::OPTIMISATION_TIME:
+            case self::OPTIMISATION_IO:
                 $database = new Languages($this->baseDirectory);
                 break;
             default:

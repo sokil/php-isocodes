@@ -120,6 +120,45 @@ $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory($databaseBaseDir);
 * [Currencies database (ISO 4217)](#currencies-database-iso-4217)
 * [Languages database (ISO 639-3)](#languages-database-iso-639-3)
 
+### Factory
+
+All databases may be create through factory:
+
+```php
+<?php
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
+$languages = $isoCodes->getLanguages();
+```
+
+There are large databases: subdivisions and languages.
+Loading of entire database into memory may require lot of RAM and time to create all entries in memory.
+  
+So there are scenarios of usage: with optimisations of memory and with optimisation of time.
+
+#### Memory optimisation
+
+Database splits into partition files.
+
+Fetching some entry will load only little part of database.
+Loaded entries not stored statically.
+
+This scenario may be useful when just few entries need
+to be loaded, for example on web request when one entry fetched.
+
+This may require a lot of file read operations.
+     
+####s Input-output optimisations
+
+Entire database loaded into memory from single JSON file once.
+
+All entries created and stored into RAM. Next read of save
+entry will just return it without io operations with files and building objects.
+
+This scenario may be useful for daemons to decrease file operations,
+or when most entries will be fetched from database.
+
+This may require a lot of RAM for storing all entries.
+     
 ### Countries database (ISO 3166-1)
 
 Get localized name of country by it's alpha2 code:

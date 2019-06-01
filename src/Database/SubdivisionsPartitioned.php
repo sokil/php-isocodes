@@ -8,11 +8,6 @@ use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
 class SubdivisionsPartitioned extends AbstractPartitionedDatabase implements SubdivisionsInterface
 {
-    /**
-     * @var Subdivision[][]
-     */
-    private $subdivisions = [];
-
     public static function getISONumber(): string
     {
         return '3166-2';
@@ -52,13 +47,11 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase implements Sub
      */
     public function getAllByCountryCode(string $alpha2CountryCode): array
     {
-        if (!isset($this->subdivisions[$alpha2CountryCode])) {
-            $this->subdivisions[$alpha2CountryCode] = [];
-            foreach ($this->loadFromJSONFile($alpha2CountryCode) as $subdivision) {
-                $this->subdivisions[$alpha2CountryCode][$subdivision['code']] = $this->arrayToEntry($subdivision);
-            }
+        $subdivisions = [];
+        foreach ($this->loadFromJSONFile($alpha2CountryCode) as $subdivision) {
+            $subdivisions[$subdivision['code']] = $this->arrayToEntry($subdivision);
         }
 
-        return $this->subdivisions[$alpha2CountryCode];
+        return $subdivisions;
     }
 }
