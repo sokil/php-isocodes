@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-04-05 15:04+0000\n"
+"PO-Revision-Date: 2019-05-09 15:49+0000\n"
 "Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/pt/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -85,9 +85,8 @@ msgid "Bhaiksuki"
 msgstr "bhaiksuki"
 
 #. Name for Blis
-#, fuzzy
 msgid "Blissymbols"
-msgstr "símbolos bliss"
+msgstr "símbolos Bliss"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -110,18 +109,16 @@ msgid "Buhid"
 msgstr "buhid"
 
 #. Name for Cakm
-#, fuzzy
 msgid "Chakma"
-msgstr "cham"
+msgstr "chakma"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
 msgstr "símbolos aborígenes do Canadá Unificado"
 
 #. Name for Cari
-#, fuzzy
 msgid "Carian"
-msgstr "cariana"
+msgstr "cario"
 
 #. Name for Cham
 msgid "Cham"
@@ -148,19 +145,16 @@ msgid "Cyrillic"
 msgstr "cirílico"
 
 #. Name for Cyrs
-#, fuzzy
 msgid "Cyrillic (Old Church Slavonic variant)"
-msgstr "cirílico eslavo eclesiástico"
+msgstr "cirílico (variante antigo eslavo eclesiástico)"
 
 #. Name for Deva
-#, fuzzy
 msgid "Devanagari (Nagari)"
-msgstr "devanágari"
+msgstr "devanágari (nagari)"
 
 #. Name for Dsrt
-#, fuzzy
 msgid "Deseret (Mormon)"
-msgstr "deseret"
+msgstr "deseret (mórmon)"
 
 #. Name for Dupl
 msgid "Duployan shorthand, Duployan stenography"
@@ -183,18 +177,16 @@ msgid "Elbasan"
 msgstr "elbasan"
 
 #. Name for Ethi
-#, fuzzy
 msgid "Ethiopic (Geʻez)"
-msgstr "etiópico"
+msgstr "etiópico (ge'ez)"
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"
 msgstr ""
 
 #. Name for Geor
-#, fuzzy
 msgid "Georgian (Mkhedruli)"
-msgstr "khutsuri georgiano"
+msgstr "georgiano (mkhedruli)"
 
 #. Name for Glag
 msgid "Glagolitic"
@@ -237,18 +229,16 @@ msgid "Hanunoo (Hanunóo)"
 msgstr "hanunoo (hanunó'o)"
 
 #. Name for Hans
-#, fuzzy
 msgid "Han (Simplified variant)"
-msgstr "han simplificado"
+msgstr "han (variante simplificada)"
 
 #. Name for Hant
-#, fuzzy
 msgid "Han (Traditional variant)"
-msgstr "han tradicional"
+msgstr "han (variante tradicional)"
 
 #. Name for Hatr
 msgid "Hatran"
-msgstr ""
+msgstr "aramaico de Hatra"
 
 #. Name for Hebr
 msgid "Hebrew"
@@ -272,15 +262,15 @@ msgstr ""
 
 #. Name for Hung
 msgid "Old Hungarian (Hungarian Runic)"
-msgstr ""
+msgstr "húngaro antigo (runas húngaras)"
 
 #. Name for Inds
 msgid "Indus (Harappan)"
-msgstr ""
+msgstr "indus (harapeano)"
 
 #. Name for Ital
 msgid "Old Italic (Etruscan, Oscan, etc.)"
-msgstr ""
+msgstr "itálico antigo (etrusco, osco, etc.)"
 
 #. Name for Jamo
 msgid "Jamo (alias for Jamo subset of Hangul)"
@@ -292,7 +282,7 @@ msgstr "javanês"
 
 #. Name for Jpan
 msgid "Japanese (alias for Han + Hiragana + Katakana)"
-msgstr ""
+msgstr "japonês (alias para han + hiragana + katakana)"
 
 #. Name for Jurc
 msgid "Jurchen"
@@ -316,7 +306,7 @@ msgstr "khmer"
 
 #. Name for Khoj
 msgid "Khojki"
-msgstr ""
+msgstr "Khojki"
 
 #. Name for Kitl
 msgid "Khitan large script"
@@ -332,16 +322,15 @@ msgstr "kannada"
 
 #. Name for Kore
 msgid "Korean (alias for Hangul + Han)"
-msgstr ""
+msgstr "coreano (alias para hangul + han)"
 
 #. Name for Kpel
 msgid "Kpelle"
-msgstr ""
+msgstr "kpelle"
 
 #. Name for Kthi
-#, fuzzy
 msgid "Kaithi"
-msgstr "kharoshthi"
+msgstr "caiti"
 
 #. Name for Lana
 msgid "Tai Tham (Lanna)"
@@ -352,13 +341,12 @@ msgid "Lao"
 msgstr "lao"
 
 #. Name for Latf
-#, fuzzy
 msgid "Latin (Fraktur variant)"
-msgstr "latim fraktur"
+msgstr "latim (variante fraktur)"
 
 #. Name for Latg
 msgid "Latin (Gaelic variant)"
-msgstr ""
+msgstr "latim (variante gaélica)"
 
 #. Name for Latn
 msgid "Latin"
@@ -366,7 +354,7 @@ msgstr "latim"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "leque"
 
 #. Name for Lepc
 #, fuzzy

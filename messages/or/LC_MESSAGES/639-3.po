@@ -6,22 +6,23 @@
 # .
 # Copyright ©
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
+# Pro Neon <proneon267@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2010-04-07 12:26+0530\n"
-"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
-"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2019-05-03 21:32+0000\n"
+"Last-Translator: Pro Neon <proneon267@gmail.com>\n"
+"Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/iso-639-3/"
+"or/>\n"
 "Language: or\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -390,7 +391,7 @@ msgstr "ଆଚେରୋନ"
 
 #. Name for ada
 msgid "Adangme"
-msgstr "ଆଡ଼ାମେ"
+msgstr "ଆଡାଙ୍ଗମେ"
 
 #. Name for adb
 msgid "Adabe"
@@ -3075,9 +3076,8 @@ msgid "Bengali"
 msgstr "ବଙ୍ଗାଳୀ"
 
 #. Common name for ben
-#, fuzzy
 msgid "Bangla"
-msgstr "ବାଙ୍ଗାଲା"
+msgstr "ବାଙ୍ଗାଳ"
 
 #. Name for beo
 msgid "Beami"
@@ -25884,9 +25884,8 @@ msgid "Old Provençal (to 1500)"
 msgstr "ପ୍ରଭେଙ୍କାଲ, ପୁରୁଣା (1500 କୁ)"
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "ପ୍ରଭେଙ୍କାଲ, ପୁରୁଣା (1500 କୁ)"
+msgstr "ପ୍ରୋଭେଙ୍କାଲ, ପୁରୁଣା (୧୫୦୦ ଯାଏ ); ଓଶିତାନ, ପୁରୁଣା (to ୧୫୦୦ )"
 
 #. Name for prp
 msgid "Parsi"
@@ -37185,7 +37184,7 @@ msgstr "ଝୁଆଙ୍ଗ, ଗୁବେଇ"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "ସାଧାରଣ ମୋରୋକାନ ଟାମାଜାଇଟ"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

@@ -13,14 +13,15 @@
 # Jaegeum Choe <baedaron@hananet.net>, 2001.
 # Sunjae Park <darehanl@gmail.com>, 2006-2007.
 # Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015.
+# Jun Hyung Shin <shmishmi79@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-02-04 09:37+0000\n"
-"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
+"PO-Revision-Date: 2019-04-25 14:48+0000\n"
+"Last-Translator: Jun Hyung Shin <shmishmi79@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ko/>\n"
 "Language: ko\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.6.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -595,10 +596,8 @@ msgid "Gambia"
 msgstr "잠비아"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "잠비아 공화국"
+msgstr "감비아 공화국"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -989,16 +988,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "마샬 제도 공화국"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "누벨칼레도니"
+msgstr "북마케도니아"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "리투아니아 공화국"
+msgstr "북마케도니아 공화국"
 
 #. Name for MLI
 msgid "Mali"
@@ -1446,13 +1441,11 @@ msgstr "스웨덴 왕국"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "에스와티니"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "스페인 왕국"
+msgstr "에스와티니 왕국"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

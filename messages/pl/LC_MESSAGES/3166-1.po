@@ -9,7 +9,7 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Tomasz Z. Napierala <zen@debian.linux.org.pl>, 2004, 2006.
 # Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2019.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
 msgid ""
 msgstr ""
@@ -17,8 +17,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-10-29 17:23+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2019-05-09 15:49+0000\n"
+"Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/pl/>\n"
 "Language: pl\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -595,10 +595,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Republika Zambii"
+msgstr "Republika Gambii"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -990,16 +988,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republika Wysp Marshalla"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Nowa Kaledonia"
+msgstr "Macedonia Północna"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Republika Litewska"
+msgstr "Republika Macedonii Północnej"
 
 #. Name for MLI
 msgid "Mali"
@@ -1447,13 +1441,11 @@ msgstr "Królestwo Szwecji"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Królestwo Hiszpanii"
+msgstr "Królestwo Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
