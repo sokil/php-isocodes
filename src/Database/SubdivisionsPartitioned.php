@@ -6,7 +6,7 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\AbstractPartitionedDatabase;
 use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
-class SubdivisionsPartitioned extends AbstractPartitionedDatabase
+class SubdivisionsPartitioned extends AbstractPartitionedDatabase implements SubdivisionsInterface
 {
     /**
      * @var Subdivision[][]

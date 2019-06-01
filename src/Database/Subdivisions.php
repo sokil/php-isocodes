@@ -6,7 +6,7 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
-class Subdivisions extends AbstractNotPartitionedDatabase
+class Subdivisions extends AbstractNotPartitionedDatabase implements SubdivisionsInterface
 {
     public static function getISONumber(): string
     {

@@ -2,6 +2,7 @@
 * PHP >=7.1 required.
 * Cluster index is now lazy loaded. If you use iterator methods directly to iterate through all database, 
   you must call `rewind` first.
+* Factory now just builds database instances but not store them.
 
 ## 2.2 (2018-11-29)
 * Added possibility to configure directory with databases and messages, and manually update them without updating composer 

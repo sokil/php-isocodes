@@ -18,10 +18,10 @@ class SubdivisionsTest extends TestCase
 
         return [
             'non_partitioned' => [
-                $isoCodes->getSubdivisions(),
+                $isoCodes->getSubdivisions(IsoCodesFactory::OPTIMISATION_TIME),
             ],
             'partitioned' => [
-                $isoCodes->getSubdivisionsPartitioned(),
+                $isoCodes->getSubdivisions(IsoCodesFactory::OPTIMISATION_MEMORY),
             ],
         ];
     }

@@ -10,6 +10,7 @@ abstract class AbstractPartitionedDatabase extends AbstractDatabase
 {
     /**
      * @param string $fileName File name of partition without extension
+     *
      * @return array
      */
     protected function loadFromJSONFile(string $fileName) : array
