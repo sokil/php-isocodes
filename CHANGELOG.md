@@ -3,8 +3,7 @@
 * Cluster index is now lazy loaded. If you use iterator methods directly to iterate through all database, 
   you must call `rewind` first.
 * Factory now creates database instances but not store them, so next call of factory method will create new instance.
-* Subdivisions and languages databases are large, so they have now optimisation to load 
-* entries from separate files instead of one single file..
+* Subdivisions and languages databases are large, so they have now optimisation to load entries from separate files instead of one single file..
 
 ## 2.2 (2018-11-29)
 * Added possibility to configure directory with databases and messages, and manually update them without updating composer 
