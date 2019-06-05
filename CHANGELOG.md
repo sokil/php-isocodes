@@ -1,3 +1,6 @@
+## In next release
+* Remove sub class \Sokil\IsoCodes, use \Sokil\IsoCodes\IsoCodesFactory instead
+
 ## 3.0 (2019-05-04)
 * PHP >=7.1 required.
 * Cluster index is now lazy loaded. If you use iterator methods directly to iterate through all database, 

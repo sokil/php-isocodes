@@ -5,7 +5,6 @@
     <arg value="s" />
     <file>benchmarks/</file>
     <file>src/</file>
-    <file>stubs/</file>
     <file>tests/</file>
     <config name="ignore_errors_on_exit" value="1"/>
     <config name="ignore_warnings_on_exit" value="1"/>
