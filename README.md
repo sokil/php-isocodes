@@ -148,7 +148,7 @@ to be loaded, for example on web request when one entry fetched.
 
 This may require a lot of file read operations.
      
-####s Input-output optimisations
+#### Input-output optimisations
 
 Entire database loaded into memory from single JSON file once.
 
