@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-23 22:08+0100\n"
-"PO-Revision-Date: 2019-04-03 21:04+0000\n"
+"PO-Revision-Date: 2019-06-18 19:05+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/be/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
 "4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2773,14 +2773,10 @@ msgid "Anhui Sheng"
 msgstr "Правінцыя Аньхой"
 
 #. Name for CN-BJ
-#, fuzzy
-#| msgid "Beijing"
 msgid "Beijing Shi"
 msgstr "Пекін"
 
 #. Name for CN-CQ
-#, fuzzy
-#| msgid "Chongqing"
 msgid "Chongqing Shi"
 msgstr "Чунцын"
 
@@ -2875,8 +2871,6 @@ msgid "Shandong Sheng"
 msgstr "Правінцыя Шаньдун"
 
 #. Name for CN-SH
-#, fuzzy
-#| msgid "Shanghai"
 msgid "Shanghai Shi"
 msgstr "Шанхай"
 

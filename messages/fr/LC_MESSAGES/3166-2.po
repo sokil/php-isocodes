@@ -10,14 +10,15 @@
 # Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
 # Christian Perrier <bubulle@debian.org>, 2007-2012.
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-23 22:08+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Alban Vidal <alban.vidal@zordhak.fr>\n"
+"PO-Revision-Date: 2019-06-15 13:22+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/fr/>\n"
 "Language: fr\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -7743,7 +7744,7 @@ msgstr "Nagaland"
 
 #. Name for IN-OR
 msgid "Odisha"
-msgstr ""
+msgstr "Odisha"
 
 #. Name for IN-PB, Name for PK-PB
 msgid "Punjab"
@@ -12117,11 +12118,11 @@ msgstr "Chiapas"
 
 #. Name for MX-CMX
 msgid "Ciudad de México"
-msgstr ""
+msgstr "Ville de Mexico"
 
 #. Name for MX-COA
 msgid "Coahuila de Zaragoza"
-msgstr ""
+msgstr "État de Coahuila de Zaragoza"
 
 #. Name for MX-COL
 msgid "Colima"
@@ -12211,7 +12212,7 @@ msgstr "Tlaxcala"
 
 #. Name for MX-VER
 msgid "Veracruz de Ignacio de la Llave"
-msgstr ""
+msgstr "Veracruz de Ignacio de la Llave"
 
 #. Name for MX-YUC
 msgid "Yucatán"

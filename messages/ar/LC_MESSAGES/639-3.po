@@ -7,14 +7,14 @@
 # Copyright ©
 # Mohammad Gamal <f2c2001@yahoo.com>, 2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-10-24 23:23+0000\n"
+"PO-Revision-Date: 2019-06-18 19:05+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ar/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -203,9 +203,8 @@ msgid "Aka-Bea"
 msgstr ""
 
 #. Name for abk
-#, fuzzy
 msgid "Abkhazian"
-msgstr "الأذربيجانية"
+msgstr "الأبخازية"
 
 #. Name for abl
 msgid "Lampung Nyo"
@@ -1610,14 +1609,12 @@ msgid "Arabic, North Levantine"
 msgstr ""
 
 #. Name for apd
-#, fuzzy
 msgid "Sudanese Arabic"
-msgstr "العربية"
+msgstr "العربية السودان"
 
 #. Inverted name for apd
-#, fuzzy
 msgid "Arabic, Sudanese"
-msgstr "اليابانية"
+msgstr "العربية، السودانية"
 
 #. Name for ape
 msgid "Bukiyip"

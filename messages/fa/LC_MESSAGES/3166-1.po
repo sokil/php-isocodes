@@ -8,14 +8,15 @@
 # FarsiKDE Team <info@farsikde.org>
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Mostafa Ahangarha <ahangarha@gmail.com>, 2018.
+# Nader Jafari <naderpaskari@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: fa\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-11-07 09:08+0000\n"
-"Last-Translator: Mostafa Ahangarha <ahangarha@gmail.com>\n"
+"PO-Revision-Date: 2019-06-18 19:05+0000\n"
+"Last-Translator: Nader Jafari <naderpaskari@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fa/>\n"
 "Language: fa\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.7\n"
 "X-Poedit-Language: Persian\n"
 "X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -593,8 +594,6 @@ msgid "Gambia"
 msgstr "گامبیا"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
 msgstr "جمهوری زامبیا"
 
@@ -987,16 +986,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "جمهوری جزایر مارشال"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "کالدونیای جدید"
+msgstr "مقدونیه شمالی"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "جمهوری لیتوانی"
+msgstr "جمهوری مقدونیه شمالی"
 
 #. Name for MLI
 msgid "Mali"
@@ -1444,13 +1439,11 @@ msgstr "پادشاهی سوئد"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "پادشاهی سوازیلند"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "پادشاهی اسپانیا"
+msgstr "پادشاهی سوازیلند"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

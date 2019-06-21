@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-04 20:57+0000\n"
+"PO-Revision-Date: 2019-06-20 21:01+0000\n"
 "Last-Translator: Giovanni Sora <g.sora@tiscali.it>\n"
 "Language-Team: Interlingua <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ia/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.5\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -589,10 +589,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Republica de Zambia"
+msgstr "Republica de Gambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -983,16 +981,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republica del Insulas Marshall"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Nove Caledonia"
+msgstr "Macedonia del Nord"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Republica de Lituania"
+msgstr "Republica de Macedonia del Nord"
 
 #. Name for MLI
 msgid "Mali"
@@ -1440,13 +1434,11 @@ msgstr "Regno de Svedia"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Regno de Espania"
+msgstr "Regno de Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
