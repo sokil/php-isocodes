@@ -8,22 +8,24 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Abdulaziz Al-Arfaj <alarfaj0@yahoo.com>, 2004.
 # Ossama M. Khayat <okhayat@yahoo.com>, 2006, 2008, 2010.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2010-08-14 15:04+0300\n"
-"Last-Translator: Ossama M. Khayat <okhayat@yahoo.com>\n"
-"Language-Team: Arabic <support@arabeyes.org>\n"
+"PO-Revision-Date: 2019-06-18 19:05+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
-"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -51,7 +53,7 @@ msgstr "تشيكوسلوفاكيا، جمهورية سلوفاكيا الاشت�
 
 #. Name for CSXX
 msgid "Serbia and Montenegro"
-msgstr "الصرب والمنتنيغرو"
+msgstr "صربيا والمنتنيغرو"
 
 #. Name for CTKI
 msgid "Canton and Enderbury Islands"
@@ -63,7 +65,7 @@ msgstr "جمهوريّة ألمانيا الديموقراطيّة"
 
 #. Name for DYBJ
 msgid "Dahomey"
-msgstr "داهومي (جمهورية بينين)"
+msgstr "داهومي"
 
 #. Name for FQHH
 msgid "French Southern and Antarctic Territories"

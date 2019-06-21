@@ -5,14 +5,15 @@
 # .
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
+# THANOS SIOURDAKIS <siourdakisthanos@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-01-01 15:06+0000\n"
-"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
+"PO-Revision-Date: 2019-06-18 19:05+0000\n"
+"Last-Translator: THANOS SIOURDAKIS <siourdakisthanos@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/el/>\n"
 "Language: el\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -49,7 +50,7 @@ msgstr "Κινεζικό Παραδοσιακό"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
-msgstr ""
+msgstr "Αυτοκρατορικά Αραμαϊκά"
 
 #. Name for Armn
 msgid "Armenian"

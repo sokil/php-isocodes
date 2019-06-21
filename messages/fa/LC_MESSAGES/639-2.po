@@ -8,14 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Roozbeh Pournader <roozbeh@farsiweb.info>, 2004-2005.
 # Mostafa Ahangarha <ahangarha@gmail.com>, 2018.
+# Nader Jafari <naderpaskari@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-07 09:08+0000\n"
-"Last-Translator: Mostafa Ahangarha <ahangarha@gmail.com>\n"
+"PO-Revision-Date: 2019-06-13 23:45+0000\n"
+"Last-Translator: Nader Jafari <naderpaskari@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/fa/>\n"
 "Language: fa\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -50,9 +51,8 @@ msgid "Adyghe; Adygei"
 msgstr "آدیجیایی"
 
 #. Name for afa
-#, fuzzy
 msgid "Afro-Asiatic languages"
-msgstr "زبانهای آپاچی"
+msgstr "زبانهای آفریقایی-آسیایی"
 
 #. Name for afh
 msgid "Afrihili"
@@ -91,7 +91,6 @@ msgid "Amharic"
 msgstr "امهری"
 
 #. Name for ang
-#, fuzzy
 msgid "English, Old (ca. 450-1100)"
 msgstr "انگلیسی باستان (حدود ۴۵۰-۱۱۰۰ م.)"
 
@@ -124,9 +123,8 @@ msgid "Arapaho"
 msgstr "آراپاهویی"
 
 #. Name for art
-#, fuzzy
 msgid "Artificial languages"
-msgstr "زبانهای اتومیایی"
+msgstr "زبانهای مصنوعی"
 
 #. Name for arw
 msgid "Arawak"
@@ -141,9 +139,8 @@ msgid "Asturian; Bable; Leonese; Asturleonese"
 msgstr ""
 
 #. Name for ath
-#, fuzzy
 msgid "Athapascan languages"
-msgstr "زبان آتاپاسکایی"
+msgstr "زبانهای آتاپاسکایی"
 
 #. Name for aus
 msgid "Australian languages"
@@ -199,9 +196,8 @@ msgid "Basa"
 msgstr "باسایی"
 
 #. Name for bat
-#, fuzzy
 msgid "Baltic languages"
-msgstr "زبان‌های مایاییک"
+msgstr "زبان‌های بالتیک"
 
 #. Name for bej
 msgid "Beja; Bedawiyet"

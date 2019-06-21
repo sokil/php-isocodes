@@ -8,14 +8,14 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Abdulaziz Al-Arfaj <alarfaj0@yahoo.com>, 2004.
 # Ossama M. Khayat <okhayat@yahoo.com>, 2006, 2008, 2010.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-10-24 23:23+0000\n"
+"PO-Revision-Date: 2019-06-18 19:05+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ar/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1400,14 +1400,12 @@ msgid "Republic of Serbia"
 msgstr "جمهوريّة صربية"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "جنوب السودان"
+msgstr "جنوب السّودان"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "جمهورية جنوب السودان"
+msgstr "جمهورية جنوب السّودان"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
