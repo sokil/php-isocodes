@@ -1,5 +1,6 @@
-## In next release
-* Remove sub class \Sokil\IsoCodes, use \Sokil\IsoCodes\IsoCodesFactory instead
+## 3.0.1 (2019-06-21)
+* Remove stub class \Sokil\IsoCodes, use \Sokil\IsoCodes\IsoCodesFactory instead
+* Database version: iso-codes-4.2-147-gcadebc34
 
 ## 3.0 (2019-05-04)
 * PHP >=7.1 required.
