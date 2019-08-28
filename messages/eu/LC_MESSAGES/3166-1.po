@@ -8,14 +8,15 @@
 # Mikel Olasagasti <hey_neken@mundurat.net>, 2004.
 # Piarres Beobide Egaña <pi@beobide.net>, 2004, 2006-2009, 2012.
 # Iñaki Larrañaga Murgoitio <dooteo@zundan.com>, 2010, 2013.
+# Osoitz <oelkoro@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2017-12-29 16:43+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2019-08-01 05:13+0000\n"
+"Last-Translator: Osoitz <oelkoro@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/eu/>\n"
 "Language: eu\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -91,7 +92,7 @@ msgstr "Armeniako Errepublika"
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr "Samoa amerikarra"
+msgstr "Amerikar Samoa"
 
 #. Name for ATA
 msgid "Antarctica"
@@ -350,14 +351,10 @@ msgid "Union of the Comoros"
 msgstr "Komoreetako Batasuna"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Cabo Verde"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Cabo Verdeko Errepublika"
 
@@ -399,7 +396,7 @@ msgstr "Zipreko Errepublika"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Txekia"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -594,10 +591,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Zambiako Errepublika"
+msgstr "Gambiako Errepublika"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -988,16 +983,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marshall Uharteetako Errepublika"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Kaledonia Berria"
+msgstr "Ipar Mazedonia"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Lituaniako Errepublika"
+msgstr "Ipar Mazedoniako Errepublika"
 
 #. Name for MLI
 msgid "Mali"
@@ -1224,9 +1215,8 @@ msgid "Papua New Guinea"
 msgstr "Papua Ginea Berria"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Samoako Estatu Burujabea"
+msgstr "Papua Ginea Berriko Estatu Burujabea"
 
 #. Name for POL
 msgid "Poland"
@@ -1381,9 +1371,8 @@ msgid "Somalia"
 msgstr "Somalia"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Alemaniako Errepublika Federala"
+msgstr "Somaliako Errepublika Federala"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1447,13 +1436,11 @@ msgstr "Suediako Erresuma"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Espaniako Erresuma"
+msgstr "Eswatiniko Erresuma"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1576,7 +1563,6 @@ msgid "United Republic of Tanzania"
 msgstr "Tanzaniako Errepublika Batua"
 
 #. Common name for TZA
-#, fuzzy
 msgid "Tanzania"
 msgstr "Tanzania"
 
@@ -1665,8 +1651,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnamgo Errepublika Sozialista"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vietnam"
 

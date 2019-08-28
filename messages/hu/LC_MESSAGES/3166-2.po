@@ -8,14 +8,15 @@
 # Arpad Biro <biro_arpad@yahoo.com>, 2001.
 # VERÓK István <vi@fsf.hu>, 2004.
 # Gabor Kelemen <kelemeng@gnome.hu>, 2010.
+# Babos Gábor <gabor.babos@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-23 22:08+0100\n"
-"PO-Revision-Date: 2018-01-14 14:41+0000\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"POT-Creation-Date: 2019-08-01 13:16+0200\n"
+"PO-Revision-Date: 2019-07-15 11:07+0000\n"
+"Last-Translator: Babos Gábor <gabor.babos@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/hu/>\n"
 "Language: hu\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -38,9 +39,8 @@ msgid "La Massana"
 msgstr "La Massana"
 
 #. Name for AD-05
-#, fuzzy
 msgid "Ordino"
-msgstr "Ontario"
+msgstr "Ordino"
 
 #. Name for AD-06
 msgid "Sant Julià de Lòria"
@@ -7460,9 +7460,8 @@ msgid "Eger"
 msgstr "Eger"
 
 #. Name for HU-ER
-#, fuzzy
 msgid "Érd"
-msgstr "Évora"
+msgstr "Érd"
 
 #. Name for HU-FE
 msgid "Fejér"
@@ -7482,7 +7481,7 @@ msgstr "Hajdú-Bihar"
 
 #. Name for HU-HE
 msgid "Heves"
-msgstr "Heves megye"
+msgstr "Heves"
 
 #. Name for HU-HV
 msgid "Hódmezővásárhely"
@@ -10543,88 +10542,81 @@ msgid "Az Zāwiyah"
 msgstr "Az Zawiyah"
 
 #. Name for MA-01
-msgid "Tanger-Tétouan"
+msgid "Tanger-Tétouan-Al Hoceïma"
 msgstr ""
 
 #. Name for MA-02
-msgid "Gharb-Chrarda-Beni Hssen"
-msgstr "Gharb-Chrarda-Béni Hssen"
-
-#. Name for MA-03
-msgid "Taza-Al Hoceima-Taounate"
-msgstr ""
-
-#. Name for MA-04
 msgid "L'Oriental"
 msgstr "L'Oriental"
 
+#. Name for MA-03
+msgid "Fès-Meknès"
+msgstr ""
+
+#. Name for MA-04
+msgid "Rabat-Salé-Kénitra"
+msgstr ""
+
 #. Name for MA-05
-msgid "Fès-Boulemane"
-msgstr "Fès-Boulemane"
+#, fuzzy
+#| msgid "Beni Mellal"
+msgid "Béni Mellal-Khénifra"
+msgstr "Beni Mellal"
 
 #. Name for MA-06
-msgid "Meknès-Tafilalet"
-msgstr ""
-
-#. Name for MA-07
-msgid "Rabat-Salé-Zemmour-Zaer"
-msgstr ""
-
-#. Name for MA-08
-msgid "Grand Casablanca"
+#, fuzzy
+#| msgid "Grand Casablanca"
+msgid "Casablanca-Settat"
 msgstr "Grand Casablanca"
 
+#. Name for MA-07
+#, fuzzy
+msgid "Marrakech-Safi"
+msgstr "Errachidia"
+
+#. Name for MA-08
+msgid "Drâa-Tafilalet"
+msgstr ""
+
 #. Name for MA-09
-msgid "Chaouia-Ouardigha"
-msgstr "Chaouia-Ouardigha"
+msgid "Souss-Massa"
+msgstr ""
 
 #. Name for MA-10
-msgid "Doukhala-Abda"
-msgstr "Doukhala-Abda"
+msgid "Guelmim-Oued Noun (EH-partial)"
+msgstr ""
 
 #. Name for MA-11
-msgid "Marrakech-Tensift-Al Haouz"
-msgstr ""
-
-#. Name for MA-12
-msgid "Tadla-Azilal"
-msgstr ""
-
-#. Name for MA-13
-msgid "Sous-Massa-Draa"
-msgstr ""
-
-#. Name for MA-14
-msgid "Guelmim-Es Smara"
-msgstr "Guelmim-Es Smara"
-
-#. Name for MA-15
-msgid "Laâyoune-Boujdour-Sakia el Hamra"
+#, fuzzy
+#| msgid "Laâyoune-Boujdour-Sakia el Hamra"
+msgid "Laâyoune-Sakia El Hamra (EH-partial)"
 msgstr "Laâyoune-Boujdour-Sakia el Hamra"
 
-#. Name for MA-16
-msgid "Oued ed Dahab-Lagouira"
+#. Name for MA-12
+msgid "Dakhla-Oued Ed-Dahab (EH)"
 msgstr ""
 
 #. Name for MA-AGD
-msgid "Agadir-Ida-Outanane"
+msgid "Agadir-Ida-Ou-Tanane"
 msgstr ""
 
 #. Name for MA-AOU
 #, fuzzy
-msgid "Aousserd"
+msgid "Aousserd (EH)"
 msgstr "Buskerud (megye)"
 
 #. Name for MA-ASZ
-msgid "Assa-Zag"
-msgstr "Assa-Zag (province)"
+msgid "Assa-Zag (EH-partial)"
+msgstr ""
 
 #. Name for MA-AZI
 msgid "Azilal"
 msgstr "Azilal"
 
 #. Name for MA-BEM
-msgid "Beni Mellal"
+#, fuzzy
+#| msgid "Beni Mellal"
+msgid "Béni Mellal"
 msgstr "Beni Mellal"
 
 #. Name for MA-BER
@@ -10633,7 +10625,7 @@ msgstr "Berkane"
 
 #. Name for MA-BES
 #, fuzzy
-msgid "Ben Slimane"
+msgid "Benslimane"
 msgstr "Ben Slimane"
 
 #. Name for MA-BOD
@@ -10644,9 +10636,17 @@ msgstr "Boujdour (EH)"
 msgid "Boulemane"
 msgstr "Boulemane"
 
+#. Name for MA-BRR
+#, fuzzy
+#| msgid "Errachidia"
+msgid "Berrechid"
+msgstr "Errachidia"
+
 #. Name for MA-CAS
-msgid "Casablanca [Dar el Beïda]"
-msgstr "Casablanca"
+#, fuzzy
+#| msgid "Grand Casablanca"
+msgid "Casablanca"
+msgstr "Grand Casablanca"
 
 #. Name for MA-CHE
 #, fuzzy
@@ -10661,6 +10661,10 @@ msgstr "Chichaoua"
 msgid "Chtouka-Ait Baha"
 msgstr ""
 
+#. Name for MA-DRI
+msgid "Driouch"
+msgstr ""
+
 #. Name for MA-ERR
 msgid "Errachidia"
 msgstr "Errachidia"
@@ -10670,24 +10674,36 @@ msgid "Essaouira"
 msgstr "Essaouira"
 
 #. Name for MA-ESM
-msgid "Es Smara (EH)"
+#, fuzzy
+#| msgid "Es Smara (EH)"
+msgid "Es-Semara (EH-partial)"
 msgstr "Smara"
 
 #. Name for MA-FAH
-msgid "Fahs-Beni Makada"
+msgid "Fahs-Anjra"
 msgstr ""
 
 #. Name for MA-FES
-msgid "Fès-Dar-Dbibegh"
-msgstr ""
+#, fuzzy
+#| msgid "Gabès"
+msgid "Fès"
+msgstr "Gabès"
 
 #. Name for MA-FIG
 msgid "Figuig"
 msgstr "Figuig"
 
+#. Name for MA-FQH
+msgid "Fquih Ben Salah"
+msgstr ""
+
 #. Name for MA-GUE
 msgid "Guelmim"
 msgstr "Guelmim"
+
+#. Name for MA-GUF
+msgid "Guercif"
+msgstr ""
 
 #. Name for MA-HAJ
 msgid "El Hajeb"
@@ -10716,7 +10732,7 @@ msgstr "El Jadida"
 
 #. Name for MA-JRA
 #, fuzzy
-msgid "Jrada"
+msgid "Jerada"
 msgstr "Jerada"
 
 #. Name for MA-KEN
@@ -10725,11 +10741,13 @@ msgstr "Kénitra"
 
 #. Name for MA-KES
 #, fuzzy
-msgid "Kelaat es Sraghna"
+msgid "El Kelâa des Sraghna"
 msgstr "Kelaat Sraghna"
 
 #. Name for MA-KHE
-msgid "Khemisaet"
+#, fuzzy
+#| msgid "Khemisaet"
+msgid "Khemisset"
 msgstr "Khémisset City"
 
 #. Name for MA-KHN
@@ -10748,6 +10766,15 @@ msgstr "Laâyoune (EH)"
 msgid "Larache"
 msgstr ""
 
+#. Name for MA-MAR
+#, fuzzy
+msgid "Marrakech"
+msgstr "Errachidia"
+
+#. Name for MA-MDF
+msgid "M’diq-Fnideq"
+msgstr ""
+
 #. Name for MA-MED
 #, fuzzy
 msgid "Médiouna"
@@ -10757,15 +10784,9 @@ msgstr "Indiana"
 msgid "Meknès"
 msgstr ""
 
-#. Name for MA-MMD
-#, fuzzy
-msgid "Marrakech-Medina"
-msgstr "Errachidia"
-
-#. Name for MA-MMN
-#, fuzzy
-msgid "Marrakech-Menara"
-msgstr "Makaó"
+#. Name for MA-MID
+msgid "Midelt"
+msgstr ""
 
 #. Name for MA-MOH
 msgid "Mohammadia"
@@ -10788,15 +10809,23 @@ msgid "Ouarzazate"
 msgstr ""
 
 #. Name for MA-OUD
-msgid "Oued ed Dahab (EH)"
+msgid "Oued Ed-Dahab (EH)"
 msgstr ""
 
 #. Name for MA-OUJ
 msgid "Oujda-Angad"
 msgstr ""
 
+#. Name for MA-OUZ
+msgid "Ouezzane"
+msgstr ""
+
 #. Name for MA-RAB
 msgid "Rabat"
+msgstr ""
+
+#. Name for MA-REH
+msgid "Rehamna"
 msgstr ""
 
 #. Name for MA-SAF, Name for MT-47
@@ -10816,16 +10845,29 @@ msgstr ""
 msgid "Settat"
 msgstr ""
 
-#. Name for MA-SIK
-msgid "Sidl Kacem"
+#. Name for MA-SIB
+msgid "Sidi Bennour"
 msgstr ""
+
+#. Name for MA-SIF
+msgid "Sidi Ifni"
+msgstr ""
+
+#. Name for MA-SIK
+msgid "Sidi Kacem"
+msgstr ""
+
+#. Name for MA-SIL
+#, fuzzy
+msgid "Sidi Slimane"
+msgstr "Ben Slimane"
 
 #. Name for MA-SKH
 msgid "Skhirate-Témara"
 msgstr ""
 
-#. Name for MA-SYB
-msgid "Sidi Youssef Ben Ali"
+#. Name for MA-TAF
+msgid "Tarfaya (EH-partial)"
 msgstr ""
 
 #. Name for MA-TAI
@@ -10854,6 +10896,10 @@ msgstr ""
 msgid "Tétouan"
 msgstr ""
 
+#. Name for MA-TIN
+msgid "Tinghir"
+msgstr ""
+
 #. Name for MA-TIZ
 msgid "Tiznit"
 msgstr ""
@@ -10863,7 +10909,11 @@ msgid "Tanger-Assilah"
 msgstr ""
 
 #. Name for MA-TNT
-msgid "Tan-Tan"
+msgid "Tan-Tan (EH-partial)"
+msgstr ""
+
+#. Name for MA-YUS
+msgid "Youssoufia"
 msgstr ""
 
 #. Name for MA-ZAG
@@ -16565,12 +16615,12 @@ msgstr ""
 
 #. Name for SS-BN
 #, fuzzy
-msgid "Northern Bahr el-Ghazal"
+msgid "Northern Bahr el Ghazal"
 msgstr "Észak-Jutland"
 
 #. Name for SS-BW
 #, fuzzy
-msgid "Western Bahr el-Ghazal"
+msgid "Western Bahr el Ghazal"
 msgstr "Nyugat Szamara"
 
 #. Name for SS-EC
@@ -16578,7 +16628,7 @@ msgstr "Nyugat Szamara"
 msgid "Central Equatoria"
 msgstr "Central River"
 
-#. Name for SS-EE8
+#. Name for SS-EE
 #, fuzzy
 msgid "Eastern Equatoria"
 msgstr "Eastern Samar"

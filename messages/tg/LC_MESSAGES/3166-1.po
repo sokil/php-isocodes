@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Victor Ibragimov <victor.ibragimov@gmail.com>, 2018.
+# Victor Ibragimov <victor.ibragimov@gmail.com>, 2018, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-03-05 12:57+0500\n"
+"PO-Revision-Date: 2019-08-08 14:42+0500\n"
 "Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Tajik <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/tg/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -64,7 +64,7 @@ msgstr "Андорра"
 
 #. Official name for AND
 msgid "Principality of Andorra"
-msgstr "Князгарии Андорра"
+msgstr "Князигарии Андорра"
 
 #. Name for ARE
 msgid "United Arab Emirates"
@@ -587,10 +587,8 @@ msgid "Gambia"
 msgstr "Гамбия"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Ҷумҳурии Замбия"
+msgstr "Ҷумҳурии Гамбия"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -866,7 +864,7 @@ msgstr "Лихтенштейн"
 
 #. Official name for LIE
 msgid "Principality of Liechtenstein"
-msgstr "Князгарии Лихтенштейн"
+msgstr "Князигарии Лихтенштейн"
 
 #. Name for LKA
 msgid "Sri Lanka"
@@ -934,7 +932,7 @@ msgstr "Монако"
 
 #. Official name for MCO
 msgid "Principality of Monaco"
-msgstr "Князгарии Монако"
+msgstr "Князигарии Монако"
 
 #. Name for MDA
 msgid "Moldova, Republic of"
@@ -981,16 +979,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Ҷумҳурии Ҷазираҳои Маршал"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Каледонияи Нав"
+msgstr "Македонияи Шимолӣ"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Ҷумҳурии Литва"
+msgstr "Ҷумҳурии Македонияи Шимолӣ"
 
 #. Name for MLI
 msgid "Mali"
@@ -1438,13 +1432,11 @@ msgstr "Шоҳигарии Шветсия"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Эсватини"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Шоҳигарии Испания"
+msgstr "Шоҳигарии Эсватини"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1604,15 +1596,15 @@ msgstr "Иёлоти Муттаҳидаи Америка"
 
 #. Name for UZB
 msgid "Uzbekistan"
-msgstr "Ӯзбакистон"
+msgstr "Ӯзбекистон"
 
 #. Official name for UZB
 msgid "Republic of Uzbekistan"
-msgstr "Ҷумҳурии Ӯзбакистон"
+msgstr "Ҷумҳурии Ӯзбекистон"
 
 #. Name for VAT
 msgid "Holy See (Vatican City State)"
-msgstr "Сарири Муқаддас (Шаҳри Давлати Вотикан)"
+msgstr "Сарири Муқаддас (Шаҳри Давлати Ватикан)"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"

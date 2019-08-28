@@ -8,14 +8,15 @@
 # Frikkie Thirion <frix@engineer.com>, 2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Friedel Wolff <friedel@translate.org.za>, 2007.
+# Jacques Viviers <jacques.viviers@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2017-12-25 21:47+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2019-06-22 12:01+0000\n"
+"Last-Translator: Jacques Viviers <jacques.viviers@gmail.com>\n"
 "Language-Team: Afrikaans <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/af/>\n"
 "Language: af\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -99,7 +100,7 @@ msgstr "Antarktika"
 
 #. Name for ATF
 msgid "French Southern Territories"
-msgstr ""
+msgstr "Franse Suidelike Gebiede"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
@@ -187,7 +188,7 @@ msgstr "Bahamas"
 
 #. Official name for BHS
 msgid "Commonwealth of the Bahamas"
-msgstr ""
+msgstr "Statebond van die Bahamas"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
@@ -219,11 +220,11 @@ msgstr "Bermunda"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "Bolivië, Plurinasionale Staat van"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
-msgstr ""
+msgstr "Plurinasionale Staat van Bolivië"
 
 #. Common name for BOL
 msgid "Bolivia"
@@ -347,7 +348,7 @@ msgstr "Comore"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr ""
+msgstr "Unie van die Comore"
 
 #. Name for CPV
 #, fuzzy
@@ -427,7 +428,7 @@ msgstr "Dominica"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
-msgstr ""
+msgstr "Statebond van Dominica"
 
 #. Name for DNK
 msgid "Denmark"
@@ -535,7 +536,7 @@ msgstr "Faroëreilande"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "Mikronesië, Gefedereerde State van"
 
 #. Official name for FSM
 msgid "Federated States of Micronesia"
@@ -594,10 +595,8 @@ msgid "Gambia"
 msgstr "Gambië"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Republiek van Zambië"
+msgstr "Republiek van Gambië"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -621,7 +620,7 @@ msgstr "Griekeland"
 
 #. Official name for GRC
 msgid "Hellenic Republic"
-msgstr ""
+msgstr "Hellenistiese Republiek"
 
 #. Name for GRD
 msgid "Grenada"
@@ -927,7 +926,7 @@ msgstr "Macau SAS Sjina"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
-msgstr ""
+msgstr "Sint Martin (Franse deel)"
 
 #. Name for MAR
 msgid "Morocco"
@@ -947,7 +946,7 @@ msgstr "Vorstedom van Monaco"
 
 #. Name for MDA
 msgid "Moldova, Republic of"
-msgstr ""
+msgstr "Moldawië, Republiek van"
 
 #. Official name for MDA
 msgid "Republic of Moldova"

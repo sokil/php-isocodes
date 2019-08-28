@@ -6,22 +6,23 @@
 # .
 # Copyright ©
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
+# Pro Neon <proneon267@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2010-04-07 12:26+0530\n"
-"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
-"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2019-07-21 21:07+0000\n"
+"Last-Translator: Pro Neon <proneon267@gmail.com>\n"
+"Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/or/>\n"
 "Language: or\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -149,7 +150,7 @@ msgstr "ବେନିନ୍ ଗଣତନ୍ତ୍ର"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "ବୋନେର୍, ସିଣ୍ଟ ୟୁଷ୍ଟାସିଅସ ଏବଂ ସାବା"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -348,16 +349,12 @@ msgid "Union of the Comoros"
 msgstr "ମିଳିତ କୋମୋରୋସ"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "କେପ୍ ଭାର୍ଡେ"
+msgstr "କାବୋ ଭଡ୍ରି"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "କେପ ଭର୍ଦେ ଗଣତନ୍ତ୍ର"
+msgstr "କାବୋ ଭଡ୍ରି ଗଣତନ୍ତ୍ର"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -377,7 +374,7 @@ msgstr "କ୍ଯୁବା ଗଣତନ୍ତ୍ର"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "କୁରାକୋ"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -397,7 +394,7 @@ msgstr "ସାଇପ୍ରୋସ ଗଣତନ୍ତ୍ର"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "ଚେସିଆ"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -468,9 +465,8 @@ msgid "Eritrea"
 msgstr "ଇରୀଟ୍ରିୟା"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା"
+msgstr "ଏରିଟିଆ ର ରାଜ୍ୟ"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -513,9 +509,8 @@ msgid "Fiji"
 msgstr "ଫିଜୀ"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "ହୈତି ଗଣତନ୍ତ୍ର"
+msgstr "ଫିଜୀ ଗଣତନ୍ତ୍ର"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"

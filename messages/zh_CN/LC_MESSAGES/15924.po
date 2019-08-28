@@ -6,20 +6,23 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # LI Daobing <lidaobing@gmail.com>, 2007-2009.
+# Elizabeth Sherrock <lizzyd710@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2009-12-05 19:22+0800\n"
-"Last-Translator: LI Daobing <lidaobing@gmail.com>\n"
-"Language-Team: Chinese (simplified) <translation-team-zh-cn@lists."
-"sourceforge.net>\n"
+"PO-Revision-Date: 2019-07-10 20:02+0000\n"
+"Last-Translator: Elizabeth Sherrock <lizzyd710@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-15924/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -42,10 +45,8 @@ msgid "Arabic"
 msgstr "阿拉伯语"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Han (Traditional variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "繁体中文"
+msgstr ""
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -277,10 +278,8 @@ msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "老意大利文字 (伊特鲁里亚、奥斯坎、等等)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "韩语"
+msgstr ""
 
 #. Name for Java
 msgid "Javanese"

@@ -10,14 +10,15 @@
 # Dr. Tobias Quathamer <toddy@debian.org>, 2008.
 # Christian Perrier <bubulle@debian.org>, 2004, 2006-2007, 2009-2013, 2015-2016.
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Alban Vidal <alban.vidal@zordhak.fr>\n"
+"PO-Revision-Date: 2019-07-08 17:01+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fr/>\n"
 "Language: fr\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -445,7 +446,7 @@ msgstr "Algérie"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
-msgstr "République démocratique populaire d'Algérie"
+msgstr "République algérienne démocratique et populaire"
 
 #. Name for ECU
 msgid "Ecuador"
@@ -592,10 +593,8 @@ msgid "Gambia"
 msgstr "Gambie"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "République de Zambie"
+msgstr "République de Gambie"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -986,16 +985,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "République des Îles Marshall"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Nouvelle-Calédonie"
+msgstr "Macédoine du Nord"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "République de Lituanie"
+msgstr "République de Macédoine du Nord"
 
 #. Name for MLI
 msgid "Mali"
@@ -1443,13 +1438,11 @@ msgstr "Royaume de Suède"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Royaume d'Espagne"
+msgstr "Royaume d’Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

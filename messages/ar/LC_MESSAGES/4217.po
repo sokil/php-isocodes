@@ -9,29 +9,33 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2019-08-11 11:23+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
+"iso-4217/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
-msgstr ""
+msgstr "الدرهم الإماراتي"
 
 #. Name for AFN
 msgid "Afghani"
-msgstr ""
+msgstr "الأفغاني"
 
 #. Name for ALL
 msgid "Lek"
-msgstr ""
+msgstr "الليك"
 
 #. Name for AMD
 msgid "Armenian Dram"
-msgstr ""
+msgstr "الدرام الأرمني"
 
 #. Name for ANG
 msgid "Netherlands Antillean Guilder"
@@ -39,15 +43,15 @@ msgstr ""
 
 #. Name for AOA
 msgid "Kwanza"
-msgstr ""
+msgstr "الكوانزا"
 
 #. Name for ARS
 msgid "Argentine Peso"
-msgstr ""
+msgstr "البيزو الأرجنتيني"
 
 #. Name for AUD
 msgid "Australian Dollar"
-msgstr ""
+msgstr "الدولار الأسترالي"
 
 #. Name for AWG
 msgid "Aruban Florin"
@@ -55,51 +59,51 @@ msgstr ""
 
 #. Name for AZN
 msgid "Azerbaijanian Manat"
-msgstr ""
+msgstr "المانات الأذربيجاني"
 
 #. Name for BAM
 msgid "Convertible Mark"
-msgstr ""
+msgstr "المارك القابل للتحويل"
 
 #. Name for BBD
 msgid "Barbados Dollar"
-msgstr ""
+msgstr "الدولار البربادوسي"
 
 #. Name for BDT
 msgid "Taka"
-msgstr ""
+msgstr "التاكا"
 
 #. Name for BGN
 msgid "Bulgarian Lev"
-msgstr ""
+msgstr "الليف البلغاري"
 
 #. Name for BHD
 msgid "Bahraini Dinar"
-msgstr ""
+msgstr "الدينار البحريني"
 
 #. Name for BIF
 msgid "Burundi Franc"
-msgstr ""
+msgstr "الفرنك البوروندي"
 
 #. Name for BMD
 msgid "Bermudian Dollar"
-msgstr ""
+msgstr "الدولار البرمودي"
 
 #. Name for BND
 msgid "Brunei Dollar"
-msgstr ""
+msgstr "الدولار البروناي"
 
 #. Name for BOB
 msgid "Boliviano"
-msgstr ""
+msgstr "البوليفيانو"
 
 #. Name for BRL
 msgid "Brazilian Real"
-msgstr ""
+msgstr "الريال البرازيلي"
 
 #. Name for BSD
 msgid "Bahamian Dollar"
-msgstr ""
+msgstr "الدولار البهامي"
 
 #. Name for BTN
 msgid "Ngultrum"
@@ -107,31 +111,31 @@ msgstr ""
 
 #. Name for BWP
 msgid "Pula"
-msgstr ""
+msgstr "البولا"
 
 #. Name for BYN
 msgid "Belarusian Ruble"
-msgstr ""
+msgstr "الروبل البيلاروسي"
 
 #. Name for BZD
 msgid "Belize Dollar"
-msgstr ""
+msgstr "الدولار البليزي"
 
 #. Name for CAD
 msgid "Canadian Dollar"
-msgstr ""
+msgstr "الدولار الكندي"
 
 #. Name for CDF
 msgid "Congolese Franc"
-msgstr ""
+msgstr "الفرنك الكونغولي"
 
 #. Name for CHF
 msgid "Swiss Franc"
-msgstr ""
+msgstr "الفرنك السويسري"
 
 #. Name for CLP
 msgid "Chilean Peso"
-msgstr ""
+msgstr "البيزو الشيلى"
 
 #. Name for CNY
 msgid "Yuan Renminbi"
@@ -139,19 +143,19 @@ msgstr ""
 
 #. Name for COP
 msgid "Colombian Peso"
-msgstr ""
+msgstr "البيزو الكولومبي"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
-msgstr ""
+msgstr "الكولون الكوستاريكي"
 
 #. Name for CUC
 msgid "Peso Convertible"
-msgstr ""
+msgstr "البيزو القابل للتحويل"
 
 #. Name for CUP
 msgid "Cuban Peso"
-msgstr ""
+msgstr "البيزو الكوبي"
 
 #. Name for CVE
 msgid "Cabo Verde Escudo"
@@ -159,11 +163,11 @@ msgstr ""
 
 #. Name for CZK
 msgid "Czech Koruna"
-msgstr ""
+msgstr "الكورونا التشيكية"
 
 #. Name for DJF
 msgid "Djibouti Franc"
-msgstr ""
+msgstr "الفرنك الجيبوتي"
 
 #. Name for DKK
 msgid "Danish Krone"
@@ -171,43 +175,43 @@ msgstr ""
 
 #. Name for DOP
 msgid "Dominican Peso"
-msgstr ""
+msgstr "البيزو الدومنيكاني"
 
 #. Name for DZD
 msgid "Algerian Dinar"
-msgstr ""
+msgstr "الدينار الجزائري"
 
 #. Name for EGP
 msgid "Egyptian Pound"
-msgstr ""
+msgstr "الجنيه المصري"
 
 #. Name for ERN
 msgid "Nakfa"
-msgstr ""
+msgstr "الناكفا"
 
 #. Name for ETB
 msgid "Ethiopian Birr"
-msgstr ""
+msgstr "البير الإثيوبي"
 
 #. Name for EUR
 msgid "Euro"
-msgstr ""
+msgstr "اليورو"
 
 #. Name for FJD
 msgid "Fiji Dollar"
-msgstr ""
+msgstr "الدولار الفيجي"
 
 #. Name for FKP
 msgid "Falkland Islands Pound"
-msgstr ""
+msgstr "جنيه جزر فولكلاند"
 
 #. Name for GBP
 msgid "Pound Sterling"
-msgstr ""
+msgstr "الجنيه الاسترليني"
 
 #. Name for GEL
 msgid "Lari"
-msgstr ""
+msgstr "اللاري"
 
 #. Name for GHS
 msgid "Ghana Cedi"
@@ -215,7 +219,7 @@ msgstr ""
 
 #. Name for GIP
 msgid "Gibraltar Pound"
-msgstr ""
+msgstr "جنيه جبل طارق"
 
 #. Name for GMD
 msgid "Dalasi"
@@ -223,7 +227,7 @@ msgstr ""
 
 #. Name for GNF
 msgid "Guinea Franc"
-msgstr ""
+msgstr "الفرنك الغيني"
 
 #. Name for GTQ
 msgid "Quetzal"
@@ -231,47 +235,47 @@ msgstr ""
 
 #. Name for GYD
 msgid "Guyana Dollar"
-msgstr ""
+msgstr "الدولار الغواياني"
 
 #. Name for HKD
 msgid "Hong Kong Dollar"
-msgstr ""
+msgstr "دولار هونغ كونغ"
 
 #. Name for HNL
 msgid "Lempira"
-msgstr ""
+msgstr "الليمبيرا"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr ""
+msgstr "الكونا"
 
 #. Name for HTG
 msgid "Gourde"
-msgstr ""
+msgstr "الغورد"
 
 #. Name for HUF
 msgid "Forint"
-msgstr ""
+msgstr "الفورنت"
 
 #. Name for IDR
 msgid "Rupiah"
-msgstr ""
+msgstr "الروبية"
 
 #. Name for ILS
 msgid "New Israeli Sheqel"
-msgstr ""
+msgstr "الشيكل الإسرائيلي الجديد"
 
 #. Name for INR
 msgid "Indian Rupee"
-msgstr ""
+msgstr "الروبية الهندية"
 
 #. Name for IQD
 msgid "Iraqi Dinar"
-msgstr ""
+msgstr "الدينار العراقي"
 
 #. Name for IRR
 msgid "Iranian Rial"
-msgstr ""
+msgstr "الريال الإيراني"
 
 #. Name for ISK
 msgid "Iceland Krona"
@@ -279,15 +283,15 @@ msgstr ""
 
 #. Name for JMD
 msgid "Jamaican Dollar"
-msgstr ""
+msgstr "الدولار الجامايكي"
 
 #. Name for JOD
 msgid "Jordanian Dinar"
-msgstr ""
+msgstr "الدينار الأردني"
 
 #. Name for JPY
 msgid "Yen"
-msgstr ""
+msgstr "الين"
 
 #. Name for KES
 msgid "Kenyan Shilling"
@@ -303,11 +307,11 @@ msgstr ""
 
 #. Name for KMF
 msgid "Comoro Franc"
-msgstr ""
+msgstr "فرنك جزر القمر"
 
 #. Name for KPW
 msgid "North Korean Won"
-msgstr ""
+msgstr "وون كوريا الشمالية"
 
 #. Name for KRW
 msgid "Won"
@@ -315,11 +319,11 @@ msgstr ""
 
 #. Name for KWD
 msgid "Kuwaiti Dinar"
-msgstr ""
+msgstr "الدينار الكويتي"
 
 #. Name for KYD
 msgid "Cayman Islands Dollar"
-msgstr ""
+msgstr "دولار جزر كايمان"
 
 #. Name for KZT
 msgid "Tenge"
@@ -331,15 +335,15 @@ msgstr ""
 
 #. Name for LBP
 msgid "Lebanese Pound"
-msgstr ""
+msgstr "الليرة اللبنانية"
 
 #. Name for LKR
 msgid "Sri Lanka Rupee"
-msgstr ""
+msgstr "الروبية السيريلانكية"
 
 #. Name for LRD
 msgid "Liberian Dollar"
-msgstr ""
+msgstr "الدولار الليبيري"
 
 #. Name for LSL
 msgid "Loti"
@@ -347,11 +351,11 @@ msgstr ""
 
 #. Name for LYD
 msgid "Libyan Dinar"
-msgstr ""
+msgstr "الدينار الليبي"
 
 #. Name for MAD
 msgid "Moroccan Dirham"
-msgstr ""
+msgstr "الدرهم المغربي"
 
 #. Name for MDL
 msgid "Moldovan Leu"
@@ -371,7 +375,7 @@ msgstr ""
 
 #. Name for MNT
 msgid "Tugrik"
-msgstr ""
+msgstr "التوغريك"
 
 #. Name for MOP
 msgid "Pataca"
@@ -407,7 +411,7 @@ msgstr ""
 
 #. Name for NAD
 msgid "Namibia Dollar"
-msgstr ""
+msgstr "الدولار الناميبي"
 
 #. Name for NGN
 msgid "Naira"
@@ -419,19 +423,19 @@ msgstr ""
 
 #. Name for NOK
 msgid "Norwegian Krone"
-msgstr ""
+msgstr "الكرونة النرويجية"
 
 #. Name for NPR
 msgid "Nepalese Rupee"
-msgstr ""
+msgstr "الروبية النيبالية"
 
 #. Name for NZD
 msgid "New Zealand Dollar"
-msgstr ""
+msgstr "الدولار النيوزيلاندي"
 
 #. Name for OMR
 msgid "Rial Omani"
-msgstr ""
+msgstr "الريال العماني"
 
 #. Name for PAB
 msgid "Balboa"
@@ -447,11 +451,11 @@ msgstr ""
 
 #. Name for PHP
 msgid "Philippine Peso"
-msgstr ""
+msgstr "البيزو الفلبيني"
 
 #. Name for PKR
 msgid "Pakistan Rupee"
-msgstr ""
+msgstr "الروبية الباكستانية"
 
 #. Name for PLN
 msgid "Zloty"
@@ -463,7 +467,7 @@ msgstr ""
 
 #. Name for QAR
 msgid "Qatari Rial"
-msgstr ""
+msgstr "الريال القطرى"
 
 #. Name for RON
 msgid "Romanian Leu"
@@ -471,7 +475,7 @@ msgstr ""
 
 #. Name for RSD
 msgid "Serbian Dinar"
-msgstr ""
+msgstr "الدينار الصربي"
 
 #. Name for RUB
 msgid "Russian Ruble"
@@ -483,15 +487,15 @@ msgstr ""
 
 #. Name for SAR
 msgid "Saudi Riyal"
-msgstr ""
+msgstr "الريال السعودي"
 
 #. Name for SBD
 msgid "Solomon Islands Dollar"
-msgstr ""
+msgstr "دولار جزر سليمان"
 
 #. Name for SCR
 msgid "Seychelles Rupee"
-msgstr ""
+msgstr "الروبية السيشيلية"
 
 #. Name for SDG
 msgid "Sudanese Pound"
@@ -503,7 +507,7 @@ msgstr ""
 
 #. Name for SGD
 msgid "Singapore Dollar"
-msgstr ""
+msgstr "الدولار السنغافوري"
 
 #. Name for SHP
 msgid "Saint Helena Pound"
@@ -555,7 +559,7 @@ msgstr ""
 
 #. Name for TND
 msgid "Tunisian Dinar"
-msgstr ""
+msgstr "الدينار التونسي"
 
 #. Name for TOP
 msgid "Pa’anga"
@@ -571,7 +575,7 @@ msgstr ""
 
 #. Name for TWD
 msgid "New Taiwan Dollar"
-msgstr ""
+msgstr "الدولار التايواني الجديد"
 
 #. Name for TZS
 msgid "Tanzanian Shilling"
@@ -587,7 +591,7 @@ msgstr ""
 
 #. Name for USD
 msgid "US Dollar"
-msgstr ""
+msgstr "الدولار الأمريكي"
 
 #. Name for UYU
 msgid "Peso Uruguayo"
@@ -643,7 +647,7 @@ msgstr ""
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
-msgstr ""
+msgstr "دولار شرق الكاريبي"
 
 #. Name for XDR
 msgid "SDR (Special Drawing Right)"
@@ -695,4 +699,4 @@ msgstr ""
 
 #. Name for ZWL
 msgid "Zimbabwe Dollar"
-msgstr ""
+msgstr "الدولار الزيمبابوي"

@@ -11,14 +11,15 @@
 # Gabor Kelemen <kelemeng@gnome.hu>, 2006-2007.
 # Kalman Kemenczy <kkemenczy@gmail.com>, 2007-2008, 2010-2013.
 # Balázs Úr <urbalazs@gmail.com>, 2015.
+# Babos Gábor <gabor.babos@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-01-14 14:41+0000\n"
-"Last-Translator: Balázs Úr <urbalazs@gmail.com>\n"
+"PO-Revision-Date: 2019-07-15 14:02+0000\n"
+"Last-Translator: Babos Gábor <gabor.babos@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hu/>\n"
 "Language: hu\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 "X-Poedit-Language: Hungarian\n"
 "X-Poedit-Country: HUNGARY\n"
 
@@ -595,10 +596,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Zambiai Köztársaság"
+msgstr "Gambiai Köztársaság"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -989,16 +988,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marshall-szigeteki Köztársaság"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Új-Kaledónia"
+msgstr "Észak-Macedónia"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Litván Köztársaság"
+msgstr "Észak-Macedóniai Köztársaság"
 
 #. Name for MLI
 msgid "Mali"
@@ -1446,13 +1441,11 @@ msgstr "Svéd Királyság"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Szváziföld"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Spanyol Királyság"
+msgstr "Szváziföldi Királyság"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

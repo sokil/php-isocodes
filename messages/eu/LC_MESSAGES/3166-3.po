@@ -8,21 +8,23 @@
 # Mikel Olasagasti <hey_neken@mundurat.net>, 2004.
 # Piarres Beobide Egaña <pi@beobide.net>, 2004, 2006-2009, 2012.
 # Iñaki Larrañaga Murgoitio <dooteo@zundan.com>, 2010, 2013.
+# Osoitz <oelkoro@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2013-02-12 21:53+0100\n"
-"Last-Translator: Iñaki Larrañaga Murgoitio <dooteo@zundan.com>\n"
-"Language-Team: Basque <debian-l10n-basque@lists.debian.org>\n"
+"PO-Revision-Date: 2019-08-01 05:14+0000\n"
+"Last-Translator: Osoitz <oelkoro@gmail.com>\n"
+"Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/eu/>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -30,7 +32,7 @@ msgstr "Frantziar Afars eta Issas"
 
 #. Name for ANHH
 msgid "Netherlands Antilles"
-msgstr "Holandarren Antilak"
+msgstr "Holandarren Antillak"
 
 #. Name for BQAQ
 msgid "British Antarctic Territory"
