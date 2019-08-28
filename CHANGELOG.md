@@ -12,7 +12,7 @@
 * Factory now creates database instances but not store them, so next call of factory method will create new instance.
 * Subdivisions and languages databases are large, so they have now optimisation to load entries from separate files instead of one single file..
 
-## 2.2.8 (2019-08-28)
+## 2.2.9 (2019-08-28)
 * Database version: iso-codes-4.2-202-gfefebff3 from 2019-08-28 23:05
 
 ## 2.2 (2018-11-29)
