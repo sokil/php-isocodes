@@ -1,3 +1,6 @@
+## 3.0.2 (2019-08-28)
+* Database version: iso-codes-4.2-202-gfefebff3 from 2019-08-28 23:03
+
 ## 3.0.1 (2019-06-21)
 * Remove stub class \Sokil\IsoCodes, use \Sokil\IsoCodes\IsoCodesFactory instead
 * Database version: iso-codes-4.2-147-gcadebc34
@@ -8,6 +11,9 @@
   you must call `rewind` first.
 * Factory now creates database instances but not store them, so next call of factory method will create new instance.
 * Subdivisions and languages databases are large, so they have now optimisation to load entries from separate files instead of one single file..
+
+## 2.2.8 (2019-08-28)
+* Database version: iso-codes-4.2-202-gfefebff3 from 2019-08-28 23:05
 
 ## 2.2 (2018-11-29)
 * Added possibility to configure directory with databases and messages, and manually update them without updating composer 
