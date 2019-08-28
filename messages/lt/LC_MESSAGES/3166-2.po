@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-23 22:08+0100\n"
+"POT-Creation-Date: 2019-08-01 13:16+0200\n"
 "PO-Revision-Date: 2009-09-26 20:46+0300\n"
 "Last-Translator: Kęstutis Biliūnas <kebil@kaunas.init.lt>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
@@ -10523,80 +10523,64 @@ msgid "Az Zāwiyah"
 msgstr "Zavijos savivaldybė"
 
 #. Name for MA-01
-msgid "Tanger-Tétouan"
+msgid "Tanger-Tétouan-Al Hoceïma"
 msgstr ""
 
 #. Name for MA-02
-msgid "Gharb-Chrarda-Beni Hssen"
-msgstr ""
-
-#. Name for MA-03
-msgid "Taza-Al Hoceima-Taounate"
-msgstr ""
-
-#. Name for MA-04
 msgid "L'Oriental"
 msgstr ""
 
+#. Name for MA-03
+msgid "Fès-Meknès"
+msgstr ""
+
+#. Name for MA-04
+msgid "Rabat-Salé-Kénitra"
+msgstr ""
+
 #. Name for MA-05
-msgid "Fès-Boulemane"
+msgid "Béni Mellal-Khénifra"
 msgstr ""
 
 #. Name for MA-06
-msgid "Meknès-Tafilalet"
+msgid "Casablanca-Settat"
 msgstr ""
 
 #. Name for MA-07
-msgid "Rabat-Salé-Zemmour-Zaer"
+msgid "Marrakech-Safi"
 msgstr ""
 
 #. Name for MA-08
-msgid "Grand Casablanca"
+msgid "Drâa-Tafilalet"
 msgstr ""
 
 #. Name for MA-09
-msgid "Chaouia-Ouardigha"
+msgid "Souss-Massa"
 msgstr ""
 
 #. Name for MA-10
-msgid "Doukhala-Abda"
+msgid "Guelmim-Oued Noun (EH-partial)"
 msgstr ""
 
 #. Name for MA-11
-msgid "Marrakech-Tensift-Al Haouz"
+msgid "Laâyoune-Sakia El Hamra (EH-partial)"
 msgstr ""
 
 #. Name for MA-12
-msgid "Tadla-Azilal"
-msgstr ""
-
-#. Name for MA-13
-msgid "Sous-Massa-Draa"
-msgstr ""
-
-#. Name for MA-14
-msgid "Guelmim-Es Smara"
-msgstr ""
-
-#. Name for MA-15
-msgid "Laâyoune-Boujdour-Sakia el Hamra"
-msgstr ""
-
-#. Name for MA-16
-msgid "Oued ed Dahab-Lagouira"
+msgid "Dakhla-Oued Ed-Dahab (EH)"
 msgstr ""
 
 #. Name for MA-AGD
-msgid "Agadir-Ida-Outanane"
+msgid "Agadir-Ida-Ou-Tanane"
 msgstr ""
 
 #. Name for MA-AOU
 #, fuzzy
-msgid "Aousserd"
+msgid "Aousserd (EH)"
 msgstr "Buskerudas"
 
 #. Name for MA-ASZ
-msgid "Assa-Zag"
+msgid "Assa-Zag (EH-partial)"
 msgstr ""
 
 #. Name for MA-AZI
@@ -10604,7 +10588,7 @@ msgid "Azilal"
 msgstr ""
 
 #. Name for MA-BEM
-msgid "Beni Mellal"
+msgid "Béni Mellal"
 msgstr ""
 
 #. Name for MA-BER
@@ -10613,7 +10597,7 @@ msgstr ""
 
 #. Name for MA-BES
 #, fuzzy
-msgid "Ben Slimane"
+msgid "Benslimane"
 msgstr "Šimanės prefektūra"
 
 #. Name for MA-BOD
@@ -10624,9 +10608,15 @@ msgstr ""
 msgid "Boulemane"
 msgstr ""
 
-#. Name for MA-CAS
-msgid "Casablanca [Dar el Beïda]"
+#. Name for MA-BRR
+msgid "Berrechid"
 msgstr ""
+
+#. Name for MA-CAS
+#, fuzzy
+#| msgid "Casanare"
+msgid "Casablanca"
+msgstr "Kasanarės departamentas"
 
 #. Name for MA-CHE
 #, fuzzy
@@ -10641,6 +10631,10 @@ msgstr ""
 msgid "Chtouka-Ait Baha"
 msgstr ""
 
+#. Name for MA-DRI
+msgid "Driouch"
+msgstr ""
+
 #. Name for MA-ERR
 msgid "Errachidia"
 msgstr ""
@@ -10650,23 +10644,31 @@ msgid "Essaouira"
 msgstr ""
 
 #. Name for MA-ESM
-msgid "Es Smara (EH)"
+msgid "Es-Semara (EH-partial)"
 msgstr ""
 
 #. Name for MA-FAH
-msgid "Fahs-Beni Makada"
+msgid "Fahs-Anjra"
 msgstr ""
 
 #. Name for MA-FES
-msgid "Fès-Dar-Dbibegh"
+msgid "Fès"
 msgstr ""
 
 #. Name for MA-FIG
 msgid "Figuig"
 msgstr ""
 
+#. Name for MA-FQH
+msgid "Fquih Ben Salah"
+msgstr ""
+
 #. Name for MA-GUE
 msgid "Guelmim"
+msgstr ""
+
+#. Name for MA-GUF
+msgid "Guercif"
 msgstr ""
 
 #. Name for MA-HAJ
@@ -10695,7 +10697,7 @@ msgstr ""
 
 #. Name for MA-JRA
 #, fuzzy
-msgid "Jrada"
+msgid "Jerada"
 msgstr "Jura"
 
 #. Name for MA-KEN
@@ -10703,11 +10705,11 @@ msgid "Kénitra"
 msgstr ""
 
 #. Name for MA-KES
-msgid "Kelaat es Sraghna"
+msgid "El Kelâa des Sraghna"
 msgstr ""
 
 #. Name for MA-KHE
-msgid "Khemisaet"
+msgid "Khemisset"
 msgstr ""
 
 #. Name for MA-KHN
@@ -10726,6 +10728,14 @@ msgstr ""
 msgid "Larache"
 msgstr ""
 
+#. Name for MA-MAR
+msgid "Marrakech"
+msgstr ""
+
+#. Name for MA-MDF
+msgid "M’diq-Fnideq"
+msgstr ""
+
 #. Name for MA-MED
 #, fuzzy
 msgid "Médiouna"
@@ -10735,12 +10745,8 @@ msgstr "Modena"
 msgid "Meknès"
 msgstr ""
 
-#. Name for MA-MMD
-msgid "Marrakech-Medina"
-msgstr ""
-
-#. Name for MA-MMN
-msgid "Marrakech-Menara"
+#. Name for MA-MID
+msgid "Midelt"
 msgstr ""
 
 #. Name for MA-MOH
@@ -10766,17 +10772,27 @@ msgid "Ouarzazate"
 msgstr ""
 
 #. Name for MA-OUD
-msgid "Oued ed Dahab (EH)"
+msgid "Oued Ed-Dahab (EH)"
 msgstr ""
 
 #. Name for MA-OUJ
 msgid "Oujda-Angad"
 msgstr ""
 
+#. Name for MA-OUZ
+#, fuzzy
+#| msgid "Relizane"
+msgid "Ouezzane"
+msgstr "Relizano vilaja"
+
 #. Name for MA-RAB
 #, fuzzy
 msgid "Rabat"
 msgstr "Sabahas"
+
+#. Name for MA-REH
+msgid "Rehamna"
+msgstr ""
 
 #. Name for MA-SAF, Name for MT-47
 msgid "Safi"
@@ -10795,16 +10811,29 @@ msgstr ""
 msgid "Settat"
 msgstr ""
 
-#. Name for MA-SIK
-msgid "Sidl Kacem"
+#. Name for MA-SIB
+msgid "Sidi Bennour"
 msgstr ""
+
+#. Name for MA-SIF
+msgid "Sidi Ifni"
+msgstr ""
+
+#. Name for MA-SIK
+msgid "Sidi Kacem"
+msgstr ""
+
+#. Name for MA-SIL
+#, fuzzy
+msgid "Sidi Slimane"
+msgstr "Šimanės prefektūra"
 
 #. Name for MA-SKH
 msgid "Skhirate-Témara"
 msgstr ""
 
-#. Name for MA-SYB
-msgid "Sidi Youssef Ben Ali"
+#. Name for MA-TAF
+msgid "Tarfaya (EH-partial)"
 msgstr ""
 
 #. Name for MA-TAI
@@ -10832,6 +10861,10 @@ msgstr ""
 msgid "Tétouan"
 msgstr ""
 
+#. Name for MA-TIN
+msgid "Tinghir"
+msgstr ""
+
 #. Name for MA-TIZ
 msgid "Tiznit"
 msgstr ""
@@ -10841,7 +10874,11 @@ msgid "Tanger-Assilah"
 msgstr ""
 
 #. Name for MA-TNT
-msgid "Tan-Tan"
+msgid "Tan-Tan (EH-partial)"
+msgstr ""
+
+#. Name for MA-YUS
+msgid "Youssoufia"
 msgstr ""
 
 #. Name for MA-ZAG
@@ -16540,12 +16577,12 @@ msgstr "Vanikos apygarda"
 
 #. Name for SS-BN
 #, fuzzy
-msgid "Northern Bahr el-Ghazal"
+msgid "Northern Bahr el Ghazal"
 msgstr "Šiaurės Airija"
 
 #. Name for SS-BW
 #, fuzzy
-msgid "Western Bahr el-Ghazal"
+msgid "Western Bahr el Ghazal"
 msgstr "Granados provincija"
 
 #. Name for SS-EC
@@ -16553,7 +16590,7 @@ msgstr "Granados provincija"
 msgid "Central Equatoria"
 msgstr "Centrinis rajonas"
 
-#. Name for SS-EE8
+#. Name for SS-EE
 #, fuzzy
 msgid "Eastern Equatoria"
 msgstr "Vakarų Australija"

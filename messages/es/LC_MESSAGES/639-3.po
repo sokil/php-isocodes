@@ -9,14 +9,15 @@
 # Ricardo Fernández Pascual <ric@users.sourceforge.net>, 2000-2001.
 # Javier Fernández-Sanguino Peña <jfs@debian.org>, 2004.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
+# Luis A. Arizmendi <luis.arizmendi@mailfence.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-04-07 21:05+0000\n"
-"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
+"PO-Revision-Date: 2019-07-03 12:46+0000\n"
+"Last-Translator: Luis A. Arizmendi <luis.arizmendi@mailfence.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/es/>\n"
 "Language: es\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1399,7 +1400,6 @@ msgid "Andoque"
 msgstr "Andoque"
 
 #. Name for anp
-#, fuzzy
 msgid "Angika"
 msgstr "Angika"
 
@@ -3235,7 +3235,6 @@ msgid "Bengali"
 msgstr "Bengalí"
 
 #. Common name for ben
-#, fuzzy
 msgid "Bangla"
 msgstr "Bengalí"
 
@@ -40867,7 +40866,7 @@ msgstr "Sotho del Sur"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Tamazight de Marruecos central"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

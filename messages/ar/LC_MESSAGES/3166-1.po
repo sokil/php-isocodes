@@ -15,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-06-18 19:05+0000\n"
+"PO-Revision-Date: 2019-07-08 17:01+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ar/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.7\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -352,8 +352,6 @@ msgid "Union of the Comoros"
 msgstr "إتّحاد جزر القمر"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "الرأس الأخضر"
 
@@ -447,7 +445,7 @@ msgstr "الجزائر"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
-msgstr "جمهوريّة الجزائر الدّيموقراطيّة الشّعبيّة"
+msgstr "الجمهورية الجزائرية الديمقراطية الشعبية"
 
 #. Name for ECU
 msgid "Ecuador"
@@ -470,7 +468,6 @@ msgid "Eritrea"
 msgstr "إريتريا"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
 msgstr "دولة إريتريا"
 
@@ -595,10 +592,8 @@ msgid "Gambia"
 msgstr "غامبيا"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "جمهوريّة زامبيا"
+msgstr "جمهورية غامبيا"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -989,16 +984,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "جمهوريّة جزر المارشال"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "نيو قلدونيا"
+msgstr "مقدونيا الشمالية"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "جمهوريّة لثوانيا"
+msgstr "جمهوريّة مقدونيا الشمالية"
 
 #. Name for MLI
 msgid "Mali"
@@ -1021,9 +1012,8 @@ msgid "Myanmar"
 msgstr "ميانمار"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "جمهورية ميانمار"
+msgstr "جمهورية اتحاد ميانمار"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1226,9 +1216,8 @@ msgid "Papua New Guinea"
 msgstr "بابوا غينيا الجديدة"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "دوله بابوا غينيا الجديدة المستقلة"
+msgstr "دولة بابوا غينيا الجديدة المستقلة"
 
 #. Name for POL
 msgid "Poland"
@@ -1383,9 +1372,8 @@ msgid "Somalia"
 msgstr "الصّومال"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "جمهورية الصومال الاتحادية"
+msgstr "جمهورية الصومال الفيدرالية"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1449,18 +1437,15 @@ msgstr "مملكة السّويد"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "إسواتيني"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "مملكة إسبانيا"
+msgstr "مملكة إسواتيني"
 
 #. Name for SXM, Official name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "سينت مارتن (الجزء الهولندي)"
+msgstr "سانت مارتن (الجزء الهولندي)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1548,7 +1533,7 @@ msgstr "تونس"
 
 #. Official name for TUN
 msgid "Republic of Tunisia"
-msgstr "جمهوريّة تونس"
+msgstr "الجمهورية التونسية"
 
 #. Name for TUR
 msgid "Turkey"

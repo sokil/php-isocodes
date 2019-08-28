@@ -5,14 +5,14 @@
 # .
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-10-24 23:22+0000\n"
+"PO-Revision-Date: 2019-08-11 11:23+0000\n"
 "Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/ar/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -439,7 +439,7 @@ msgstr "الهيروغليفية"
 
 #. Name for Mlym
 msgid "Malayalam"
-msgstr "الماليالام"
+msgstr "المالايلامية"
 
 #. Name for Modi
 msgid "Modi, Moḍī"
@@ -447,7 +447,7 @@ msgstr ""
 
 #. Name for Mong
 msgid "Mongolian"
-msgstr "المغولية"
+msgstr "المنغولية"
 
 #. Name for Moon
 msgid "Moon (Moon code, Moon script, Moon type)"
@@ -630,7 +630,7 @@ msgstr ""
 
 #. Name for Sund
 msgid "Sundanese"
-msgstr ""
+msgstr "السوندانيسية"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
