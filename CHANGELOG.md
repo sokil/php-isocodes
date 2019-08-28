@@ -1,3 +1,6 @@
+## 2.2.8 (2019-08-28)
+* Database version: iso-codes-4.2-202-gfefebff3 from 2019-08-28 23:05
+
 ## 2.2 (2018-11-29)
 * Added possibility to configure directory with databases and messages, and manually update them without updating composer 
 * Constants `AbstractDatabase::DATABASE_PATH` and `AbstractDatabase::MESSAGES_PATH` now contain directory name instead of directory path
