@@ -12,20 +12,23 @@
 # Mert Dirik <mertdirik@gmail.com>, 2008.
 # İsmail Baydan <ibaydan@gmail.com>, 2011.
 # Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015,2018.
+# Oguz Ersen <oguzersen@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-09-25 15:25+0300\n"
-"Last-Translator: Atila KOÇ <koc@artielektronik.com.tr>\n"
-"Language-Team: Turkish <debian-l10n-turkish@lists.debian.org>\n"
+"PO-Revision-Date: 2019-09-22 13:38+0000\n"
+"Last-Translator: Oguz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -201,15 +204,15 @@ msgstr "Bosna-Hersek Cumhuriyeti"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr "Sen Barthélemy"
+msgstr "Saint Barthélemy"
 
 #. Name for BLR
 msgid "Belarus"
-msgstr "Beyaz Rusya"
+msgstr "Belarus"
 
 #. Official name for BLR
 msgid "Republic of Belarus"
-msgstr "Beyaz Rusya Cumhuriyeti"
+msgstr "Belarus Cumhuriyeti"
 
 #. Name for BLZ
 msgid "Belize"
@@ -385,7 +388,7 @@ msgstr "Christmas Adası"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Seyman Adaları"
+msgstr "Cayman Adaları"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -425,7 +428,7 @@ msgstr "Dominik"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
-msgstr "Dominika Milletler Topluluğu"
+msgstr "Dominik Milletler Topluluğu"
 
 #. Name for DNK
 msgid "Denmark"
@@ -592,10 +595,8 @@ msgid "Gambia"
 msgstr "Gambiya"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Zambiya Cumhuriyeti"
+msgstr "Gambiya Cumhuriyeti"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -823,7 +824,7 @@ msgstr "Kiribati Cumhuriyeti"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Sen Kitts ve Nevis"
+msgstr "Saint Kitts ve Nevis"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -863,7 +864,7 @@ msgstr "Libya"
 
 #. Name for LCA
 msgid "Saint Lucia"
-msgstr "Sen Lucia"
+msgstr "Saint Lucia"
 
 #. Name for LIE
 msgid "Liechtenstein"
@@ -903,15 +904,15 @@ msgstr "Lüksemburg"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
-msgstr "Lüksemburg Büyük Dukalığı"
+msgstr "Lüksemburg Büyük Dükalığı"
 
 #. Name for LVA
 msgid "Latvia"
-msgstr "Latviya"
+msgstr "Letonya"
 
 #. Official name for LVA
 msgid "Republic of Latvia"
-msgstr "Latviya Cumhuriyeti"
+msgstr "Letonya Cumhuriyeti"
 
 #. Name for MAC
 msgid "Macao"
@@ -923,7 +924,7 @@ msgstr "Çin Halk Cumhuriyeti Makao Özel İdari Bölgesi"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
-msgstr "Sen Martin (Fransız kısmı)"
+msgstr "Saint Martin (Fransız kısmı)"
 
 #. Name for MAR
 msgid "Morocco"
@@ -986,16 +987,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marşal Adaları Cumhuriyeti"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Yeni Kaledonya"
+msgstr "Kuzey Makedonya"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Litvanya Cumhuriyeti"
+msgstr "Kuzey Makedonya Cumhuriyeti"
 
 #. Name for MLI
 msgid "Mali"
@@ -1015,7 +1012,7 @@ msgstr "Malta Cumhuriyeti"
 
 #. Name for MMR
 msgid "Myanmar"
-msgstr "Miyanmar"
+msgstr "Myanmar"
 
 #. Official name for MMR
 msgid "Republic of Myanmar"
@@ -1031,11 +1028,11 @@ msgstr "Moğolistan"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Kuzey Meryem Adaları"
+msgstr "Kuzey Mariana Adaları"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
-msgstr "Kuzey Meryem Adaları Milletler Topluluğu"
+msgstr "Kuzey Mariana Adaları Milletler Topluluğu"
 
 #. Name for MOZ
 msgid "Mozambique"
@@ -1127,7 +1124,7 @@ msgstr "Nikaragua Cumhuriyeti"
 
 #. Name for NIU, Official name for NIU
 msgid "Niue"
-msgstr "Nie"
+msgstr "Niue"
 
 #. Name for NLD
 msgid "Netherlands"
@@ -1335,15 +1332,15 @@ msgstr "Singapur Cumhuriyeti"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Güney Gürcistan ve Güney Sandöviç Adası"
+msgstr "Güney Gürcistan ve Güney Sandwich Adaları"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr "Sen Helen, Ascension and Tristan da Cunha"
+msgstr "Saint Helen, Ascension ve Tristan da Cunha"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
-msgstr "Svalbard ve Jan Mayen Adaları"
+msgstr "Svalbard ve Jan Mayen"
 
 #. Name for SLB
 msgid "Solomon Islands"
@@ -1383,7 +1380,7 @@ msgstr "Somali Federal Cumhuriyeti"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr "Sen Piyer ve Miquelon"
+msgstr "Saint Pierre ve Miquelon"
 
 #. Name for SRB
 msgid "Serbia"
@@ -1443,17 +1440,15 @@ msgstr "İsveç Krallığı"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Eswatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "İspanya Krallığı"
+msgstr "Eswatini Krallığı"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
-msgstr "Sen Martin (Hollanda kısmı)"
+msgstr "Sint Maarten (Hollanda kısmı)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1469,7 +1464,7 @@ msgstr "Suriye Arap Cumhuriyeti"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Türk ve Kaykos Adaları"
+msgstr "Turks ve Caicos Adaları"
 
 #. Name for TCD
 msgid "Chad"
@@ -1589,7 +1584,7 @@ msgstr "Ukrayna"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Minor Outlying Adaları Birleşik Devletleri"
+msgstr "Amerika Birleşik Devletleri Küçük Dış Adaları"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1601,7 +1596,7 @@ msgstr "Uruguay Doğu Cumhuriyeti"
 
 #. Name for USA
 msgid "United States"
-msgstr "Birleşik Devletler"
+msgstr "Amerika Birleşik Devletleri"
 
 #. Official name for USA
 msgid "United States of America"
@@ -1617,23 +1612,23 @@ msgstr "Özbekistan Cumhuriyeti"
 
 #. Name for VAT
 msgid "Holy See (Vatican City State)"
-msgstr "Vatikan"
+msgstr "Holy See (Vatikan Şehir Devleti)"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
-msgstr "Sen Vinsınt ve Granadalar"
+msgstr "Saint Vincent ve Grenadinler"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "Venezuella Bolivya Cumhuriyeti"
+msgstr "Venezuela Bolivar Cumhuriyeti"
 
 #. Official name for VEN
 msgid "Bolivarian Republic of Venezuela"
-msgstr "Venezuella Bolivya Cumhuriyeti"
+msgstr "Venezuela Bolivar Cumhuriyeti"
 
 #. Common name for VEN
 msgid "Venezuela"
-msgstr "Venezuella"
+msgstr "Venezuela"
 
 #. Name for VGB
 msgid "Virgin Islands, British"

@@ -12,20 +12,23 @@
 # Mert Dirik <mertdirik@gmail.com>, 2008.
 # İsmail Baydan <ibaydan@gmail.com>, 2011.
 # Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015.
+# Oguz Ersen <oguzersen@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2015-08-17 18:07+0200\n"
-"Last-Translator: Atila KOÇ <koc@artielektronik.com.tr>\n"
-"Language-Team: Turkish <debian-l10n-turkish@lists.debian.org>\n"
+"PO-Revision-Date: 2019-09-22 13:38+0000\n"
+"Last-Translator: Oguz Ersen <oguzersen@protonmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-3/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for AIDJ
 msgid "French Afars and Issas"
@@ -41,11 +44,11 @@ msgstr "İngiliz Antarktika Bölgesi"
 
 #. Name for BUMM
 msgid "Burma, Socialist Republic of the Union of"
-msgstr "Burma, Birliği Sosyalist Cumhuriyeti"
+msgstr "Burma Birliği Sosyalist Cumhuriyeti"
 
 #. Name for BYAA
 msgid "Byelorussian SSR Soviet Socialist Republic"
-msgstr "Beyaz Rusya SSC Sovyet Sosyalist Cumhuriyeti"
+msgstr "Belarus SSC Sovyet Sosyalist Cumhuriyeti"
 
 #. Name for CSHH
 msgid "Czechoslovakia, Czechoslovak Socialist Republic"
@@ -57,7 +60,7 @@ msgstr "Sırbistan-Karadağ"
 
 #. Name for CTKI
 msgid "Canton and Enderbury Islands"
-msgstr "Kanton ve Enderbury Adaları"
+msgstr "Canton ve Enderbury Adaları"
 
 #. Name for DDDE
 msgid "German Democratic Republic"
@@ -73,7 +76,7 @@ msgstr "Fransız Güney ve Antarktik Bölgeleri"
 
 #. Name for FXFR
 msgid "France, Metropolitan"
-msgstr "Fransa, Anakent"
+msgstr "Fransa, Metropolitan"
 
 #. Name for GEHH
 msgid "Gilbert and Ellice Islands"
@@ -81,11 +84,11 @@ msgstr "Gilbert ve Ellice Adaları"
 
 #. Name for HVBF
 msgid "Upper Volta, Republic of"
-msgstr "Yukarı Volta, Cumhuriyeti"
+msgstr "Yukarı Volta Cumhuriyeti"
 
 #. Name for JTUM
 msgid "Johnston Island"
-msgstr "Johnston Adaları"
+msgstr "Johnston Adası"
 
 #. Name for MIUM
 msgid "Midway Islands"
@@ -93,11 +96,11 @@ msgstr "Midway Adaları"
 
 #. Name for NHVU
 msgid "New Hebrides"
-msgstr "Yeni Hebrid"
+msgstr "Yeni Hebridler"
 
 #. Name for NQAQ
 msgid "Dronning Maud Land"
-msgstr "Kraliçe Maud Adası"
+msgstr "Kraliçe Maud Arazisi"
 
 #. Name for NTHH
 msgid "Neutral Zone"
@@ -109,7 +112,7 @@ msgstr "Pasifik Adaları (vesayet ülkeleri)"
 
 #. Name for PUUM
 msgid "US Miscellaneous Pacific Islands"
-msgstr "Çeşitli BD (Birleşik Devletler) Pasifik Adaları"
+msgstr "ABD Çeşitli Pasifik Adaları"
 
 #. Name for PZPA
 msgid "Panama Canal Zone"
@@ -133,19 +136,19 @@ msgstr "Doğu Timor"
 
 #. Name for VDVN
 msgid "Viet-Nam, Democratic Republic of"
-msgstr "Vietnam, Demokratik Cumhuriyeti"
+msgstr "Vietnam Demokratik Cumhuriyeti"
 
 #. Name for WKUM
 msgid "Wake Island"
-msgstr "Wake Adaları"
+msgstr "Wake Adası"
 
 #. Name for YDYE
 msgid "Yemen, Democratic, People's Democratic Republic of"
-msgstr "Yemen, Demokratik Halk Cumhuriyeti"
+msgstr "Yemen Demokratik Halk Cumhuriyeti"
 
 #. Name for YUCS
 msgid "Yugoslavia, Socialist Federal Republic of"
-msgstr "Yugoslavya, Sosyalist Federal Cumhuriyeti"
+msgstr "Yugoslavya Sosyalist Federal Cumhuriyeti"
 
 #. Name for ZRCD
 msgid "Zaire, Republic of"

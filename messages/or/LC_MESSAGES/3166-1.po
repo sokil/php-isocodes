@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-07-21 21:07+0000\n"
+"PO-Revision-Date: 2019-09-07 05:25+0000\n"
 "Last-Translator: Pro Neon <proneon267@gmail.com>\n"
 "Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/or/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -589,10 +589,8 @@ msgid "Gambia"
 msgstr "ଗାମ୍ବିୟା"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "ଜାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
+msgstr "ଜ୍ଞାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -983,16 +981,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "ମାର୍ଶାଲ ଦ୍ୱିପ ଗଣତନ୍ତ୍ର"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "ନ୍ଯୁ କାଲେଡୋନିୟା"
+msgstr "ନର୍ଥ ମ୍ୟାସିଡୋନିୟା"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "ଲିଥୁଆନିୟା ଗଣତନ୍ତ୍ର"
+msgstr "ନର୍ଥ ମ୍ୟାସିଡୋନିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for MLI
 msgid "Mali"
@@ -1015,9 +1009,8 @@ msgid "Myanmar"
 msgstr "ବର୍ମା/ମ୍ଯାଂମାର"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "ଗୁୟାନା ଗଣତନ୍ତ୍ର"
+msgstr "ମ୍ୟାନମାର୍ ଗଣତନ୍ତ୍ର"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1220,9 +1213,8 @@ msgid "Papua New Guinea"
 msgstr "ପାପୁଆ ନ୍ଯୁ ଗିନୀ"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "ସାମୋଆ ସ୍ୱାଧିନ ରାଜ୍ୟ"
+msgstr "ପାପ୍ୟୁଆ ନୂଆ ଗିନି ସ୍ୱାଧିନ ରାଜ୍ୟ"
 
 #. Name for POL
 msgid "Poland"
@@ -1262,12 +1254,11 @@ msgstr "ପାରାଗୁଏ ଗଣତନ୍ତ୍ର"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "ପାଲେଷ୍ଟାଇନ ରାଜ୍ୟ"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା"
+msgstr "ପ୍ୟାଲେଷ୍ଟାଇନ୍ ରାଜ୍ୟ"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1378,9 +1369,8 @@ msgid "Somalia"
 msgstr "ସୋମାଲିୟା"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "ଜର୍ମାନୀ ଫେଡେରାଲ ଗଣତନ୍ତ୍ର"
+msgstr "ଶୋମାଲି ସଂଘଶାସନ ଗଣତନ୍ତ୍ର"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1395,14 +1385,12 @@ msgid "Republic of Serbia"
 msgstr "ସର୍ବିଆ ଗଣତନ୍ତ୍ର"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "ସୂଡାନ ଗଣତନ୍ତ୍ର"
+msgstr "ଦକ୍ଷିଣ ସୂଡାନ"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "ସୂଡାନ ଗଣତନ୍ତ୍ର"
+msgstr "ଦକ୍ଷିଣ ସୂଡାନ ଗଣତନ୍ତ୍ର"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1446,18 +1434,15 @@ msgstr "ସ୍ବୀଡେନ ସାମ୍ରାଜ୍ୟ"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "ଏସୱଆଟିନି"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "ସ୍ପେନ ଗଣତନ୍ତ୍ର"
+msgstr "ଏସୱଆଟିନି ସାମ୍ରାଜ୍ୟ"
 
 #. Name for SXM, Official name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)"
+msgstr "ସିଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1577,7 +1562,7 @@ msgstr "ତାଞ୍ଜେରୀୟା ସଂଯୁକ୍ତ ଗଣତନ୍ତ�
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "ଟାନଯାନିୟା"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1664,8 +1649,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "ଭିଏତନାମ ସମାଜତନ୍ତ୍ରବାଦୀ ଗଣତନ୍ତ୍ର"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "ଭିୟେତନାମ"
 

@@ -14,14 +14,15 @@
 # LI Daobing <lidaobing@gmail.com>, 2007.
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2009, 2013.
 # Louies <louies0623@gmail.com>, 2019.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-14 17:20+0000\n"
-"Last-Translator: Louies <louies0623@gmail.com>\n"
+"PO-Revision-Date: 2019-10-18 14:53+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-639-2/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -519,7 +520,7 @@ msgstr "埃蘭語"
 
 #. Name for eng
 msgid "English"
-msgstr "英語"
+msgstr "英文"
 
 #. Name for enm
 msgid "English, Middle (1100-1500)"
@@ -683,7 +684,7 @@ msgstr "古希臘語 (到 1453)"
 
 #. Name for grn
 msgid "Guarani"
-msgstr "瓜拉尼語"
+msgstr "巴拉圭瓜拉尼"
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
@@ -1239,7 +1240,7 @@ msgstr "拿坡里語"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "諾魯語"
+msgstr "諾魯"
 
 #. Name for nav
 msgid "Navajo; Navaho"
@@ -1275,7 +1276,7 @@ msgstr "尼亞斯語"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr "奈及利亞-科爾多凡語系"
+msgstr "尼日-科爾多凡語系"
 
 #. Name for niu
 msgid "Niuean"
@@ -1819,7 +1820,7 @@ msgstr "阿爾泰語系"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "吐瓦魯語"
+msgstr "吐瓦魯"
 
 #. Name for twi
 msgid "Twi"
@@ -1959,7 +1960,7 @@ msgstr "壯語"
 
 #. Name for zho
 msgid "Chinese"
-msgstr "漢語"
+msgstr "中文"
 
 #. Name for znd
 msgid "Zande languages"

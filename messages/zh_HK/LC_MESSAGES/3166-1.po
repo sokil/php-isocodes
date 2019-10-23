@@ -7,9 +7,9 @@
 # Notes:
 # Source of information:
 # 中國駐外使館
-#   http://www.immd.gov.hk/chtml/embassy.htm
+# http://www.immd.gov.hk/chtml/embassy.htm
 # 立法會參考資料摘要《商標條例》
-#   http://www.hkbu.edu.hk/~copyrigh/document/LegCo_Brief_full%20(Chin).pdf
+# http://www.hkbu.edu.hk/~copyrigh/document/LegCo_Brief_full%20(Chin).pdf
 # .
 # Copyright ©
 # AceLan <acelan@kde.linux.org.tw>, 2001.
@@ -17,20 +17,23 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Chao-Hsiung Liao <j_h_liau@yahoo.com.tw>, 2005.
 # Abel Cheung <abelcheung@gmail.com>, 2006.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2006-10-06 07:12+0800\n"
-"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
-"Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
+"PO-Revision-Date: 2019-09-26 07:28+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
+"Language-Team: Chinese (Hong Kong) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/zh_Hant_HK/>\n"
 "Language: zh_HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -41,9 +44,8 @@ msgid "Afghanistan"
 msgstr "阿富汗"
 
 #. Official name for AFG
-#, fuzzy
 msgid "Islamic Republic of Afghanistan"
-msgstr "巴基斯坦伊斯蘭共和國"
+msgstr "阿富汗伊斯蘭共和國"
 
 #. Name for AGO
 msgid "Angola"
@@ -159,7 +161,7 @@ msgstr "貝寧共和國"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "荷蘭加勒比區"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -186,9 +188,8 @@ msgid "Bahrain"
 msgstr "巴林"
 
 #. Official name for BHR
-#, fuzzy
 msgid "Kingdom of Bahrain"
-msgstr "巴林國"
+msgstr "巴林王國"
 
 #. Name for BHS
 msgid "Bahamas"
@@ -208,7 +209,7 @@ msgstr "波斯尼亞和黑塞哥維那共和國"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr ""
+msgstr "聖巴泰勒米"
 
 #. Name for BLR
 msgid "Belarus"
@@ -228,11 +229,11 @@ msgstr "百慕達"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "玻利維亞多民族國"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
-msgstr ""
+msgstr "玻利維亞多民族國"
 
 #. Common name for BOL
 msgid "Bolivia"
@@ -315,7 +316,6 @@ msgid "Côte d'Ivoire"
 msgstr "科特迪瓦"
 
 #. Official name for CIV
-#, fuzzy
 msgid "Republic of Côte d'Ivoire"
 msgstr "科特迪瓦共和國"
 
@@ -357,19 +357,15 @@ msgstr "科摩羅"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr ""
+msgstr "科摩羅聯盟"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "佛得角島"
+msgstr "佛得角"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Chad"
 msgid "Republic of Cabo Verde"
-msgstr "乍得共和國"
+msgstr "佛得角共和國"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -389,7 +385,7 @@ msgstr "古巴共和國"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "庫拉索"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -409,7 +405,7 @@ msgstr "賽浦路斯共和國"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "捷克"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -480,9 +476,8 @@ msgid "Eritrea"
 msgstr "厄立特里亞"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "美利堅合眾國"
+msgstr "厄立特里亞國"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -510,7 +505,7 @@ msgstr "埃塞俄比亞"
 
 #. Official name for ETH
 msgid "Federal Democratic Republic of Ethiopia"
-msgstr ""
+msgstr "埃塞俄比亞聯邦民主共和國"
 
 #. Name for FIN
 msgid "Finland"
@@ -525,9 +520,8 @@ msgid "Fiji"
 msgstr "斐濟羣島"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "海地共和國"
+msgstr "斐濟共和國"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -547,11 +541,11 @@ msgstr "法羅羣島"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
-msgstr ""
+msgstr "密克羅尼西亞聯邦"
 
 #. Official name for FSM
 msgid "Federated States of Micronesia"
-msgstr ""
+msgstr "密克羅尼西亞聯邦"
 
 #. Name for GAB
 msgid "Gabon"
@@ -606,10 +600,8 @@ msgid "Gambia"
 msgstr "岡比亞"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "贊比亞共和國"
+msgstr "岡比亞共和國"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -677,7 +669,7 @@ msgstr "香港特別行政區"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr ""
+msgstr "德島及麥當勞羣島"
 
 #. Name for HND
 msgid "Honduras"
@@ -805,11 +797,11 @@ msgstr "哈薩克斯坦共和國"
 
 #. Name for KEN
 msgid "Kenya"
-msgstr "肯尼亞"
+msgstr "肯雅"
 
 #. Official name for KEN
 msgid "Republic of Kenya"
-msgstr "肯尼亞共和國"
+msgstr "肯雅共和國"
 
 #. Name for KGZ
 msgid "Kyrgyzstan"
@@ -872,9 +864,8 @@ msgid "Republic of Liberia"
 msgstr "利比里亞共和國"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "利比里亞"
+msgstr "利比亞"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -938,7 +929,7 @@ msgstr "澳門特別行政區"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
-msgstr ""
+msgstr "聖馬丁 (法屬)"
 
 #. Name for MAR
 msgid "Morocco"
@@ -957,9 +948,8 @@ msgid "Principality of Monaco"
 msgstr "摩納哥公國"
 
 #. Name for MDA
-#, fuzzy
 msgid "Moldova, Republic of"
-msgstr "馬其頓"
+msgstr "摩爾多瓦共和國"
 
 #. Official name for MDA
 msgid "Republic of Moldova"
@@ -967,7 +957,7 @@ msgstr "摩爾多瓦共和國"
 
 #. Common name for MDA
 msgid "Moldova"
-msgstr ""
+msgstr "摩爾多瓦"
 
 #. Name for MDG
 msgid "Madagascar"
@@ -1002,16 +992,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "馬紹爾羣島共和國"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "新喀里多尼亞島"
+msgstr "北馬其頓"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "立陶宛共和國"
+msgstr "北馬其頓共和國"
 
 #. Name for MLI
 msgid "Mali"
@@ -1034,9 +1020,8 @@ msgid "Myanmar"
 msgstr "緬甸"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "圭亞那合作共和國"
+msgstr "緬甸共和國"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1167,9 +1152,8 @@ msgid "Nepal"
 msgstr "尼泊爾"
 
 #. Official name for NPL
-#, fuzzy
 msgid "Federal Democratic Republic of Nepal"
-msgstr "阿爾及利亞民主人民共和國"
+msgstr "尼泊爾聯邦民主共和國"
 
 #. Name for NRU
 msgid "Nauru"
@@ -1241,9 +1225,8 @@ msgid "Papua New Guinea"
 msgstr "巴布亞新畿內亞"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "薩摩亞獨立國"
+msgstr "巴布亞新畿內亞獨立國"
 
 #. Name for POL
 msgid "Poland"
@@ -1283,12 +1266,11 @@ msgstr "巴拉圭共和國"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "巴勒斯坦"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "美利堅合眾國"
+msgstr "巴勒斯坦國"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1356,15 +1338,15 @@ msgstr "新加坡共和國"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr ""
+msgstr "南佐治亞及南三文治羣島"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr ""
+msgstr "聖海倫娜島、阿森松島及崔斯坦達庫尼亞羣島"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
-msgstr ""
+msgstr "冷岸羣島及央棉"
 
 #. Name for SLB
 msgid "Solomon Islands"
@@ -1399,13 +1381,12 @@ msgid "Somalia"
 msgstr "索馬里"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "德意志聯邦共和國"
+msgstr "索馬里聯邦共和國"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr ""
+msgstr "聖皮耶及密克隆羣島"
 
 #. Name for SRB
 msgid "Serbia"
@@ -1416,14 +1397,12 @@ msgid "Republic of Serbia"
 msgstr "塞爾維亞共和國"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "蘇丹共和國"
+msgstr "南蘇丹"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "蘇丹共和國"
+msgstr "南蘇丹共和國"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1467,17 +1446,15 @@ msgstr "瑞典王國"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "斯威士蘭"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "西班牙王國"
+msgstr "斯威士蘭王國"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
-msgstr ""
+msgstr "聖馬丁 (荷屬)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1493,7 +1470,7 @@ msgstr "阿拉伯敍利亞共和國"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr ""
+msgstr "土克凱可羣島"
 
 #. Name for TCD
 msgid "Chad"
@@ -1597,7 +1574,7 @@ msgstr "坦桑尼亞聯合共和國"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "坦桑尼亞"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1648,7 +1625,6 @@ msgid "Saint Vincent and the Grenadines"
 msgstr "聖文森特和格林納丁斯"
 
 #. Name for VEN
-#, fuzzy
 msgid "Venezuela, Bolivarian Republic of"
 msgstr "委內瑞拉玻利瓦爾共和國"
 
@@ -1662,19 +1638,19 @@ msgstr "委內瑞拉"
 
 #. Name for VGB
 msgid "Virgin Islands, British"
-msgstr "英屬維爾京羣島"
+msgstr "英屬處女羣島"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "英屬處女羣島"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "美屬維爾京羣島"
+msgstr "美屬處女羣島"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr ""
+msgstr "美屬處女羣島"
 
 #. Name for VNM
 msgid "Viet Nam"
@@ -1685,8 +1661,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "越南社會主義共和國"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "越南"
 
@@ -1700,7 +1674,7 @@ msgstr "瓦努阿圖共和國"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr ""
+msgstr "沃里斯及伏塔那羣島"
 
 #. Name for WSM
 msgid "Samoa"

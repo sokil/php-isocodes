@@ -11,14 +11,15 @@
 # Christian Perrier <bubulle@debian.org>, 2004, 2006-2007, 2009-2013, 2015-2016.
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
+# Swann Martinet <swann.ranskassa@laposte.net>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-07-08 17:01+0000\n"
-"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
+"PO-Revision-Date: 2019-09-03 08:24+0000\n"
+"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fr/>\n"
 "Language: fr\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -474,7 +475,7 @@ msgstr "l'État d'Érythrée"
 
 #. Name for ESH
 msgid "Western Sahara"
-msgstr "Sahara Occidental"
+msgstr "Sahara occidental"
 
 #. Name for ESP
 msgid "Spain"
@@ -518,7 +519,7 @@ msgstr "République des Fidji"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
-msgstr "Falkland, Îles (Malvinas)"
+msgstr "Malouines, Îles (Falkland)"
 
 #. Name for FRA
 msgid "France"

@@ -10,19 +10,23 @@
 # Abel Cheung <abelcheung@gmail.com>, 2007.
 # Hominid He(viperii) <hominid@39.net>, 2007.
 # LI Daobing <lidaobing@gmail.com>, 2007.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2007-09-05 20:47+0800\n"
-"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
-"Language-Team: Chinese (Hong Kong) <community@linuxhall.org>\n"
+"PO-Revision-Date: 2019-10-18 14:53+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
+"Language-Team: Chinese (Hong Kong) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-639-2/zh_Hant_HK/>\n"
 "Language: zh_HK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -49,9 +53,8 @@ msgid "Adyghe; Adygei"
 msgstr "阿迪格語"
 
 #. Name for afa
-#, fuzzy
 msgid "Afro-Asiatic languages"
-msgstr "阿帕切諸語言"
+msgstr "亞非語系"
 
 #. Name for afh
 msgid "Afrihili"
@@ -108,7 +111,7 @@ msgstr "阿拉伯語"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
-msgstr ""
+msgstr "宮廷阿拉姆語(公元前 700-300)"
 
 #. Name for arg
 msgid "Aragonese"
@@ -123,9 +126,8 @@ msgid "Arapaho"
 msgstr "阿拉帕霍語"
 
 #. Name for art
-#, fuzzy
 msgid "Artificial languages"
-msgstr "奧托米諸語言"
+msgstr "人造語系"
 
 #. Name for arw
 msgid "Arawak"
@@ -137,7 +139,7 @@ msgstr "阿薩姆語"
 
 #. Name for ast
 msgid "Asturian; Bable; Leonese; Asturleonese"
-msgstr ""
+msgstr "阿斯圖里亞斯語"
 
 #. Name for ath
 msgid "Athapascan languages"
@@ -189,16 +191,15 @@ msgstr "班巴拉語"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "巴厘語"
+msgstr "峇里語"
 
 #. Name for bas
 msgid "Basa"
 msgstr "巴薩語"
 
 #. Name for bat
-#, fuzzy
 msgid "Baltic languages"
-msgstr "巴塔克語"
+msgstr "波羅的語系"
 
 #. Name for bej
 msgid "Beja; Bedawiyet"
@@ -221,18 +222,16 @@ msgid "Bangla"
 msgstr ""
 
 #. Name for ber
-#, fuzzy
 msgid "Berber languages"
-msgstr "克倫語"
+msgstr "柏柏語系"
 
 #. Name for bho
 msgid "Bhojpuri"
 msgstr "博杰普里語"
 
 #. Name for bih
-#, fuzzy
 msgid "Bihari languages"
-msgstr "圖皮語諸語言"
+msgstr "比哈爾語系"
 
 #. Name for bik
 msgid "Bikol"
@@ -295,9 +294,8 @@ msgid "Caddo"
 msgstr "卡多語"
 
 #. Name for cai
-#, fuzzy
 msgid "Central American Indian languages"
-msgstr "中美洲印第安諸語言 (其他)"
+msgstr "中美洲印第安諸語言"
 
 #. Name for car
 msgid "Galibi Carib"
@@ -308,18 +306,16 @@ msgid "Catalan; Valencian"
 msgstr "加泰羅尼亞語"
 
 #. Name for cau
-#, fuzzy
 msgid "Caucasian languages"
-msgstr "瓦卡什諸語言"
+msgstr "高加索語系"
 
 #. Name for ceb
 msgid "Cebuano"
 msgstr "宿霧語"
 
 #. Name for cel
-#, fuzzy
 msgid "Celtic languages"
-msgstr "占語諸語言"
+msgstr "凱爾特語系"
 
 #. Name for ces
 msgid "Czech"
@@ -396,19 +392,16 @@ msgid "Corsican"
 msgstr "科西嘉語"
 
 #. Name for cpe
-#, fuzzy
 msgid "Creoles and pidgins, English based"
-msgstr "英語克里奧爾混合語 (其他)"
+msgstr "英語克里奧爾混合語"
 
 #. Name for cpf
-#, fuzzy
 msgid "Creoles and pidgins, French-based"
-msgstr "法語克里奧爾混合語 (其他)"
+msgstr "法語克里奧爾混合語"
 
 #. Name for cpp
-#, fuzzy
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "葡萄牙語克里奧爾混合語 (其他)"
+msgstr "葡萄牙語克里奧爾混合語"
 
 #. Name for cre
 msgid "Cree"
@@ -462,7 +455,7 @@ msgstr "史拉維語"
 
 #. Name for deu
 msgid "German"
-msgstr "德語"
+msgstr "德文"
 
 #. Name for dgr
 msgid "Dogrib"
@@ -527,11 +520,11 @@ msgstr "埃蘭語"
 
 #. Name for eng
 msgid "English"
-msgstr "英語"
+msgstr "英文"
 
 #. Name for enm
 msgid "English, Middle (1100-1500)"
-msgstr "中古英語"
+msgstr "中古英文"
 
 #. Name for epo
 msgid "Esperanto"
@@ -592,15 +585,15 @@ msgstr "豐語"
 
 #. Name for fra
 msgid "French"
-msgstr "法語"
+msgstr "法文"
 
 #. Name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "中古法語"
+msgstr "中古法文"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "古法語"
+msgstr "古法文"
 
 #. Name for frr
 msgid "Northern Frisian"
@@ -635,9 +628,8 @@ msgid "Gbaya"
 msgstr "巴亞語"
 
 #. Name for gem
-#, fuzzy
 msgid "Germanic languages"
-msgstr "占語諸語言"
+msgstr "日耳曼語系"
 
 #. Name for gez
 msgid "Geez"
@@ -665,11 +657,11 @@ msgstr "馬恩島語"
 
 #. Name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "中古高地德語"
+msgstr "中古高地德文"
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "古高地德語"
+msgstr "古高地德文"
 
 #. Name for gon
 msgid "Gondi"
@@ -693,12 +685,11 @@ msgstr "古希臘語"
 
 #. Name for grn
 msgid "Guarani"
-msgstr "瓜拉尼語"
+msgstr "巴拉圭瓜拉尼"
 
 #. Name for gsw
-#, fuzzy
 msgid "Swiss German; Alemannic; Alsatian"
-msgstr "阿勒曼尼語"
+msgstr "瑞士德文; 阿勒曼尼語; 亞爾薩斯語"
 
 #. Name for guj
 msgid "Gujarati"
@@ -749,9 +740,8 @@ msgid "Hittite"
 msgstr "赫梯語"
 
 #. Name for hmn
-#, fuzzy
 msgid "Hmong; Mong"
-msgstr "苗語"
+msgstr "苗文"
 
 #. Name for hmo
 msgid "Hiri Motu"
@@ -790,7 +780,6 @@ msgid "Ido"
 msgstr "伊多語"
 
 #. Name for iii
-#, fuzzy
 msgid "Sichuan Yi; Nuosu"
 msgstr "四川彝語"
 
@@ -803,9 +792,8 @@ msgid "Inuktitut"
 msgstr "伊努伊特語"
 
 #. Name for ile
-#, fuzzy
 msgid "Interlingue; Occidental"
-msgstr "國際語E"
+msgstr "國際語"
 
 #. Name for ilo
 msgid "Iloko"
@@ -816,18 +804,16 @@ msgid "Interlingua (International Auxiliary Language Association)"
 msgstr "拉丁國際語"
 
 #. Name for inc
-#, fuzzy
 msgid "Indic languages"
-msgstr "班達語"
+msgstr "印度語系"
 
 #. Name for ind
 msgid "Indonesian"
 msgstr "印尼語"
 
 #. Name for ine
-#, fuzzy
 msgid "Indo-European languages"
-msgstr "易洛魁語"
+msgstr "印歐語系"
 
 #. Name for inh
 msgid "Ingush"
@@ -838,9 +824,8 @@ msgid "Inupiaq"
 msgstr "依努庇克語"
 
 #. Name for ira
-#, fuzzy
 msgid "Iranian languages"
-msgstr "易洛魁語"
+msgstr "伊朗語系"
 
 #. Name for iro
 msgid "Iroquoian languages"
@@ -864,7 +849,7 @@ msgstr "邏輯語"
 
 #. Name for jpn
 msgid "Japanese"
-msgstr "日語"
+msgstr "日文"
 
 #. Name for jpr
 msgid "Judeo-Persian"
@@ -931,18 +916,16 @@ msgid "Khasi"
 msgstr "卡西語"
 
 #. Name for khi
-#, fuzzy
 msgid "Khoisan languages"
-msgstr "奧托米諸語言"
+msgstr "科依桑語系"
 
 #. Name for khm
 msgid "Central Khmer"
 msgstr "高棉語"
 
 #. Name for kho
-#, fuzzy
 msgid "Khotanese; Sakan"
-msgstr "和闐語"
+msgstr "薩語;薩卡語"
 
 #. Name for kik
 msgid "Kikuyu; Gikuyu"
@@ -974,7 +957,7 @@ msgstr "剛果語"
 
 #. Name for kor
 msgid "Korean"
-msgstr "韓語"
+msgstr "韓文"
 
 #. Name for kos
 msgid "Kosraean"
@@ -1034,7 +1017,7 @@ msgstr "老撾語"
 
 #. Name for lat
 msgid "Latin"
-msgstr "拉丁語"
+msgstr "拉丁文"
 
 #. Name for lav
 msgid "Latvian"
@@ -1125,9 +1108,8 @@ msgid "Mandingo"
 msgstr "曼丁哥語"
 
 #. Name for map
-#, fuzzy
 msgid "Austronesian languages"
-msgstr "澳大利亞諸語言"
+msgstr "南島語系"
 
 #. Name for mar
 msgid "Marathi"
@@ -1162,18 +1144,16 @@ msgid "Minangkabau"
 msgstr "米南卡保語"
 
 #. Name for mis
-#, fuzzy
 msgid "Uncoded languages"
-msgstr "贊德語"
+msgstr "未定碼諸語言"
 
 #. Name for mkd
 msgid "Macedonian"
 msgstr "馬其頓語"
 
 #. Name for mkh
-#, fuzzy
 msgid "Mon-Khmer languages"
-msgstr "克魯語"
+msgstr "南亞語系"
 
 #. Name for mlg
 msgid "Malagasy"
@@ -1252,9 +1232,8 @@ msgid "Nahuatl languages"
 msgstr "納瓦特爾語"
 
 #. Name for nai
-#, fuzzy
 msgid "North American Indian languages"
-msgstr "北美洲土著諸語言 (其他)"
+msgstr "北美洲土著諸語言"
 
 #. Name for nap
 msgid "Neapolitan"
@@ -1262,7 +1241,7 @@ msgstr "拿坡里語"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "蒙古語"
+msgstr "瑙魯"
 
 #. Name for nav
 msgid "Navajo; Navaho"
@@ -1282,7 +1261,7 @@ msgstr "恩敦加語"
 
 #. Name for nds
 msgid "Low German; Low Saxon; German, Low; Saxon, Low"
-msgstr "低地撒克遜語"
+msgstr "低地德文; 低地撒克遜語"
 
 #. Name for nep
 msgid "Nepali"
@@ -1297,9 +1276,8 @@ msgid "Nias"
 msgstr "尼亞斯語"
 
 #. Name for nic
-#, fuzzy
 msgid "Niger-Kordofanian languages"
-msgstr "尼日爾-科爾多凡諸語言 (其他)"
+msgstr "尼日爾-科爾多凡諸語言"
 
 #. Name for niu
 msgid "Niuean"
@@ -1366,9 +1344,8 @@ msgid "Nzima"
 msgstr "恩濟馬語"
 
 #. Name for oci
-#, fuzzy
 msgid "Occitan (post 1500); Provençal"
-msgstr "奧克語"
+msgstr "奧克西坦語 (1500 之後);普羅旺斯語"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1399,9 +1376,8 @@ msgid "Otomian languages"
 msgstr "奧托米諸語言"
 
 #. Name for paa
-#, fuzzy
 msgid "Papuan languages"
-msgstr "瑪雅諸語言"
+msgstr "巴布亞語系"
 
 #. Name for pag
 msgid "Pangasinan"
@@ -1432,9 +1408,8 @@ msgid "Persian, Old (ca. 600-400 B.C.)"
 msgstr "古波斯語"
 
 #. Name for phi
-#, fuzzy
 msgid "Philippine languages"
-msgstr "多語種"
+msgstr "菲律賓語系"
 
 #. Name for phn
 msgid "Phoenician"
@@ -1454,19 +1429,17 @@ msgstr "波納佩語"
 
 #. Name for por
 msgid "Portuguese"
-msgstr "葡萄牙語"
+msgstr "葡萄牙文"
 
 #. Name for pra
 msgid "Prakrit languages"
 msgstr "普拉克里特諸語言"
 
 #. Name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "古普羅旺斯語"
+msgstr "古普羅旺斯語 (至 1500)"
 
 #. Name for pus
-#, fuzzy
 msgid "Pushto; Pashto"
 msgstr "普什圖語"
 
@@ -1492,9 +1465,8 @@ msgid "Rarotongan; Cook Islands Maori"
 msgstr "拉羅湯加語"
 
 #. Name for roa
-#, fuzzy
 msgid "Romance languages"
-msgstr "奧托米諸語言"
+msgstr "羅曼語系"
 
 #. Name for roh
 msgid "Romansh"
@@ -1505,10 +1477,8 @@ msgid "Romany"
 msgstr "吉普賽語"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "摩爾達維亞語"
+msgstr "羅馬尼亞語;莫爾達維亞語;摩爾多瓦語"
 
 #. Name for run
 msgid "Rundi"
@@ -1549,7 +1519,7 @@ msgstr "薩馬利亞阿拉米語"
 
 #. Name for san
 msgid "Sanskrit"
-msgstr "梵語"
+msgstr "梵文"
 
 #. Name for sas
 msgid "Sasak"
@@ -1572,9 +1542,8 @@ msgid "Selkup"
 msgstr "塞爾庫普語"
 
 #. Name for sem
-#, fuzzy
 msgid "Semitic languages"
-msgstr "占語諸語言"
+msgstr "閃米語系"
 
 #. Name for sga
 msgid "Irish, Old (to 900)"
@@ -1601,14 +1570,12 @@ msgid "Siouan languages"
 msgstr "蘇語諸語言"
 
 #. Name for sit
-#, fuzzy
 msgid "Sino-Tibetan languages"
-msgstr "蘇語諸語言"
+msgstr "漢藏語系"
 
 #. Name for sla
-#, fuzzy
 msgid "Slavic languages"
-msgstr "占語諸語言"
+msgstr "斯拉夫語系"
 
 #. Name for slk
 msgid "Slovak"
@@ -1627,9 +1594,8 @@ msgid "Northern Sami"
 msgstr "北薩莫斯語"
 
 #. Name for smi
-#, fuzzy
 msgid "Sami languages"
-msgstr "占語諸語言"
+msgstr "薩米語系"
 
 #. Name for smj
 msgid "Lule Sami"
@@ -1677,7 +1643,7 @@ msgstr "南索托語"
 
 #. Name for spa
 msgid "Spanish; Castilian"
-msgstr "西班牙語"
+msgstr "西班牙文"
 
 #. Name for sqi
 msgid "Albanian"
@@ -1693,16 +1659,15 @@ msgstr ""
 
 #. Name for srp
 msgid "Serbian"
-msgstr "塞爾維亞語"
+msgstr "塞爾維亞文"
 
 #. Name for srr
 msgid "Serer"
 msgstr "塞雷爾語"
 
 #. Name for ssa
-#, fuzzy
 msgid "Nilo-Saharan languages"
-msgstr "薩利什諸語言"
+msgstr "尼羅-撒哈拉語系"
 
 #. Name for ssw
 msgid "Swati"
@@ -1734,20 +1699,19 @@ msgstr "瑞典語"
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr "古敘利亞語"
+msgstr "古敍利亞文"
 
 #. Name for syr
 msgid "Syriac"
-msgstr "敘利亞語"
+msgstr "敍利亞文"
 
 #. Name for tah
 msgid "Tahitian"
-msgstr "塔希提語"
+msgstr "大溪地語"
 
 #. Name for tai
-#, fuzzy
 msgid "Tai languages"
-msgstr "圖皮語諸語言"
+msgstr "壯侗語系"
 
 #. Name for tam
 msgid "Tamil"
@@ -1783,7 +1747,7 @@ msgstr "塔加洛語"
 
 #. Name for tha
 msgid "Thai"
-msgstr "泰語"
+msgstr "泰文"
 
 #. Name for tig
 msgid "Tigre"
@@ -1799,7 +1763,7 @@ msgstr "蒂夫語"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr "托克勞語"
+msgstr "托克勞羣島"
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"
@@ -1854,9 +1818,8 @@ msgid "Turkish"
 msgstr "土耳其語"
 
 #. Name for tut
-#, fuzzy
 msgid "Altaic languages"
-msgstr "阿帕切諸語言"
+msgstr "阿爾泰語系"
 
 #. Name for tvl
 msgid "Tuvalu"
@@ -1892,7 +1855,7 @@ msgstr "翁本杜語"
 
 #. Name for und
 msgid "Undetermined"
-msgstr "未確定的語種"
+msgstr "未確定語種"
 
 #. Name for urd
 msgid "Urdu"
@@ -1912,7 +1875,7 @@ msgstr "文達語"
 
 #. Name for vie
 msgid "Vietnamese"
-msgstr "越南語"
+msgstr "越南文"
 
 #. Name for vol
 msgid "Volapük"
@@ -1960,7 +1923,7 @@ msgstr "科薩語"
 
 #. Name for yao
 msgid "Yao"
-msgstr "瑤語"
+msgstr "瑤文"
 
 #. Name for yap
 msgid "Yapese"
@@ -1996,11 +1959,11 @@ msgstr ""
 
 #. Name for zha
 msgid "Zhuang; Chuang"
-msgstr "壯語"
+msgstr "壯文"
 
 #. Name for zho
 msgid "Chinese"
-msgstr "漢語"
+msgstr "中文"
 
 #. Name for znd
 msgid "Zande languages"
@@ -2015,9 +1978,8 @@ msgid "Zuni"
 msgstr "祖尼語"
 
 #. Name for zxx
-#, fuzzy
 msgid "No linguistic content; Not applicable"
-msgstr "無語言內容"
+msgstr "無語言內容; 不適用"
 
 #. Name for zza
 msgid "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"

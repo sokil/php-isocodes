@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-08-02 17:12+0000\n"
+"PO-Revision-Date: 2019-10-06 23:56+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/id/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -5573,11 +5573,11 @@ msgstr "Melayu Kreole, Malaka"
 
 #. Name for cco
 msgid "Comaltepec Chinantec"
-msgstr ""
+msgstr "Comaltepec Chinantec"
 
 #. Inverted name for cco
 msgid "Chinantec, Comaltepec"
-msgstr ""
+msgstr "Chinantec, Comaltepec"
 
 #. Name for ccp
 msgid "Chakma"
@@ -5629,7 +5629,7 @@ msgstr "Cina Min Dong"
 
 #. Inverted name for cdo
 msgid "Chinese, Min Dong"
-msgstr ""
+msgstr "Cina, Min Dong"
 
 #. Name for cdr
 msgid "Cinda-Regi-Tiyal"
@@ -5733,11 +5733,11 @@ msgstr "Catawba"
 
 #. Name for chd
 msgid "Highland Oaxaca Chontal"
-msgstr ""
+msgstr "Highland Oaxaca Chontal"
 
 #. Inverted name for chd
 msgid "Chontal, Highland Oaxaca"
-msgstr ""
+msgstr "Chontal, Highland Oaxaca"
 
 #. Name for che
 msgid "Chechen"
@@ -5761,11 +5761,11 @@ msgstr "Chinook"
 
 #. Name for chj
 msgid "Ojitlán Chinantec"
-msgstr ""
+msgstr "Ojitlán Chinantec"
 
 #. Inverted name for chj
 msgid "Chinantec, Ojitlán"
-msgstr ""
+msgstr "Chinantec, Ojitlán"
 
 #. Name for chk
 msgid "Chuukese"
@@ -5793,11 +5793,11 @@ msgstr "Chipewyan"
 
 #. Name for chq
 msgid "Quiotepec Chinantec"
-msgstr ""
+msgstr "Quiotepec Chinantec"
 
 #. Inverted name for chq
 msgid "Chinantec, Quiotepec"
-msgstr ""
+msgstr "Chinantec, Quiotepec"
 
 #. Name for chr
 msgid "Cherokee"
@@ -5810,11 +5810,12 @@ msgstr "Cholón"
 #. Name for chu
 #, fuzzy
 msgid "Church Slavic"
-msgstr "Chuvash"
+msgstr "Church Slavic"
 
 #. Inverted name for chu
+#, fuzzy
 msgid "Slavic, Church"
-msgstr ""
+msgstr "Slavic, Church"
 
 #. Name for chv
 msgid "Chuvash"
@@ -6026,7 +6027,7 @@ msgstr "Cakfem-Mushere"
 
 #. Name for ckz
 msgid "Cakchiquel-Quiché Mixed Language"
-msgstr ""
+msgstr "Bahasa Campuran Cakchiquel-Quiché"
 
 #. Name for cla
 msgid "Ron"
@@ -6038,12 +6039,11 @@ msgstr "Chilcotin"
 
 #. Name for cld
 msgid "Chaldean Neo-Aramaic"
-msgstr ""
+msgstr "Chaldean Neo-Aramaic"
 
 #. Inverted name for cld
-#, fuzzy
 msgid "Neo-Aramaic, Chaldean"
-msgstr "Arab"
+msgstr "Neo-Aramaic, Chaldean"
 
 #. Name for cle
 msgid "Lealao Chinantec"
@@ -6083,11 +6083,11 @@ msgstr "Clallam"
 
 #. Name for clo
 msgid "Lowland Oaxaca Chontal"
-msgstr ""
+msgstr "Lowland Oaxaca Chontal"
 
 #. Inverted name for clo
 msgid "Chontal, Lowland Oaxaca"
-msgstr ""
+msgstr "Chontal, Lowland Oaxaca"
 
 #. Name for clt
 msgid "Lautu Chin"

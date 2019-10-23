@@ -15,17 +15,17 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-08-01 13:16+0200\n"
-"PO-Revision-Date: 2019-04-02 16:04+0000\n"
+"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"PO-Revision-Date: 2019-10-05 09:56+0000\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-2/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -176,12 +176,10 @@ msgid "Nīmrōz"
 msgstr "尼姆鲁兹省"
 
 #. Name for AF-NUR
-#, fuzzy
 msgid "Nūristān"
 msgstr "努尔斯坦省"
 
 #. Name for AF-PAN
-#, fuzzy
 msgid "Panjshayr"
 msgstr "潘杰希尔省"
 
@@ -190,7 +188,6 @@ msgid "Parwān"
 msgstr "帕尔旺省"
 
 #. Name for AF-PIA
-#, fuzzy
 msgid "Paktiyā"
 msgstr "帕克蒂亚省"
 
@@ -203,7 +200,6 @@ msgid "Samangān"
 msgstr "萨曼甘省"
 
 #. Name for AF-SAR
-#, fuzzy
 msgid "Sar-e Pul"
 msgstr "萨尔普勒省"
 
@@ -212,18 +208,16 @@ msgid "Takhār"
 msgstr "塔哈尔省"
 
 #. Name for AF-URU
-#, fuzzy
 msgid "Uruzgān"
-msgstr "霍尔木兹甘"
+msgstr "乌鲁兹甘省"
 
 #. Name for AF-WAR
-#, fuzzy
 msgid "Wardak"
-msgstr "哈达普"
+msgstr "瓦尔达克省"
 
 #. Name for AF-ZAB
 msgid "Zābul"
-msgstr ""
+msgstr "扎布尔省"
 
 #. Name for AG-03, Name for BB-03, Name for DM-04, Name for GD-03, Name for VC-04
 msgid "Saint George"
@@ -255,7 +249,7 @@ msgstr "巴布达"
 
 #. Name for AG-11
 msgid "Redonda"
-msgstr ""
+msgstr "雷东达岛"
 
 #. Name for AL-01, Name for AL-BR
 msgid "Berat"
@@ -2352,7 +2346,7 @@ msgstr "加萨宗"
 msgid "Trashi Yangtse"
 msgstr "塔希央奇宗"
 
-#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for KE-200, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
+#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
 msgid "Central"
 msgstr "中部"
 
@@ -5154,7 +5148,7 @@ msgstr ""
 msgid "Varsinais-Suomi"
 msgstr ""
 
-#. Name for FJ-E, Name for GH-EP, Name for KE-400, Name for SL-E, Name for UG-E, Name for ZM-03
+#. Name for FJ-E, Name for GH-EP, Name for SL-E, Name for UG-E, Name for ZM-03
 msgid "Eastern"
 msgstr "东部区"
 
@@ -9307,25 +9301,229 @@ msgstr "鹿儿岛县"
 msgid "Okinawa"
 msgstr "冲绳县"
 
-#. Name for KE-110
-msgid "Nairobi Municipality"
-msgstr "内罗毕区"
+#. Name for KE-01
+#, fuzzy
+msgid "Baringo"
+msgstr "巴尔"
 
-#. Name for KE-300
-msgid "Coast"
-msgstr "海岸省"
+#. Name for KE-02
+msgid "Bomet"
+msgstr ""
 
-#. Name for KE-500
-msgid "North-Eastern Kaskazini Mashariki"
-msgstr "东北省"
+#. Name for KE-03
+#, fuzzy
+#| msgid "Kungota"
+msgid "Bungoma"
+msgstr "昆戈塔"
 
-#. Name for KE-700
-msgid "Rift Valley"
-msgstr "裂谷省"
+#. Name for KE-04, Name for UG-202
+msgid "Busia"
+msgstr "布西亚"
 
-#. Name for KE-800
-msgid "Western Magharibi"
-msgstr "西部省"
+#. Name for KE-05
+msgid "Elgeyo/Marakwet"
+msgstr ""
+
+#. Name for KE-06
+msgid "Embu"
+msgstr ""
+
+#. Name for KE-07
+#, fuzzy
+msgid "Garissa"
+msgstr "拉腊州"
+
+#. Name for KE-08
+#, fuzzy
+msgid "Homa Bay"
+msgstr "豪克斯湾"
+
+#. Name for KE-09
+msgid "Isiolo"
+msgstr ""
+
+#. Name for KE-10
+msgid "Kajiado"
+msgstr ""
+
+#. Name for KE-11
+#, fuzzy
+#| msgid "Makamba"
+msgid "Kakamega"
+msgstr "马坎巴"
+
+#. Name for KE-12
+msgid "Kericho"
+msgstr ""
+
+#. Name for KE-13
+#, fuzzy
+#| msgid "Hamburg"
+msgid "Kiambu"
+msgstr "汉堡"
+
+#. Name for KE-14
+#, fuzzy
+#| msgid "Kili"
+msgid "Kilifi"
+msgstr "吉利"
+
+#. Name for KE-15
+#, fuzzy
+#| msgid "Shinyanga"
+msgid "Kirinyaga"
+msgstr "希尼安加"
+
+#. Name for KE-16
+msgid "Kisii"
+msgstr ""
+
+#. Name for KE-17
+msgid "Kisumu"
+msgstr ""
+
+#. Name for KE-18
+msgid "Kitui"
+msgstr ""
+
+#. Name for KE-19
+msgid "Kwale"
+msgstr ""
+
+#. Name for KE-20
+msgid "Laikipia"
+msgstr ""
+
+#. Name for KE-21
+msgid "Lamu"
+msgstr ""
+
+#. Name for KE-22
+#, fuzzy
+msgid "Machakos"
+msgstr "马腊尼昂"
+
+#. Name for KE-23
+msgid "Makueni"
+msgstr ""
+
+#. Name for KE-24
+#, fuzzy
+#| msgid "Mandiana"
+msgid "Mandera"
+msgstr "芒加纳"
+
+#. Name for KE-25
+#, fuzzy
+msgid "Marsabit"
+msgstr "马腊"
+
+#. Name for KE-26
+msgid "Meru"
+msgstr ""
+
+#. Name for KE-27
+msgid "Migori"
+msgstr ""
+
+#. Name for KE-28
+#, fuzzy
+#| msgid "Zomba"
+msgid "Mombasa"
+msgstr "松巴县"
+
+#. Name for KE-29
+#, fuzzy
+#| msgid "Durango"
+msgid "Murang'a"
+msgstr "杜兰戈州"
+
+#. Name for KE-30
+#, fuzzy
+#| msgid "Taipei City"
+msgid "Nairobi City"
+msgstr "台北市"
+
+#. Name for KE-31
+msgid "Nakuru"
+msgstr ""
+
+#. Name for KE-32
+#, fuzzy
+#| msgid "Basse-Normandie"
+msgid "Nandi"
+msgstr "下诺曼底"
+
+#. Name for KE-33
+msgid "Narok"
+msgstr ""
+
+#. Name for KE-34
+msgid "Nyamira"
+msgstr ""
+
+#. Name for KE-35
+#, fuzzy
+msgid "Nyandarua"
+msgstr "班多尔班"
+
+#. Name for KE-36
+msgid "Nyeri"
+msgstr ""
+
+#. Name for KE-37
+#, fuzzy
+#| msgid "Hamburg"
+msgid "Samburu"
+msgstr "汉堡"
+
+#. Name for KE-38
+msgid "Siaya"
+msgstr ""
+
+#. Name for KE-39
+msgid "Taita/Taveta"
+msgstr ""
+
+#. Name for KE-40
+#, fuzzy
+#| msgid "Central River"
+msgid "Tana River"
+msgstr "麦卡锡岛区"
+
+#. Name for KE-41
+msgid "Tharaka-Nithi"
+msgstr ""
+
+#. Name for KE-42
+msgid "Trans Nzoia"
+msgstr ""
+
+#. Name for KE-43
+#, fuzzy
+#| msgid "Arkansas"
+msgid "Turkana"
+msgstr "阿肯色州"
+
+#. Name for KE-44
+msgid "Uasin Gishu"
+msgstr ""
+
+#. Name for KE-45
+#, fuzzy
+#| msgid "Shiga"
+msgid "Vihiga"
+msgstr "滋贺县"
+
+#. Name for KE-46
+msgid "Wajir"
+msgstr ""
+
+#. Name for KE-47
+#, fuzzy
+#| msgid "West Coast"
+msgid "West Pokot"
+msgstr "西岸"
 
 #. Name for KG-B
 msgid "Batken"
@@ -18736,10 +18934,6 @@ msgstr "桑坦德"
 #. Name for UG-201
 msgid "Bugiri"
 msgstr "布吉里"
-
-#. Name for UG-202
-msgid "Busia"
-msgstr "布西亚"
 
 #. Name for UG-203
 msgid "Iganga"

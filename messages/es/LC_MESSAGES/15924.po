@@ -6,14 +6,15 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-04-07 21:04+0000\n"
-"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
+"PO-Revision-Date: 2019-10-12 15:52+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/es/>\n"
 "Language: es\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -669,7 +670,7 @@ msgstr "tengwar"
 
 #. Name for Tfng
 msgid "Tifinagh (Berber)"
-msgstr "tifinagh (bereber)"
+msgstr "tifinag (bereber)"
 
 #. Name for Tglg
 msgid "Tagalog (Baybayin, Alibata)"
@@ -701,7 +702,7 @@ msgstr "Vai"
 
 #. Name for Visp
 msgid "Visible Speech"
-msgstr "Visible Speech"
+msgstr "discurso visible"
 
 #. Name for Wara
 msgid "Warang Citi (Varang Kshiti)"

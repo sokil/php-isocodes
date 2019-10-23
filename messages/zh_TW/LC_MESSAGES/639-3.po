@@ -9,14 +9,15 @@
 # JOE MAN <trmetal@yahoo.com.hk>, 2001.
 # Cheng-Chia Tseng <pswo10680@gmail.com>, 2017.
 # Louies <louies0623@gmail.com>, 2019.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-14 17:21+0000\n"
-"Last-Translator: Louies <louies0623@gmail.com>\n"
+"PO-Revision-Date: 2019-10-18 14:54+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-639-3/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -7526,7 +7527,7 @@ msgstr "徽州語 漢語"
 
 #. Inverted name for czh
 msgid "Chinese, Huizhou"
-msgstr "漢語，徽洲語"
+msgstr "漢語，徽州語"
 
 #. Name for czk
 #, fuzzy
@@ -9333,7 +9334,7 @@ msgstr ""
 
 #. Name for eng
 msgid "English"
-msgstr "英語"
+msgstr "英文"
 
 #. Name for enh
 msgid "Tundra Enets"
@@ -11324,7 +11325,7 @@ msgstr ""
 
 #. Name for grn
 msgid "Guarani"
-msgstr "瓜拉尼語"
+msgstr "巴拉圭瓜拉尼"
 
 #. Name for gro
 #, fuzzy
@@ -18020,13 +18021,12 @@ msgid "Libido"
 msgstr ""
 
 #. Name for lir
-#, fuzzy
 msgid "Liberian English"
-msgstr "英文"
+msgstr "賴比瑞亞英文"
 
 #. Inverted name for lir
 msgid "English, Liberian"
-msgstr ""
+msgstr "英文 (賴比瑞亞)"
 
 #. Name for lis
 msgid "Lisu"
@@ -18737,7 +18737,7 @@ msgstr "中晚期古漢語"
 
 #. Inverted name for ltc
 msgid "Chinese, Late Middle"
-msgstr "中晚期古漢語"
+msgstr "漢語，中晚期古"
 
 #. Name for ltg
 #, fuzzy
@@ -22300,7 +22300,7 @@ msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "諾魯語"
+msgstr "諾魯"
 
 #. Name for nav
 msgid "Navajo"
@@ -24833,7 +24833,7 @@ msgstr "古漢語"
 
 #. Inverted name for och
 msgid "Chinese, Old"
-msgstr "古漢語"
+msgstr "漢語，古"
 
 #. Name for oci
 msgid "Occitan (post 1500)"
@@ -33469,7 +33469,7 @@ msgstr ""
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "吐瓦魯語"
+msgstr "吐瓦魯"
 
 #. Name for tvm
 msgid "Tela-Masbuar"
@@ -38845,15 +38845,15 @@ msgstr "土耳其"
 
 #. Name for zhn
 msgid "Nong Zhuang"
-msgstr ""
+msgstr "儂壯語"
 
 #. Inverted name for zhn
 msgid "Zhuang, Nong"
-msgstr ""
+msgstr "壯語，儂壯語"
 
 #. Name for zho
 msgid "Chinese"
-msgstr "漢語"
+msgstr "中文"
 
 #. Name for zhw
 msgid "Zhoa"
