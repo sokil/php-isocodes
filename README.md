@@ -309,3 +309,4 @@ For example for PHP 7.1 run following command:
 
 * [State Classifier of objects of administrative and territorial structure of Ukraine](https://github.com/sokil/koatuu) - generates database of detailed list of cities and settlements of Ukraine
 * [A Symfony's PHP replacement layer for the C intl extension that also provides access to the localization data of the ICU library](http://symfony.com/doc/current/components/intl.html)
+* [FamFacFam icon pack with wlags](http://www.famfamfam.com/lab/icons/flags/)
