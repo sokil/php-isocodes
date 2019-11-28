@@ -8,21 +8,24 @@
 # KDE Serbian Translation Team <kde-yu@kde.org.yu>, 1999.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2014-2015.
+# Branko Kovačević <ja_sam_branko@yahoo.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-08-01 13:16+0200\n"
-"PO-Revision-Date: 2015-12-26 22:03+0200\n"
-"Last-Translator: Miroslav Nikolić <miroslavnikolic@rocketmail.com>\n"
-"Language-Team: Serbian <(nothing)>\n"
+"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"PO-Revision-Date: 2019-10-05 09:56+0000\n"
+"Last-Translator: Branko Kovačević <ja_sam_branko@yahoo.com>\n"
+"Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-2/sr_Latn/>\n"
 "Language: sr@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -258,7 +261,7 @@ msgstr "Drač"
 
 #. Name for AL-03, Name for AL-EL
 msgid "Elbasan"
-msgstr "Albasan"
+msgstr "elbasansko pismo"
 
 #. Name for AL-04, Name for AL-FR
 msgid "Fier"
@@ -2205,7 +2208,7 @@ msgstr "Gaza"
 msgid "Trashi Yangtse"
 msgstr "Traši Jangce"
 
-#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for KE-200, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
+#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
 msgid "Central"
 msgstr "Centralni"
 
@@ -4858,7 +4861,7 @@ msgstr "Usima"
 msgid "Varsinais-Suomi"
 msgstr ""
 
-#. Name for FJ-E, Name for GH-EP, Name for KE-400, Name for SL-E, Name for UG-E, Name for ZM-03
+#. Name for FJ-E, Name for GH-EP, Name for SL-E, Name for UG-E, Name for ZM-03
 msgid "Eastern"
 msgstr ""
 
@@ -8887,25 +8890,233 @@ msgstr "Kagošima"
 msgid "Okinawa"
 msgstr "Okinava"
 
-#. Name for KE-110
-msgid "Nairobi Municipality"
+#. Name for KE-01
+#, fuzzy
+#| msgid "Bari"
+msgid "Baringo"
+msgstr "Bari"
+
+#. Name for KE-02
+msgid "Bomet"
 msgstr ""
 
-#. Name for KE-300
-msgid "Coast"
-msgstr "Obala"
+#. Name for KE-03
+#, fuzzy
+#| msgid "Kungota"
+msgid "Bungoma"
+msgstr "Kungota"
 
-#. Name for KE-500
-msgid "North-Eastern Kaskazini Mashariki"
+#. Name for KE-04, Name for UG-202
+msgid "Busia"
+msgstr "Busja"
+
+#. Name for KE-05
+msgid "Elgeyo/Marakwet"
 msgstr ""
 
-#. Name for KE-700
-msgid "Rift Valley"
+#. Name for KE-06
+msgid "Embu"
 msgstr ""
 
-#. Name for KE-800
-msgid "Western Magharibi"
+#. Name for KE-07
+#, fuzzy
+#| msgid "Larisa"
+msgid "Garissa"
+msgstr "Larisa"
+
+#. Name for KE-08
+#, fuzzy
+#| msgid "Hawke's Bay"
+msgid "Homa Bay"
+msgstr "Hovkiz Bej"
+
+#. Name for KE-09
+msgid "Isiolo"
 msgstr ""
+
+#. Name for KE-10
+msgid "Kajiado"
+msgstr ""
+
+#. Name for KE-11
+#, fuzzy
+#| msgid "Makamba"
+msgid "Kakamega"
+msgstr "Makamba"
+
+#. Name for KE-12
+msgid "Kericho"
+msgstr ""
+
+#. Name for KE-13
+#, fuzzy
+#| msgid "Hamburg"
+msgid "Kiambu"
+msgstr "Hamburg"
+
+#. Name for KE-14
+#, fuzzy
+#| msgid "Kili"
+msgid "Kilifi"
+msgstr "Kili"
+
+#. Name for KE-15
+msgid "Kirinyaga"
+msgstr ""
+
+#. Name for KE-16
+msgid "Kisii"
+msgstr ""
+
+#. Name for KE-17
+msgid "Kisumu"
+msgstr ""
+
+#. Name for KE-18
+msgid "Kitui"
+msgstr ""
+
+#. Name for KE-19
+msgid "Kwale"
+msgstr ""
+
+#. Name for KE-20
+msgid "Laikipia"
+msgstr ""
+
+#. Name for KE-21
+msgid "Lamu"
+msgstr ""
+
+#. Name for KE-22
+#, fuzzy
+#| msgid "Maracha"
+msgid "Machakos"
+msgstr "Marača"
+
+#. Name for KE-23
+msgid "Makueni"
+msgstr ""
+
+#. Name for KE-24
+#, fuzzy
+#| msgid "Mandiana"
+msgid "Mandera"
+msgstr "Mandjana"
+
+#. Name for KE-25
+#, fuzzy
+#| msgid "Marsa"
+msgid "Marsabit"
+msgstr "Marsa"
+
+#. Name for KE-26
+msgid "Meru"
+msgstr ""
+
+#. Name for KE-27
+msgid "Migori"
+msgstr ""
+
+#. Name for KE-28
+#, fuzzy
+#| msgid "Zomba"
+msgid "Mombasa"
+msgstr "Zomba"
+
+#. Name for KE-29
+#, fuzzy
+#| msgid "Durango"
+msgid "Murang'a"
+msgstr "Durango"
+
+#. Name for KE-30
+#, fuzzy
+#| msgid "Taipei City"
+msgid "Nairobi City"
+msgstr "Tajpej Siti"
+
+#. Name for KE-31
+msgid "Nakuru"
+msgstr ""
+
+#. Name for KE-32
+#, fuzzy
+#| msgid "Basse-Normandie"
+msgid "Nandi"
+msgstr "Donja Normandija"
+
+#. Name for KE-33
+msgid "Narok"
+msgstr ""
+
+#. Name for KE-34
+msgid "Nyamira"
+msgstr ""
+
+#. Name for KE-35
+#, fuzzy
+#| msgid "Bandarban"
+msgid "Nyandarua"
+msgstr "Bandarban"
+
+#. Name for KE-36
+msgid "Nyeri"
+msgstr ""
+
+#. Name for KE-37
+#, fuzzy
+#| msgid "Hamburg"
+msgid "Samburu"
+msgstr "Hamburg"
+
+#. Name for KE-38
+msgid "Siaya"
+msgstr ""
+
+#. Name for KE-39
+msgid "Taita/Taveta"
+msgstr ""
+
+#. Name for KE-40
+#, fuzzy
+#| msgid "Central River"
+msgid "Tana River"
+msgstr "Sentral River"
+
+#. Name for KE-41
+msgid "Tharaka-Nithi"
+msgstr ""
+
+#. Name for KE-42
+msgid "Trans Nzoia"
+msgstr ""
+
+#. Name for KE-43
+#, fuzzy
+#| msgid "Arkansas"
+msgid "Turkana"
+msgstr "Arkanzas"
+
+#. Name for KE-44
+msgid "Uasin Gishu"
+msgstr ""
+
+#. Name for KE-45
+#, fuzzy
+#| msgid "Michigan"
+msgid "Vihiga"
+msgstr "Mičigen"
+
+#. Name for KE-46
+msgid "Wajir"
+msgstr ""
+
+#. Name for KE-47
+#, fuzzy
+#| msgid "West Coast"
+msgid "West Pokot"
+msgstr "Zapadna Obala"
 
 #. Name for KG-B
 msgid "Batken"
@@ -17771,10 +17982,6 @@ msgstr "Liantonde"
 #. Name for UG-201
 msgid "Bugiri"
 msgstr "Bugiri"
-
-#. Name for UG-202
-msgid "Busia"
-msgstr "Busja"
 
 #. Name for UG-203
 msgid "Iganga"

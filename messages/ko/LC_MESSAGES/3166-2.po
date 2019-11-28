@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-08-01 13:16+0200\n"
+"POT-Creation-Date: 2019-10-03 13:00+0200\n"
 "PO-Revision-Date: 2018-02-04 12:55+0000\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
@@ -2460,7 +2460,7 @@ msgstr "가나"
 msgid "Trashi Yangtse"
 msgstr ""
 
-#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for KE-200, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
+#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
 #, fuzzy
 msgid "Central"
 msgstr "캐나다"
@@ -5283,7 +5283,7 @@ msgstr ""
 msgid "Varsinais-Suomi"
 msgstr ""
 
-#. Name for FJ-E, Name for GH-EP, Name for KE-400, Name for SL-E, Name for UG-E, Name for ZM-03
+#. Name for FJ-E, Name for GH-EP, Name for SL-E, Name for UG-E, Name for ZM-03
 #, fuzzy
 msgid "Eastern"
 msgstr "동티모르"
@@ -9614,25 +9614,209 @@ msgstr ""
 msgid "Okinawa"
 msgstr ""
 
-#. Name for KE-110
-msgid "Nairobi Municipality"
-msgstr ""
-
-#. Name for KE-300
+#. Name for KE-01
 #, fuzzy
-msgid "Coast"
-msgstr "크로아티아"
+msgid "Baringo"
+msgstr "버뮤다"
 
-#. Name for KE-500
-msgid "North-Eastern Kaskazini Mashariki"
+#. Name for KE-02
+msgid "Bomet"
 msgstr ""
 
-#. Name for KE-700
-msgid "Rift Valley"
+#. Name for KE-03
+#, fuzzy
+msgid "Bungoma"
+msgstr "앙골라"
+
+#. Name for KE-04, Name for UG-202
+#, fuzzy
+msgid "Busia"
+msgstr "불가리아"
+
+#. Name for KE-05
+msgid "Elgeyo/Marakwet"
 msgstr ""
 
-#. Name for KE-800
-msgid "Western Magharibi"
+#. Name for KE-06
+msgid "Embu"
+msgstr ""
+
+#. Name for KE-07
+#, fuzzy
+msgid "Garissa"
+msgstr "라트비아"
+
+#. Name for KE-08
+msgid "Homa Bay"
+msgstr ""
+
+#. Name for KE-09
+msgid "Isiolo"
+msgstr ""
+
+#. Name for KE-10
+msgid "Kajiado"
+msgstr ""
+
+#. Name for KE-11
+#, fuzzy
+msgid "Kakamega"
+msgstr "마다가스카르"
+
+#. Name for KE-12
+msgid "Kericho"
+msgstr ""
+
+#. Name for KE-13
+msgid "Kiambu"
+msgstr ""
+
+#. Name for KE-14
+#, fuzzy
+msgid "Kilifi"
+msgstr "K메일"
+
+#. Name for KE-15
+msgid "Kirinyaga"
+msgstr ""
+
+#. Name for KE-16
+msgid "Kisii"
+msgstr ""
+
+#. Name for KE-17
+msgid "Kisumu"
+msgstr ""
+
+#. Name for KE-18
+msgid "Kitui"
+msgstr ""
+
+#. Name for KE-19
+msgid "Kwale"
+msgstr ""
+
+#. Name for KE-20
+msgid "Laikipia"
+msgstr ""
+
+#. Name for KE-21
+msgid "Lamu"
+msgstr ""
+
+#. Name for KE-22
+#, fuzzy
+msgid "Machakos"
+msgstr "프랑스"
+
+#. Name for KE-23
+msgid "Makueni"
+msgstr ""
+
+#. Name for KE-24
+#, fuzzy
+msgid "Mandera"
+msgstr "인디아나"
+
+#. Name for KE-25
+#, fuzzy
+msgid "Marsabit"
+msgstr "말레이시아"
+
+#. Name for KE-26
+msgid "Meru"
+msgstr ""
+
+#. Name for KE-27
+msgid "Migori"
+msgstr ""
+
+#. Name for KE-28
+#, fuzzy
+msgid "Mombasa"
+msgstr "잠비아"
+
+#. Name for KE-29
+#, fuzzy
+msgid "Murang'a"
+msgstr "버뮤다"
+
+#. Name for KE-30
+#, fuzzy
+msgid "Nairobi City"
+msgstr "없음"
+
+#. Name for KE-31
+msgid "Nakuru"
+msgstr ""
+
+#. Name for KE-32
+#, fuzzy
+msgid "Nandi"
+msgstr "인디아나"
+
+#. Name for KE-33
+msgid "Narok"
+msgstr ""
+
+#. Name for KE-34
+msgid "Nyamira"
+msgstr ""
+
+#. Name for KE-35
+#, fuzzy
+msgid "Nyandarua"
+msgstr "브라질"
+
+#. Name for KE-36
+msgid "Nyeri"
+msgstr ""
+
+#. Name for KE-37
+msgid "Samburu"
+msgstr ""
+
+#. Name for KE-38
+msgid "Siaya"
+msgstr ""
+
+#. Name for KE-39
+msgid "Taita/Taveta"
+msgstr ""
+
+#. Name for KE-40
+#, fuzzy
+msgid "Tana River"
+msgstr "캐나다"
+
+#. Name for KE-41
+msgid "Tharaka-Nithi"
+msgstr ""
+
+#. Name for KE-42
+msgid "Trans Nzoia"
+msgstr ""
+
+#. Name for KE-43
+#, fuzzy
+msgid "Turkana"
+msgstr "가나"
+
+#. Name for KE-44
+msgid "Uasin Gishu"
+msgstr ""
+
+#. Name for KE-45
+#, fuzzy
+msgid "Vihiga"
+msgstr "미시간"
+
+#. Name for KE-46
+msgid "Wajir"
+msgstr ""
+
+#. Name for KE-47
+msgid "West Pokot"
 msgstr ""
 
 #. Name for KG-B
@@ -19332,11 +19516,6 @@ msgstr "방글라데시"
 #. Name for UG-201
 #, fuzzy
 msgid "Bugiri"
-msgstr "불가리아"
-
-#. Name for UG-202
-#, fuzzy
-msgid "Busia"
 msgstr "불가리아"
 
 #. Name for UG-203

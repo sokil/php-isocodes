@@ -4,14 +4,15 @@
 # This file is distributed under the same license as the iso-codes package.
 # Copyright ©
 # Louies <louies0623@gmail.com>, 2019.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-14 17:21+0000\n"
-"Last-Translator: Louies <louies0623@gmail.com>\n"
+"PO-Revision-Date: 2019-09-26 07:28+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-639-5/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -19,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -307,7 +308,7 @@ msgstr "跨紐幾內亞語系"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr "奈及利亞-科爾多凡語系"
+msgstr "尼日-科爾多凡語系"
 
 #. Name for nub
 msgid "Nubian languages"

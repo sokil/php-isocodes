@@ -6,14 +6,15 @@
 # Copyright ©
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2010, 2013.
 # Louies <louies0623@gmail.com>, 2019.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-14 17:20+0000\n"
-"Last-Translator: Louies <louies0623@gmail.com>\n"
+"PO-Revision-Date: 2019-10-18 14:54+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-4217/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -153,7 +154,7 @@ msgstr "哥斯大黎加科郎"
 
 #. Name for CUC
 msgid "Peso Convertible"
-msgstr "可轉換重量"
+msgstr "古巴可兌換披索"
 
 #. Name for CUP
 msgid "Cuban Peso"
@@ -241,7 +242,7 @@ msgstr "蓋亞那元"
 
 #. Name for HKD
 msgid "Hong Kong Dollar"
-msgstr "香港幣"
+msgstr "港元"
 
 #. Name for HNL
 msgid "Lempira"
@@ -465,7 +466,7 @@ msgstr "波蘭羅提"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "瓜拉尼語"
+msgstr "巴拉圭瓜拉尼"
 
 #. Name for QAR
 msgid "Qatari Rial"
@@ -545,7 +546,7 @@ msgstr "敘利亞鎊"
 
 #. Name for SZL
 msgid "Lilangeni"
-msgstr "史瓦濟蘭里蘭吉尼"
+msgstr "史瓦帝尼 (史瓦濟蘭) 里蘭吉尼"
 
 #. Name for THB
 msgid "Baht"

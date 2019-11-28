@@ -29,14 +29,15 @@
 # Copyright ©
 # Christian Rose <menthos@menthos.com>, 2004.
 # Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016-2017.
+# Mattias Münster <mattiasmun@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-05-12 19:42+0000\n"
-"Last-Translator: Sebastian Rasmussen <sebras@gmail.com>\n"
+"PO-Revision-Date: 2019-10-18 14:53+0000\n"
+"Last-Translator: Mattias Münster <mattiasmun@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/sv/>\n"
 "Language: sv\n"
@@ -44,7 +45,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0-dev\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
@@ -428,7 +429,7 @@ msgstr "Franskt kreolspråk"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "Portugisiskt kreolspråk"
+msgstr "Kreol- och pidginspråk, portugisiskbaserade"
 
 #. Name for cre
 msgid "Cree"

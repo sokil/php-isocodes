@@ -8,14 +8,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Andrea Scialpi <solopec@tiscalinet.it>, 2001.
 # Milo Casagrande <milo@ubuntu.com>, 2008-2013, 2017-2018.
+# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-08-01 13:16+0200\n"
-"PO-Revision-Date: 2018-06-12 06:40+0000\n"
-"Last-Translator: Milo Casagrande <milo@ubuntu.com>\n"
+"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"PO-Revision-Date: 2019-11-08 12:54+0100\n"
+"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail."
+"ch>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/it/>\n"
 "Language: it\n"
@@ -23,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -2207,7 +2209,7 @@ msgstr "Gasa"
 msgid "Trashi Yangtse"
 msgstr "Trashiyangtse"
 
-#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for KE-200, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
+#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
 msgid "Central"
 msgstr "Centrale"
 
@@ -2773,8 +2775,6 @@ msgid "South-West"
 msgstr "Provincia di Sudovest"
 
 #. Name for CN-AH
-#, fuzzy
-#| msgid "Anhui"
 msgid "Anhui Sheng"
 msgstr "Anhui"
 
@@ -2797,14 +2797,10 @@ msgid "Fujian Sheng"
 msgstr "Fujian"
 
 #. Name for CN-GD
-#, fuzzy
-#| msgid "Guangdong"
 msgid "Guangdong Sheng"
 msgstr "Guangdong"
 
 #. Name for CN-GS
-#, fuzzy
-#| msgid "Gansu"
 msgid "Gansu Sheng"
 msgstr "Gansu"
 
@@ -2813,32 +2809,22 @@ msgid "Guangxi Zhuangzu Zizhiqu"
 msgstr ""
 
 #. Name for CN-GZ
-#, fuzzy
-#| msgid "Guizhou"
 msgid "Guizhou Sheng"
 msgstr "Guizhou"
 
 #. Name for CN-HA
-#, fuzzy
-#| msgid "Henan"
 msgid "Henan Sheng"
 msgstr "Henan"
 
 #. Name for CN-HB
-#, fuzzy
-#| msgid "Hubei"
 msgid "Hubei Sheng"
 msgstr "Hubei"
 
 #. Name for CN-HE
-#, fuzzy
-#| msgid "Hebei"
 msgid "Hebei Sheng"
 msgstr "Hebei"
 
 #. Name for CN-HI
-#, fuzzy
-#| msgid "Hainan"
 msgid "Hainan Sheng"
 msgstr "Hainan"
 
@@ -2847,32 +2833,22 @@ msgid "Hong Kong SAR (see also separate country code entry under HK)"
 msgstr ""
 
 #. Name for CN-HL
-#, fuzzy
-#| msgid "Heilongjiang"
 msgid "Heilongjiang Sheng"
 msgstr "Heilongjiang"
 
 #. Name for CN-HN
-#, fuzzy
-#| msgid "Hunan"
 msgid "Hunan Sheng"
 msgstr "Hunan"
 
 #. Name for CN-JL
-#, fuzzy
-#| msgid "Jilin"
 msgid "Jilin Sheng"
 msgstr "Jilin"
 
 #. Name for CN-JS
-#, fuzzy
-#| msgid "Jiangsu"
 msgid "Jiangsu Sheng"
 msgstr "Jiangsu"
 
 #. Name for CN-JX
-#, fuzzy
-#| msgid "Jiangxi"
 msgid "Jiangxi Sheng"
 msgstr "Jiangxi"
 
@@ -2927,10 +2903,8 @@ msgid "Shaanxi Sheng"
 msgstr "Shaanxi"
 
 #. Name for CN-SX
-#, fuzzy
-#| msgid "Shanxi"
 msgid "Shanxi Sheng"
-msgstr "Shanxi"
+msgstr "Shaanxi"
 
 #. Name for CN-TJ
 #, fuzzy
@@ -2940,27 +2914,21 @@ msgstr "Tianjin"
 
 #. Name for CN-TW
 msgid "Taiwan Sheng (see also separate country code entry under TW)"
-msgstr ""
+msgstr "Taiwan, RPC (Il codice per Taiwan, Repubblica di Cina è TW)"
 
 #. Name for CN-XJ
 msgid "Xinjiang Uygur Zizhiqu"
-msgstr ""
+msgstr "Regione autonoma uigura dello Xinjiang"
 
 #. Name for CN-XZ
-#, fuzzy
-#| msgid "Xizang"
 msgid "Xizang Zizhiqu"
-msgstr "Xizang"
+msgstr "Xinjiang"
 
 #. Name for CN-YN
-#, fuzzy
-#| msgid "Yunnan"
 msgid "Yunnan Sheng"
 msgstr "Yunnan"
 
 #. Name for CN-ZJ
-#, fuzzy
-#| msgid "Zhejiang"
 msgid "Zhejiang Sheng"
 msgstr "Zhejiang"
 
@@ -4698,7 +4666,7 @@ msgstr "Santa Cruz de Tenerife"
 
 #. Name for ES-V
 msgid "Valencia / València"
-msgstr "Valencia / València"
+msgstr "Valenza"
 
 #. Name for ES-VA
 msgid "Valladolid"
@@ -4706,7 +4674,7 @@ msgstr "Valladolid"
 
 #. Name for ES-VC
 msgid "Valenciana, Comunidad / Valenciana, Comunitat"
-msgstr "Comunità Valenciana / Valenzana"
+msgstr "Comunità valenziana"
 
 #. Name for ES-VI
 msgid "Álava"
@@ -4840,7 +4808,7 @@ msgstr "Uusimaa"
 msgid "Varsinais-Suomi"
 msgstr "Varsinais-Suomi"
 
-#. Name for FJ-E, Name for GH-EP, Name for KE-400, Name for SL-E, Name for UG-E, Name for ZM-03
+#. Name for FJ-E, Name for GH-EP, Name for SL-E, Name for UG-E, Name for ZM-03
 msgid "Eastern"
 msgstr "Orientale"
 
@@ -8812,25 +8780,235 @@ msgstr "Kagoshima"
 msgid "Okinawa"
 msgstr "Okinawa"
 
-#. Name for KE-110
-msgid "Nairobi Municipality"
-msgstr "Municipalità di Nairobi"
+#. Name for KE-01
+#, fuzzy
+#| msgid "Bari"
+msgid "Baringo"
+msgstr "Bari"
 
-#. Name for KE-300
-msgid "Coast"
-msgstr "Provincia costiera"
+#. Name for KE-02
+msgid "Bomet"
+msgstr ""
 
-#. Name for KE-500
-msgid "North-Eastern Kaskazini Mashariki"
-msgstr "Provincia Nordorientale"
+#. Name for KE-03
+#, fuzzy
+#| msgid "Kungota"
+msgid "Bungoma"
+msgstr "Kungota"
 
-#. Name for KE-700
-msgid "Rift Valley"
-msgstr "Rift Valley"
+#. Name for KE-04, Name for UG-202
+msgid "Busia"
+msgstr "Busia"
 
-#. Name for KE-800
-msgid "Western Magharibi"
-msgstr "Provincia occidentale"
+#. Name for KE-05
+msgid "Elgeyo/Marakwet"
+msgstr ""
+
+#. Name for KE-06
+msgid "Embu"
+msgstr ""
+
+#. Name for KE-07
+#, fuzzy
+#| msgid "Larisa"
+msgid "Garissa"
+msgstr "Larisa"
+
+#. Name for KE-08
+#, fuzzy
+#| msgid "Hawke's Bay"
+msgid "Homa Bay"
+msgstr "Hawke's Bay"
+
+#. Name for KE-09
+msgid "Isiolo"
+msgstr ""
+
+#. Name for KE-10
+msgid "Kajiado"
+msgstr ""
+
+#. Name for KE-11
+#, fuzzy
+#| msgid "Makamba"
+msgid "Kakamega"
+msgstr "Makamba"
+
+#. Name for KE-12
+msgid "Kericho"
+msgstr ""
+
+#. Name for KE-13
+#, fuzzy
+#| msgid "Hamburg"
+msgid "Kiambu"
+msgstr "Amburgo"
+
+#. Name for KE-14
+#, fuzzy
+#| msgid "Kili"
+msgid "Kilifi"
+msgstr "Kili"
+
+#. Name for KE-15
+#, fuzzy
+#| msgid "Shinyanga"
+msgid "Kirinyaga"
+msgstr "Shinyanga"
+
+#. Name for KE-16
+msgid "Kisii"
+msgstr ""
+
+#. Name for KE-17
+msgid "Kisumu"
+msgstr ""
+
+#. Name for KE-18
+msgid "Kitui"
+msgstr ""
+
+#. Name for KE-19
+msgid "Kwale"
+msgstr ""
+
+#. Name for KE-20
+msgid "Laikipia"
+msgstr ""
+
+#. Name for KE-21
+msgid "Lamu"
+msgstr ""
+
+#. Name for KE-22
+#, fuzzy
+#| msgid "Maracha"
+msgid "Machakos"
+msgstr "Maracha"
+
+#. Name for KE-23
+msgid "Makueni"
+msgstr ""
+
+#. Name for KE-24
+#, fuzzy
+#| msgid "Mandiana"
+msgid "Mandera"
+msgstr "Mandiana"
+
+#. Name for KE-25
+#, fuzzy
+#| msgid "Marsa"
+msgid "Marsabit"
+msgstr "Marsa"
+
+#. Name for KE-26
+msgid "Meru"
+msgstr ""
+
+#. Name for KE-27
+msgid "Migori"
+msgstr ""
+
+#. Name for KE-28
+#, fuzzy
+#| msgid "Zomba"
+msgid "Mombasa"
+msgstr "Zomba"
+
+#. Name for KE-29
+#, fuzzy
+#| msgid "Durango"
+msgid "Murang'a"
+msgstr "Durango"
+
+#. Name for KE-30
+#, fuzzy
+#| msgid "Taipei City"
+msgid "Nairobi City"
+msgstr "Taipei City"
+
+#. Name for KE-31
+msgid "Nakuru"
+msgstr ""
+
+#. Name for KE-32
+#, fuzzy
+#| msgid "Normandie"
+msgid "Nandi"
+msgstr "Normandia"
+
+#. Name for KE-33
+msgid "Narok"
+msgstr ""
+
+#. Name for KE-34
+msgid "Nyamira"
+msgstr ""
+
+#. Name for KE-35
+#, fuzzy
+#| msgid "Bandarban"
+msgid "Nyandarua"
+msgstr "Bandarban"
+
+#. Name for KE-36
+msgid "Nyeri"
+msgstr ""
+
+#. Name for KE-37
+#, fuzzy
+#| msgid "Hamburg"
+msgid "Samburu"
+msgstr "Amburgo"
+
+#. Name for KE-38
+msgid "Siaya"
+msgstr ""
+
+#. Name for KE-39
+msgid "Taita/Taveta"
+msgstr ""
+
+#. Name for KE-40
+#, fuzzy
+#| msgid "Central River"
+msgid "Tana River"
+msgstr "Central River"
+
+#. Name for KE-41
+msgid "Tharaka-Nithi"
+msgstr ""
+
+#. Name for KE-42
+msgid "Trans Nzoia"
+msgstr ""
+
+#. Name for KE-43
+#, fuzzy
+#| msgid "Arkansas"
+msgid "Turkana"
+msgstr "Arkansas"
+
+#. Name for KE-44
+msgid "Uasin Gishu"
+msgstr ""
+
+#. Name for KE-45
+#, fuzzy
+#| msgid "Shiga"
+msgid "Vihiga"
+msgstr "Shiga"
+
+#. Name for KE-46
+msgid "Wajir"
+msgstr ""
+
+#. Name for KE-47
+#, fuzzy
+#| msgid "West Coast"
+msgid "West Pokot"
+msgstr "West Coast"
 
 #. Name for KG-B
 msgid "Batken"
@@ -10393,10 +10571,8 @@ msgid "Fahs-Anjra"
 msgstr ""
 
 #. Name for MA-FES
-#, fuzzy
-#| msgid "Thiès"
 msgid "Fès"
-msgstr "Thiès"
+msgstr "Fez"
 
 #. Name for MA-FIG
 msgid "Figuig"
@@ -12212,7 +12388,7 @@ msgstr "Chiapas"
 
 #. Name for MX-CMX
 msgid "Ciudad de México"
-msgstr ""
+msgstr "Città del Messico"
 
 #. Name for MX-COA
 msgid "Coahuila de Zaragoza"
@@ -17725,10 +17901,6 @@ msgstr "Lyantonde"
 #. Name for UG-201
 msgid "Bugiri"
 msgstr "Bugiri"
-
-#. Name for UG-202
-msgid "Busia"
-msgstr "Busia"
 
 #. Name for UG-203
 msgid "Iganga"

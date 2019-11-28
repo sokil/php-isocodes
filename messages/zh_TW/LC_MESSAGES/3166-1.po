@@ -11,14 +11,15 @@
 # Tetralet <tetralet@gmail.com>, 2004, 2007-2010.
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2010, 2012-2013.
 # Louies <louies0623@gmail.com>, 2019.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-01-14 17:20+0000\n"
-"Last-Translator: Louies <louies0623@gmail.com>\n"
+"PO-Revision-Date: 2019-10-18 14:54+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-3166-1/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -593,10 +594,8 @@ msgid "Gambia"
 msgstr "甘比亞"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "尚比亞共和國"
+msgstr "甘比亞共和國"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -987,16 +986,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "馬紹爾群島共和國"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "新喀里多尼亞"
+msgstr "北馬其頓"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "立陶宛共和國"
+msgstr "北馬其頓共和國"
 
 #. Name for MLI
 msgid "Mali"
@@ -1156,7 +1151,7 @@ msgstr "尼泊爾聯邦民主共和國"
 
 #. Name for NRU
 msgid "Nauru"
-msgstr "諾魯語"
+msgstr "諾魯"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
@@ -1444,13 +1439,11 @@ msgstr "瑞典王國"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "史瓦帝尼"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "西班牙王國"
+msgstr "史瓦帝尼王國"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1554,7 +1547,7 @@ msgstr "土耳其共和國"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "吐瓦魯語"
+msgstr "吐瓦魯"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"

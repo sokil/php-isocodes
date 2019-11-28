@@ -6,14 +6,16 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
+# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-04-07 21:04+0000\n"
-"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
+"PO-Revision-Date: 2019-11-06 19:04+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/es/>\n"
 "Language: es\n"
@@ -21,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -57,7 +59,7 @@ msgstr "armenio"
 
 #. Name for Avst
 msgid "Avestan"
-msgstr "avéstico"
+msgstr "Avestan"
 
 #. Name for Bali
 msgid "Balinese"
@@ -73,7 +75,7 @@ msgstr "Bassa Vah"
 
 #. Name for Batk
 msgid "Batak"
-msgstr "batak"
+msgstr "Batak"
 
 #. Name for Beng
 msgid "Bengali"
@@ -85,7 +87,7 @@ msgstr "Bhaiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
-msgstr "símbolos Bliss"
+msgstr "Símbolos Bliss"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -105,11 +107,11 @@ msgstr "buguinés"
 
 #. Name for Buhd
 msgid "Buhid"
-msgstr "buhid"
+msgstr "Buhid"
 
 #. Name for Cakm
 msgid "Chakma"
-msgstr "chakma"
+msgstr "Chakma"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
@@ -117,7 +119,7 @@ msgstr "silabarios indígenas canadienses unificados"
 
 #. Name for Cari
 msgid "Carian"
-msgstr "cario"
+msgstr "Cario"
 
 #. Name for Cham
 msgid "Cham"
@@ -317,7 +319,7 @@ msgstr "Khitan letra pequeña"
 
 #. Name for Knda
 msgid "Kannada"
-msgstr "canarés"
+msgstr "Canarés"
 
 #. Name for Kore
 msgid "Korean (alias for Hangul + Han)"
@@ -349,7 +351,7 @@ msgstr "latino (variante gaélica)"
 
 #. Name for Latn
 msgid "Latin"
-msgstr "latino"
+msgstr "Latín"
 
 #. Name for Leke
 msgid "Leke"
@@ -361,11 +363,11 @@ msgstr "lepcha (Róng)"
 
 #. Name for Limb
 msgid "Limbu"
-msgstr "limbu"
+msgstr "Limbu"
 
 #. Name for Lina
 msgid "Linear A"
-msgstr "lineal A"
+msgstr "Lineal A"
 
 #. Name for Linb
 msgid "Linear B"
@@ -381,11 +383,11 @@ msgstr "Loma"
 
 #. Name for Lyci
 msgid "Lycian"
-msgstr "licio"
+msgstr "Licio"
 
 #. Name for Lydi
 msgid "Lydian"
-msgstr "lidio"
+msgstr "Lidio"
 
 #. Name for Mahj
 msgid "Mahajani"
@@ -601,7 +603,7 @@ msgstr "Khudawadi, Sindi"
 
 #. Name for Sinh
 msgid "Sinhala"
-msgstr "binhala"
+msgstr "Cingalés"
 
 #. Name for Sora
 msgid "Sora Sompeng"
@@ -617,7 +619,7 @@ msgstr "Syloti Nagri"
 
 #. Name for Syrc
 msgid "Syriac"
-msgstr "siríaco"
+msgstr "Siriaco"
 
 #. Name for Syre
 msgid "Syriac (Estrangelo variant)"
@@ -633,7 +635,7 @@ msgstr "siríaco (variante oriental)"
 
 #. Name for Tagb
 msgid "Tagbanwa"
-msgstr "tagbanúa"
+msgstr "Tagbanua"
 
 #. Name for Takr
 msgid "Takri, Ṭākrī, Ṭāṅkrī"
@@ -661,7 +663,7 @@ msgstr "Tai Viet"
 
 #. Name for Telu
 msgid "Telugu"
-msgstr "telugu"
+msgstr "Telugu"
 
 #. Name for Teng
 msgid "Tengwar"
@@ -669,7 +671,7 @@ msgstr "tengwar"
 
 #. Name for Tfng
 msgid "Tifinagh (Berber)"
-msgstr "tifinagh (bereber)"
+msgstr "tifinag (bereber)"
 
 #. Name for Tglg
 msgid "Tagalog (Baybayin, Alibata)"
@@ -681,7 +683,7 @@ msgstr "thaana"
 
 #. Name for Thai
 msgid "Thai"
-msgstr "tailandés"
+msgstr "Tailandés"
 
 #. Name for Tibt
 msgid "Tibetan"
@@ -701,7 +703,7 @@ msgstr "Vai"
 
 #. Name for Visp
 msgid "Visible Speech"
-msgstr "Visible Speech"
+msgstr "discurso visible"
 
 #. Name for Wara
 msgid "Warang Citi (Varang Kshiti)"

@@ -8,7 +8,7 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Cezary Jackiewicz <cjackiewicz@poczta.onet.pl>, 2000-2001.
 # GNOME PL Team <translators@gnome.pl>, 2001.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2019.
 # WaldiS <admin@sto.ugu.pl>, 2018.
 msgid ""
 msgstr ""
@@ -16,8 +16,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-07 09:08+0000\n"
-"Last-Translator: WaldiS <admin@sto.ugu.pl>\n"
+"PO-Revision-Date: 2019-09-22 13:38+0000\n"
+"Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/pl/>\n"
 "Language: pl\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -2011,7 +2011,7 @@ msgstr ""
 
 #. Name for atz
 msgid "Arta"
-msgstr ""
+msgstr "arta"
 
 #. Name for aua
 msgid "Asumboa"
@@ -3683,7 +3683,7 @@ msgstr ""
 
 #. Name for bku
 msgid "Buhid"
-msgstr ""
+msgstr "buhid"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -5587,7 +5587,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr ""
+msgstr "czakma"
 
 #. Name for ccr
 msgid "Cacaopera"
@@ -5775,7 +5775,7 @@ msgstr ""
 
 #. Name for chk
 msgid "Chuukese"
-msgstr "chuuk"
+msgstr "chuuk; truk"
 
 #. Name for chl
 msgid "Cahuilla"
@@ -9875,7 +9875,7 @@ msgstr ""
 
 #. Name for gez
 msgid "Geez"
-msgstr "gyyz"
+msgstr "gyyz; geez"
 
 #. Name for gfk
 msgid "Patpatar"
@@ -10159,7 +10159,7 @@ msgstr "irlandzki"
 
 #. Name for glg
 msgid "Galician"
-msgstr "galicyjski"
+msgstr "galicyjski; galisyjski"
 
 #. Name for glh
 msgid "Northwest Pashai"
@@ -13147,7 +13147,7 @@ msgstr ""
 
 #. Name for juc
 msgid "Jurchen"
-msgstr ""
+msgstr "dżurdżeński"
 
 #. Name for jud
 msgid "Worodougou"
@@ -14155,7 +14155,7 @@ msgstr "tofa"
 
 #. Name for kin
 msgid "Kinyarwanda"
-msgstr "ruanda"
+msgstr "rwanda"
 
 #. Name for kio
 msgid "Kiowa"
@@ -14587,7 +14587,7 @@ msgstr ""
 
 #. Name for kmb
 msgid "Kimbundu"
-msgstr "kimbundu"
+msgstr "kimbundu; mbundu"
 
 #. Name for kmc
 msgid "Southern Dong"
@@ -16187,7 +16187,7 @@ msgstr ""
 
 #. Name for lab
 msgid "Linear A"
-msgstr ""
+msgstr "linearny A"
 
 #. Name for lac
 msgid "Lacandon"
@@ -17527,7 +17527,7 @@ msgstr ""
 
 #. Name for lus
 msgid "Lushai"
-msgstr "lushai"
+msgstr "mizo; lushai"
 
 #. Name for lut
 msgid "Lushootseed"
@@ -22927,7 +22927,7 @@ msgstr ""
 
 #. Name for nyj
 msgid "Nyanga"
-msgstr ""
+msgstr "nyanga"
 
 #. Name for nyk
 msgid "Nyaneka"
@@ -26811,7 +26811,7 @@ msgstr "saya"
 
 #. Name for saz
 msgid "Saurashtra"
-msgstr ""
+msgstr "saurasztryjski"
 
 #. Name for sba
 msgid "Ngambay"
@@ -29319,7 +29319,7 @@ msgstr "tobo"
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr ""
+msgstr "tagbanwa"
 
 #. Name for tbx
 msgid "Kapin"
@@ -33971,7 +33971,7 @@ msgstr ""
 
 #. Name for xkv
 msgid "Kgalagadi"
-msgstr ""
+msgstr "kgalagadi"
 
 #. Name for xkw
 msgid "Kembra"

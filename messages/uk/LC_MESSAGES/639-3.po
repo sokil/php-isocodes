@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
-# Yuri Chornoivan <yurchor@ukr.net>, 2010-2015.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010-2015, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-26 08:23+0000\n"
+"PO-Revision-Date: 2019-10-05 09:56+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/uk/>\n"
@@ -21,9 +21,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -8399,7 +8399,7 @@ msgstr "ебрі"
 
 #. Name for ebu
 msgid "Embu"
-msgstr "ембу"
+msgstr "Ембу"
 
 #. Name for ecr
 msgid "Eteocretan"
@@ -16931,7 +16931,7 @@ msgstr "лоле"
 
 #. Name for llh
 msgid "Lamu"
-msgstr "ламу"
+msgstr "Ламу"
 
 #. Name for lli
 msgid "Teke-Laali"
@@ -18211,7 +18211,7 @@ msgstr "мерей"
 
 #. Name for mer
 msgid "Meru"
-msgstr "меру"
+msgstr "Меру"
 
 #. Name for mes
 msgid "Masmaje"
@@ -21555,7 +21555,7 @@ msgstr "нганасан"
 
 #. Name for niq
 msgid "Nandi"
-msgstr "нанді"
+msgstr "Нанді"
 
 #. Name for nir
 msgid "Nimboran"
@@ -26771,7 +26771,7 @@ msgstr "саусе"
 
 #. Name for saq
 msgid "Samburu"
-msgstr "самбуру"
+msgstr "Самбуру"
 
 #. Name for sar
 msgid "Saraveca"
@@ -31191,7 +31191,7 @@ msgstr "тутутні"
 
 #. Name for tuv
 msgid "Turkana"
-msgstr "туркана"
+msgstr "Туркана"
 
 #. Name for tux
 msgid "Tuxináwa"

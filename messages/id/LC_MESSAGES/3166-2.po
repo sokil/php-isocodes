@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-08-01 13:16+0200\n"
-"PO-Revision-Date: 2019-08-02 17:12+0000\n"
+"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"PO-Revision-Date: 2019-10-06 23:56+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/id/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2207,7 +2207,7 @@ msgstr "Gasa"
 msgid "Trashi Yangtse"
 msgstr "Trashi Yangtse"
 
-#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for KE-200, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
+#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
 msgid "Central"
 msgstr "Central"
 
@@ -4779,7 +4779,7 @@ msgstr "Uusimaa"
 msgid "Varsinais-Suomi"
 msgstr "Varsinais-Suomi"
 
-#. Name for FJ-E, Name for GH-EP, Name for KE-400, Name for SL-E, Name for UG-E, Name for ZM-03
+#. Name for FJ-E, Name for GH-EP, Name for SL-E, Name for UG-E, Name for ZM-03
 msgid "Eastern"
 msgstr "Belahan Timur"
 
@@ -8747,25 +8747,193 @@ msgstr "Kagoshima"
 msgid "Okinawa"
 msgstr "Okinawa"
 
-#. Name for KE-110
-msgid "Nairobi Municipality"
-msgstr "Nairobi Municipality"
+#. Name for KE-01
+msgid "Baringo"
+msgstr "Baringo"
 
-#. Name for KE-300
-msgid "Coast"
-msgstr "Coast"
+#. Name for KE-02
+msgid "Bomet"
+msgstr "Bomet"
 
-#. Name for KE-500
-msgid "North-Eastern Kaskazini Mashariki"
-msgstr "North-Eastern Kaskazini Mashariki"
+#. Name for KE-03
+msgid "Bungoma"
+msgstr "Bungoma"
 
-#. Name for KE-700
-msgid "Rift Valley"
-msgstr "Rift Valley"
+#. Name for KE-04, Name for UG-202
+msgid "Busia"
+msgstr "Busia"
 
-#. Name for KE-800
-msgid "Western Magharibi"
-msgstr "Western Magharibi"
+#. Name for KE-05
+msgid "Elgeyo/Marakwet"
+msgstr "Elgeyo/Marakwet"
+
+#. Name for KE-06
+msgid "Embu"
+msgstr "Embu"
+
+#. Name for KE-07
+msgid "Garissa"
+msgstr "Garissa"
+
+#. Name for KE-08
+msgid "Homa Bay"
+msgstr "Homa Bay"
+
+#. Name for KE-09
+msgid "Isiolo"
+msgstr "Isiolo"
+
+#. Name for KE-10
+msgid "Kajiado"
+msgstr "Kajiado"
+
+#. Name for KE-11
+msgid "Kakamega"
+msgstr "Kakamega"
+
+#. Name for KE-12
+msgid "Kericho"
+msgstr "Kericho"
+
+#. Name for KE-13
+msgid "Kiambu"
+msgstr "Kiambu"
+
+#. Name for KE-14
+msgid "Kilifi"
+msgstr "Kilifi"
+
+#. Name for KE-15
+msgid "Kirinyaga"
+msgstr "Kirinyaga"
+
+#. Name for KE-16
+msgid "Kisii"
+msgstr "Kisii"
+
+#. Name for KE-17
+msgid "Kisumu"
+msgstr "Kisumu"
+
+#. Name for KE-18
+msgid "Kitui"
+msgstr "Kitui"
+
+#. Name for KE-19
+msgid "Kwale"
+msgstr "Kwale"
+
+#. Name for KE-20
+msgid "Laikipia"
+msgstr "Laikipia"
+
+#. Name for KE-21
+msgid "Lamu"
+msgstr "Lamu"
+
+#. Name for KE-22
+msgid "Machakos"
+msgstr "Machakos"
+
+#. Name for KE-23
+msgid "Makueni"
+msgstr "Makueni"
+
+#. Name for KE-24
+msgid "Mandera"
+msgstr "Mandera"
+
+#. Name for KE-25
+msgid "Marsabit"
+msgstr "Marsabit"
+
+#. Name for KE-26
+msgid "Meru"
+msgstr "Meru"
+
+#. Name for KE-27
+msgid "Migori"
+msgstr "Migori"
+
+#. Name for KE-28
+msgid "Mombasa"
+msgstr "Mombasa"
+
+#. Name for KE-29
+msgid "Murang'a"
+msgstr "Murang'a"
+
+#. Name for KE-30
+msgid "Nairobi City"
+msgstr "Nairobi City"
+
+#. Name for KE-31
+msgid "Nakuru"
+msgstr "Nakuru"
+
+#. Name for KE-32
+msgid "Nandi"
+msgstr "Nandi"
+
+#. Name for KE-33
+msgid "Narok"
+msgstr "Narok"
+
+#. Name for KE-34
+msgid "Nyamira"
+msgstr "Nyamira"
+
+#. Name for KE-35
+msgid "Nyandarua"
+msgstr "Nyandarua"
+
+#. Name for KE-36
+msgid "Nyeri"
+msgstr "Nyeri"
+
+#. Name for KE-37
+msgid "Samburu"
+msgstr "Samburu"
+
+#. Name for KE-38
+msgid "Siaya"
+msgstr "Siaya"
+
+#. Name for KE-39
+msgid "Taita/Taveta"
+msgstr "Taita/Taveta"
+
+#. Name for KE-40
+msgid "Tana River"
+msgstr "Tana River"
+
+#. Name for KE-41
+msgid "Tharaka-Nithi"
+msgstr "Tharaka-Nithi"
+
+#. Name for KE-42
+msgid "Trans Nzoia"
+msgstr "Trans Nzoia"
+
+#. Name for KE-43
+msgid "Turkana"
+msgstr "Turkana"
+
+#. Name for KE-44
+msgid "Uasin Gishu"
+msgstr "Uasin Gishu"
+
+#. Name for KE-45
+msgid "Vihiga"
+msgstr "Vihiga"
+
+#. Name for KE-46
+msgid "Wajir"
+msgstr "Wajir"
+
+#. Name for KE-47
+msgid "West Pokot"
+msgstr "West Pokot"
 
 #. Name for KG-B
 msgid "Batken"
@@ -17590,10 +17758,6 @@ msgstr "Lyantonde"
 #. Name for UG-201
 msgid "Bugiri"
 msgstr "Bugiri"
-
-#. Name for UG-202
-msgid "Busia"
-msgstr "Busia"
 
 #. Name for UG-203
 msgid "Iganga"

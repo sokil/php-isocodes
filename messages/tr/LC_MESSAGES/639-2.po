@@ -11,14 +11,15 @@
 # Volkan Gezer <volkangezer@gmail.com>, 2013.
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
 # Serdar Sağlam <teknomobil@msn.com>, 2019.
+# Oguz Ersen <oguzersen@protonmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-03-17 23:04+0000\n"
-"Last-Translator: Serdar Sağlam <teknomobil@msn.com>\n"
+"PO-Revision-Date: 2019-09-30 13:56+0000\n"
+"Last-Translator: Oguz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/tr/>\n"
 "Language: tr\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -480,7 +481,7 @@ msgstr "Dravid dilleri"
 
 #. Name for dsb
 msgid "Lower Sorbian"
-msgstr "Aşağı Sırpça"
+msgstr "Aşağı Sorbca"
 
 #. Name for dua
 msgid "Duala"
@@ -488,7 +489,7 @@ msgstr "Duala Dili"
 
 #. Name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "Flamanca, Orta dönem (1050-1350 dolayları)"
+msgstr "Flemenkçe, Orta dönem (1050-1350 dolayları)"
 
 #. Name for dyu
 msgid "Dyula"
@@ -590,7 +591,7 @@ msgstr "Fransızca"
 
 #. Name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "French, Middle (ca. 1400-1600)"
+msgstr "Fransızca, Orta dönem (1400-1600 dolayları)"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
@@ -598,7 +599,7 @@ msgstr "French, Old (842-ca. 1400)"
 
 #. Name for frr
 msgid "Northern Frisian"
-msgstr "Kuzey Frizyeli Dili"
+msgstr "Kuzey Frizya dili"
 
 #. Name for frs
 msgid "Eastern Frisian"
@@ -606,7 +607,7 @@ msgstr "Doğu Frizyeli Dili"
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr "Batı Frizyeli Dili"
+msgstr "Batı Frizya dili"
 
 #. Name for ful
 msgid "Fulah"
@@ -659,7 +660,7 @@ msgstr "Manx (Galler)"
 
 #. Name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "German, Middle High (ca. 1050-1500)"
+msgstr "Almanca, Üst Orta dönem (1050-1500 dolayları)"
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
@@ -672,7 +673,7 @@ msgstr "Gondi (Hindistan)"
 
 #. Name for gor
 msgid "Gorontalo"
-msgstr "Gorontalo (Endonezya)"
+msgstr "Gorontalo"
 
 #. Name for got
 msgid "Gothic"
@@ -688,7 +689,7 @@ msgstr "Yunanca, Eski (1453'e kadar)"
 
 #. Name for grn
 msgid "Guarani"
-msgstr "Guarani (Paraguay)"
+msgstr "Guarani"
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
@@ -696,7 +697,7 @@ msgstr "İsviçre Almancası; Alemannik; Alsaslıca"
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "Gujarati (Hindistan)"
+msgstr "Gujarati"
 
 #. Name for gwi
 msgid "Gwich'in"
@@ -759,7 +760,7 @@ msgstr "Hırvatça"
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Yukarı Sırpça"
+msgstr "Yukarı Sorbca"
 
 #. Name for hun
 msgid "Hungarian"
@@ -816,7 +817,7 @@ msgstr "Hint dilleri"
 
 #. Name for ind
 msgid "Indonesian"
-msgstr "Endonezce"
+msgstr "Endonezyaca"
 
 #. Name for ine
 msgid "Indo-European languages"
@@ -849,7 +850,7 @@ msgstr "İtalyanca"
 
 #. Name for jav
 msgid "Javanese"
-msgstr "Javanese"
+msgstr "Cava dili"
 
 #. Name for jbo
 msgid "Lojban"
@@ -1021,7 +1022,7 @@ msgstr "Lamba"
 
 #. Name for lao
 msgid "Lao"
-msgstr "Laos Dili"
+msgstr "Laoca"
 
 #. Name for lat
 msgid "Latin"
@@ -1045,7 +1046,7 @@ msgstr "Lingala"
 
 #. Name for lit
 msgid "Lithuanian"
-msgstr "Litvanca"
+msgstr "Litvanyaca"
 
 #. Name for lol
 msgid "Mongo"
@@ -1143,7 +1144,7 @@ msgstr "Mende"
 
 #. Name for mga
 msgid "Irish, Middle (900-1200)"
-msgstr "Irish, Middle (900-1200)"
+msgstr "İrlandaca, Orta dönem (900-1200)"
 
 #. Name for mic
 msgid "Mi'kmaq; Micmac"
@@ -1221,15 +1222,15 @@ msgstr "Creek"
 # src/prefs.c:1124 src/prefs_callbacks.c:222 src/prefs_callbacks.c:396
 #. Name for mwl
 msgid "Mirandese"
-msgstr "Mirandaca"
+msgstr "Miranda dili"
 
 #. Name for mwr
 msgid "Marwari"
-msgstr "Marwarice"
+msgstr "Marwari"
 
 #. Name for mya
 msgid "Burmese"
-msgstr "Burmaca"
+msgstr "Birmanca"
 
 #. Name for myn
 msgid "Mayan languages"
@@ -1428,7 +1429,7 @@ msgstr "Filipin dilleri"
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Fenikçe"
+msgstr "Fenike dili"
 
 #. Name for pli
 msgid "Pali"
@@ -1602,11 +1603,11 @@ msgstr "Slovence"
 
 #. Name for sma
 msgid "Southern Sami"
-msgstr "Güney Sami"
+msgstr "Güney Sami dili"
 
 #. Name for sme
 msgid "Northern Sami"
-msgstr "Kuzey Sami"
+msgstr "Kuzey Sami dili"
 
 #. Name for smi
 msgid "Sami languages"
@@ -1695,7 +1696,7 @@ msgstr "Sukuma"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Sudan Dili"
+msgstr "Sundaca"
 
 #. Name for sus
 msgid "Susu"
@@ -1719,7 +1720,7 @@ msgstr "Klasik Süryanice"
 
 #. Name for syr
 msgid "Syriac"
-msgstr "Syriac"
+msgstr "Süryanice"
 
 #. Name for tah
 msgid "Tahitian"
@@ -1763,7 +1764,7 @@ msgstr "Tagalogca"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Taylandça"
+msgstr "Tayca"
 
 #. Name for tig
 msgid "Tigre"
@@ -1855,7 +1856,7 @@ msgstr "Udmurt"
 
 #. Name for uga
 msgid "Ugaritic"
-msgstr "Ugaritic"
+msgstr "Ugaritçe"
 
 #. Name for uig
 msgid "Uighur; Uyghur"

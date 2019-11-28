@@ -5,7 +5,7 @@
 # .
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2019.
 # WaldiS <admin@sto.ugu.pl>, 2018.
 msgid ""
 msgstr ""
@@ -13,8 +13,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-11-07 09:08+0000\n"
-"Last-Translator: WaldiS <admin@sto.ugu.pl>\n"
+"PO-Revision-Date: 2019-09-20 18:28+0000\n"
+"Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/pl/>\n"
 "Language: pl\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for Adlm
@@ -328,7 +328,7 @@ msgstr "koreański (hangyl, hancha)"
 
 #. Name for Kpel
 msgid "Kpelle"
-msgstr "kpele"
+msgstr "kpelle"
 
 #. Name for Kthi
 msgid "Kaithi"
@@ -580,7 +580,7 @@ msgstr "staro-południowo-arabski"
 
 #. Name for Saur
 msgid "Saurashtra"
-msgstr "sourasztra"
+msgstr "saurasztryjski"
 
 #. Name for Sgnw
 msgid "SignWriting"

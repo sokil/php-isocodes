@@ -10,14 +10,16 @@
 # Javier Fernández-Sanguino Peña <jfs@debian.org>, 2004.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Luis A. Arizmendi <luis.arizmendi@mailfence.com>, 2019.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
+# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-07-03 12:46+0000\n"
-"Last-Translator: Luis A. Arizmendi <luis.arizmendi@mailfence.com>\n"
+"PO-Revision-Date: 2019-11-08 18:04+0000\n"
+"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/es/>\n"
 "Language: es\n"
@@ -25,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -4038,7 +4040,6 @@ msgid "Boloki"
 msgstr "Boloki"
 
 #. Name for bku
-#, fuzzy
 msgid "Buhid"
 msgstr "Buhid"
 
@@ -5688,9 +5689,8 @@ msgid "Binahari"
 msgstr "Bihari"
 
 #. Name for bya
-#, fuzzy
 msgid "Batak"
-msgstr "Basa"
+msgstr "Batak"
 
 #. Name for byb
 #, fuzzy
@@ -6221,7 +6221,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr ""
+msgstr "Chakma"
 
 #. Name for ccr
 msgid "Cacaopera"
@@ -8791,9 +8791,8 @@ msgid "Domu"
 msgstr ""
 
 #. Name for doh
-#, fuzzy
 msgid "Dong"
-msgstr "Mongo"
+msgstr "Dong"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -12561,7 +12560,7 @@ msgstr ""
 
 #. Name for hil
 msgid "Hiligaynon"
-msgstr "Hiligaynon"
+msgstr "Hiligainón"
 
 #. Name for hin
 msgid "Hindi"
@@ -14868,7 +14867,7 @@ msgstr ""
 
 #. Name for kan
 msgid "Kannada"
-msgstr "Kannada"
+msgstr "Canarés"
 
 #. Name for kao
 msgid "Xaasongaxango"
@@ -18184,9 +18183,8 @@ msgid "Subanen, Southern"
 msgstr "Sotho del Norte"
 
 #. Name for lab
-#, fuzzy
 msgid "Linear A"
-msgstr "Lingala"
+msgstr "Lineal A"
 
 #. Name for lac
 msgid "Lacandon"
@@ -18798,9 +18796,8 @@ msgid "Likila"
 msgstr "Siksika"
 
 #. Name for lif
-#, fuzzy
 msgid "Limbu"
-msgstr "Limburgiano"
+msgstr "Limbu"
 
 #. Name for lig
 msgid "Ligbi"
@@ -19491,9 +19488,8 @@ msgid "Loarki"
 msgstr "Lozi"
 
 #. Name for lrl
-#, fuzzy
 msgid "Lari"
-msgstr "Mari"
+msgstr "Lari"
 
 #. Name for lrm
 #, fuzzy
@@ -31011,9 +31007,8 @@ msgid "Mende (Papua New Guinea)"
 msgstr ""
 
 #. Name for sin
-#, fuzzy
 msgid "Sinhala"
-msgstr "Sundanés"
+msgstr "Cingalés"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -31430,9 +31425,8 @@ msgid "Simbari"
 msgstr "Bihari"
 
 #. Name for smc
-#, fuzzy
 msgid "Som"
-msgstr "Somalí"
+msgstr "Som"
 
 #. Name for smd
 #, fuzzy
@@ -32755,7 +32749,7 @@ msgstr ""
 
 #. Name for syr
 msgid "Syriac"
-msgstr "Syriac"
+msgstr "Siriaco"
 
 #. Name for sys
 msgid "Sinyar"
@@ -32880,9 +32874,8 @@ msgid "Tamang, Eastern"
 msgstr ""
 
 #. Name for tak
-#, fuzzy
 msgid "Tala"
-msgstr "Tataro"
+msgstr "Tala"
 
 #. Name for tal
 #, fuzzy
@@ -33072,7 +33065,7 @@ msgstr ""
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr ""
+msgstr "Tagbanua"
 
 #. Name for tbx
 #, fuzzy
@@ -33399,7 +33392,7 @@ msgstr ""
 
 #. Name for tel
 msgid "Telugu"
-msgstr "Telougou"
+msgstr "Telugu"
 
 #. Name for tem
 msgid "Timne"
@@ -33617,7 +33610,7 @@ msgstr "Palauan"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Thai"
+msgstr "Tailandés"
 
 #. Name for thd
 msgid "Thayore"
@@ -37974,9 +37967,8 @@ msgid "Chorasmian"
 msgstr "Corso"
 
 #. Name for xcr
-#, fuzzy
 msgid "Carian"
-msgstr "Caribe"
+msgstr "Cario"
 
 #. Name for xct
 msgid "Classical Tibetan"
@@ -38363,14 +38355,12 @@ msgid "Loup B"
 msgstr ""
 
 #. Name for xlc
-#, fuzzy
 msgid "Lycian"
-msgstr "Letón"
+msgstr "Licio"
 
 #. Name for xld
-#, fuzzy
 msgid "Lydian"
-msgstr "Ladino (Judeo-español)"
+msgstr "Lidio"
 
 #. Name for xle
 #, fuzzy
@@ -40787,7 +40777,7 @@ msgstr "Arawak"
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr ""
+msgstr "Símbolos Bliss"
 
 #. Name for zbt
 #, fuzzy
