@@ -9,14 +9,15 @@
 # Juan Manuel García Molina <juanmagm@mail.com>, 2001.
 # advocatux <advocatux@airpost.net>, 2018.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
+# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-04-07 21:04+0000\n"
-"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
+"PO-Revision-Date: 2019-11-22 18:04+0000\n"
+"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/es/>\n"
 "Language: es\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -84,7 +85,7 @@ msgstr ""
 
 #. Name for AF-BAL
 msgid "Balkh"
-msgstr ""
+msgstr "Balkh"
 
 #. Name for AF-BAM
 msgid "Bāmyān"
@@ -147,7 +148,6 @@ msgid "Kābul"
 msgstr ""
 
 #. Name for AF-KAN
-#, fuzzy
 msgid "Kandahār"
 msgstr "Canadá"
 
@@ -176,62 +176,52 @@ msgid "Lōgar"
 msgstr ""
 
 #. Name for AF-NAN
-#, fuzzy
 msgid "Nangarhār"
-msgstr "Tonga"
+msgstr "Nangarjar"
 
 #. Name for AF-NIM
 msgid "Nīmrōz"
-msgstr ""
+msgstr "Nimruz"
 
 #. Name for AF-NUR
-#, fuzzy
 msgid "Nūristān"
-msgstr "Lesoto"
+msgstr "Nurestán"
 
 #. Name for AF-PAN
-#, fuzzy
 msgid "Panjshayr"
-msgstr "New Hampshire"
+msgstr "Panjshir"
 
 #. Name for AF-PAR
-#, fuzzy
 msgid "Parwān"
-msgstr "Bahrein"
+msgstr "Paruán"
 
 #. Name for AF-PIA
-#, fuzzy
 msgid "Paktiyā"
-msgstr "Pakistán"
+msgstr "Paktia"
 
 #. Name for AF-PKA
-#, fuzzy
 msgid "Paktīkā"
-msgstr "Pakistán"
+msgstr "Paktiká"
 
 #. Name for AF-SAM
-#, fuzzy
 msgid "Samangān"
-msgstr "Samoa"
+msgstr "Samangan"
 
 #. Name for AF-SAR
 msgid "Sar-e Pul"
-msgstr ""
+msgstr "Sar-e Pul"
 
 #. Name for AF-TAK
-#, fuzzy
 msgid "Takhār"
-msgstr "Samoa"
+msgstr "Tajar"
 
 #. Name for AF-URU
-#, fuzzy
 msgid "Uruzgān"
-msgstr "Oregon"
+msgstr "Uruzgán"
 
 #. Name for AF-WAR
-#, fuzzy
 msgid "Wardak"
-msgstr "Guyana"
+msgstr "Vardak"
 
 #. Name for AF-ZAB
 msgid "Zābul"
@@ -2131,7 +2121,7 @@ msgstr "Santa Lucía"
 
 #. Name for BR-AC
 msgid "Acre"
-msgstr ""
+msgstr "Acre"
 
 #. Name for BR-AL
 #, fuzzy
@@ -2139,9 +2129,8 @@ msgid "Alagoas"
 msgstr "Angola"
 
 #. Name for BR-AM, Name for CO-AMA, Name for PE-AMA, Name for VE-Z
-#, fuzzy
 msgid "Amazonas"
-msgstr "Arizona"
+msgstr "Amazonas"
 
 #. Name for BR-AP
 #, fuzzy
@@ -2160,15 +2149,15 @@ msgstr "Canadá"
 
 #. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
-msgstr ""
+msgstr "Distrito Federal"
 
 #. Name for BR-ES
 msgid "Espírito Santo"
-msgstr ""
+msgstr "Espíritu Santo"
 
 #. Name for BR-FN
 msgid "Fernando de Noronha"
-msgstr ""
+msgstr "Fernando de Noronha"
 
 #. Name for BR-GO
 #, fuzzy
@@ -2176,9 +2165,8 @@ msgid "Goiás"
 msgstr "Georgia"
 
 #. Name for BR-MA
-#, fuzzy
 msgid "Maranhão"
-msgstr "Mauritania"
+msgstr "Marañon"
 
 #. Name for BR-MG
 msgid "Minas Gerais"
@@ -7762,7 +7750,7 @@ msgstr "India"
 
 #. Name for HN-LE
 msgid "Lempira"
-msgstr ""
+msgstr "Lempira"
 
 #. Name for HN-OC
 msgid "Ocotepeque"

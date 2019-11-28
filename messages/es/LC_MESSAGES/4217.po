@@ -10,14 +10,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Javier Fernandez-Sanguino <jfs@debian.org>, 2004-2011.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
+# Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-04-07 21:04+0000\n"
-"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
+"PO-Revision-Date: 2019-11-08 18:04+0000\n"
+"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/es/>\n"
 "Language: es\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 3.10-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -249,7 +250,7 @@ msgstr "Dólar de Hong Kong"
 
 #. Name for HNL
 msgid "Lempira"
-msgstr "Lempira hondureño"
+msgstr "Lempira"
 
 #. Name for HRK
 msgid "Kuna"

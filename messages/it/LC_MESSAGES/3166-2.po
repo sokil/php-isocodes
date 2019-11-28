@@ -8,14 +8,16 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Andrea Scialpi <solopec@tiscalinet.it>, 2001.
 # Milo Casagrande <milo@ubuntu.com>, 2008-2013, 2017-2018.
+# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2018-06-12 06:40+0000\n"
-"Last-Translator: Milo Casagrande <milo@ubuntu.com>\n"
+"PO-Revision-Date: 2019-11-08 12:54+0100\n"
+"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail."
+"ch>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/it/>\n"
 "Language: it\n"
@@ -23,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0.1\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -2773,8 +2775,6 @@ msgid "South-West"
 msgstr "Provincia di Sudovest"
 
 #. Name for CN-AH
-#, fuzzy
-#| msgid "Anhui"
 msgid "Anhui Sheng"
 msgstr "Anhui"
 
@@ -2797,14 +2797,10 @@ msgid "Fujian Sheng"
 msgstr "Fujian"
 
 #. Name for CN-GD
-#, fuzzy
-#| msgid "Guangdong"
 msgid "Guangdong Sheng"
 msgstr "Guangdong"
 
 #. Name for CN-GS
-#, fuzzy
-#| msgid "Gansu"
 msgid "Gansu Sheng"
 msgstr "Gansu"
 
@@ -2813,32 +2809,22 @@ msgid "Guangxi Zhuangzu Zizhiqu"
 msgstr ""
 
 #. Name for CN-GZ
-#, fuzzy
-#| msgid "Guizhou"
 msgid "Guizhou Sheng"
 msgstr "Guizhou"
 
 #. Name for CN-HA
-#, fuzzy
-#| msgid "Henan"
 msgid "Henan Sheng"
 msgstr "Henan"
 
 #. Name for CN-HB
-#, fuzzy
-#| msgid "Hubei"
 msgid "Hubei Sheng"
 msgstr "Hubei"
 
 #. Name for CN-HE
-#, fuzzy
-#| msgid "Hebei"
 msgid "Hebei Sheng"
 msgstr "Hebei"
 
 #. Name for CN-HI
-#, fuzzy
-#| msgid "Hainan"
 msgid "Hainan Sheng"
 msgstr "Hainan"
 
@@ -2847,32 +2833,22 @@ msgid "Hong Kong SAR (see also separate country code entry under HK)"
 msgstr ""
 
 #. Name for CN-HL
-#, fuzzy
-#| msgid "Heilongjiang"
 msgid "Heilongjiang Sheng"
 msgstr "Heilongjiang"
 
 #. Name for CN-HN
-#, fuzzy
-#| msgid "Hunan"
 msgid "Hunan Sheng"
 msgstr "Hunan"
 
 #. Name for CN-JL
-#, fuzzy
-#| msgid "Jilin"
 msgid "Jilin Sheng"
 msgstr "Jilin"
 
 #. Name for CN-JS
-#, fuzzy
-#| msgid "Jiangsu"
 msgid "Jiangsu Sheng"
 msgstr "Jiangsu"
 
 #. Name for CN-JX
-#, fuzzy
-#| msgid "Jiangxi"
 msgid "Jiangxi Sheng"
 msgstr "Jiangxi"
 
@@ -2927,10 +2903,8 @@ msgid "Shaanxi Sheng"
 msgstr "Shaanxi"
 
 #. Name for CN-SX
-#, fuzzy
-#| msgid "Shanxi"
 msgid "Shanxi Sheng"
-msgstr "Shanxi"
+msgstr "Shaanxi"
 
 #. Name for CN-TJ
 #, fuzzy
@@ -2940,27 +2914,21 @@ msgstr "Tianjin"
 
 #. Name for CN-TW
 msgid "Taiwan Sheng (see also separate country code entry under TW)"
-msgstr ""
+msgstr "Taiwan, RPC (Il codice per Taiwan, Repubblica di Cina è TW)"
 
 #. Name for CN-XJ
 msgid "Xinjiang Uygur Zizhiqu"
-msgstr ""
+msgstr "Regione autonoma uigura dello Xinjiang"
 
 #. Name for CN-XZ
-#, fuzzy
-#| msgid "Xizang"
 msgid "Xizang Zizhiqu"
-msgstr "Xizang"
+msgstr "Xinjiang"
 
 #. Name for CN-YN
-#, fuzzy
-#| msgid "Yunnan"
 msgid "Yunnan Sheng"
 msgstr "Yunnan"
 
 #. Name for CN-ZJ
-#, fuzzy
-#| msgid "Zhejiang"
 msgid "Zhejiang Sheng"
 msgstr "Zhejiang"
 
@@ -4698,7 +4666,7 @@ msgstr "Santa Cruz de Tenerife"
 
 #. Name for ES-V
 msgid "Valencia / València"
-msgstr "Valencia / València"
+msgstr "Valenza"
 
 #. Name for ES-VA
 msgid "Valladolid"
@@ -4706,7 +4674,7 @@ msgstr "Valladolid"
 
 #. Name for ES-VC
 msgid "Valenciana, Comunidad / Valenciana, Comunitat"
-msgstr "Comunità Valenciana / Valenzana"
+msgstr "Comunità valenziana"
 
 #. Name for ES-VI
 msgid "Álava"
@@ -10603,10 +10571,8 @@ msgid "Fahs-Anjra"
 msgstr ""
 
 #. Name for MA-FES
-#, fuzzy
-#| msgid "Thiès"
 msgid "Fès"
-msgstr "Thiès"
+msgstr "Fez"
 
 #. Name for MA-FIG
 msgid "Figuig"
@@ -12422,7 +12388,7 @@ msgstr "Chiapas"
 
 #. Name for MX-CMX
 msgid "Ciudad de México"
-msgstr ""
+msgstr "Città del Messico"
 
 #. Name for MX-COA
 msgid "Coahuila de Zaragoza"
