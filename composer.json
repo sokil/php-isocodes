@@ -1,7 +1,7 @@
 {
     "name": "sokil/php-isocodes",
     "license" : "MIT",
-    "description": "ISO country, subdivision, language, currency and script definitions and their translations. Based on pythons pycountry.",
+    "description": "ISO country, subdivision, language, currency and script definitions and their translations. Based on pythons pycountry and Debian's iso-codes.",
     "authors": [
         {
             "name": "Dmytro Sokil",
