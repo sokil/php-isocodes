@@ -3,20 +3,24 @@
 # Part 5: Alpha-3 code for language families and groups
 # This file is distributed under the same license as the iso-codes package.
 # Copyright ©
-# THANOS SIOURDAKIS <siourdakisthanos@gmail.com>, 2019.
+# THANOS SIOURDAKIS <siourdakisthanos@gmail.com>, 2019, 2020.
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-02-23 06:33+0000\n"
+"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-5/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -24,7 +28,7 @@ msgstr ""
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "Αφρο-ασιατικές γλώσσες"
 
 #. Name for alg
 msgid "Algonquian languages"
@@ -48,11 +52,11 @@ msgstr ""
 
 #. Name for art
 msgid "Artificial languages"
-msgstr ""
+msgstr "Τεχνητές γλώσσες"
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr ""
+msgstr "Γλώσσες Αθαπάσκαν"
 
 #. Name for auf
 msgid "Arauan languages"
@@ -60,7 +64,7 @@ msgstr ""
 
 #. Name for aus
 msgid "Australian languages"
-msgstr ""
+msgstr "Αυστραλέζικες γλώσσες"
 
 #. Name for awd
 msgid "Arawakan languages"
@@ -80,7 +84,7 @@ msgstr ""
 
 #. Name for bat
 msgid "Baltic languages"
-msgstr ""
+msgstr "Βαλτικές γλώσσες"
 
 #. Name for ber
 msgid "Berber languages"
@@ -100,11 +104,11 @@ msgstr ""
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr ""
+msgstr "Ινδιάνικες γλώσσες Κεντρικής Αμερικής"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr ""
+msgstr "Καυκάσιες γλώσσες"
 
 #. Name for cba
 msgid "Chibchan languages"
@@ -128,7 +132,7 @@ msgstr ""
 
 #. Name for cel
 msgid "Celtic languages"
-msgstr ""
+msgstr "Κελτικές γλώσσες"
 
 #. Name for cmc
 msgid "Chamic languages"
@@ -156,7 +160,7 @@ msgstr ""
 
 #. Name for cus
 msgid "Cushitic languages"
-msgstr ""
+msgstr "Κουσιτικές γλώσσες"
 
 #. Name for day
 msgid "Land Dayak languages"
@@ -184,7 +188,7 @@ msgstr ""
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr ""
+msgstr "Φιννοουγγρικές γλώσσες"
 
 #. Name for fox
 msgid "Formosan languages"
@@ -192,7 +196,7 @@ msgstr ""
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr ""
+msgstr "Γερμανικές γλώσσες"
 
 #. Name for gme
 msgid "East Germanic languages"
@@ -232,15 +236,15 @@ msgstr ""
 
 #. Name for inc
 msgid "Indic languages"
-msgstr ""
+msgstr "Ινδικές γλώσσες"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr ""
+msgstr "Ινδο-Ευρωπαϊκές γλώσσες"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr ""
+msgstr "Ιρανικές γλώσσες"
 
 #. Name for iro
 msgid "Iroquoian languages"
@@ -272,7 +276,7 @@ msgstr ""
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr ""
+msgstr "Αυστρονησιακές γλώσσες"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
@@ -296,7 +300,7 @@ msgstr ""
 
 #. Name for nai
 msgid "North American Indian languages"
-msgstr ""
+msgstr "Ινδιάνικες γλώσσες Βόρειας Αμερικής"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
@@ -324,7 +328,7 @@ msgstr ""
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr ""
+msgstr "Γλώσσες Παπούα"
 
 #. Name for phi
 msgid "Philippine languages"

@@ -8,14 +8,15 @@
 # Vladimir Vuksan <vuksan@veus.hr>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2001, 2004.
 # Tomislav Krznar <tomislav.krznar@gmail.com>, 2012-2013.
-# gogogogi <trebelnik2@gmail.com>, 2019.
+# gogogogi <trebelnik2@gmail.com>, 2019, 2020.
+# Milo Ivir <mail@milotype.de>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-09-10 22:23+0000\n"
+"PO-Revision-Date: 2020-04-11 00:09+0000\n"
 "Last-Translator: gogogogi <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/hr/>\n"
@@ -25,235 +26,235 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
-msgstr ""
+msgstr "Ghotuo"
 
 #. Name for aab
 msgid "Alumu-Tesu"
-msgstr ""
+msgstr "Alumu-Tesu"
 
 #. Name for aac
 msgid "Ari"
-msgstr ""
+msgstr "Ari"
 
 #. Name for aad
 msgid "Amal"
-msgstr ""
+msgstr "Amal"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "Arbereški albanski"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
-msgstr ""
+msgstr "Albanski, arbereški"
 
 #. Name for aaf
 msgid "Aranadan"
-msgstr ""
+msgstr "Aranadan"
 
 #. Name for aag
 msgid "Ambrak"
-msgstr ""
+msgstr "Ambrak"
 
 #. Name for aah
 msgid "Abu' Arapesh"
-msgstr ""
+msgstr "Abu' Arapesh"
 
 #. Inverted name for aah
 msgid "Arapesh, Abu'"
-msgstr ""
+msgstr "Arapesh, Abu'"
 
 #. Name for aai
 msgid "Arifama-Miniafia"
-msgstr ""
+msgstr "Arifama-Miniafia"
 
 #. Name for aak
 msgid "Ankave"
-msgstr ""
+msgstr "Ankave"
 
 #. Name for aal
 msgid "Afade"
-msgstr ""
+msgstr "Afade"
 
 #. Name for aan
 msgid "Anambé"
-msgstr ""
+msgstr "Anambé"
 
 #. Name for aao
 msgid "Algerian Saharan Arabic"
-msgstr "alžirski saharski arapski"
+msgstr "Alžirski saharski arapski"
 
 #. Inverted name for aao
 msgid "Arabic, Algerian Saharan"
-msgstr "arapski, alžirski saharski"
+msgstr "Arapski, alžirski saharski"
 
 #. Name for aap
 msgid "Pará Arára"
-msgstr ""
+msgstr "Arára do Pará"
 
 #. Inverted name for aap
 msgid "Arára, Pará"
-msgstr ""
+msgstr "Arára, Pará"
 
 #. Name for aaq
 msgid "Eastern Abnaki"
-msgstr ""
+msgstr "Istočnoabnački"
 
 #. Inverted name for aaq
 msgid "Abnaki, Eastern"
-msgstr ""
+msgstr "Abanački, istočni"
 
 #. Name for aar
 msgid "Afar"
-msgstr "afarski"
+msgstr "Afarski"
 
 #. Name for aas
 msgid "Aasáx"
-msgstr ""
+msgstr "Aasáx"
 
 #. Name for aat
 msgid "Arvanitika Albanian"
-msgstr ""
+msgstr "Arvanitski albanski"
 
 #. Inverted name for aat
 msgid "Albanian, Arvanitika"
-msgstr ""
+msgstr "Albanski, arvanitski"
 
 #. Name for aau
 msgid "Abau"
-msgstr ""
+msgstr "Abau"
 
 #. Name for aaw
 msgid "Solong"
-msgstr ""
+msgstr "Solong"
 
 #. Name for aax
 msgid "Mandobo Atas"
-msgstr ""
+msgstr "Mandobo Atas"
 
 #. Name for aaz
 msgid "Amarasi"
-msgstr ""
+msgstr "Amarasi"
 
 #. Name for aba
 msgid "Abé"
-msgstr ""
+msgstr "Abé"
 
 #. Name for abb
 msgid "Bankon"
-msgstr ""
+msgstr "Bankon"
 
 #. Name for abc
 msgid "Ambala Ayta"
-msgstr ""
+msgstr "Ambala Ayta"
 
 #. Inverted name for abc
 msgid "Ayta, Ambala"
-msgstr ""
+msgstr "Ayta, Ambala"
 
 #. Name for abd
 msgid "Manide"
-msgstr ""
+msgstr "Manide"
 
 #. Name for abe
 msgid "Western Abnaki"
-msgstr ""
+msgstr "Zapadnoabnački"
 
 #. Inverted name for abe
 msgid "Abnaki, Western"
-msgstr ""
+msgstr "Abanački, zapadni"
 
 #. Name for abf
 msgid "Abai Sungai"
-msgstr ""
+msgstr "Abai Sungai"
 
 #. Name for abg
 msgid "Abaga"
-msgstr ""
+msgstr "Abaga"
 
 #. Name for abh
 msgid "Tajiki Arabic"
-msgstr ""
+msgstr "Tadžički arapski"
 
 #. Inverted name for abh
 msgid "Arabic, Tajiki"
-msgstr ""
+msgstr "Arapski, tadžički"
 
 #. Name for abi
 msgid "Abidji"
-msgstr ""
+msgstr "Abidji"
 
 #. Name for abj
 msgid "Aka-Bea"
-msgstr ""
+msgstr "Aka-Bea"
 
 #. Name for abk
 msgid "Abkhazian"
-msgstr "abhaski"
+msgstr "Abhaski"
 
 #. Name for abl
 msgid "Lampung Nyo"
-msgstr ""
+msgstr "Lampung Nyo"
 
 #. Name for abm
 msgid "Abanyom"
-msgstr ""
+msgstr "Abanyom"
 
 #. Name for abn
 msgid "Abua"
-msgstr ""
+msgstr "Abua"
 
 #. Name for abo
 msgid "Abon"
-msgstr ""
+msgstr "Abon"
 
 #. Name for abp
 msgid "Abellen Ayta"
-msgstr ""
+msgstr "Abellen Ayta"
 
 #. Inverted name for abp
 msgid "Ayta, Abellen"
-msgstr ""
+msgstr "Ayta, Abellen"
 
 #. Name for abq
 msgid "Abaza"
-msgstr ""
+msgstr "Abazinski"
 
 #. Name for abr
 msgid "Abron"
-msgstr ""
+msgstr "Abron"
 
 #. Name for abs
 msgid "Ambonese Malay"
-msgstr ""
+msgstr "Ambonski malajski"
 
 #. Inverted name for abs
 msgid "Malay, Ambonese"
-msgstr ""
+msgstr "Malajski, ambonski"
 
 #. Name for abt
 msgid "Ambulas"
-msgstr ""
+msgstr "Ambulas"
 
 #. Name for abu
 msgid "Abure"
-msgstr ""
+msgstr "Abure"
 
 #. Name for abv
 msgid "Baharna Arabic"
-msgstr ""
+msgstr "Baharna arapski"
 
 #. Inverted name for abv
 msgid "Arabic, Baharna"
-msgstr ""
+msgstr "Arapski baharna"
 
 #. Name for abw
 msgid "Pal"
-msgstr ""
+msgstr "Pal"
 
 #. Name for abx
 msgid "Inabaknon"
@@ -281,15 +282,15 @@ msgstr ""
 
 #. Name for ace
 msgid "Achinese"
-msgstr ""
+msgstr "Ačinski"
 
 #. Name for acf
 msgid "Saint Lucian Creole French"
-msgstr "svetolucijanski kreolski francuski"
+msgstr "Svetolucijanski kreolski francuski"
 
 #. Inverted name for acf
 msgid "Creole French, Saint Lucian"
-msgstr "kreolski francuski, svetolucijanski"
+msgstr "Kreolski francuski, svetolucijanski"
 
 #. Name for ach
 msgid "Acoli"
@@ -309,11 +310,11 @@ msgstr ""
 
 #. Name for acm
 msgid "Mesopotamian Arabic"
-msgstr ""
+msgstr "Mezopotamski arapski"
 
 #. Inverted name for acm
 msgid "Arabic, Mesopotamian"
-msgstr ""
+msgstr "Arapski, mezopotamski"
 
 #. Name for acn
 msgid "Achang"
@@ -321,19 +322,19 @@ msgstr ""
 
 #. Name for acp
 msgid "Eastern Acipa"
-msgstr ""
+msgstr "Istočni acipa"
 
 #. Inverted name for acp
 msgid "Acipa, Eastern"
-msgstr ""
+msgstr "Acipa, istočni"
 
 #. Name for acq
 msgid "Ta'izzi-Adeni Arabic"
-msgstr ""
+msgstr "Južnojemenski arapski"
 
 #. Inverted name for acq
 msgid "Arabic, Ta'izzi-Adeni"
-msgstr ""
+msgstr "Arapski, južnojemenski"
 
 #. Name for acr
 msgid "Achi"
@@ -357,27 +358,27 @@ msgstr ""
 
 #. Name for acw
 msgid "Hijazi Arabic"
-msgstr ""
+msgstr "Hijazi arapski"
 
 #. Inverted name for acw
 msgid "Arabic, Hijazi"
-msgstr ""
+msgstr "Arapski, hijazi"
 
 #. Name for acx
 msgid "Omani Arabic"
-msgstr ""
+msgstr "Omanski arapski"
 
 #. Inverted name for acx
 msgid "Arabic, Omani"
-msgstr ""
+msgstr "Arapski, omanski"
 
 #. Name for acy
 msgid "Cypriot Arabic"
-msgstr "ciparski arapski"
+msgstr "Cipriotski arapski"
 
 #. Inverted name for acy
 msgid "Arabic, Cypriot"
-msgstr "arapski, ciparski"
+msgstr "Arapski, cipriotski"
 
 #. Name for acz
 msgid "Acheron"
@@ -401,11 +402,11 @@ msgstr ""
 
 #. Name for adf
 msgid "Dhofari Arabic"
-msgstr ""
+msgstr "Dhofari arapski"
 
 #. Inverted name for adf
 msgid "Arabic, Dhofari"
-msgstr ""
+msgstr "Arapski, dhofari"
 
 #. Name for adg
 msgid "Andegerebinha"
@@ -445,7 +446,7 @@ msgstr ""
 
 #. Name for ads
 msgid "Adamorobe Sign Language"
-msgstr ""
+msgstr "Adamorobe znakovni jezik"
 
 #. Name for adt
 msgid "Adnyamathanha"
@@ -461,15 +462,15 @@ msgstr ""
 
 #. Name for adx
 msgid "Amdo Tibetan"
-msgstr ""
+msgstr "Amdo tibetanski"
 
 #. Inverted name for adx
 msgid "Tibetan, Amdo"
-msgstr ""
+msgstr "Tibetanski, amdo"
 
 #. Name for ady
 msgid "Adyghe"
-msgstr ""
+msgstr "Adigejski"
 
 #. Name for adz
 msgid "Adzera"
@@ -481,35 +482,31 @@ msgstr ""
 
 #. Name for aeb
 msgid "Tunisian Arabic"
-msgstr "tuniški arapski"
+msgstr "Tuniski arapski"
 
 #. Inverted name for aeb
 msgid "Arabic, Tunisian"
-msgstr "arapski, tuniški"
+msgstr "Arapski, tuniski"
 
 #. Name for aec
 msgid "Saidi Arabic"
-msgstr ""
+msgstr "Gornjoegipatski arapski"
 
 #. Inverted name for aec
 msgid "Arabic, Saidi"
-msgstr ""
+msgstr "Arapski, gornjoegipatski"
 
 #. Name for aed
 msgid "Argentine Sign Language"
-msgstr "argentinski znakovni jezik"
+msgstr "Argentinski znakovni jezik"
 
 #. Name for aee
-#, fuzzy
-#| msgid "Northern Altai"
 msgid "Northeast Pashai"
-msgstr "sjevernoaltajski"
+msgstr "Sjeveroistočni pashayi"
 
 #. Inverted name for aee
-#, fuzzy
-#| msgid "Altai, Northern"
 msgid "Pashai, Northeast"
-msgstr "sjevernoaltajski"
+msgstr "Pashayi , sjevernoistočni"
 
 #. Name for aek
 msgid "Haeke"
@@ -525,7 +522,7 @@ msgstr ""
 
 #. Name for aen
 msgid "Armenian Sign Language"
-msgstr "armenski znakovni jezik"
+msgstr "Armenski znakovni jezik"
 
 #. Name for aeq
 msgid "Aer"
@@ -533,11 +530,11 @@ msgstr ""
 
 #. Name for aer
 msgid "Eastern Arrernte"
-msgstr ""
+msgstr "Istočni Arrernte"
 
 #. Inverted name for aer
 msgid "Arrernte, Eastern"
-msgstr ""
+msgstr "Arrernte, istočni"
 
 #. Name for aes
 msgid "Alsea"
@@ -561,11 +558,11 @@ msgstr ""
 
 #. Name for afb
 msgid "Gulf Arabic"
-msgstr ""
+msgstr "Zaljevski arapski"
 
 #. Inverted name for afb
 msgid "Arabic, Gulf"
-msgstr ""
+msgstr "Arapski, zaljevski"
 
 #. Name for afd
 msgid "Andai"
@@ -577,7 +574,7 @@ msgstr ""
 
 #. Name for afg
 msgid "Afghan Sign Language"
-msgstr "afganistanski znakovni jezik"
+msgstr "Afganski znakovni jezik"
 
 #. Name for afh
 msgid "Afrihili"
@@ -605,15 +602,15 @@ msgstr ""
 
 #. Name for afr
 msgid "Afrikaans"
-msgstr "afrikaans"
+msgstr "Afrikaans"
 
 #. Name for afs
 msgid "Afro-Seminole Creole"
-msgstr ""
+msgstr "Afroseminolski kreolski"
 
 #. Inverted name for afs
 msgid "Creole, Afro-Seminole"
-msgstr ""
+msgstr "Kreolski, afroseminolski"
 
 #. Name for aft
 msgid "Afitti"
@@ -717,11 +714,11 @@ msgstr ""
 
 #. Name for agv
 msgid "Remontado Dumagat"
-msgstr ""
+msgstr "Remontado Dumagat"
 
 #. Inverted name for agv
 msgid "Dumagat, Remontado"
-msgstr ""
+msgstr "Dumagat, Remontado"
 
 #. Name for agw
 msgid "Kahua"
@@ -733,11 +730,11 @@ msgstr ""
 
 #. Name for agy
 msgid "Southern Alta"
-msgstr ""
+msgstr "Južni alta"
 
 #. Inverted name for agy
 msgid "Alta, Southern"
-msgstr ""
+msgstr "Alta, južni"
 
 #. Name for agz
 msgid "Mt. Iriga Agta"
@@ -821,7 +818,7 @@ msgstr ""
 
 #. Name for aib
 msgid "Ainu (China)"
-msgstr ""
+msgstr "Ainu (Kina)"
 
 #. Name for aic
 msgid "Ainbai"
@@ -841,11 +838,11 @@ msgstr ""
 
 #. Name for aig
 msgid "Antigua and Barbuda Creole English"
-msgstr "kreolski engleski, Antigva i Barbuda"
+msgstr "Antigvanski i barbudski kreolski engleski"
 
 #. Inverted name for aig
 msgid "Creole English, Antigua and Barbuda"
-msgstr "kreolski engleski, Antigva i Barbuda"
+msgstr "Kreolski engleski, antigvanski i barbudski"
 
 #. Name for aih
 msgid "Ai-Cham"
@@ -853,11 +850,11 @@ msgstr ""
 
 #. Name for aii
 msgid "Assyrian Neo-Aramaic"
-msgstr "asirski novoaramejski"
+msgstr "Asirski novoaramejski"
 
 #. Inverted name for aii
 msgid "Neo-Aramaic, Assyrian"
-msgstr "novoaramejski, asirski"
+msgstr "Novoaramejski, asirski"
 
 #. Name for aij
 msgid "Lishanid Noshan"
@@ -937,27 +934,27 @@ msgstr ""
 
 #. Name for ajp
 msgid "South Levantine Arabic"
-msgstr "južnolevantski arapski"
+msgstr "Južnolevantski arapski"
 
 #. Inverted name for ajp
 msgid "Arabic, South Levantine"
-msgstr "arapski, južnolevantski"
+msgstr "Arapski, južnolevantski"
 
 #. Name for ajt
 msgid "Judeo-Tunisian Arabic"
-msgstr "judeotuniški arapski"
+msgstr "Judeotuniski arapski"
 
 #. Inverted name for ajt
 msgid "Arabic, Judeo-Tunisian"
-msgstr "arapski, judeotuniški"
+msgstr "Arapski, judeotuniski"
 
 #. Name for aju
 msgid "Judeo-Moroccan Arabic"
-msgstr "judeomarokanski arapski"
+msgstr "Judeomarokanski arapski"
 
 #. Inverted name for aju
 msgid "Arabic, Judeo-Moroccan"
-msgstr "arapski, judeomarokanski"
+msgstr "Arapski, judeomarokanski"
 
 #. Name for ajw
 msgid "Ajawa"
@@ -973,7 +970,7 @@ msgstr ""
 
 #. Name for aka
 msgid "Akan"
-msgstr "akanski"
+msgstr "Akanski"
 
 #. Name for akb
 msgid "Batak Angkola"
@@ -1013,11 +1010,11 @@ msgstr ""
 
 #. Name for akk
 msgid "Akkadian"
-msgstr "akadski"
+msgstr "Akadski"
 
 #. Name for akl
 msgid "Aklanon"
-msgstr ""
+msgstr "Inakeanon"
 
 #. Name for akm
 msgid "Aka-Bo"
@@ -1085,7 +1082,7 @@ msgstr ""
 
 #. Name for ale
 msgid "Aleut"
-msgstr "aleutski"
+msgstr "Aleutski"
 
 #. Name for alf
 msgid "Alege"
@@ -1117,11 +1114,11 @@ msgstr ""
 
 #. Name for aln
 msgid "Gheg Albanian"
-msgstr ""
+msgstr "Gegijski albanski"
 
 #. Inverted name for aln
 msgid "Albanian, Gheg"
-msgstr ""
+msgstr "Albanski, gegijski"
 
 #. Name for alo
 msgid "Larike-Wakasihu"
@@ -1133,7 +1130,7 @@ msgstr ""
 
 #. Name for alq
 msgid "Algonquin"
-msgstr "algonkvinski"
+msgstr "Algonquin"
 
 #. Name for alr
 msgid "Alutor"
@@ -1141,19 +1138,19 @@ msgstr ""
 
 #. Name for als
 msgid "Tosk Albanian"
-msgstr ""
+msgstr "Toskijski albanski"
 
 #. Inverted name for als
 msgid "Albanian, Tosk"
-msgstr ""
+msgstr "Albanski, toskijski"
 
 #. Name for alt
 msgid "Southern Altai"
-msgstr "južnoaltajski"
+msgstr "Južnoaltajski"
 
 #. Inverted name for alt
 msgid "Altai, Southern"
-msgstr "južnoaltajski"
+msgstr "Altajski, južni"
 
 #. Name for alu
 msgid "'Are'are"
@@ -1201,7 +1198,7 @@ msgstr ""
 
 #. Name for amh
 msgid "Amharic"
-msgstr "amharski"
+msgstr "Amharski"
 
 #. Name for ami
 msgid "Amis"
@@ -1221,7 +1218,7 @@ msgstr ""
 
 #. Name for amm
 msgid "Ama (Papua New Guinea)"
-msgstr ""
+msgstr "Ama (Papua Nova Gvineja)"
 
 #. Name for amn
 msgid "Amanab"
@@ -1245,11 +1242,11 @@ msgstr ""
 
 #. Name for ams
 msgid "Southern Amami-Oshima"
-msgstr ""
+msgstr "Južni amami-oshima"
 
 #. Inverted name for ams
 msgid "Amami-Oshima, Southern"
-msgstr ""
+msgstr "Amami-oshima, južni"
 
 #. Name for amt
 msgid "Amto"
@@ -1269,11 +1266,11 @@ msgstr ""
 
 #. Name for amw
 msgid "Western Neo-Aramaic"
-msgstr "zapadni novoaramejski"
+msgstr "Zapadni novoaramejski"
 
 #. Inverted name for amw
 msgid "Neo-Aramaic, Western"
-msgstr "novoaramejski, zapadni"
+msgstr "Novoaramejski, zapadni"
 
 #. Name for amx
 msgid "Anmatyerre"
@@ -1313,11 +1310,11 @@ msgstr ""
 
 #. Name for ang
 msgid "Old English (ca. 450-1100)"
-msgstr "staroengleski (cca. 450.-1100.)"
+msgstr "Staroengleski (oko 450.-1100.)"
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "staroengleski (cca. 450.-1100.)"
+msgstr "Engleski, stari (oko 450.-1100.)"
 
 #. Name for anh
 msgid "Nend"
@@ -1361,7 +1358,7 @@ msgstr ""
 
 #. Name for anq
 msgid "Jarawa (India)"
-msgstr ""
+msgstr "Jarawa (Indija)"
 
 #. Name for anr
 msgid "Andh"
@@ -1445,7 +1442,7 @@ msgstr ""
 
 #. Name for aol
 msgid "Alor"
-msgstr ""
+msgstr "Alorski"
 
 #. Name for aom
 msgid "Ömie"
@@ -1469,7 +1466,7 @@ msgstr ""
 
 #. Name for aot
 msgid "Atong (India)"
-msgstr ""
+msgstr "Atong (Indija)"
 
 #. Name for aou
 msgid "A'ou"
@@ -1489,19 +1486,19 @@ msgstr ""
 
 #. Name for apc
 msgid "North Levantine Arabic"
-msgstr "sjevernolevantski arapski"
+msgstr "Sjevernolevantski arapski"
 
 #. Inverted name for apc
 msgid "Arabic, North Levantine"
-msgstr "arapski, sjevernolevantski"
+msgstr "Arapski, sjevernolevantski"
 
 #. Name for apd
 msgid "Sudanese Arabic"
-msgstr "sudanski arapski"
+msgstr "Audanski arapski"
 
 #. Inverted name for apd
 msgid "Arabic, Sudanese"
-msgstr "arapski, sudanski"
+msgstr "Arapski, sudanski"
 
 #. Name for ape
 msgid "Bukiyip"
@@ -1597,11 +1594,11 @@ msgstr ""
 
 #. Name for apw
 msgid "Western Apache"
-msgstr ""
+msgstr "Zapadnoapački"
 
 #. Inverted name for apw
 msgid "Apache, Western"
-msgstr ""
+msgstr "Apački, zapadni"
 
 #. Name for apx
 msgid "Aputai"
@@ -1617,7 +1614,7 @@ msgstr ""
 
 #. Name for aqc
 msgid "Archi"
-msgstr ""
+msgstr "Arčinski"
 
 #. Name for aqd
 msgid "Ampari Dogon"
@@ -1637,11 +1634,11 @@ msgstr ""
 
 #. Name for aqn
 msgid "Northern Alta"
-msgstr ""
+msgstr "Sjeverni alta"
 
 #. Inverted name for aqn
 msgid "Alta, Northern"
-msgstr ""
+msgstr "Alta, sjeverna"
 
 #. Name for aqp
 msgid "Atakapa"
@@ -1661,23 +1658,23 @@ msgstr ""
 
 #. Name for ara
 msgid "Arabic"
-msgstr "arapski"
+msgstr "Arapski"
 
 #. Name for arb
 msgid "Standard Arabic"
-msgstr "standardni arapski"
+msgstr "Standardni arapski"
 
 #. Inverted name for arb
 msgid "Arabic, Standard"
-msgstr "arapski, standardni"
+msgstr "Arapski, standardni"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE)"
-msgstr "službeni aramejski (700.-300. pr. Kr.)"
+msgstr "Službeni aramejski (700.-300. p.n.e.)"
 
 #. Inverted name for arc
 msgid "Aramaic, Official (700-300 BCE)"
-msgstr "aramejski, službeni (700.-300. pr. Kr.)"
+msgstr "Aramejski, službeni (700.-300. p.n.e.)"
 
 #. Name for ard
 msgid "Arabana"
@@ -1685,15 +1682,15 @@ msgstr ""
 
 #. Name for are
 msgid "Western Arrarnta"
-msgstr ""
+msgstr "Zapadni Arrarnta"
 
 #. Inverted name for are
 msgid "Arrarnta, Western"
-msgstr ""
+msgstr "Arrarnta, zapadni"
 
 #. Name for arg
 msgid "Aragonese"
-msgstr "aragonski"
+msgstr "Aragonski"
 
 #. Name for arh
 msgid "Arhuaco"
@@ -1729,11 +1726,11 @@ msgstr ""
 
 #. Name for arq
 msgid "Algerian Arabic"
-msgstr "alžirski arapski"
+msgstr "Alžirski arapski"
 
 #. Inverted name for arq
 msgid "Arabic, Algerian"
-msgstr "arapski, alžirski"
+msgstr "Arapski, alžirski"
 
 #. Name for arr
 msgid "Karo (Brazil)"
@@ -1741,15 +1738,15 @@ msgstr ""
 
 #. Name for ars
 msgid "Najdi Arabic"
-msgstr ""
+msgstr "Najdi arapski"
 
 #. Inverted name for ars
 msgid "Arabic, Najdi"
-msgstr ""
+msgstr "Arapski, najdi"
 
 #. Name for aru
 msgid "Aruá (Amazonas State)"
-msgstr ""
+msgstr "Aruá (Amazonas Država)"
 
 #. Name for arv
 msgid "Arbore"
@@ -1761,27 +1758,27 @@ msgstr ""
 
 #. Name for arx
 msgid "Aruá (Rodonia State)"
-msgstr ""
+msgstr "Aruá (Rodonia Država)"
 
 #. Name for ary
 msgid "Moroccan Arabic"
-msgstr "marokanski arapski"
+msgstr "Marokanski arapski"
 
 #. Inverted name for ary
 msgid "Arabic, Moroccan"
-msgstr "arapski, marokanski"
+msgstr "Arapski, marokanski"
 
 #. Name for arz
 msgid "Egyptian Arabic"
-msgstr "egipatski arapski"
+msgstr "Egipatski arapski"
 
 #. Inverted name for arz
 msgid "Arabic, Egyptian"
-msgstr "arapski, egipatski"
+msgstr "Arapski, egipatski"
 
 #. Name for asa
 msgid "Asu (Tanzania)"
-msgstr ""
+msgstr "Asu (Tanzanija)"
 
 #. Name for asb
 msgid "Assiniboine"
@@ -1801,11 +1798,11 @@ msgstr ""
 
 #. Name for ase
 msgid "American Sign Language"
-msgstr "američki znakovni jezik"
+msgstr "Američki znakovni jezik"
 
 #. Name for asf
 msgid "Australian Sign Language"
-msgstr "australski znakovni jezik"
+msgstr "Australski znakovni jezik"
 
 #. Name for asg
 msgid "Cishingini"
@@ -1833,7 +1830,7 @@ msgstr ""
 
 #. Name for asm
 msgid "Assamese"
-msgstr "asamski"
+msgstr "Asamski"
 
 #. Name for asn
 msgid "Xingú Asuriní"
@@ -1849,11 +1846,11 @@ msgstr ""
 
 #. Name for asp
 msgid "Algerian Sign Language"
-msgstr "alžirski znakovni jezik"
+msgstr "Alžirski znakovni jezik"
 
 #. Name for asq
 msgid "Austrian Sign Language"
-msgstr "austrijski znakovni jezik"
+msgstr "Austrijski znakovni jezik"
 
 #. Name for asr
 msgid "Asuri"
@@ -1865,7 +1862,7 @@ msgstr ""
 
 #. Name for ast
 msgid "Asturian"
-msgstr "asturijski"
+msgstr "Asturski"
 
 #. Name for asu
 msgid "Tocantins Asurini"
@@ -1881,7 +1878,7 @@ msgstr ""
 
 #. Name for asw
 msgid "Australian Aborigines Sign Language"
-msgstr "znakovni jezik australskih Aboridžina"
+msgstr "Znakovni jezik australskih Aboridžina"
 
 #. Name for asx
 msgid "Muratayak"
@@ -1956,10 +1953,8 @@ msgid "Ashtiani"
 msgstr ""
 
 #. Name for ato
-#, fuzzy
-#| msgid "Pidgin, Cameroon"
 msgid "Atong (Cameroon)"
-msgstr "pidžin, kamerunski"
+msgstr "Atong (Kamerun)"
 
 #. Name for atp
 msgid "Pudtol Atta"
@@ -1995,11 +1990,11 @@ msgstr ""
 
 #. Name for atv
 msgid "Northern Altai"
-msgstr "sjevernoaltajski"
+msgstr "Sjevernoaltajski"
 
 #. Inverted name for atv
 msgid "Altai, Northern"
-msgstr "sjevernoaltajski"
+msgstr "Altajski, sjeverni"
 
 #. Name for atw
 msgid "Atsugewi"
@@ -2059,7 +2054,7 @@ msgstr ""
 
 #. Name for aum
 msgid "Asu (Nigeria)"
-msgstr ""
+msgstr "Asu (Nigerija)"
 
 #. Name for aun
 msgid "Molmo One"
@@ -2107,15 +2102,15 @@ msgstr ""
 
 #. Name for auz
 msgid "Uzbeki Arabic"
-msgstr "uzbečki arapski"
+msgstr "Uzbečki arapski"
 
 #. Inverted name for auz
 msgid "Arabic, Uzbeki"
-msgstr "arapski, uzbečki"
+msgstr "Arapski, uzbečki"
 
 #. Name for ava
 msgid "Avaric"
-msgstr "avarski"
+msgstr "Avarski"
 
 #. Name for avb
 msgid "Avau"
@@ -2127,7 +2122,7 @@ msgstr ""
 
 #. Name for ave
 msgid "Avestan"
-msgstr "avestički"
+msgstr "Avestički"
 
 #. Name for avi
 msgid "Avikam"
@@ -2139,11 +2134,11 @@ msgstr ""
 
 #. Name for avl
 msgid "Eastern Egyptian Bedawi Arabic"
-msgstr ""
+msgstr "Istočnoegipatski bedawi arapski"
 
 #. Inverted name for avl
 msgid "Arabic, Eastern Egyptian Bedawi"
-msgstr ""
+msgstr "Arapski, istočnoegipatski bedawi"
 
 #. Name for avm
 msgid "Angkamuthi"
@@ -2179,7 +2174,7 @@ msgstr ""
 
 #. Name for awb
 msgid "Awa (Papua New Guinea)"
-msgstr ""
+msgstr "Awa (Papua Nova Gvineja)"
 
 #. Name for awc
 msgid "Cicipu"
@@ -2223,11 +2218,11 @@ msgstr ""
 
 #. Name for aws
 msgid "South Awyu"
-msgstr ""
+msgstr "Južni awyu"
 
 #. Inverted name for aws
 msgid "Awyu, South"
-msgstr ""
+msgstr "Awyu, južni"
 
 #. Name for awt
 msgid "Araweté"
@@ -2235,11 +2230,11 @@ msgstr ""
 
 #. Name for awu
 msgid "Central Awyu"
-msgstr ""
+msgstr "Centralni awyu"
 
 #. Inverted name for awu
 msgid "Awyu, Central"
-msgstr ""
+msgstr "Awyu, centralni"
 
 #. Name for awv
 msgid "Jair Awyu"
@@ -2283,25 +2278,23 @@ msgstr ""
 
 #. Name for axk
 msgid "Yaka (Central African Republic)"
-msgstr ""
+msgstr "Yaka (Srednjoafrička Republika)"
 
 #. Name for axl
-#, fuzzy
 msgid "Lower Southern Aranda"
-msgstr "južnoaltajski"
+msgstr "Niži južni aranda"
 
 #. Inverted name for axl
-#, fuzzy
 msgid "Aranda, Lower Southern"
-msgstr "južnoaltajski"
+msgstr "Aranda, niži južni"
 
 #. Name for axm
 msgid "Middle Armenian"
-msgstr "srednjearmenski"
+msgstr "Srednjovjekovni armenski"
 
 #. Inverted name for axm
 msgid "Armenian, Middle"
-msgstr "srednjearmenski"
+msgstr "Armenski, srednjovjekovni"
 
 #. Name for axx
 msgid "Xârâgurè"
@@ -2321,11 +2314,11 @@ msgstr ""
 
 #. Name for ayc
 msgid "Southern Aymara"
-msgstr ""
+msgstr "Južnoajmarski"
 
 #. Inverted name for ayc
 msgid "Aymara, Southern"
-msgstr ""
+msgstr "Ajmarski, južni"
 
 #. Name for ayd
 msgid "Ayabadhu"
@@ -2341,11 +2334,11 @@ msgstr ""
 
 #. Name for ayh
 msgid "Hadrami Arabic"
-msgstr ""
+msgstr "Hadrami arapski"
 
 #. Inverted name for ayh
 msgid "Arabic, Hadrami"
-msgstr ""
+msgstr "Arapski, hadrami"
 
 #. Name for ayi
 msgid "Leyigha"
@@ -2357,23 +2350,23 @@ msgstr ""
 
 #. Name for ayl
 msgid "Libyan Arabic"
-msgstr "libijski arapski"
+msgstr "Libijski arapski"
 
 #. Inverted name for ayl
 msgid "Arabic, Libyan"
-msgstr "arapski, libijski"
+msgstr "Arapski, libijski"
 
 #. Name for aym
 msgid "Aymara"
-msgstr "ajmarski"
+msgstr "Ajmarski"
 
 #. Name for ayn
 msgid "Sanaani Arabic"
-msgstr ""
+msgstr "Sjevernojemenski arapski"
 
 #. Inverted name for ayn
 msgid "Arabic, Sanaani"
-msgstr ""
+msgstr "Arapski, sjevernojemenski"
 
 #. Name for ayo
 msgid "Ayoreo"
@@ -2381,23 +2374,23 @@ msgstr ""
 
 #. Name for ayp
 msgid "North Mesopotamian Arabic"
-msgstr "srednjemezopotamski arapski"
+msgstr "Sjevernomezopotamski arapski"
 
 #. Inverted name for ayp
 msgid "Arabic, North Mesopotamian"
-msgstr "arapski, sjevernomezopotamski"
+msgstr "Arapski, sjevernomezopotamski"
 
 #. Name for ayq
 msgid "Ayi (Papua New Guinea)"
-msgstr ""
+msgstr "Ayi (Papua Nova Gvineja)"
 
 #. Name for ayr
 msgid "Central Aymara"
-msgstr ""
+msgstr "Centralnoajmarski"
 
 #. Inverted name for ayr
 msgid "Aymara, Central"
-msgstr ""
+msgstr "Ajmarski, centralni"
 
 #. Name for ays
 msgid "Sorsogon Ayta"
@@ -2437,23 +2430,23 @@ msgstr ""
 
 #. Name for azb
 msgid "South Azerbaijani"
-msgstr "južnoazerbejdžanski"
+msgstr "Južnoazerbajdžanski"
 
 #. Inverted name for azb
 msgid "Azerbaijani, South"
-msgstr "južnoazerbejdžanski"
+msgstr "Azerbajdžanski, Južni"
 
 #. Name for azd
 msgid "Eastern Durango Nahuatl"
-msgstr ""
+msgstr "Istočni Durango Nahuatl"
 
 #. Inverted name for azd
 msgid "Nahuatl, Eastern Durango"
-msgstr ""
+msgstr "Nahuatl, Istočni Durango"
 
 #. Name for aze
 msgid "Azerbaijani"
-msgstr "azerbejdžanski"
+msgstr "Azerbajdžanski"
 
 #. Name for azg
 msgid "San Pedro Amuzgos Amuzgo"
@@ -2465,11 +2458,11 @@ msgstr ""
 
 #. Name for azj
 msgid "North Azerbaijani"
-msgstr "sjevernoazerbejdžanski"
+msgstr "Sjevernoazerbajdžanski"
 
 #. Inverted name for azj
 msgid "Azerbaijani, North"
-msgstr "sjevernoazerbejdžanski"
+msgstr "Azerbajdžanski, sjeverni"
 
 #. Name for azm
 msgid "Ipalapa Amuzgo"
@@ -2481,11 +2474,11 @@ msgstr ""
 
 #. Name for azn
 msgid "Western Durango Nahuatl"
-msgstr ""
+msgstr "Zapadni Durango Nahuatl"
 
 #. Inverted name for azn
 msgid "Nahuatl, Western Durango"
-msgstr ""
+msgstr "Nahuatl, Zapadni Durango"
 
 #. Name for azo
 msgid "Awing"
@@ -2533,11 +2526,11 @@ msgstr ""
 
 #. Name for bah
 msgid "Bahamas Creole English"
-msgstr "bahamski kreolski engleski"
+msgstr "Bahamski kreolski engleski"
 
 #. Inverted name for bah
 msgid "Creole English, Bahamas"
-msgstr "kreolski engleski, bahamski"
+msgstr "Kreolski engleski, bahamski"
 
 #. Name for baj
 msgid "Barakai"
@@ -2545,39 +2538,39 @@ msgstr ""
 
 #. Name for bak
 msgid "Bashkir"
-msgstr "baškirski"
+msgstr "Baškirski"
 
 #. Name for bal
 msgid "Baluchi"
-msgstr "baločijski"
+msgstr "Baludžijski"
 
 #. Name for bam
 msgid "Bambara"
-msgstr "bambarski"
+msgstr "Bamanankan"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "balijski"
+msgstr "Balijski"
 
 #. Name for bao
 msgid "Waimaha"
-msgstr ""
+msgstr "Waimaha"
 
 #. Name for bap
 msgid "Bantawa"
-msgstr ""
+msgstr "Bantawa"
 
 #. Name for bar
 msgid "Bavarian"
-msgstr "bavarski"
+msgstr "Bavarski"
 
 #. Name for bas
 msgid "Basa (Cameroon)"
-msgstr ""
+msgstr "Basa (Kamerun)"
 
 #. Name for bau
 msgid "Bada (Nigeria)"
-msgstr ""
+msgstr "Bada (Nigerija)"
 
 #. Name for bav
 msgid "Vengo"
@@ -2641,7 +2634,7 @@ msgstr ""
 
 #. Name for bbl
 msgid "Bats"
-msgstr ""
+msgstr "Bacbijski"
 
 #. Name for bbm
 msgid "Babango"
@@ -2653,19 +2646,19 @@ msgstr ""
 
 #. Name for bbo
 msgid "Northern Bobo Madaré"
-msgstr ""
+msgstr "Sjeverni Bobo Madaré"
 
 #. Inverted name for bbo
 msgid "Bobo Madaré, Northern"
-msgstr ""
+msgstr "Bobo Madaré, sjeverni"
 
 #. Name for bbp
 msgid "West Central Banda"
-msgstr ""
+msgstr "Zapadni centralni banda"
 
 #. Inverted name for bbp
 msgid "Banda, West Central"
-msgstr ""
+msgstr "Banda, zapadni centralni"
 
 #. Name for bbq
 msgid "Bamali"
@@ -2685,7 +2678,7 @@ msgstr ""
 
 #. Name for bbu
 msgid "Kulung (Nigeria)"
-msgstr ""
+msgstr "Kulung (Nigerija)"
 
 #. Name for bbv
 msgid "Karnai"
@@ -2705,19 +2698,19 @@ msgstr ""
 
 #. Name for bbz
 msgid "Babalia Creole Arabic"
-msgstr "babalijski kreolski arapski"
+msgstr "Babalia kreolski arapski"
 
 #. Inverted name for bbz
 msgid "Creole Arabic, Babalia"
-msgstr "kreolski arapski, babalijski"
+msgstr "Kreolski arapski, Babalia"
 
 #. Name for bca
 msgid "Central Bai"
-msgstr ""
+msgstr "Centralni bai"
 
 #. Inverted name for bca
 msgid "Bai, Central"
-msgstr ""
+msgstr "Bai, centralni"
 
 #. Name for bcb
 msgid "Bainouk-Samik"
@@ -2725,19 +2718,19 @@ msgstr ""
 
 #. Name for bcc
 msgid "Southern Balochi"
-msgstr "južnobaločijski"
+msgstr "Južnobaludžijski"
 
 #. Inverted name for bcc
 msgid "Balochi, Southern"
-msgstr "južnobaločijski"
+msgstr "Baludžijski, južni"
 
 #. Name for bcd
 msgid "North Babar"
-msgstr "sjevernobabarski"
+msgstr "Sjevernobabarski"
 
 #. Inverted name for bcd
 msgid "Babar, North"
-msgstr "sjevernobabarski"
+msgstr "Babarski, sjeverni"
 
 #. Name for bce
 msgid "Bamenyam"
@@ -2769,11 +2762,11 @@ msgstr ""
 
 #. Name for bcl
 msgid "Central Bikol"
-msgstr "srednjebikolski"
+msgstr "Srednji bikolski"
 
 #. Inverted name for bcl
 msgid "Bikol, Central"
-msgstr "srednjebikolski"
+msgstr "Bikolski, srednji"
 
 #. Name for bcm
 msgid "Bannoni"
@@ -2781,7 +2774,7 @@ msgstr ""
 
 #. Name for bcn
 msgid "Bali (Nigeria)"
-msgstr ""
+msgstr "Bali (Nigerija)"
 
 #. Name for bco
 msgid "Kaluli"
@@ -2789,7 +2782,7 @@ msgstr ""
 
 #. Name for bcp
 msgid "Bali (Democratic Republic of Congo)"
-msgstr ""
+msgstr "Bali (Demokratska Republika Kongo)"
 
 #. Name for bcq
 msgid "Bench"
@@ -2869,15 +2862,15 @@ msgstr ""
 
 #. Name for bdk
 msgid "Budukh"
-msgstr ""
+msgstr "Buduhski"
 
 #. Name for bdl
 msgid "Indonesian Bajau"
-msgstr ""
+msgstr "Indonezijski bajau"
 
 #. Inverted name for bdl
 msgid "Bajau, Indonesian"
-msgstr ""
+msgstr "Bajau, indonezijski"
 
 #. Name for bdm
 msgid "Buduma"
@@ -2897,15 +2890,15 @@ msgstr ""
 
 #. Name for bdq
 msgid "Bahnar"
-msgstr ""
+msgstr "Bahnarski"
 
 #. Name for bdr
 msgid "West Coast Bajau"
-msgstr ""
+msgstr "Zapadnoobalni bajau"
 
 #. Inverted name for bdr
 msgid "Bajau, West Coast"
-msgstr ""
+msgstr "Bajau, zapadnoobalni"
 
 #. Name for bds
 msgid "Burunge"
@@ -2985,19 +2978,19 @@ msgstr ""
 
 #. Name for bel
 msgid "Belarusian"
-msgstr "bjeloruski"
+msgstr "Bjeloruski"
 
 #. Name for bem
 msgid "Bemba (Zambia)"
-msgstr ""
+msgstr "Bemba (Zambija)"
 
 #. Name for ben
 msgid "Bengali"
-msgstr "bengalski"
+msgstr "Bengalski"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr ""
+msgstr "Bengalski"
 
 #. Name for beo
 msgid "Beami"
@@ -3045,11 +3038,11 @@ msgstr ""
 
 #. Name for bey
 msgid "Beli (Papua New Guinea)"
-msgstr ""
+msgstr "Beli (Papua Nova Gvineja)"
 
 #. Name for bez
 msgid "Bena (Tanzania)"
-msgstr ""
+msgstr "Bena (Tanzanija)"
 
 #. Name for bfa
 msgid "Bari"
@@ -3065,11 +3058,11 @@ msgstr ""
 
 #. Name for bfc
 msgid "Panyi Bai"
-msgstr ""
+msgstr "Sjeverni bai"
 
 #. Inverted name for bfc
 msgid "Bai, Panyi"
-msgstr ""
+msgstr "Bai, sjeverni"
 
 #. Name for bfd
 msgid "Bafut"
@@ -3097,7 +3090,7 @@ msgstr ""
 
 #. Name for bfi
 msgid "British Sign Language"
-msgstr "britanski znakovni jezik"
+msgstr "Britanski znakovni jezik"
 
 #. Name for bfj
 msgid "Bafanji"
@@ -3105,7 +3098,7 @@ msgstr ""
 
 #. Name for bfk
 msgid "Ban Khor Sign Language"
-msgstr "bankorski znakovni jezik"
+msgstr "Ban khor znakovni jezik"
 
 #. Name for bfl
 msgid "Banda-Ndélé"
@@ -3141,15 +3134,15 @@ msgstr ""
 
 #. Name for bfs
 msgid "Southern Bai"
-msgstr ""
+msgstr "Južni bai"
 
 #. Inverted name for bfs
 msgid "Bai, Southern"
-msgstr ""
+msgstr "Bai, južni"
 
 #. Name for bft
 msgid "Balti"
-msgstr ""
+msgstr "Baltijski"
 
 #. Name for bfu
 msgid "Gahri"
@@ -3225,11 +3218,11 @@ msgstr ""
 
 #. Name for bgn
 msgid "Western Balochi"
-msgstr "zapadnobaločijski"
+msgstr "Zapadnobaludžijski"
 
 #. Inverted name for bgn
 msgid "Balochi, Western"
-msgstr "zapadnobaločijski"
+msgstr "Baludžijski, zapadni"
 
 #. Name for bgo
 msgid "Baga Koga"
@@ -3237,11 +3230,13 @@ msgstr ""
 
 #. Name for bgp
 msgid "Eastern Balochi"
-msgstr "istočnobaločijski"
+msgstr "Istočnobaludžijski"
 
 #. Inverted name for bgp
 msgid "Balochi, Eastern"
-msgstr "istočnobaločijski"
+msgstr ""
+"Baludžijski, istočni\n"
+"i"
 
 #. Name for bgq
 msgid "Bagri"
@@ -3277,11 +3272,11 @@ msgstr ""
 
 #. Name for bgx
 msgid "Balkan Gagauz Turkish"
-msgstr ""
+msgstr "Balkanski gagauski turski"
 
 #. Inverted name for bgx
 msgid "Turkish, Balkan Gagauz"
-msgstr ""
+msgstr "Turski, balkanski gagauski"
 
 #. Name for bgy
 msgid "Benggoi"
@@ -3321,7 +3316,7 @@ msgstr ""
 
 #. Name for bhh
 msgid "Bukharic"
-msgstr ""
+msgstr "Buharski"
 
 #. Name for bhi
 msgid "Bhilali"
@@ -3341,11 +3336,11 @@ msgstr ""
 
 #. Name for bhn
 msgid "Bohtan Neo-Aramaic"
-msgstr "bohtanski novoaramejski"
+msgstr "Bohtan novoaramejski"
 
 #. Inverted name for bhn
 msgid "Neo-Aramaic, Bohtan"
-msgstr "novoaramejski, bohtanski"
+msgstr "Novoaramejski, bohtan"
 
 #. Name for bho
 msgid "Bhojpuri"
@@ -3357,15 +3352,15 @@ msgstr ""
 
 #. Name for bhq
 msgid "Tukang Besi South"
-msgstr ""
+msgstr "Tukang besi južni"
 
 #. Name for bhr
 msgid "Bara Malagasy"
-msgstr ""
+msgstr "Bara malagaški"
 
 #. Inverted name for bhr
 msgid "Malagasy, Bara"
-msgstr ""
+msgstr "Malagaški, bara"
 
 #. Name for bhs
 msgid "Buwal"
@@ -3397,7 +3392,7 @@ msgstr ""
 
 #. Name for bhz
 msgid "Bada (Indonesia)"
-msgstr ""
+msgstr "Bada (Indonezija)"
 
 #. Name for bia
 msgid "Badimaya"
@@ -3433,7 +3428,7 @@ msgstr ""
 
 #. Name for bik
 msgid "Bikol"
-msgstr "bikolski"
+msgstr "Bikolski"
 
 #. Name for bil
 msgid "Bile"
@@ -3465,7 +3460,7 @@ msgstr ""
 
 #. Name for bis
 msgid "Bislama"
-msgstr "bislama"
+msgstr "Bislama"
 
 #. Name for bit
 msgid "Berinomo"
@@ -3477,15 +3472,15 @@ msgstr ""
 
 #. Name for biv
 msgid "Southern Birifor"
-msgstr ""
+msgstr "Južnobiriforski"
 
 #. Inverted name for biv
 msgid "Birifor, Southern"
-msgstr ""
+msgstr "Biriforski, južni"
 
 #. Name for biw
 msgid "Kol (Cameroon)"
-msgstr ""
+msgstr "Kol (Kamerun)"
 
 #. Name for bix
 msgid "Bijori"
@@ -3521,11 +3516,11 @@ msgstr ""
 
 #. Name for bjf
 msgid "Barzani Jewish Neo-Aramaic"
-msgstr "barzanski židovski novoaramejski"
+msgstr "Barzani židovski neoaramejski"
 
 #. Inverted name for bjf
 msgid "Neo-Aramaic, Barzani Jewish"
-msgstr "novoaramejski, barzanski židovski"
+msgstr "Neoaramejski, barzani židovski"
 
 #. Name for bjg
 msgid "Bidyogo"
@@ -3549,7 +3544,7 @@ msgstr ""
 
 #. Name for bjl
 msgid "Bulu (Papua New Guinea)"
-msgstr ""
+msgstr "Bulu (Papua Nova Gvineja)"
 
 #. Name for bjm
 msgid "Bajelani"
@@ -3617,7 +3612,7 @@ msgstr ""
 
 #. Name for bkc
 msgid "Baka (Cameroon)"
-msgstr ""
+msgstr "Baka (Kamerun)"
 
 #. Name for bkd
 msgid "Binukid"
@@ -3653,7 +3648,7 @@ msgstr ""
 
 #. Name for bkm
 msgid "Kom (Cameroon)"
-msgstr ""
+msgstr "Kom (Kamerun)"
 
 #. Name for bkn
 msgid "Bukitan"
@@ -3665,7 +3660,7 @@ msgstr ""
 
 #. Name for bkp
 msgid "Boko (Democratic Republic of Congo)"
-msgstr ""
+msgstr "Boko (Demokratska Republika Kongo)"
 
 #. Name for bkq
 msgid "Bakairí"
@@ -3689,7 +3684,7 @@ msgstr ""
 
 #. Name for bku
 msgid "Buhid"
-msgstr ""
+msgstr "Buhidski"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -3769,11 +3764,11 @@ msgstr ""
 
 #. Name for bln
 msgid "Southern Catanduanes Bikol"
-msgstr ""
+msgstr "Južni Catanduanes Bilocano"
 
 #. Inverted name for bln
 msgid "Bikol, Southern Catanduanes"
-msgstr ""
+msgstr "Bilocano, južni catanduanes"
 
 #. Name for blo
 msgid "Anii"
@@ -3877,15 +3872,15 @@ msgstr ""
 
 #. Name for bmm
 msgid "Northern Betsimisaraka Malagasy"
-msgstr ""
+msgstr "Sjeverni betsimisaraka malagaški"
 
 #. Inverted name for bmm
 msgid "Malagasy, Northern Betsimisaraka"
-msgstr ""
+msgstr "Malagaški, sjeverni betsimisaraka"
 
 #. Name for bmn
 msgid "Bina (Papua New Guinea)"
-msgstr ""
+msgstr "Bina (Papua Nova Gvineja)"
 
 #. Name for bmo
 msgid "Bambalang"
@@ -3949,7 +3944,7 @@ msgstr ""
 
 #. Name for bnd
 msgid "Banda (Indonesia)"
-msgstr ""
+msgstr "Banda (Indonezija)"
 
 #. Name for bne
 msgid "Bintauna"
@@ -3969,11 +3964,11 @@ msgstr ""
 
 #. Name for bnj
 msgid "Eastern Tawbuid"
-msgstr ""
+msgstr "Istočnotawbuidski"
 
 #. Inverted name for bnj
 msgid "Tawbuid, Eastern"
-msgstr ""
+msgstr "Awbuidski, istočni"
 
 #. Name for bnk
 msgid "Bierebo"
@@ -4045,7 +4040,7 @@ msgstr ""
 
 #. Name for bod
 msgid "Tibetan"
-msgstr "tibetski"
+msgstr "Tibetski"
 
 #. Name for boe
 msgid "Mundabli"
@@ -4057,7 +4052,7 @@ msgstr ""
 
 #. Name for bog
 msgid "Bamako Sign Language"
-msgstr ""
+msgstr "Bamački znakovni jezik"
 
 #. Name for boh
 msgid "Boma"
@@ -4109,7 +4104,7 @@ msgstr ""
 
 #. Name for bos
 msgid "Bosnian"
-msgstr "bosanski"
+msgstr "Bošnjački"
 
 #. Name for bot
 msgid "Bongo"
@@ -4133,7 +4128,7 @@ msgstr ""
 
 #. Name for boy
 msgid "Bodo (Central African Republic)"
-msgstr ""
+msgstr "Bodo (Srednjoafrička Republika)"
 
 #. Name for boz
 msgid "Tiéyaxo Bozo"
@@ -4161,7 +4156,7 @@ msgstr ""
 
 #. Name for bph
 msgid "Botlikh"
-msgstr ""
+msgstr "Botlihski"
 
 #. Name for bpi
 msgid "Bagupi"
@@ -4177,7 +4172,7 @@ msgstr ""
 
 #. Name for bpl
 msgid "Broome Pearling Lugger Pidgin"
-msgstr ""
+msgstr "Broome Pearling Lugger Pidžin"
 
 #. Name for bpm
 msgid "Biyom"
@@ -4197,11 +4192,11 @@ msgstr ""
 
 #. Name for bpq
 msgid "Banda Malay"
-msgstr ""
+msgstr "Banda malajski"
 
 #. Inverted name for bpq
 msgid "Malay, Banda"
-msgstr ""
+msgstr "Malajski, banda"
 
 #. Name for bpr
 msgid "Koronadal Blaan"
@@ -4237,7 +4232,7 @@ msgstr ""
 
 #. Name for bpw
 msgid "Bo (Papua New Guinea)"
-msgstr ""
+msgstr "Bo (Papua Nova Gvineja)"
 
 #. Name for bpx
 msgid "Palya Bareli"
@@ -4285,7 +4280,7 @@ msgstr ""
 
 #. Name for bqi
 msgid "Bakhtiari"
-msgstr ""
+msgstr "Bahtijarski"
 
 #. Name for bqj
 msgid "Bandial"
@@ -4305,7 +4300,7 @@ msgstr ""
 
 #. Name for bqn
 msgid "Bulgarian Sign Language"
-msgstr "bugarski znakovni jezik"
+msgstr "Bugarski znakovni jezik"
 
 #. Name for bqo
 msgid "Balo"
@@ -4341,7 +4336,7 @@ msgstr ""
 
 #. Name for bqw
 msgid "Buru (Nigeria)"
-msgstr ""
+msgstr "Buru (Nigerija)"
 
 #. Name for bqx
 msgid "Baangi"
@@ -4349,7 +4344,7 @@ msgstr ""
 
 #. Name for bqy
 msgid "Bengkala Sign Language"
-msgstr ""
+msgstr "Benkala znakovni jezik"
 
 #. Name for bqz
 msgid "Bakaka"
@@ -4365,11 +4360,11 @@ msgstr ""
 
 #. Name for brc
 msgid "Berbice Creole Dutch"
-msgstr ""
+msgstr "Berbice kreolski nizozemski"
 
 #. Inverted name for brc
 msgid "Creole Dutch, Berbice"
-msgstr ""
+msgstr "Nizozemski, berbice kreolski"
 
 #. Name for brd
 msgid "Baraamu"
@@ -4377,7 +4372,7 @@ msgstr ""
 
 #. Name for bre
 msgid "Breton"
-msgstr "bretonski"
+msgstr "Bretonski"
 
 #. Name for brf
 msgid "Bera"
@@ -4441,19 +4436,19 @@ msgstr ""
 
 #. Name for bru
 msgid "Eastern Bru"
-msgstr ""
+msgstr "Istočni bru"
 
 #. Inverted name for bru
 msgid "Bru, Eastern"
-msgstr ""
+msgstr "Bru, istočni"
 
 #. Name for brv
 msgid "Western Bru"
-msgstr ""
+msgstr "Zapadni bru"
 
 #. Inverted name for brv
 msgid "Bru, Western"
-msgstr ""
+msgstr "Bru, zapadni"
 
 #. Name for brw
 msgid "Bellari"
@@ -4461,7 +4456,7 @@ msgstr ""
 
 #. Name for brx
 msgid "Bodo (India)"
-msgstr ""
+msgstr "Bodo (Indija)"
 
 #. Name for bry
 msgid "Burui"
@@ -4477,11 +4472,11 @@ msgstr ""
 
 #. Name for bsb
 msgid "Brunei Bisaya"
-msgstr ""
+msgstr "Brunejski bisayanski"
 
 #. Inverted name for bsb
 msgid "Bisaya, Brunei"
-msgstr ""
+msgstr "Bisayanski, brunejski"
 
 #. Name for bsc
 msgid "Bassari"
@@ -4497,7 +4492,7 @@ msgstr ""
 
 #. Name for bsg
 msgid "Bashkardi"
-msgstr ""
+msgstr "Baškardski"
 
 #. Name for bsh
 msgid "Kati"
@@ -4513,7 +4508,7 @@ msgstr ""
 
 #. Name for bsk
 msgid "Burushaski"
-msgstr ""
+msgstr "Burushaski"
 
 #. Name for bsl
 msgid "Basa-Gumna"
@@ -4569,11 +4564,11 @@ msgstr ""
 
 #. Name for bsy
 msgid "Sabah Bisaya"
-msgstr ""
+msgstr "Sabahski bisaya"
 
 #. Inverted name for bsy
 msgid "Bisaya, Sabah"
-msgstr ""
+msgstr "Bisaya, sabahski"
 
 #. Name for bta
 msgid "Bata"
@@ -4581,7 +4576,7 @@ msgstr ""
 
 #. Name for btc
 msgid "Bati (Cameroon)"
-msgstr ""
+msgstr "Bati (Kamerun)"
 
 #. Name for btd
 msgid "Batak Dairi"
@@ -4617,11 +4612,11 @@ msgstr ""
 
 #. Name for btj
 msgid "Bacanese Malay"
-msgstr "bakaneški malajski"
+msgstr "Bačanski malajski"
 
 #. Inverted name for btj
 msgid "Malay, Bacanese"
-msgstr "malajski, bakaneški"
+msgstr "Malajski, bačanski"
 
 #. Name for btm
 msgid "Batak Mandailing"
@@ -4685,7 +4680,7 @@ msgstr ""
 
 #. Name for bua
 msgid "Buriat"
-msgstr "burijatski"
+msgstr "Burijatski"
 
 #. Name for bub
 msgid "Bua"
@@ -4709,7 +4704,7 @@ msgstr ""
 
 #. Name for bug
 msgid "Buginese"
-msgstr ""
+msgstr "Bugis"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -4733,11 +4728,11 @@ msgstr ""
 
 #. Name for bul
 msgid "Bulgarian"
-msgstr "bugarski"
+msgstr "Bugarski"
 
 #. Name for bum
 msgid "Bulu (Cameroon)"
-msgstr ""
+msgstr "Bulu (Kamerun)"
 
 #. Name for bun
 msgid "Sherbro"
@@ -4805,11 +4800,11 @@ msgstr ""
 
 #. Name for bve
 msgid "Berau Malay"
-msgstr "berauški malajski"
+msgstr "Berau malajski"
 
 #. Inverted name for bve
 msgid "Malay, Berau"
-msgstr "malajski, berauški"
+msgstr "Malajski, berau"
 
 #. Name for bvf
 msgid "Boor"
@@ -4837,7 +4832,7 @@ msgstr ""
 
 #. Name for bvl
 msgid "Bolivian Sign Language"
-msgstr "bolivijski znakovni jezik"
+msgstr "Bolivijski znakovni jezik"
 
 #. Name for bvm
 msgid "Bamunka"
@@ -4865,15 +4860,15 @@ msgstr ""
 
 #. Name for bvt
 msgid "Bati (Indonesia)"
-msgstr ""
+msgstr "Bati (Indonezija)"
 
 #. Name for bvu
 msgid "Bukit Malay"
-msgstr "bukitski malajski"
+msgstr "Bukitski malajski"
 
 #. Inverted name for bvu
 msgid "Malay, Bukit"
-msgstr "malajski, bukitski"
+msgstr "Malajski, bukitski"
 
 #. Name for bvv
 msgid "Baniva"
@@ -4965,7 +4960,7 @@ msgstr ""
 
 #. Name for bwo
 msgid "Boro (Ethiopia)"
-msgstr ""
+msgstr "Boro (Etiopija)"
 
 #. Name for bwp
 msgid "Mandobo Bawah"
@@ -4973,11 +4968,11 @@ msgstr ""
 
 #. Name for bwq
 msgid "Southern Bobo Madaré"
-msgstr ""
+msgstr "Južni Bobo Madaré"
 
 #. Inverted name for bwq
 msgid "Bobo Madaré, Southern"
-msgstr ""
+msgstr "Bobo Madaré, Južni"
 
 #. Name for bwr
 msgid "Bura-Pabir"
@@ -4993,7 +4988,7 @@ msgstr ""
 
 #. Name for bwu
 msgid "Buli (Ghana)"
-msgstr ""
+msgstr "Buli (Gana)"
 
 #. Name for bww
 msgid "Bwa"
@@ -5073,11 +5068,11 @@ msgstr ""
 
 #. Name for bxm
 msgid "Mongolia Buriat"
-msgstr "mongolski burijatski"
+msgstr "Mongolski burjatski"
 
 #. Inverted name for bxm
 msgid "Buriat, Mongolia"
-msgstr "burijatski, mongolski"
+msgstr "Burjatski, mongolski"
 
 #. Name for bxn
 msgid "Burduna"
@@ -5097,11 +5092,11 @@ msgstr ""
 
 #. Name for bxr
 msgid "Russia Buriat"
-msgstr "ruski burijatski"
+msgstr "Ruski burjatski"
 
 #. Inverted name for bxr
 msgid "Buriat, Russia"
-msgstr "burijatski, ruski"
+msgstr "Burjatski, ruski"
 
 #. Name for bxs
 msgid "Busam"
@@ -5109,11 +5104,11 @@ msgstr ""
 
 #. Name for bxu
 msgid "China Buriat"
-msgstr "kineski burijatski"
+msgstr "Kineski burjatski"
 
 #. Inverted name for bxu
 msgid "Buriat, China"
-msgstr "burijatski, kineski"
+msgstr "Burjatski, kineski"
 
 #. Name for bxv
 msgid "Berakou"
@@ -5129,7 +5124,7 @@ msgstr ""
 
 #. Name for bya
 msgid "Batak"
-msgstr "batački"
+msgstr "Batački"
 
 #. Name for byb
 msgid "Bikya"
@@ -5165,7 +5160,7 @@ msgstr ""
 
 #. Name for byj
 msgid "Bina (Nigeria)"
-msgstr ""
+msgstr "Bina (Nigerija)"
 
 #. Name for byk
 msgid "Biao"
@@ -5233,11 +5228,11 @@ msgstr ""
 
 #. Name for bzc
 msgid "Southern Betsimisaraka Malagasy"
-msgstr ""
+msgstr "Južno betsimisaraki malagaški"
 
 #. Inverted name for bzc
 msgid "Malagasy, Southern Betsimisaraka"
-msgstr ""
+msgstr "Malagaški, južno betsimisaraki"
 
 #. Name for bzd
 msgid "Bribri"
@@ -5273,19 +5268,19 @@ msgstr ""
 
 #. Name for bzj
 msgid "Belize Kriol English"
-msgstr ""
+msgstr "Belizejski kriol engleski"
 
 #. Inverted name for bzj
 msgid "Kriol English, Belize"
-msgstr ""
+msgstr "Kriol engleski, belizejski"
 
 #. Name for bzk
 msgid "Nicaragua Creole English"
-msgstr "nikaragvanski kreolski engleski"
+msgstr "Nikaragvanski kreolski engleski"
 
 #. Inverted name for bzk
 msgid "Creole English, Nicaragua"
-msgstr "kreolski engleski, nikaragvanski"
+msgstr "Kreolski engleski, nikaragvanski"
 
 #. Name for bzl
 msgid "Boano (Sulawesi)"
@@ -5309,7 +5304,7 @@ msgstr ""
 
 #. Name for bzq
 msgid "Buli (Indonesia)"
-msgstr ""
+msgstr "Buli (Indonezija)"
 
 #. Name for bzr
 msgid "Biri"
@@ -5317,7 +5312,7 @@ msgstr ""
 
 #. Name for bzs
 msgid "Brazilian Sign Language"
-msgstr "brazilski znakovni jezik"
+msgstr "Brazilski znakovni jezik"
 
 #. Name for bzt
 msgid "Brithenig"
@@ -5333,15 +5328,15 @@ msgstr ""
 
 #. Name for bzw
 msgid "Basa (Nigeria)"
-msgstr ""
+msgstr "Basa (Nigerija)"
 
 #. Name for bzx
 msgid "Kɛlɛngaxo Bozo"
-msgstr ""
+msgstr "Hainyaxo Bozo"
 
 #. Inverted name for bzx
 msgid "Bozo, Kɛlɛngaxo"
-msgstr ""
+msgstr "Bozo, Hainyaxo"
 
 #. Name for bzy
 msgid "Obanliku"
@@ -5369,15 +5364,15 @@ msgstr ""
 
 #. Name for cae
 msgid "Lehar"
-msgstr ""
+msgstr "Laalaa"
 
 #. Name for caf
 msgid "Southern Carrier"
-msgstr ""
+msgstr "Južni carrier"
 
 #. Inverted name for caf
 msgid "Carrier, Southern"
-msgstr ""
+msgstr "Carrier,\tjužni"
 
 #. Name for cag
 msgid "Nivaclé"
@@ -5397,7 +5392,7 @@ msgstr ""
 
 #. Name for cal
 msgid "Carolinian"
-msgstr "karolinski"
+msgstr "Karolinski"
 
 #. Name for cam
 msgid "Cemuhî"
@@ -5417,19 +5412,19 @@ msgstr ""
 
 #. Name for caq
 msgid "Car Nicobarese"
-msgstr ""
+msgstr "Car nikobarski"
 
 #. Inverted name for caq
 msgid "Nicobarese, Car"
-msgstr ""
+msgstr "Nikobarski, car"
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr ""
+msgstr "Galibi karipski"
 
 #. Inverted name for car
 msgid "Carib, Galibi"
-msgstr ""
+msgstr "Karipski, galibi"
 
 #. Name for cas
 msgid "Tsimané"
@@ -5437,7 +5432,7 @@ msgstr ""
 
 #. Name for cat
 msgid "Catalan"
-msgstr "katalonski"
+msgstr "Katalonski"
 
 #. Name for cav
 msgid "Cavineña"
@@ -5577,11 +5572,11 @@ msgstr ""
 
 #. Name for ccm
 msgid "Malaccan Creole Malay"
-msgstr "malakanski kreolski malajski"
+msgstr "Malački kreolski malajski"
 
 #. Inverted name for ccm
 msgid "Creole Malay, Malaccan"
-msgstr "kreolski malajski, malakanski"
+msgstr "Kreolski malajski, malački"
 
 #. Name for cco
 msgid "Comaltepec Chinantec"
@@ -5593,7 +5588,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr ""
+msgstr "Chakma"
 
 #. Name for ccr
 msgid "Cacaopera"
@@ -5637,11 +5632,11 @@ msgstr ""
 
 #. Name for cdo
 msgid "Min Dong Chinese"
-msgstr "mindonški kineski"
+msgstr "Min Dong kineski"
 
 #. Inverted name for cdo
 msgid "Chinese, Min Dong"
-msgstr "kineski, mindonški"
+msgstr "Kineski, Min Dong"
 
 #. Name for cdr
 msgid "Cinda-Regi-Tiyal"
@@ -5649,7 +5644,7 @@ msgstr ""
 
 #. Name for cds
 msgid "Chadian Sign Language"
-msgstr "čadski znakovni jezik"
+msgstr "Čadski znakovni jezik"
 
 #. Name for cdy
 msgid "Chadong"
@@ -5689,7 +5684,7 @@ msgstr ""
 
 #. Name for ces
 msgid "Czech"
-msgstr "češki"
+msgstr "Češki"
 
 #. Name for cet
 msgid "Centúúm"
@@ -5753,19 +5748,19 @@ msgstr ""
 
 #. Name for che
 msgid "Chechen"
-msgstr "čečenski"
+msgstr "Čečenski"
 
 #. Name for chf
 msgid "Tabasco Chontal"
-msgstr ""
+msgstr "Tabaskanski Chontal"
 
 #. Inverted name for chf
 msgid "Chontal, Tabasco"
-msgstr ""
+msgstr "Chontal, tabaskanski"
 
 #. Name for chg
 msgid "Chagatai"
-msgstr "čagatajski"
+msgstr "Čagatajski"
 
 #. Name for chh
 msgid "Chinook"
@@ -5781,7 +5776,7 @@ msgstr ""
 
 #. Name for chk
 msgid "Chuukese"
-msgstr ""
+msgstr "Tručki"
 
 #. Name for chl
 msgid "Cahuilla"
@@ -5789,7 +5784,7 @@ msgstr ""
 
 #. Name for chm
 msgid "Mari (Russia)"
-msgstr ""
+msgstr "Čeremiski (Rusija)"
 
 #. Name for chn
 msgid "Chinook jargon"
@@ -5813,7 +5808,7 @@ msgstr ""
 
 #. Name for chr
 msgid "Cherokee"
-msgstr ""
+msgstr "Cherokee"
 
 #. Name for cht
 msgid "Cholón"
@@ -5821,15 +5816,15 @@ msgstr ""
 
 #. Name for chu
 msgid "Church Slavic"
-msgstr "crkveni slavenski"
+msgstr "Crkvenoslavenski"
 
 #. Inverted name for chu
 msgid "Slavic, Church"
-msgstr ""
+msgstr "Slavenski, crkveni"
 
 #. Name for chv
 msgid "Chuvash"
-msgstr "čuvaški"
+msgstr "Čuvaški"
 
 #. Name for chw
 msgid "Chuwabu"
@@ -5841,7 +5836,7 @@ msgstr ""
 
 #. Name for chy
 msgid "Cheyenne"
-msgstr "čejenski"
+msgstr "Čejenski"
 
 #. Name for chz
 msgid "Ozumacín Chinantec"
@@ -5889,7 +5884,7 @@ msgstr ""
 
 #. Name for cim
 msgid "Cimbrian"
-msgstr ""
+msgstr "Cimbrijski"
 
 #. Name for cin
 msgid "Cinta Larga"
@@ -5913,11 +5908,11 @@ msgstr ""
 
 #. Name for cja
 msgid "Western Cham"
-msgstr ""
+msgstr "Zapadnočamski"
 
 #. Inverted name for cja
 msgid "Cham, Western"
-msgstr ""
+msgstr "Čamski, zapadni"
 
 #. Name for cje
 msgid "Chru"
@@ -5933,7 +5928,7 @@ msgstr ""
 
 #. Name for cji
 msgid "Chamalal"
-msgstr ""
+msgstr "Čamalalski"
 
 #. Name for cjk
 msgid "Chokwe"
@@ -5941,11 +5936,11 @@ msgstr ""
 
 #. Name for cjm
 msgid "Eastern Cham"
-msgstr ""
+msgstr "Istočnočamski"
 
 #. Inverted name for cjm
 msgid "Cham, Eastern"
-msgstr ""
+msgstr "Čamski, istočni"
 
 #. Name for cjn
 msgid "Chenapian"
@@ -5961,7 +5956,7 @@ msgstr ""
 
 #. Name for cjs
 msgid "Shor"
-msgstr ""
+msgstr "Šorski"
 
 #. Name for cjv
 msgid "Chuave"
@@ -5969,19 +5964,19 @@ msgstr ""
 
 #. Name for cjy
 msgid "Jinyu Chinese"
-msgstr ""
+msgstr "Jinyu kineski"
 
 #. Inverted name for cjy
 msgid "Chinese, Jinyu"
-msgstr ""
+msgstr "Kineski, jinyu"
 
 #. Name for ckb
 msgid "Central Kurdish"
-msgstr "srednjekurdski"
+msgstr "Centralnokurdski"
 
 #. Inverted name for ckb
 msgid "Kurdish, Central"
-msgstr "srednjekurdski"
+msgstr "Kurdski, centralni"
 
 #. Name for ckh
 msgid "Chak"
@@ -6017,7 +6012,7 @@ msgstr ""
 
 #. Name for ckt
 msgid "Chukot"
-msgstr ""
+msgstr "Čukčijski"
 
 #. Name for cku
 msgid "Koasati"
@@ -6037,7 +6032,7 @@ msgstr ""
 
 #. Name for ckz
 msgid "Cakchiquel-Quiché Mixed Language"
-msgstr ""
+msgstr "Kaqchikel-K’iche’ miješani jezik"
 
 #. Name for cla
 msgid "Ron"
@@ -6049,11 +6044,11 @@ msgstr ""
 
 #. Name for cld
 msgid "Chaldean Neo-Aramaic"
-msgstr ""
+msgstr "Kaldejski neoaramejski"
 
 #. Inverted name for cld
 msgid "Neo-Aramaic, Chaldean"
-msgstr ""
+msgstr "Neoaramejski, kaldejski"
 
 #. Name for cle
 msgid "Lealao Chinantec"
@@ -6113,7 +6108,7 @@ msgstr ""
 
 #. Name for clw
 msgid "Chulym"
-msgstr ""
+msgstr "Čulimski"
 
 #. Name for cly
 msgid "Eastern Highland Chatino"
@@ -6133,11 +6128,11 @@ msgstr ""
 
 #. Name for cmg
 msgid "Classical Mongolian"
-msgstr "klasični mongolski"
+msgstr "Klasični mongolski"
 
 #. Inverted name for cmg
 msgid "Mongolian, Classical"
-msgstr "mongolski, klasični"
+msgstr "Mongolski, klasični"
 
 #. Name for cmi
 msgid "Emberá-Chamí"
@@ -6153,11 +6148,11 @@ msgstr ""
 
 #. Name for cmn
 msgid "Mandarin Chinese"
-msgstr "mandarinski kineski"
+msgstr "Mandarinski kineski"
 
 #. Inverted name for cmn
 msgid "Chinese, Mandarin"
-msgstr "kineski, mandarinski"
+msgstr "Kineski, mandarinski"
 
 #. Name for cmo
 msgid "Central Mnong"
@@ -6177,7 +6172,7 @@ msgstr ""
 
 #. Name for cms
 msgid "Messapic"
-msgstr ""
+msgstr "Mesapijski"
 
 #. Name for cmt
 msgid "Camtho"
@@ -6201,11 +6196,11 @@ msgstr ""
 
 #. Name for cng
 msgid "Northern Qiang"
-msgstr ""
+msgstr "Sjeverni qiang"
 
 #. Inverted name for cng
 msgid "Qiang, Northern"
-msgstr ""
+msgstr "Giang, sjeverni"
 
 #. Name for cnh
 msgid "Hakha Chin"
@@ -6241,11 +6236,11 @@ msgstr ""
 
 #. Name for cns
 msgid "Central Asmat"
-msgstr ""
+msgstr "Centralnoasmatski"
 
 #. Inverted name for cns
 msgid "Asmat, Central"
-msgstr ""
+msgstr "Asmatski, centralni"
 
 #. Name for cnt
 msgid "Tepetotutla Chinantec"
@@ -6269,19 +6264,19 @@ msgstr ""
 
 #. Name for cnx
 msgid "Middle Cornish"
-msgstr ""
+msgstr "Srednjovjekovni kornijski"
 
 #. Inverted name for cnx
 msgid "Cornish, Middle"
-msgstr ""
+msgstr "Kornijski, srednjovjekovni"
 
 #. Name for coa
 msgid "Cocos Islands Malay"
-msgstr ""
+msgstr "Kokoski malajski"
 
 #. Inverted name for coa
 msgid "Malay, Cocos Islands"
-msgstr ""
+msgstr "Malajski, kokoski"
 
 #. Name for cob
 msgid "Chicomuceltec"
@@ -6341,7 +6336,7 @@ msgstr ""
 
 #. Name for cop
 msgid "Coptic"
-msgstr "koptski"
+msgstr "Koptski"
 
 #. Name for coq
 msgid "Coquille"
@@ -6349,11 +6344,11 @@ msgstr ""
 
 #. Name for cor
 msgid "Cornish"
-msgstr ""
+msgstr "Kornijski"
 
 #. Name for cos
 msgid "Corsican"
-msgstr "korzički"
+msgstr "Korzički"
 
 #. Name for cot
 msgid "Caquinte"
@@ -6401,19 +6396,19 @@ msgstr ""
 
 #. Name for cpg
 msgid "Cappadocian Greek"
-msgstr ""
+msgstr "Kapadocijski grčki"
 
 #. Inverted name for cpg
 msgid "Greek, Cappadocian"
-msgstr ""
+msgstr "Grčki, kapadocijski"
 
 #. Name for cpi
 msgid "Chinese Pidgin English"
-msgstr "kineski pidžin engleski"
+msgstr "Kineski pidžin engleski"
 
 #. Inverted name for cpi
 msgid "Pidgin English, Chinese"
-msgstr "pidžin engleski, kineski"
+msgstr "Pidžin engleski, kineski"
 
 #. Name for cpn
 msgid "Cherepon"
@@ -6445,11 +6440,11 @@ msgstr ""
 
 #. Name for cpy
 msgid "South Ucayali Ashéninka"
-msgstr ""
+msgstr "Južni ucayali ashéninka"
 
 #. Inverted name for cpy
 msgid "Ashéninka, South Ucayali"
-msgstr ""
+msgstr "Ashéninka, Južni ucayali"
 
 #. Name for cqd
 msgid "Chuanqiandian Cluster Miao"
@@ -6465,11 +6460,11 @@ msgstr ""
 
 #. Name for crb
 msgid "Island Carib"
-msgstr "otočni karipski"
+msgstr "Otočni karipski"
 
 #. Inverted name for crb
 msgid "Carib, Island"
-msgstr "karipski, otočni"
+msgstr "Karipski, otočni"
 
 #. Name for crc
 msgid "Lonwolwol"
@@ -6481,7 +6476,7 @@ msgstr ""
 
 #. Name for cre
 msgid "Cree"
-msgstr "krijski"
+msgstr "Krijski"
 
 #. Name for crf
 msgid "Caramanta"
@@ -6493,12 +6488,11 @@ msgstr ""
 
 #. Name for crh
 msgid "Crimean Tatar"
-msgstr "krimski tatarski"
+msgstr "Krimskotatarski"
 
 #. Inverted name for crh
-#, fuzzy
 msgid "Tatar, Crimean"
-msgstr "turski, krimski"
+msgstr "Tatarski, krimski"
 
 #. Name for cri
 msgid "Sãotomense"
@@ -6506,11 +6500,11 @@ msgstr ""
 
 #. Name for crj
 msgid "Southern East Cree"
-msgstr "jugoistočnokrijski"
+msgstr "Jugoistočni cree"
 
 #. Inverted name for crj
 msgid "Cree, Southern East"
-msgstr "jugoistočnokrijski"
+msgstr "Cree, jugoistočni"
 
 #. Name for crk
 msgid "Plains Cree"
@@ -6522,11 +6516,11 @@ msgstr ""
 
 #. Name for crl
 msgid "Northern East Cree"
-msgstr "sjevernoistočnokrijski"
+msgstr "Sjeveroistočni cree"
 
 #. Inverted name for crl
 msgid "Cree, Northern East"
-msgstr "sjevernoistočnokrijski"
+msgstr "Cree, sjeveroistočni"
 
 #. Name for crm
 msgid "Moose Cree"
@@ -6558,19 +6552,19 @@ msgstr ""
 
 #. Name for crr
 msgid "Carolina Algonquian"
-msgstr "karolinski algonkvijanski"
+msgstr "Karolinski algonkijski"
 
 #. Inverted name for crr
 msgid "Algonquian, Carolina"
-msgstr "algonkvijanski, karolinski"
+msgstr "Algonkijski, karolinski"
 
 #. Name for crs
 msgid "Seselwa Creole French"
-msgstr "seselvaški kreolski francuski"
+msgstr "Sejšelski kreolski francuski"
 
 #. Inverted name for crs
 msgid "Creole French, Seselwa"
-msgstr "kreolski francuski, seselvaški"
+msgstr "Kreolski francuski, sejšelski"
 
 #. Name for crt
 msgid "Iyojwa'ja Chorote"
@@ -6610,27 +6604,27 @@ msgstr ""
 
 #. Name for csb
 msgid "Kashubian"
-msgstr ""
+msgstr "Kašupski"
 
 #. Name for csc
 msgid "Catalan Sign Language"
-msgstr "katalonski znakovni jezik"
+msgstr "Katalonski znakovni jezik"
 
 #. Name for csd
 msgid "Chiangmai Sign Language"
-msgstr ""
+msgstr "Chiangmai znakovni jezik"
 
 #. Name for cse
 msgid "Czech Sign Language"
-msgstr "češki znakovni jezik"
+msgstr "Češki znakovni jezik"
 
 #. Name for csf
 msgid "Cuba Sign Language"
-msgstr "kubanski znakovni jezik"
+msgstr "Kubanski znakovni jezik"
 
 #. Name for csg
 msgid "Chilean Sign Language"
-msgstr "čileanski znakovni jezik"
+msgstr "Čileanski znakovni jezik"
 
 #. Name for csh
 msgid "Asho Chin"
@@ -6653,9 +6647,8 @@ msgid "Songlai Chin"
 msgstr ""
 
 #. Inverted name for csj
-#, fuzzy
 msgid "Chin, Songlai"
-msgstr "kineski, mindonški"
+msgstr "Kineski, mindonški"
 
 #. Name for csk
 msgid "Jola-Kasa"
@@ -6663,7 +6656,7 @@ msgstr ""
 
 #. Name for csl
 msgid "Chinese Sign Language"
-msgstr "kineski znakovni jezik"
+msgstr "Kineski znakovni jezik"
 
 #. Name for csm
 msgid "Central Sierra Miwok"
@@ -6675,7 +6668,7 @@ msgstr ""
 
 #. Name for csn
 msgid "Colombian Sign Language"
-msgstr "kolumbijski znakovni jezik"
+msgstr "Kolumbijski znakovni jezik"
 
 #. Name for cso
 msgid "Sochiapam Chinantec"
@@ -6687,27 +6680,27 @@ msgstr ""
 
 #. Name for csq
 msgid "Croatia Sign Language"
-msgstr "hrvatski znakovni jezik"
+msgstr "Hrvatski znakovni jezik"
 
 #. Name for csr
 msgid "Costa Rican Sign Language"
-msgstr "kostarikanski znakovni jezik"
+msgstr "Kostarikanski znakovni jezik"
 
 #. Name for css
 msgid "Southern Ohlone"
-msgstr ""
+msgstr "Južni ohlone"
 
 #. Inverted name for css
 msgid "Ohlone, Southern"
-msgstr ""
+msgstr "Ohlone, južni"
 
 #. Name for cst
 msgid "Northern Ohlone"
-msgstr ""
+msgstr "Sjeverni ohlone"
 
 #. Inverted name for cst
 msgid "Ohlone, Northern"
-msgstr ""
+msgstr "Ohlone, sjeverni"
 
 #. Name for csv
 msgid "Sumtu Chin"
@@ -6719,11 +6712,11 @@ msgstr ""
 
 #. Name for csw
 msgid "Swampy Cree"
-msgstr "močvarni krijski"
+msgstr "Močvarni krijski"
 
 #. Inverted name for csw
 msgid "Cree, Swampy"
-msgstr "krijski, močvarni"
+msgstr "Krijski, močvarni"
 
 #. Name for csy
 msgid "Siyin Chin"
@@ -6767,7 +6760,7 @@ msgstr ""
 
 #. Name for ctg
 msgid "Chittagonian"
-msgstr ""
+msgstr "Čitagonški"
 
 #. Name for cth
 msgid "Thaiphum Chin"
@@ -6807,11 +6800,11 @@ msgstr ""
 
 #. Name for cts
 msgid "Northern Catanduanes Bikol"
-msgstr ""
+msgstr "Sjeverni catanduanes bikol"
 
 #. Inverted name for cts
 msgid "Bikol, Northern Catanduanes"
-msgstr ""
+msgstr "Bikol, sjeverni catanduanes"
 
 #. Name for ctt
 msgid "Wayanad Chetti"
@@ -6875,7 +6868,7 @@ msgstr ""
 
 #. Name for cul
 msgid "Culina"
-msgstr ""
+msgstr "Kulina"
 
 #. Name for cuo
 msgid "Cumanagoto"
@@ -6943,11 +6936,11 @@ msgstr ""
 
 #. Name for cwd
 msgid "Woods Cree"
-msgstr ""
+msgstr "Šumski krijski"
 
 #. Inverted name for cwd
 msgid "Cree, Woods"
-msgstr ""
+msgstr "Krijski, šumski"
 
 #. Name for cwe
 msgid "Kwere"
@@ -6975,7 +6968,7 @@ msgstr ""
 
 #. Name for cym
 msgid "Welsh"
-msgstr "velški"
+msgstr "Velški"
 
 #. Name for cyo
 msgid "Cuyonon"
@@ -6983,15 +6976,15 @@ msgstr ""
 
 #. Name for czh
 msgid "Huizhou Chinese"
-msgstr ""
+msgstr "Huizhou kineski"
 
 #. Inverted name for czh
 msgid "Chinese, Huizhou"
-msgstr ""
+msgstr "Kineski, huizhou"
 
 #. Name for czk
 msgid "Knaanic"
-msgstr ""
+msgstr "Knaanski"
 
 #. Name for czn
 msgid "Zenzontepec Chatino"
@@ -7003,11 +6996,11 @@ msgstr ""
 
 #. Name for czo
 msgid "Min Zhong Chinese"
-msgstr ""
+msgstr "Min Zhong kineski"
 
 #. Inverted name for czo
 msgid "Chinese, Min Zhong"
-msgstr ""
+msgstr "Kineski, Min Zhong"
 
 #. Name for czt
 msgid "Zotung Chin"
@@ -7067,7 +7060,7 @@ msgstr ""
 
 #. Name for dan
 msgid "Danish"
-msgstr "danski"
+msgstr "Danski"
 
 #. Name for dao
 msgid "Daai Chin"
@@ -7339,7 +7332,7 @@ msgstr ""
 
 #. Name for deu
 msgid "German"
-msgstr "njemački"
+msgstr "Njemački"
 
 #. Name for dev
 msgid "Domung"
@@ -7715,7 +7708,7 @@ msgstr ""
 
 #. Name for dlm
 msgid "Dalmatian"
-msgstr "dalmatinski"
+msgstr "Dalmatinski"
 
 #. Name for dln
 msgid "Darlong"
@@ -7927,7 +7920,7 @@ msgstr ""
 
 #. Name for doq
 msgid "Dominican Sign Language"
-msgstr "dominikanski znakovni jezik"
+msgstr "Dominikanski znakovni jezik"
 
 #. Name for dor
 msgid "Dori'o"
@@ -8035,7 +8028,7 @@ msgstr ""
 
 #. Name for dsb
 msgid "Lower Sorbian"
-msgstr ""
+msgstr "Donjolužički srpski"
 
 #. Inverted name for dsb
 msgid "Sorbian, Lower"
@@ -8043,7 +8036,7 @@ msgstr ""
 
 #. Name for dse
 msgid "Dutch Sign Language"
-msgstr "nizozemski znakovni jezik"
+msgstr "Nizozemski znakovni jezik"
 
 #. Name for dsh
 msgid "Daasanach"
@@ -8055,7 +8048,7 @@ msgstr ""
 
 #. Name for dsl
 msgid "Danish Sign Language"
-msgstr "danski znakovni jezik"
+msgstr "Danski znakovni jezik"
 
 #. Name for dsn
 msgid "Dusner"
@@ -8219,11 +8212,11 @@ msgstr ""
 
 #. Name for dum
 msgid "Middle Dutch (ca. 1050-1350)"
-msgstr ""
+msgstr "Srednjovjekovni nizozemski (oko 1050. – 1350.)"
 
 #. Inverted name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr ""
+msgstr "Nizozemski, srednjovjekovni (oko 1050. – 1350.)"
 
 #. Name for dun
 msgid "Dusun Deyah"
@@ -8419,7 +8412,7 @@ msgstr ""
 
 #. Name for ecs
 msgid "Ecuadorian Sign Language"
-msgstr "ekvadorski znakovni jezik"
+msgstr "Ekvadorski znakovni jezik"
 
 #. Name for ecy
 msgid "Eteocypriot"
@@ -8447,7 +8440,7 @@ msgstr ""
 
 #. Name for egl
 msgid "Emilian"
-msgstr "emilijanski"
+msgstr "Emilijanski"
 
 #. Name for ego
 msgid "Eggon"
@@ -8455,7 +8448,7 @@ msgstr ""
 
 #. Name for egy
 msgid "Egyptian (Ancient)"
-msgstr "egipatski (antički)"
+msgstr "Egipatski (antički)"
 
 #. Name for ehu
 msgid "Ehueun"
@@ -8482,14 +8475,12 @@ msgid "Ekajuk"
 msgstr ""
 
 #. Name for ekc
-#, fuzzy
 msgid "Eastern Karnic"
-msgstr "istočnobaločijski"
+msgstr "Istočni karnijski"
 
 #. Inverted name for ekc
-#, fuzzy
 msgid "Karnic, Eastern"
-msgstr "istočnobaločijski"
+msgstr "Karnijski, istočni"
 
 #. Name for eke
 msgid "Ekit"
@@ -8505,11 +8496,11 @@ msgstr ""
 
 #. Name for ekk
 msgid "Standard Estonian"
-msgstr "standardni estonski"
+msgstr "Standardni estonski"
 
 #. Inverted name for ekk
 msgid "Estonian, Standard"
-msgstr "estonski, standardni"
+msgstr "Estonski, standardni"
 
 #. Name for ekl
 msgid "Kol (Bangladesh)"
@@ -8557,11 +8548,11 @@ msgstr ""
 
 #. Name for ell
 msgid "Modern Greek (1453-)"
-msgstr "novogrčki (od 1453.)"
+msgstr "Novogrčki (od 1453.)"
 
 #. Inverted name for ell
 msgid "Greek, Modern (1453-)"
-msgstr "novogrčki (od 1453.)"
+msgstr "Grčki, novi (od 1453.)"
 
 #. Name for elm
 msgid "Eleme"
@@ -8685,7 +8676,7 @@ msgstr ""
 
 #. Name for eng
 msgid "English"
-msgstr "engleski"
+msgstr "Engleski"
 
 #. Name for enh
 msgid "Tundra Enets"
@@ -8701,11 +8692,11 @@ msgstr ""
 
 #. Name for enm
 msgid "Middle English (1100-1500)"
-msgstr ""
+msgstr "Srednjovjekovni engleski (1100. – 1500.)"
 
 #. Inverted name for enm
 msgid "English, Middle (1100-1500)"
-msgstr ""
+msgstr "Engleski, srednjovjekovni (1100. – 1500.)"
 
 #. Name for enn
 msgid "Engenni"
@@ -8749,7 +8740,7 @@ msgstr ""
 
 #. Name for epo
 msgid "Esperanto"
-msgstr "esperanto"
+msgstr "Esperanto"
 
 #. Name for era
 msgid "Eravallan"
@@ -8829,7 +8820,7 @@ msgstr ""
 
 #. Name for esl
 msgid "Egypt Sign Language"
-msgstr "egipatski znakovni jezik"
+msgstr "Egipatski znakovni jezik"
 
 #. Name for esm
 msgid "Esuma"
@@ -8837,11 +8828,11 @@ msgstr ""
 
 #. Name for esn
 msgid "Salvadoran Sign Language"
-msgstr "salvadorski znakovni jezik"
+msgstr "Salvadorski znakovni jezik"
 
 #. Name for eso
 msgid "Estonian Sign Language"
-msgstr "estonski znakovni jezik"
+msgstr "Estonski znakovni jezik"
 
 #. Name for esq
 msgid "Esselen"
@@ -8857,7 +8848,7 @@ msgstr ""
 
 #. Name for est
 msgid "Estonian"
-msgstr "estonski"
+msgstr "Estonski"
 
 #. Name for esu
 msgid "Central Yupik"
@@ -8881,7 +8872,7 @@ msgstr ""
 
 #. Name for eth
 msgid "Ethiopian Sign Language"
-msgstr "etiopski znakovni jezik"
+msgstr "Etiopski znakovni jezik"
 
 #. Name for etn
 msgid "Eton (Vanuatu)"
@@ -8901,7 +8892,7 @@ msgstr ""
 
 #. Name for ett
 msgid "Etruscan"
-msgstr "etruščanski"
+msgstr "Etruščanski"
 
 #. Name for etu
 msgid "Ejagham"
@@ -8917,7 +8908,7 @@ msgstr ""
 
 #. Name for eus
 msgid "Basque"
-msgstr "baskijski"
+msgstr "Baskijski"
 
 #. Name for eve
 msgid "Even"
@@ -9017,7 +9008,7 @@ msgstr ""
 
 #. Name for fao
 msgid "Faroese"
-msgstr "ferojski"
+msgstr "Ferojski"
 
 #. Name for fap
 msgid "Palor"
@@ -9029,11 +9020,11 @@ msgstr ""
 
 #. Name for fas
 msgid "Persian"
-msgstr "perzijski"
+msgstr "Perzijski"
 
 #. Name for fat
 msgid "Fanti"
-msgstr "fantijski"
+msgstr "Fantijski"
 
 #. Name for fau
 msgid "Fayu"
@@ -9101,15 +9092,15 @@ msgstr ""
 
 #. Name for fij
 msgid "Fijian"
-msgstr "fidžijski"
+msgstr "Fidžijski"
 
 #. Name for fil
 msgid "Filipino"
-msgstr ""
+msgstr "Filipinski"
 
 #. Name for fin
 msgid "Finnish"
-msgstr "finski"
+msgstr "Finski"
 
 #. Name for fip
 msgid "Fipa"
@@ -9121,11 +9112,11 @@ msgstr ""
 
 #. Name for fit
 msgid "Tornedalen Finnish"
-msgstr ""
+msgstr "Tornedalen finski"
 
 #. Inverted name for fit
 msgid "Finnish, Tornedalen"
-msgstr ""
+msgstr "Finski, tornedalen"
 
 #. Name for fiw
 msgid "Fiwaga"
@@ -9137,11 +9128,11 @@ msgstr ""
 
 #. Name for fkv
 msgid "Kven Finnish"
-msgstr ""
+msgstr "Kven finski"
 
 #. Inverted name for fkv
 msgid "Finnish, Kven"
-msgstr ""
+msgstr "Finski, kven"
 
 #. Name for fla
 msgid "Kalispel-Pend d'Oreille"
@@ -9237,15 +9228,15 @@ msgstr ""
 
 #. Name for fra
 msgid "French"
-msgstr "francuski"
+msgstr "Francuski"
 
 #. Name for frc
 msgid "Cajun French"
-msgstr ""
+msgstr "Cajun francuski"
 
 #. Inverted name for frc
 msgid "French, Cajun"
-msgstr ""
+msgstr "Francuski, cajun"
 
 #. Name for frd
 msgid "Fordata"
@@ -9253,23 +9244,23 @@ msgstr ""
 
 #. Name for frk
 msgid "Frankish"
-msgstr "franački"
+msgstr "Franački"
 
 #. Name for frm
 msgid "Middle French (ca. 1400-1600)"
-msgstr ""
+msgstr "Srednjovjekovni francuski"
 
 #. Inverted name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr ""
+msgstr "Francuski, srednjovjekovni (oko 1400. – 1600.)"
 
 #. Name for fro
 msgid "Old French (842-ca. 1400)"
-msgstr "starofrancuski (842.-cca. 1400.)"
+msgstr "Starofrancuski (842.-cca. 1400.)"
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "starofrancuski (842.-cca. 1400.)"
+msgstr "Francuski, stari (842. – oko 1400.)"
 
 #. Name for frp
 msgid "Arpitan"
@@ -9281,19 +9272,19 @@ msgstr ""
 
 #. Name for frr
 msgid "Northern Frisian"
-msgstr "sjevernofrizijski"
+msgstr "Sjevernofrizijski"
 
 #. Inverted name for frr
 msgid "Frisian, Northern"
-msgstr ""
+msgstr "Frizijski, sjeverni"
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr "istočnofrizijski"
+msgstr "Istočnofrizijski"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
-msgstr ""
+msgstr "Frizijski, istočni"
 
 #. Name for frt
 msgid "Fortsenal"
@@ -9301,23 +9292,23 @@ msgstr ""
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr "zapadnofrizijski"
+msgstr "Zapadnofrizijski"
 
 #. Inverted name for fry
 msgid "Frisian, Western"
-msgstr ""
+msgstr "Frizijski, zapadni"
 
 #. Name for fse
 msgid "Finnish Sign Language"
-msgstr "finski znakovni jezik"
+msgstr "Finski znakovni jezik"
 
 #. Name for fsl
 msgid "French Sign Language"
-msgstr "francuski znakovni jezik"
+msgstr "Francuski znakovni jezik"
 
 #. Name for fss
 msgid "Finland-Swedish Sign Language"
-msgstr "finsko-švedski znakovni jezik"
+msgstr "Finsko-švedski znakovni jezik"
 
 #. Name for fub
 msgid "Adamawa Fulfulde"
@@ -9373,7 +9364,7 @@ msgstr ""
 
 #. Name for ful
 msgid "Fulah"
-msgstr "fulanski"
+msgstr "Fulanski"
 
 #. Name for fum
 msgid "Fum"
@@ -9393,7 +9384,7 @@ msgstr ""
 
 #. Name for fur
 msgid "Friulian"
-msgstr "friulski"
+msgstr "Friulski"
 
 #. Name for fut
 msgid "Futuna-Aniwa"
@@ -9489,7 +9480,7 @@ msgstr ""
 
 #. Inverted name for gan
 msgid "Chinese, Gan"
-msgstr ""
+msgstr "Kineski, gan"
 
 #. Name for gao
 msgid "Gants"
@@ -9541,7 +9532,7 @@ msgstr ""
 
 #. Name for gay
 msgid "Gayo"
-msgstr "gajoški"
+msgstr "Gajoški"
 
 #. Name for gaz
 msgid "West Central Oromo"
@@ -9673,7 +9664,7 @@ msgstr ""
 
 #. Name for gcc
 msgid "Mali"
-msgstr ""
+msgstr "Mali"
 
 #. Name for gcd
 msgid "Ganggalida"
@@ -9800,9 +9791,8 @@ msgid "Ghandruk Sign Language"
 msgstr ""
 
 #. Name for gdt
-#, fuzzy
 msgid "Kungardutyi"
-msgstr "mađarski"
+msgstr "Kungardutyi"
 
 #. Name for gdu
 msgid "Gudu"
@@ -10150,11 +10140,11 @@ msgstr ""
 
 #. Name for gla
 msgid "Scottish Gaelic"
-msgstr ""
+msgstr "Škotski galski"
 
 #. Inverted name for gla
 msgid "Gaelic, Scottish"
-msgstr ""
+msgstr "Galski, škotski"
 
 #. Name for glc
 msgid "Bon Gula"
@@ -10166,23 +10156,19 @@ msgstr ""
 
 #. Name for gle
 msgid "Irish"
-msgstr "irski"
+msgstr "Irski"
 
 #. Name for glg
 msgid "Galician"
-msgstr "galicijski"
+msgstr "Galicijski"
 
 #. Name for glh
-#, fuzzy
-#| msgid "Northern Altai"
 msgid "Northwest Pashai"
-msgstr "sjevernoaltajski"
+msgstr "Sjeverozapadni pašajski"
 
 #. Inverted name for glh
-#, fuzzy
-#| msgid "Altai, Northern"
 msgid "Pashai, Northwest"
-msgstr "sjevernoaltajski"
+msgstr "Pašajski, sjeverozapadni"
 
 #. Name for gli
 msgid "Guliguli"
@@ -10214,7 +10200,7 @@ msgstr ""
 
 #. Name for glv
 msgid "Manx"
-msgstr "manski"
+msgstr "Manski"
 
 #. Name for glw
 msgid "Glavda"
@@ -10242,19 +10228,19 @@ msgstr ""
 
 #. Name for gmh
 msgid "Middle High German (ca. 1050-1500)"
-msgstr ""
+msgstr "Srednjovjekovni visokonjemački (oko 1050. – 1500.)"
 
 #. Inverted name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "srednjovisokonjemački (cca. 1050.-1500.)"
+msgstr "Njemački, srednjovjekovni visoki (oko 1050. – 1500.)"
 
 #. Name for gml
 msgid "Middle Low German"
-msgstr ""
+msgstr "Srednjovjekovni donjonjemački"
 
 #. Inverted name for gml
 msgid "German, Middle Low"
-msgstr ""
+msgstr "Njemački, srednjovjekovni donji"
 
 #. Name for gmm
 msgid "Gbaya-Mbodomo"
@@ -10278,11 +10264,11 @@ msgstr ""
 
 #. Name for gmy
 msgid "Mycenaean Greek"
-msgstr ""
+msgstr "Mikenski grčki"
 
 #. Inverted name for gmy
 msgid "Greek, Mycenaean"
-msgstr ""
+msgstr "Grčki, mikenski"
 
 #. Name for gmz
 msgid "Mgbolizhia"
@@ -10402,11 +10388,11 @@ msgstr ""
 
 #. Name for goh
 msgid "Old High German (ca. 750-1050)"
-msgstr ""
+msgstr "Stari visokonjemački (cca. 750.-1050.)"
 
 #. Inverted name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "starovisokonjemački (cca. 750.-1050.)"
+msgstr "Njemački, stari visoki (cca. 750.-1050.)"
 
 #. Name for goi
 msgid "Gobasi"
@@ -10458,7 +10444,7 @@ msgstr ""
 
 #. Name for got
 msgid "Gothic"
-msgstr "gotički"
+msgstr "Gotski"
 
 #. Name for gou
 msgid "Gavar"
@@ -10530,11 +10516,11 @@ msgstr ""
 
 #. Name for grc
 msgid "Ancient Greek (to 1453)"
-msgstr "starogrčki (do 1453.)"
+msgstr "Starogrčki (do 1453.)"
 
 #. Inverted name for grc
 msgid "Greek, Ancient (to 1453)"
-msgstr "starogrčki (do 1453.)"
+msgstr "Grčki, stari (do 1453.)"
 
 #. Name for grd
 msgid "Guruntum-Mbaaru"
@@ -10566,7 +10552,7 @@ msgstr ""
 
 #. Name for grn
 msgid "Guarani"
-msgstr "Paragvajski gvarani"
+msgstr "Guarani"
 
 #. Name for gro
 msgid "Groma"
@@ -10626,7 +10612,7 @@ msgstr ""
 
 #. Name for gsg
 msgid "German Sign Language"
-msgstr "njemački znakovni jezik"
+msgstr "Njemački znakovni jezik"
 
 #. Name for gsl
 msgid "Gusilay"
@@ -10634,7 +10620,7 @@ msgstr ""
 
 #. Name for gsm
 msgid "Guatemalan Sign Language"
-msgstr "gvatemalski znakovni jezik"
+msgstr "Gvatemalski znakovni jezik"
 
 #. Name for gsn
 msgid "Nema"
@@ -10654,15 +10640,15 @@ msgstr ""
 
 #. Name for gss
 msgid "Greek Sign Language"
-msgstr "grčki znakovni jezik"
+msgstr "Grčki znakovni jezik"
 
 #. Name for gsw
 msgid "Swiss German"
-msgstr "švicarski njemački"
+msgstr "Švicarski njemački"
 
 #. Inverted name for gsw
 msgid "German, Swiss"
-msgstr "njemački, švicarski"
+msgstr "Njemački, švicarski"
 
 #. Name for gta
 msgid "Guató"
@@ -10722,7 +10708,7 @@ msgstr ""
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "gudžaratski"
+msgstr "Gudžaratski"
 
 #. Name for guk
 msgid "Gumuz"
@@ -10766,7 +10752,7 @@ msgstr ""
 
 #. Name for gus
 msgid "Guinean Sign Language"
-msgstr "gvinejski znakovni jezik"
+msgstr "Gvinejski znakovni jezik"
 
 #. Name for gut
 msgid "Maléku Jaíka"
@@ -10986,7 +10972,7 @@ msgstr ""
 
 #. Name for hab
 msgid "Hanoi Sign Language"
-msgstr "hanojski znakovni jezik"
+msgstr "Hanojski znakovni jezik"
 
 #. Name for hac
 msgid "Gurani"
@@ -11018,7 +11004,7 @@ msgstr ""
 
 #. Name for hai
 msgid "Haida"
-msgstr "haidajski"
+msgstr "Haidajski"
 
 #. Name for haj
 msgid "Hajong"
@@ -11066,11 +11052,11 @@ msgstr ""
 
 #. Name for hat
 msgid "Haitian"
-msgstr "haićanski"
+msgstr "Haićanski"
 
 #. Name for hau
 msgid "Hausa"
-msgstr "hauski"
+msgstr "Hauski"
 
 #. Name for hav
 msgid "Havu"
@@ -11078,7 +11064,7 @@ msgstr ""
 
 #. Name for haw
 msgid "Hawaiian"
-msgstr "havajski"
+msgstr "Havajski"
 
 #. Name for hax
 msgid "Southern Haida"
@@ -11110,15 +11096,15 @@ msgstr ""
 
 #. Name for hbo
 msgid "Ancient Hebrew"
-msgstr "starohebrejski"
+msgstr "Starohebrejski"
 
 #. Inverted name for hbo
 msgid "Hebrew, Ancient"
-msgstr "starohebrejski"
+msgstr "Starohebrejski"
 
 #. Name for hbs
 msgid "Serbo-Croatian"
-msgstr "srpskohrvatski"
+msgstr "Srpsko-hrvatski"
 
 #. Name for hbu
 msgid "Habu"
@@ -11162,7 +11148,7 @@ msgstr ""
 
 #. Name for heb
 msgid "Hebrew"
-msgstr "hebrejski"
+msgstr "Hebrejski"
 
 #. Name for hed
 msgid "Herdé"
@@ -11254,7 +11240,7 @@ msgstr ""
 
 #. Name for hin
 msgid "Hindi"
-msgstr "hindski"
+msgstr "Hindski"
 
 #. Name for hio
 msgid "Tsoa"
@@ -11266,7 +11252,7 @@ msgstr ""
 
 #. Name for hit
 msgid "Hittite"
-msgstr "hititski"
+msgstr "Hititski"
 
 #. Name for hiw
 msgid "Hiw"
@@ -11349,7 +11335,6 @@ msgid "Central Huishui Hmong"
 msgstr ""
 
 #. Inverted name for hmc
-#, fuzzy
 msgid "Hmong, Central Huishui"
 msgstr "srednjekurdski"
 
@@ -11394,9 +11379,8 @@ msgid "Northern Huishui Hmong"
 msgstr ""
 
 #. Inverted name for hmi
-#, fuzzy
 msgid "Hmong, Northern Huishui"
-msgstr "sjevernokurdski"
+msgstr "Hmong, sjeverni huishui"
 
 #. Name for hmj
 msgid "Ge"
@@ -11435,9 +11419,8 @@ msgid "Northern Mashan Hmong"
 msgstr ""
 
 #. Inverted name for hmp
-#, fuzzy
 msgid "Hmong, Northern Mashan"
-msgstr "sjevernoistočnokrijski"
+msgstr "Hmong, sjeverni mashan"
 
 #. Name for hmq
 msgid "Eastern Qiandong Miao"
@@ -11624,10 +11607,8 @@ msgid "Hpon"
 msgstr ""
 
 #. Name for hps
-#, fuzzy
-#| msgid "Hanoi Sign Language"
 msgid "Hawai'i Sign Language (HSL)"
-msgstr "hanojski znakovni jezik"
+msgstr "Havajski znakovni jezik"
 
 #. Name for hra
 msgid "Hrangkhol"
@@ -11671,7 +11652,7 @@ msgstr ""
 
 #. Name for hrv
 msgid "Croatian"
-msgstr "hrvatski"
+msgstr "Hrvatski"
 
 #. Name for hrw
 msgid "Warwar Feni"
@@ -11687,7 +11668,7 @@ msgstr ""
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr ""
+msgstr "Gornjolužičko srpski"
 
 #. Inverted name for hsb
 msgid "Sorbian, Upper"
@@ -11695,7 +11676,7 @@ msgstr ""
 
 #. Name for hsh
 msgid "Hungarian Sign Language"
-msgstr "mađarski znakovni jezik"
+msgstr "Mađarski znakovni jezik"
 
 #. Name for hsl
 msgid "Hausa Sign Language"
@@ -11799,7 +11780,7 @@ msgstr ""
 
 #. Name for hun
 msgid "Hungarian"
-msgstr "mađarski"
+msgstr "Mađarski"
 
 #. Name for huo
 msgid "Hu"
@@ -11895,11 +11876,11 @@ msgstr ""
 
 #. Name for hwc
 msgid "Hawai'i Creole English"
-msgstr "havajski kreolski engleski"
+msgstr "Havajski kreolski engleski"
 
 #. Inverted name for hwc
 msgid "Creole English, Hawai'i"
-msgstr "kreolski engleski, havajski"
+msgstr "Kreolski engleski, havajski"
 
 #. Name for hwo
 msgid "Hwana"
@@ -11911,7 +11892,7 @@ msgstr ""
 
 #. Name for hye
 msgid "Armenian"
-msgstr "armenski"
+msgstr "Armenski"
 
 #. Name for iai
 msgid "Iaai"
@@ -11983,7 +11964,7 @@ msgstr ""
 
 #. Name for icl
 msgid "Icelandic Sign Language"
-msgstr "islandski znakovni jezik"
+msgstr "Islandski znakovni jezik"
 
 #. Name for icr
 msgid "Islander Creole English"
@@ -11999,7 +11980,7 @@ msgstr ""
 
 #. Name for idb
 msgid "Indo-Portuguese"
-msgstr "indoportugalski"
+msgstr "Indoportugalski"
 
 #. Name for idc
 msgid "Idon"
@@ -12019,7 +12000,7 @@ msgstr ""
 
 #. Name for ido
 msgid "Ido"
-msgstr "ido"
+msgstr "Ido"
 
 #. Name for idr
 msgid "Indri"
@@ -12210,10 +12191,8 @@ msgid "Ikaranggal"
 msgstr ""
 
 #. Name for iks
-#, fuzzy
-#| msgid "Indian Sign Language"
 msgid "Inuit Sign Language"
-msgstr "indijski znakovni jezik"
+msgstr "Inuitski znakovni jezik"
 
 #. Name for ikt
 msgid "Inuinnaqtun"
@@ -12264,10 +12243,8 @@ msgid "Ilongot"
 msgstr ""
 
 #. Name for ilm
-#, fuzzy
-#| msgid "Berau Malay"
 msgid "Iranun (Malaysia)"
-msgstr "berauški malajski"
+msgstr "Berauški malajski"
 
 #. Name for ilo
 msgid "Iloko"
@@ -12327,7 +12304,7 @@ msgstr ""
 
 #. Name for ina
 msgid "Interlingua (International Auxiliary Language Association)"
-msgstr "interlingua"
+msgstr "Interlingua (Međunarodno udruženje za pomoćne jezike)"
 
 #. Name for inb
 msgid "Inga"
@@ -12335,7 +12312,7 @@ msgstr ""
 
 #. Name for ind
 msgid "Indonesian"
-msgstr "indonezijski"
+msgstr "Indonezijski"
 
 #. Name for ing
 msgid "Degexit'an"
@@ -12355,7 +12332,7 @@ msgstr ""
 
 #. Name for inl
 msgid "Indonesian Sign Language"
-msgstr "indonezijski znakovni jezik"
+msgstr "Indonezijski znakovni jezik"
 
 #. Name for inm
 msgid "Minaean"
@@ -12375,7 +12352,7 @@ msgstr ""
 
 #. Name for ins
 msgid "Indian Sign Language"
-msgstr "indijski znakovni jezik"
+msgstr "Indijski znakovni jezik"
 
 #. Name for int
 msgid "Intha"
@@ -12467,11 +12444,11 @@ msgstr ""
 
 #. Name for ise
 msgid "Italian Sign Language"
-msgstr "talijanski znakovni jezik"
+msgstr "Talijanski znakovni jezik"
 
 #. Name for isg
 msgid "Irish Sign Language"
-msgstr "irski znakovni jezik"
+msgstr "Irski znakovni jezik"
 
 #. Name for ish
 msgid "Esan"
@@ -12487,7 +12464,7 @@ msgstr ""
 
 #. Name for isl
 msgid "Icelandic"
-msgstr "islandski"
+msgstr "Islandski"
 
 #. Name for ism
 msgid "Masimasi"
@@ -12503,7 +12480,7 @@ msgstr ""
 
 #. Name for isr
 msgid "Israeli Sign Language"
-msgstr "izraelski znakovni jezik"
+msgstr "Izraelski znakovni jezik"
 
 #. Name for ist
 msgid "Istriot"
@@ -12515,7 +12492,7 @@ msgstr ""
 
 #. Name for ita
 msgid "Italian"
-msgstr "talijanski"
+msgstr "Talijanski"
 
 #. Name for itb
 msgid "Binongan Itneg"
@@ -12526,16 +12503,12 @@ msgid "Itneg, Binongan"
 msgstr ""
 
 #. Name for itd
-#, fuzzy
-#| msgid "Southern Altai"
 msgid "Southern Tidung"
-msgstr "južnoaltajski"
+msgstr "Južni, tidung"
 
 #. Inverted name for itd
-#, fuzzy
-#| msgid "Altai, Southern"
 msgid "Tidung, Southern"
-msgstr "južnoaltajski"
+msgstr "Tidung, južni"
 
 #. Name for ite
 msgid "Itene"
@@ -12551,7 +12524,7 @@ msgstr ""
 
 #. Name for itk
 msgid "Judeo-Italian"
-msgstr ""
+msgstr "Judeo-talijanski"
 
 #. Name for itl
 msgid "Itelmen"
@@ -12659,7 +12632,7 @@ msgstr ""
 
 #. Name for iyx
 msgid "Yaka (Congo)"
-msgstr ""
+msgstr "Yaka (Kongo)"
 
 #. Name for izh
 msgid "Ingrian"
@@ -12715,11 +12688,11 @@ msgstr ""
 
 #. Name for jam
 msgid "Jamaican Creole English"
-msgstr "jamajkanski kreolski engleski"
+msgstr "Jamajkanski kreolski engleski"
 
 #. Inverted name for jam
 msgid "Creole English, Jamaican"
-msgstr "kreolski engleski, jamajkanski"
+msgstr "Kreolski engleski, jamajkanski"
 
 #. Name for jan
 msgid "Jandai"
@@ -12751,7 +12724,7 @@ msgstr ""
 
 #. Name for jav
 msgid "Javanese"
-msgstr "javanski"
+msgstr "Javanski"
 
 #. Name for jax
 msgid "Jambi Malay"
@@ -12771,7 +12744,7 @@ msgstr ""
 
 #. Name for jbe
 msgid "Judeo-Berber"
-msgstr ""
+msgstr "Judeo-berberski"
 
 #. Name for jbi
 msgid "Badjiri"
@@ -12879,7 +12852,7 @@ msgstr ""
 
 #. Name for jge
 msgid "Judeo-Georgian"
-msgstr ""
+msgstr "Judeo-georgijski"
 
 #. Name for jgk
 msgid "Gwak"
@@ -13015,7 +12988,7 @@ msgstr ""
 
 #. Name for jls
 msgid "Jamaican Sign Language"
-msgstr "jamajkanski znakovni jezik"
+msgstr "Jamajkanski znakovni jezik"
 
 #. Name for jma
 msgid "Dima"
@@ -13115,7 +13088,7 @@ msgstr ""
 
 #. Name for jos
 msgid "Jordanian Sign Language"
-msgstr "jordanski znakovni jezik"
+msgstr "Jordanski znakovni jezik"
 
 #. Name for jow
 msgid "Jowulu"
@@ -13123,19 +13096,19 @@ msgstr ""
 
 #. Name for jpa
 msgid "Jewish Palestinian Aramaic"
-msgstr "židovski palestinski aramejski"
+msgstr "Židovski palestinski aramejski"
 
 #. Inverted name for jpa
 msgid "Aramaic, Jewish Palestinian"
-msgstr "aramejski, židovski palestinski"
+msgstr "Aramejski, židovski palestinski"
 
 #. Name for jpn
 msgid "Japanese"
-msgstr "japanski"
+msgstr "Japanski"
 
 #. Name for jpr
 msgid "Judeo-Persian"
-msgstr "judeoperzijski"
+msgstr "Judeoperzijski"
 
 #. Name for jqr
 msgid "Jaqaru"
@@ -13147,7 +13120,7 @@ msgstr ""
 
 #. Name for jrb
 msgid "Judeo-Arabic"
-msgstr "judeoarapski"
+msgstr "Judeoarapski"
 
 #. Name for jrr
 msgid "Jiru"
@@ -13163,7 +13136,7 @@ msgstr ""
 
 #. Name for jsl
 msgid "Japanese Sign Language"
-msgstr "japanski znakovni jezik"
+msgstr "Japanski znakovni jezik"
 
 #. Name for jua
 msgid "Júma"
@@ -13175,7 +13148,7 @@ msgstr ""
 
 #. Name for juc
 msgid "Jurchen"
-msgstr ""
+msgstr "Jurčenski"
 
 #. Name for jud
 msgid "Worodougou"
@@ -13243,11 +13216,11 @@ msgstr ""
 
 #. Name for jvn
 msgid "Caribbean Javanese"
-msgstr "karipski javanski"
+msgstr "Karipski javanski"
 
 #. Inverted name for jvn
 msgid "Javanese, Caribbean"
-msgstr "javanski, karipski"
+msgstr "Javanski, karipski"
 
 #. Name for jwi
 msgid "Jwira-Pepesa"
@@ -13259,11 +13232,11 @@ msgstr ""
 
 #. Name for jye
 msgid "Judeo-Yemeni Arabic"
-msgstr "judeojemenski arapski"
+msgstr "Judeojemenski arapski"
 
 #. Inverted name for jye
 msgid "Arabic, Judeo-Yemeni"
-msgstr "arapski, judeojemenski"
+msgstr "Arapski, judeojemenski"
 
 #. Name for jyy
 msgid "Jaya"
@@ -13271,11 +13244,11 @@ msgstr ""
 
 #. Name for kaa
 msgid "Kara-Kalpak"
-msgstr "karakalpački"
+msgstr "Karakalpački"
 
 #. Name for kab
 msgid "Kabyle"
-msgstr "kabilski"
+msgstr "Kabilski"
 
 #. Name for kac
 msgid "Kachin"
@@ -13323,7 +13296,7 @@ msgstr ""
 
 #. Name for kan
 msgid "Kannada"
-msgstr ""
+msgstr "Kannada"
 
 #. Name for kao
 msgid "Xaasongaxango"
@@ -13339,15 +13312,15 @@ msgstr ""
 
 #. Name for kas
 msgid "Kashmiri"
-msgstr "kašmirski"
+msgstr "Kašmirski"
 
 #. Name for kat
 msgid "Georgian"
-msgstr "gruzijski"
+msgstr "Gruzijski"
 
 #. Name for kau
 msgid "Kanuri"
-msgstr "kanurski"
+msgstr "Kanurski"
 
 #. Name for kav
 msgid "Katukína"
@@ -13367,7 +13340,7 @@ msgstr ""
 
 #. Name for kaz
 msgid "Kazakh"
-msgstr "kazaški"
+msgstr "Kazaški"
 
 #. Name for kba
 msgid "Kalarko"
@@ -14015,7 +13988,7 @@ msgstr ""
 
 #. Name for khc
 msgid "Tukang Besi North"
-msgstr ""
+msgstr "Tukang Besi sjeverni"
 
 #. Name for khd
 msgid "Bädi Kanum"
@@ -14063,11 +14036,11 @@ msgstr ""
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr "srednjekmerski"
+msgstr "Kmerski"
 
 #. Inverted name for khm
 msgid "Khmer, Central"
-msgstr "srednjekmerski"
+msgstr "Srednjekmerski"
 
 #. Name for khn
 msgid "Khandesi"
@@ -14203,7 +14176,7 @@ msgstr ""
 
 #. Name for kir
 msgid "Kirghiz"
-msgstr "kirgiški"
+msgstr "Kirgiški"
 
 #. Name for kis
 msgid "Kis"
@@ -14366,10 +14339,8 @@ msgid "Kashaya"
 msgstr ""
 
 #. Name for kjv
-#, fuzzy
-#| msgid "Latvian Sign Language"
 msgid "Kaikavian Literary Language"
-msgstr "latvijski znakovni jezik"
+msgstr "Kajkavski književni jezik"
 
 #. Name for kjx
 msgid "Ramopa"
@@ -14517,7 +14488,7 @@ msgstr ""
 
 #. Name for kle
 msgid "Kulung (Nepal)"
-msgstr ""
+msgstr "Kulung (Nepal)"
 
 #. Name for klf
 msgid "Kendeje"
@@ -14697,11 +14668,11 @@ msgstr ""
 
 #. Name for kmr
 msgid "Northern Kurdish"
-msgstr "sjevernokurdski"
+msgstr "Sjevernokurdski"
 
 #. Inverted name for kmr
 msgid "Kurdish, Northern"
-msgstr "sjevernokurdski"
+msgstr "Sjevernokurdski"
 
 #. Name for kms
 msgid "Kamasau"
@@ -14917,7 +14888,7 @@ msgstr ""
 
 #. Name for kor
 msgid "Korean"
-msgstr "korejski"
+msgstr "Korejski"
 
 #. Name for kos
 msgid "Kosraean"
@@ -14969,7 +14940,7 @@ msgstr ""
 
 #. Name for kpe
 msgid "Kpelle"
-msgstr ""
+msgstr "Kpele"
 
 #. Name for kpf
 msgid "Komba"
@@ -15585,7 +15556,7 @@ msgstr ""
 
 #. Name for kur
 msgid "Kurdish"
-msgstr "kurdski"
+msgstr "Kurdski"
 
 #. Name for kus
 msgid "Kusaal"
@@ -15665,7 +15636,7 @@ msgstr ""
 
 #. Name for kvk
 msgid "Korean Sign Language"
-msgstr "korejski znakovni jezik"
+msgstr "Korejski znakovni jezik"
 
 #. Name for kvl
 msgid "Kayaw"
@@ -15865,7 +15836,7 @@ msgstr ""
 
 #. Name for kxd
 msgid "Brunei"
-msgstr "brunejski"
+msgstr "Brunejski"
 
 #. Name for kxf
 msgid "Manumanaw Karen"
@@ -16217,7 +16188,7 @@ msgstr ""
 
 #. Name for lab
 msgid "Linear A"
-msgstr ""
+msgstr "Linearno A"
 
 #. Name for lac
 msgid "Lacandon"
@@ -16261,7 +16232,7 @@ msgstr ""
 
 #. Name for lam
 msgid "Lamba"
-msgstr "lambaški"
+msgstr "Lambaški"
 
 #. Name for lan
 msgid "Laru"
@@ -16269,7 +16240,7 @@ msgstr ""
 
 #. Name for lao
 msgid "Lao"
-msgstr ""
+msgstr "Laoški"
 
 #. Name for lap
 msgid "Laka (Chad)"
@@ -16289,7 +16260,7 @@ msgstr ""
 
 #. Name for lat
 msgid "Latin"
-msgstr "latinski"
+msgstr "Latinica"
 
 #. Name for lau
 msgid "Laba"
@@ -16297,7 +16268,7 @@ msgstr ""
 
 #. Name for lav
 msgid "Latvian"
-msgstr "latvijski"
+msgstr "Iatvijski"
 
 #. Name for law
 msgid "Lauje"
@@ -16389,7 +16360,7 @@ msgstr ""
 
 #. Name for lbs
 msgid "Libyan Sign Language"
-msgstr "libijski znakovni jezik"
+msgstr "Libijski znakovni jezik"
 
 #. Name for lbt
 msgid "Lachi"
@@ -16757,7 +16728,7 @@ msgstr ""
 
 #. Name for lif
 msgid "Limbu"
-msgstr ""
+msgstr "Limbuški"
 
 #. Name for lig
 msgid "Ligbi"
@@ -16769,7 +16740,7 @@ msgstr ""
 
 #. Name for lij
 msgid "Ligurian"
-msgstr "ligurijski"
+msgstr "Ligurijski"
 
 #. Name for lik
 msgid "Lika"
@@ -16781,11 +16752,11 @@ msgstr ""
 
 #. Name for lim
 msgid "Limburgan"
-msgstr "limburški"
+msgstr "Limburški"
 
 #. Name for lin
 msgid "Lingala"
-msgstr "lingala"
+msgstr "Lingala"
 
 #. Name for lio
 msgid "Liki"
@@ -16801,11 +16772,11 @@ msgstr ""
 
 #. Name for lir
 msgid "Liberian English"
-msgstr "liberijski engleski"
+msgstr "Liberijski engleski"
 
 #. Inverted name for lir
 msgid "English, Liberian"
-msgstr "engleski, liberijski"
+msgstr "Engleski, liberijski"
 
 #. Name for lis
 msgid "Lisu"
@@ -16813,7 +16784,7 @@ msgstr ""
 
 #. Name for lit
 msgid "Lithuanian"
-msgstr "litavski"
+msgstr "Litavski"
 
 #. Name for liu
 msgid "Logorik"
@@ -16860,7 +16831,6 @@ msgid "Lampung Api"
 msgstr ""
 
 #. Name for ljw
-#, fuzzy
 msgid "Yirandali"
 msgstr "vandalski"
 
@@ -17010,7 +16980,7 @@ msgstr ""
 
 #. Name for lls
 msgid "Lithuanian Sign Language"
-msgstr "litavski znakovni jezik"
+msgstr "Litavski znakovni jezik"
 
 #. Name for llu
 msgid "Lau"
@@ -17422,7 +17392,7 @@ msgstr ""
 
 #. Name for lsl
 msgid "Latvian Sign Language"
-msgstr "latvijski znakovni jezik"
+msgstr "Latvijski znakovni jezik"
 
 #. Name for lsm
 msgid "Saamia"
@@ -17486,7 +17456,7 @@ msgstr ""
 
 #. Name for ltz
 msgid "Luxembourgish"
-msgstr "luksemburški"
+msgstr "Luksemburški"
 
 #. Name for lua
 msgid "Luba-Lulua"
@@ -17558,7 +17528,7 @@ msgstr ""
 
 #. Name for lus
 msgid "Lushai"
-msgstr "lušajski"
+msgstr "Lušajski"
 
 #. Name for lut
 msgid "Lushootseed"
@@ -17598,11 +17568,11 @@ msgstr ""
 
 #. Name for lvs
 msgid "Standard Latvian"
-msgstr "standardni latvijski"
+msgstr "Standardni latvijski"
 
 #. Inverted name for lvs
 msgid "Latvian, Standard"
-msgstr "latvijski, standardni"
+msgstr "Latvijski, standardni"
 
 #. Name for lvu
 msgid "Levuka"
@@ -17710,7 +17680,7 @@ msgstr ""
 
 #. Name for mad
 msgid "Madurese"
-msgstr "madurski"
+msgstr "Madurski"
 
 #. Name for mae
 msgid "Bo-Rukul"
@@ -17722,15 +17692,15 @@ msgstr ""
 
 #. Name for mag
 msgid "Magahi"
-msgstr "magahi"
+msgstr "Magahi"
 
 #. Name for mah
 msgid "Marshallese"
-msgstr "maršalski"
+msgstr "Maršalski"
 
 #. Name for mai
 msgid "Maithili"
-msgstr "maithili"
+msgstr "Maithili"
 
 #. Name for maj
 msgid "Jalapa De Díaz Mazatec"
@@ -17742,11 +17712,11 @@ msgstr ""
 
 #. Name for mak
 msgid "Makasar"
-msgstr "makasarski"
+msgstr "Makasarski"
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "malajalamski"
+msgstr "Malajalamski"
 
 #. Name for mam
 msgid "Mam"
@@ -17754,7 +17724,7 @@ msgstr ""
 
 #. Name for man
 msgid "Mandingo"
-msgstr "mandingo"
+msgstr "Mandingo"
 
 #. Name for maq
 msgid "Chiquihuitlán Mazatec"
@@ -17770,7 +17740,7 @@ msgstr ""
 
 #. Name for mas
 msgid "Masai"
-msgstr "masai"
+msgstr "Masai"
 
 #. Name for mat
 msgid "San Francisco Matlatzinca"
@@ -18110,7 +18080,7 @@ msgstr ""
 
 #. Name for mdl
 msgid "Maltese Sign Language"
-msgstr "malteški znakovni jezik"
+msgstr "Malteški znakovni jezik"
 
 #. Name for mdm
 msgid "Mayogo"
@@ -18366,7 +18336,7 @@ msgstr ""
 
 #. Name for mfs
 msgid "Mexican Sign Language"
-msgstr "meksički znakovni jezik"
+msgstr "Meksički znakovni jezik"
 
 #. Name for mft
 msgid "Mokerang"
@@ -18398,11 +18368,11 @@ msgstr ""
 
 #. Name for mga
 msgid "Middle Irish (900-1200)"
-msgstr ""
+msgstr "Srednjovjekovni irski (900. – 1200.)"
 
 #. Inverted name for mga
 msgid "Irish, Middle (900-1200)"
-msgstr ""
+msgstr "Irski, srednjovjekovni (900. – 1200.)"
 
 #. Name for mgb
 msgid "Mararit"
@@ -18722,7 +18692,7 @@ msgstr ""
 
 #. Name for mis
 msgid "Uncoded languages"
-msgstr "nekodirani jezici"
+msgstr "Nekôdirani jezici"
 
 #. Name for mit
 msgid "Southern Puebla Mixtec"
@@ -18886,7 +18856,7 @@ msgstr ""
 
 #. Name for mkd
 msgid "Macedonian"
-msgstr "makedonski"
+msgstr "Makedonski"
 
 #. Name for mke
 msgid "Mawchi"
@@ -19018,7 +18988,7 @@ msgstr ""
 
 #. Name for mlg
 msgid "Malagasy"
-msgstr "malgaški"
+msgstr "Malgaški"
 
 #. Name for mlh
 msgid "Mape"
@@ -19074,7 +19044,7 @@ msgstr ""
 
 #. Name for mlt
 msgid "Maltese"
-msgstr "malteški"
+msgstr "Malteški"
 
 #. Name for mlu
 msgid "To'abaita"
@@ -19362,7 +19332,7 @@ msgstr ""
 
 #. Name for mon
 msgid "Mongolian"
-msgstr "mongolski"
+msgstr "Mongolski"
 
 #. Name for moo
 msgid "Monom"
@@ -19682,7 +19652,7 @@ msgstr ""
 
 #. Name for mri
 msgid "Maori"
-msgstr "maorski"
+msgstr "Maorski"
 
 #. Name for mrj
 msgid "Western Mari"
@@ -19846,7 +19816,7 @@ msgstr ""
 
 #. Name for msr
 msgid "Mongolian Sign Language"
-msgstr "mongolski znakovni jezik"
+msgstr "Mongolski znakovni jezik"
 
 #. Name for mss
 msgid "West Masela"
@@ -20046,7 +20016,7 @@ msgstr ""
 
 #. Name for mul
 msgid "Multiple languages"
-msgstr "višestruki jezici"
+msgstr "Višestruki jezici"
 
 #. Name for mum
 msgid "Maiwala"
@@ -20258,7 +20228,7 @@ msgstr ""
 
 #. Name for mwl
 msgid "Mirandese"
-msgstr "mirandski"
+msgstr "Mirandski"
 
 #. Name for mwm
 msgid "Sar"
@@ -20470,7 +20440,7 @@ msgstr ""
 
 #. Name for mya
 msgid "Burmese"
-msgstr "burmanski"
+msgstr "Burmanski"
 
 #. Name for myb
 msgid "Mbay"
@@ -20582,7 +20552,7 @@ msgstr ""
 
 #. Name for mzc
 msgid "Madagascar Sign Language"
-msgstr "madagaskarski znakovni jezik"
+msgstr "Madagaskarski znakovni jezik"
 
 #. Name for mzd
 msgid "Malimba"
@@ -20678,7 +20648,7 @@ msgstr ""
 
 #. Name for mzy
 msgid "Mozambican Sign Language"
-msgstr "mozambički znakovni jezik"
+msgstr "Mozambički znakovni jezik"
 
 #. Name for mzz
 msgid "Maiadomu"
@@ -20742,7 +20712,7 @@ msgstr ""
 
 #. Name for nap
 msgid "Neapolitan"
-msgstr "napolitanski"
+msgstr "Napolitanski"
 
 #. Name for naq
 msgid "Khoekhoe"
@@ -20762,7 +20732,7 @@ msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "nauruski"
+msgstr "Nauru"
 
 #. Name for nav
 msgid "Navajo"
@@ -20874,7 +20844,7 @@ msgstr ""
 
 #. Name for nbs
 msgid "Namibian Sign Language"
-msgstr "namibijski znakovni jezik"
+msgstr "Namibijski znakovni jezik"
 
 #. Name for nbt
 msgid "Na"
@@ -20994,7 +20964,7 @@ msgstr ""
 
 #. Name for ncs
 msgid "Nicaraguan Sign Language"
-msgstr "nikaragvanski znakovni jezik"
+msgstr "Nikaragvanski znakovni jezik"
 
 #. Name for nct
 msgid "Chothe Naga"
@@ -21082,7 +21052,7 @@ msgstr ""
 
 #. Name for ndo
 msgid "Ndonga"
-msgstr "ndonga"
+msgstr "Ndonga"
 
 #. Name for ndp
 msgid "Ndo"
@@ -21098,12 +21068,11 @@ msgstr ""
 
 #. Name for nds
 msgid "Low German"
-msgstr ""
+msgstr "Donjonjemački"
 
 #. Inverted name for nds
-#, fuzzy
 msgid "German, Low"
-msgstr "njemački, švicarski"
+msgstr "Donjosaski"
 
 #. Name for ndt
 msgid "Ndunga"
@@ -21851,7 +21820,7 @@ msgstr ""
 
 #. Name for nld
 msgid "Dutch"
-msgstr "nizozemski"
+msgstr "Nizozemski"
 
 #. Name for nle
 msgid "East Nyala"
@@ -22131,7 +22100,7 @@ msgstr ""
 
 #. Name for nno
 msgid "Norwegian Nynorsk"
-msgstr "novonorveški (nynorsk)"
+msgstr "Novonorveški (nynorsk)"
 
 #. Name for nnp
 msgid "Wancho Naga"
@@ -22187,7 +22156,7 @@ msgstr ""
 
 #. Name for nob
 msgid "Norwegian Bokmål"
-msgstr "knjiški norveški (bokmål)"
+msgstr "Knjiški norveški (bokmål)"
 
 #. Name for noc
 msgid "Nuk"
@@ -22199,7 +22168,7 @@ msgstr ""
 
 #. Inverted name for nod
 msgid "Thai, Northern"
-msgstr ""
+msgstr "Tajlandski, sjeverni"
 
 #. Name for noe
 msgid "Nimadi"
@@ -22239,11 +22208,11 @@ msgstr ""
 
 #. Name for non
 msgid "Old Norse"
-msgstr ""
+msgstr "Stari norveški"
 
 #. Inverted name for non
 msgid "Norse, Old"
-msgstr "staronorveški"
+msgstr "Staronorveški"
 
 #. Name for nop
 msgid "Numanggang"
@@ -22255,7 +22224,7 @@ msgstr ""
 
 #. Name for nor
 msgid "Norwegian"
-msgstr "norveški"
+msgstr "Norveški"
 
 #. Name for nos
 msgid "Eastern Nisu"
@@ -22523,7 +22492,7 @@ msgstr ""
 
 #. Name for nsi
 msgid "Nigerian Sign Language"
-msgstr "nigerijski znakovni jezik"
+msgstr "Nigerijski znakovni jezik"
 
 #. Name for nsk
 msgid "Naskapi"
@@ -22531,7 +22500,7 @@ msgstr ""
 
 #. Name for nsl
 msgid "Norwegian Sign Language"
-msgstr "norveški znakovni jezik"
+msgstr "Norveški znakovni jezik"
 
 #. Name for nsm
 msgid "Sumi Naga"
@@ -22551,7 +22520,7 @@ msgstr ""
 
 #. Name for nsp
 msgid "Nepalese Sign Language"
-msgstr "nepalski znakovni jezik"
+msgstr "Nepalski znakovni jezik"
 
 #. Name for nsq
 msgid "Northern Sierra Miwok"
@@ -22610,16 +22579,12 @@ msgid "Nisenan"
 msgstr ""
 
 #. Name for ntd
-#, fuzzy
-#| msgid "Northern Altai"
 msgid "Northern Tidung"
-msgstr "sjevernoaltajski"
+msgstr "Sjeverni tidung"
 
 #. Inverted name for ntd
-#, fuzzy
-#| msgid "Altai, Northern"
 msgid "Tidung, Northern"
-msgstr "sjevernoaltajski"
+msgstr "Tidung, sjeverni"
 
 #. Name for nte
 msgid "Nathembo"
@@ -22818,9 +22783,8 @@ msgid "Classical Newari"
 msgstr ""
 
 #. Inverted name for nwc
-#, fuzzy
 msgid "Newari, Classical"
-msgstr "kečuanski, klasični"
+msgstr "Newarski, klasični"
 
 #. Name for nwe
 msgid "Ngwe"
@@ -22900,7 +22864,7 @@ msgstr ""
 
 #. Name for nxm
 msgid "Numidian"
-msgstr "numidijski"
+msgstr "Numidijski"
 
 #. Name for nxn
 msgid "Ngawun"
@@ -23056,7 +23020,7 @@ msgstr ""
 
 #. Name for nzs
 msgid "New Zealand Sign Language"
-msgstr "novozelandski znakovni jezik"
+msgstr "Novozelandski znakovni jezik"
 
 #. Name for nzu
 msgid "Teke-Nzikou"
@@ -23084,16 +23048,15 @@ msgstr ""
 
 #. Name for oar
 msgid "Old Aramaic (up to 700 BCE)"
-msgstr "staroaramejski (do 700. pr. Kr.)"
+msgstr "Staroaramejski (do 700. pr. Kr.)"
 
 #. Inverted name for oar
-#, fuzzy
 msgid "Aramaic, Old (up to 700 BCE)"
-msgstr "staroaramejski (do 700. pr. Kr.)"
+msgstr "Aramejski, stari (do 700. p.n.e.)"
 
 #. Name for oav
 msgid "Old Avar"
-msgstr ""
+msgstr "Stari avarski"
 
 #. Inverted name for oav
 msgid "Avar, Old"
@@ -23129,7 +23092,7 @@ msgstr ""
 
 #. Name for obr
 msgid "Old Burmese"
-msgstr ""
+msgstr "Stari burmeški"
 
 #. Inverted name for obr
 msgid "Burmese, Old"
@@ -23137,11 +23100,11 @@ msgstr ""
 
 #. Name for obt
 msgid "Old Breton"
-msgstr "starobretonski"
+msgstr "Starobretonski"
 
 #. Inverted name for obt
 msgid "Breton, Old"
-msgstr "starobretonski"
+msgstr "Bretonski, stari"
 
 #. Name for obu
 msgid "Obulom"
@@ -23153,15 +23116,15 @@ msgstr ""
 
 #. Name for och
 msgid "Old Chinese"
-msgstr "starokineski"
+msgstr "Starokineski"
 
 #. Inverted name for och
 msgid "Chinese, Old"
-msgstr "starokineski"
+msgstr "Kineski, stari"
 
 #. Name for oci
 msgid "Occitan (post 1500)"
-msgstr "okcitanski (nakon 1500.)"
+msgstr "Okcitanski (nakon 1500.)"
 
 #. Name for oco
 msgid "Old Cornish"
@@ -23189,11 +23152,11 @@ msgstr ""
 
 #. Name for odt
 msgid "Old Dutch"
-msgstr "staronizozemski"
+msgstr "Staronizozemski"
 
 #. Inverted name for odt
 msgid "Dutch, Old"
-msgstr "staronizozemski"
+msgstr "Nizozemski, stari"
 
 #. Name for odu
 msgid "Odual"
@@ -23205,11 +23168,11 @@ msgstr ""
 
 #. Name for ofs
 msgid "Old Frisian"
-msgstr "starofrizijski"
+msgstr "Starofrizijski"
 
 #. Inverted name for ofs
 msgid "Frisian, Old"
-msgstr "starofrizijski"
+msgstr "Frizijski, stari"
 
 #. Name for ofu
 msgid "Efutop"
@@ -23225,11 +23188,11 @@ msgstr ""
 
 #. Name for oge
 msgid "Old Georgian"
-msgstr "starogruzijski"
+msgstr "Starogruzijski"
 
 #. Inverted name for oge
 msgid "Georgian, Old"
-msgstr "starogruzijski"
+msgstr "Gruzijski, stari"
 
 #. Name for ogg
 msgid "Ogbogolo"
@@ -23253,11 +23216,11 @@ msgstr ""
 
 #. Name for ohu
 msgid "Old Hungarian"
-msgstr "staromađarski"
+msgstr "Staromađarski"
 
 #. Inverted name for ohu
 msgid "Hungarian, Old"
-msgstr "staromađarski"
+msgstr "Mađarski, stari"
 
 #. Name for oia
 msgid "Oirata"
@@ -23301,11 +23264,11 @@ msgstr ""
 
 #. Name for ojp
 msgid "Old Japanese"
-msgstr "starojapanski"
+msgstr "Starojapanski"
 
 #. Inverted name for ojp
 msgid "Japanese, Old"
-msgstr "starojapanski"
+msgstr "Japanski, stari"
 
 #. Name for ojs
 msgid "Severn Ojibwa"
@@ -23381,7 +23344,7 @@ msgstr ""
 
 #. Inverted name for okm
 msgid "Korean, Middle (10th-16th cent.)"
-msgstr ""
+msgstr "Korejski, srednjovjekovni (10. – 16. st.)"
 
 #. Name for okn
 msgid "Oki-No-Erabu"
@@ -23389,11 +23352,11 @@ msgstr ""
 
 #. Name for oko
 msgid "Old Korean (3rd-9th cent.)"
-msgstr "starokorejski (3.-9. st.)"
+msgstr "Starokorejski (3.-9. st.)"
 
 #. Inverted name for oko
 msgid "Korean, Old (3rd-9th cent.)"
-msgstr "starokorejski (3.-9. st.)"
+msgstr "Korejski, stari (3.-9. st.)"
 
 #. Name for okr
 msgid "Kirike"
@@ -23444,16 +23407,12 @@ msgid "Olrat"
 msgstr ""
 
 #. Name for olt
-#, fuzzy
-#| msgid "Lithuanian"
 msgid "Old Lithuanian"
-msgstr "litavski"
+msgstr "Stari litavski"
 
 #. Inverted name for olt
-#, fuzzy
-#| msgid "Lithuanian"
 msgid "Lithuanian, Old"
-msgstr "litavski"
+msgstr "Litavski, stari"
 
 #. Name for olu
 msgid "Kuvale"
@@ -23493,7 +23452,7 @@ msgstr ""
 
 #. Name for omn
 msgid "Minoan"
-msgstr "minoanski"
+msgstr "Minoanski"
 
 #. Name for omo
 msgid "Utarmbung"
@@ -23605,11 +23564,11 @@ msgstr ""
 
 #. Name for onw
 msgid "Old Nubian"
-msgstr "staronubijski"
+msgstr "Staronubijski"
 
 #. Inverted name for onw
 msgid "Nubian, Old"
-msgstr "staronubijski"
+msgstr "Nubijski, stari"
 
 #. Name for onx
 msgid "Onin Based Pidgin"
@@ -23633,11 +23592,11 @@ msgstr ""
 
 #. Name for oos
 msgid "Old Ossetic"
-msgstr "staroosetski"
+msgstr "Staroosetski"
 
 #. Inverted name for oos
 msgid "Ossetic, Old"
-msgstr "staroosetski"
+msgstr "Osetski, stari"
 
 #. Name for opa
 msgid "Okpamheri"
@@ -23721,11 +23680,11 @@ msgstr ""
 
 #. Name for orv
 msgid "Old Russian"
-msgstr "staroruski"
+msgstr "Staroruski"
 
 #. Inverted name for orv
 msgid "Russian, Old"
-msgstr "staroruski"
+msgstr "Ruski, stari"
 
 #. Name for orw
 msgid "Oro Win"
@@ -23745,7 +23704,7 @@ msgstr ""
 
 #. Name for osa
 msgid "Osage"
-msgstr ""
+msgstr "Osage"
 
 #. Name for osc
 msgid "Oscan"
@@ -23761,15 +23720,15 @@ msgstr ""
 
 #. Name for osp
 msgid "Old Spanish"
-msgstr "starošpanjolski"
+msgstr "Starošpanjolski"
 
 #. Inverted name for osp
 msgid "Spanish, Old"
-msgstr "starošpanjolski"
+msgstr "Španjolski, stari"
 
 #. Name for oss
 msgid "Ossetian"
-msgstr "osetski"
+msgstr "Osetski"
 
 #. Name for ost
 msgid "Osatu"
@@ -23785,27 +23744,27 @@ msgstr ""
 
 #. Name for osx
 msgid "Old Saxon"
-msgstr "starosaksonski"
+msgstr "Starosaksonski"
 
 #. Inverted name for osx
 msgid "Saxon, Old"
-msgstr "starosaksonski"
+msgstr "Saksonski, stari"
 
 #. Name for ota
 msgid "Ottoman Turkish (1500-1928)"
-msgstr "otomanski turski (1500.-1928.)"
+msgstr "Otomanski turski (1500.-1928.)"
 
 #. Inverted name for ota
 msgid "Turkish, Ottoman (1500-1928)"
-msgstr "turski, otomanski (1500.-1928.)"
+msgstr "Turski, otomanski (1500. – 1928.)"
 
 #. Name for otb
 msgid "Old Tibetan"
-msgstr "starotibetski"
+msgstr "Starotibetski"
 
 #. Inverted name for otb
 msgid "Tibetan, Old"
-msgstr "starotibetski"
+msgstr "Tibetski, stari"
 
 #. Name for otd
 msgid "Ot Danum"
@@ -23825,11 +23784,11 @@ msgstr ""
 
 #. Name for otk
 msgid "Old Turkish"
-msgstr "staroturski"
+msgstr "Staroturski"
 
 #. Inverted name for otk
 msgid "Turkish, Old"
-msgstr "staroturski"
+msgstr "Turski, stari"
 
 #. Name for otl
 msgid "Tilapa Otomi"
@@ -23901,11 +23860,11 @@ msgstr ""
 
 #. Name for oty
 msgid "Old Tamil"
-msgstr "starotamilski"
+msgstr "Starotamilski"
 
 #. Inverted name for oty
 msgid "Tamil, Old"
-msgstr "starotamilski"
+msgstr "Tamilski, stari"
 
 #. Name for otz
 msgid "Ixtenco Otomi"
@@ -23945,11 +23904,11 @@ msgstr ""
 
 #. Name for owl
 msgid "Old Welsh"
-msgstr "starovelški"
+msgstr "Starovelški"
 
 #. Inverted name for owl
 msgid "Welsh, Old"
-msgstr "starovelški"
+msgstr "Velški, stari"
 
 #. Name for oyb
 msgid "Oy"
@@ -23993,7 +23952,7 @@ msgstr ""
 
 #. Name for pag
 msgid "Pangasinan"
-msgstr "pangasinanski"
+msgstr "Pangasinanski"
 
 #. Name for pah
 msgid "Tenharim"
@@ -24017,7 +23976,7 @@ msgstr ""
 
 #. Name for pan
 msgid "Panjabi"
-msgstr "pandžapski"
+msgstr "Pandžapski"
 
 #. Name for pao
 msgid "Northern Paiute"
@@ -24049,7 +24008,7 @@ msgstr ""
 
 #. Name for pau
 msgid "Palauan"
-msgstr "palauski"
+msgstr "Palauski"
 
 #. Name for pav
 msgid "Pakaásnovos"
@@ -24221,11 +24180,11 @@ msgstr ""
 
 #. Name for pcm
 msgid "Nigerian Pidgin"
-msgstr "nigerijski pidžin"
+msgstr "Nigerijski pidžin"
 
 #. Inverted name for pcm
 msgid "Pidgin, Nigerian"
-msgstr "pidžin, nigerijski"
+msgstr "Pidžin, nigerijski"
 
 #. Name for pcn
 msgid "Piti"
@@ -24337,11 +24296,11 @@ msgstr ""
 
 #. Name for peo
 msgid "Old Persian (ca. 600-400 B.C.)"
-msgstr "staroperzijski (cca. 600.-400. pr. Kr.)"
+msgstr "Staroperzijski (cca. 600.-400. pr. Kr.)"
 
 #. Inverted name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "staroperzijski (cca. 600.-400. pr. Kr.)"
+msgstr "Perzijski, stari (oko 600. – 400. pr. n. e.)"
 
 #. Name for pep
 msgid "Kunja"
@@ -24357,11 +24316,11 @@ msgstr ""
 
 #. Name for pes
 msgid "Iranian Persian"
-msgstr "iranski perzijski"
+msgstr "Iranski perzijski"
 
 #. Inverted name for pes
 msgid "Persian, Iranian"
-msgstr "perzijski, iranski"
+msgstr "Perzijski, iranski"
 
 #. Name for pev
 msgid "Pémono"
@@ -24397,11 +24356,11 @@ msgstr ""
 
 #. Name for pga
 msgid "Sudanese Creole Arabic"
-msgstr "sudanski kreolski arapski"
+msgstr "Sudanski kreolski arapski"
 
 #. Inverted name for pga
 msgid "Creole Arabic, Sudanese"
-msgstr "kreolski arapski, sudanski"
+msgstr "Kreolski arapski, sudanski"
 
 #. Name for pgd
 msgid "Gāndhārī"
@@ -24421,11 +24380,11 @@ msgstr ""
 
 #. Name for pgl
 msgid "Primitive Irish"
-msgstr "primitivni irski"
+msgstr "Primitivni irski"
 
 #. Inverted name for pgl
 msgid "Irish, Primitive"
-msgstr "irski, primitivni"
+msgstr "Irski, primitivni"
 
 #. Name for pgn
 msgid "Paelignian"
@@ -24440,10 +24399,8 @@ msgid "Pagu"
 msgstr ""
 
 #. Name for pgz
-#, fuzzy
-#| msgid "Guinean Sign Language"
 msgid "Papua New Guinean Sign Language"
-msgstr "gvinejski znakovni jezik"
+msgstr "Gvinejski znakovni jezik"
 
 #. Name for pha
 msgid "Pa-Hng"
@@ -24475,7 +24432,7 @@ msgstr ""
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "fenički"
+msgstr "Fenički"
 
 #. Name for pho
 msgid "Phunoi"
@@ -24651,7 +24608,7 @@ msgstr ""
 
 #. Name for pks
 msgid "Pakistan Sign Language"
-msgstr "pakistanski znakovni jezik"
+msgstr "Pakistanski znakovni jezik"
 
 #. Name for pkt
 msgid "Maleng"
@@ -24867,7 +24824,7 @@ msgstr ""
 
 #. Name for pms
 msgid "Piemontese"
-msgstr "pijemontski"
+msgstr "Pijemontski"
 
 #. Name for pmt
 msgid "Tuamotuan"
@@ -24915,7 +24872,7 @@ msgstr ""
 
 #. Inverted name for pnb
 msgid "Panjabi, Western"
-msgstr ""
+msgstr "Pandžapski, zapadni"
 
 #. Name for pnc
 msgid "Pannei"
@@ -25051,7 +25008,7 @@ msgstr ""
 
 #. Name for pol
 msgid "Polish"
-msgstr "poljski"
+msgstr "Poljski"
 
 #. Name for pom
 msgid "Southeastern Pomo"
@@ -25087,7 +25044,7 @@ msgstr ""
 
 #. Name for por
 msgid "Portuguese"
-msgstr "portugalski"
+msgstr "Portugalski"
 
 #. Name for pos
 msgid "Sayula Popoluca"
@@ -25207,7 +25164,7 @@ msgstr ""
 
 #. Name for prg
 msgid "Prussian"
-msgstr "pruski"
+msgstr "Pruski"
 
 #. Name for prh
 msgid "Porohanon"
@@ -25223,7 +25180,7 @@ msgstr ""
 
 #. Name for prl
 msgid "Peruvian Sign Language"
-msgstr "peruanski znakovni jezik"
+msgstr "Peruanski znakovni jezik"
 
 #. Name for prm
 msgid "Kibiri"
@@ -25238,9 +25195,8 @@ msgid "Old Provençal (to 1500)"
 msgstr ""
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "staroirski (do 900.)"
+msgstr "Okcitanski, stari (do 1500.)"
 
 #. Name for prp
 msgid "Parsi"
@@ -25288,7 +25244,7 @@ msgstr ""
 
 #. Name for psc
 msgid "Persian Sign Language"
-msgstr "perzijski znakovni jezik"
+msgstr "Perzijski znakovni jezik"
 
 #. Name for psd
 msgid "Plains Indian Sign Language"
@@ -25307,32 +25263,24 @@ msgid "Penang Sign Language"
 msgstr ""
 
 #. Name for psh
-#, fuzzy
-#| msgid "Southern Balochi"
 msgid "Southwest Pashai"
-msgstr "južnobaločijski"
+msgstr "Jugozapadni pashayi"
 
 #. Inverted name for psh
-#, fuzzy
-#| msgid "Balochi, Southern"
 msgid "Pashai, Southwest"
-msgstr "južnobaločijski"
+msgstr "Pashayi, jugozapadni"
 
 #. Name for psi
-#, fuzzy
-#| msgid "Southern Balochi"
 msgid "Southeast Pashai"
-msgstr "južnobaločijski"
+msgstr "Jugoistočni pashayi"
 
 #. Inverted name for psi
-#, fuzzy
-#| msgid "Balochi, Southern"
 msgid "Pashai, Southeast"
-msgstr "južnobaločijski"
+msgstr "Pashayi, jugoistočni"
 
 #. Name for psl
 msgid "Puerto Rican Sign Language"
-msgstr "portorikanski znakovni jezik"
+msgstr "Portorikanski znakovni jezik"
 
 #. Name for psm
 msgid "Pauserna"
@@ -25344,11 +25292,11 @@ msgstr ""
 
 #. Name for pso
 msgid "Polish Sign Language"
-msgstr "poljski znakovni jezik"
+msgstr "Poljski znakovni jezik"
 
 #. Name for psp
 msgid "Philippine Sign Language"
-msgstr "filipinski znakovni jezik"
+msgstr "Filipinski znakovni jezik"
 
 #. Name for psq
 msgid "Pasi"
@@ -25356,7 +25304,7 @@ msgstr ""
 
 #. Name for psr
 msgid "Portuguese Sign Language"
-msgstr "portugalski znakovni jezik"
+msgstr "Portugalski znakovni jezik"
 
 #. Name for pss
 msgid "Kaulong"
@@ -25596,7 +25544,7 @@ msgstr ""
 
 #. Name for pys
 msgid "Paraguayan Sign Language"
-msgstr "paragvajski znakovni jezik"
+msgstr "Paragvajski znakovni jezik"
 
 #. Name for pyu
 msgid "Puyuma"
@@ -25644,7 +25592,7 @@ msgstr ""
 
 #. Name for que
 msgid "Quechua"
-msgstr "kečuanski"
+msgstr "Kečuanski"
 
 #. Name for quf
 msgid "Lambayeque Quechua"
@@ -25888,11 +25836,11 @@ msgstr ""
 
 #. Name for qwc
 msgid "Classical Quechua"
-msgstr "klasični kečuanski"
+msgstr "Klasični kečuanski"
 
 #. Inverted name for qwc
 msgid "Quechua, Classical"
-msgstr "kečuanski, klasični"
+msgstr "Kečuanski, klasični"
 
 #. Name for qwh
 msgid "Huaylas Ancash Quechua"
@@ -25904,7 +25852,7 @@ msgstr ""
 
 #. Name for qwm
 msgid "Kuman (Russia)"
-msgstr "kumanski (Rusija)"
+msgstr "Kumanski (Rusija)"
 
 #. Name for qws
 msgid "Sihuas Ancash Quechua"
@@ -26064,7 +26012,7 @@ msgstr ""
 
 #. Name for raj
 msgid "Rajasthani"
-msgstr "radžastanski"
+msgstr "Radžastanski"
 
 #. Name for rak
 msgid "Tulu-Bohuai"
@@ -26088,7 +26036,7 @@ msgstr ""
 
 #. Name for rap
 msgid "Rapanui"
-msgstr "rapanujski"
+msgstr "Rapanujski"
 
 #. Name for raq
 msgid "Saam"
@@ -26232,7 +26180,7 @@ msgstr ""
 
 #. Name for rge
 msgid "Romano-Greek"
-msgstr "rimskogrčki"
+msgstr "Rimskogrčki"
 
 #. Name for rgk
 msgid "Rangkas"
@@ -26356,15 +26304,15 @@ msgstr ""
 
 #. Inverted name for rmc
 msgid "Romani, Carpathian"
-msgstr ""
+msgstr "Romski, karpatijski"
 
 #. Name for rmd
 msgid "Traveller Danish"
-msgstr "putnički danski"
+msgstr "Putnički danski"
 
 #. Inverted name for rmd
 msgid "Danish, Traveller"
-msgstr "danski, putnički"
+msgstr "Danski, putnički"
 
 #. Name for rme
 msgid "Angloromani"
@@ -26380,7 +26328,7 @@ msgstr ""
 
 #. Name for rmg
 msgid "Traveller Norwegian"
-msgstr ""
+msgstr "Putnički norveški"
 
 #. Inverted name for rmg
 msgid "Norwegian, Traveller"
@@ -26404,7 +26352,7 @@ msgstr ""
 
 #. Inverted name for rml
 msgid "Romani, Baltic"
-msgstr ""
+msgstr "Romski, baltijski"
 
 #. Name for rmm
 msgid "Roma"
@@ -26416,7 +26364,7 @@ msgstr ""
 
 #. Inverted name for rmn
 msgid "Romani, Balkan"
-msgstr ""
+msgstr "Romski, balkanski"
 
 #. Name for rmo
 msgid "Sinte Romani"
@@ -26436,7 +26384,7 @@ msgstr ""
 
 #. Name for rms
 msgid "Romanian Sign Language"
-msgstr "rumunjski znakovni jezik"
+msgstr "Rumunjski znakovni jezik"
 
 #. Name for rmt
 msgid "Domari"
@@ -26460,7 +26408,7 @@ msgstr ""
 
 #. Inverted name for rmw
 msgid "Romani, Welsh"
-msgstr ""
+msgstr "Romski, velški"
 
 #. Name for rmx
 msgid "Romam"
@@ -26540,7 +26488,7 @@ msgstr ""
 
 #. Name for roh
 msgid "Romansh"
-msgstr "retoromanski"
+msgstr "Retoromanski"
 
 #. Name for rol
 msgid "Romblomanon"
@@ -26548,11 +26496,11 @@ msgstr ""
 
 #. Name for rom
 msgid "Romany"
-msgstr ""
+msgstr "Romski"
 
 #. Name for ron
 msgid "Romanian"
-msgstr "rumunjski"
+msgstr "Rumunjski"
 
 #. Name for roo
 msgid "Rotokas"
@@ -26596,7 +26544,7 @@ msgstr ""
 
 #. Name for rsb
 msgid "Romano-Serbian"
-msgstr ""
+msgstr "Romsko-srpski"
 
 #. Name for rsi
 msgid "Rennellese Sign Language"
@@ -26604,13 +26552,11 @@ msgstr ""
 
 #. Name for rsl
 msgid "Russian Sign Language"
-msgstr "ruski znakovni jezik"
+msgstr "Ruski znakovni jezik"
 
 #. Name for rsm
-#, fuzzy
-#| msgid "Nigerian Sign Language"
 msgid "Miriwoong Sign Language"
-msgstr "nigerijski znakovni jezik"
+msgstr "Miriwoong znakovni jezik"
 
 #. Name for rtc
 msgid "Rungtu Chin"
@@ -26682,11 +26628,11 @@ msgstr ""
 
 #. Name for rup
 msgid "Macedo-Romanian"
-msgstr "makedorumunjski"
+msgstr "Makedorumunjski"
 
 #. Inverted name for rup
 msgid "Romanian, Macedo-"
-msgstr "makedorumunjski"
+msgstr "Makedorumunjski"
 
 #. Name for ruq
 msgid "Megleno Romanian"
@@ -26698,7 +26644,7 @@ msgstr ""
 
 #. Name for rus
 msgid "Russian"
-msgstr "ruski"
+msgstr "Ruski"
 
 #. Name for rut
 msgid "Rutul"
@@ -26814,15 +26760,15 @@ msgstr ""
 
 #. Name for sam
 msgid "Samaritan Aramaic"
-msgstr "samaritanski aramejski"
+msgstr "Samaritanski aramejski"
 
 #. Inverted name for sam
 msgid "Aramaic, Samaritan"
-msgstr "aramejski, samaritanski"
+msgstr "Aramejski, samaritanski"
 
 #. Name for san
 msgid "Sanskrit"
-msgstr "sanskrt"
+msgstr "Sanskrt"
 
 #. Name for sao
 msgid "Sause"
@@ -26866,7 +26812,7 @@ msgstr ""
 
 #. Name for saz
 msgid "Saurashtra"
-msgstr ""
+msgstr "Saurashtra"
 
 #. Name for sba
 msgid "Ngambay"
@@ -27030,7 +26976,7 @@ msgstr ""
 
 #. Name for scn
 msgid "Sicilian"
-msgstr "sicilijanski"
+msgstr "Sicilijanski"
 
 #. Name for sco
 msgid "Scots"
@@ -27098,11 +27044,11 @@ msgstr ""
 
 #. Name for sdh
 msgid "Southern Kurdish"
-msgstr "južnokurdski"
+msgstr "Južnokurdski"
 
 #. Inverted name for sdh
 msgid "Kurdish, Southern"
-msgstr "južnokurdski"
+msgstr "Južnokurdski"
 
 #. Name for sdj
 msgid "Suundi"
@@ -27114,7 +27060,7 @@ msgstr ""
 
 #. Name for sdl
 msgid "Saudi Arabian Sign Language"
-msgstr "znakovni jezik Saudijske Arabije"
+msgstr "Znakovni jezik Saudijske Arabije"
 
 #. Name for sdm
 msgid "Semandang"
@@ -27302,7 +27248,7 @@ msgstr ""
 
 #. Name for sfb
 msgid "Langue des signes de Belgique Francophone"
-msgstr "belgijski frankofonski znakovni jezik"
+msgstr "Belgijski frankofonski znakovni jezik"
 
 #. Name for sfe
 msgid "Eastern Subanen"
@@ -27322,7 +27268,7 @@ msgstr ""
 
 #. Name for sfs
 msgid "South African Sign Language"
-msgstr "južnoafrički znakovni jezik"
+msgstr "Južnoafrički znakovni jezik"
 
 #. Name for sfw
 msgid "Sehwi"
@@ -27330,11 +27276,11 @@ msgstr ""
 
 #. Name for sga
 msgid "Old Irish (to 900)"
-msgstr "staroirski (do 900.)"
+msgstr "Staroirski (do 900.)"
 
 #. Inverted name for sga
 msgid "Irish, Old (to 900)"
-msgstr "staroirski (do 900.)"
+msgstr "Irski, stari (do 900.)"
 
 #. Name for sgb
 msgid "Mag-antsi Ayta"
@@ -27358,7 +27304,7 @@ msgstr ""
 
 #. Name for sgg
 msgid "Swiss-German Sign Language"
-msgstr "švicarskonjemački znakovni jezik"
+msgstr "Švicarskonjemački znakovni jezik"
 
 #. Name for sgh
 msgid "Shughni"
@@ -27494,11 +27440,11 @@ msgstr ""
 
 #. Name for shu
 msgid "Chadian Arabic"
-msgstr "čadski arapski"
+msgstr "Čadski arapski"
 
 #. Inverted name for shu
 msgid "Arabic, Chadian"
-msgstr "arapski, čadski"
+msgstr "Arapski, čadski"
 
 #. Name for shv
 msgid "Shehri"
@@ -27582,7 +27528,7 @@ msgstr ""
 
 #. Name for sin
 msgid "Sinhala"
-msgstr ""
+msgstr "Singalski"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -27838,7 +27784,7 @@ msgstr ""
 
 #. Name for slf
 msgid "Swiss-Italian Sign Language"
-msgstr "švicarskotalijanski znakovni jezik"
+msgstr "Švicarskotalijanski znakovni jezik"
 
 #. Name for slg
 msgid "Selungai Murut"
@@ -27866,7 +27812,7 @@ msgstr ""
 
 #. Name for slk
 msgid "Slovak"
-msgstr "slovački"
+msgstr "Slovački"
 
 #. Name for sll
 msgid "Salt-Yui"
@@ -27898,7 +27844,7 @@ msgstr ""
 
 #. Name for sls
 msgid "Singapore Sign Language"
-msgstr "singapurski znakovni jezik"
+msgstr "Singapurski znakovni jezik"
 
 #. Name for slt
 msgid "Sila"
@@ -27910,7 +27856,7 @@ msgstr ""
 
 #. Name for slv
 msgid "Slovenian"
-msgstr "slovenski"
+msgstr "Slovenski"
 
 #. Name for slw
 msgid "Sialum"
@@ -27930,7 +27876,7 @@ msgstr ""
 
 #. Name for sma
 msgid "Southern Sami"
-msgstr ""
+msgstr "Južnolaponski"
 
 #. Inverted name for sma
 msgid "Sami, Southern"
@@ -27942,7 +27888,7 @@ msgstr ""
 
 #. Name for smc
 msgid "Som"
-msgstr "Kirgijski som"
+msgstr "Kirgistanski som"
 
 #. Name for smd
 msgid "Sama"
@@ -27950,11 +27896,11 @@ msgstr ""
 
 #. Name for sme
 msgid "Northern Sami"
-msgstr ""
+msgstr "Sjevernolaponski"
 
 #. Inverted name for sme
 msgid "Sami, Northern"
-msgstr ""
+msgstr "Laponski, sjeverni"
 
 #. Name for smf
 msgid "Auwe"
@@ -27970,7 +27916,7 @@ msgstr ""
 
 #. Name for smj
 msgid "Lule Sami"
-msgstr ""
+msgstr "Lulejskolaponski"
 
 #. Name for smk
 msgid "Bolinao"
@@ -27990,7 +27936,7 @@ msgstr ""
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr ""
+msgstr "Inarijskolaponski"
 
 #. Inverted name for smn
 msgid "Sami, Inari"
@@ -27998,11 +27944,11 @@ msgstr ""
 
 #. Name for smo
 msgid "Samoan"
-msgstr "samoanski"
+msgstr "Samoanski"
 
 #. Name for smp
 msgid "Samaritan"
-msgstr "samaritanski"
+msgstr "Samaritanski"
 
 #. Name for smq
 msgid "Samo"
@@ -28014,11 +27960,11 @@ msgstr ""
 
 #. Name for sms
 msgid "Skolt Sami"
-msgstr ""
+msgstr "Skoltskolaponski"
 
 #. Inverted name for sms
 msgid "Sami, Skolt"
-msgstr ""
+msgstr "Laponski, skoltski"
 
 #. Name for smt
 msgid "Simte"
@@ -28206,7 +28152,7 @@ msgstr ""
 
 #. Name for som
 msgid "Somali"
-msgstr "somalski"
+msgstr "Somalski"
 
 #. Name for soo
 msgid "Songo"
@@ -28242,7 +28188,7 @@ msgstr ""
 
 #. Inverted name for sou
 msgid "Thai, Southern"
-msgstr ""
+msgstr "Tajlandski, južni"
 
 #. Name for sov
 msgid "Sonsorol"
@@ -28266,7 +28212,7 @@ msgstr ""
 
 #. Name for spa
 msgid "Spanish"
-msgstr "španjolski"
+msgstr "Španjolski"
 
 #. Name for spb
 msgid "Sepa (Indonesia)"
@@ -28374,11 +28320,11 @@ msgstr ""
 
 #. Name for sqi
 msgid "Albanian"
-msgstr "albanski"
+msgstr "Albanski"
 
 #. Name for sqk
 msgid "Albanian Sign Language"
-msgstr "albanski znakovni jezik"
+msgstr "Albanski znakovni jezik"
 
 #. Name for sqm
 msgid "Suma"
@@ -28434,7 +28380,7 @@ msgstr ""
 
 #. Name for srd
 msgid "Sardinian"
-msgstr "sardinijski"
+msgstr "Sardinijski"
 
 #. Name for sre
 msgid "Sara"
@@ -28482,7 +28428,7 @@ msgstr ""
 
 #. Name for srp
 msgid "Serbian"
-msgstr "srpski"
+msgstr "Srpski"
 
 #. Name for srq
 msgid "Sirionó"
@@ -28598,7 +28544,7 @@ msgstr ""
 
 #. Name for ssp
 msgid "Spanish Sign Language"
-msgstr "španjolski znakovni jezik"
+msgstr "Španjolski znakovni jezik"
 
 #. Name for ssq
 msgid "So'a"
@@ -28606,7 +28552,7 @@ msgstr ""
 
 #. Name for ssr
 msgid "Swiss-French Sign Language"
-msgstr "švicarskofrancuski znakovni jezik"
+msgstr "Švicarskofrancuski znakovni jezik"
 
 #. Name for sss
 msgid "Sô"
@@ -28753,9 +28699,8 @@ msgid "Satawalese"
 msgstr ""
 
 #. Name for sty
-#, fuzzy
 msgid "Siberian Tatar"
-msgstr "krimski tatarski"
+msgstr "Sibirski tatarski"
 
 #. Inverted name for sty
 msgid "Tatar, Siberian"
@@ -28799,7 +28744,7 @@ msgstr ""
 
 #. Name for sun
 msgid "Sundanese"
-msgstr ""
+msgstr "Sudanski"
 
 #. Name for suq
 msgid "Suri"
@@ -28827,7 +28772,7 @@ msgstr ""
 
 #. Name for sux
 msgid "Sumerian"
-msgstr "sumerski"
+msgstr "Sumerski"
 
 #. Name for suy
 msgid "Suyá"
@@ -28859,7 +28804,7 @@ msgstr ""
 
 #. Name for svk
 msgid "Slovakian Sign Language"
-msgstr "slovački znakovni jezik"
+msgstr "Slovački znakovni jezik"
 
 #. Name for svm
 msgid "Slavomolisano"
@@ -28895,7 +28840,7 @@ msgstr ""
 
 #. Name for swe
 msgid "Swedish"
-msgstr "švedski"
+msgstr "Švedski"
 
 #. Name for swf
 msgid "Sere"
@@ -28927,7 +28872,7 @@ msgstr ""
 
 #. Name for swl
 msgid "Swedish Sign Language"
-msgstr "švedski znakovni jezik"
+msgstr "Švedski znakovni jezik"
 
 #. Name for swm
 msgid "Samosa"
@@ -29095,7 +29040,7 @@ msgstr ""
 
 #. Name for syr
 msgid "Syriac"
-msgstr ""
+msgstr "Sirjački"
 
 #. Name for sys
 msgid "Sinyar"
@@ -29195,7 +29140,7 @@ msgstr ""
 
 #. Name for tah
 msgid "Tahitian"
-msgstr "tahićanski"
+msgstr "Tahićanski"
 
 #. Name for taj
 msgid "Eastern Tamang"
@@ -29215,7 +29160,7 @@ msgstr ""
 
 #. Name for tam
 msgid "Tamil"
-msgstr "tamilski"
+msgstr "Tamilski"
 
 #. Name for tan
 msgid "Tangale"
@@ -29247,7 +29192,7 @@ msgstr ""
 
 #. Name for tat
 msgid "Tatar"
-msgstr "tatarski"
+msgstr "Tatarski"
 
 #. Name for tau
 msgid "Upper Tanana"
@@ -29375,7 +29320,7 @@ msgstr ""
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr ""
+msgstr "Tagbanwa"
 
 #. Name for tbx
 msgid "Kapin"
@@ -29667,7 +29612,7 @@ msgstr ""
 
 #. Name for tel
 msgid "Telugu"
-msgstr "teluški"
+msgstr "Teluški"
 
 #. Name for tem
 msgid "Timne"
@@ -29791,7 +29736,7 @@ msgstr ""
 
 #. Name for tgk
 msgid "Tajik"
-msgstr "tadžički"
+msgstr "Tadžički"
 
 #. Name for tgl
 msgid "Tagalog"
@@ -29859,7 +29804,7 @@ msgstr ""
 
 #. Name for tha
 msgid "Thai"
-msgstr "tajlandski"
+msgstr "Tajski"
 
 #. Name for thd
 msgid "Thayore"
@@ -30155,7 +30100,7 @@ msgstr ""
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr ""
+msgstr "Tokelau"
 
 #. Name for tkm
 msgid "Takelma"
@@ -30247,7 +30192,7 @@ msgstr ""
 
 #. Name for tlh
 msgid "Klingon"
-msgstr "klingonski"
+msgstr "Klingonski"
 
 #. Name for tli
 msgid "Tlingit"
@@ -30391,11 +30336,11 @@ msgstr ""
 
 #. Name for tmr
 msgid "Jewish Babylonian Aramaic (ca. 200-1200 CE)"
-msgstr "židovski babilonski aramejski (cca. 200.-1200.)"
+msgstr "Židovski babilonski aramejski (cca. 200.-1200.)"
 
 #. Inverted name for tmr
 msgid "Aramaic, Jewish Babylonian (ca. 200-1200 CE)"
-msgstr "aramejski, židovski babilonski (cca. 200.-1200.)"
+msgstr "Aramejski, židovski babilonski (cca. 200.-1200.)"
 
 #. Name for tms
 msgid "Tima"
@@ -30835,11 +30780,11 @@ msgstr ""
 
 #. Name for trf
 msgid "Trinidadian Creole English"
-msgstr "trinidadski kreolski engleski"
+msgstr "Trinidadski kreolski engleski"
 
 #. Inverted name for trf
 msgid "Creole English, Trinidadian"
-msgstr "kreolski engleski, trinidadski"
+msgstr "Kreolski engleski, trinidadski"
 
 #. Name for trg
 msgid "Lishán Didán"
@@ -30859,11 +30804,11 @@ msgstr ""
 
 #. Name for trl
 msgid "Traveller Scottish"
-msgstr "putnički škotski"
+msgstr "Putnički škotski"
 
 #. Inverted name for trl
 msgid "Scottish, Traveller"
-msgstr "škotski, putnički"
+msgstr "Škotski, putnički"
 
 #. Name for trm
 msgid "Tregami"
@@ -30955,7 +30900,7 @@ msgstr ""
 
 #. Name for tse
 msgid "Tunisian Sign Language"
-msgstr "tuniški znakovni jezik"
+msgstr "Tuniški znakovni jezik"
 
 #. Name for tsg
 msgid "Tausug"
@@ -30983,7 +30928,7 @@ msgstr ""
 
 #. Name for tsm
 msgid "Turkish Sign Language"
-msgstr "turski znakovni jezik"
+msgstr "Turski znakovni jezik"
 
 #. Name for tsn
 msgid "Tswana"
@@ -31003,7 +30948,7 @@ msgstr ""
 
 #. Name for tsq
 msgid "Thai Sign Language"
-msgstr "tajlandski znakovni jezik"
+msgstr "Tajlandski znakovni jezik"
 
 #. Name for tsr
 msgid "Akei"
@@ -31011,7 +30956,7 @@ msgstr ""
 
 #. Name for tss
 msgid "Taiwan Sign Language"
-msgstr "tajvanski znakovni jezik"
+msgstr "Tajvanski znakovni jezik"
 
 #. Name for tst
 msgid "Tondi Songway Kiini"
@@ -31039,7 +30984,7 @@ msgstr ""
 
 #. Name for tsy
 msgid "Tebul Sign Language"
-msgstr "tebulski znakovni jezik"
+msgstr "Tebulski znakovni jezik"
 
 #. Name for tsz
 msgid "Purepecha"
@@ -31139,7 +31084,7 @@ msgstr ""
 
 #. Inverted name for tts
 msgid "Thai, Northeastern"
-msgstr ""
+msgstr "Tajlandski, sjeveroistočni"
 
 #. Name for ttt
 msgid "Muslim Tat"
@@ -31215,7 +31160,7 @@ msgstr ""
 
 #. Name for tuk
 msgid "Turkmen"
-msgstr "turkmenski"
+msgstr "Turkmenski"
 
 #. Name for tul
 msgid "Tula"
@@ -31239,7 +31184,7 @@ msgstr ""
 
 #. Name for tur
 msgid "Turkish"
-msgstr "turski"
+msgstr "Turski"
 
 #. Name for tus
 msgid "Tuscarora"
@@ -31287,7 +31232,7 @@ msgstr ""
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr ""
+msgstr "Tuvalu"
 
 #. Name for tvm
 msgid "Tela-Masbuar"
@@ -31323,11 +31268,11 @@ msgstr ""
 
 #. Name for tvy
 msgid "Timor Pidgin"
-msgstr "timorski pidžin"
+msgstr "Timorski pidžin"
 
 #. Inverted name for tvy
 msgid "Pidgin, Timor"
-msgstr "pidžin, timorski"
+msgstr "Pidžin, timorski"
 
 #. Name for twa
 msgid "Twana"
@@ -31447,7 +31392,7 @@ msgstr ""
 
 #. Name for txg
 msgid "Tangut"
-msgstr ""
+msgstr "Tangutski"
 
 #. Name for txh
 msgid "Thracian"
@@ -31571,7 +31516,7 @@ msgstr ""
 
 #. Name for tza
 msgid "Tanzanian Sign Language"
-msgstr "tanzanijski znakovni jezik"
+msgstr "Tanzanijski znakovni jezik"
 
 #. Name for tzh
 msgid "Tzeltal"
@@ -31687,7 +31632,7 @@ msgstr ""
 
 #. Name for uga
 msgid "Ugaritic"
-msgstr ""
+msgstr "Ugaritski"
 
 #. Name for ugb
 msgid "Kuku-Ugbanh"
@@ -31699,7 +31644,7 @@ msgstr ""
 
 #. Name for ugn
 msgid "Ugandan Sign Language"
-msgstr "ugandski znakovni jezik"
+msgstr "Ugandski znakovni jezik"
 
 #. Name for ugo
 msgid "Ugong"
@@ -31707,7 +31652,7 @@ msgstr ""
 
 #. Name for ugy
 msgid "Uruguayan Sign Language"
-msgstr "urugvajski znakovni jezik"
+msgstr "Urugvajski znakovni jezik"
 
 #. Name for uha
 msgid "Uhami"
@@ -31747,7 +31692,7 @@ msgstr ""
 
 #. Name for ukl
 msgid "Ukrainian Sign Language"
-msgstr "ukrajinski znakovni jezik"
+msgstr "Ukrajinski znakovni jezik"
 
 #. Name for ukp
 msgid "Ukpe-Bayobiri"
@@ -31759,7 +31704,7 @@ msgstr ""
 
 #. Name for ukr
 msgid "Ukrainian"
-msgstr "ukrajinski"
+msgstr "Ukrajinski"
 
 #. Name for uks
 msgid "Urubú-Kaapor Sign Language"
@@ -31891,7 +31836,7 @@ msgstr ""
 
 #. Name for und
 msgid "Undetermined"
-msgstr "neodređeni"
+msgstr "Neodređeni"
 
 #. Name for une
 msgid "Uneme"
@@ -31955,7 +31900,7 @@ msgstr ""
 
 #. Name for urd
 msgid "Urdu"
-msgstr "urdski"
+msgstr "Urdski"
 
 #. Name for ure
 msgid "Uru"
@@ -32119,23 +32064,23 @@ msgstr ""
 
 #. Name for uzb
 msgid "Uzbek"
-msgstr "uzbečki"
+msgstr "Uzbečki"
 
 #. Name for uzn
 msgid "Northern Uzbek"
-msgstr "sjevernouzbečki"
+msgstr "Sjevernouzbečki"
 
 #. Inverted name for uzn
 msgid "Uzbek, Northern"
-msgstr "sjevernouzbečki"
+msgstr "Sjevernouzbečki"
 
 #. Name for uzs
 msgid "Southern Uzbek"
-msgstr "južnouzbečki"
+msgstr "Južnouzbečki"
 
 #. Inverted name for uzs
 msgid "Uzbek, Southern"
-msgstr "južnouzbečki"
+msgstr "Južnouzbečki"
 
 #. Name for vaa
 msgid "Vaagri Booli"
@@ -32159,7 +32104,7 @@ msgstr ""
 
 #. Name for vai
 msgid "Vai"
-msgstr ""
+msgstr "Vai"
 
 #. Name for vaj
 msgid "Sekele"
@@ -32223,7 +32168,7 @@ msgstr ""
 
 #. Name for vec
 msgid "Venetian"
-msgstr "venecijanski"
+msgstr "Venecijanski"
 
 #. Name for ved
 msgid "Veddah"
@@ -32263,11 +32208,11 @@ msgstr ""
 
 #. Name for vic
 msgid "Virgin Islands Creole English"
-msgstr "kreolski engleski Djevičanskih otoka"
+msgstr "Kreolski engleski Djevičanskih otoka"
 
 #. Inverted name for vic
 msgid "Creole English, Virgin Islands"
-msgstr "kreolski engleski, Djevičanski otoci"
+msgstr "Kreolski engleski, Djevičanski otoci"
 
 #. Name for vid
 msgid "Vidunda"
@@ -32275,7 +32220,7 @@ msgstr ""
 
 #. Name for vie
 msgid "Vietnamese"
-msgstr "vijetnamski"
+msgstr "Vijetnamski"
 
 #. Name for vif
 msgid "Vili"
@@ -32335,11 +32280,11 @@ msgstr ""
 
 #. Name for vkp
 msgid "Korlai Creole Portuguese"
-msgstr "korlajski kreolski portugalski"
+msgstr "Korlajski kreolski portugalski"
 
 #. Inverted name for vkp
 msgid "Creole Portuguese, Korlai"
-msgstr "kreolski portugalski, korlajski"
+msgstr "Kreolski portugalski, korlajski"
 
 #. Name for vkt
 msgid "Tenggarong Kutai Malay"
@@ -32366,9 +32311,8 @@ msgid "Martuyhunira"
 msgstr ""
 
 #. Name for vmb
-#, fuzzy
 msgid "Barbaram"
-msgstr "bambarski"
+msgstr "Bambarski"
 
 #. Name for vmc
 msgid "Juxtlahuaca Mixtec"
@@ -32540,15 +32484,15 @@ msgstr ""
 
 #. Name for vsi
 msgid "Moldova Sign Language"
-msgstr "moldavski znakovni jezik"
+msgstr "Moldavski znakovni jezik"
 
 #. Name for vsl
 msgid "Venezuelan Sign Language"
-msgstr "venecuelanski znakovni jezik"
+msgstr "Venecuelanski znakovni jezik"
 
 #. Name for vsv
 msgid "Valencian Sign Language"
-msgstr "valencijski znakovni jezik"
+msgstr "Valencijski znakovni jezik"
 
 #. Name for vto
 msgid "Vitou"
@@ -32816,11 +32760,11 @@ msgstr ""
 
 #. Name for wes
 msgid "Cameroon Pidgin"
-msgstr "kamerunski pidžin"
+msgstr "Kamerunski pidžin"
 
 #. Inverted name for wes
 msgid "Pidgin, Cameroon"
-msgstr "pidžin, kamerunski"
+msgstr "Pidžin, kamerunski"
 
 #. Name for wet
 msgid "Perai"
@@ -33044,7 +32988,7 @@ msgstr ""
 
 #. Name for wln
 msgid "Walloon"
-msgstr "valonski"
+msgstr "Valonski"
 
 #. Name for wlo
 msgid "Wolio"
@@ -33524,11 +33468,11 @@ msgstr ""
 
 #. Name for xaa
 msgid "Andalusian Arabic"
-msgstr "andaluzijski arapski"
+msgstr "Andaluzijski arapski"
 
 #. Inverted name for xaa
 msgid "Arabic, Andalusian"
-msgstr "arapski, andaluzijski"
+msgstr "Arapski, andaluzijski"
 
 #. Name for xab
 msgid "Sambe"
@@ -33584,7 +33528,7 @@ msgstr ""
 
 #. Name for xaq
 msgid "Aquitanian"
-msgstr "akvitanski"
+msgstr "Akvitanski"
 
 #. Name for xar
 msgid "Karami"
@@ -33631,9 +33575,8 @@ msgid "Bindal"
 msgstr ""
 
 #. Name for xbe
-#, fuzzy
 msgid "Bigambal"
-msgstr "bambarski"
+msgstr "Bambarski"
 
 #. Name for xbg
 msgid "Bunganditj"
@@ -33653,7 +33596,7 @@ msgstr ""
 
 #. Inverted name for xbm
 msgid "Breton, Middle"
-msgstr ""
+msgstr "Bretonski, srednjevjekovni"
 
 #. Name for xbn
 msgid "Kenaboi"
@@ -33705,11 +33648,11 @@ msgstr ""
 
 #. Name for xcl
 msgid "Classical Armenian"
-msgstr "klasični armenski"
+msgstr "Klasični armenski"
 
 #. Inverted name for xcl
 msgid "Armenian, Classical"
-msgstr "armenski, klasični"
+msgstr "Armenski, klasični"
 
 #. Name for xcm
 msgid "Comecrudo"
@@ -33725,15 +33668,15 @@ msgstr ""
 
 #. Name for xcr
 msgid "Carian"
-msgstr ""
+msgstr "Karijanski"
 
 #. Name for xct
 msgid "Classical Tibetan"
-msgstr "klasični tibetski"
+msgstr "Klasični tibetski"
 
 #. Inverted name for xct
 msgid "Tibetan, Classical"
-msgstr "tibetski, klasični"
+msgstr "Tibetski, klasični"
 
 #. Name for xcu
 msgid "Curonian"
@@ -33757,7 +33700,7 @@ msgstr ""
 
 #. Name for xdc
 msgid "Dacian"
-msgstr "dacijski"
+msgstr "Dacijski"
 
 #. Name for xdk
 msgid "Dharuk"
@@ -33909,7 +33852,7 @@ msgstr ""
 
 #. Name for xil
 msgid "Illyrian"
-msgstr "ilirski"
+msgstr "Ilirski"
 
 #. Name for xin
 msgid "Xinca"
@@ -33977,7 +33920,7 @@ msgstr ""
 
 #. Name for xki
 msgid "Kenyan Sign Language"
-msgstr "kenijski znakovni jezik"
+msgstr "Kenijski znakovni jezik"
 
 #. Name for xkj
 msgid "Kajali"
@@ -34057,11 +34000,11 @@ msgstr ""
 
 #. Name for xlc
 msgid "Lycian"
-msgstr ""
+msgstr "Likijski"
 
 #. Name for xld
 msgid "Lydian"
-msgstr "lidijski"
+msgstr "Lidijski"
 
 #. Name for xle
 msgid "Lemnian"
@@ -34069,11 +34012,11 @@ msgstr ""
 
 #. Name for xlg
 msgid "Ligurian (Ancient)"
-msgstr "ligurijski (antički)"
+msgstr "Ligurijski (antički)"
 
 #. Name for xli
 msgid "Liburnian"
-msgstr "liburnijski"
+msgstr "Liburnijski"
 
 #. Name for xln
 msgid "Alanic"
@@ -34141,15 +34084,15 @@ msgstr ""
 
 #. Name for xmk
 msgid "Ancient Macedonian"
-msgstr "antički makedonski"
+msgstr "Antički makedonski"
 
 #. Inverted name for xmk
 msgid "Macedonian, Ancient"
-msgstr "makedonski, antički"
+msgstr "Makedonski, antički"
 
 #. Name for xml
 msgid "Malaysian Sign Language"
-msgstr "malezijski znakovni jezik"
+msgstr "Malezijski znakovni jezik"
 
 #. Name for xmm
 msgid "Manado Malay"
@@ -34185,7 +34128,7 @@ msgstr ""
 
 #. Name for xms
 msgid "Moroccan Sign Language"
-msgstr "marokanski znakovni jezik"
+msgstr "Marokanski znakovni jezik"
 
 #. Name for xmt
 msgid "Matbat"
@@ -34225,11 +34168,11 @@ msgstr ""
 
 #. Name for xna
 msgid "Ancient North Arabian"
-msgstr "antički sjevernoarapski"
+msgstr "Antički sjevernoarapski"
 
 #. Inverted name for xna
 msgid "North Arabian, Ancient"
-msgstr "sjevernoarapski, antički"
+msgstr "Sjevernoarapski, antički"
 
 #. Name for xnb
 msgid "Kanakanabu"
@@ -34265,7 +34208,7 @@ msgstr ""
 
 #. Name for xno
 msgid "Anglo-Norman"
-msgstr "anglonormanski"
+msgstr "Anglonormanski"
 
 #. Name for xnr
 msgid "Kangri"
@@ -34353,7 +34296,7 @@ msgstr ""
 
 #. Name for xpg
 msgid "Phrygian"
-msgstr "frigijski"
+msgstr "Frigijski"
 
 #. Name for xpi
 msgid "Pictish"
@@ -34701,7 +34644,7 @@ msgstr ""
 
 #. Name for xtz
 msgid "Tasmanian"
-msgstr "tasmanijski"
+msgstr "Tasmanijski"
 
 #. Name for xua
 msgid "Alu Kurumba"
@@ -34781,7 +34724,7 @@ msgstr ""
 
 #. Name for xvn
 msgid "Vandalic"
-msgstr "vandalski"
+msgstr "Vandalski"
 
 #. Name for xvo
 msgid "Volscian"
@@ -34853,7 +34796,7 @@ msgstr ""
 
 #. Name for xxb
 msgid "Boro (Ghana)"
-msgstr ""
+msgstr "Boro (Gana)"
 
 #. Name for xxk
 msgid "Ke'o"
@@ -34909,11 +34852,11 @@ msgstr ""
 
 #. Name for xzp
 msgid "Ancient Zapotec"
-msgstr "antički zapotečki"
+msgstr "Antički zapotečki"
 
 #. Inverted name for xzp
 msgid "Zapotec, Ancient"
-msgstr "zapotečki, antički"
+msgstr "Zapotečki, antički"
 
 #. Name for yaa
 msgid "Yaminahua"
@@ -34941,7 +34884,7 @@ msgstr ""
 
 #. Name for yaf
 msgid "Yaka (Democratic Republic of Congo)"
-msgstr ""
+msgstr "Yaka (Demokratska Republika Kongo)"
 
 #. Name for yag
 msgid "Yámana"
@@ -35096,17 +35039,16 @@ msgid "Chepya"
 msgstr ""
 
 #. Name for yda
-#, fuzzy
 msgid "Yanda"
-msgstr "vandalski"
+msgstr "Yanda"
 
 #. Name for ydd
 msgid "Eastern Yiddish"
-msgstr "istočni jidiš"
+msgstr "Istočni jidiš"
 
 #. Inverted name for ydd
 msgid "Yiddish, Eastern"
-msgstr "jidiš, istočni"
+msgstr "Jidiš, istočni"
 
 #. Name for yde
 msgid "Yangum Dey"
@@ -35193,10 +35135,8 @@ msgid "Yagaria"
 msgstr ""
 
 #. Name for ygs
-#, fuzzy
-#| msgid "Polish Sign Language"
 msgid "Yolŋu Sign Language"
-msgstr "poljski znakovni jezik"
+msgstr "Yolŋu znakovni jezik"
 
 #. Name for ygu
 msgid "Yugul"
@@ -35216,11 +35156,11 @@ msgstr ""
 
 #. Name for yhd
 msgid "Judeo-Iraqi Arabic"
-msgstr "judeoirački arapski"
+msgstr "Judeoirački arapski"
 
 #. Inverted name for yhd
 msgid "Arabic, Judeo-Iraqi"
-msgstr "arapski, judeoirački"
+msgstr "Arapski, judeoirački"
 
 #. Name for yhl
 msgid "Hlepho Phowa"
@@ -35231,10 +35171,8 @@ msgid "Phowa, Hlepho"
 msgstr ""
 
 #. Name for yhs
-#, fuzzy
-#| msgid "Danish Sign Language"
 msgid "Yan-nhaŋu Sign Language"
-msgstr "danski znakovni jezik"
+msgstr "Yan-nhaŋu znakovni jezik"
 
 #. Name for yia
 msgid "Yinggarda"
@@ -35242,7 +35180,7 @@ msgstr ""
 
 #. Name for yid
 msgid "Yiddish"
-msgstr "jidiš"
+msgstr "Jidiš"
 
 #. Name for yif
 msgid "Ache"
@@ -35258,11 +35196,11 @@ msgstr ""
 
 #. Name for yih
 msgid "Western Yiddish"
-msgstr "zapadni jidiš"
+msgstr "Zapadni jidiš"
 
 #. Inverted name for yih
 msgid "Yiddish, Western"
-msgstr "jidiš, zapadni"
+msgstr "Jidiš, zapadni"
 
 #. Name for yii
 msgid "Yidiny"
@@ -35742,7 +35680,7 @@ msgstr ""
 
 #. Name for ysl
 msgid "Yugoslavian Sign Language"
-msgstr "jugoslavenski znakovni jezik"
+msgstr "Jugoslavenski znakovni jezik"
 
 #. Name for ysn
 msgid "Sani"
@@ -35850,7 +35788,7 @@ msgstr ""
 
 #. Name for yum
 msgid "Quechan"
-msgstr ""
+msgstr "Kečanski"
 
 #. Name for yun
 msgid "Bena (Nigeria)"
@@ -36098,7 +36036,7 @@ msgstr ""
 
 #. Name for zap
 msgid "Zapotec"
-msgstr "zapotečki"
+msgstr "Zapotečki"
 
 #. Name for zaq
 msgid "Aloápam Zapotec"
@@ -36186,7 +36124,7 @@ msgstr ""
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr ""
+msgstr "Blis simboli"
 
 #. Name for zbt
 msgid "Batui"
@@ -36314,7 +36252,7 @@ msgstr ""
 
 #. Name for zho
 msgid "Chinese"
-msgstr "kineski"
+msgstr "Kineski"
 
 #. Name for zhw
 msgid "Zhoa"
@@ -36870,7 +36808,7 @@ msgstr ""
 
 #. Name for zsl
 msgid "Zambian Sign Language"
-msgstr "zambijski znakovni jezik"
+msgstr "Zambijski znakovni jezik"
 
 #. Name for zsm
 msgid "Standard Malay"
@@ -37018,7 +36956,7 @@ msgstr ""
 
 #. Name for zxx
 msgid "No linguistic content"
-msgstr "nema jezičnog sadržaja"
+msgstr "Nema jezičnog sadržaja"
 
 #. Name for zyb
 msgid "Yongbei Zhuang"

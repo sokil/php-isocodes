@@ -9,14 +9,15 @@
 # Filipe Maia <fmaia@gmx.net>, 2001.
 # Miguel Figueiredo <elmig@debianpt.org>, 2013.
 # Rui Mendes <xz9@protonmail.com>, 2019.
+# Manuela Silva <mmsrs@sky.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-04-27 17:48+0000\n"
-"Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
+"PO-Revision-Date: 2020-05-14 11:41+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/pt/>\n"
 "Language: pt\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.6.1\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -109,7 +110,7 @@ msgstr "Idiomas Apache"
 
 #. Name for ara
 msgid "Arabic"
-msgstr "Arábico"
+msgstr "Árabe"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
@@ -196,9 +197,8 @@ msgid "Bambara"
 msgstr "bambara"
 
 #. Name for ban
-#, fuzzy
 msgid "Balinese"
-msgstr "Chinês"
+msgstr "Balinês"
 
 #. Name for bas
 #, fuzzy

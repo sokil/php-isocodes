@@ -12,14 +12,15 @@
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
 # ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
 # Swann Martinet <swann.ranskassa@laposte.net>, 2019.
+# Julien Humbert <julroy67@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-09-03 08:24+0000\n"
-"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
+"PO-Revision-Date: 2020-01-28 07:51+0000\n"
+"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fr/>\n"
 "Language: fr\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -259,7 +260,7 @@ msgstr "Royaume du Bouthan"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "Bouvet, Île"
+msgstr "île Bouvet"
 
 #. Name for BWA
 msgid "Botswana"
@@ -271,7 +272,7 @@ msgstr "République du Botswana"
 
 #. Name for CAF
 msgid "Central African Republic"
-msgstr "Centrafricaine, République"
+msgstr "République centrafricaine"
 
 #. Name for CAN
 msgid "Canada"
@@ -335,7 +336,7 @@ msgstr "République du Congo"
 
 #. Name for COK
 msgid "Cook Islands"
-msgstr "Cook, Îles"
+msgstr "îles Cook"
 
 #. Name for COL
 msgid "Colombia"
@@ -387,7 +388,7 @@ msgstr "Christmas, Île"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Caïman, Îles"
+msgstr "îles Caïmans"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -403,7 +404,7 @@ msgstr "Tchéquie"
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "Tchèque, République"
+msgstr "République tchèque"
 
 #. Name for DEU
 msgid "Germany"
@@ -439,7 +440,7 @@ msgstr "Royaume du Danemark"
 
 #. Name for DOM
 msgid "Dominican Republic"
-msgstr "Dominicaine, République"
+msgstr "République dominicaine"
 
 #. Name for DZA
 msgid "Algeria"
@@ -531,7 +532,7 @@ msgstr "République française"
 
 #. Name for FRO
 msgid "Faroe Islands"
-msgstr "Féroé, Îles"
+msgstr "îles Féroé"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
@@ -655,7 +656,7 @@ msgstr "République de Guyana"
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Hong-Kong"
+msgstr "Hong Kong"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
@@ -663,7 +664,7 @@ msgstr "Région spéciale administrative chinoise de Hong-Kong"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Heard, Île et McDonald, Îles"
+msgstr "îles Heard-et-MacDonald"
 
 #. Name for HND
 msgid "Honduras"
@@ -715,7 +716,7 @@ msgstr "République d'Inde"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "Océan Indien, Territoire britannique de l'"
+msgstr "Territoire britannique de l'océan Indien"
 
 #. Name for IRL
 msgid "Ireland"
@@ -823,7 +824,7 @@ msgstr "République de Kiribati"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Saint-Kitts-et-Nevis"
+msgstr "Saint-Christophe-et-Niévès"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -1103,7 +1104,7 @@ msgstr "République du Niger"
 
 #. Name for NFK
 msgid "Norfolk Island"
-msgstr "Norfolk, Île"
+msgstr "île Norfolk"
 
 #. Name for NGA
 msgid "Nigeria"
@@ -1463,7 +1464,7 @@ msgstr "Syrienne, République arabe"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Turks et Caïques, Îles"
+msgstr "îles Turques-et-Caïques"
 
 #. Name for TCD
 msgid "Chad"
@@ -1615,7 +1616,7 @@ msgstr "Saint-Siège (état de la cité du Vatican)"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
-msgstr "Saint-Vincent-et-les Grenadines"
+msgstr "Saint-Vincent-et-les-Grenadines"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"

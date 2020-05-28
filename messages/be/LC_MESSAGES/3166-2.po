@@ -6,14 +6,15 @@
 # .
 # Copyright ©
 # Viktar Vauchkevich <victorenator@gmail.com>, 2018, 2019.
+# Serge Karpesh <skarpiesz@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-07-21 21:07+0000\n"
-"Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
+"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/be/>\n"
 "Language: be\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2241,7 +2242,7 @@ msgid "Southern"
 msgstr "Паўднёвая акруга"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "Брэсцкая вобласць"
 
 #. Name for BY-HM
@@ -2249,23 +2250,23 @@ msgid "Horad Minsk"
 msgstr "Горад Мінск"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Гомельская вобласць"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "Гродзенская вобласць"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "Магілёўская вобласць"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "Мінская вобласць"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "Віцебская вобласць"
 
 #. Name for BZ-BZ
@@ -8747,20 +8748,16 @@ msgid "Okinawa"
 msgstr "Акінава"
 
 #. Name for KE-01
-#, fuzzy
-#| msgid "Bari"
 msgid "Baringo"
 msgstr "Бары"
 
 #. Name for KE-02
 msgid "Bomet"
-msgstr ""
+msgstr "Бомет"
 
 #. Name for KE-03
-#, fuzzy
-#| msgid "Kungota"
 msgid "Bungoma"
-msgstr "Кунгота"
+msgstr "Бунгома"
 
 #. Name for KE-04, Name for UG-202
 msgid "Busia"
@@ -8775,16 +8772,12 @@ msgid "Embu"
 msgstr ""
 
 #. Name for KE-07
-#, fuzzy
-#| msgid "Larisa"
 msgid "Garissa"
-msgstr "Ларыса"
+msgstr "Гарыса"
 
 #. Name for KE-08
-#, fuzzy
-#| msgid "Hawke's Bay"
 msgid "Homa Bay"
-msgstr "Хокс-Бей"
+msgstr "Гома-Бей"
 
 #. Name for KE-09
 msgid "Isiolo"
@@ -8795,10 +8788,8 @@ msgid "Kajiado"
 msgstr ""
 
 #. Name for KE-11
-#, fuzzy
-#| msgid "Makamba"
 msgid "Kakamega"
-msgstr "Макамба"
+msgstr "Какамега"
 
 #. Name for KE-12
 msgid "Kericho"
@@ -12908,14 +12899,6 @@ msgstr "Согн-ог-Ф’юране"
 msgid "Møre og Romsdal"
 msgstr "Мёрэ-ог-Румсдал"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Сёр-Трондэлаг"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Нур-Трондэлаг"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Нурлан"
@@ -12935,6 +12918,12 @@ msgstr "Свальбард (арктычны рэгіён)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Ян-Маен (арктычны рэгіён)"
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Sør-Trøndelag"
+msgid "Trøndelag"
+msgstr "Сёр-Трондэлаг"
 
 #. Name for NP-1
 msgid "Madhyamanchal"

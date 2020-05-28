@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
 "PO-Revision-Date: 2019-07-15 11:07+0000\n"
 "Last-Translator: Babos Gábor <gabor.babos@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/iso-codes/"
@@ -2351,7 +2351,9 @@ msgid "Southern"
 msgstr "Dél"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+#, fuzzy
+#| msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "Breszti terület"
 
 #. Name for BY-HM
@@ -2359,24 +2361,34 @@ msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+#, fuzzy
+#| msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Homeli terület"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+#, fuzzy
+#| msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "Hrodnai terület"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Homel'skaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
+msgstr "Homeli terület"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Hrodzenskaja voblasc'"
+msgid "Minskaja voblasć"
+msgstr "Hrodnai terület"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Homel'skaja voblasc'"
+msgid "Viciebskaja voblasć"
+msgstr "Homeli terület"
 
 #. Name for BZ-BZ
 msgid "Belize"
@@ -13371,14 +13383,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr ""
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr ""
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr ""
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr ""
@@ -13397,6 +13401,10 @@ msgstr ""
 
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
+msgstr ""
+
+#. Name for NO-50
+msgid "Trøndelag"
 msgstr ""
 
 #. Name for NP-1

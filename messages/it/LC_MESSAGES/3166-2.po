@@ -14,10 +14,9 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-11-08 12:54+0100\n"
-"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail."
-"ch>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-05 16:48+0200\n"
+"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/it/>\n"
 "Language: it\n"
@@ -25,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.3\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -1335,7 +1334,7 @@ msgstr "Vlaanderen occidentale"
 
 #. Name for BE-WAL
 msgid "wallonne, Région"
-msgstr "Regione della Vallonia"
+msgstr "Vallonia, regione"
 
 #. Name for BE-WBR
 msgid "Brabant wallon"
@@ -2247,7 +2246,9 @@ msgid "Southern"
 msgstr "Meridionale (Botswana)"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+#, fuzzy
+#| msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "Regione di Brest"
 
 #. Name for BY-HM
@@ -2255,23 +2256,33 @@ msgid "Horad Minsk"
 msgstr "Horad Minsk"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+#, fuzzy
+#| msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Regione di Homiel'"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+#, fuzzy
+#| msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "Regione di Hronda"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+#, fuzzy
+#| msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "Regione di Mahilou"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+#, fuzzy
+#| msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "Regione di Minsk"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+#, fuzzy
+#| msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "Regione di Vitebsk"
 
 #. Name for BZ-BZ
@@ -2779,14 +2790,10 @@ msgid "Anhui Sheng"
 msgstr "Anhui"
 
 #. Name for CN-BJ
-#, fuzzy
-#| msgid "Beijing"
 msgid "Beijing Shi"
 msgstr "Pechino"
 
 #. Name for CN-CQ
-#, fuzzy
-#| msgid "Chongqing"
 msgid "Chongqing Shi"
 msgstr "Chongqing"
 
@@ -4446,7 +4453,7 @@ msgstr "Andalusia"
 
 #. Name for ES-AR
 msgid "Aragón"
-msgstr "Aragogna"
+msgstr "Aragona"
 
 #. Name for ES-AS
 msgid "Asturias, Principado de"
@@ -4554,7 +4561,7 @@ msgstr "Huesca"
 
 #. Name for ES-IB
 msgid "Illes Balears"
-msgstr "Baleari"
+msgstr "Isole Baleari"
 
 #. Name for ES-J
 msgid "Jaén"
@@ -4630,7 +4637,7 @@ msgstr "Pontevedra"
 
 #. Name for ES-PV
 msgid "País Vasco / Euskal Herria"
-msgstr "País Vasco / Euskal Herria"
+msgstr "Paesi Baschi / Euskal Herria"
 
 #. Name for ES-SA
 msgid "Salamanca"
@@ -4770,7 +4777,7 @@ msgstr "Kymenlaakso"
 
 #. Name for FI-10
 msgid "Lappi"
-msgstr "Regione della Lapponia"
+msgstr "Lapponia"
 
 #. Name for FI-11
 msgid "Pirkanmaa"
@@ -13000,14 +13007,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordland"
@@ -13027,6 +13026,12 @@ msgstr "Svalbard (regione artica)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (regione artica)"
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Sør-Trøndelag"
+msgid "Trøndelag"
+msgstr "Sør-Trøndelag"
 
 #. Name for NP-1
 msgid "Madhyamanchal"
@@ -18292,7 +18297,7 @@ msgstr "Missouri"
 
 #. Name for US-MP
 msgid "Northern Mariana Islands"
-msgstr "Isole Mariana settentrionali"
+msgstr "Isole Marianne Settentrionali"
 
 #. Name for US-MS
 msgid "Mississippi"
@@ -18300,11 +18305,11 @@ msgstr "Mississippi"
 
 #. Name for US-NC
 msgid "North Carolina"
-msgstr "North Carolina"
+msgstr "Carolina del Nord"
 
 #. Name for US-ND
 msgid "North Dakota"
-msgstr "North Dakota"
+msgstr "Dakota del Nord"
 
 #. Name for US-NE
 msgid "Nebraska"
@@ -18348,7 +18353,7 @@ msgstr "Pennsylvania"
 
 #. Name for US-PR
 msgid "Puerto Rico"
-msgstr "Puerto Rico"
+msgstr "Portorico"
 
 #. Name for US-RI
 msgid "Rhode Island"
@@ -18356,11 +18361,11 @@ msgstr "Rhode Island"
 
 #. Name for US-SC
 msgid "South Carolina"
-msgstr "South Carolina"
+msgstr "Carolina del Sud"
 
 #. Name for US-SD
 msgid "South Dakota"
-msgstr "South Dakota"
+msgstr "Dakota del Sud"
 
 #. Name for US-TN
 msgid "Tennessee"
@@ -18372,7 +18377,7 @@ msgstr "Texas"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr "Isole minori esterne degli Stati Uniti"
+msgstr "Isole minori esterne degli Stati Uniti d'America"
 
 #. Name for US-UT
 msgid "Utah"
@@ -18400,7 +18405,7 @@ msgstr "Wisconsin"
 
 #. Name for US-WV
 msgid "West Virginia"
-msgstr "West Virginia"
+msgstr "Virginia Occidentale"
 
 #. Name for US-WY
 msgid "Wyoming"
@@ -18872,7 +18877,7 @@ msgstr "Hai Phong"
 
 #. Name for VN-SG
 msgid "Hồ Chí Minh [Sài Gòn]"
-msgstr "Ho Chi Minh [Saigon]"
+msgstr "Ho Chi Minh (Saigon)"
 
 #. Name for VU-MAP
 msgid "Malampa"
@@ -19050,7 +19055,7 @@ msgstr "Kwazulu-Natal"
 
 #. Name for ZA-NW
 msgid "North-West (South Africa)"
-msgstr "Nord-Ovest (Sud Africa)"
+msgstr "Nord-Ovest (Sudafrica)"
 
 #. Name for ZA-WC
 msgid "Western Cape"

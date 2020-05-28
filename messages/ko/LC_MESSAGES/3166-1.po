@@ -14,14 +14,15 @@
 # Sunjae Park <darehanl@gmail.com>, 2006-2007.
 # Changwoo Ryu <cwryu@debian.org>, 2004, 2008-2013, 2015.
 # Jun Hyung Shin <shmishmi79@gmail.com>, 2019.
+# Shinjo Park <peremen@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-04-25 14:48+0000\n"
-"Last-Translator: Jun Hyung Shin <shmishmi79@gmail.com>\n"
+"PO-Revision-Date: 2020-04-26 14:35+0000\n"
+"Last-Translator: Shinjo Park <peremen@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ko/>\n"
 "Language: ko\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6.1-dev\n"
+"X-Generator: Weblate 4.0.2-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -153,7 +154,7 @@ msgstr "베냉"
 
 #. Official name for BEN
 msgid "Republic of Benin"
-msgstr "베닌 공화국"
+msgstr "베냉 공화국"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
@@ -201,11 +202,11 @@ msgstr "보스니아 헤르체고비나"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"
-msgstr "보스니아 헤르체코비나 공화국"
+msgstr "보스니아 헤르체고비나 공화국"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr "쌩 바르텔레미"
+msgstr "생바르텔레미"
 
 #. Name for BLR
 msgid "Belarus"
@@ -309,11 +310,11 @@ msgstr "중화인민공화국"
 
 #. Name for CIV
 msgid "Côte d'Ivoire"
-msgstr "코트 디브와르"
+msgstr "코트디부아르"
 
 #. Official name for CIV
 msgid "Republic of Côte d'Ivoire"
-msgstr "코트 디브와르 공화국"
+msgstr "코트디부아르 공화국"
 
 #. Name for CMR
 msgid "Cameroon"
@@ -353,15 +354,15 @@ msgstr "코모로"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr "코모로스 연방"
+msgstr "코모로 연방"
 
 #. Name for CPV
 msgid "Cabo Verde"
-msgstr "카보 베르데"
+msgstr "카보베르데"
 
 #. Official name for CPV
 msgid "Republic of Cabo Verde"
-msgstr "카보 베르데 공화국"
+msgstr "카보베르데 공화국"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -397,15 +398,15 @@ msgstr "키프로스"
 
 #. Official name for CYP
 msgid "Republic of Cyprus"
-msgstr "사이프러스 공화국"
+msgstr "키프로스 공화국"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr "체키아"
+msgstr "체코"
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "체코"
+msgstr "체코 공화국"
 
 #. Name for DEU
 msgid "Germany"
@@ -473,7 +474,7 @@ msgstr "에리트레아"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr "에리트리아 공화국"
+msgstr "에리트레아 공화국"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -593,7 +594,7 @@ msgstr "과들루프"
 
 #. Name for GMB
 msgid "Gambia"
-msgstr "잠비아"
+msgstr "감비아"
 
 #. Official name for GMB
 msgid "Republic of the Gambia"
@@ -613,7 +614,7 @@ msgstr "적도 기니"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
-msgstr "적도기니 공화국"
+msgstr "적도 기니 공화국"
 
 #. Name for GRC
 msgid "Greece"
@@ -661,7 +662,7 @@ msgstr "홍콩"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr "홍콩, 중국의 특별 자치 구역"
+msgstr "홍콩, 중국의 특별 행정구"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
@@ -673,7 +674,7 @@ msgstr "온두라스"
 
 #. Official name for HND
 msgid "Republic of Honduras"
-msgstr "혼두라스 공화국"
+msgstr "온두라스 공화국"
 
 #. Name for HRV
 msgid "Croatia"
@@ -689,7 +690,7 @@ msgstr "아이티"
 
 #. Official name for HTI
 msgid "Republic of Haiti"
-msgstr "하이티 공화국"
+msgstr "아이티 공화국"
 
 #. Name for HUN, Official name for HUN
 msgid "Hungary"
@@ -745,7 +746,7 @@ msgstr "아이슬란드"
 
 #. Official name for ISL
 msgid "Republic of Iceland"
-msgstr "아이슬랜드 공화국"
+msgstr "아이슬란드 공화국"
 
 #. Name for ISR
 msgid "Israel"
@@ -805,7 +806,7 @@ msgstr "키르기스스탄"
 
 #. Official name for KGZ
 msgid "Kyrgyz Republic"
-msgstr "키르기즈 공화국"
+msgstr "키르기스 공화국"
 
 #. Name for KHM
 msgid "Cambodia"
@@ -821,7 +822,7 @@ msgstr "키리바시"
 
 #. Official name for KIR
 msgid "Republic of Kiribati"
-msgstr "키리바티 공화국"
+msgstr "키리바시 공화국"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
@@ -921,11 +922,11 @@ msgstr "마카오"
 
 #. Official name for MAC
 msgid "Macao Special Administrative Region of China"
-msgstr "마카오, 중국의 특별 자치 구역"
+msgstr "마카오, 중국의 특별 행정구"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
-msgstr "쌩 마르텡 (프랑스령)"
+msgstr "생마르탱 (프랑스령)"
 
 #. Name for MAR
 msgid "Morocco"
@@ -981,11 +982,11 @@ msgstr "멕시코 합중국"
 
 #. Name for MHL
 msgid "Marshall Islands"
-msgstr "마샬 제도"
+msgstr "마셜 제도"
 
 #. Official name for MHL
 msgid "Republic of the Marshall Islands"
-msgstr "마샬 제도 공화국"
+msgstr "마셜 제도 공화국"
 
 #. Name for MKD
 msgid "North Macedonia"
@@ -997,7 +998,7 @@ msgstr "북마케도니아 공화국"
 
 #. Name for MLI
 msgid "Mali"
-msgstr "말리어"
+msgstr "말리"
 
 #. Official name for MLI
 msgid "Republic of Mali"
@@ -1033,7 +1034,7 @@ msgstr "북마리아나 제도"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
-msgstr "북 마리아나 제도 연방"
+msgstr "북마리아나 제도 연방"
 
 #. Name for MOZ
 msgid "Mozambique"
@@ -1049,7 +1050,7 @@ msgstr "모리타니"
 
 #. Official name for MRT
 msgid "Islamic Republic of Mauritania"
-msgstr "모리타니아 이슬람 공화국"
+msgstr "모리타니 이슬람 공화국"
 
 #. Name for MSR
 msgid "Montserrat"
@@ -1153,7 +1154,7 @@ msgstr "네팔 연방 민주 공화국"
 
 #. Name for NRU
 msgid "Nauru"
-msgstr "나우루어"
+msgstr "나우루"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
@@ -1189,7 +1190,7 @@ msgstr "파나마 공화국"
 
 #. Name for PCN
 msgid "Pitcairn"
-msgstr "피트케언"
+msgstr "핏케언 제도"
 
 #. Name for PER
 msgid "Peru"
@@ -1361,7 +1362,7 @@ msgstr "엘살바도르"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
-msgstr "엘 살바도르 공화국"
+msgstr "엘살바도르 공화국"
 
 #. Name for SMR
 msgid "San Marino"
@@ -1473,7 +1474,7 @@ msgstr "차드"
 
 #. Official name for TCD
 msgid "Republic of Chad"
-msgstr "챠드 공화국"
+msgstr "차드 공화국"
 
 #. Name for TGO
 msgid "Togo"
@@ -1549,7 +1550,7 @@ msgstr "터키 공화국"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "투발루어"
+msgstr "투발루"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
@@ -1621,11 +1622,11 @@ msgstr "세인트빈센트 그레나딘"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "베네수엘라 볼리베리안 공화국"
+msgstr "베네수엘라 볼리바르 공화국"
 
 #. Official name for VEN
 msgid "Bolivarian Republic of Venezuela"
-msgstr "베네수엘라 볼리베리안 공화국"
+msgstr "베네수엘라 볼리바르 공화국"
 
 #. Common name for VEN
 msgid "Venezuela"
@@ -1637,7 +1638,7 @@ msgstr "버진 제도, 영국령"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "영국령 버진아일랜드"
+msgstr "영국령 버진 제도"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."

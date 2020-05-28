@@ -11,19 +11,23 @@
 # .
 # Copyright ©
 # Ivan Masár <helix84@centrum.sk>, 2007, 2014.
+# Serge Karpesh <skarpiesz@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2014-11-14 10:51+0200\n"
-"Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
-"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
+"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
+"Language-Team: Slovak <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/sk/>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2324,33 +2328,39 @@ msgstr ""
 msgid "Southern"
 msgstr ""
 
+# [geodesy]
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
-msgstr ""
+msgid "Bresckaja voblasć"
+msgstr "Brestská oblasť"
 
 #. Name for BY-HM
 msgid "Horad Minsk"
-msgstr ""
+msgstr "Minsk"
 
+# [geodesy]
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
-msgstr ""
+msgid "Homieĺskaja voblasć"
+msgstr "Minská oblasť"
 
+# [geodesy]
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
-msgstr ""
+msgid "Hrodzienskaja voblasć"
+msgstr "Hrodnianska oblasť"
 
+# [geodesy]
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr ""
+msgid "Mahilioŭskaja voblasć"
+msgstr "Mahiľovská oblasť"
 
+# [geodesy]
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
-msgstr ""
+msgid "Minskaja voblasć"
+msgstr "Minská oblasť"
 
+# [geodesy]
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
-msgstr ""
+msgid "Viciebskaja voblasć"
+msgstr "Vicebská oblasť"
 
 #. Name for BZ-BZ
 msgid "Belize"
@@ -13185,14 +13195,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr ""
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr ""
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr ""
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr ""
@@ -13211,6 +13213,10 @@ msgstr ""
 
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
+msgstr ""
+
+#. Name for NO-50
+msgid "Trøndelag"
 msgstr ""
 
 #. Name for NP-1

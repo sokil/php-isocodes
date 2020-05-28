@@ -15,8 +15,8 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-11-14 16:04+0000\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2019-12-29 13:27+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/tr/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 3.10\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2244,7 +2244,7 @@ msgid "Southern"
 msgstr "Güney"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 #. Name for BY-HM
@@ -2252,23 +2252,23 @@ msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 #. Name for BZ-BZ
@@ -6325,7 +6325,7 @@ msgstr ""
 
 #. Name for GM-M
 msgid "Central River"
-msgstr ""
+msgstr "Central River"
 
 #. Name for GM-N
 msgid "North Bank"
@@ -12867,14 +12867,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr ""
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr ""
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr ""
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordland"
@@ -12893,6 +12885,10 @@ msgstr ""
 
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
+msgstr ""
+
+#. Name for NO-50
+msgid "Trøndelag"
 msgstr ""
 
 #. Name for NP-1

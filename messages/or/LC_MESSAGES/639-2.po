@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
-# Pro Neon <proneon267@gmail.com>, 2019.
+# Pro Neon <proneon267@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-05-03 21:32+0000\n"
+"PO-Revision-Date: 2020-01-31 17:50+0000\n"
 "Last-Translator: Pro Neon <proneon267@gmail.com>\n"
 "Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/iso-639-2/"
 "or/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7-dev\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -50,7 +50,7 @@ msgstr "ଆଡ଼ିଘେ; ଆଡ଼ିଗେ"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr "ଆଫ୍ରୋ-ଆସିଆଟିକ ଭାଷାଗୁଡ଼ିକ"
+msgstr "ଆଫ୍ରୋ-ଏସିଆଟିକ ଭାଷାଗୁଡ଼ିକ"
 
 #. Name for afh
 msgid "Afrihili"
@@ -74,11 +74,11 @@ msgstr "ଆକାଡ଼ିଆନ"
 
 #. Name for ale
 msgid "Aleut"
-msgstr "ଆଲେଟ"
+msgstr "ଆଲିଉଟ"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr "ଆଲଗୋଙ୍ଗିଆନ ଭାଷାଗୁଡ଼ିକ"
+msgstr "ଆଲଗୋନକୁୟିଆନ ଭାଷାଗୁଡ଼ିକ"
 
 #. Name for alt
 msgid "Southern Altai"
@@ -90,7 +90,7 @@ msgstr "ଆମ୍ହାରିକ"
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "ଇଂରାଜୀ, ପୁରୁଣା (ca. 450-1100)"
+msgstr "ଇଂରାଜୀ, ପୁରାତନ (ca. ୪୫୦-୧୧୦୦)"
 
 #. Name for anp
 msgid "Angika"
@@ -98,7 +98,7 @@ msgstr "ଆଙ୍ଗିକା"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr "ଆପାଚେ ଭାଷାଗୁଡ଼ିକ"
+msgstr "ଆପାଚି ଭାଷାଗୁଡ଼ିକ"
 
 #. Name for ara
 msgid "Arabic"
@@ -106,7 +106,7 @@ msgstr "ଆରବୀ"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
-msgstr "ସରକାରୀ ଆରାମିକ (700-300 BCE); ଅତି ଉତ୍ତମ ଆରାମିକ (700-300 BCE)"
+msgstr "ସରକାରୀ ଆରାମିକ (୭୦୦-୩୦୦ BCE); ସାମ୍ରାଜ୍ୟଵାଦୀ ଆରାମିକ (୭୦୦-୩୦୦ BCE)"
 
 #. Name for arg
 msgid "Aragonese"
@@ -581,11 +581,11 @@ msgstr "ଫରାସୀ"
 
 #. Name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "ଫ୍ରେଞ୍ଚ, ମଧ୍ଯ (ca. 1400-1600)"
+msgstr "ଫ୍ରେଞ୍ଚ, ମଧ୍ଯ (ca. ୧୪୦୦-୧୬୦୦)"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "ଫ୍ରେଞ୍ଚ, ପୁରୁଣା (842-ca. 1400)"
+msgstr "ଫ୍ରେଞ୍ଚ, ପୁରୁଣା (୮୪୨-ca. ୧୪୦୦)"
 
 #. Name for frr
 msgid "Northern Frisian"
@@ -745,7 +745,7 @@ msgstr "କ୍ରୋଏସିଆନ"
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Upper Sorbian"
+msgstr "ଉପର ସୋର୍ବିୟାନ"
 
 #. Name for hun
 msgid "Hungarian"

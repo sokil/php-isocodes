@@ -6,26 +6,28 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Мирослав Николић <miroslavnikolic@rocketmail.com>, 2014.
+# Branko Kovačević <ja_sam_branko@yahoo.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2014-04-07 05:16+0200\n"
-"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
-"Language-Team: Serbian <(nothing)>\n"
+"PO-Revision-Date: 2019-10-05 09:56+0000\n"
+"Last-Translator: Branko Kovačević <ja_sam_branko@yahoo.com>\n"
+"Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-15924/sr_Latn/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "адлам"
 
 #. Name for Afak
 msgid "Afaka"
@@ -37,17 +39,15 @@ msgstr "кавкаски албански"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
-msgstr ""
+msgstr "ахом, таи ахом"
 
 #. Name for Arab
 msgid "Arabic"
 msgstr "арапски"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "сиријски (источна варијанта)"
+msgstr "персијски (насталик варијанта)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -59,11 +59,11 @@ msgstr "јерменски"
 
 #. Name for Avst
 msgid "Avestan"
-msgstr "авестански"
+msgstr "авестанско писмо"
 
 #. Name for Bali
 msgid "Balinese"
-msgstr "балинешки"
+msgstr "балинежанско писмо"
 
 #. Name for Bamu
 msgid "Bamum"
@@ -75,7 +75,7 @@ msgstr "баса вахски"
 
 #. Name for Batk
 msgid "Batak"
-msgstr "баткски"
+msgstr "батак"
 
 #. Name for Beng
 msgid "Bengali"
@@ -83,11 +83,11 @@ msgstr "бенгалски"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
-msgstr ""
+msgstr "бхаиксуки"
 
 #. Name for Blis
 msgid "Blissymbols"
-msgstr "блисимболи"
+msgstr "Блисови симболи"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -103,15 +103,15 @@ msgstr "брајево писмо"
 
 #. Name for Bugi
 msgid "Buginese"
-msgstr "бугинешки"
+msgstr "бугиско писмо"
 
 #. Name for Buhd
 msgid "Buhid"
-msgstr "бухидски"
+msgstr "бухидско писмо"
 
 #. Name for Cakm
 msgid "Chakma"
-msgstr "чакмешки"
+msgstr "чакма писмо"
 
 #. Name for Cans
 msgid "Unified Canadian Aboriginal Syllabics"
@@ -119,7 +119,7 @@ msgstr "уједињени канадски слогови абориџина"
 
 #. Name for Cari
 msgid "Carian"
-msgstr "каријански"
+msgstr "каријско писмо"
 
 #. Name for Cham
 msgid "Cham"
@@ -127,7 +127,7 @@ msgstr "чамешки"
 
 #. Name for Cher
 msgid "Cherokee"
-msgstr "чирокешки"
+msgstr "чироки писмо"
 
 #. Name for Cirt
 msgid "Cirth"
@@ -175,7 +175,7 @@ msgstr "египатски хијероглифи"
 
 #. Name for Elba
 msgid "Elbasan"
-msgstr "елбански"
+msgstr "елбасанско писмо"
 
 #. Name for Ethi
 msgid "Ethiopic (Geʻez)"
@@ -207,7 +207,7 @@ msgstr "грчки"
 
 #. Name for Gujr
 msgid "Gujarati"
-msgstr "гујаратски"
+msgstr "гуђаратско писмо"
 
 #. Name for Guru
 msgid "Gurmukhi"
@@ -215,7 +215,7 @@ msgstr "гурмушки"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
-msgstr ""
+msgstr "хан са бопомофо (алијас за хан + бопомофо)"
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
@@ -274,10 +274,8 @@ msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "стари италски (етруски, оскански, итд.)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "корејски (алијас за хангулски + хански)"
+msgstr "корејски (алијас за хангул + хан)"
 
 #. Name for Java
 msgid "Javanese"
@@ -289,7 +287,7 @@ msgstr "јапански (алијас за хански + хирагану + к
 
 #. Name for Jurc
 msgid "Jurchen"
-msgstr "јурченски"
+msgstr "јурчен писмо"
 
 #. Name for Kali
 msgid "Kayah Li"
@@ -313,15 +311,15 @@ msgstr "кхојшки"
 
 #. Name for Kitl
 msgid "Khitan large script"
-msgstr ""
+msgstr "кхитан, мајускула"
 
 #. Name for Kits
 msgid "Khitan small script"
-msgstr ""
+msgstr "кхитан, минускула"
 
 #. Name for Knda
 msgid "Kannada"
-msgstr "кндешки"
+msgstr "каннада писмо"
 
 #. Name for Kore
 msgid "Korean (alias for Hangul + Han)"
@@ -329,7 +327,7 @@ msgstr "корејски (алијас за хангулски + хански)"
 
 #. Name for Kpel
 msgid "Kpelle"
-msgstr "кпелски"
+msgstr "кпелле писмо"
 
 #. Name for Kthi
 msgid "Kaithi"
@@ -341,7 +339,7 @@ msgstr "таитамски (лана)"
 
 #. Name for Laoo
 msgid "Lao"
-msgstr "лаоски"
+msgstr "лаоско писмо"
 
 #. Name for Latf
 msgid "Latin (Fraktur variant)"
@@ -357,7 +355,7 @@ msgstr "латински"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "леке"
 
 #. Name for Lepc
 msgid "Lepcha (Róng)"
@@ -365,11 +363,11 @@ msgstr "лепчански (ронг)"
 
 #. Name for Limb
 msgid "Limbu"
-msgstr "лимпшки"
+msgstr "лимбу писмо"
 
 #. Name for Lina
 msgid "Linear A"
-msgstr "линеарни А"
+msgstr "линеарно А писмо"
 
 #. Name for Linb
 msgid "Linear B"
@@ -385,11 +383,11 @@ msgstr "ломски"
 
 #. Name for Lyci
 msgid "Lycian"
-msgstr "ликијски"
+msgstr "ликијско писмо"
 
 #. Name for Lydi
 msgid "Lydian"
-msgstr "лидијски"
+msgstr "лидијско писмо"
 
 #. Name for Mahj
 msgid "Mahajani"
@@ -404,10 +402,8 @@ msgid "Manichaean"
 msgstr "манишки"
 
 #. Name for Marc
-#, fuzzy
-#| msgid "Jurchen"
 msgid "Marchen"
-msgstr "јурченски"
+msgstr "марчен"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -427,7 +423,7 @@ msgstr "мероитски хијероглифи"
 
 #. Name for Mlym
 msgid "Malayalam"
-msgstr "малајалски"
+msgstr "малајаламско писмо"
 
 #. Name for Modi
 msgid "Modi, Moḍī"
@@ -467,7 +463,7 @@ msgstr "набатаински"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
-msgstr ""
+msgstr "нева, невар, невари, непалско"
 
 #. Name for Nkgb
 msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
@@ -499,7 +495,7 @@ msgstr "оријски"
 
 #. Name for Osge
 msgid "Osage"
-msgstr ""
+msgstr "осаге"
 
 #. Name for Osma
 msgid "Osmanya"
@@ -539,7 +535,7 @@ msgstr "феничански"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
-msgstr ""
+msgstr "клингон"
 
 #. Name for Plrd
 msgid "Miao (Pollard)"
@@ -571,7 +567,7 @@ msgstr "рунски"
 
 #. Name for Samr
 msgid "Samaritan"
-msgstr "самарићански"
+msgstr "самарићанско писмо"
 
 #. Name for Sara
 msgid "Sarati"
@@ -583,7 +579,7 @@ msgstr "стари јужноарапски"
 
 #. Name for Saur
 msgid "Saurashtra"
-msgstr "саурашки"
+msgstr "саураштра писмо"
 
 #. Name for Sgnw
 msgid "SignWriting"
@@ -607,7 +603,7 @@ msgstr "синдишки"
 
 #. Name for Sinh
 msgid "Sinhala"
-msgstr "синхалешки"
+msgstr "синхалешко писмо"
 
 #. Name for Sora
 msgid "Sora Sompeng"
@@ -615,7 +611,7 @@ msgstr "сора сомпенг"
 
 #. Name for Sund
 msgid "Sundanese"
-msgstr "сунданешки"
+msgstr "сунданско писмо"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
@@ -639,7 +635,7 @@ msgstr "сиријски (источна варијанта)"
 
 #. Name for Tagb
 msgid "Tagbanwa"
-msgstr "тагбански"
+msgstr "тагбанва писмо"
 
 #. Name for Takr
 msgid "Takri, Ṭākrī, Ṭāṅkrī"
@@ -655,11 +651,11 @@ msgstr "нови талуешки"
 
 #. Name for Taml
 msgid "Tamil"
-msgstr "тамилски"
+msgstr "тамилско писмо"
 
 #. Name for Tang
 msgid "Tangut"
-msgstr "тангутски"
+msgstr "тангут писмо"
 
 #. Name for Tavt
 msgid "Tai Viet"
@@ -667,7 +663,7 @@ msgstr "тајвјетски"
 
 #. Name for Telu
 msgid "Telugu"
-msgstr "телушки"
+msgstr "телугу писмо"
 
 #. Name for Teng
 msgid "Tengwar"
@@ -703,7 +699,7 @@ msgstr "угарски"
 
 #. Name for Vaii
 msgid "Vai"
-msgstr "ваиски"
+msgstr "ваи писмо"
 
 #. Name for Visp
 msgid "Visible Speech"
@@ -738,10 +734,8 @@ msgid "Mathematical notation"
 msgstr "математички запис"
 
 #. Name for Zsye
-#, fuzzy
-#| msgid "Syriac (Estrangelo variant)"
 msgid "Symbols (Emoji variant)"
-msgstr "сиријски (естрангело)"
+msgstr "симболи (емотикон варијанта)"
 
 #. Name for Zsym
 msgid "Symbols"

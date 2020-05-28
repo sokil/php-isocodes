@@ -6,25 +6,26 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Milo Casagrande <milo@milo.name>, 2008-2013.
+# Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2013-12-08 14:14+0100\n"
-"Last-Translator: Milo Casagrande <milo@milo.name>\n"
+"PO-Revision-Date: 2019-12-17 12:25+0100\n"
+"Last-Translator: Sebastiano Pistore <SebastianoPistore.info@protonmail.ch>\n"
 "Language-Team: Italian <tp@lists.linux.it>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8-bit\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Gtranslator 2.91.6\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "Adlam"
 
 #. Name for Afak
 msgid "Afaka"
@@ -43,14 +44,12 @@ msgid "Arabic"
 msgstr "Arabo"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "Siriano (variante orientale)"
+msgstr "Arabo (nasta'liq)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
-msgstr "Aramaico d'Impero"
+msgstr "Aramaico biblico"
 
 #. Name for Armn
 msgid "Armenian"
@@ -58,7 +57,7 @@ msgstr "Armeno"
 
 #. Name for Avst
 msgid "Avestan"
-msgstr "Avestano"
+msgstr "Avestico"
 
 #. Name for Bali
 msgid "Balinese"
@@ -82,11 +81,11 @@ msgstr "Bengalese"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
-msgstr ""
+msgstr "Bhaiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
-msgstr "Simboli Bliss"
+msgstr "Blissymbol"
 
 #. Name for Bopo
 msgid "Bopomofo"
@@ -146,15 +145,15 @@ msgstr "Cirillico"
 
 #. Name for Cyrs
 msgid "Cyrillic (Old Church Slavonic variant)"
-msgstr "Cirillico (variante antica chiesa slavonica)"
+msgstr "Cirillico (slavo ecclesiastico antico)"
 
 #. Name for Deva
 msgid "Devanagari (Nagari)"
-msgstr "Devanagari (nagari)"
+msgstr "Devanagari (Nagari)"
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
-msgstr "Deseret (mormone)"
+msgstr "Deseret"
 
 #. Name for Dupl
 msgid "Duployan shorthand, Duployan stenography"
@@ -162,15 +161,15 @@ msgstr "Stenografia duployan, scrittura veloce duployan"
 
 #. Name for Egyd
 msgid "Egyptian demotic"
-msgstr "Egiziano demotico"
+msgstr "Egizio demotico"
 
 #. Name for Egyh
 msgid "Egyptian hieratic"
-msgstr "Egiziano ieratico"
+msgstr "Egizio ieratico"
 
 #. Name for Egyp
 msgid "Egyptian hieroglyphs"
-msgstr "Geroglifici egiziani"
+msgstr "Egizio geroglifico"
 
 #. Name for Elba
 msgid "Elbasan"
@@ -270,13 +269,11 @@ msgstr "Indù (harappan)"
 
 #. Name for Ital
 msgid "Old Italic (Etruscan, Oscan, etc.)"
-msgstr "Italico antico (etrusco, osco, ecc.)"
+msgstr "Italico antico (etrusco, osco, ecc...)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "Coreano (alias per hangul + han)"
+msgstr ""
 
 #. Name for Java
 msgid "Javanese"
@@ -344,11 +341,11 @@ msgstr "Lao"
 
 #. Name for Latf
 msgid "Latin (Fraktur variant)"
-msgstr "Latino (variante fraktur)"
+msgstr "Latino (scrittura Fraktur)"
 
 #. Name for Latg
 msgid "Latin (Gaelic variant)"
-msgstr "Latino (variante gaelica)"
+msgstr "Latino (scrittura gaelica)"
 
 #. Name for Latn
 msgid "Latin"
@@ -403,10 +400,8 @@ msgid "Manichaean"
 msgstr "Manicheo"
 
 #. Name for Marc
-#, fuzzy
-#| msgid "Jurchen"
 msgid "Marchen"
-msgstr "Jurchen"
+msgstr "Marchen"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -462,7 +457,7 @@ msgstr "Antico arabo del Nord"
 
 #. Name for Nbat
 msgid "Nabataean"
-msgstr "Nabataean"
+msgstr "Nabateo"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
@@ -498,15 +493,15 @@ msgstr "Oriya"
 
 #. Name for Osge
 msgid "Osage"
-msgstr ""
+msgstr "Osage"
 
 #. Name for Osma
 msgid "Osmanya"
-msgstr "Osmanya"
+msgstr "Osmanya, Soomaali"
 
 #. Name for Palm
 msgid "Palmyrene"
-msgstr "Palmyrene"
+msgstr "Palmireno"
 
 #. Name for Pauc
 msgid "Pau Cin Hau"
@@ -522,15 +517,15 @@ msgstr "Phags-pa"
 
 #. Name for Phli
 msgid "Inscriptional Pahlavi"
-msgstr "Iscrizioni pahlavi"
+msgstr ""
 
 #. Name for Phlp
 msgid "Psalter Pahlavi"
-msgstr "Psalter phalavi"
+msgstr ""
 
 #. Name for Phlv
 msgid "Book Pahlavi"
-msgstr "Book pahlavi"
+msgstr ""
 
 #. Name for Phnx
 msgid "Phoenician"
@@ -538,7 +533,7 @@ msgstr "Fenicio"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
-msgstr ""
+msgstr "Klingon (pIqaD)"
 
 #. Name for Plrd
 msgid "Miao (Pollard)"
@@ -546,7 +541,7 @@ msgstr "Miao (Pollard)"
 
 #. Name for Prti
 msgid "Inscriptional Parthian"
-msgstr "Iscrizioni parto"
+msgstr "Iscrizioni parte"
 
 #. Name for Qaaa
 msgid "Reserved for private use (start)"
@@ -590,7 +585,7 @@ msgstr "Lingua dei segni"
 
 #. Name for Shaw
 msgid "Shavian (Shaw)"
-msgstr "Shaviano (shaw)"
+msgstr "Shaviano"
 
 #. Name for Shrd
 msgid "Sharada, Śāradā"
@@ -686,7 +681,7 @@ msgstr "Thaana"
 
 #. Name for Thai
 msgid "Thai"
-msgstr "Tailandese"
+msgstr "Thailandese"
 
 #. Name for Tibt
 msgid "Tibetan"
@@ -698,7 +693,7 @@ msgstr "Tirhuta"
 
 #. Name for Ugar
 msgid "Ugaritic"
-msgstr "Ugarito"
+msgstr "Ugaritico"
 
 #. Name for Vaii
 msgid "Vai"
@@ -722,7 +717,7 @@ msgstr "Persiano antico"
 
 #. Name for Xsux
 msgid "Cuneiform, Sumero-Akkadian"
-msgstr "Cuneiforme, sumero-accadiano"
+msgstr "Cuneiforme, sumero-accadico"
 
 #. Name for Yiii
 msgid "Yi"
@@ -737,10 +732,8 @@ msgid "Mathematical notation"
 msgstr "Notazione matematica"
 
 #. Name for Zsye
-#, fuzzy
-#| msgid "Syriac (Estrangelo variant)"
 msgid "Symbols (Emoji variant)"
-msgstr "Siriano (variante estrangelo)"
+msgstr ""
 
 #. Name for Zsym
 msgid "Symbols"

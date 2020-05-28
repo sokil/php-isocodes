@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
-# Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2015, 2019.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2015, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"PO-Revision-Date: 2020-04-05 12:38+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/uk/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1147,7 +1147,7 @@ msgstr "Федеративна Демократична Республіка Н�
 
 #. Name for NRU
 msgid "Nauru"
-msgstr "Науру"
+msgstr "науру"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
@@ -1495,7 +1495,7 @@ msgstr "Республіка Таджикистан"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "Токелау"
+msgstr "токелау"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1543,7 +1543,7 @@ msgstr "Турецька Республіка"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "Тувалу"
+msgstr "тувалу"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"

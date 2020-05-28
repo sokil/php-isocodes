@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-11 16:03+0000\n"
+"PO-Revision-Date: 2019-12-30 20:21+0000\n"
 "Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
 "Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/pa/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.5.1\n"
+"X-Generator: Weblate 3.10\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -590,8 +590,6 @@ msgid "Gambia"
 msgstr "ਗਾਬੀਆ"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
 msgstr "ਜੈਂਬੀਆ ਗਣਰਾਜ"
 
@@ -984,16 +982,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "ਮਾਰਸ਼ਲ ਟਾਪੂ ਗਣਰਾਜ"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "ਨਵਾਂ ਕਾਲੀਡੋਨੀਆਂ"
+msgstr "ਨਾਰਥ ਕਾਲੀਡੋਨੀਆ"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "ਲੀਥੂਨੀਆ ਗਣਰਾਜ"
+msgstr "ਨਾਰਥ ਮੈਕਡੋਨੀਆ ਗਣਰਾਜ"
 
 #. Name for MLI
 msgid "Mali"
@@ -1153,11 +1147,11 @@ msgstr "ਨੇਪਾਲ ਸੰਘੀ ਗਣਰਾਜ"
 
 #. Name for NRU
 msgid "Nauru"
-msgstr "ਨੀਓਰੂ"
+msgstr "ਨਾਉਰੂ"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
-msgstr "ਨੀਓਰੂ ਗਣਰਾਜ"
+msgstr "ਨਾਉਰੂ ਗਣਰਾਜ"
 
 #. Name for NZL
 msgid "New Zealand"
@@ -1441,13 +1435,11 @@ msgstr "ਸਵੀਡਨ ਖੇਤਰ"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "ਇਸਵਾਟੀਨੀ"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "ਸਪੇਨ ਦੇਸ਼"
+msgstr "ਇਸਵਾਈਟੀ ਰਾਜ"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1503,7 +1495,7 @@ msgstr "ਤਜ਼ਾਕਸਤਾਨ ਗਣਰਾਜ"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "ਟੂਕੀਲਾਊ"
+msgstr "ਟੋਕੇਲਾਊ"
 
 #. Name for TKM
 msgid "Turkmenistan"

@@ -6,14 +6,15 @@
 # .
 # Copyright ©
 # Jakub Bogusz <qboosh@pld-linux.org>, 2014-2017, 2018, 2019.
+# Szylu <chipolade@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-09-22 13:38+0000\n"
-"Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
+"PO-Revision-Date: 2020-05-13 04:21+0000\n"
+"Last-Translator: Szylu <chipolade@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/pl/>\n"
 "Language: pl\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aav
@@ -63,7 +64,7 @@ msgstr "języki atapaskańskie"
 
 #. Name for auf
 msgid "Arauan languages"
-msgstr ""
+msgstr "Języki arawan"
 
 #. Name for aus
 msgid "Australian languages"
@@ -223,7 +224,7 @@ msgstr "języki hmong-mien"
 
 #. Name for hok
 msgid "Hokan languages"
-msgstr ""
+msgstr "Języki hokan"
 
 #. Name for hyx
 msgid "Armenian (family)"
@@ -291,7 +292,7 @@ msgstr "języki manobo"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr "języki mundajskie"
+msgstr "Języki mundajskie"
 
 #. Name for myn
 msgid "Mayan languages"
@@ -403,7 +404,7 @@ msgstr "języki lapońskie"
 
 #. Name for son
 msgid "Songhai languages"
-msgstr "języki songhaj"
+msgstr "Języki songhai"
 
 #. Name for sqj
 msgid "Albanian languages"
@@ -483,4 +484,4 @@ msgstr "języki zachodniosłowiańskie"
 
 #. Name for znd
 msgid "Zande languages"
-msgstr "języki pazande"
+msgstr "Języki pazande"

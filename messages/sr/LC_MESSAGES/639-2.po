@@ -7,24 +7,24 @@
 # Copyright ©
 # Danilo Segan <dsegan@gmx.net>, 2003-2005.
 # Мирослав Николић <miroslavnikolic@rocketmail.com>, 2014.
-# Branko Kokanovic <branko@kokanovic.org>, 2018.
+# Branko Kovačević <ja_sam_branko@yahoo.com>, 2018-2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-07-09 04:14+0000\n"
-"Last-Translator: Branko Kokanovic <branko@kokanovic.org>\n"
-"Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-2/sr/>\n"
+"PO-Revision-Date: 2019-10-05 09:56+0000\n"
+"Last-Translator: Branko Kovačević <ja_sam_branko@yahoo.com>\n"
+"Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-2/sr_Latn/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.1-dev\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -153,7 +153,7 @@ msgstr "аварски"
 
 #. Name for ave
 msgid "Avestan"
-msgstr "авестански"
+msgstr "авестанско писмо"
 
 #. Name for awa
 msgid "Awadhi"
@@ -189,7 +189,7 @@ msgstr "бамбарашки"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "балинешки"
+msgstr "балинежанско писмо"
 
 #. Name for bas
 msgid "Basa"
@@ -277,7 +277,7 @@ msgstr "буријатски"
 
 #. Name for bug
 msgid "Buginese"
-msgstr "бугинешки"
+msgstr "бугиско писмо"
 
 #. Name for bul
 msgid "Bulgarian"
@@ -357,7 +357,7 @@ msgstr "чипевјски; дене сулински"
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "чирокешки"
+msgstr "чироки писмо"
 
 #. Name for chu
 msgid ""
@@ -689,7 +689,7 @@ msgstr "швајцарски немачки; алсацијски"
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "гујаратски"
+msgstr "гуђаратско писмо"
 
 #. Name for gwi
 msgid "Gwich'in"
@@ -878,7 +878,7 @@ msgstr "камбаски"
 
 #. Name for kan
 msgid "Kannada"
-msgstr "кндешки"
+msgstr "каннада писмо"
 
 #. Name for kar
 msgid "Karen languages"
@@ -930,7 +930,7 @@ msgstr "кикујски; гикујски"
 
 #. Name for kin
 msgid "Kinyarwanda"
-msgstr "кинјарвандски"
+msgstr "кињарвандски"
 
 #. Name for kir
 msgid "Kirghiz; Kyrgyz"
@@ -962,7 +962,7 @@ msgstr "косраенски"
 
 #. Name for kpe
 msgid "Kpelle"
-msgstr "кпелски"
+msgstr "кпелле писмо"
 
 #. Name for krc
 msgid "Karachay-Balkar"
@@ -982,7 +982,7 @@ msgstr "курушки"
 
 #. Name for kua
 msgid "Kuanyama; Kwanyama"
-msgstr "куанјамски; кванјамски"
+msgstr "куањамски; квањамски"
 
 #. Name for kum
 msgid "Kumyk"
@@ -1010,7 +1010,7 @@ msgstr "ламбдски"
 
 #. Name for lao
 msgid "Lao"
-msgstr "лаоски"
+msgstr "лаоско писмо"
 
 #. Name for lat
 msgid "Latin"
@@ -1098,7 +1098,7 @@ msgstr "макасарски"
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "малајалски"
+msgstr "малајаламско писмо"
 
 #. Name for man
 msgid "Mandingo"
@@ -1322,19 +1322,19 @@ msgstr "класични њуарски; стари њуарски; класич
 
 #. Name for nya
 msgid "Chichewa; Chewa; Nyanja"
-msgstr "чевски; чичевски; нјанџиски"
+msgstr "чевски; чичевски; њанџиски"
 
 #. Name for nym
 msgid "Nyamwezi"
-msgstr "нјамвешки"
+msgstr "њамвешки"
 
 #. Name for nyn
 msgid "Nyankole"
-msgstr "нјанколски"
+msgstr "њанколски"
 
 #. Name for nyo
 msgid "Nyoro"
-msgstr "нјорски"
+msgstr "њорски"
 
 #. Name for nzi
 msgid "Nzima"
@@ -1359,7 +1359,7 @@ msgstr "оромски"
 
 #. Name for osa
 msgid "Osage"
-msgstr "осашки"
+msgstr "осаге"
 
 #. Name for oss
 msgid "Ossetian; Ossetic"
@@ -1678,7 +1678,7 @@ msgstr "сукумски"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "сунданешки"
+msgstr "сунданско писмо"
 
 #. Name for sus
 msgid "Susu"
@@ -1714,7 +1714,7 @@ msgstr "тајландски језици"
 
 #. Name for tam
 msgid "Tamil"
-msgstr "тамилски"
+msgstr "тамилско писмо"
 
 #. Name for tat
 msgid "Tatar"
@@ -1722,7 +1722,7 @@ msgstr "татарски"
 
 #. Name for tel
 msgid "Telugu"
-msgstr "телушки"
+msgstr "телугу писмо"
 
 #. Name for tem
 msgid "Timne"
@@ -1778,7 +1778,7 @@ msgstr "тамашки"
 
 #. Name for tog
 msgid "Tonga (Nyasa)"
-msgstr "тоншки (Нјаса)"
+msgstr "тоншки (Њаса)"
 
 #. Name for ton
 msgid "Tonga (Tonga Islands)"
@@ -1830,7 +1830,7 @@ msgstr "твишки"
 
 #. Name for tyv
 msgid "Tuvinian"
-msgstr "тувинјански"
+msgstr "тувињански"
 
 #. Name for udm
 msgid "Udmurt"
@@ -1866,7 +1866,7 @@ msgstr "узбекистански"
 
 #. Name for vai
 msgid "Vai"
-msgstr "ваиски"
+msgstr "ваи писмо"
 
 #. Name for ven
 msgid "Venda"
@@ -1984,4 +1984,4 @@ msgstr "без језичког садржаја; непримењив"
 
 #. Name for zza
 msgid "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"
-msgstr "зашки; димилски; димлски; кирдски; кирманјешки; зазашки"
+msgstr "зашки; димилски; димлски; кирдски; кирмањешки; зазашки"

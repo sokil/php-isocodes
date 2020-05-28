@@ -32,7 +32,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
 "PO-Revision-Date: 2013-08-19 14:45+0900\n"
 "Last-Translator: Yasuaki Taniguchi <yasuakit@gmail.com>\n"
 "Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
@@ -2346,10 +2346,11 @@ msgstr "サウスイースト"
 msgid "Southern"
 msgstr ""
 
-# voblasc' は英語で oblast。旧ソ連の州の意味
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Vicebskaja voblasc'"
+msgid "Bresckaja voblasć"
+msgstr "ウイチェブスク州"
 
 # ベラルーシ
 # ミンスクだが、Horad をどう訳す?
@@ -2358,23 +2359,33 @@ msgid "Horad Minsk"
 msgstr "ミンスク市"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Vicebskaja voblasc'"
+msgid "Homieĺskaja voblasć"
+msgstr "ウイチェブスク州"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Minskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
+msgstr "ミンスク州"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Minskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
+msgstr "ミンスク州"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+#, fuzzy
+#| msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "ミンスク州"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+#, fuzzy
+#| msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "ウイチェブスク州"
 
 # ベリーズ
@@ -13571,14 +13582,6 @@ msgstr "ソグンオフィョーラネ"
 msgid "Møre og Romsdal"
 msgstr "メーレオロムスダール"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "セールトレネダーグ"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "ノールトレネダーグ"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "ノールラン"
@@ -13598,6 +13601,12 @@ msgstr ""
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr ""
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Sør-Trøndelag"
+msgid "Trøndelag"
+msgstr "セールトレネダーグ"
 
 # ネパール
 # Madhya 中央

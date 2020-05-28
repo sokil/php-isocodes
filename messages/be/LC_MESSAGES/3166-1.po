@@ -9,14 +9,15 @@
 # Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010-2013.
 # Viktar Siarheichyk <vics@fsfe.org>, 2015.
 # Viktar Vauchkevich <victorenator@gmail.com>, 2019.
+# Serge Karpesh <skarpiesz@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-04-03 21:04+0000\n"
-"Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
+"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/be/>\n"
 "Language: be\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -1149,7 +1150,7 @@ msgstr "Федэратыўная Дэмакратычная Рэспубліка
 
 #. Name for NRU
 msgid "Nauru"
-msgstr "науру"
+msgstr "Науру"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
@@ -1497,7 +1498,7 @@ msgstr "Рэспубліка Таджыкістан"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "такелау"
+msgstr "Такелаў"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1545,7 +1546,7 @@ msgstr "Рэспубліка Турцыя"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "тувалу"
+msgstr "Тувалу"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"

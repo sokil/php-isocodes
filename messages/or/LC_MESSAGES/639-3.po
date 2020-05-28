@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
-# Pro Neon <proneon267@gmail.com>, 2019.
+# Pro Neon <proneon267@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-09-07 05:25+0000\n"
+"PO-Revision-Date: 2020-01-31 17:50+0000\n"
 "Last-Translator: Pro Neon <proneon267@gmail.com>\n"
 "Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/iso-639-3/"
 "or/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1101,7 +1101,7 @@ msgstr "ଆଲ୍ଲାଦିନ"
 
 #. Name for ale
 msgid "Aleut"
-msgstr "ଆଲେଟ"
+msgstr "ଆଲିଉଟ"
 
 #. Name for alf
 msgid "Alege"
@@ -1166,9 +1166,8 @@ msgid "Albanian, Tosk"
 msgstr "ଆଲବାନିଅନ, ଟୋସ୍କ"
 
 #. Name for alt
-#, fuzzy
 msgid "Southern Altai"
-msgstr "କ୍ରୀ, ଦକ୍ଷିଣ ପୂର୍ବ"
+msgstr "ଦକ୍ଷିଣୀ ଆଲଟାଇ"
 
 #. Inverted name for alt
 msgid "Altai, Southern"
@@ -1339,7 +1338,7 @@ msgstr "ଇଂରାଜୀ, ପୁରୁଣା (ca. 450-1100)"
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "ଇଂରାଜୀ, ପୁରୁଣା (ca. 450-1100)"
+msgstr "ଇଂରାଜୀ, ପୁରାତନ (ca. ୪୫୦-୧୧୦୦)"
 
 #. Name for anh
 msgid "Nend"
@@ -5547,9 +5546,8 @@ msgid "Nicobarese, Car"
 msgstr "ନିକୋବାରେସ, କାର"
 
 #. Name for car
-#, fuzzy
 msgid "Galibi Carib"
-msgstr "ଗାଲିସିଆନ"
+msgstr "ଗାଲିବି କାରିବ"
 
 #. Inverted name for car
 msgid "Carib, Galibi"
@@ -8255,9 +8253,8 @@ msgid "Darai"
 msgstr "ଡାରାଇ"
 
 #. Name for dsb
-#, fuzzy
 msgid "Lower Sorbian"
-msgstr "ସର୍ବିୟାନ"
+msgstr "ନିମ୍ନ ସର୍ବୀଆନ"
 
 #. Inverted name for dsb
 msgid "Sorbian, Lower"
@@ -9529,7 +9526,7 @@ msgstr "ଫ୍ରେଞ୍ଚ, ମଧ୍ଯ (ca. 1400-1600)"
 
 #. Inverted name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "ଫ୍ରେଞ୍ଚ, ମଧ୍ଯ (ca. 1400-1600)"
+msgstr "ଫ୍ରେଞ୍ଚ, ମଧ୍ଯ (ca. ୧୪୦୦-୧୬୦୦)"
 
 #. Name for fro
 #, fuzzy
@@ -9538,7 +9535,7 @@ msgstr "ଫ୍ରେଞ୍ଚ, ପୁରୁଣା (842-ca. 1400)"
 
 #. Inverted name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "ଫ୍ରେଞ୍ଚ, ପୁରୁଣା (842-ca. 1400)"
+msgstr "ଫ୍ରେଞ୍ଚ, ପୁରୁଣା (୮୪୨-ca. ୧୪୦୦)"
 
 #. Name for frp
 msgid "Arpitan"
@@ -9549,18 +9546,16 @@ msgid "Forak"
 msgstr ""
 
 #. Name for frr
-#, fuzzy
 msgid "Northern Frisian"
-msgstr "ମିଆଓ, ପାଶ୍ଚାତ୍ଯ ମାସାନ"
+msgstr "ଉତ୍ତରୀ ଫ୍ରିସିୟାନ"
 
 #. Inverted name for frr
 msgid "Frisian, Northern"
 msgstr "ଫ୍ରିସିଆନ, ଉତ୍ତରୀ"
 
 #. Name for frs
-#, fuzzy
 msgid "Eastern Frisian"
-msgstr "ମିଆଓ, ପାଶ୍ଚାତ୍ଯ ମାସାନ"
+msgstr "ପୂର୍ବୀ ଫ୍ରିସିୟାନ"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
@@ -9571,9 +9566,8 @@ msgid "Fortsenal"
 msgstr ""
 
 #. Name for fry
-#, fuzzy
 msgid "Western Frisian"
-msgstr "ମିଆଓ, ପାଶ୍ଚାତ୍ଯ ମାସାନ"
+msgstr "ଉତ୍ତରୀ ଫ୍ରିସିୟାନ"
 
 #. Inverted name for fry
 msgid "Frisian, Western"
@@ -12026,9 +12020,8 @@ msgid "Harzani"
 msgstr ""
 
 #. Name for hsb
-#, fuzzy
 msgid "Upper Sorbian"
-msgstr "ସର୍ବିୟାନ"
+msgstr "ଉପର ସୋର୍ବିୟାନ"
 
 #. Inverted name for hsb
 msgid "Sorbian, Upper"
@@ -14440,9 +14433,8 @@ msgid "Lusi"
 msgstr ""
 
 #. Name for khm
-#, fuzzy
 msgid "Central Khmer"
-msgstr "ବାଇ, ମଧ୍ଯ"
+msgstr "ମଧ୍ଯ ଖ୍ମେର"
 
 #. Inverted name for khm
 msgid "Khmer, Central"
@@ -27512,9 +27504,8 @@ msgid "Sake"
 msgstr ""
 
 #. Name for sam
-#, fuzzy
 msgid "Samaritan Aramaic"
-msgstr "ସାମାରିତାନ"
+msgstr "ସାମାରିତାନ ଆରାମାଇକ"
 
 #. Inverted name for sam
 msgid "Aramaic, Samaritan"
@@ -28658,9 +28649,8 @@ msgid "Ma'ya"
 msgstr "ମାୟା"
 
 #. Name for sma
-#, fuzzy
 msgid "Southern Sami"
-msgstr "କ୍ରୀ, ଦକ୍ଷିଣ ପୂର୍ବ"
+msgstr "ଦକ୍ଷୀଣ ସାମି"
 
 #. Inverted name for sma
 msgid "Sami, Southern"
@@ -28679,9 +28669,8 @@ msgid "Sama"
 msgstr "ସାମା"
 
 #. Name for sme
-#, fuzzy
 msgid "Northern Sami"
-msgstr "କ୍ରୀ, ଦକ୍ଷିଣ ପୂର୍ବ"
+msgstr "ଉତ୍ତରୀ ସାମି"
 
 #. Inverted name for sme
 msgid "Sami, Northern"
@@ -28745,9 +28734,8 @@ msgid "Simeulue"
 msgstr "ସିମିଉଲ"
 
 #. Name for sms
-#, fuzzy
 msgid "Skolt Sami"
-msgstr "ଲୁଲେ ସାମି"
+msgstr "ସ୍କଲଟ ସାମି"
 
 #. Inverted name for sms
 msgid "Sami, Skolt"

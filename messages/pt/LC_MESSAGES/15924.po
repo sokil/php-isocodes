@@ -6,14 +6,15 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Rui Mendes <xz9@protonmail.com>, 2019.
+# Manuela Silva <mmsrs@sky.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-05-09 15:49+0000\n"
-"Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
+"PO-Revision-Date: 2020-05-14 11:41+0000\n"
+"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/pt/>\n"
 "Language: pt\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.7-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -41,7 +42,7 @@ msgstr "ahom, tai ahom"
 
 #. Name for Arab
 msgid "Arabic"
-msgstr "árabe"
+msgstr "Árabe"
 
 #. Name for Aran
 msgid "Arabic (Nastaliq variant)"
@@ -61,7 +62,7 @@ msgstr "avéstico"
 
 #. Name for Bali
 msgid "Balinese"
-msgstr "balinês"
+msgstr "Balinês"
 
 #. Name for Bamu
 msgid "Bamum"
@@ -73,16 +74,15 @@ msgstr "bassa vah"
 
 #. Name for Batk
 msgid "Batak"
-msgstr "bataque"
+msgstr "Bataque"
 
 #. Name for Beng
 msgid "Bengali"
-msgstr "bengali"
+msgstr "Bengali"
 
 #. Name for Bhks
-#, fuzzy
 msgid "Bhaiksuki"
-msgstr "bhaiksuki"
+msgstr "Bhaiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
@@ -138,23 +138,23 @@ msgstr "copta"
 
 #. Name for Cprt
 msgid "Cypriot"
-msgstr "cipriota"
+msgstr "Cipriota"
 
 #. Name for Cyrl
 msgid "Cyrillic"
-msgstr "cirílico"
+msgstr "Cirílico"
 
 #. Name for Cyrs
 msgid "Cyrillic (Old Church Slavonic variant)"
-msgstr "cirílico (variante antigo eslavo eclesiástico)"
+msgstr "Cirílico (variante antiga de eslavo eclesiástico)"
 
 #. Name for Deva
 msgid "Devanagari (Nagari)"
-msgstr "devanágari (nagari)"
+msgstr "Devanágari (nagari)"
 
 #. Name for Dsrt
 msgid "Deseret (Mormon)"
-msgstr "deseret (mórmon)"
+msgstr "Deseret (mórmon)"
 
 #. Name for Dupl
 msgid "Duployan shorthand, Duployan stenography"
@@ -162,23 +162,23 @@ msgstr ""
 
 #. Name for Egyd
 msgid "Egyptian demotic"
-msgstr "demótico egípcio"
+msgstr "Demótico egípcio"
 
 #. Name for Egyh
 msgid "Egyptian hieratic"
-msgstr "hierático egípcio"
+msgstr "Hierático egípcio"
 
 #. Name for Egyp
 msgid "Egyptian hieroglyphs"
-msgstr "hieróglifos egípcios"
+msgstr "Hieróglifos egípcios"
 
 #. Name for Elba
 msgid "Elbasan"
-msgstr "elbasan"
+msgstr "Elbasan"
 
 #. Name for Ethi
 msgid "Ethiopic (Geʻez)"
-msgstr "etiópico (ge'ez)"
+msgstr "Etiópico (ge'ez)"
 
 #. Name for Geok
 msgid "Khutsuri (Asomtavruli and Nuskhuri)"

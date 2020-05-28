@@ -3085,7 +3085,7 @@
     },
     {
       "code": "BY-BR",
-      "name": "Brèsckaja voblasc'",
+      "name": "Bresckaja voblasć",
       "type": "Oblast"
     },
     {
@@ -3095,27 +3095,27 @@
     },
     {
       "code": "BY-HO",
-      "name": "Homel'skaja voblasc'",
+      "name": "Homieĺskaja voblasć",
       "type": "Oblast"
     },
     {
       "code": "BY-HR",
-      "name": "Hrodzenskaja voblasc'",
+      "name": "Hrodzienskaja voblasć",
       "type": "Oblast"
     },
     {
       "code": "BY-MA",
-      "name": "Mahilëuskaja voblasc'",
+      "name": "Mahilioŭskaja voblasć",
       "type": "Oblast"
     },
     {
       "code": "BY-MI",
-      "name": "Minskaja voblasc'",
+      "name": "Minskaja voblasć",
       "type": "Oblast"
     },
     {
       "code": "BY-VI",
-      "name": "Vicebskaja voblasc'",
+      "name": "Viciebskaja voblasć",
       "type": "Oblast"
     },
     {
@@ -17654,16 +17654,6 @@
       "type": "County"
     },
     {
-      "code": "NO-16",
-      "name": "Sør-Trøndelag",
-      "type": "County"
-    },
-    {
-      "code": "NO-17",
-      "name": "Nord-Trøndelag",
-      "type": "County"
-    },
-    {
       "code": "NO-18",
       "name": "Nordland",
       "type": "County"
@@ -17687,6 +17677,11 @@
       "code": "NO-22",
       "name": "Jan Mayen (Arctic Region)",
       "type": "Arctic Region"
+    },
+    {
+      "code": "NO-50",
+      "name": "Trøndelag",
+      "type": "County"
     },
     {
       "code": "NP-1",

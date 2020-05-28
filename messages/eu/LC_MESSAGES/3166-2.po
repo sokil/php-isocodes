@@ -9,14 +9,15 @@
 # Iñigo Salvador Azurmendi <xalba@euskalnet.net>, 2001.
 # Osoitz <oelkoro@gmail.com>, 2019.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
+# Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-08-01 05:14+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-02-17 14:50+0000\n"
+"Last-Translator: Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/eu/>\n"
 "Language: eu\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -228,7 +229,7 @@ msgstr ""
 
 #. Name for AG-05, Name for JM-05
 msgid "Saint Mary"
-msgstr ""
+msgstr "Andra Mari"
 
 #. Name for AG-06, Name for DM-10
 msgid "Saint Paul"
@@ -260,7 +261,7 @@ msgstr "Durrës"
 
 #. Name for AL-03, Name for AL-EL
 msgid "Elbasan"
-msgstr "Elbasan"
+msgstr "Elbasanera"
 
 #. Name for AL-04, Name for AL-FR
 msgid "Fier"
@@ -1016,7 +1017,7 @@ msgstr ""
 
 #. Name for BA-SRP
 msgid "Republika Srpska"
-msgstr ""
+msgstr "Bosniako Serbiar Errepublika"
 
 #. Name for BB-01
 msgid "Christ Church"
@@ -2243,7 +2244,7 @@ msgid "Southern"
 msgstr "Hegoaldea"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 #. Name for BY-HM
@@ -2251,23 +2252,23 @@ msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 #. Name for BZ-BZ
@@ -2728,7 +2729,7 @@ msgstr ""
 
 #. Name for CL-RM
 msgid "Región Metropolitana de Santiago"
-msgstr ""
+msgstr "Santiagoko metropolitar eskualdea"
 
 #. Name for CL-TA
 msgid "Tarapacá"
@@ -2748,11 +2749,11 @@ msgstr ""
 
 #. Name for CM-ES
 msgid "East"
-msgstr ""
+msgstr "Ekialdea"
 
 #. Name for CM-NO, Name for MV-NO
 msgid "North"
-msgstr ""
+msgstr "Iparraldea"
 
 #. Name for CM-NW
 msgid "North-West (Cameroon)"
@@ -2760,15 +2761,15 @@ msgstr ""
 
 #. Name for CM-OU
 msgid "West"
-msgstr ""
+msgstr "Mendebaldea"
 
 #. Name for CM-SU, Name for MV-SU
 msgid "South"
-msgstr ""
+msgstr "Hegoaldea"
 
 #. Name for CM-SW
 msgid "South-West"
-msgstr ""
+msgstr "Hegomendebaldea"
 
 #. Name for CN-AH
 msgid "Anhui Sheng"
@@ -13869,14 +13870,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr ""
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr ""
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr ""
-
 #. Name for NO-18
 #, fuzzy
 msgid "Nordland"
@@ -13897,6 +13890,10 @@ msgstr ""
 
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
+msgstr ""
+
+#. Name for NO-50
+msgid "Trøndelag"
 msgstr ""
 
 #. Name for NP-1

@@ -8,21 +8,24 @@
 # KDE Serbian Translation Team <kde-yu@kde.org.yu>, 1999.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Мирослав Николић <miroslavnikolic@rocketmail.com>, 2014-2015.
+# Branko Kovačević <ja_sam_branko@yahoo.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2015-12-26 22:03+0200\n"
-"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
-"Language-Team: Serbian <(nothing)>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2019-10-05 09:56+0000\n"
+"Last-Translator: Branko Kovačević <ja_sam_branko@yahoo.com>\n"
+"Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-2/sr_Latn/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -258,7 +261,7 @@ msgstr "Драч"
 
 #. Name for AL-03, Name for AL-EL
 msgid "Elbasan"
-msgstr "Албасан"
+msgstr "елбасанско писмо"
 
 #. Name for AL-04, Name for AL-FR
 msgid "Fier"
@@ -311,7 +314,7 @@ msgstr "Девол"
 # bug: colon?
 #. Name for AL-ER
 msgid "Kolonjë"
-msgstr "Колонја"
+msgstr "Колоња"
 
 #. Name for AL-GR
 msgid "Gramsh"
@@ -2242,7 +2245,9 @@ msgid "Southern"
 msgstr "Саутерн"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+#, fuzzy
+#| msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "Бреска област"
 
 #. Name for BY-HM
@@ -2250,23 +2255,33 @@ msgid "Horad Minsk"
 msgstr "Хорад Минск"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+#, fuzzy
+#| msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Хомелска област"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+#, fuzzy
+#| msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "Хроџенска област"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+#, fuzzy
+#| msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "Махилевска област"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+#, fuzzy
+#| msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "Минска област"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+#, fuzzy
+#| msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "Вицебска област"
 
 #. Name for BZ-BZ
@@ -2375,7 +2390,7 @@ msgstr "Источни Касаи"
 
 #. Name for CD-MA
 msgid "Maniema"
-msgstr "Манјема"
+msgstr "Мањема"
 
 #. Name for CD-NK
 msgid "Nord-Kivu"
@@ -3912,7 +3927,7 @@ msgstr "Дварте"
 
 #. Name for DO-07
 msgid "La Estrelleta [Elías Piña]"
-msgstr "Ла Естрељета [Елјас Пиња]"
+msgstr "Ла Естрељета [Ељас Пиња]"
 
 #. Name for DO-08
 msgid "El Seybo [El Seibo]"
@@ -4900,7 +4915,7 @@ msgstr "Аисн"
 
 #. Name for FR-03
 msgid "Allier"
-msgstr "Алјер"
+msgstr "Аљер"
 
 #. Name for FR-04
 msgid "Alpes-de-Haute-Provence"
@@ -5120,7 +5135,7 @@ msgstr "Мозел"
 
 #. Name for FR-58
 msgid "Nièvre"
-msgstr "Нјевр"
+msgstr "Њевр"
 
 #. Name for FR-60
 msgid "Oise"
@@ -6644,7 +6659,7 @@ msgstr ""
 
 #. Name for GR-01
 msgid "Aitolia kai Akarnania"
-msgstr "Ајтолија кај Акарнанја"
+msgstr "Ајтолија кај Акарнања"
 
 #. Name for GR-03
 msgid "Voiotia"
@@ -12411,7 +12426,7 @@ msgstr "Нкотакота"
 
 #. Name for MW-NS
 msgid "Nsanje"
-msgstr "Нсанје"
+msgstr "Нсање"
 
 #. Name for MW-NU
 msgid "Ntcheu"
@@ -12785,7 +12800,7 @@ msgstr "Боши"
 
 #. Name for NG-BE
 msgid "Benue"
-msgstr "Бенју"
+msgstr "Бењу"
 
 #. Name for NG-BO
 msgid "Borno"
@@ -13079,14 +13094,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr "Мор ог Ромсдал"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Сор Тронделаг"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Норд Тронделаг"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Нордланд"
@@ -13106,6 +13113,12 @@ msgstr "Свалбард (Артичка област)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Јан Мајен (Арктичка област)"
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Sør-Trøndelag"
+msgid "Trøndelag"
+msgstr "Сор Тронделаг"
 
 #. Name for NP-1
 msgid "Madhyamanchal"
@@ -13794,7 +13807,7 @@ msgstr "Лејте"
 
 #. Name for PH-LUN
 msgid "La Union"
-msgstr "Ла Унјон"
+msgstr "Ла Уњон"
 
 #. Name for PH-MAD
 msgid "Marinduque"
@@ -15017,7 +15030,7 @@ msgstr "Шуазел"
 
 #. Name for SB-CT
 msgid "Capital Territory (Honiara)"
-msgstr "Главна територија (Хонјара)"
+msgstr "Главна територија (Хоњара)"
 
 #. Name for SB-GU
 msgid "Guadalcanal"
@@ -16494,7 +16507,7 @@ msgstr ""
 
 #. Name for SV-UN
 msgid "La Unión"
-msgstr "Ла Унјион"
+msgstr "Ла Уњион"
 
 #. Name for SV-US
 msgid "Usulután"
@@ -17802,7 +17815,7 @@ msgstr "Танга"
 
 #. Name for TZ-26
 msgid "Manyara"
-msgstr "Манјара"
+msgstr "Мањара"
 
 #. Name for UA-05
 msgid "Vinnyts'ka Oblast'"
@@ -18874,7 +18887,7 @@ msgstr "Бак Гјанг"
 
 #. Name for VN-55
 msgid "Bạc Liêu"
-msgstr "Бак Лје"
+msgstr "Бак Ље"
 
 #. Name for VN-56
 msgid "Bắc Ninh"

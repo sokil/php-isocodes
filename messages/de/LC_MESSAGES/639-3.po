@@ -21,14 +21,15 @@
 # Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
 # Dr. Tobias Quathamer <toddy@debian.org>, 2019.
 # ssantos <ssantos@web.de>, 2019.
+# J. Lavoie <j.lavoie@net-c.ca>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-05-19 10:49+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
+"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/de/>\n"
 "Language: de\n"
@@ -36,7 +37,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -20983,7 +20984,7 @@ msgstr "Hungworo, Kanji"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "Nauruisch"
+msgstr "Nauru"
 
 #. Name for nav
 msgid "Navajo"
@@ -30202,7 +30203,7 @@ msgstr "Tagalaka"
 # AA: Thailändisch
 #. Name for tha
 msgid "Thai"
-msgstr "Thailändisch"
+msgstr "Thai"
 
 #. Name for thd
 msgid "Thayore"
@@ -30511,7 +30512,7 @@ msgstr "Malagasy, Tesaka"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr "Tokelauanisch"
+msgstr "Tokelau"
 
 #. Name for tkm
 msgid "Takelma"
@@ -31672,7 +31673,7 @@ msgstr "Ambrym, Südöstliches"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "Tuvaluisch"
+msgstr "Tuvalu"
 
 #. Name for tvm
 msgid "Tela-Masbuar"

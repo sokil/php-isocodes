@@ -8,14 +8,15 @@
 # Joan Luc Labòrda <laborde@crpp.u-bordeaux.fr>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Quentí <quentin_antonin@hotmail.com>, 2018.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-10-08 10:34+0000\n"
-"Last-Translator: Quentí <quentin_antonin@hotmail.com>\n"
+"PO-Revision-Date: 2020-04-27 18:11+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/oc/>\n"
 "Language: oc\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.2\n"
+"X-Generator: Weblate 4.0.2\n"
 
 #. Name for aar
 msgid "Afar"
@@ -145,7 +146,7 @@ msgstr ""
 
 #. Name for aus
 msgid "Australian languages"
-msgstr ""
+msgstr "lengas australianas"
 
 #. Name for ava
 msgid "Avaric"
@@ -316,9 +317,8 @@ msgid "Cebuano"
 msgstr ""
 
 #. Name for cel
-#, fuzzy
 msgid "Celtic languages"
-msgstr "Lengas nahuatl"
+msgstr "lengas celticas"
 
 #. Name for ces
 msgid "Czech"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
 "PO-Revision-Date: 2018-11-27 19:07+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
@@ -2241,7 +2241,7 @@ msgid "Southern"
 msgstr "Suður"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 #. Name for BY-HM
@@ -2249,23 +2249,23 @@ msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 #. Name for BZ-BZ
@@ -12868,14 +12868,6 @@ msgstr "Sogn og Firðirnir"
 msgid "Møre og Romsdal"
 msgstr "Mæri og Romsdal"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Suður-Þrændalög"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Norður-Þrændalög"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Norðurland"
@@ -12895,6 +12887,12 @@ msgstr "Svalbarði (heimsskautasvæði)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (heimsskautasvæði)"
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Sør-Trøndelag"
+msgid "Trøndelag"
+msgstr "Suður-Þrændalög"
 
 #. Name for NP-1
 msgid "Madhyamanchal"

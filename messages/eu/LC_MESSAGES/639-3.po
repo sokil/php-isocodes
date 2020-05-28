@@ -9,14 +9,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Mikel Olasagasti Uranga <mikel@olasagasti.info>, 2017.
 # Osoitz <oelkoro@gmail.com>, 2019.
+# Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-08-01 05:13+0000\n"
-"Last-Translator: Osoitz <oelkoro@gmail.com>\n"
+"PO-Revision-Date: 2020-02-17 14:50+0000\n"
+"Last-Translator: Gontzal Manuel Pujana Onaindia <thadahdenyse@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/eu/>\n"
 "Language: eu\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 3.11-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -969,7 +970,7 @@ msgstr ""
 
 #. Name for aka
 msgid "Akan"
-msgstr ""
+msgstr "Akanera"
 
 #. Name for akb
 msgid "Batak Angkola"
@@ -2172,7 +2173,7 @@ msgstr ""
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestanera"
+msgstr "Avestera"
 
 #. Name for avi
 #, fuzzy
@@ -2624,7 +2625,7 @@ msgstr "Bambara"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "baliera"
+msgstr "Baliera"
 
 #. Name for bao
 msgid "Waimaha"
@@ -3589,7 +3590,7 @@ msgstr ""
 
 #. Name for bik
 msgid "Bikol"
-msgstr ""
+msgstr "Bikol"
 
 #. Name for bil
 msgid "Bile"
@@ -3870,7 +3871,7 @@ msgstr "Tailandiera"
 
 #. Name for bku
 msgid "Buhid"
-msgstr ""
+msgstr "Buhid"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -4988,7 +4989,7 @@ msgstr ""
 
 #. Name for bug
 msgid "Buginese"
-msgstr "buginera"
+msgstr "Buginera"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -5449,9 +5450,8 @@ msgid "Binahari"
 msgstr "Tailandiera"
 
 #. Name for bya
-#, fuzzy
 msgid "Batak"
-msgstr "Euskara"
+msgstr "Batakera"
 
 #. Name for byb
 msgid "Bikya"
@@ -5709,7 +5709,7 @@ msgstr "XChat"
 
 #. Name for cad
 msgid "Caddo"
-msgstr ""
+msgstr "Caddo"
 
 #. Name for cae
 #, fuzzy
@@ -5954,7 +5954,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr ""
+msgstr "Chakma"
 
 #. Name for ccr
 msgid "Cacaopera"
@@ -6189,7 +6189,7 @@ msgstr ""
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "txerokiera"
+msgstr "Txeroki"
 
 #. Name for cht
 msgid "Cholón"
@@ -11413,7 +11413,7 @@ msgstr ""
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "Gujeratera"
+msgstr "Gujaratera"
 
 #. Name for guk
 msgid "Gumuz"
@@ -12673,9 +12673,8 @@ msgid "Hya"
 msgstr ""
 
 #. Name for hye
-#, fuzzy
 msgid "Armenian"
-msgstr "Errumaniera"
+msgstr "Armeniera"
 
 #. Name for iai
 #, fuzzy
@@ -13550,9 +13549,8 @@ msgid "Yaur"
 msgstr "Turkiera"
 
 #. Name for jav
-#, fuzzy
 msgid "Javanese"
-msgstr "Japoniera"
+msgstr "Javera"
 
 #. Name for jax
 msgid "Jambi Malay"
@@ -14001,7 +13999,7 @@ msgstr ""
 
 #. Name for juc
 msgid "Jurchen"
-msgstr ""
+msgstr "Jurtxen"
 
 #. Name for jud
 msgid "Worodougou"
@@ -15948,7 +15946,7 @@ msgstr "Koreera"
 
 #. Name for kpe
 msgid "Kpelle"
-msgstr "kpellea"
+msgstr "Kpelle"
 
 #. Name for kpf
 msgid "Komba"
@@ -17290,9 +17288,8 @@ msgid "Subanen, Southern"
 msgstr ""
 
 #. Name for lab
-#, fuzzy
 msgid "Linear A"
-msgstr "Alemaniera"
+msgstr "A lineala"
 
 #. Name for lac
 msgid "Lacandon"
@@ -17365,9 +17362,8 @@ msgid "Lama (Togo)"
 msgstr ""
 
 #. Name for lat
-#, fuzzy
 msgid "Latin"
-msgstr "Kroazia"
+msgstr "Latina"
 
 #. Name for lau
 msgid "Laba"
@@ -17866,9 +17862,8 @@ msgid "Likila"
 msgstr ""
 
 #. Name for lif
-#, fuzzy
 msgid "Limbu"
-msgstr "Lituaniarra"
+msgstr "Limbu"
 
 #. Name for lig
 msgid "Ligbi"
@@ -18940,7 +18935,7 @@ msgstr "makasarera"
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "Malayalamera"
+msgstr "Malabarera"
 
 #. Name for mam
 #, fuzzy
@@ -20694,9 +20689,8 @@ msgid "Mangue"
 msgstr "Mazedoniera"
 
 #. Name for mon
-#, fuzzy
 msgid "Mongolian"
-msgstr "Mazedoniera"
+msgstr "Mongoliera"
 
 #. Name for moo
 #, fuzzy
@@ -25384,7 +25378,7 @@ msgstr ""
 
 #. Name for osa
 msgid "Osage"
-msgstr ""
+msgstr "Osage"
 
 #. Name for osc
 #, fuzzy
@@ -26165,9 +26159,8 @@ msgid "Phimbi"
 msgstr ""
 
 #. Name for phn
-#, fuzzy
 msgid "Phoenician"
-msgstr "Eslovaniera"
+msgstr "Feniziera"
 
 #. Name for pho
 msgid "Phunoi"
@@ -28709,7 +28702,7 @@ msgstr "Serbiera"
 
 #. Name for saz
 msgid "Saurashtra"
-msgstr ""
+msgstr "Saurashtra"
 
 #. Name for sba
 msgid "Ngambay"
@@ -29482,9 +29475,8 @@ msgid "Mende (Papua New Guinea)"
 msgstr ""
 
 #. Name for sin
-#, fuzzy
 msgid "Sinhala"
-msgstr "Mahastiak"
+msgstr "Sinhala"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -29933,9 +29925,8 @@ msgid "Samoan"
 msgstr "Samoera"
 
 #. Name for smp
-#, fuzzy
 msgid "Samaritan"
-msgstr "Serbiera"
+msgstr "Samaritera"
 
 #. Name for smq
 #, fuzzy
@@ -30807,7 +30798,7 @@ msgstr "sukumera"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Sudanera"
+msgstr "Sundanera"
 
 #. Name for suq
 #, fuzzy
@@ -31125,7 +31116,7 @@ msgstr ""
 
 #. Name for syr
 msgid "Syriac"
-msgstr "asiriera"
+msgstr "Asiriera"
 
 #. Name for sys
 msgid "Sinyar"
@@ -31428,7 +31419,7 @@ msgstr ""
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr ""
+msgstr "Tagbanwa"
 
 #. Name for tbx
 #, fuzzy
@@ -31736,7 +31727,7 @@ msgstr ""
 
 #. Name for tel
 msgid "Telugu"
-msgstr "Telugu-a"
+msgstr "Telugu"
 
 #. Name for tem
 msgid "Timne"
@@ -31940,7 +31931,7 @@ msgstr "Katalaniera"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Tailandiera"
+msgstr "Thailandiera"
 
 #. Name for thd
 msgid "Thayore"
@@ -33614,7 +33605,7 @@ msgstr ""
 
 #. Name for txg
 msgid "Tangut"
-msgstr ""
+msgstr "Tangut"
 
 #. Name for txh
 #, fuzzy
@@ -33869,7 +33860,7 @@ msgstr ""
 
 #. Name for uga
 msgid "Ugaritic"
-msgstr "Ugaritikoa"
+msgstr "Ugaritera"
 
 #. Name for ugb
 msgid "Kuku-Ugbanh"
@@ -34370,7 +34361,7 @@ msgstr ""
 
 #. Name for vai
 msgid "Vai"
-msgstr "vaiera"
+msgstr "Vai"
 
 #. Name for vaj
 #, fuzzy
@@ -36057,9 +36048,8 @@ msgid "Chorasmian"
 msgstr "Estoniera"
 
 #. Name for xcr
-#, fuzzy
 msgid "Carian"
-msgstr "Maori"
+msgstr "Kariera"
 
 #. Name for xct
 msgid "Classical Tibetan"
@@ -36421,14 +36411,12 @@ msgid "Loup B"
 msgstr ""
 
 #. Name for xlc
-#, fuzzy
 msgid "Lycian"
-msgstr "Kroazia"
+msgstr "Likiera"
 
 #. Name for xld
-#, fuzzy
 msgid "Lydian"
-msgstr "Kroazia"
+msgstr "Lidiera"
 
 #. Name for xle
 #, fuzzy
@@ -38720,7 +38708,7 @@ msgstr "Alemaniera"
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr ""
+msgstr "Bliss sinboloak"
 
 #. Name for zbt
 #, fuzzy

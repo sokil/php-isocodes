@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Yuri Chornoivan <yurchor@ukr.net>, 2014.
+# Yuri Chornoivan <yurchor@ukr.net>, 2014, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
+"PO-Revision-Date: 2020-04-05 12:38+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/uk/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -54,7 +54,7 @@ msgstr "Алгські мови"
 
 #. Name for art
 msgid "Artificial languages"
-msgstr "Штучні мови"
+msgstr "штучні мови"
 
 #. Name for ath
 msgid "Athapascan languages"
@@ -66,7 +66,7 @@ msgstr "Арауанські мови"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr "Австралійські мови"
+msgstr "австралійські мови"
 
 #. Name for awd
 msgid "Arawakan languages"
@@ -86,7 +86,7 @@ msgstr "Мови бамілеке"
 
 #. Name for bat
 msgid "Baltic languages"
-msgstr "Балтійські мови"
+msgstr "балтійські мови"
 
 #. Name for ber
 msgid "Berber languages"
@@ -110,7 +110,7 @@ msgstr "мови індіанців Центральної Америки"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr "Кавказькі мови"
+msgstr "кавказькі мови"
 
 #. Name for cba
 msgid "Chibchan languages"

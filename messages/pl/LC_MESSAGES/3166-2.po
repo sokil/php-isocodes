@@ -7,14 +7,15 @@
 # Copyright ©
 # Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2018, 2019.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2018, 2019, 2020.
+# Szylu <chipolade@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-09-20 18:28+0000\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/pl/>\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -2033,7 +2034,7 @@ msgstr "Cat Island"
 
 #. Name for BS-CK
 msgid "Crooked Island and Long Cay"
-msgstr ""
+msgstr "Crooked Island i Long Cay"
 
 #. Name for BS-CO
 msgid "Central Abaco"
@@ -2251,7 +2252,7 @@ msgid "Southern"
 msgstr "Południowy"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "obwód brzeski"
 
 #. Name for BY-HM
@@ -2259,23 +2260,23 @@ msgid "Horad Minsk"
 msgstr "Miasto Mińsk"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "obwód homelski"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "obwód grodzieński"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "obwód mohylewski"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "obwód miński"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "obwód witebski"
 
 #. Name for BZ-BZ
@@ -8763,20 +8764,16 @@ msgid "Okinawa"
 msgstr "Okinawa"
 
 #. Name for KE-01
-#, fuzzy
-#| msgid "Bari"
 msgid "Baringo"
-msgstr "Bari"
+msgstr "Baringo"
 
 #. Name for KE-02
 msgid "Bomet"
-msgstr ""
+msgstr "Bomet"
 
 #. Name for KE-03
-#, fuzzy
-#| msgid "Kungota"
 msgid "Bungoma"
-msgstr "Kungota"
+msgstr "Bungoma"
 
 #. Name for KE-04, Name for UG-202
 msgid "Busia"
@@ -8784,213 +8781,175 @@ msgstr "Busia"
 
 #. Name for KE-05
 msgid "Elgeyo/Marakwet"
-msgstr ""
+msgstr "Elgeyo-Marakwet"
 
 #. Name for KE-06
 msgid "Embu"
-msgstr ""
+msgstr "Embu"
 
 #. Name for KE-07
-#, fuzzy
-#| msgid "Larisa"
 msgid "Garissa"
-msgstr "Larisa"
+msgstr "Garissa"
 
 #. Name for KE-08
-#, fuzzy
-#| msgid "Hawke's Bay"
 msgid "Homa Bay"
-msgstr "Hawke's Bay"
+msgstr "Homa Bay"
 
 #. Name for KE-09
 msgid "Isiolo"
-msgstr ""
+msgstr "Isiolo"
 
 #. Name for KE-10
 msgid "Kajiado"
-msgstr ""
+msgstr "Kajiado"
 
 #. Name for KE-11
-#, fuzzy
-#| msgid "Makamba"
 msgid "Kakamega"
-msgstr "Makamba"
+msgstr "Kakamega"
 
 #. Name for KE-12
 msgid "Kericho"
-msgstr ""
+msgstr "Kericho"
 
 #. Name for KE-13
-#, fuzzy
-#| msgid "Hamburg"
 msgid "Kiambu"
-msgstr "Hamburg"
+msgstr "Kiambu"
 
 #. Name for KE-14
-#, fuzzy
-#| msgid "Kili"
 msgid "Kilifi"
-msgstr "Kili"
+msgstr "Kilifi"
 
 #. Name for KE-15
-#, fuzzy
-#| msgid "Shinyanga"
 msgid "Kirinyaga"
-msgstr "Shinyanga"
+msgstr "Kirinyaga"
 
 #. Name for KE-16
 msgid "Kisii"
-msgstr ""
+msgstr "Kisii"
 
 #. Name for KE-17
 msgid "Kisumu"
-msgstr ""
+msgstr "Kisumu"
 
 #. Name for KE-18
 msgid "Kitui"
-msgstr ""
+msgstr "Kitui"
 
 #. Name for KE-19
 msgid "Kwale"
-msgstr ""
+msgstr "Kwale"
 
 #. Name for KE-20
 msgid "Laikipia"
-msgstr ""
+msgstr "Laikipia"
 
 #. Name for KE-21
 msgid "Lamu"
-msgstr ""
+msgstr "Lamu"
 
 #. Name for KE-22
-#, fuzzy
-#| msgid "Maracha"
 msgid "Machakos"
-msgstr "Maracha"
+msgstr "Machakos"
 
 #. Name for KE-23
 msgid "Makueni"
-msgstr ""
+msgstr "Makueni"
 
 #. Name for KE-24
-#, fuzzy
-#| msgid "Mandiana"
 msgid "Mandera"
-msgstr "Mandiana"
+msgstr "Mandera"
 
 #. Name for KE-25
-#, fuzzy
-#| msgid "Marsa"
 msgid "Marsabit"
-msgstr "Marsa"
+msgstr "Marsabit"
 
 #. Name for KE-26
 msgid "Meru"
-msgstr ""
+msgstr "Meru"
 
 #. Name for KE-27
 msgid "Migori"
-msgstr ""
+msgstr "Migori"
 
 #. Name for KE-28
-#, fuzzy
-#| msgid "Zomba"
 msgid "Mombasa"
-msgstr "Zomba"
+msgstr "Mombasa"
 
 #. Name for KE-29
-#, fuzzy
-#| msgid "Durango"
 msgid "Murang'a"
-msgstr "Durango"
+msgstr "Murang'a"
 
 #. Name for KE-30
-#, fuzzy
-#| msgid "Taipei City"
 msgid "Nairobi City"
-msgstr "Tajpej"
+msgstr "Nairobi"
 
 #. Name for KE-31
 msgid "Nakuru"
-msgstr ""
+msgstr "Nakuru"
 
 #. Name for KE-32
-#, fuzzy
-#| msgid "Normandie"
 msgid "Nandi"
-msgstr "Normandia"
+msgstr "Nandi"
 
 #. Name for KE-33
 msgid "Narok"
-msgstr ""
+msgstr "Narok"
 
 #. Name for KE-34
 msgid "Nyamira"
-msgstr ""
+msgstr "Nyamira"
 
 #. Name for KE-35
-#, fuzzy
-#| msgid "Bandarban"
 msgid "Nyandarua"
-msgstr "Bandarban"
+msgstr "Nyandarua"
 
 #. Name for KE-36
 msgid "Nyeri"
-msgstr ""
+msgstr "Nyeri"
 
 #. Name for KE-37
-#, fuzzy
-#| msgid "Hamburg"
 msgid "Samburu"
-msgstr "Hamburg"
+msgstr "Samburu"
 
 #. Name for KE-38
 msgid "Siaya"
-msgstr ""
+msgstr "Siaya"
 
 #. Name for KE-39
 msgid "Taita/Taveta"
-msgstr ""
+msgstr "Taita-Taveta"
 
 #. Name for KE-40
-#, fuzzy
-#| msgid "Central River"
 msgid "Tana River"
-msgstr "Central River"
+msgstr "Tana River"
 
 #. Name for KE-41
 msgid "Tharaka-Nithi"
-msgstr ""
+msgstr "Tharaka-Nithi"
 
 #. Name for KE-42
 msgid "Trans Nzoia"
-msgstr ""
+msgstr "Trans Nzoia"
 
 #. Name for KE-43
-#, fuzzy
-#| msgid "Arkansas"
 msgid "Turkana"
-msgstr "Arkansas"
+msgstr "Turkana"
 
 #. Name for KE-44
 msgid "Uasin Gishu"
-msgstr ""
+msgstr "Uasin Gishu"
 
 #. Name for KE-45
-#, fuzzy
-#| msgid "Shiga"
 msgid "Vihiga"
-msgstr "Shiga"
+msgstr "Vihiga"
 
 #. Name for KE-46
 msgid "Wajir"
-msgstr ""
+msgstr "Wajir"
 
 #. Name for KE-47
-#, fuzzy
-#| msgid "West Coast"
 msgid "West Pokot"
-msgstr "West Coast"
+msgstr "West Pokot"
 
 #. Name for KG-B
 msgid "Batken"
@@ -12151,19 +12110,19 @@ msgstr "Malé"
 
 #. Name for MV-NC
 msgid "North Central"
-msgstr ""
+msgstr "Północno-centralny"
 
 #. Name for MV-SC
 msgid "South Central"
-msgstr ""
+msgstr "Południowo-centralny"
 
 #. Name for MV-UN
 msgid "Upper North"
-msgstr ""
+msgstr "Górnopółnocny"
 
 #. Name for MV-US
 msgid "Upper South"
-msgstr ""
+msgstr "Górnopołudniowy"
 
 #. Name for MW-BA
 msgid "Balaka"
@@ -12925,14 +12884,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordland"
@@ -12952,6 +12903,10 @@ msgstr "Svalbard (terytorium arktyczne)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (terytorium arktyczne)"
+
+#. Name for NO-50
+msgid "Trøndelag"
+msgstr "Trøndelag"
 
 #. Name for NP-1
 msgid "Madhyamanchal"

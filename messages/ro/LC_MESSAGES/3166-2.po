@@ -9,14 +9,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
 # Andrei POPESCU <andreimpopescu@gmail.com>, 2018.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2018-11-30 15:08+0000\n"
-"Last-Translator: Andrei POPESCU <andreimpopescu@gmail.com>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-04-27 18:11+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/ro/>\n"
 "Language: ro\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 4.0.2\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:02+0000\n"
 
 #. Name for AD-02
@@ -2316,7 +2317,7 @@ msgid "Southern"
 msgstr "Nordhorn"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr ""
 
 #. Name for BY-HM
@@ -2324,23 +2325,23 @@ msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr ""
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr ""
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr ""
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr ""
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr ""
 
 #. Name for BZ-BZ
@@ -5466,7 +5467,7 @@ msgstr ""
 
 #. Name for FR-OCC
 msgid "Occitanie"
-msgstr ""
+msgstr "Occitania"
 
 #. Name for FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"
@@ -13344,14 +13345,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr ""
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr ""
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr ""
-
 #. Name for NO-18
 #, fuzzy
 msgid "Nordland"
@@ -13372,6 +13365,10 @@ msgstr ""
 
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
+msgstr ""
+
+#. Name for NO-50
+msgid "Trøndelag"
 msgstr ""
 
 #. Name for NP-1

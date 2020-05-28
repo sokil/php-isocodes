@@ -8,16 +8,17 @@
 # Taco Witte <tcwitte@cs.uu.nl>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2009-2015, 2017.
-# Pander <pander@users.sourceforge.net>, 2018.
+# Pander <pander@users.sourceforge.net>, 2018, 2020.
 # Nathan Follens <nthn@unseen.is>, 2019.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-01-14 17:21+0000\n"
-"Last-Translator: Nathan Follens <nthn@unseen.is>\n"
+"PO-Revision-Date: 2020-05-19 12:53+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/nl/>\n"
 "Language: nl\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -698,7 +699,7 @@ msgstr ""
 
 #. Name for ags
 msgid "Esimbi"
-msgstr ""
+msgstr "Esimbi"
 
 #. Name for agt
 msgid "Central Cagayan Agta"
@@ -710,7 +711,7 @@ msgstr ""
 
 #. Name for agu
 msgid "Aguacateco"
-msgstr ""
+msgstr "Aguacateken"
 
 #. Name for agv
 msgid "Remontado Dumagat"
@@ -726,7 +727,7 @@ msgstr "Kahua"
 
 #. Name for agx
 msgid "Aghul"
-msgstr ""
+msgstr "Aghul"
 
 #. Name for agy
 msgid "Southern Alta"
@@ -818,7 +819,7 @@ msgstr "Arosi"
 
 #. Name for aib
 msgid "Ainu (China)"
-msgstr ""
+msgstr "Aino (China)"
 
 #. Name for aic
 msgid "Ainbai"
@@ -834,7 +835,7 @@ msgstr "Amara"
 
 #. Name for aif
 msgid "Agi"
-msgstr ""
+msgstr "Agi"
 
 #. Name for aig
 msgid "Antigua and Barbuda Creole English"
@@ -994,7 +995,7 @@ msgstr "Akpa"
 
 #. Name for akg
 msgid "Anakalangu"
-msgstr ""
+msgstr "Anakalangu"
 
 #. Name for akh
 msgid "Angal Heneng"
@@ -2162,7 +2163,7 @@ msgstr ""
 
 #. Name for avu
 msgid "Avokaya"
-msgstr ""
+msgstr "Avokaya"
 
 #. Name for avv
 msgid "Avá-Canoeiro"
@@ -2410,7 +2411,7 @@ msgstr ""
 
 #. Name for ayu
 msgid "Ayu"
-msgstr ""
+msgstr "Ayu"
 
 #. Name for ayy
 msgid "Tayabas Ayta"
@@ -2482,7 +2483,7 @@ msgstr "Nahuatl, Westelijk Durango"
 
 #. Name for azo
 msgid "Awing"
-msgstr ""
+msgstr "Awing"
 
 #. Name for azt
 msgid "Faire Atta"
@@ -6015,19 +6016,16 @@ msgid "Tayo"
 msgstr "Gayo"
 
 #. Name for ckt
-#, fuzzy
 msgid "Chukot"
-msgstr "Tsjoekees"
+msgstr "Tsjoektsjisch"
 
 #. Name for cku
-#, fuzzy
 msgid "Koasati"
-msgstr "Masai"
+msgstr "Coushatta"
 
 #. Name for ckv
-#, fuzzy
 msgid "Kavalan"
-msgstr "Catalaans"
+msgstr "Kavalaans"
 
 #. Name for ckx
 #, fuzzy
@@ -6043,9 +6041,8 @@ msgid "Cakchiquel-Quiché Mixed Language"
 msgstr ""
 
 #. Name for cla
-#, fuzzy
 msgid "Ron"
-msgstr "Roma"
+msgstr "Ron"
 
 #. Name for clc
 msgid "Chilcotin"
@@ -6073,9 +6070,8 @@ msgid "Chilisso"
 msgstr ""
 
 #. Name for cli
-#, fuzzy
 msgid "Chakali"
-msgstr "Chagatai"
+msgstr "Chakali"
 
 #. Name for clj
 #, fuzzy
@@ -6097,9 +6093,8 @@ msgid "Chala"
 msgstr "Catalaans"
 
 #. Name for clm
-#, fuzzy
 msgid "Clallam"
-msgstr "Malayalam"
+msgstr "Klallam"
 
 #. Name for clo
 msgid "Lowland Oaxaca Chontal"
@@ -6120,9 +6115,8 @@ msgid "Chin, Lautu"
 msgstr "Chuang; Zhuang"
 
 #. Name for clu
-#, fuzzy
 msgid "Caluyanun"
-msgstr "Catalaans"
+msgstr "Caluyanun"
 
 #. Name for clw
 msgid "Chulym"
@@ -6137,24 +6131,20 @@ msgid "Chatino, Eastern Highland"
 msgstr ""
 
 #. Name for cma
-#, fuzzy
 msgid "Maa"
-msgstr "Masai"
+msgstr "Maa"
 
 #. Name for cme
-#, fuzzy
 msgid "Cerma"
-msgstr "Duits"
+msgstr "Cerma"
 
 #. Name for cmg
-#, fuzzy
 msgid "Classical Mongolian"
-msgstr "Mongools"
+msgstr "Klassiek Mongools"
 
 #. Inverted name for cmg
-#, fuzzy
 msgid "Mongolian, Classical"
-msgstr "Mongools"
+msgstr "Mongools, Klassiek"
 
 #. Name for cmi
 msgid "Emberá-Chamí"
@@ -8254,9 +8244,8 @@ msgid "Darai"
 msgstr "Dargwa"
 
 #. Name for dsb
-#, fuzzy
 msgid "Lower Sorbian"
-msgstr "Servisch"
+msgstr "Nedersorbisch"
 
 #. Inverted name for dsb
 #, fuzzy
@@ -8664,7 +8653,7 @@ msgstr ""
 
 #. Name for ebu
 msgid "Embu"
-msgstr ""
+msgstr "Embu"
 
 #. Name for ecr
 #, fuzzy
@@ -13110,7 +13099,7 @@ msgstr "Iloko"
 
 #. Name for iqu
 msgid "Iquito"
-msgstr ""
+msgstr "Iquito"
 
 #. Name for iqw
 msgid "Ikwo"
@@ -18263,9 +18252,8 @@ msgid "Lole"
 msgstr ""
 
 #. Name for llh
-#, fuzzy
 msgid "Lamu"
-msgstr "Lao"
+msgstr "Lamu"
 
 #. Name for lli
 msgid "Teke-Laali"
@@ -18389,7 +18377,7 @@ msgstr ""
 #. Name for lmk
 #, fuzzy
 msgid "Lamkang"
-msgstr "Pampanga"
+msgstr "Lamkang"
 
 #. Name for lml
 #, fuzzy
@@ -19715,7 +19703,7 @@ msgstr "Serer"
 
 #. Name for mer
 msgid "Meru"
-msgstr ""
+msgstr "Meru"
 
 #. Name for mes
 #, fuzzy
@@ -23142,9 +23130,8 @@ msgid "Ngando (Central African Republic)"
 msgstr ""
 
 #. Name for nge
-#, fuzzy
 msgid "Ngemba"
-msgstr "Bemba"
+msgstr "Ngemba"
 
 #. Name for ngg
 msgid "Ngbaka Manza"
@@ -23155,9 +23142,8 @@ msgid "N/u"
 msgstr ""
 
 #. Name for ngi
-#, fuzzy
 msgid "Ngizim"
-msgstr "Nzima"
+msgstr "Ngizim"
 
 #. Name for ngj
 #, fuzzy
@@ -29268,9 +29254,8 @@ msgid "Sause"
 msgstr "Susu"
 
 #. Name for saq
-#, fuzzy
 msgid "Samburu"
-msgstr "Nauruaans"
+msgstr "Samburu"
 
 #. Name for sar
 msgid "Saraveca"
@@ -34266,9 +34251,8 @@ msgid "Tututni"
 msgstr ""
 
 #. Name for tuv
-#, fuzzy
 msgid "Turkana"
-msgstr "Turkmeens"
+msgstr "Turkana"
 
 #. Name for tux
 msgid "Tuxináwa"

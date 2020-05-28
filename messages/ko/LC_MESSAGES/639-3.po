@@ -8,14 +8,15 @@
 # JeongHee Kang <Keizi@mail.co.kr>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Eungkyu Song <eungkyu@sparcs.org>, 2001.
+# Shinjo Park <peremen@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-02-04 12:56+0000\n"
-"Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
+"PO-Revision-Date: 2020-04-26 14:35+0000\n"
+"Last-Translator: Shinjo Park <peremen@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/ko/>\n"
 "Language: ko\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.0.2-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -10416,7 +10417,7 @@ msgstr ""
 
 #. Name for gcc
 msgid "Mali"
-msgstr "말리어"
+msgstr "말리"
 
 #. Name for gcd
 #, fuzzy
@@ -22407,7 +22408,7 @@ msgstr ""
 
 #. Name for nau
 msgid "Nauru"
-msgstr "나우루어"
+msgstr "나우루"
 
 #. Name for nav
 msgid "Navajo"
@@ -33685,7 +33686,7 @@ msgstr ""
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "투발루어"
+msgstr "투발루"
 
 #. Name for tvm
 msgid "Tela-Masbuar"

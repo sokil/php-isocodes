@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
 "PO-Revision-Date: 2002-11-13 22:07SAST\n"
 "Last-Translator: Fhatuwani Rambau <fhatuwani@translate.org.za>\n"
 "Language-Team: Venda <venda@translate.org.za>\n"
@@ -2536,8 +2536,9 @@ msgid "Southern"
 msgstr "South Korea"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
-msgstr ""
+#, fuzzy
+msgid "Bresckaja voblasć"
+msgstr "Ivory Coast"
 
 #. Name for BY-HM
 msgid "Horad Minsk"
@@ -2545,24 +2546,28 @@ msgstr ""
 
 #. Name for BY-HO
 #, fuzzy
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Ivory Coast"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
-msgstr ""
+#, fuzzy
+msgid "Hrodzienskaja voblasć"
+msgstr "Ivory Coast"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr ""
+#, fuzzy
+msgid "Mahilioŭskaja voblasć"
+msgstr "Ivory Coast"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
-msgstr ""
+#, fuzzy
+msgid "Minskaja voblasć"
+msgstr "Ivory Coast"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
-msgstr ""
+#, fuzzy
+msgid "Viciebskaja voblasć"
+msgstr "Ivory Coast"
 
 #. Name for BZ-BZ
 msgid "Belize"
@@ -14264,14 +14269,6 @@ msgstr ""
 msgid "Møre og Romsdal"
 msgstr ""
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr ""
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr ""
-
 #. Name for NO-18
 #, fuzzy
 msgid "Nordland"
@@ -14292,6 +14289,10 @@ msgstr ""
 
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
+msgstr ""
+
+#. Name for NO-50
+msgid "Trøndelag"
 msgstr ""
 
 #. Name for NP-1

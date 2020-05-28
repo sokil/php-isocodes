@@ -15,11 +15,11 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
 "PO-Revision-Date: 2019-10-05 09:56+0000\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"iso-codes/iso-3166-2/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2385,7 +2385,9 @@ msgid "Southern"
 msgstr "南方省"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+#, fuzzy
+#| msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "布列斯特州"
 
 #. Name for BY-HM
@@ -2393,23 +2395,33 @@ msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+#, fuzzy
+#| msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "戈梅利州"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+#, fuzzy
+#| msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "格罗德诺州"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+#, fuzzy
+#| msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "莫吉廖夫州"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+#, fuzzy
+#| msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "明斯克州"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+#, fuzzy
+#| msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "维捷布斯克州"
 
 #. Name for BZ-BZ
@@ -13750,16 +13762,6 @@ msgstr "松恩-菲尤拉讷"
 msgid "Møre og Romsdal"
 msgstr "默勒-鲁姆斯达尔"
 
-#. Name for NO-16
-#, fuzzy
-msgid "Sør-Trøndelag"
-msgstr "南特伦德拉格"
-
-#. Name for NO-17
-#, fuzzy
-msgid "Nord-Trøndelag"
-msgstr "北特伦德拉格"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "诺尔兰"
@@ -13780,6 +13782,11 @@ msgstr ""
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr ""
+
+#. Name for NO-50
+#, fuzzy
+msgid "Trøndelag"
+msgstr "南特伦德拉格"
 
 #. Name for NP-1
 #, fuzzy

@@ -9,14 +9,15 @@
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007, 2012, 2016.
 # ssantos <ssantos@web.de>, 2018.
+# J. Lavoie <j.lavoie@net-c.ca>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-12-03 22:13+0000\n"
-"Last-Translator: ssantos <ssantos@web.de>\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
+"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/de/>\n"
 "Language: de\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.4-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -280,7 +281,7 @@ msgstr "Jamo (Alias für die Jamo-Untermenge von Hangul)"
 
 #. Name for Java
 msgid "Javanese"
-msgstr "Javanesisch"
+msgstr "Javanisch"
 
 #. Name for Jpan
 msgid "Japanese (alias for Han + Hiragana + Katakana)"
@@ -424,7 +425,7 @@ msgstr "Meroitische Hieroglyphen"
 
 #. Name for Mlym
 msgid "Malayalam"
-msgstr "Malaysisch"
+msgstr "Malayalam"
 
 #. Name for Modi
 msgid "Modi, Moḍī"
@@ -656,7 +657,7 @@ msgstr "Tamilisch"
 
 #. Name for Tang
 msgid "Tangut"
-msgstr "Tangut"
+msgstr "Tangutisch"
 
 #. Name for Tavt
 msgid "Tai Viet"
@@ -684,7 +685,7 @@ msgstr "Thaana"
 
 #. Name for Thai
 msgid "Thai"
-msgstr "Thailändisch"
+msgstr "Thai"
 
 #. Name for Tibt
 msgid "Tibetan"

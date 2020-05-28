@@ -8,15 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Budi Rachmanto <rac@linux-mandrake.com>, 2001.
 # Andhika Padmawan <andhika.padmawan@gmail.com>, 2011-2012.
-# Andika Triwidada <andika@gmail.com>, 2018, 2019.
+# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-10-06 23:56+0000\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-19 17:52+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/id/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2244,32 +2244,32 @@ msgid "Southern"
 msgstr "Selatan"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
-msgstr "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
+msgstr "Bresckaja voblasć"
 
 #. Name for BY-HM
 msgid "Horad Minsk"
 msgstr "Horad Minsk"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
-msgstr "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
+msgstr "Homieĺskaja voblasć"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
-msgstr "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
+msgstr "Hrodzienskaja voblasć"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
+msgstr "Mahilioŭskaja voblasć"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
-msgstr "Minskaja voblasc'"
+msgid "Minskaja voblasć"
+msgstr "Minskaja voblasć"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
-msgstr "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
+msgstr "Viciebskaja voblasć"
 
 #. Name for BZ-BZ
 msgid "Belize"
@@ -12867,14 +12867,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordland"
@@ -12894,6 +12886,10 @@ msgstr "Svalbard (Arctic Region)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (Arctic Region)"
+
+#. Name for NO-50
+msgid "Trøndelag"
+msgstr "Trøndelag"
 
 #. Name for NP-1
 msgid "Madhyamanchal"

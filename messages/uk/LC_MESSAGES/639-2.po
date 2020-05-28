@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2012-2013, 2015.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010, 2012-2013, 2015, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-26 07:33+0000\n"
+"PO-Revision-Date: 2020-04-05 12:38+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/uk/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -663,7 +663,7 @@ msgstr "гонді"
 
 #. Name for gor
 msgid "Gorontalo"
-msgstr "горонтало"
+msgstr "Горонтало"
 
 #. Name for got
 msgid "Gothic"
@@ -1375,7 +1375,7 @@ msgstr "Папуаські мови"
 
 #. Name for pag
 msgid "Pangasinan"
-msgstr "пангасінан"
+msgstr "Пангасінан"
 
 #. Name for pal
 msgid "Pahlavi"

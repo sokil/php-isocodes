@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
 "PO-Revision-Date: 2008-11-04 23:06+0200\n"
 "Last-Translator: Tommi Vainikainen <Tommi.Vainikainen@iki.fi>\n"
 "Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
@@ -2248,32 +2248,44 @@ msgid "Southern"
 msgstr "Etelä-Carolina"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Bryanskaya oblast'"
+msgid "Bresckaja voblasć"
+msgstr "Brjanskin alue"
 
 #. Name for BY-HM
 msgid "Horad Minsk"
 msgstr ""
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Tomskaya oblast'"
+msgid "Homieĺskaja voblasć"
+msgstr "Tomskin alue"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Penzenskaya oblast'"
+msgid "Hrodzienskaja voblasć"
+msgstr "Penzan alue"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Sakhalinskaya oblast'"
+msgid "Mahilioŭskaja voblasć"
+msgstr "Sahalinin alue"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Murmanskaya oblast'"
+msgid "Minskaja voblasć"
+msgstr "Murmanskin alue"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
-msgstr ""
+#, fuzzy
+#| msgid "Vladimirskaya oblast'"
+msgid "Viciebskaja voblasć"
+msgstr "Vladimirin alue"
 
 #. Name for BZ-BZ
 msgid "Belize"
@@ -12901,14 +12913,6 @@ msgstr "Sogn ja Fjordanen lääni"
 msgid "Møre og Romsdal"
 msgstr "Møre ja Romsdalin lääni"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Etelä-Trøndelagin lääni"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Pohjois-Trøndelagin lääni"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordlandin lääni"
@@ -12928,6 +12932,12 @@ msgstr ""
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr ""
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Sør-Trøndelag"
+msgid "Trøndelag"
+msgstr "Etelä-Trøndelagin lääni"
 
 #. Name for NP-1
 msgid "Madhyamanchal"

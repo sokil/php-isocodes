@@ -13,14 +13,15 @@
 # İsmail Baydan <ibaydan@gmail.com>, 2011.
 # Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015,2018.
 # Oguz Ersen <oguzersen@protonmail.com>, 2019.
+# Oğuz Ersen <oguzersen@protonmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-10-29 10:53+0000\n"
-"Last-Translator: Oguz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2020-01-26 10:21+0000\n"
+"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/tr/>\n"
 "Language: tr\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1\n"
+"X-Generator: Weblate 3.11-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -52,7 +53,7 @@ msgstr "Angola Cumhuriyeti"
 
 #. Name for AIA
 msgid "Anguilla"
-msgstr "Anguila"
+msgstr "Anguilla"
 
 #. Name for ALA
 msgid "Åland Islands"
@@ -108,7 +109,7 @@ msgstr "Fransız Güney Bölgeleri"
 
 #. Name for ATG
 msgid "Antigua and Barbuda"
-msgstr "Antigua-Barbuda"
+msgstr "Antigua ve Barbuda"
 
 #. Name for AUS
 msgid "Australia"
@@ -252,7 +253,7 @@ msgstr "Brunei Krallığı"
 
 #. Name for BTN
 msgid "Bhutan"
-msgstr "Butan"
+msgstr "Bhutan"
 
 #. Official name for BTN
 msgid "Kingdom of Bhutan"
@@ -424,7 +425,7 @@ msgstr "Cibuti Cumhuriyeti"
 
 #. Name for DMA
 msgid "Dominica"
-msgstr "Dominik"
+msgstr "Dominika"
 
 #. Official name for DMA
 msgid "Commonwealth of Dominica"
@@ -452,7 +453,7 @@ msgstr "Cezayir Demokratik Halk Cumhuriyeti"
 
 #. Name for ECU
 msgid "Ecuador"
-msgstr "Ekvator"
+msgstr "Ekvador"
 
 #. Official name for ECU
 msgid "Republic of Ecuador"
@@ -608,7 +609,7 @@ msgstr "Gine-Bissau Cumhuriyeti"
 
 #. Name for GNQ
 msgid "Equatorial Guinea"
-msgstr "Ekvatoral Gine"
+msgstr "Ekvator Ginesi"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
@@ -624,7 +625,7 @@ msgstr "Yunanistan Cumhuriyeti"
 
 #. Name for GRD
 msgid "Grenada"
-msgstr "Granada"
+msgstr "Grenada"
 
 #. Name for GRL
 msgid "Greenland"
@@ -1052,7 +1053,7 @@ msgstr "Moritanya İslâm Cumhuriyeti"
 
 #. Name for MSR
 msgid "Montserrat"
-msgstr "Monserat"
+msgstr "Montserrat"
 
 #. Name for MTQ
 msgid "Martinique"
@@ -1332,11 +1333,11 @@ msgstr "Singapur Cumhuriyeti"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Güney Gürcistan ve Güney Sandwich Adaları"
+msgstr "Güney Georgia ve Güney Sandwich Adaları"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
-msgstr "Saint Helen, Ascension ve Tristan da Cunha"
+msgstr "Saint Helena, Ascension ve Tristan da Cunha"
 
 #. Name for SJM
 msgid "Svalbard and Jan Mayen"
@@ -1668,7 +1669,7 @@ msgstr "Vanuatu Cumhuriyeti"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr "Wallis ve Futuna"
+msgstr "Wallis ve Futuna Adaları"
 
 #. Name for WSM
 msgid "Samoa"

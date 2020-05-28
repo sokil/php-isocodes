@@ -9,21 +9,23 @@
 # Priti Patil <prithisd@gmail.com>, 2007.
 # Sampada Nakhare, 2007.
 # Sandeep Shedmake <sshedmak@redhat.com>, 2009-2010.
+# Prachi Joshi <josprachi@yahoo.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2012-04-28 13:38+0530\n"
-"Last-Translator: sampada <sampadanakhare@gmail.com>\n"
-"Language-Team: Marathi <fedora-trans-mr@redhat.com>\n"
+"PO-Revision-Date: 2020-01-06 12:21+0000\n"
+"Last-Translator: Prachi Joshi <josprachi@yahoo.com>\n"
+"Language-Team: Marathi <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/mr/>\n"
 "Language: mr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.10\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -350,16 +352,12 @@ msgid "Union of the Comoros"
 msgstr "युनियन ऑफ कोमरोस"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "केप व्हर्ड"
+msgstr "काबो व्हर्दे"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "रिपब्लिक ऑफ केप व्हर्ड"
+msgstr "रिपब्लिक ऑफ काबो व्हर्दे"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -399,7 +397,7 @@ msgstr "रिपब्लिक ऑफ सायप्रस"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "झेकिया"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -470,9 +468,8 @@ msgid "Eritrea"
 msgstr "इरित्रीया"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "युनायटेड स्टेटस् ऑफ अमेरिका"
+msgstr "स्टेट ऑफ़ एरिट्रेया"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -595,10 +592,8 @@ msgid "Gambia"
 msgstr "गॅंबिया"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "रिपब्लिक ऑफ झांबिया"
+msgstr "रिपब्लिक ऑफ गांबिया"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -989,16 +984,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "रिपब्लिक ऑफ दि मार्शल आयलॅंडस्"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "न्यू कॅलिडोनिया"
+msgstr "उत्तर मॅसेडोनिया"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "रिपब्लिक ऑफ लिथुआनिया"
+msgstr "उत्तर मॅसेडोनिया प्रजासत्ताक"
 
 #. Name for MLI
 msgid "Mali"
@@ -1225,9 +1216,8 @@ msgid "Papua New Guinea"
 msgstr "पापू न्यू गिनी"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "सामोआ चे स्वतंत्र राज्य"
+msgstr "पापुआ न्यू गिनीचे स्वतंत्र राज्य"
 
 #. Name for POL
 msgid "Poland"
@@ -1267,12 +1257,11 @@ msgstr "रिपब्लिक ऑफ पॅराग्वे"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "पॅलेस्टाईन, राज्य"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "युनायटेड स्टेटस् ऑफ अमेरिका"
+msgstr "पॅलेस्टाईन राज्य"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1383,9 +1372,8 @@ msgid "Somalia"
 msgstr "सोमालिया"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "फेडरल रिपब्लिक ऑफ जर्मनी"
+msgstr "फेडरल रिपब्लिक ऑफ सोमालिया"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1449,13 +1437,11 @@ msgstr "किंगडम ऑफ स्वीडन"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "इस्वातिनी"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "किंगडम ऑफ स्पेन"
+msgstr "ईस्वातिनीचे राज्य"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1579,7 +1565,7 @@ msgstr "युनायटेड रिपब्लिक ऑफ टांझा
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "टांझानिया"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1666,10 +1652,8 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "सोशालिस्ट रिपब्लिक ऑफ व्हिएटनाम"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
-msgstr "व्हिएटनाम"
+msgstr "व्हियेतनाम"
 
 #. Name for VUT
 msgid "Vanuatu"

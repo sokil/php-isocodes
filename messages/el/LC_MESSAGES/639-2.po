@@ -9,16 +9,16 @@
 # Simos Xenitellis <simos@hellug.gr>, 2001.
 # Konstantinos Margaritis <markos@debian.org>, 2004.
 # Athanasios Lefteris <alefteris@gmail.com>, 2008.
-# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2018.
-# THANOS SIOURDAKIS <siourdakisthanos@gmail.com>, 2019.
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2018, 2020.
+# THANOS SIOURDAKIS <siourdakisthanos@gmail.com>, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-06-18 19:05+0000\n"
-"Last-Translator: THANOS SIOURDAKIS <siourdakisthanos@gmail.com>\n"
+"PO-Revision-Date: 2020-02-23 06:33+0000\n"
+"Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/el/>\n"
 "Language: el\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -142,9 +142,8 @@ msgid "Asturian; Bable; Leonese; Asturleonese"
 msgstr ""
 
 #. Name for ath
-#, fuzzy
 msgid "Athapascan languages"
-msgstr "Αθαπάσκαν γλώσσες"
+msgstr "Γλώσσες Αθαπάσκαν"
 
 #. Name for aus
 msgid "Australian languages"
@@ -430,7 +429,6 @@ msgid "Kashubian"
 msgstr ""
 
 #. Name for cus
-#, fuzzy
 msgid "Cushitic languages"
 msgstr "Κουσιτικές γλώσσες"
 
@@ -585,9 +583,8 @@ msgid "Finnish"
 msgstr "Φινλανδικά"
 
 #. Name for fiu
-#, fuzzy
 msgid "Finno-Ugrian languages"
-msgstr "Finno-Ugrian γλώσσες"
+msgstr "Φιννοουγγρικές γλώσσες"
 
 #. Name for fon
 msgid "Fon"
@@ -639,7 +636,6 @@ msgid "Gbaya"
 msgstr ""
 
 #. Name for gem
-#, fuzzy
 msgid "Germanic languages"
 msgstr "Γερμανικές γλώσσες"
 
@@ -818,7 +814,6 @@ msgid "Interlingua (International Auxiliary Language Association)"
 msgstr "Ιντερλίνγκουα (Διεθνής Ένωση Βοηθητικής Γλώσσας IALA)"
 
 #. Name for inc
-#, fuzzy
 msgid "Indic languages"
 msgstr "Ινδικές γλώσσες"
 
@@ -1130,9 +1125,8 @@ msgid "Mandingo"
 msgstr ""
 
 #. Name for map
-#, fuzzy
 msgid "Austronesian languages"
-msgstr "Αυστραλονησιακές γλώσσες"
+msgstr "Αυστρονησιακές γλώσσες"
 
 #. Name for mar
 msgid "Marathi"
@@ -1407,7 +1401,7 @@ msgstr ""
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr "Παπούα γλώσσες"
+msgstr "Γλώσσες Παπούα"
 
 #. Name for pag
 msgid "Pangasinan"

@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
-# Yuri Chornoivan <yurchor@ukr.net>, 2010-2015, 2019.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010-2015, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-10-05 09:56+0000\n"
+"PO-Revision-Date: 2020-04-05 12:38+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/uk/>\n"
@@ -21,9 +21,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1063,7 +1063,7 @@ msgstr "ака-кол"
 
 #. Name for akz
 msgid "Alabama"
-msgstr "алабама"
+msgstr "Алабама"
 
 #. Name for ala
 msgid "Alago"
@@ -2007,7 +2007,7 @@ msgstr "анейтьюм"
 
 #. Name for atz
 msgid "Arta"
-msgstr "арта"
+msgstr "Арта"
 
 #. Name for aua
 msgid "Asumboa"
@@ -2955,7 +2955,7 @@ msgstr "бенабена"
 
 #. Name for beg
 msgid "Belait"
-msgstr "белайт"
+msgstr "Белайт"
 
 #. Name for beh
 msgid "Biali"
@@ -2967,7 +2967,7 @@ msgstr "бекаті"
 
 #. Name for bej
 msgid "Beja"
-msgstr "бежа"
+msgstr "Бежа"
 
 #. Name for bek
 msgid "Bebeli"
@@ -3043,7 +3043,7 @@ msgstr "бена (Танзанія)"
 
 #. Name for bfa
 msgid "Bari"
-msgstr "барі"
+msgstr "Барі"
 
 #. Name for bfb
 msgid "Pauri Bareli"
@@ -4483,7 +4483,7 @@ msgstr "вуші"
 
 #. Name for bsf
 msgid "Bauchi"
-msgstr "баучі"
+msgstr "Баучі"
 
 #. Name for bsg
 msgid "Bashkardi"
@@ -5527,7 +5527,7 @@ msgstr "карабайо"
 
 #. Name for cca
 msgid "Cauca"
-msgstr "каука"
+msgstr "Каука"
 
 #. Name for ccc
 msgid "Chamicuro"
@@ -6291,7 +6291,7 @@ msgstr "корегуахе"
 
 #. Name for cof
 msgid "Colorado"
-msgstr "колорадо"
+msgstr "Колорадо"
 
 #. Name for cog
 msgid "Chong"
@@ -7887,7 +7887,7 @@ msgstr "дому"
 
 #. Name for doh
 msgid "Dong"
-msgstr "донг"
+msgstr "Донг"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -8703,7 +8703,7 @@ msgstr "енггано"
 
 #. Name for enq
 msgid "Enga"
-msgstr "енга"
+msgstr "Енга"
 
 #. Name for enr
 msgid "Emumu"
@@ -9883,7 +9883,7 @@ msgstr "гафат"
 
 #. Name for gga
 msgid "Gao"
-msgstr "гао"
+msgstr "Гао"
 
 #. Name for ggb
 msgid "Gbii"
@@ -10431,7 +10431,7 @@ msgstr "горап"
 
 #. Name for gor
 msgid "Gorontalo"
-msgstr "горонтало"
+msgstr "Горонтало"
 
 #. Name for gos
 msgid "Gronings"
@@ -11035,7 +11035,7 @@ msgstr "гупла"
 
 #. Name for haq
 msgid "Ha"
-msgstr "хаа"
+msgstr "Хаа"
 
 #. Name for har
 msgid "Harari"
@@ -13247,7 +13247,7 @@ msgstr "кабильська"
 
 #. Name for kac
 msgid "Kachin"
-msgstr "качин"
+msgstr "Качин"
 
 #. Name for kad
 msgid "Adara"
@@ -13959,7 +13959,7 @@ msgstr "кобол"
 
 #. Name for kgv
 msgid "Karas"
-msgstr "карас"
+msgstr "Карас"
 
 #. Name for kgw
 msgid "Karon Dori"
@@ -16195,7 +16195,7 @@ msgstr "ладіно"
 
 #. Name for lae
 msgid "Pattani"
-msgstr "паттані"
+msgstr "Паттані"
 
 #. Name for laf
 msgid "Lafofa"
@@ -16391,7 +16391,7 @@ msgstr "легеньєм"
 
 #. Name for lcd
 msgid "Lola"
-msgstr "лола"
+msgstr "Лола"
 
 #. Name for lce
 msgid "Loncong"
@@ -17323,7 +17323,7 @@ msgstr "лоаркі"
 
 #. Name for lrl
 msgid "Lari"
-msgstr "ларі"
+msgstr "Ларі"
 
 #. Name for lrm
 msgid "Marama"
@@ -18143,7 +18143,7 @@ msgstr "ікобі"
 
 #. Name for mec
 msgid "Mara"
-msgstr "мара"
+msgstr "Мара"
 
 #. Name for med
 msgid "Melpa"
@@ -18355,7 +18355,7 @@ msgstr "мело"
 
 #. Name for mfy
 msgid "Mayo"
-msgstr "майо"
+msgstr "Майо"
 
 #. Name for mfz
 msgid "Mabaan"
@@ -19903,7 +19903,7 @@ msgstr "матор"
 
 #. Name for mtn
 msgid "Matagalpa"
-msgstr "матагальпа"
+msgstr "Матагальпа"
 
 #. Name for mto
 msgid "Totontepec Mixe"
@@ -20163,7 +20163,7 @@ msgstr "мурут (тагал)"
 
 #. Name for mvw
 msgid "Machinga"
-msgstr "мачінга"
+msgstr "Мачінга"
 
 #. Name for mvx
 msgid "Meoswar"
@@ -22367,7 +22367,7 @@ msgstr "нгом"
 
 #. Name for nrb
 msgid "Nara"
-msgstr "нара"
+msgstr "Нара"
 
 #. Name for nrc
 msgid "Noric"
@@ -22923,7 +22923,7 @@ msgstr "ама (Судан)"
 
 #. Name for nyj
 msgid "Nyanga"
-msgstr "н’янга"
+msgstr "Н’янга"
 
 #. Name for nyk
 msgid "Nyaneka"
@@ -23947,7 +23947,7 @@ msgstr "паранават"
 
 #. Name for pag
 msgid "Pangasinan"
-msgstr "пангасінан"
+msgstr "Пангасінан"
 
 #. Name for pah
 msgid "Tenharim"
@@ -23967,7 +23967,7 @@ msgstr "пехлевійська"
 
 #. Name for pam
 msgid "Pampanga"
-msgstr "пампанга"
+msgstr "Пампанга"
 
 #. Name for pan
 msgid "Panjabi"
@@ -26271,7 +26271,7 @@ msgstr "ракаханга-маніхікі"
 
 #. Name for rki
 msgid "Rakhine"
-msgstr "ракхайн"
+msgstr "Ракхайн"
 
 #. Name for rkm
 msgid "Marka"
@@ -26715,7 +26715,7 @@ msgstr "разіхі"
 
 #. Name for saa
 msgid "Saba"
-msgstr "саба"
+msgstr "Саба"
 
 #. Name for sab
 msgid "Buglere"
@@ -26847,7 +26847,7 @@ msgstr "сорі-харенган"
 
 #. Name for sbi
 msgid "Seti"
-msgstr "сетхі"
+msgstr "Сетхі"
 
 #. Name for sbj
 msgid "Surbakhal"
@@ -27883,7 +27883,7 @@ msgstr "сімбарі"
 
 #. Name for smc
 msgid "Som"
-msgstr "сом"
+msgstr "Сом"
 
 #. Name for smd
 msgid "Sama"
@@ -28187,7 +28187,7 @@ msgstr "тайська (південна)"
 
 #. Name for sov
 msgid "Sonsorol"
-msgstr "сонсорол"
+msgstr "Сонсорол"
 
 #. Name for sow
 msgid "Sowanda"
@@ -29147,7 +29147,7 @@ msgstr "таманґ (східна)"
 
 #. Name for tak
 msgid "Tala"
-msgstr "тала"
+msgstr "Тала"
 
 #. Name for tal
 msgid "Tal"
@@ -31011,7 +31011,7 @@ msgstr "туотомб"
 
 #. Name for ttg
 msgid "Tutong"
-msgstr "тутонг"
+msgstr "Тутонг"
 
 #. Name for tth
 msgid "Upper Ta'oih"
@@ -32043,7 +32043,7 @@ msgstr "уолісська (західна)"
 
 #. Name for uvh
 msgid "Uri"
-msgstr "урі"
+msgstr "Урі"
 
 #. Name for uvl
 msgid "Lote"
@@ -33967,7 +33967,7 @@ msgstr "каамба"
 
 #. Name for xkv
 msgid "Kgalagadi"
-msgstr "кгалагаді"
+msgstr "Кгалагаді"
 
 #. Name for xkw
 msgid "Kembra"
@@ -34963,7 +34963,7 @@ msgstr "локаа"
 
 #. Name for yba
 msgid "Yala"
-msgstr "йала"
+msgstr "Йала"
 
 #. Name for ybb
 msgid "Yemba"
@@ -35419,7 +35419,7 @@ msgstr "ямонгері"
 
 #. Name for ymh
 msgid "Mili"
-msgstr "мілі"
+msgstr "Мілі"
 
 #. Name for ymi
 msgid "Moji"
@@ -36519,7 +36519,7 @@ msgstr "зоке (чималапа)"
 
 #. Name for zom
 msgid "Zou"
-msgstr "зу"
+msgstr "Зу"
 
 #. Name for zoo
 msgid "Asunción Mixtepec Zapotec"

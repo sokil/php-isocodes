@@ -10,14 +10,16 @@
 # Hendrik Knackstedt <hendrik.knackstedt@t-online.de>, 2012.
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
 # Dr. Tobias Quathamer <toddy@debian.org>, 2012, 2016-2018, 2019.
+# J. Lavoie <j.lavoie@net-c.ca>, 2020.
+# Serge Karpesh <skarpiesz@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-07-03 14:57+0100\n"
-"Last-Translator: Dr. Tobias Quathamer <toddy@debian.org>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
+"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/de/>\n"
 "Language: de\n"
@@ -25,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2244,7 +2246,9 @@ msgid "Southern"
 msgstr "Süd"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+#, fuzzy
+#| msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "Brest"
 
 #. Name for BY-HM
@@ -2252,24 +2256,28 @@ msgid "Horad Minsk"
 msgstr "Stadt Minsk"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+#, fuzzy
+#| msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Homel"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+#, fuzzy
+#| msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "Hrodna"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr "Majiljou"
+msgid "Mahilioŭskaja voblasć"
+msgstr "Mahiliou"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "Minsk"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
-msgstr "Wizebsk"
+msgid "Viciebskaja voblasć"
+msgstr "Brest"
 
 #. Name for BZ-BZ
 msgid "Belize"
@@ -12909,14 +12917,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordland"
@@ -12936,6 +12936,12 @@ msgstr "Svalbard (Arktische Region)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (Arktische Region)"
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Sør-Trøndelag"
+msgid "Trøndelag"
+msgstr "Sør-Trøndelag"
 
 #. Name for NP-1
 msgid "Madhyamanchal"
@@ -18135,7 +18141,7 @@ msgstr "Florida"
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr "Georgia"
+msgstr "Georgien"
 
 #. Name for US-GU
 msgid "Guam"

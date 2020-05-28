@@ -9,14 +9,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Jacobo Tarrío <jtarrio@debian.org>, 2005-2008.
 # Jorge Barreiro <yortx.barry@gmail.com>, 2010, 2012-2014.
+# Miguel Gonzalez <migonzalvar@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-01-01 15:06+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2020-03-16 20:36+0000\n"
+"Last-Translator: Miguel Gonzalez <migonzalvar@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/gl/>\n"
 "Language: gl\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.0-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -400,7 +401,7 @@ msgstr "República de Chipre"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Chequia"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -1446,7 +1447,7 @@ msgstr "Reino de Suecia"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Suacilandia"
 
 #. Official name for SWZ
 #, fuzzy

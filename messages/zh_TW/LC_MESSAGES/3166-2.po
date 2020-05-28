@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
 "PO-Revision-Date: 2019-01-13 17:07+0000\n"
 "Last-Translator: Louies <louies0623@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
@@ -2745,7 +2745,7 @@ msgstr "南方"
 
 #. Name for BY-BR
 #, fuzzy
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "Brèsckaja voblasc'"
 
 #. Name for BY-HM
@@ -2755,27 +2755,27 @@ msgstr "Horad Minsk"
 
 #. Name for BY-HO
 #, fuzzy
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Homel『skaja voblasc』"
 
 #. Name for BY-HR
 #, fuzzy
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "Hrodzenskaja voblasc'"
 
 #. Name for BY-MA
 #, fuzzy
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "Mahilëuskaja voblasc'"
 
 #. Name for BY-MI
 #, fuzzy
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "Minskaja voblasc'"
 
 #. Name for BY-VI
 #, fuzzy
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "Vicebskaja voblasc'"
 
 #. Name for BZ-BZ
@@ -15776,16 +15776,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Mø re og Romsdal"
 
-#. Name for NO-16
-#, fuzzy
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-#. Name for NO-17
-#, fuzzy
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 #. Name for NO-18
 #, fuzzy
 msgid "Nordland"
@@ -15810,6 +15800,11 @@ msgstr "Svalbard (Arctic 區域)"
 #, fuzzy
 msgid "Jan Mayen (Arctic Region)"
 msgstr "一月 Mayen (Arctic 區域)"
+
+#. Name for NO-50
+#, fuzzy
+msgid "Trøndelag"
+msgstr "Sør-Trøndelag"
 
 #. Name for NP-1
 #, fuzzy

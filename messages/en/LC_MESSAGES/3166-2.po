@@ -6,14 +6,17 @@
 # .
 # Copyright ©
 # Osoitz <oelkoro@gmail.com>, 2019.
+# Jennifer Maldonado <maldoheff69@gmail.com>, 2019.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2020.
+# Serge Karpesh <skarpiesz@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-08-01 05:13+0000\n"
-"Last-Translator: Osoitz <oelkoro@gmail.com>\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-22 13:41+0000\n"
+"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/en/>\n"
 "Language: en\n"
@@ -21,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -44,8 +47,9 @@ msgid "Sant Julià de Lòria"
 msgstr ""
 
 #. Name for AD-07
+#, fuzzy
 msgid "Andorra la Vella"
-msgstr ""
+msgstr "Andorra la Vella"
 
 #. Name for AD-08
 msgid "Escaldes-Engordany"
@@ -2474,32 +2478,32 @@ msgid "Southern"
 msgstr "South"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
-msgstr "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
+msgstr "Bresckaja voblasć"
 
 #. Name for BY-HM
 msgid "Horad Minsk"
-msgstr ""
+msgstr "Horad Minsk"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
-msgstr "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
+msgstr "Homieĺskaja voblasć"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
-msgstr "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
+msgstr "Hrodzienskaja voblasć"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
-msgstr "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
+msgstr "Mahilioŭskaja voblasć"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
-msgstr "Minskaja voblasc'"
+msgid "Minskaja voblasć"
+msgstr "Minskaja voblasć"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
-msgstr "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
+msgstr "Viciebskaja voblasć"
 
 #. Name for BZ-BZ
 msgid "Belize"
@@ -5774,9 +5778,8 @@ msgid "Martinique"
 msgstr "Marinduque"
 
 #. Name for FR-NAQ
-#, fuzzy
 msgid "Nouvelle-Aquitaine"
-msgstr "Vitanje"
+msgstr "New Aquitania"
 
 #. Name for FR-NC
 msgid "Nouvelle-Calédonie"
@@ -5788,10 +5791,8 @@ msgid "Normandie"
 msgstr "Haute-Corse"
 
 #. Name for FR-OCC
-#, fuzzy
-#| msgid "Vitanje"
 msgid "Occitanie"
-msgstr "Vitanje"
+msgstr "Occitania"
 
 #. Name for FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"
@@ -13997,16 +13998,6 @@ msgstr "Sogn og Fjordane"
 msgid "Møre og Romsdal"
 msgstr "Mire og Romsdal"
 
-#. Name for NO-16
-#, fuzzy
-msgid "Sør-Trøndelag"
-msgstr "Sir-Trindelag"
-
-#. Name for NO-17
-#, fuzzy
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trindelag"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordland"
@@ -14027,6 +14018,11 @@ msgstr ""
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr ""
+
+#. Name for NO-50
+#, fuzzy
+msgid "Trøndelag"
+msgstr "Sir-Trindelag"
 
 #. Name for NP-1
 #, fuzzy

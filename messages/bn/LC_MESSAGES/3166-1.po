@@ -6,20 +6,23 @@
 # .
 # Copyright ©
 # Nasir Khan <nasir.khan@bdosn.org>, 2013.
+# Oymate <dhruboadittya96@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2013-12-12 16:56+0600\n"
-"Last-Translator: Nasir Khan <nasir.khan@bdosn.org>\n"
-"Language-Team: Bengali <(nothing)>\n"
+"PO-Revision-Date: 2020-05-10 12:40+0000\n"
+"Last-Translator: Oymate <dhruboadittya96@gmail.com>\n"
+"Language-Team: Bengali <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -346,16 +349,12 @@ msgid "Union of the Comoros"
 msgstr "সংযুক্ত কোমোরোস"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "কেপ ভার্ডি"
+msgstr "কেবো ভার্ডে"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "কেপ ভার্ডি প্রজাতন্ত্র"
+msgstr "কেবো ভার্ডে প্রজাতন্ত্র"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -395,7 +394,7 @@ msgstr "সাইপ্রাস প্রজাতন্ত্র"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "চেকিয়া"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -590,10 +589,8 @@ msgid "Gambia"
 msgstr "গাম্বিয়া"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "জাম্বিয়া প্রজাতন্ত্র"
+msgstr "গাম্বিয়া প্রজাতন্ত্র"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -984,16 +981,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "মার্শাল দ্বীপপুঞ্জ প্রজাতন্ত্র"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "নিউ ক্যালেডোনিয়া"
+msgstr "উত্তর ম্যাসেডোনিয়া"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "লিথুয়ানিয়া প্রজাতন্ত্র"
+msgstr "উত্তর ম্যাসেডোনিয়া প্রজাতন্ত্র"
 
 #. Name for MLI
 msgid "Mali"
@@ -1441,13 +1434,11 @@ msgstr "সুইডেন রাজ্য"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "এসওয়াতিনি"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "স্পেন রাজ্য"
+msgstr "এসওয়াতিনি রাজ্য"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1571,7 +1562,7 @@ msgstr "সংযুক্ত প্রজাতন্ত্র তানজা�
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "তানজানিয়া"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1658,8 +1649,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "সমাজতান্ত্রিক প্রজাতন্ত্র ভিয়েতনাম"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "ভিয়েতনাম"
 

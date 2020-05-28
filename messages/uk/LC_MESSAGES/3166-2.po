@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Maxim V. Dziumanenko <dziumanenko@gmail.com>, 2010.
-# Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2016, 2018, 2019.
+# Yuri Chornoivan <yurchor@ukr.net>, 2010-2013, 2016, 2018, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-10-05 09:56+0000\n"
+"POT-Creation-Date: 2020-05-19 14:57+0200\n"
+"PO-Revision-Date: 2020-05-19 17:52+0000\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/uk/>\n"
@@ -21,9 +21,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
-"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.1-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2242,7 +2242,7 @@ msgid "Southern"
 msgstr "Південний округ"
 
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "Брестська область"
 
 #. Name for BY-HM
@@ -2250,23 +2250,23 @@ msgid "Horad Minsk"
 msgstr "Місто Мінськ"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Homieĺskaja voblasć"
 msgstr "Гомельська область"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Hrodzienskaja voblasć"
 msgstr "Гродненська область"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "Могилівська область"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja voblasć"
 msgstr "Мінська область"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "Вітебська область"
 
 #. Name for BZ-BZ
@@ -12869,14 +12869,6 @@ msgstr "Согн-о-Фьйордане"
 msgid "Møre og Romsdal"
 msgstr "Мьоре-о-Румсдал"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Південний Трьонделаг"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Північний Трьонделаг"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Нурланд"
@@ -12896,6 +12888,10 @@ msgstr "Шпіцберген (Арктичний регіон)"
 #. Name for NO-22
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Ян-Маєн (Арктичний регіон)"
+
+#. Name for NO-50
+msgid "Trøndelag"
+msgstr "Трьонделаг"
 
 #. Name for NP-1
 msgid "Madhyamanchal"
