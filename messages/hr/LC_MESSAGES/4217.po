@@ -17,8 +17,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-04-10 11:59+0000\n"
-"Last-Translator: gogogogi <trebelnik2@gmail.com>\n"
+"PO-Revision-Date: 2020-08-23 21:36+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/hr/>\n"
 "Language: hr\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.2.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -473,7 +473,7 @@ msgstr "Poljski zlot"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "Paragvajski gvarani"
+msgstr "Guarani"
 
 #. Name for QAR
 msgid "Qatari Rial"

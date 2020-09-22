@@ -13,8 +13,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2020-04-11 00:10+0000\n"
-"Last-Translator: gogogogi <trebelnik2@gmail.com>\n"
+"PO-Revision-Date: 2020-09-17 19:36+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/hr/>\n"
 "Language: hr\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -8363,7 +8363,7 @@ msgstr ""
 
 #. Name for IT-RM
 msgid "Roma"
-msgstr "Rim"
+msgstr "Romski"
 
 #. Name for IT-RN
 msgid "Rimini"
@@ -12886,10 +12886,8 @@ msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (arktička regija)"
 
 #. Name for NO-50
-#, fuzzy
-#| msgid "Sør-Trøndelag"
 msgid "Trøndelag"
-msgstr "Južni Trøndelag"
+msgstr "Trøndelag"
 
 #. Name for NP-1
 msgid "Madhyamanchal"
@@ -13641,7 +13639,7 @@ msgstr ""
 
 #. Name for PH-PAN
 msgid "Pangasinan"
-msgstr ""
+msgstr "Pangasinanski"
 
 #. Name for PH-PLW
 msgid "Palawan"

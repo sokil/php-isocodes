@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-04-07 05:25+0000\n"
+"PO-Revision-Date: 2020-08-23 21:36+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/hr/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.2.1-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -58,7 +58,7 @@ msgstr "Armensko"
 
 #. Name for Avst
 msgid "Avestan"
-msgstr "Avestanski"
+msgstr "Avestansko"
 
 #. Name for Bali
 msgid "Balinese"
@@ -102,7 +102,7 @@ msgstr "Brajica"
 
 #. Name for Bugi
 msgid "Buginese"
-msgstr "Lontara (Bugis)"
+msgstr "Bugisko"
 
 #. Name for Buhd
 msgid "Buhid"
@@ -318,7 +318,7 @@ msgstr "Khitan malo pismo"
 
 #. Name for Knda
 msgid "Kannada"
-msgstr "kannada"
+msgstr "Kannada"
 
 #. Name for Kore
 msgid "Korean (alias for Hangul + Han)"
@@ -338,7 +338,7 @@ msgstr "Tai Tham (Lanna)"
 
 #. Name for Laoo
 msgid "Lao"
-msgstr "Laoško"
+msgstr "Laoški"
 
 #. Name for Latf
 msgid "Latin (Fraktur variant)"

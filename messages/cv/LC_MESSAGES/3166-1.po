@@ -5,14 +5,15 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
+# İlle <derasetad@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2017-12-28 02:35+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2020-07-04 17:41+0000\n"
+"Last-Translator: İlle <derasetad@gmail.com>\n"
 "Language-Team: Chuvash <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/cv/>\n"
 "Language: cv\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -28,11 +29,11 @@ msgstr "Аруба"
 
 #. Name for AFG
 msgid "Afghanistan"
-msgstr "АфгIанистан"
+msgstr "Афганистан"
 
 #. Official name for AFG
 msgid "Islamic Republic of Afghanistan"
-msgstr ""
+msgstr "Афганистан Ислам Республики"
 
 #. Name for AGO
 msgid "Angola"
@@ -188,7 +189,7 @@ msgstr ""
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
-msgstr "Босни а Герцеговина"
+msgstr "Боснипа Герцеговина"
 
 #. Official name for BIH
 msgid "Republic of Bosnia and Herzegovina"

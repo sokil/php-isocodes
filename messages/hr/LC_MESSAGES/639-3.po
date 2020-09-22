@@ -16,8 +16,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-04-11 00:09+0000\n"
-"Last-Translator: gogogogi <trebelnik2@gmail.com>\n"
+"PO-Revision-Date: 2020-09-17 19:36+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/hr/>\n"
 "Language: hr\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -1314,7 +1314,7 @@ msgstr "Staroengleski (oko 450.-1100.)"
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "Engleski, stari (oko 450.-1100.)"
+msgstr "Engleski, stari (oko 450. – 1100.)"
 
 #. Name for anh
 msgid "Nend"
@@ -2122,7 +2122,7 @@ msgstr ""
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestički"
+msgstr "Avestansko"
 
 #. Name for avi
 msgid "Avikam"
@@ -2546,7 +2546,7 @@ msgstr "Baludžijski"
 
 #. Name for bam
 msgid "Bambara"
-msgstr "Bamanankan"
+msgstr "Bambara"
 
 #. Name for ban
 msgid "Balinese"
@@ -3234,9 +3234,7 @@ msgstr "Istočnobaludžijski"
 
 #. Inverted name for bgp
 msgid "Balochi, Eastern"
-msgstr ""
-"Baludžijski, istočni\n"
-"i"
+msgstr "Baludžijski, istočni"
 
 #. Name for bgq
 msgid "Bagri"
@@ -4704,7 +4702,7 @@ msgstr ""
 
 #. Name for bug
 msgid "Buginese"
-msgstr "Bugis"
+msgstr "Bugisko"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -8028,7 +8026,7 @@ msgstr ""
 
 #. Name for dsb
 msgid "Lower Sorbian"
-msgstr "Donjolužički srpski"
+msgstr "Donjolužički"
 
 #. Inverted name for dsb
 msgid "Sorbian, Lower"
@@ -9272,7 +9270,7 @@ msgstr ""
 
 #. Name for frr
 msgid "Northern Frisian"
-msgstr "Sjevernofrizijski"
+msgstr "Sjeverni frizijski"
 
 #. Inverted name for frr
 msgid "Frisian, Northern"
@@ -9280,7 +9278,7 @@ msgstr "Frizijski, sjeverni"
 
 #. Name for frs
 msgid "Eastern Frisian"
-msgstr "Istočnofrizijski"
+msgstr "Istočni frizijski"
 
 #. Inverted name for frs
 msgid "Frisian, Eastern"
@@ -9292,7 +9290,7 @@ msgstr ""
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr "Zapadnofrizijski"
+msgstr "Zapadni frizijski"
 
 #. Inverted name for fry
 msgid "Frisian, Western"
@@ -10392,7 +10390,7 @@ msgstr "Stari visokonjemački (cca. 750.-1050.)"
 
 #. Inverted name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Njemački, stari visoki (cca. 750.-1050.)"
+msgstr "Njemački, stari gornji (oko 750. – 1050.)"
 
 #. Name for goi
 msgid "Gobasi"
@@ -11668,7 +11666,7 @@ msgstr ""
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Gornjolužičko srpski"
+msgstr "Gornjolužički"
 
 #. Inverted name for hsb
 msgid "Sorbian, Upper"
@@ -13108,7 +13106,7 @@ msgstr "Japanski"
 
 #. Name for jpr
 msgid "Judeo-Persian"
-msgstr "Judeoperzijski"
+msgstr "Judeo-perzijski"
 
 #. Name for jqr
 msgid "Jaqaru"
@@ -13120,7 +13118,7 @@ msgstr ""
 
 #. Name for jrb
 msgid "Judeo-Arabic"
-msgstr "Judeoarapski"
+msgstr "Judeo-arapski"
 
 #. Name for jrr
 msgid "Jiru"
@@ -14036,7 +14034,7 @@ msgstr ""
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr "Kmerski"
+msgstr "Centralni kmerski"
 
 #. Inverted name for khm
 msgid "Khmer, Central"
@@ -16268,7 +16266,7 @@ msgstr ""
 
 #. Name for lav
 msgid "Latvian"
-msgstr "Iatvijski"
+msgstr "Latvijski"
 
 #. Name for law
 msgid "Lauje"
@@ -18692,7 +18690,7 @@ msgstr ""
 
 #. Name for mis
 msgid "Uncoded languages"
-msgstr "Nekôdirani jezici"
+msgstr "Nekodirani jezici"
 
 #. Name for mit
 msgid "Southern Puebla Mixtec"
@@ -22212,7 +22210,7 @@ msgstr "Stari norveški"
 
 #. Inverted name for non
 msgid "Norse, Old"
-msgstr "Staronorveški"
+msgstr "Norveški, stari"
 
 #. Name for nop
 msgid "Numanggang"
@@ -24432,7 +24430,7 @@ msgstr ""
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Fenički"
+msgstr "Feničko"
 
 #. Name for pho
 msgid "Phunoi"
@@ -26356,7 +26354,7 @@ msgstr "Romski, baltijski"
 
 #. Name for rmm
 msgid "Roma"
-msgstr ""
+msgstr "Romski"
 
 #. Name for rmn
 msgid "Balkan Romani"
@@ -27876,7 +27874,7 @@ msgstr ""
 
 #. Name for sma
 msgid "Southern Sami"
-msgstr "Južnolaponski"
+msgstr "Južni laponski"
 
 #. Inverted name for sma
 msgid "Sami, Southern"
@@ -27896,7 +27894,7 @@ msgstr ""
 
 #. Name for sme
 msgid "Northern Sami"
-msgstr "Sjevernolaponski"
+msgstr "Sjeverni laponski"
 
 #. Inverted name for sme
 msgid "Sami, Northern"
@@ -27916,7 +27914,7 @@ msgstr ""
 
 #. Name for smj
 msgid "Lule Sami"
-msgstr "Lulejskolaponski"
+msgstr "Lulejski laponski"
 
 #. Name for smk
 msgid "Bolinao"
@@ -27936,7 +27934,7 @@ msgstr ""
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr "Inarijskolaponski"
+msgstr "Inarijski laponski"
 
 #. Inverted name for smn
 msgid "Sami, Inari"
@@ -27960,7 +27958,7 @@ msgstr ""
 
 #. Name for sms
 msgid "Skolt Sami"
-msgstr "Skoltskolaponski"
+msgstr "Skoltski laponski"
 
 #. Inverted name for sms
 msgid "Sami, Skolt"

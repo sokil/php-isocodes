@@ -10,14 +10,15 @@
 # Nilgün Belma Bugüner <nilgun@fide.org>, 2001.
 # Oguz Ersen <oguzersen@protonmail.com>, 2019.
 # Oğuz Ersen <oguzersen@protonmail.com>, 2019.
+# EminUZUN <eminuzunn@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2019-12-29 13:27+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2020-08-11 14:33+0000\n"
+"Last-Translator: EminUZUN <eminuzunn@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/tr/>\n"
 "Language: tr\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -641,11 +642,11 @@ msgstr "Wien"
 
 #. Name for AU-ACT
 msgid "Australian Capital Territory"
-msgstr ""
+msgstr "Avustralya Başkent Bölgesi"
 
 #. Name for AU-NSW
 msgid "New South Wales"
-msgstr ""
+msgstr "Yeni Güney Galler"
 
 #. Name for AU-NT
 msgid "Northern Territory"
@@ -673,7 +674,7 @@ msgstr "Batı Avustralya"
 
 #. Name for AZ-ABS
 msgid "Abşeron"
-msgstr ""
+msgstr "Abşeron"
 
 #. Name for AZ-AGA
 msgid "Ağstafa"
@@ -681,7 +682,7 @@ msgstr "Ağstafa"
 
 #. Name for AZ-AGC
 msgid "Ağcabədi"
-msgstr ""
+msgstr "Ağcabedi"
 
 #. Name for AZ-AGM
 msgid "Ağdam"
@@ -689,11 +690,11 @@ msgstr "Ağdam"
 
 #. Name for AZ-AGS
 msgid "Ağdaş"
-msgstr ""
+msgstr "Ağdaş"
 
 #. Name for AZ-AGU
 msgid "Ağsu"
-msgstr ""
+msgstr "Ağsu"
 
 #. Name for AZ-AST
 msgid "Astara"
@@ -2309,7 +2310,7 @@ msgstr "Manitoba"
 
 #. Name for CA-NB
 msgid "New Brunswick"
-msgstr "New Brunswick"
+msgstr "Yeni Brunswick"
 
 #. Name for CA-NL
 msgid "Newfoundland and Labrador"
@@ -6329,7 +6330,7 @@ msgstr "Central River"
 
 #. Name for GM-N
 msgid "North Bank"
-msgstr "North Bank"
+msgstr "Kuzey Kıyısı"
 
 #. Name for GM-U
 msgid "Upper River"

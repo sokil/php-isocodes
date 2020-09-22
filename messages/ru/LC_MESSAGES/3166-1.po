@@ -10,14 +10,15 @@
 # Pavel Maryanov <acid_jack@ukr.net>, 2009.
 # Yuri Kozlov <yuray@komyakino.ru>, 2004, 2006-2013, 2015.
 # yurayko <yuray@komyakino.ru>, 2018.
+# Artem <KovalevArtem.ru@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-08-08 16:36+0500\n"
-"Last-Translator: yurayko <yuray@komyakino.ru>\n"
+"PO-Revision-Date: 2020-09-08 08:36+0000\n"
+"Last-Translator: Artem <KovalevArtem.ru@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ru/>\n"
 "Language: ru\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -346,7 +347,7 @@ msgstr "Республика Колумбия"
 
 #. Name for COM
 msgid "Comoros"
-msgstr "Коморские острова"
+msgstr "Коморы"
 
 #. Official name for COM
 msgid "Union of the Comoros"
@@ -798,7 +799,7 @@ msgstr "Республика Кения"
 
 #. Name for KGZ
 msgid "Kyrgyzstan"
-msgstr "Кыргызстан"
+msgstr "Киргизия"
 
 #. Official name for KGZ
 msgid "Kyrgyz Republic"
@@ -914,7 +915,7 @@ msgstr "Латвийская Республика"
 
 #. Name for MAC
 msgid "Macao"
-msgstr "Аомынь"
+msgstr "Макао"
 
 #. Official name for MAC
 msgid "Macao Special Administrative Region of China"
@@ -1050,7 +1051,7 @@ msgstr "Исламская Республика Мавритания"
 
 #. Name for MSR
 msgid "Montserrat"
-msgstr "Монсеррат"
+msgstr "Монтсеррат"
 
 #. Name for MTQ
 msgid "Martinique"
@@ -1450,7 +1451,7 @@ msgstr "Синт-Мартен (голландская часть)"
 
 #. Name for SYC
 msgid "Seychelles"
-msgstr "Сейшельские Острова"
+msgstr "Сейшелы"
 
 #. Official name for SYC
 msgid "Republic of Seychelles"

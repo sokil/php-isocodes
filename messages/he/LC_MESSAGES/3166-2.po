@@ -4,107 +4,112 @@
 # This file is distributed under the same license as the iso-codes package.
 # Copyright ©
 # jeremy rutman <jeremy.rutman@gmail.com>, 2019.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2020-09-22 14:40+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
-msgstr ""
+msgstr "קאנילו"
 
 #. Name for AD-03
 msgid "Encamp"
-msgstr ""
+msgstr "אנקאם"
 
 #. Name for AD-04
 msgid "La Massana"
-msgstr ""
+msgstr "לה מסאנה"
 
 #. Name for AD-05
 msgid "Ordino"
-msgstr ""
+msgstr "אורדינו"
 
 #. Name for AD-06
 msgid "Sant Julià de Lòria"
-msgstr ""
+msgstr "סן ג׳וליה דה לוריה"
 
 #. Name for AD-07
 msgid "Andorra la Vella"
-msgstr ""
+msgstr "אנדורה לה ולה"
 
 #. Name for AD-08
 msgid "Escaldes-Engordany"
-msgstr ""
+msgstr "אסקלדס-אנגורדני"
 
 #. Name for AE-AJ
 msgid "'Ajmān"
-msgstr ""
+msgstr "עג׳מאן"
 
 #. Name for AE-AZ
 msgid "Abū Ȥaby [Abu Dhabi]"
-msgstr ""
+msgstr "אבו דאבי"
 
 #. Name for AE-DU
 msgid "Dubayy"
-msgstr ""
+msgstr "דובאי"
 
 #. Name for AE-FU
 msgid "Al Fujayrah"
-msgstr ""
+msgstr "פוג׳יירה"
 
 #. Name for AE-RK
 msgid "Ra’s al Khaymah"
-msgstr ""
+msgstr "ראס אל-ח׳ימה"
 
 #. Name for AE-SH
 msgid "Ash Shāriqah"
-msgstr ""
+msgstr "שארג׳ה"
 
 #. Name for AE-UQ
 msgid "Umm al Qaywayn"
-msgstr ""
+msgstr "אום אל-קיוין"
 
 #. Name for AF-BAL
 msgid "Balkh"
-msgstr ""
+msgstr "בלך"
 
 #. Name for AF-BAM
 msgid "Bāmyān"
-msgstr ""
+msgstr "באמיאן"
 
 #. Name for AF-BDG
 msgid "Bādghīs"
-msgstr ""
+msgstr "באדגיס"
 
 #. Name for AF-BDS
 msgid "Badakhshān"
-msgstr ""
+msgstr "בדח׳שאן"
 
 #. Name for AF-BGL
 msgid "Baghlān"
-msgstr ""
+msgstr "בגלאן"
 
 #. Name for AF-DAY
 msgid "Dāykundī"
-msgstr ""
+msgstr "דאיקונדי"
 
 #. Name for AF-FRA
 msgid "Farāh"
-msgstr ""
+msgstr "פראה"
 
 #. Name for AF-FYB
 msgid "Fāryāb"
-msgstr ""
+msgstr "פאריאב"
 
 #. Name for AF-GHA
 msgid "Ghaznī"
@@ -816,43 +821,43 @@ msgstr ""
 
 #. Name for AZ-ORD
 msgid "Ordubad"
-msgstr ""
+msgstr "אורדובד"
 
 #. Name for AZ-QAB
 msgid "Qəbələ"
-msgstr ""
+msgstr "גבלה"
 
 #. Name for AZ-QAX
 msgid "Qax"
-msgstr ""
+msgstr "קאח"
 
 #. Name for AZ-QAZ
 msgid "Qazax"
-msgstr ""
+msgstr "קאזאח"
 
 #. Name for AZ-QBA
 msgid "Quba"
-msgstr ""
+msgstr "קובה"
 
 #. Name for AZ-QBI
 msgid "Qubadlı"
-msgstr ""
+msgstr "קובטלי"
 
 #. Name for AZ-QOB
 msgid "Qobustan"
-msgstr ""
+msgstr "גובוסטאן"
 
 #. Name for AZ-QUS
 msgid "Qusar"
-msgstr ""
+msgstr "קוסאר"
 
 #. Name for AZ-SA, Name for AZ-SAK
 msgid "Şəki"
-msgstr ""
+msgstr "שקי"
 
 #. Name for AZ-SAB
 msgid "Sabirabad"
-msgstr ""
+msgstr "סביראבד"
 
 #. Name for AZ-SAD
 msgid "Sədərək"
@@ -1340,7 +1345,7 @@ msgstr ""
 
 #. Name for BE-WLX, Name for LU-L
 msgid "Luxembourg"
-msgstr ""
+msgstr "לוקסמבורג"
 
 #. Name for BE-WNA
 msgid "Namur"
@@ -2264,7 +2269,7 @@ msgstr ""
 
 #. Name for BZ-BZ
 msgid "Belize"
-msgstr ""
+msgstr "בליז"
 
 #. Name for BZ-CY
 msgid "Cayo"
@@ -3752,7 +3757,7 @@ msgstr ""
 
 #. Name for DJ-DJ
 msgid "Djibouti"
-msgstr ""
+msgstr "ג׳יבוטי"
 
 #. Name for DJ-OB
 msgid "Obock"
@@ -5216,7 +5221,7 @@ msgstr ""
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr ""
+msgstr "גוואדלופ"
 
 #. Name for FR-HDF
 msgid "Hauts-de-France"
@@ -5224,63 +5229,63 @@ msgstr ""
 
 #. Name for FR-IDF
 msgid "Île-de-France"
-msgstr ""
+msgstr "איל-דה-פראנס"
 
 #. Name for FR-LRE, Name for FR-RE
 msgid "La Réunion"
-msgstr ""
+msgstr "ראוניון"
 
 #. Name for FR-MAY, Name for FR-YT
 msgid "Mayotte"
-msgstr ""
+msgstr "מיוט"
 
 #. Name for FR-MF
 msgid "Saint-Martin"
-msgstr ""
+msgstr "סן מרטן"
 
 #. Name for FR-MQ
 msgid "Martinique"
-msgstr ""
+msgstr "מרטיניק"
 
 #. Name for FR-NAQ
 msgid "Nouvelle-Aquitaine"
-msgstr ""
+msgstr "אקיטן החדשה"
 
 #. Name for FR-NC
 msgid "Nouvelle-Calédonie"
-msgstr ""
+msgstr "קלדוניה החדשה"
 
 #. Name for FR-NOR
 msgid "Normandie"
-msgstr ""
+msgstr "נורמנדי"
 
 #. Name for FR-OCC
 msgid "Occitanie"
-msgstr ""
+msgstr "אוקסיטניה"
 
 #. Name for FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"
-msgstr ""
+msgstr "פרובאנס-אלפ-קוט ד׳אזור"
 
 #. Name for FR-PDL
 msgid "Pays-de-la-Loire"
-msgstr ""
+msgstr "פיי דה לה לואר"
 
 #. Name for FR-PF
 msgid "Polynésie française"
-msgstr ""
+msgstr "פולינזיה הצרפתית"
 
 #. Name for FR-PM
 msgid "Saint-Pierre-et-Miquelon"
-msgstr ""
+msgstr "סן-פייר ומיקלון"
 
 #. Name for FR-TF
 msgid "Terres australes françaises"
-msgstr ""
+msgstr "הארצות הדרומיות והאנטרקטיות של צרפת"
 
 #. Name for FR-WF
 msgid "Wallis-et-Futuna"
-msgstr ""
+msgstr "ואליס ופוטונה"
 
 #. Name for GA-1
 msgid "Estuaire"
@@ -6120,7 +6125,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr ""
+msgstr "הממלכה המאוחדת"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -6152,7 +6157,7 @@ msgstr ""
 
 #. Name for GB-WKF
 msgid "Wakefield"
-msgstr ""
+msgstr "וייקפילד"
 
 #. Name for GB-WLL
 msgid "Walsall"
@@ -6436,7 +6441,7 @@ msgstr ""
 
 #. Name for GN-ML
 msgid "Mali"
-msgstr ""
+msgstr "מאלי"
 
 #. Name for GN-N, Name for GN-NZ
 msgid "Nzérékoré"
@@ -7552,31 +7557,31 @@ msgstr ""
 
 #. Name for IL-D
 msgid "HaDarom"
-msgstr ""
+msgstr "הדרום"
 
 #. Name for IL-HA
 msgid "Hefa"
-msgstr ""
+msgstr "חיפה"
 
 #. Name for IL-JM
 msgid "Yerushalayim Al Quds"
-msgstr ""
+msgstr "ירושלים"
 
 #. Name for IL-M
 msgid "HaMerkaz"
-msgstr ""
+msgstr "המרכז"
 
 #. Name for IL-TA
 msgid "Tel-Aviv"
-msgstr ""
+msgstr "תל אביב"
 
 #. Name for IL-Z
 msgid "HaZafon"
-msgstr ""
+msgstr "הצפון"
 
 #. Name for IN-AN
 msgid "Andaman and Nicobar Islands"
-msgstr ""
+msgstr "איי אנדמן וניקובר"
 
 #. Name for IN-AP
 msgid "Andhra Pradesh"
@@ -7692,7 +7697,7 @@ msgstr ""
 
 #. Name for IN-SK
 msgid "Sikkim"
-msgstr ""
+msgstr "סיקים"
 
 #. Name for IN-TG
 msgid "Telangana"
@@ -12648,7 +12653,7 @@ msgstr ""
 
 #. Name for NG-NI
 msgid "Niger"
-msgstr ""
+msgstr "ניז׳ר"
 
 #. Name for NG-OG
 msgid "Ogun"
@@ -12748,11 +12753,11 @@ msgstr ""
 
 #. Name for NL-AW
 msgid "Aruba"
-msgstr ""
+msgstr "ארובה"
 
 #. Name for NL-CW
 msgid "Curaçao"
-msgstr ""
+msgstr "קוראסאו"
 
 #. Name for NL-DR
 msgid "Drenthe"
@@ -16000,7 +16005,7 @@ msgstr ""
 
 #. Name for SM-07
 msgid "San Marino"
-msgstr ""
+msgstr "סן מרינו"
 
 #. Name for SM-08
 msgid "Montegiardino"
@@ -16416,71 +16421,71 @@ msgstr ""
 
 #. Name for TD-TA
 msgid "Tānjilī"
-msgstr ""
+msgstr "טאנז׳ילה"
 
 #. Name for TD-TI
 msgid "Tibastī"
-msgstr ""
+msgstr "טיבסטי"
 
 #. Name for TD-WF
 msgid "Wādī Fīrā"
-msgstr ""
+msgstr "ואדי פירה"
 
 #. Name for TG-C
 msgid "Région du Centre"
-msgstr ""
+msgstr "המרכז"
 
 #. Name for TG-K
 msgid "Région de la Kara"
-msgstr ""
+msgstr "קארא"
 
 #. Name for TG-M
 msgid "Région Maritime"
-msgstr ""
+msgstr "מאריטים"
 
 #. Name for TG-P
 msgid "Région des Plateaux"
-msgstr ""
+msgstr "פלאטאוק"
 
 #. Name for TG-S
 msgid "Région des Savannes"
-msgstr ""
+msgstr "סאבאנס"
 
 #. Name for TH-10
 msgid "Krung Thep Maha Nakhon Bangkok"
-msgstr ""
+msgstr "בנגקוק"
 
 #. Name for TH-11
 msgid "Samut Prakan"
-msgstr ""
+msgstr "סמוט פרקן"
 
 #. Name for TH-12
 msgid "Nonthaburi"
-msgstr ""
+msgstr "נונתאבורי"
 
 #. Name for TH-13
 msgid "Pathum Thani"
-msgstr ""
+msgstr "פתום טאני"
 
 #. Name for TH-14
 msgid "Phra Nakhon Si Ayutthaya"
-msgstr ""
+msgstr "איוטהאיה"
 
 #. Name for TH-15
 msgid "Ang Thong"
-msgstr ""
+msgstr "אנג טונג"
 
 #. Name for TH-16
 msgid "Lop Buri"
-msgstr ""
+msgstr "לופ בורי"
 
 #. Name for TH-17
 msgid "Sing Buri"
-msgstr ""
+msgstr "סינג בורי"
 
 #. Name for TH-18
 msgid "Chai Nat"
-msgstr ""
+msgstr "שאי נט"
 
 #. Name for TH-19
 msgid "Saraburi"
@@ -17308,7 +17313,7 @@ msgstr ""
 
 #. Name for TT-POS
 msgid "Port of Spain"
-msgstr ""
+msgstr "פורט אוף ספיין"
 
 #. Name for TT-PRT
 msgid "Princes Town"
@@ -17324,15 +17329,15 @@ msgstr ""
 
 #. Name for TT-SFO
 msgid "San Fernando"
-msgstr ""
+msgstr "סן פרננדו"
 
 #. Name for TT-SGE
 msgid "Sangre Grande"
-msgstr ""
+msgstr "סנגרה גראנדה"
 
 #. Name for TT-SIP
 msgid "Siparia"
-msgstr ""
+msgstr "סיפאריה"
 
 #. Name for TT-SJL
 msgid "San Juan-Laventille"
@@ -17348,35 +17353,35 @@ msgstr ""
 
 #. Name for TV-FUN
 msgid "Funafuti"
-msgstr ""
+msgstr "פונאפוטי"
 
 #. Name for TV-NIT
 msgid "Niutao"
-msgstr ""
+msgstr "ניוטאו"
 
 #. Name for TV-NKF
 msgid "Nukufetau"
-msgstr ""
+msgstr "נוקופטאו"
 
 #. Name for TV-NKL
 msgid "Nukulaelae"
-msgstr ""
+msgstr "נוקולאלאה"
 
 #. Name for TV-NMA
 msgid "Nanumea"
-msgstr ""
+msgstr "ננומאה"
 
 #. Name for TV-NMG
 msgid "Nanumanga"
-msgstr ""
+msgstr "ננומנגה"
 
 #. Name for TV-NUI
 msgid "Nui"
-msgstr ""
+msgstr "נואי"
 
 #. Name for TV-VAI
 msgid "Vaitupu"
-msgstr ""
+msgstr "ואיטופו"
 
 #. Name for TW-CHA
 msgid "Changhua"
@@ -17452,39 +17457,39 @@ msgstr ""
 
 #. Name for TW-TPQ
 msgid "Taipei"
-msgstr ""
+msgstr "טאיפיי"
 
 #. Name for TW-TTT
 msgid "Taitung"
-msgstr ""
+msgstr "טאיטונג"
 
 #. Name for TW-TXG
 msgid "Taichung City"
-msgstr ""
+msgstr "העיר טאיג׳ונג"
 
 #. Name for TW-TXQ
 msgid "Taichung"
-msgstr ""
+msgstr "טאיג׳ונג"
 
 #. Name for TW-YUN
 msgid "Yunlin"
-msgstr ""
+msgstr "יונלין"
 
 #. Name for TZ-01
 msgid "Arusha"
-msgstr ""
+msgstr "ארושה"
 
 #. Name for TZ-02
 msgid "Dar-es-Salaam"
-msgstr ""
+msgstr "דר א-סלאם"
 
 #. Name for TZ-03
 msgid "Dodoma"
-msgstr ""
+msgstr "דודומה"
 
 #. Name for TZ-04
 msgid "Iringa"
-msgstr ""
+msgstr "אירינגה"
 
 #. Name for TZ-05
 msgid "Kagera"
@@ -17524,7 +17529,7 @@ msgstr ""
 
 #. Name for TZ-14
 msgid "Mbeya"
-msgstr ""
+msgstr "מביה"
 
 #. Name for TZ-15
 msgid "Mjini Magharibi"
@@ -17568,115 +17573,115 @@ msgstr ""
 
 #. Name for TZ-26
 msgid "Manyara"
-msgstr ""
+msgstr "מניארה"
 
 #. Name for UA-05
 msgid "Vinnyts'ka Oblast'"
-msgstr ""
+msgstr "מחוז ויניצה"
 
 #. Name for UA-07
 msgid "Volyns'ka Oblast'"
-msgstr ""
+msgstr "מחוז ווהלין"
 
 #. Name for UA-09
 msgid "Luhans'ka Oblast'"
-msgstr ""
+msgstr "מחוז לוהנסק"
 
 #. Name for UA-12
 msgid "Dnipropetrovs'ka Oblast'"
-msgstr ""
+msgstr "מחוז דניפרופטרובסק"
 
 #. Name for UA-14
 msgid "Donets'ka Oblast'"
-msgstr ""
+msgstr "מחוז דונצק"
 
 #. Name for UA-18
 msgid "Zhytomyrs'ka Oblast'"
-msgstr ""
+msgstr "מחוז ז׳יטומיר"
 
 #. Name for UA-21
 msgid "Zakarpats'ka Oblast'"
-msgstr ""
+msgstr "מחוז זקרפטיה"
 
 #. Name for UA-23
 msgid "Zaporiz'ka Oblast'"
-msgstr ""
+msgstr "מחוז זפוריז׳יה"
 
 #. Name for UA-26
 msgid "Ivano-Frankivs'ka Oblast'"
-msgstr ""
+msgstr "מחוז איוונו-פרנקיבסק"
 
 #. Name for UA-30
 msgid "Kyïvs'ka mis'ka rada"
-msgstr ""
+msgstr "המועצה האזורית המחוקקת קייב"
 
 #. Name for UA-32
 msgid "Kyïvs'ka Oblast'"
-msgstr ""
+msgstr "מחוז קייב"
 
 #. Name for UA-35
 msgid "Kirovohrads'ka Oblast'"
-msgstr ""
+msgstr "מחוז קירובוהראד"
 
 #. Name for UA-40
 msgid "Sevastopol"
-msgstr ""
+msgstr "סבסטופול"
 
 #. Name for UA-43
 msgid "Respublika Krym"
-msgstr ""
+msgstr "רפובליקת קרים"
 
 #. Name for UA-46
 msgid "L'vivs'ka Oblast'"
-msgstr ""
+msgstr "מחוז לבוב"
 
 #. Name for UA-48
 msgid "Mykolaïvs'ka Oblast'"
-msgstr ""
+msgstr "מחוז מיקולאייב"
 
 #. Name for UA-51
 msgid "Odes'ka Oblast'"
-msgstr ""
+msgstr "מחוז אודסה"
 
 #. Name for UA-53
 msgid "Poltavs'ka Oblast'"
-msgstr ""
+msgstr "מחוז פולטבה"
 
 #. Name for UA-56
 msgid "Rivnens'ka Oblast'"
-msgstr ""
+msgstr "מחוז רובנו"
 
 #. Name for UA-59
 msgid "Sums 'ka Oblast'"
-msgstr ""
+msgstr "מחוז סומי"
 
 #. Name for UA-61
 msgid "Ternopil's'ka Oblast'"
-msgstr ""
+msgstr "מחוז טרנופול"
 
 #. Name for UA-63
 msgid "Kharkivs'ka Oblast'"
-msgstr ""
+msgstr "מחוז חרקוב"
 
 #. Name for UA-65
 msgid "Khersons'ka Oblast'"
-msgstr ""
+msgstr "מחוז חרסון"
 
 #. Name for UA-68
 msgid "Khmel'nyts'ka Oblast'"
-msgstr ""
+msgstr "מחוז חמלניצקי"
 
 #. Name for UA-71
 msgid "Cherkas'ka Oblast'"
-msgstr ""
+msgstr "מחוז צ׳רקאסי"
 
 #. Name for UA-74
 msgid "Chernihivs'ka Oblast'"
-msgstr ""
+msgstr "מחוז צ׳רניהיב"
 
 #. Name for UA-77
 msgid "Chernivets'ka Oblast'"
-msgstr ""
+msgstr "מחוז צ׳רנוביץ"
 
 #. Name for UG-101
 msgid "Kalangala"
@@ -17944,7 +17949,7 @@ msgstr ""
 
 #. Name for UG-407
 msgid "Kibaale"
-msgstr ""
+msgstr "קיבלה"
 
 #. Name for UG-408
 msgid "Kisoro"
@@ -17952,7 +17957,7 @@ msgstr ""
 
 #. Name for UG-409
 msgid "Masindi"
-msgstr ""
+msgstr "מאסינדי"
 
 #. Name for UG-410
 msgid "Mbarara"
@@ -17972,7 +17977,7 @@ msgstr ""
 
 #. Name for UG-414
 msgid "Kanungu"
-msgstr ""
+msgstr "קנונגו"
 
 #. Name for UG-415
 msgid "Kyenjojo"
@@ -17984,11 +17989,11 @@ msgstr ""
 
 #. Name for UG-417
 msgid "Isingiro"
-msgstr ""
+msgstr "יסינגרו"
 
 #. Name for UG-418
 msgid "Kiruhura"
-msgstr ""
+msgstr "קירוהורה"
 
 #. Name for UG-419
 msgid "Buliisa"
@@ -18000,255 +18005,255 @@ msgstr ""
 
 #. Name for UM-71
 msgid "Midway Islands"
-msgstr ""
+msgstr "אטול מידוויי"
 
 #. Name for UM-76
 msgid "Navassa Island"
-msgstr ""
+msgstr "האי נבאסה"
 
 #. Name for UM-79
 msgid "Wake Island"
-msgstr ""
+msgstr "האי וייק"
 
 #. Name for UM-81
 msgid "Baker Island"
-msgstr ""
+msgstr "האי בייקר"
 
 #. Name for UM-84
 msgid "Howland Island"
-msgstr ""
+msgstr "האי האולנד"
 
 #. Name for UM-86
 msgid "Jarvis Island"
-msgstr ""
+msgstr "האי ג׳רביס"
 
 #. Name for UM-89
 msgid "Kingman Reef"
-msgstr ""
+msgstr "שונית קינגמן"
 
 #. Name for UM-95
 msgid "Palmyra Atoll"
-msgstr ""
+msgstr "אטול פלמיירה"
 
 #. Name for US-AK
 msgid "Alaska"
-msgstr ""
+msgstr "אלסקה"
 
 #. Name for US-AL
 msgid "Alabama"
-msgstr ""
+msgstr "אלבמה"
 
 #. Name for US-AR
 msgid "Arkansas"
-msgstr ""
+msgstr "ארקנסס"
 
 #. Name for US-AS
 msgid "American Samoa"
-msgstr ""
+msgstr "סמואה האמריקנית"
 
 #. Name for US-AZ
 msgid "Arizona"
-msgstr ""
+msgstr "אריזונה"
 
 #. Name for US-CA
 msgid "California"
-msgstr ""
+msgstr "קליפורניה"
 
 #. Name for US-CO
 msgid "Colorado"
-msgstr ""
+msgstr "קולורדו"
 
 #. Name for US-CT
 msgid "Connecticut"
-msgstr ""
+msgstr "קונטיקט"
 
 #. Name for US-DC
 msgid "District of Columbia"
-msgstr ""
+msgstr "וושינגטון הבירה"
 
 #. Name for US-DE
 msgid "Delaware"
-msgstr ""
+msgstr "דלאוור"
 
 #. Name for US-FL, Name for UY-FD
 msgid "Florida"
-msgstr ""
+msgstr "פלורידה"
 
 #. Name for US-GA
 msgid "Georgia"
-msgstr ""
+msgstr "ג׳ורג׳יה"
 
 #. Name for US-GU
 msgid "Guam"
-msgstr ""
+msgstr "גואם"
 
 #. Name for US-HI
 msgid "Hawaii"
-msgstr ""
+msgstr "הוואי"
 
 #. Name for US-IA
 msgid "Iowa"
-msgstr ""
+msgstr "איווה"
 
 #. Name for US-ID
 msgid "Idaho"
-msgstr ""
+msgstr "איידהו"
 
 #. Name for US-IL
 msgid "Illinois"
-msgstr ""
+msgstr "אילינוי"
 
 #. Name for US-IN
 msgid "Indiana"
-msgstr ""
+msgstr "אינדיאנה"
 
 #. Name for US-KS
 msgid "Kansas"
-msgstr ""
+msgstr "קנזס"
 
 #. Name for US-KY
 msgid "Kentucky"
-msgstr ""
+msgstr "קנטקי"
 
 #. Name for US-LA
 msgid "Louisiana"
-msgstr ""
+msgstr "לואיזיאנה"
 
 #. Name for US-MA
 msgid "Massachusetts"
-msgstr ""
+msgstr "מסצ׳וסטס"
 
 #. Name for US-ME
 msgid "Maine"
-msgstr ""
+msgstr "מיין"
 
 #. Name for US-MI
 msgid "Michigan"
-msgstr ""
+msgstr "מישיגן"
 
 #. Name for US-MN
 msgid "Minnesota"
-msgstr ""
+msgstr "מינסוטה"
 
 #. Name for US-MO
 msgid "Missouri"
-msgstr ""
+msgstr "מיזורי"
 
 #. Name for US-MP
 msgid "Northern Mariana Islands"
-msgstr ""
+msgstr "איי מריאנה הצפוניים"
 
 #. Name for US-MS
 msgid "Mississippi"
-msgstr ""
+msgstr "מיסיסיפי"
 
 #. Name for US-NC
 msgid "North Carolina"
-msgstr ""
+msgstr "קרוליינה הצפונית"
 
 #. Name for US-ND
 msgid "North Dakota"
-msgstr ""
+msgstr "דקוטה הצפונית"
 
 #. Name for US-NE
 msgid "Nebraska"
-msgstr ""
+msgstr "נברסקה"
 
 #. Name for US-NH
 msgid "New Hampshire"
-msgstr ""
+msgstr "ניו המפשייר"
 
 #. Name for US-NJ
 msgid "New Jersey"
-msgstr ""
+msgstr "ניו ג׳רזי"
 
 #. Name for US-NM
 msgid "New Mexico"
-msgstr ""
+msgstr "ניו מקסיקו"
 
 #. Name for US-NV
 msgid "Nevada"
-msgstr ""
+msgstr "נבדה"
 
 #. Name for US-NY
 msgid "New York"
-msgstr ""
+msgstr "ניו יורק"
 
 #. Name for US-OH
 msgid "Ohio"
-msgstr ""
+msgstr "אוהיו"
 
 #. Name for US-OK
 msgid "Oklahoma"
-msgstr ""
+msgstr "אוקלהומה"
 
 #. Name for US-OR
 msgid "Oregon"
-msgstr ""
+msgstr "אורגון"
 
 #. Name for US-PA
 msgid "Pennsylvania"
-msgstr ""
+msgstr "פנסילבניה"
 
 #. Name for US-PR
 msgid "Puerto Rico"
-msgstr ""
+msgstr "פוארטו ריקו"
 
 #. Name for US-RI
 msgid "Rhode Island"
-msgstr ""
+msgstr "רוד איילנד"
 
 #. Name for US-SC
 msgid "South Carolina"
-msgstr ""
+msgstr "קרוליינה הדרומית"
 
 #. Name for US-SD
 msgid "South Dakota"
-msgstr ""
+msgstr "דקוטה הדרומית"
 
 #. Name for US-TN
 msgid "Tennessee"
-msgstr ""
+msgstr "טנסי"
 
 #. Name for US-TX
 msgid "Texas"
-msgstr ""
+msgstr "טקסס"
 
 #. Name for US-UM
 msgid "United States Minor Outlying Islands"
-msgstr ""
+msgstr "האיים המרוחקים הקטנים של ארצות הברית"
 
 #. Name for US-UT
 msgid "Utah"
-msgstr ""
+msgstr "יוטה"
 
 #. Name for US-VA
 msgid "Virginia"
-msgstr ""
+msgstr "וירג׳יניה"
 
 #. Name for US-VI
 msgid "Virgin Islands"
-msgstr ""
+msgstr "איי הבתולה"
 
 #. Name for US-VT
 msgid "Vermont"
-msgstr ""
+msgstr "ורמונט"
 
 #. Name for US-WA
 msgid "Washington"
-msgstr ""
+msgstr "וושינגטון"
 
 #. Name for US-WI
 msgid "Wisconsin"
-msgstr ""
+msgstr "ויסקונסין"
 
 #. Name for US-WV
 msgid "West Virginia"
-msgstr ""
+msgstr "מערב וירג׳יניה"
 
 #. Name for US-WY
 msgid "Wyoming"
-msgstr ""
+msgstr "ויומינג"
 
 #. Name for UY-AR
 msgid "Artigas"

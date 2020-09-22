@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Sveinn í Felli <sv1@fellsnet.is>, 2017, 2018.
+# Sveinn í Felli <sv1@fellsnet.is>, 2017, 2018, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2018-11-27 19:07+0000\n"
+"PO-Revision-Date: 2020-06-10 23:41+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/is/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 3.3-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -1842,7 +1842,7 @@ msgstr ""
 
 #. Name for BN-TU
 msgid "Tutong"
-msgstr ""
+msgstr "Tutong"
 
 #. Name for BO-B
 msgid "El Beni"
@@ -5306,7 +5306,7 @@ msgstr ""
 
 #. Name for GA-5
 msgid "Nyanga"
-msgstr ""
+msgstr "Nyanga"
 
 #. Name for GA-6
 msgid "Ogooué-Ivindo"
@@ -8670,7 +8670,7 @@ msgstr ""
 
 #. Name for JP-29
 msgid "Nara"
-msgstr ""
+msgstr "Nara"
 
 #. Name for JP-30
 msgid "Wakayama"
@@ -8768,7 +8768,7 @@ msgstr ""
 
 #. Name for KE-06
 msgid "Embu"
-msgstr ""
+msgstr "Embu"
 
 #. Name for KE-07
 #, fuzzy
@@ -8830,7 +8830,7 @@ msgstr ""
 
 #. Name for KE-21
 msgid "Lamu"
-msgstr ""
+msgstr "Lamu"
 
 #. Name for KE-22
 msgid "Machakos"
@@ -8874,7 +8874,7 @@ msgstr ""
 
 #. Name for KE-32
 msgid "Nandi"
-msgstr ""
+msgstr "Nandí"
 
 #. Name for KE-33
 msgid "Narok"
@@ -8918,7 +8918,7 @@ msgstr ""
 
 #. Name for KE-43
 msgid "Turkana"
-msgstr ""
+msgstr "Turkana"
 
 #. Name for KE-44
 msgid "Uasin Gishu"
@@ -12482,7 +12482,7 @@ msgstr ""
 
 #. Name for NA-KA
 msgid "Karas"
-msgstr ""
+msgstr "Karas"
 
 #. Name for NA-KH
 msgid "Khomas"
@@ -12742,7 +12742,7 @@ msgstr ""
 
 #. Name for NI-MT
 msgid "Matagalpa"
-msgstr ""
+msgstr "Matagalpa"
 
 #. Name for NI-NS
 msgid "Nueva Segovia"
@@ -17534,7 +17534,7 @@ msgstr ""
 
 #. Name for TZ-13
 msgid "Mara"
-msgstr ""
+msgstr "Mara"
 
 #. Name for TZ-14
 msgid "Mbeya"

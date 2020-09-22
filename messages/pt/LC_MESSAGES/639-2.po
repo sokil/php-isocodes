@@ -10,14 +10,15 @@
 # Miguel Figueiredo <elmig@debianpt.org>, 2013.
 # Rui Mendes <xz9@protonmail.com>, 2019.
 # Manuela Silva <mmsrs@sky.com>, 2020.
+# ssantos <ssantos@web.de>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-14 11:41+0000\n"
-"Last-Translator: Manuela Silva <mmsrs@sky.com>\n"
+"PO-Revision-Date: 2020-08-23 21:36+0000\n"
+"Last-Translator: ssantos <ssantos@web.de>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/pt/>\n"
 "Language: pt\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.2.1-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -65,7 +66,7 @@ msgstr "Africanos"
 
 #. Name for ain
 msgid "Ainu"
-msgstr ""
+msgstr "Aino"
 
 #. Name for aka
 #, fuzzy
@@ -79,11 +80,11 @@ msgstr "Albanês"
 
 #. Name for ale
 msgid "Aleut"
-msgstr ""
+msgstr "Aleúte"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "Línguas algonquianas"
 
 #. Name for alt
 #, fuzzy
@@ -114,7 +115,7 @@ msgstr "Árabe"
 
 #. Name for arc
 msgid "Official Aramaic (700-300 BCE); Imperial Aramaic (700-300 BCE)"
-msgstr ""
+msgstr "Aramaico oficial (700-300 AEC); Aramaico imperial (700-300 AEC)"
 
 #. Name for arg
 #, fuzzy
@@ -123,7 +124,7 @@ msgstr "Faroês"
 
 #. Name for arn
 msgid "Mapudungun; Mapuche"
-msgstr ""
+msgstr "Mapudungun; Mapuche"
 
 #. Name for arp
 msgid "Arapaho"
@@ -143,7 +144,7 @@ msgstr "assamês"
 
 #. Name for ast
 msgid "Asturian; Bable; Leonese; Asturleonese"
-msgstr ""
+msgstr "Asturiano; Bable; Leonês; Asturo-leonês"
 
 #. Name for ath
 #, fuzzy
@@ -182,7 +183,7 @@ msgstr "salishan languages"
 
 #. Name for bai
 msgid "Bamileke languages"
-msgstr ""
+msgstr "Línguas bamileke"
 
 #. Name for bak
 msgid "Bashkir"
@@ -211,7 +212,7 @@ msgstr "Idiomas Bálticos"
 
 #. Name for bej
 msgid "Beja; Bedawiyet"
-msgstr ""
+msgstr "Beja; Bedawi"
 
 #. Name for bel
 msgid "Belarusian"
@@ -227,7 +228,7 @@ msgstr "Bengali"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr ""
+msgstr "Bangla"
 
 #. Name for ber
 #, fuzzy
@@ -262,7 +263,7 @@ msgstr "siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "Bantu (Outros)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -301,7 +302,7 @@ msgstr "Búlgaro"
 
 #. Name for byn
 msgid "Blin; Bilin"
-msgstr ""
+msgstr "Blin; Bilin"
 
 #. Name for cad
 msgid "Caddo"
@@ -365,7 +366,7 @@ msgstr "Margens"
 
 #. Name for chn
 msgid "Chinook jargon"
-msgstr ""
+msgstr "Jargão Chinook"
 
 #. Name for cho
 msgid "Choctaw"
@@ -373,7 +374,7 @@ msgstr "choctaw"
 
 #. Name for chp
 msgid "Chipewyan; Dene Suline"
-msgstr ""
+msgstr "Chipewyan; Dene Suline"
 
 #. Name for chr
 msgid "Cherokee"
@@ -384,6 +385,8 @@ msgid ""
 "Church Slavic; Old Slavonic; Church Slavonic; Old Bulgarian; Old Church "
 "Slavonic"
 msgstr ""
+"Eslavo Eclesiástico; Eslavo Antigo; Eslavo Eclesiástico; Búlgaro Antigo; "
+"Eslavônico Antigo Eclesiástico"
 
 #. Name for chv
 msgid "Chuvash"
@@ -412,15 +415,15 @@ msgstr "córsico"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English based"
-msgstr ""
+msgstr "Crioulos e pidgins baseados no inglês"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French-based"
-msgstr ""
+msgstr "Crioulos e pidgins baseados no francês"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr ""
+msgstr "Crioulos e pidgins, de origem portuguesa"
 
 #. Name for cre
 #, fuzzy
@@ -434,7 +437,7 @@ msgstr "crimean turkish; crimean tatar"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr ""
+msgstr "Crioulos e pidgins"
 
 #. Name for csb
 msgid "Kashubian"
@@ -473,7 +476,7 @@ msgstr "delaware"
 
 #. Name for den
 msgid "Slave (Athapascan)"
-msgstr ""
+msgstr "Slave (Atabascano)"
 
 #. Name for deu
 msgid "German"
@@ -489,7 +492,7 @@ msgstr "dinka"
 
 #. Name for div
 msgid "Divehi; Dhivehi; Maldivian"
-msgstr ""
+msgstr "Divehi; Maldívio"
 
 #. Name for doi
 #, fuzzy
@@ -593,7 +596,7 @@ msgstr "fijiano"
 
 #. Name for fil
 msgid "Filipino; Pilipino"
-msgstr ""
+msgstr "Filipino; Pilipino"
 
 #. Name for fin
 msgid "Finnish"
@@ -725,15 +728,15 @@ msgstr "Guarani"
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
-msgstr ""
+msgstr "Suíço-alemão; Alemânico; Alsaciano"
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "guzerate"
+msgstr "Guzerate"
 
 #. Name for gwi
 msgid "Gwich'in"
-msgstr ""
+msgstr "Gwich'in"
 
 #. Name for hai
 #, fuzzy
@@ -768,7 +771,7 @@ msgstr "hiligaynon"
 
 #. Name for him
 msgid "Himachali languages; Western Pahari languages"
-msgstr ""
+msgstr "Línguas Himachali; Línguas Pahari Ocidental"
 
 #. Name for hin
 msgid "Hindi"
@@ -847,7 +850,7 @@ msgstr "ilocano"
 
 #. Name for ina
 msgid "Interlingua (International Auxiliary Language Association)"
-msgstr ""
+msgstr "Interlíngua"
 
 #. Name for inc
 msgid "Indic languages"
@@ -919,11 +922,11 @@ msgstr "kabyle"
 
 #. Name for kac
 msgid "Kachin; Jingpho"
-msgstr ""
+msgstr "Kachin; Jingpho"
 
 #. Name for kal
 msgid "Kalaallisut; Greenlandic"
-msgstr ""
+msgstr "Groenlandês"
 
 #. Name for kam
 msgid "Kamba"
@@ -931,7 +934,7 @@ msgstr "kamba"
 
 #. Name for kan
 msgid "Kannada"
-msgstr "canarês"
+msgstr "Kannada"
 
 #. Name for kar
 #, fuzzy
@@ -975,7 +978,7 @@ msgstr "salishan languages"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr ""
+msgstr "Khmer Central"
 
 #. Name for kho
 #, fuzzy
@@ -1077,7 +1080,7 @@ msgstr "lamba"
 
 #. Name for lao
 msgid "Lao"
-msgstr "laosiano"
+msgstr "Laosiano"
 
 #. Name for lat
 msgid "Latin"
@@ -1093,7 +1096,7 @@ msgstr "lezghian"
 
 #. Name for lim
 msgid "Limburgan; Limburger; Limburgish"
-msgstr ""
+msgstr "Limburgês"
 
 #. Name for lin
 #, fuzzy
@@ -1139,7 +1142,7 @@ msgstr "lunda"
 
 #. Name for luo
 msgid "Luo (Kenya and Tanzania)"
-msgstr ""
+msgstr "Luo (Quênia e Tanzânia)"
 
 #. Name for lus
 #, fuzzy
@@ -1208,7 +1211,7 @@ msgstr "Irlandês, Medieval (900-1200)"
 
 #. Name for mic
 msgid "Mi'kmaq; Micmac"
-msgstr ""
+msgstr "Mi'kmaq; Micmac"
 
 #. Name for min
 msgid "Minangkabau"
@@ -1249,7 +1252,7 @@ msgstr "Turco"
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr ""
+msgstr "Línguas manobo"
 
 #. Name for moh
 msgid "Mohawk"
@@ -1300,7 +1303,7 @@ msgstr "birmanês"
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr ""
+msgstr "Línguas maias"
 
 #. Name for myv
 msgid "Erzya"
@@ -1326,7 +1329,7 @@ msgstr "nauruano"
 
 #. Name for nav
 msgid "Navajo; Navaho"
-msgstr ""
+msgstr "Navarro"
 
 #. Name for nbl
 #, fuzzy
@@ -1344,7 +1347,7 @@ msgstr "dongo"
 
 #. Name for nds
 msgid "Low German; Low Saxon; German, Low; Saxon, Low"
-msgstr ""
+msgstr "Baixo saxão; Baixo alemão"
 
 #. Name for nep
 msgid "Nepali"
@@ -1352,7 +1355,7 @@ msgstr "Nepalês"
 
 #. Name for new
 msgid "Nepal Bhasa; Newari"
-msgstr ""
+msgstr "Nepal Bhasa; Neuari"
 
 #. Name for nia
 msgid "Nias"
@@ -1378,7 +1381,7 @@ msgstr "Norueguês"
 
 #. Name for nob
 msgid "Bokmål, Norwegian; Norwegian Bokmål"
-msgstr ""
+msgstr "Norwegian Bokmål"
 
 #. Name for nog
 #, fuzzy
@@ -1395,27 +1398,27 @@ msgstr "Norueguês"
 
 #. Name for nqo
 msgid "N'Ko"
-msgstr ""
+msgstr "N'Ko"
 
 #. Name for nso
 msgid "Pedi; Sepedi; Northern Sotho"
-msgstr ""
+msgstr "Sepedi; Sotho do Norte"
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr ""
+msgstr "Línguas núbias"
 
 #. Name for nwc
 msgid "Classical Newari; Old Newari; Classical Nepal Bhasa"
-msgstr ""
+msgstr "Neuari clássico; Neuari antigo; Nepal Bahasa clássico"
 
 #. Name for nya
 msgid "Chichewa; Chewa; Nyanja"
-msgstr ""
+msgstr "Cinianja"
 
 #. Name for nym
 msgid "Nyamwezi"
-msgstr ""
+msgstr "Nyamwezi"
 
 #. Name for nyn
 msgid "Nyankole"
@@ -1431,7 +1434,7 @@ msgstr "nzima"
 
 #. Name for oci
 msgid "Occitan (post 1500); Provençal"
-msgstr ""
+msgstr "Occitâno (pós-1500); Provençal"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1448,7 +1451,7 @@ msgstr "de"
 
 #. Name for osa
 msgid "Osage"
-msgstr "osage"
+msgstr "Osage"
 
 #. Name for oss
 #, fuzzy
@@ -1479,11 +1482,11 @@ msgstr "pálavi"
 
 #. Name for pam
 msgid "Pampanga; Kapampangan"
-msgstr ""
+msgstr "Pampanga; Kapampangan"
 
 #. Name for pan
 msgid "Panjabi; Punjabi"
-msgstr ""
+msgstr "Panjabi"
 
 #. Name for pap
 msgid "Papiamento"
@@ -1535,7 +1538,7 @@ msgstr "irlandês, arcaico (até 900)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
-msgstr ""
+msgstr "Pachto"
 
 #. Name for qaa-qtz
 msgid "Reserved for local use"
@@ -1555,7 +1558,7 @@ msgstr "rapanui"
 
 #. Name for rar
 msgid "Rarotongan; Cook Islands Maori"
-msgstr ""
+msgstr "Rarotongan; Maori das Ilhas Cook"
 
 #. Name for roa
 #, fuzzy
@@ -1584,7 +1587,7 @@ msgstr "rundi"
 
 #. Name for rup
 msgid "Aromanian; Arumanian; Macedo-Romanian"
-msgstr ""
+msgstr "Aromeno; Arumeno; Macedo-Romeno"
 
 #. Name for rus
 msgid "Russian"
@@ -1613,7 +1616,7 @@ msgstr "salishan languages"
 
 #. Name for sam
 msgid "Samaritan Aramaic"
-msgstr "aramaico samaritano"
+msgstr "Aramaico samaritano"
 
 #. Name for san
 #, fuzzy
@@ -1694,7 +1697,7 @@ msgstr "Eslovêno"
 
 #. Name for sma
 msgid "Southern Sami"
-msgstr ""
+msgstr "Sami do Sul"
 
 #. Name for sme
 msgid "Northern Sami"
@@ -1707,23 +1710,23 @@ msgstr "salishan languages"
 
 #. Name for smj
 msgid "Lule Sami"
-msgstr ""
+msgstr "Sami de Lule"
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr ""
+msgstr "Sami de Inari"
 
 #. Name for smo
 msgid "Samoan"
-msgstr ""
+msgstr "Samoano"
 
 #. Name for sms
 msgid "Skolt Sami"
-msgstr ""
+msgstr "Sami de Skolt"
 
 #. Name for sna
 msgid "Shona"
-msgstr ""
+msgstr "Xona"
 
 #. Name for snd
 msgid "Sindhi"
@@ -1814,12 +1817,11 @@ msgstr "Sueco"
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "Siríaco Clássico"
 
 #. Name for syr
-#, fuzzy
 msgid "Syriac"
-msgstr "Sérvio"
+msgstr "Siríaco"
 
 #. Name for tah
 #, fuzzy
@@ -1842,7 +1844,7 @@ msgstr "tatar"
 
 #. Name for tel
 msgid "Telugu"
-msgstr "telugu"
+msgstr "Telugu"
 
 #. Name for tem
 msgid "Timne"
@@ -1863,7 +1865,7 @@ msgstr "Tailandês"
 
 #. Name for tgl
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalo"
 
 #. Name for tha
 msgid "Thai"
@@ -1881,19 +1883,19 @@ msgstr "Turco"
 
 #. Name for tiv
 msgid "Tiv"
-msgstr ""
+msgstr "Tiv"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr "toquelauano"
+msgstr "Toquelauano"
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"
-msgstr ""
+msgstr "Klingon; tlhIngan-Hol"
 
 #. Name for tli
 msgid "Tlingit"
-msgstr ""
+msgstr "Tlingit"
 
 #. Name for tmh
 msgid "Tamashek"
@@ -1947,7 +1949,7 @@ msgstr "salishan languages"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "tuvaluano"
+msgstr "Tuvaluano"
 
 #. Name for twi
 msgid "Twi"
@@ -2005,7 +2007,7 @@ msgstr "Vietnamita"
 
 #. Name for vol
 msgid "Volapük"
-msgstr ""
+msgstr "Volapuque"
 
 #. Name for vot
 msgid "Votic"
@@ -2017,7 +2019,7 @@ msgstr ""
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "Walamo"
 
 #. Name for war
 msgid "Waray"
@@ -2075,7 +2077,7 @@ msgstr "zapoteca"
 
 #. Name for zbl
 msgid "Blissymbols; Blissymbolics; Bliss"
-msgstr ""
+msgstr "Semantografia; Blissymbolics; Bliss"
 
 #. Name for zen
 #, fuzzy
@@ -2084,11 +2086,11 @@ msgstr "Báltico"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "Tamazirte Padrão do Marrocos"
 
 #. Name for zha
 msgid "Zhuang; Chuang"
-msgstr ""
+msgstr "Zhuang; Chuang"
 
 #. Name for zho
 msgid "Chinese"
@@ -2113,4 +2115,4 @@ msgstr "Sem conteúdo linguístico; Não aplicável"
 
 #. Name for zza
 msgid "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"
-msgstr ""
+msgstr "Zaza; Dimili; Dimli; Kirdki; Kirmanjk; Zazaki"

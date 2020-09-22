@@ -13,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-25 11:41+0000\n"
+"PO-Revision-Date: 2020-08-03 12:41+0000\n"
 "Last-Translator: Oymate <dhruboadittya96@gmail.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/bn/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -497,13 +497,10 @@ msgid "Argentine Sign Language"
 msgstr "আর্জেনটিন সাংকেতিক ভাষা"
 
 #. Name for aee
-#, fuzzy
 msgid "Northeast Pashai"
 msgstr "নাহুয়াটল ভাষা"
 
 #. Inverted name for aee
-#, fuzzy
-#| msgid "Pashayi, Northeast"
 msgid "Pashai, Northeast"
 msgstr "পাশায়ি, উত্তরপূর্ব"
 
@@ -529,7 +526,7 @@ msgstr "এর"
 
 #. Name for aer
 msgid "Eastern Arrernte"
-msgstr ""
+msgstr "পূর্ব আরেন্তে"
 
 #. Inverted name for aer
 msgid "Arrernte, Eastern"
@@ -556,9 +553,8 @@ msgid "Aeka"
 msgstr "একা"
 
 #. Name for afb
-#, fuzzy
 msgid "Gulf Arabic"
-msgstr "আরবি"
+msgstr "উপসাগরীয় আরবি"
 
 #. Inverted name for afb
 msgid "Arabic, Gulf"
@@ -605,7 +601,6 @@ msgid "Afrikaans"
 msgstr "আফ্রিকান্স"
 
 #. Name for afs
-#, fuzzy
 msgid "Afro-Seminole Creole"
 msgstr "ক্রেওল, অ্যাফ্রো-সেমিনোল"
 
@@ -667,7 +662,7 @@ msgstr "আর্গোবা"
 
 #. Name for agk
 msgid "Isarog Agta"
-msgstr ""
+msgstr "ইসারোগ অগতা"
 
 #. Inverted name for agk
 msgid "Agta, Isarog"
@@ -702,7 +697,6 @@ msgid "Esimbi"
 msgstr "এসিম্বি"
 
 #. Name for agt
-#, fuzzy
 msgid "Central Cagayan Agta"
 msgstr "আগটা, মধ্য কাগায়ান"
 

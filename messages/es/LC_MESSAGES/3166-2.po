@@ -10,14 +10,15 @@
 # advocatux <advocatux@airpost.net>, 2018.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
+# Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2019-12-04 19:05+0000\n"
-"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
+"PO-Revision-Date: 2020-07-04 17:41+0000\n"
+"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/es/>\n"
 "Language: es\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -5857,9 +5858,8 @@ msgid "Normandie"
 msgstr ""
 
 #. Name for FR-OCC
-#, fuzzy
 msgid "Occitanie"
-msgstr "Ninguno"
+msgstr "Occitania"
 
 #. Name for FR-PAC
 msgid "Provence-Alpes-Côte-d’Azur"

@@ -14,14 +14,15 @@
 # Atila KOÇ <koc@artielektronik.com.tr>, 2013-2015,2018.
 # Oguz Ersen <oguzersen@protonmail.com>, 2019.
 # Oğuz Ersen <oguzersen@protonmail.com>, 2020.
+# EminUZUN <eminuzunn@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2020-01-26 10:21+0000\n"
-"Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
+"PO-Revision-Date: 2020-08-11 14:33+0000\n"
+"Last-Translator: EminUZUN <eminuzunn@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/tr/>\n"
 "Language: tr\n"
@@ -29,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11-dev\n"
+"X-Generator: Weblate 4.2-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -777,7 +778,7 @@ msgstr "Ürdün"
 
 #. Official name for JOR
 msgid "Hashemite Kingdom of Jordan"
-msgstr "Ürdün Haşemi Krallığı"
+msgstr "Ürdün Haşimi Krallığı"
 
 #. Name for JPN
 msgid "Japan"
@@ -1641,7 +1642,7 @@ msgstr "İngiliz Virgin Adaları"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Amerikan Virgin Adaları"
+msgstr "Virgin Adaları, A.B.D."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

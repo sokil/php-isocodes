@@ -5,6 +5,9 @@
 #    Update database on specified place                 #
 #    Usage: ./bin/update_iso_codes_db.sh /var/isocodes  #
 #                                                       #
+#    Used by library curtomers to update                #
+#    database mode often                                #
+#                                                       #
 #########################################################
 
 CURRENT_DIR=$(dirname $(readlink -f $0))

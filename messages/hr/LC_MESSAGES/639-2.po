@@ -16,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-04-11 00:09+0000\n"
+"PO-Revision-Date: 2020-09-17 19:36+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/hr/>\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.0-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -156,7 +156,7 @@ msgstr "Avarski"
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestanski"
+msgstr "Avestansko"
 
 #. Name for awa
 msgid "Awadhi"
@@ -188,7 +188,7 @@ msgstr "Baludžijski"
 
 #. Name for bam
 msgid "Bambara"
-msgstr "Bambarski"
+msgstr "Bambara"
 
 #. Name for ban
 msgid "Balinese"
@@ -280,7 +280,7 @@ msgstr "Burijatski"
 
 #. Name for bug
 msgid "Buginese"
-msgstr "Lontara (bugis)"
+msgstr "Bugisko"
 
 #. Name for bul
 msgid "Bulgarian"
@@ -340,7 +340,7 @@ msgstr "Čagatajski"
 
 #. Name for chk
 msgid "Chuukese"
-msgstr ""
+msgstr "Tručki"
 
 #. Name for chm
 msgid "Mari"
@@ -655,7 +655,7 @@ msgstr "Manski"
 
 #. Name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "Njemački, srednjovjekovni gornji (oko 1050. – 1500.)"
+msgstr "Njemački, srednjovjekovni visoki (oko 1050. – 1500.)"
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
@@ -683,7 +683,7 @@ msgstr "Grčki, stari (do 1453.)"
 
 #. Name for grn
 msgid "Guarani"
-msgstr "Paragvajski gvarani"
+msgstr "Guarani"
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
@@ -799,7 +799,7 @@ msgstr ""
 
 #. Name for ina
 msgid "Interlingua (International Auxiliary Language Association)"
-msgstr "Interlingua"
+msgstr "Interlingua (Međunarodno udruženje za pomoćne jezike)"
 
 #. Name for inc
 msgid "Indic languages"
@@ -1011,7 +1011,7 @@ msgstr "Lambaški"
 
 #. Name for lao
 msgid "Lao"
-msgstr "Laoško"
+msgstr "Laoški"
 
 #. Name for lat
 msgid "Latin"
@@ -1403,7 +1403,7 @@ msgstr "Palauski"
 
 #. Name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Stari perzijski (oko 600. – 400. pr. n. e.)"
+msgstr "Perzijski, stari (oko 600. – 400. pr. n. e.)"
 
 #. Name for phi
 msgid "Philippine languages"

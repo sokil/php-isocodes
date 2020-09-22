@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Sveinn í Felli <sv1@fellsnet.is>, 2018, 2019.
+# Sveinn í Felli <sv1@fellsnet.is>, 2018, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: Icelandic (iso-codes)\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-02-16 13:22+0000\n"
+"PO-Revision-Date: 2020-06-10 23:41+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/is/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n % 10 != 1 || n % 100 == 11;\n"
-"X-Generator: Weblate 3.5-dev\n"
+"X-Generator: Weblate 4.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -3678,7 +3678,7 @@ msgstr "Boloki"
 
 #. Name for bku
 msgid "Buhid"
-msgstr "Buhid"
+msgstr "Búhid"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -8736,7 +8736,7 @@ msgstr "Epie"
 
 #. Name for epo
 msgid "Esperanto"
-msgstr "Esperanto"
+msgstr "Esperantó"
 
 #. Name for era
 msgid "Eravallan"
@@ -10552,7 +10552,7 @@ msgstr "Kota Marudu Talantang"
 
 #. Name for grn
 msgid "Guarani"
-msgstr "Guarani"
+msgstr "Guaraní"
 
 #. Name for gro
 msgid "Groma"
@@ -14044,9 +14044,8 @@ msgid "Kobol"
 msgstr ""
 
 #. Name for kgv
-#, fuzzy
 msgid "Karas"
-msgstr "Kóreska"
+msgstr "Karas"
 
 #. Name for kgw
 #, fuzzy
@@ -17175,9 +17174,8 @@ msgid "Lole"
 msgstr ""
 
 #. Name for llh
-#, fuzzy
 msgid "Lamu"
-msgstr "Baskamál"
+msgstr "Lamu"
 
 #. Name for lli
 msgid "Teke-Laali"
@@ -17973,7 +17971,7 @@ msgstr "Marshallíska"
 
 #. Name for mai
 msgid "Maithili"
-msgstr "Maithili"
+msgstr "Maithilí"
 
 #. Name for maj
 msgid "Jalapa De Díaz Mazatec"
@@ -17998,7 +17996,7 @@ msgstr "Maori"
 
 #. Name for man
 msgid "Mandingo"
-msgstr "Mandingo"
+msgstr "Mandingó"
 
 #. Name for maq
 msgid "Chiquihuitlán Mazatec"
@@ -18448,9 +18446,8 @@ msgid "Ikobi"
 msgstr ""
 
 #. Name for mec
-#, fuzzy
 msgid "Mara"
-msgstr "Maori"
+msgstr "Mara"
 
 #. Name for med
 msgid "Melpa"
@@ -19566,7 +19563,7 @@ msgstr ""
 
 #. Name for mnc
 msgid "Manchu"
-msgstr "Manchu"
+msgstr "Manchú"
 
 #. Name for mnd
 msgid "Mondé"
@@ -20332,9 +20329,8 @@ msgid "Mator"
 msgstr "Maori"
 
 #. Name for mtn
-#, fuzzy
 msgid "Matagalpa"
-msgstr "Katalónska"
+msgstr "Matagalpa"
 
 #. Name for mto
 msgid "Totontepec Mixe"
@@ -22070,7 +22066,7 @@ msgstr "Nganasa"
 
 #. Name for niq
 msgid "Nandi"
-msgstr "Nandi"
+msgstr "Nandí"
 
 #. Name for nir
 #, fuzzy
@@ -22927,9 +22923,8 @@ msgid "Ngom"
 msgstr ""
 
 #. Name for nrb
-#, fuzzy
 msgid "Nara"
-msgstr "Maori"
+msgstr "Nara"
 
 #. Name for nrc
 #, fuzzy
@@ -23511,9 +23506,8 @@ msgid "Ama (Sudan)"
 msgstr "Ama (Súdan)"
 
 #. Name for nyj
-#, fuzzy
 msgid "Nyanga"
-msgstr "Bosníska"
+msgstr "Nyanga"
 
 #. Name for nyk
 msgid "Nyaneka"
@@ -27425,7 +27419,7 @@ msgstr "Kínverska"
 
 #. Name for run
 msgid "Rundi"
-msgstr "Rundi"
+msgstr "Rundí"
 
 #. Name for ruo
 #, fuzzy
@@ -32094,9 +32088,8 @@ msgid "Tuotomb"
 msgstr ""
 
 #. Name for ttg
-#, fuzzy
 msgid "Tutong"
-msgstr "Makedóníska"
+msgstr "Tutong"
 
 #. Name for tth
 msgid "Upper Ta'oih"
@@ -32488,7 +32481,7 @@ msgstr ""
 
 #. Name for txg
 msgid "Tangut"
-msgstr "Tangut"
+msgstr "Tangút"
 
 #. Name for txh
 msgid "Thracian"

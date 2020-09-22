@@ -10,14 +10,15 @@
 # Meital Bourvine <meitalbourvine@gmail.com>, 2007.
 # Lior Kaplan <kaplan@debian.org>, 2005-2008, 2010-2012, 2015.
 # jeremy rutman <jeremy.rutman@gmail.com>, 2019.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: he\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-07-01 20:01+0000\n"
-"Last-Translator: jeremy rutman <jeremy.rutman@gmail.com>\n"
+"PO-Revision-Date: 2020-09-19 14:36+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/he/>\n"
 "Language: he\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -94,7 +95,7 @@ msgstr "הרפובליקה של ארמניה"
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr "סמואה האמריקאית"
+msgstr "סמואה האמריקנית"
 
 #. Name for ATA
 msgid "Antarctica"
@@ -414,11 +415,11 @@ msgstr "גרמניה"
 
 #. Name for DJI
 msgid "Djibouti"
-msgstr "דג'יבוטי"
+msgstr "ג׳יבוטי"
 
 #. Official name for DJI
 msgid "Republic of Djibouti"
-msgstr "הרפובליקה של דג'יבוטי"
+msgstr "הרפובליקה של ג׳יבוטי"
 
 #. Name for DMA
 msgid "Dominica"
@@ -558,7 +559,7 @@ msgstr "הממלכה המאוחדת של בריטניה הגדולה וצפון 
 
 #. Name for GEO
 msgid "Georgia"
-msgstr "גיאורגיה"
+msgstr "ג׳ורג׳יה"
 
 #. Name for GGY
 msgid "Guernsey"
@@ -994,7 +995,7 @@ msgstr "הרפובליקה של צפון מקדוניה"
 
 #. Name for MLI
 msgid "Mali"
-msgstr "מלי"
+msgstr "מאלי"
 
 #. Official name for MLI
 msgid "Republic of Mali"
@@ -1026,7 +1027,7 @@ msgstr "מונגוליה"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "איי מרינה הצפוניים"
+msgstr "איי מריאנה הצפוניים"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1078,7 +1079,7 @@ msgstr "מלזיה"
 
 #. Name for MYT
 msgid "Mayotte"
-msgstr "מאיוט"
+msgstr "מיוט"
 
 #. Name for NAM
 msgid "Namibia"
@@ -1094,7 +1095,7 @@ msgstr "קלדוניה החדשה"
 
 #. Name for NER
 msgid "Niger"
-msgstr "ניז'ר"
+msgstr "ניז׳ר"
 
 #. Official name for NER
 msgid "Republic of the Niger"
@@ -1230,7 +1231,7 @@ msgstr "הרפובליקה של פולין"
 
 #. Name for PRI
 msgid "Puerto Rico"
-msgstr "פורטו ריקו"
+msgstr "פוארטו ריקו"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
@@ -1362,7 +1363,7 @@ msgstr "אל סלבדור"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "סאן מרינו"
+msgstr "סן מרינו"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
@@ -1582,7 +1583,7 @@ msgstr "אוקראינה"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "האיים הקטנים מסביב לארצות הברית"
+msgstr "האיים המרוחקים הקטנים של ארצות הברית"
 
 #. Name for URY
 msgid "Uruguay"
