@@ -1,3 +1,18 @@
+## 3.1.0 (2020-12-09)
+* Bug #25 fixed, \Sokil\IsoCodes\Database\Countries::getByNumericCode now accept strings instead of ints
+
+## 3.0.6 (2020-09-22)
+* Database version: 4.5.0-99-g3feba234 from 2020-09-22 23:33
+
+## 3.0.5 (2020-05-29)
+* Database version: 4.2-515-g7c579bb0 from 2020-05-29 01:27
+
+## 3.0.4 (2019-11-28)
+* Database version: 4.2-299-gc0e8506 from 2019-11-28 08:56
+
+## 3.0.3 (2019-10-23)
+* Database version: 4.2-277-g3d1d2f11 from 2019-10-23 22:24
+
 ## 3.0.2 (2019-08-28)
 * Database version: iso-codes-4.2-202-gfefebff3 from 2019-08-28 23:03
 

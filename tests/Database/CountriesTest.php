@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Databases;
@@ -57,7 +58,7 @@ class CountriesTest extends TestCase
         );
 
         $this->assertSame(
-            804,
+            '804',
             $country->getNumericCode()
         );
 
@@ -95,7 +96,7 @@ class CountriesTest extends TestCase
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getCountries();
-        $country = $countries->getByNumericCode(804);
+        $country = $countries->getByNumericCode('804');
 
         $this->assertInstanceOf(
             Country::class,

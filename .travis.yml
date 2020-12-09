@@ -5,6 +5,8 @@ dist: trusty
 language: php
 
 php:
+  - 8.0
+  - 7.4
   - 7.3
   - 7.2
   - 7.1
@@ -23,6 +25,7 @@ script: composer test
 jobs:
   allow_failures:
     - php: nightly
+    - php: 8.0
 
   include:
     - stage: Quality assurance
