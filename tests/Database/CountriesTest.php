@@ -112,4 +112,27 @@ class CountriesTest extends TestCase
             $country->getLocalName()
         );
     }
+
+    public function testGetByNumericCodeLeadingZeroes(): void
+    {
+        $isoCodes = new IsoCodesFactory();
+
+        $countries = $isoCodes->getCountries();
+        $country = $countries->getByNumericCode('036');
+
+        $this->assertInstanceOf(
+            Country::class,
+            $country
+        );
+
+        $this->assertEquals(
+            'Australia',
+            $country->getName()
+        );
+
+        $this->assertSame(
+            '036',
+            $country->getNumericCode()
+        );
+    }
 }
