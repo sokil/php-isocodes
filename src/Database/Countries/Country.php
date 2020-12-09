@@ -44,7 +44,7 @@ class Country
         string $name,
         string $alpha2,
         string $alpha3,
-        int $numericCode,
+        string $numericCode,
         ?string $officialName = null
     ) {
         $this->name = $name;
@@ -64,7 +64,7 @@ class Country
         return $this->alpha3;
     }
 
-    public function getNumericCode(): int
+    public function getNumericCode(): string
     {
         return $this->numericCode;
     }

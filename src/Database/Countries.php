@@ -22,7 +22,7 @@ class Countries extends AbstractNotPartitionedDatabase
             $entry['name'],
             $entry['alpha_2'],
             $entry['alpha_3'],
-            (int)$entry['numeric'],
+            $entry['numeric'],
             !empty($entry['official_name']) ? $entry['official_name'] : null
         );
     }
@@ -49,7 +49,7 @@ class Countries extends AbstractNotPartitionedDatabase
         return $this->find('alpha_3', $alpha3);
     }
 
-    public function getByNumericCode(int $code): ?Country
+    public function getByNumericCode(string $code): ?Country
     {
         return $this->find('numeric', $code);
     }
