@@ -30,4 +30,4 @@ jobs:
           commit-message: Database update
           title: Database update
           base: "3.0"
-          branch: "google-actions-release"
+          branch: "github-actions-release"
