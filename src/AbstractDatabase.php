@@ -4,6 +4,9 @@ declare(strict_types=1);
 
 namespace Sokil\IsoCodes;
 
+use Sokil\IsoCodes\TranslationDriver\GettextExtensionDriver;
+use Sokil\IsoCodes\TranslationDriver\TranslationDriverInterface;
+
 /**
  * Abstract collection of ISO entries
  */
@@ -34,17 +37,27 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     private $clusterIndex = [];
 
     /**
-     * @throws \Exception
+     * @var TranslationDriverInterface
      */
-    public function __construct(?string $baseDirectory = null)
-    {
+    private $translationDriver;
+
+    /**
+     * @param string|null $baseDirectory
+     * @param TranslationDriverInterface|null $translationDriver
+     */
+    public function __construct(
+        string $baseDirectory = null,
+        TranslationDriverInterface $translationDriver = null
+    ) {
         if (empty($this->baseDirectory)) {
             $this->baseDirectory = __DIR__ . '/../';
         } else {
             $this->baseDirectory = rtrim($baseDirectory, '/') . '/';
         }
 
-        $this->bindGettextDomain();
+        $this->translationDriver = $translationDriver ?? new GettextExtensionDriver();
+
+        $this->translationDriver->configureDirectory($this->getISONumber(), $this->getLocalMessagesDirPath());
     }
 
     /**
@@ -75,25 +88,6 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     private function getLocalMessagesDirPath(): string
     {
         return $this->baseDirectory . self::MESSAGES_PATH;
-    }
-
-    /**
-     * Initialise domain of gettext translations
-     */
-    private function bindGettextDomain(): void
-    {
-        $isoNumber = $this->getISONumber();
-
-        // add gettext domain
-        \bindtextdomain(
-            $isoNumber,
-            $this->getLocalMessagesDirPath()
-        );
-
-        \bind_textdomain_codeset(
-            $isoNumber,
-            'UTF-8'
-        );
     }
 
     /**

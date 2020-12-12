@@ -14,6 +14,8 @@ use Sokil\IsoCodes\Database\Scripts;
 use Sokil\IsoCodes\Database\Subdivisions;
 use Sokil\IsoCodes\Database\SubdivisionsInterface;
 use Sokil\IsoCodes\Database\SubdivisionsPartitioned;
+use Sokil\IsoCodes\TranslationDriver\GettextExtensionDriver;
+use Sokil\IsoCodes\TranslationDriver\TranslationDriverInterface;
 
 /**
  * Factory class to build ISO databases
@@ -53,9 +55,17 @@ class IsoCodesFactory
      */
     private $baseDirectory;
 
-    public function __construct(?string $baseDirectory = null)
-    {
+    /**
+     * @var TranslationDriverInterface
+     */
+    private $translationDriver;
+
+    public function __construct(
+        string $baseDirectory = null,
+        TranslationDriverInterface $translationDriver = null
+    ) {
         $this->baseDirectory = $baseDirectory;
+        $this->translationDriver = $translationDriver ?? new GettextExtensionDriver();
     }
 
     /**
@@ -63,7 +73,7 @@ class IsoCodesFactory
      */
     public function getCountries(): Countries
     {
-        return new Countries($this->baseDirectory);
+        return new Countries($this->baseDirectory, $this->translationDriver);
     }
 
     /**
@@ -77,10 +87,10 @@ class IsoCodesFactory
     {
         switch ($optimisation) {
             case self::OPTIMISATION_MEMORY:
-                $database = new SubdivisionsPartitioned($this->baseDirectory);
+                $database = new SubdivisionsPartitioned($this->baseDirectory, $this->translationDriver);
                 break;
             case self::OPTIMISATION_IO:
-                $database = new Subdivisions($this->baseDirectory);
+                $database = new Subdivisions($this->baseDirectory, $this->translationDriver);
                 break;
             default:
                 throw new \InvalidArgumentException('Invalid optimisation specified');
@@ -94,7 +104,7 @@ class IsoCodesFactory
      */
     public function getHistoricCountries(): HistoricCountries
     {
-        return new HistoricCountries($this->baseDirectory);
+        return new HistoricCountries($this->baseDirectory, $this->translationDriver);
     }
 
     /**
@@ -102,7 +112,7 @@ class IsoCodesFactory
      */
     public function getScripts(): Scripts
     {
-        return new Scripts($this->baseDirectory);
+        return new Scripts($this->baseDirectory, $this->translationDriver);
     }
 
     /**
@@ -110,7 +120,7 @@ class IsoCodesFactory
      */
     public function getCurrencies(): Currencies
     {
-        return new Currencies($this->baseDirectory);
+        return new Currencies($this->baseDirectory, $this->translationDriver);
     }
 
     /**
@@ -124,10 +134,10 @@ class IsoCodesFactory
     {
         switch ($optimisation) {
             case self::OPTIMISATION_MEMORY:
-                $database = new LanguagesPartitioned($this->baseDirectory);
+                $database = new LanguagesPartitioned($this->baseDirectory, $this->translationDriver);
                 break;
             case self::OPTIMISATION_IO:
-                $database = new Languages($this->baseDirectory);
+                $database = new Languages($this->baseDirectory, $this->translationDriver);
                 break;
             default:
                 throw new \InvalidArgumentException('Invalid optimisation specified');

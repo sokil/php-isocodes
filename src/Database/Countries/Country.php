@@ -38,9 +38,6 @@ class Country
      */
     private $officialName;
 
-    /**
-     * Country constructor.
-     */
     public function __construct(
         string $name,
         string $alpha2,
