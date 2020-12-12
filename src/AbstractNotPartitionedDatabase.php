@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes;
@@ -101,7 +102,7 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
     }
 
     /**
-     * @param string|int $fieldValue
+     * @param string $fieldValue
      *
      * @return object|mixed[]|null
      */

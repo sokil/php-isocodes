@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database\Subdivisions;
@@ -33,7 +34,10 @@ class Subdivision
     private $parent;
 
     /**
-     * Subdivision constructor.
+     * @param string $name
+     * @param string $code
+     * @param string $type
+     * @param string|null $parent
      */
     public function __construct(
         string $name,

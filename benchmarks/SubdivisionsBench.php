@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Databases;
@@ -38,7 +39,7 @@ class SubdivisionsBench
     public function benchIterator(array $params): void
     {
         /** @var Subdivisions|SubdivisionsPartitioned $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->toArray();
     }
@@ -51,7 +52,7 @@ class SubdivisionsBench
     public function benchGetByCodeSameCode(array $params): void
     {
         /** @var Subdivisions|SubdivisionsPartitioned $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->getByCode('UA-43');
         $database->getByCode('UA-43');
@@ -68,7 +69,7 @@ class SubdivisionsBench
     public function benchGetAllByCountryCodeSameAlpha2CountryCode(array $params): void
     {
         /** @var Subdivisions|SubdivisionsPartitioned $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->getAllByCountryCode('UA');
         $database->getAllByCountryCode('UA');
@@ -85,11 +86,10 @@ class SubdivisionsBench
     public function benchGetAllByCountryCodeDiffAlpha2CountryCode(array $params): void
     {
         /** @var Subdivisions|SubdivisionsPartitioned $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         foreach ($params['countries'] as $countryAlpha2) {
             $database->getAllByCountryCode($countryAlpha2);
         }
     }
-
 }

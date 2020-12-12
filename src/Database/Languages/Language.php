@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database\Languages;
@@ -10,25 +11,25 @@ class Language
     /**
      * @see https://iso639-3.sil.org/about/scope
      */
-    const SCOPE_COLLECTIVE = 'C';
-    const SCOPE_INDIVIDUAL = 'I';
-    const SCOPE_LOCAL = 'L';
-    const SCOPE_MACROLANGUAGE = 'M';
-    const SCOPE_SPECIAL = 'S';
+    public const SCOPE_COLLECTIVE = 'C';
+    public const SCOPE_INDIVIDUAL = 'I';
+    public const SCOPE_LOCAL = 'L';
+    public const SCOPE_MACROLANGUAGE = 'M';
+    public const SCOPE_SPECIAL = 'S';
 
     /**
      * @see https://iso639-3.sil.org/about/types
      */
-    const TYPE_ANCIENT = 'A';
-    const TYPE_CONSTRUCTED = 'C';
-    const TYPE_EXTINCT = 'E';
-    const TYPE_GENETIC = 'GENETIC'; // not supported
-    const TYPE_GENETIC_ANCIENT = 'GENETIC_ANCIENT'; // not supported
-    const TYPE_GENETIC_LIKE = 'GENETIC_LIKE'; // not supported
-    const TYPE_GEOGRAPHIC = 'GEOGRAPHIC'; // not supported
-    const TYPE_HISTORICAL = 'H';
-    const TYPE_LIVING = 'L';
-    const TYPE_SPECIAL = 'S';
+    public const TYPE_ANCIENT = 'A';
+    public const TYPE_CONSTRUCTED = 'C';
+    public const TYPE_EXTINCT = 'E';
+    public const TYPE_GENETIC = 'GENETIC'; // not supported
+    public const TYPE_GENETIC_ANCIENT = 'GENETIC_ANCIENT'; // not supported
+    public const TYPE_GENETIC_LIKE = 'GENETIC_LIKE'; // not supported
+    public const TYPE_GEOGRAPHIC = 'GEOGRAPHIC'; // not supported
+    public const TYPE_HISTORICAL = 'H';
+    public const TYPE_LIVING = 'L';
+    public const TYPE_SPECIAL = 'S';
 
     /**
      * @var string

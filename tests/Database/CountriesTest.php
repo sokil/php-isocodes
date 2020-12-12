@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Sokil\IsoCodes\Databases;
 
 use Sokil\IsoCodes\Database\Countries\Country;
-use \Sokil\IsoCodes\IsoCodesFactory;
+use Sokil\IsoCodes\IsoCodesFactory;
 use PHPUnit\Framework\TestCase;
 
 class CountriesTest extends TestCase

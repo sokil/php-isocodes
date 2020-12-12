@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes;
@@ -69,6 +70,8 @@ class IsoCodesFactory
      * ISO 3166-2
      *
      * @param int $optimisation One of self::OPTIMISATION_* constants
+     *
+     * @throws \InvalidArgumentException When invalid optimisation specified
      */
     public function getSubdivisions(int $optimisation = self::OPTIMISATION_MEMORY): SubdivisionsInterface
     {
@@ -114,6 +117,8 @@ class IsoCodesFactory
      * ISO 639-3
      *
      * @param int $optimisation One of self::OPTIMISATION_* constants
+     *
+     * @throws \InvalidArgumentException When invalid optimisation specified
      */
     public function getLanguages(int $optimisation = self::OPTIMISATION_MEMORY): LanguagesInterface
     {

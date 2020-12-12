@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes;
@@ -13,7 +14,7 @@ abstract class AbstractPartitionedDatabase extends AbstractDatabase
      *
      * @return array
      */
-    protected function loadFromJSONFile(string $fileName) : array
+    protected function loadFromJSONFile(string $fileName): array
     {
         $pathToPartitionFile = sprintf(
             '%s/iso_%s/%s.json',

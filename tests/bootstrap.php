@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 putenv('LANGUAGE=uk_UA.UTF-8');

@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes;
@@ -11,12 +12,12 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * Default ath ISO databases
      */
-    const DATABASE_PATH = 'databases';
+    public const DATABASE_PATH = 'databases';
 
     /**
      * Default path to gettext localised messages
      */
-    const MESSAGES_PATH = 'messages';
+    public const MESSAGES_PATH = 'messages';
 
     /**
      * Path to directory with databases

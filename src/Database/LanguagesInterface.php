@@ -1,10 +1,6 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: sokil
- * Date: 01.06.19
- * Time: 15:54
- */
+
+declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Database;
 

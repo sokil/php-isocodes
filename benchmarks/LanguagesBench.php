@@ -1,4 +1,5 @@
 <?php
+
 declare(strict_types=1);
 
 namespace Sokil\IsoCodes\Databases;
@@ -28,7 +29,7 @@ class LanguagesBench
     public function benchIterator(array $params): void
     {
         /** @var Languages|LanguagesPartitioned $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->toArray();
     }
@@ -41,7 +42,7 @@ class LanguagesBench
     public function benchGetBySameAlpha2(array $params): void
     {
         /** @var Languages|LanguagesPartitioned $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->getByAlpha2('sv');
         $database->getByAlpha2('sv');
@@ -58,7 +59,7 @@ class LanguagesBench
     public function benchGetByDiffAlpha2(array $params): void
     {
         /** @var Languages|LanguagesPartitioned $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->getByAlpha2('sv');
         $database->getByAlpha2('ku');
@@ -75,7 +76,7 @@ class LanguagesBench
     public function benchGetBySameAlpha3(array $params): void
     {
         /** @var LanguagesPartitioned|Languages $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->getByAlpha2('zpz');
         $database->getByAlpha2('zpz');
@@ -92,7 +93,7 @@ class LanguagesBench
     public function benchGetByDiffAlpha3(array $params): void
     {
         /** @var LanguagesPartitioned|Languages $database */
-        $database = new $params['database'];
+        $database = new $params['database']();
 
         $database->getByAlpha2('svx');
         $database->getByAlpha2('kuz');
@@ -100,5 +101,4 @@ class LanguagesBench
         $database->getByAlpha2('azz');
         $database->getByAlpha2('twy');
     }
-
 }
