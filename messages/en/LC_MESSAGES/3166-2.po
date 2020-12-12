@@ -9,14 +9,15 @@
 # Jennifer Maldonado <maldoheff69@gmail.com>, 2019.
 # Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
+# tao wang <tonywang5@163.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2020-05-22 13:41+0000\n"
-"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
+"PO-Revision-Date: 2020-12-01 15:29+0000\n"
+"Last-Translator: tao wang <tonywang5@163.com>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/en/>\n"
 "Language: en\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -47,13 +48,12 @@ msgid "Sant Julià de Lòria"
 msgstr ""
 
 #. Name for AD-07
-#, fuzzy
 msgid "Andorra la Vella"
 msgstr "Andorra la Vella"
 
 #. Name for AD-08
 msgid "Escaldes-Engordany"
-msgstr ""
+msgstr "Escaldes-Engordany"
 
 #. Name for AE-AJ
 #, fuzzy
@@ -1476,7 +1476,7 @@ msgstr "West-Vlaanderen"
 
 #. Name for BE-WAL
 msgid "wallonne, Région"
-msgstr ""
+msgstr "Wallonia, Region"
 
 #. Name for BE-WBR
 #, fuzzy
@@ -4108,7 +4108,7 @@ msgstr "Baden-Wuerttemberg"
 
 #. Name for DE-BY
 msgid "Bayern"
-msgstr "Bayern"
+msgstr "Bavaria"
 
 #. Name for DE-HB
 msgid "Bremen"
@@ -10448,7 +10448,7 @@ msgstr "Likouala"
 
 #. Name for LK-6
 msgid "Vayamba paḷāta"
-msgstr ""
+msgstr "North Western Province"
 
 #. Name for LK-61
 #, fuzzy
@@ -15927,7 +15927,7 @@ msgstr "Ryazanskaya oblast'"
 #. Name for RU-SA
 #, fuzzy
 msgid "Sakha, Respublika [Yakutiya]"
-msgstr "Sakha, Respublika [Yakutiya]"
+msgstr "The Sakha (Yakutia) Republic"
 
 #. Name for RU-SAK
 msgid "Sakhalinskaya oblast'"

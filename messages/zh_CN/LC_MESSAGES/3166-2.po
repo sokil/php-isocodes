@@ -9,23 +9,24 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Ji YongGang <jungle@soforge.com>, 2007.
 # LI Daobing <lidaobing@gmail.com>, 2007-2009, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019.
+# Boyuan Yang <073plan@gmail.com>, 2019, 2020.
+# tao wang <tonywang5@163.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2019-10-05 09:56+0000\n"
-"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-2/zh_Hans/>\n"
+"PO-Revision-Date: 2020-10-23 06:26+0000\n"
+"Last-Translator: tao wang <tonywang5@163.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-2/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.3.1\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -675,47 +676,43 @@ msgstr "西澳大利亚州"
 
 #. Name for AZ-ABS
 msgid "Abşeron"
-msgstr "阿布歇隆"
+msgstr "阿布歇隆区"
 
 #. Name for AZ-AGA
 msgid "Ağstafa"
-msgstr "阿克斯塔法"
+msgstr "阿克斯塔法区"
 
 #. Name for AZ-AGC
 msgid "Ağcabədi"
-msgstr ""
+msgstr "阿格贾贝迪区"
 
 #. Name for AZ-AGM
-#, fuzzy
 msgid "Ağdam"
-msgstr "阿达马瓦州"
+msgstr "阿格达姆区"
 
 #. Name for AZ-AGS
 msgid "Ağdaş"
-msgstr ""
+msgstr "阿格达什区"
 
 #. Name for AZ-AGU
-#, fuzzy
 msgid "Ağsu"
-msgstr "艾斯尤特"
+msgstr "阿赫苏区"
 
 #. Name for AZ-AST
 msgid "Astara"
-msgstr "阿斯特拉"
+msgstr "阿斯塔拉区"
 
 #. Name for AZ-BA
 msgid "Bakı"
 msgstr "巴库"
 
 #. Name for AZ-BAB
-#, fuzzy
 msgid "Babək"
-msgstr "巴库"
+msgstr "巴贝克区"
 
 #. Name for AZ-BAL
-#, fuzzy
 msgid "Balakən"
-msgstr "巴拉卡县"
+msgstr "巴拉肯区"
 
 #. Name for AZ-BAR
 msgid "Bərdə"
@@ -1016,7 +1013,7 @@ msgstr "扎达尔"
 
 #. Name for BA-09
 msgid "Kanton Sarajevo"
-msgstr ""
+msgstr "萨拉热窝省"
 
 #. Name for BA-10
 msgid "Kanton br. 10 (Livanjski kanton)"
@@ -1414,7 +1411,7 @@ msgstr "西佛兰德省"
 
 #. Name for BE-WAL
 msgid "wallonne, Région"
-msgstr ""
+msgstr "瓦隆大区"
 
 #. Name for BE-WBR
 #, fuzzy
@@ -2979,7 +2976,7 @@ msgstr "甘肃省"
 
 #. Name for CN-GX
 msgid "Guangxi Zhuangzu Zizhiqu"
-msgstr ""
+msgstr "广西壮族自治区"
 
 #. Name for CN-GZ
 #, fuzzy
@@ -3013,7 +3010,7 @@ msgstr "海南省"
 
 #. Name for CN-HK
 msgid "Hong Kong SAR (see also separate country code entry under HK)"
-msgstr ""
+msgstr "香港特别行政区（还请参见 HK 下单独的国家地区代码条目）"
 
 #. Name for CN-HL
 #, fuzzy
@@ -3053,7 +3050,7 @@ msgstr "辽宁省"
 
 #. Name for CN-MO
 msgid "Macao SAR (see also separate country code entry under MO)"
-msgstr ""
+msgstr "澳门特别行政区（还请参见 MO 下单独的国家地区代码条目）"
 
 #. Name for CN-NM
 #, fuzzy
@@ -3063,7 +3060,7 @@ msgstr "内蒙古自治区"
 
 #. Name for CN-NX
 msgid "Ningxia Huizi Zizhiqu"
-msgstr ""
+msgstr "宁夏回族自治区"
 
 #. Name for CN-QH
 #, fuzzy
@@ -3109,11 +3106,11 @@ msgstr "天津市"
 
 #. Name for CN-TW
 msgid "Taiwan Sheng (see also separate country code entry under TW)"
-msgstr ""
+msgstr "台湾省（还请参见 TW下单独的国家地区代码条目）"
 
 #. Name for CN-XJ
 msgid "Xinjiang Uygur Zizhiqu"
-msgstr ""
+msgstr "新疆维吾尔自治区"
 
 #. Name for CN-XZ
 #, fuzzy
@@ -4065,7 +4062,7 @@ msgstr "迪奇尔州"
 
 #. Name for DJ-DJ
 msgid "Djibouti"
-msgstr "吉布提市"
+msgstr "吉布提"
 
 #. Name for DJ-OB
 msgid "Obock"
@@ -6402,7 +6399,6 @@ msgid "Rochdale"
 msgstr "罗奇代尔市"
 
 #. Name for GB-RCT
-#, fuzzy
 msgid "Rhondda, Cynon, Taff; Rhondda, Cynon, Taf"
 msgstr "朗达卡农塔夫"
 
@@ -6581,7 +6577,6 @@ msgid "United Kingdom"
 msgstr "英国"
 
 #. Name for GB-VGL
-#, fuzzy
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
 msgstr "格拉摩根谷"
 
@@ -6908,7 +6903,7 @@ msgstr "芒加纳"
 
 #. Name for GN-ML
 msgid "Mali"
-msgstr "马利"
+msgstr "马里省"
 
 #. Name for GN-N, Name for GN-NZ
 msgid "Nzérékoré"
@@ -10181,13 +10176,12 @@ msgid "Mātara"
 msgstr "马特勒"
 
 #. Name for LK-33
-#, fuzzy
 msgid "Hambantŏṭa"
-msgstr "汉班托特"
+msgstr "汉班托塔"
 
 #. Name for LK-4
 msgid "Uturu paḷāta"
-msgstr ""
+msgstr "北方省"
 
 #. Name for LK-41
 msgid "Yāpanaya"
@@ -10234,7 +10228,7 @@ msgstr "利夸拉"
 
 #. Name for LK-6
 msgid "Vayamba paḷāta"
-msgstr ""
+msgstr "西北省"
 
 #. Name for LK-61
 #, fuzzy
@@ -15669,9 +15663,8 @@ msgid "Ryazanskaya oblast'"
 msgstr "梁赞州"
 
 #. Name for RU-SA
-#, fuzzy
 msgid "Sakha, Respublika [Yakutiya]"
-msgstr "萨哈共和国"
+msgstr "萨哈（雅库特）共和国"
 
 #. Name for RU-SAK
 msgid "Sakhalinskaya oblast'"
@@ -17159,12 +17152,11 @@ msgstr "万象"
 
 #. Name for SM-06
 msgid "Borgo Maggiore"
-msgstr ""
+msgstr "博尔戈马焦雷"
 
 #. Name for SM-07
-#, fuzzy
 msgid "San Marino"
-msgstr "圣马丁区域"
+msgstr "圣马力诺市"
 
 #. Name for SM-08
 #, fuzzy
