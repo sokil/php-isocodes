@@ -1,0 +1,28 @@
+name: Release
+
+on:
+  schedule:
+    - cron:  '0 4 2 * *'
+
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: "3.0"
+
+      - name: Start release
+        run: ./bin/release.sh
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          committer: Dmytro Sokil <dmytro.sokil@gmail.com>
+          author: Dmytro Sokil <dmytro.sokil@gmail.com>
+          commit-message: Database update
+          title: Database update
+          base: "3.0"
+          branch: "google-actions-release"
