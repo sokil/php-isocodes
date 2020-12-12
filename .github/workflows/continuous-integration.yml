@@ -65,6 +65,9 @@ jobs:
         if: steps.composer-cache.outputs.cache-hit != 'true'
         run: composer install --prefer-dist --no-progress --no-suggest
 
+      - name: Configure locale
+        run: sudo locale-gen uk_UA.UTF-8
+
       - name: Prepare dir
         run: mkdir -p build/logs
 
@@ -91,4 +94,4 @@ jobs:
         run: composer install --prefer-dist --no-progress --no-suggest
 
       - name: Run style checks
-        run: check-style
+        run: composer check-style
