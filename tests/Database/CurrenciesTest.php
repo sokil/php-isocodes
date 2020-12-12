@@ -22,7 +22,7 @@ class CurrenciesTest extends TestCase
             );
         }
     }
-    
+
     public function testGetByLetterCode(): void
     {
         $isoCodes = new IsoCodesFactory();
@@ -55,7 +55,7 @@ class CurrenciesTest extends TestCase
             $currency->getNumericCode()
         );
     }
-        
+
     public function testGetByNumericCode(): void
     {
         $isoCodes = new IsoCodesFactory();

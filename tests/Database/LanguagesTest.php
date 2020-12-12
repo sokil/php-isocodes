@@ -44,7 +44,7 @@ class LanguagesTest extends TestCase
     public function testGetByAlpha2(AbstractDatabase $languageDatabase): void
     {
         $language = $languageDatabase->getByAlpha2('uk');
-        
+
         $this->assertInstanceOf(
             Language::class,
             $language
@@ -92,7 +92,7 @@ class LanguagesTest extends TestCase
     public function testGetByAlpha3(AbstractDatabase $languageDatabase): void
     {
         $language = $languageDatabase->getByAlpha3('ukr');
-        
+
         $this->assertEquals(
             'Ukrainian',
             $language->getName()

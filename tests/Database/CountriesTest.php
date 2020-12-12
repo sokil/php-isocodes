@@ -91,12 +91,27 @@ class CountriesTest extends TestCase
         );
     }
 
-    public function testGetByNumericCode(): void
+    public function getByNumericCodeDataProvider()
+    {
+        return [
+            [
+                804
+            ],
+            [
+                '804'
+            ],
+        ];
+    }
+
+    /**
+     * @dataProvider getByNumericCodeDataProvider
+     */
+    public function testGetByNumericCode($code): void
     {
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getCountries();
-        $country = $countries->getByNumericCode('804');
+        $country = $countries->getByNumericCode($code);
 
         $this->assertInstanceOf(
             Country::class,
@@ -112,6 +127,16 @@ class CountriesTest extends TestCase
             'Україна',
             $country->getLocalName()
         );
+    }
+
+    public function testGetByNumericCodeNegative(): void
+    {
+        $this->expectException(\TypeError::class);
+
+        $isoCodes = new IsoCodesFactory();
+
+        $countries = $isoCodes->getCountries();
+        $country = $countries->getByNumericCode('kek');
     }
 
     public function testGetByNumericCodeLeadingZeroes(): void

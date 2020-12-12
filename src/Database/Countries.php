@@ -50,8 +50,22 @@ class Countries extends AbstractNotPartitionedDatabase
         return $this->find('alpha_3', $alpha3);
     }
 
-    public function getByNumericCode(string $code): ?Country
+    /**
+     * Using int code argument is deprecated due to it can be with leading 0 (e.g. '042').
+     * Please, use numeric strings.
+     *
+     * @param string|int $code
+     *
+     * @return Country|null
+     *
+     * @throws \TypeError
+     */
+    public function getByNumericCode($code): ?Country
     {
+        if (!is_numeric($code)) {
+            throw new \TypeError('Argument must be int or string');
+        }
+
         return $this->find('numeric', $code);
     }
 }

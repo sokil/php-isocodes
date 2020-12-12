@@ -35,7 +35,7 @@ class HistoricCountriesTest extends TestCase
             Country::class,
             $country
         );
-        
+
         $this->assertEquals(
             'Zaire, Republic of',
             $country->getName()
@@ -66,13 +66,13 @@ class HistoricCountriesTest extends TestCase
             $country->getNumericCode()
         );
     }
-    
+
     public function testGetLocalByAlpha4(): void
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
+
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getHistoricCountries();
@@ -88,7 +88,7 @@ class HistoricCountriesTest extends TestCase
             $country->getLocalName()
         );
     }
-    
+
     public function testGetByAlpha3(): void
     {
         $isoCodes = new IsoCodesFactory();
@@ -106,13 +106,13 @@ class HistoricCountriesTest extends TestCase
             $country->getName()
         );
     }
-    
+
     public function testGetLocalByAlpha3(): void
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
+
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getHistoricCountries();
@@ -128,7 +128,7 @@ class HistoricCountriesTest extends TestCase
             $country->getLocalName()
         );
     }
-    
+
     public function testGetByNumericCode(): void
     {
         $isoCodes = new IsoCodesFactory();
@@ -146,13 +146,13 @@ class HistoricCountriesTest extends TestCase
             $country->getName()
         );
     }
-    
+
     public function testGetLocalByNumericCode(): void
     {
         putenv('LANGUAGE=uk_UA.UTF-8');
         putenv('LC_ALL=uk_UA.UTF-8');
         setlocale(LC_ALL, 'uk_UA.UTF-8');
-        
+
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getHistoricCountries();
