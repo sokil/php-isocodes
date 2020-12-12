@@ -42,7 +42,7 @@ echo -e "\033[0;32mUpdate pkg-isocodes repository\033[0m"
 
 if [[ -d $PKG_ISOCODES_DIR ]]; then
     cd $PKG_ISOCODES_DIR
-    git pull origin master
+    git pull origin main
     cd - > /dev/null
 else
     mkdir -p $PKG_ISOCODES_DIR
