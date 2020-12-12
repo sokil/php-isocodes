@@ -13,6 +13,11 @@ jobs:
       - uses: actions/checkout@v2
         with:
           ref: "3.0"
+      
+      - name: Prepare environment
+        run: |
+          sudo apt install gettext
+          sudo locale-gen uk_UA.UTF-8
 
       - name: Start release
         run: ./bin/release.sh
