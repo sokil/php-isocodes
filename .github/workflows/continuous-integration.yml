@@ -7,8 +7,7 @@ on:
     branches: [ "3.0" ]
 
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
 
     strategy:
@@ -26,7 +25,6 @@ jobs:
       with:
         php-version: ${{ matrix.php-version }}
         ini-values: post_max_size=256M, max_execution_time=180
-        coverage: xdebug
         
     - name: Validate composer.json and composer.lock
       run: composer validate
@@ -49,3 +47,48 @@ jobs:
 
     - name: Run test suite
       run: composer test
+
+  codeCoverage:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "7.4"
+          ini-values: post_max_size=256M, max_execution_time=180
+          coverage: xdebug
+
+      - name: Install dependencies
+        if: steps.composer-cache.outputs.cache-hit != 'true'
+        run: composer install --prefer-dist --no-progress --no-suggest
+
+      - name: Prepare dir
+        run: mkdir -p build/logs
+
+      - name: Get code coverage report
+        run: composer cover
+
+      - name: Send code coverage report
+        run: composer coveralls
+
+  quality:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "7.4"
+          ini-values: post_max_size=256M, max_execution_time=180
+
+      - name: Install dependencies
+        if: steps.composer-cache.outputs.cache-hit != 'true'
+        run: composer install --prefer-dist --no-progress --no-suggest
+
+      - name: Run style checks
+        run: check-style
