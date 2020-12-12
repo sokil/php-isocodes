@@ -10,14 +10,15 @@
 # GNOME PL Team <translators@gnome.pl>, 2001.
 # Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2019, 2020.
 # WaldiS <admin@sto.ugu.pl>, 2018.
+# Jakub Fabijan <animatorzPolski@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-22 13:41+0000\n"
-"Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
+"PO-Revision-Date: 2020-11-24 13:29+0000\n"
+"Last-Translator: Jakub Fabijan <animatorzPolski@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/pl/>\n"
 "Language: pl\n"
@@ -26,20 +27,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
 msgid "Ghotuo"
-msgstr ""
+msgstr "Ghotuo"
 
 #. Name for aab
 msgid "Alumu-Tesu"
-msgstr ""
+msgstr "Alumu-tesu"
 
 #. Name for aac
 msgid "Ari"
-msgstr ""
+msgstr "Ari"
 
 #. Name for aad
 msgid "Amal"
@@ -55,15 +56,15 @@ msgstr "albański, arboreski"
 
 #. Name for aaf
 msgid "Aranadan"
-msgstr ""
+msgstr "Aranadański"
 
 #. Name for aag
 msgid "Ambrak"
-msgstr ""
+msgstr "Ambrak"
 
 #. Name for aah
 msgid "Abu' Arapesh"
-msgstr ""
+msgstr "Arapesz abu"
 
 #. Inverted name for aah
 msgid "Arapesh, Abu'"
@@ -83,7 +84,7 @@ msgstr ""
 
 #. Name for aan
 msgid "Anambé"
-msgstr ""
+msgstr "Anambe"
 
 #. Name for aao
 msgid "Algerian Saharan Arabic"
@@ -95,7 +96,7 @@ msgstr "arabski, algierski saharyjski"
 
 #. Name for aap
 msgid "Pará Arára"
-msgstr ""
+msgstr "Arara parajski"
 
 #. Inverted name for aap
 msgid "Arára, Pará"

@@ -5,7 +5,7 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Viktar Vauchkevich <victorenator@gmail.com>, 2018, 2019.
+# Viktar Vauchkevich <victorenator@gmail.com>, 2018, 2019, 2020.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
 msgid ""
 msgstr ""
@@ -13,8 +13,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2020-05-22 13:41+0000\n"
-"Last-Translator: Serge Karpesh <skarpiesz@gmail.com>\n"
+"PO-Revision-Date: 2020-09-24 20:41+0000\n"
+"Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/be/>\n"
 "Language: be\n"
@@ -23,7 +23,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -8769,7 +8769,7 @@ msgstr ""
 
 #. Name for KE-06
 msgid "Embu"
-msgstr ""
+msgstr "Эмбу"
 
 #. Name for KE-07
 msgid "Garissa"
