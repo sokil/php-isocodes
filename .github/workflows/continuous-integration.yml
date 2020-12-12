@@ -74,10 +74,10 @@ jobs:
       - name: Get code coverage report
         run: composer cover
 
-      - name: Coveralls
-        uses: coverallsapp/github-action@master
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload coverage results to Coveralls
+        env:
+          COVERALLS_REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: composer coveralls
 
   quality:
     runs-on: ubuntu-latest
