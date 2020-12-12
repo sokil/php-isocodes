@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Ajeje Brazorf <lmelonimamo@yahoo.it>, 2018, 2019.
+# Ajeje Brazorf <lmelonimamo@yahoo.it>, 2018, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2019-06-26 16:01+0000\n"
+"PO-Revision-Date: 2020-11-21 12:28+0000\n"
 "Last-Translator: Ajeje Brazorf <lmelonimamo@yahoo.it>\n"
 "Language-Team: Sardinian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/sc/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7.1-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2240,8 +2240,6 @@ msgid "Southern"
 msgstr "Meridionale"
 
 #. Name for BY-BR
-#, fuzzy
-#| msgid "Brèsckaja voblasc'"
 msgid "Bresckaja voblasć"
 msgstr "Regione de Brest"
 
@@ -2250,32 +2248,22 @@ msgid "Horad Minsk"
 msgstr "Horad Minsk"
 
 #. Name for BY-HO
-#, fuzzy
-#| msgid "Homel'skaja voblasc'"
 msgid "Homieĺskaja voblasć"
 msgstr "Regione de Homiel"
 
 #. Name for BY-HR
-#, fuzzy
-#| msgid "Hrodzenskaja voblasc'"
 msgid "Hrodzienskaja voblasć"
-msgstr "Regione de Hronda"
+msgstr "Regione de Hrodna"
 
 #. Name for BY-MA
-#, fuzzy
-#| msgid "Mahilëuskaja voblasc'"
 msgid "Mahilioŭskaja voblasć"
 msgstr "Regione de Mahilou"
 
 #. Name for BY-MI
-#, fuzzy
-#| msgid "Minskaja voblasc'"
 msgid "Minskaja voblasć"
 msgstr "Regione de Minsk"
 
 #. Name for BY-VI
-#, fuzzy
-#| msgid "Vicebskaja voblasc'"
 msgid "Viciebskaja voblasć"
 msgstr "Regione de Vitebsk"
 
@@ -2784,168 +2772,120 @@ msgid "Anhui Sheng"
 msgstr "Anhui"
 
 #. Name for CN-BJ
-#, fuzzy
-#| msgid "Beijing"
 msgid "Beijing Shi"
 msgstr "Pechinu"
 
 #. Name for CN-CQ
-#, fuzzy
-#| msgid "Chongqing"
 msgid "Chongqing Shi"
 msgstr "Chongqing"
 
 #. Name for CN-FJ
-#, fuzzy
-#| msgid "Fujian"
 msgid "Fujian Sheng"
 msgstr "Fujian"
 
 #. Name for CN-GD
-#, fuzzy
-#| msgid "Guangdong"
 msgid "Guangdong Sheng"
 msgstr "Guangdong"
 
 #. Name for CN-GS
-#, fuzzy
-#| msgid "Gansu"
 msgid "Gansu Sheng"
 msgstr "Gansu"
 
 #. Name for CN-GX
 msgid "Guangxi Zhuangzu Zizhiqu"
-msgstr ""
+msgstr "Guangxi Zhuang"
 
 #. Name for CN-GZ
-#, fuzzy
-#| msgid "Guizhou"
 msgid "Guizhou Sheng"
 msgstr "Guizhou"
 
 #. Name for CN-HA
-#, fuzzy
-#| msgid "Henan"
 msgid "Henan Sheng"
 msgstr "Henan"
 
 #. Name for CN-HB
-#, fuzzy
-#| msgid "Hubei"
 msgid "Hubei Sheng"
 msgstr "Hubei"
 
 #. Name for CN-HE
-#, fuzzy
-#| msgid "Hebei"
 msgid "Hebei Sheng"
 msgstr "Hebei"
 
 #. Name for CN-HI
-#, fuzzy
-#| msgid "Hainan"
 msgid "Hainan Sheng"
 msgstr "Hainan"
 
 #. Name for CN-HK
 msgid "Hong Kong SAR (see also separate country code entry under HK)"
-msgstr ""
+msgstr "Hong Kong SAR (pòmpia fintzas su còdighe de istadu separadu HK)"
 
 #. Name for CN-HL
-#, fuzzy
-#| msgid "Heilongjiang"
 msgid "Heilongjiang Sheng"
 msgstr "Heilongjiang"
 
 #. Name for CN-HN
-#, fuzzy
-#| msgid "Hunan"
 msgid "Hunan Sheng"
 msgstr "Hunan"
 
 #. Name for CN-JL
-#, fuzzy
-#| msgid "Jilin"
 msgid "Jilin Sheng"
 msgstr "Jilin"
 
 #. Name for CN-JS
-#, fuzzy
-#| msgid "Jiangsu"
 msgid "Jiangsu Sheng"
 msgstr "Jiangsu"
 
 #. Name for CN-JX
-#, fuzzy
-#| msgid "Jiangxi"
 msgid "Jiangxi Sheng"
 msgstr "Jiangxi"
 
 #. Name for CN-LN
-#, fuzzy
-#| msgid "Liaoning"
 msgid "Liaoning Sheng"
 msgstr "Liaoning"
 
 #. Name for CN-MO
 msgid "Macao SAR (see also separate country code entry under MO)"
-msgstr ""
+msgstr "Macao SAR (pòmpia fintzas su còdighe de istadu separadu MO)"
 
 #. Name for CN-NM
-#, fuzzy
-#| msgid "Nei Mongol"
 msgid "Nei Mongol Zizhiqu"
 msgstr "Mongòlia interna"
 
 #. Name for CN-NX
 msgid "Ningxia Huizi Zizhiqu"
-msgstr ""
+msgstr "Ningxia Hui"
 
 #. Name for CN-QH
-#, fuzzy
-#| msgid "Qinghai"
 msgid "Qinghai Sheng"
 msgstr "Qinghai"
 
 #. Name for CN-SC
-#, fuzzy
-#| msgid "Sichuan"
 msgid "Sichuan Sheng"
 msgstr "Sichuan"
 
 #. Name for CN-SD
-#, fuzzy
-#| msgid "Shandong"
 msgid "Shandong Sheng"
 msgstr "Shandong"
 
 #. Name for CN-SH
-#, fuzzy
-#| msgid "Shanghai"
 msgid "Shanghai Shi"
 msgstr "Shanghai"
 
 #. Name for CN-SN
-#, fuzzy
-#| msgid "Shaanxi"
 msgid "Shaanxi Sheng"
 msgstr "Shaanxi"
 
 #. Name for CN-SX
-#, fuzzy
-#| msgid "Shanxi"
 msgid "Shanxi Sheng"
 msgstr "Shanxi"
 
 #. Name for CN-TJ
-#, fuzzy
-#| msgid "Tianjin"
 msgid "Tianjin Shi"
 msgstr "Tianjin"
 
 #. Name for CN-TW
 msgid "Taiwan Sheng (see also separate country code entry under TW)"
-msgstr ""
+msgstr "Taiwan (pòmpia fintzas su còdighe de istadu separadu TW)"
 
 #. Name for CN-XJ
 msgid "Xinjiang Uygur Zizhiqu"
@@ -8810,10 +8750,8 @@ msgid "Okinawa"
 msgstr "Okinawa"
 
 #. Name for KE-01
-#, fuzzy
-#| msgid "Bari"
 msgid "Baringo"
-msgstr "Bari"
+msgstr "Baringo"
 
 #. Name for KE-02
 msgid "Bomet"
@@ -8836,10 +8774,8 @@ msgid "Embu"
 msgstr ""
 
 #. Name for KE-07
-#, fuzzy
-#| msgid "Larisa"
 msgid "Garissa"
-msgstr "Larisa"
+msgstr "Garissa"
 
 #. Name for KE-08
 msgid "Homa Bay"
@@ -8854,26 +8790,20 @@ msgid "Kajiado"
 msgstr ""
 
 #. Name for KE-11
-#, fuzzy
-#| msgid "Makamba"
 msgid "Kakamega"
-msgstr "Makamba"
+msgstr "Kakamega"
 
 #. Name for KE-12
 msgid "Kericho"
 msgstr ""
 
 #. Name for KE-13
-#, fuzzy
-#| msgid "Hamburg"
 msgid "Kiambu"
-msgstr "Amburgu"
+msgstr "Kiambu"
 
 #. Name for KE-14
-#, fuzzy
-#| msgid "Kili"
 msgid "Kilifi"
-msgstr "Kili"
+msgstr "Kilifi"
 
 #. Name for KE-15
 msgid "Kirinyaga"
@@ -8912,16 +8842,12 @@ msgid "Makueni"
 msgstr ""
 
 #. Name for KE-24
-#, fuzzy
-#| msgid "Mandiana"
 msgid "Mandera"
-msgstr "Mandiana"
+msgstr "Mandera"
 
 #. Name for KE-25
-#, fuzzy
-#| msgid "Marsa"
 msgid "Marsabit"
-msgstr "Marsa"
+msgstr "Marsabit"
 
 #. Name for KE-26
 msgid "Meru"
@@ -8932,32 +8858,24 @@ msgid "Migori"
 msgstr ""
 
 #. Name for KE-28
-#, fuzzy
-#| msgid "Lombardia"
 msgid "Mombasa"
-msgstr "Lombardia"
+msgstr "Mombasa"
 
 #. Name for KE-29
-#, fuzzy
-#| msgid "Muramvya"
 msgid "Murang'a"
-msgstr "Muramvya"
+msgstr "Murang'a"
 
 #. Name for KE-30
-#, fuzzy
-#| msgid "Nairobi Municipality"
 msgid "Nairobi City"
-msgstr "Munitzipalidade de Nairobi"
+msgstr "Tzitade de Nairobi"
 
 #. Name for KE-31
 msgid "Nakuru"
 msgstr ""
 
 #. Name for KE-32
-#, fuzzy
-#| msgid "Normandie"
 msgid "Nandi"
-msgstr "Normandia"
+msgstr "Nandi"
 
 #. Name for KE-33
 msgid "Narok"
@@ -8968,20 +8886,16 @@ msgid "Nyamira"
 msgstr ""
 
 #. Name for KE-35
-#, fuzzy
-#| msgid "Bandarban"
 msgid "Nyandarua"
-msgstr "Bandarban"
+msgstr "Nyandarua"
 
 #. Name for KE-36
 msgid "Nyeri"
 msgstr ""
 
 #. Name for KE-37
-#, fuzzy
-#| msgid "Hamburg"
 msgid "Samburu"
-msgstr "Amburgu"
+msgstr "Samburu"
 
 #. Name for KE-38
 msgid "Siaya"
@@ -8992,10 +8906,8 @@ msgid "Taita/Taveta"
 msgstr ""
 
 #. Name for KE-40
-#, fuzzy
-#| msgid "Central River"
 msgid "Tana River"
-msgstr "Riu Tzentrale"
+msgstr "Riu Tana"
 
 #. Name for KE-41
 msgid "Tharaka-Nithi"
@@ -9006,30 +8918,24 @@ msgid "Trans Nzoia"
 msgstr ""
 
 #. Name for KE-43
-#, fuzzy
-#| msgid "Pirkanmaa"
 msgid "Turkana"
-msgstr "Pirkanmaa"
+msgstr "Turkana"
 
 #. Name for KE-44
 msgid "Uasin Gishu"
 msgstr ""
 
 #. Name for KE-45
-#, fuzzy
-#| msgid "Shiga"
 msgid "Vihiga"
-msgstr "Shiga"
+msgstr "Vihiga"
 
 #. Name for KE-46
 msgid "Wajir"
 msgstr ""
 
 #. Name for KE-47
-#, fuzzy
-#| msgid "West Lothian"
 msgid "West Pokot"
-msgstr "Lothian otzidentale"
+msgstr "Pokot otzidentale"
 
 #. Name for KG-B
 msgid "Batken"
@@ -10432,84 +10338,60 @@ msgid "Az Zāwiyah"
 msgstr "Az Zawiya"
 
 #. Name for MA-01
-#, fuzzy
-#| msgid "Tanger-Tétouan"
 msgid "Tanger-Tétouan-Al Hoceïma"
-msgstr "Tangeri-Tétouan"
+msgstr "Tanger-Tétouan-Al Hoceïma"
 
 #. Name for MA-02
 msgid "L'Oriental"
 msgstr "Regione Orientale"
 
 #. Name for MA-03
-#, fuzzy
-#| msgid "Meknès"
 msgid "Fès-Meknès"
-msgstr "Meknès"
+msgstr "Fès-Meknès"
 
 #. Name for MA-04
-#, fuzzy
-#| msgid "Rabat-Salé-Zemmour-Zaer"
 msgid "Rabat-Salé-Kénitra"
-msgstr "Rabat-Salé-Zemmour-Zaer"
+msgstr "Rabat-Salé-Kénitra"
 
 #. Name for MA-05
-#, fuzzy
-#| msgid "Beni Mellal"
 msgid "Béni Mellal-Khénifra"
-msgstr "Beni Mellal"
+msgstr "Béni Mellal-Khénifra"
 
 #. Name for MA-06
-#, fuzzy
-#| msgid "Grand Casablanca"
 msgid "Casablanca-Settat"
-msgstr "Casablanca Manna"
+msgstr "Casablanca-Settat"
 
 #. Name for MA-07
-#, fuzzy
-#| msgid "Marrakech-Medina"
 msgid "Marrakech-Safi"
-msgstr "Marrakech-Medina"
+msgstr "Marrakech-Safi"
 
 #. Name for MA-08
-#, fuzzy
-#| msgid "Meknès-Tafilalet"
 msgid "Drâa-Tafilalet"
-msgstr "Meknès-Tafilalet"
+msgstr "Drâa-Tafilalet"
 
 #. Name for MA-09
-#, fuzzy
-#| msgid "Sous-Massa-Draa"
 msgid "Souss-Massa"
-msgstr "Sous-Massa-Draa"
+msgstr "Souss-Massa"
 
 #. Name for MA-10
 msgid "Guelmim-Oued Noun (EH-partial)"
 msgstr ""
 
 #. Name for MA-11
-#, fuzzy
-#| msgid "Laâyoune-Boujdour-Sakia el Hamra"
 msgid "Laâyoune-Sakia El Hamra (EH-partial)"
-msgstr "Laâyoune-Boujdour-Sakia el Hamra"
+msgstr "Laâyoune-Sakia El Hamra (EH-partziale)"
 
 #. Name for MA-12
-#, fuzzy
-#| msgid "Oued ed Dahab (EH)"
 msgid "Dakhla-Oued Ed-Dahab (EH)"
-msgstr "Oued ed Dahab (EH)"
+msgstr "Dakhla-Oued Ed-Dahab (EH)"
 
 #. Name for MA-AGD
-#, fuzzy
-#| msgid "Agadir-Ida-Outanane"
 msgid "Agadir-Ida-Ou-Tanane"
-msgstr "Agadir-Ida-Outanane"
+msgstr "Agadir-Ida-Ou-Tanane"
 
 #. Name for MA-AOU
-#, fuzzy
-#| msgid "Aousserd"
 msgid "Aousserd (EH)"
-msgstr "Aousserd"
+msgstr "Aousserd (EH)"
 
 #. Name for MA-ASZ
 msgid "Assa-Zag (EH-partial)"
@@ -10520,20 +10402,16 @@ msgid "Azilal"
 msgstr "Azilal"
 
 #. Name for MA-BEM
-#, fuzzy
-#| msgid "Beni Mellal"
 msgid "Béni Mellal"
-msgstr "Beni Mellal"
+msgstr "Béni Mellal"
 
 #. Name for MA-BER
 msgid "Berkane"
 msgstr "Berkane"
 
 #. Name for MA-BES
-#, fuzzy
-#| msgid "Ben Slimane"
 msgid "Benslimane"
-msgstr "Ben Slimane"
+msgstr "Benslimane"
 
 #. Name for MA-BOD
 msgid "Boujdour (EH)"
@@ -10544,16 +10422,12 @@ msgid "Boulemane"
 msgstr "Boulemane"
 
 #. Name for MA-BRR
-#, fuzzy
-#| msgid "Errachidia"
 msgid "Berrechid"
-msgstr "Errachidia"
+msgstr "Berrechid"
 
 #. Name for MA-CAS
-#, fuzzy
-#| msgid "Grand Casablanca"
 msgid "Casablanca"
-msgstr "Casablanca Manna"
+msgstr "Casablanca"
 
 #. Name for MA-CHE
 msgid "Chefchaouen"
@@ -10580,10 +10454,8 @@ msgid "Essaouira"
 msgstr "Essaouira"
 
 #. Name for MA-ESM
-#, fuzzy
-#| msgid "Es Smara (EH)"
 msgid "Es-Semara (EH-partial)"
-msgstr "Es Smara (EH)"
+msgstr "Es-Semara (EH-partziale)"
 
 #. Name for MA-FAH
 msgid "Fahs-Anjra"
@@ -10634,26 +10506,20 @@ msgid "El Jadida"
 msgstr "El Jadida"
 
 #. Name for MA-JRA
-#, fuzzy
-#| msgid "Jrada"
 msgid "Jerada"
-msgstr "Jrada"
+msgstr "Jerada"
 
 #. Name for MA-KEN
 msgid "Kénitra"
 msgstr "Kénitra"
 
 #. Name for MA-KES
-#, fuzzy
-#| msgid "Kelaat es Sraghna"
 msgid "El Kelâa des Sraghna"
-msgstr "Kelaat es Sraghna"
+msgstr "El Kelâa des Sraghna"
 
 #. Name for MA-KHE
-#, fuzzy
-#| msgid "Khemisaet"
 msgid "Khemisset"
-msgstr "Khemisaet"
+msgstr "Khemisset"
 
 #. Name for MA-KHN
 msgid "Khenifra"
@@ -10672,10 +10538,8 @@ msgid "Larache"
 msgstr "Larache"
 
 #. Name for MA-MAR
-#, fuzzy
-#| msgid "Marrakech-Medina"
 msgid "Marrakech"
-msgstr "Marrakech-Medina"
+msgstr "Marrakech"
 
 #. Name for MA-MDF
 msgid "M’diq-Fnideq"
@@ -10714,20 +10578,16 @@ msgid "Ouarzazate"
 msgstr "Ouarzazate"
 
 #. Name for MA-OUD
-#, fuzzy
-#| msgid "Oued ed Dahab (EH)"
 msgid "Oued Ed-Dahab (EH)"
-msgstr "Oued ed Dahab (EH)"
+msgstr "Oued Ed-Dahab (EH)"
 
 #. Name for MA-OUJ
 msgid "Oujda-Angad"
 msgstr "Oujda-Angad"
 
 #. Name for MA-OUZ
-#, fuzzy
-#| msgid "Relizane"
 msgid "Ouezzane"
-msgstr "Relizane"
+msgstr "Ouezzane"
 
 #. Name for MA-RAB
 msgid "Rabat"
@@ -10762,16 +10622,12 @@ msgid "Sidi Ifni"
 msgstr ""
 
 #. Name for MA-SIK
-#, fuzzy
-#| msgid "Sidl Kacem"
 msgid "Sidi Kacem"
-msgstr "Sidl Kacem"
+msgstr "Sidi Kacem"
 
 #. Name for MA-SIL
-#, fuzzy
-#| msgid "Ben Slimane"
 msgid "Sidi Slimane"
-msgstr "Ben Slimane"
+msgstr "Sidi Slimane"
 
 #. Name for MA-SKH
 msgid "Skhirate-Témara"
@@ -16330,16 +16186,12 @@ msgid "Wanica"
 msgstr ""
 
 #. Name for SS-BN
-#, fuzzy
-#| msgid "Northern Ireland"
 msgid "Northern Bahr el Ghazal"
-msgstr "Irlanda de su Nord"
+msgstr "Bahr el Ghazal setentrionale"
 
 #. Name for SS-BW
-#, fuzzy
-#| msgid "West Grand Bahama"
 msgid "Western Bahr el Ghazal"
-msgstr "Grand Bahama otzidentale"
+msgstr "Bahr el Ghazal otzidentale"
 
 #. Name for SS-EC
 msgid "Central Equatoria"

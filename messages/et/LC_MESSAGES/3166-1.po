@@ -12,14 +12,15 @@
 # Hasso Tepper <hasso@estpak.ee>, 2006.
 # Siim Põder <windo@p6drad-teel.net>, 2006.
 # Tõivo Leedjärv <toivol@gmail.com>, 2008, 2011, 2013.
+# Janar Leas <janar.leas@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-01-01 15:06+0000\n"
-"Last-Translator: Kristjan Räts <kristjanrats@gmail.com>\n"
+"PO-Revision-Date: 2020-12-05 15:29+0000\n"
+"Last-Translator: Janar Leas <janar.leas@gmail.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/et/>\n"
 "Language: et\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -594,10 +595,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Sambia Vabariik"
+msgstr "Gambia Vabariik"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -988,16 +987,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marshalli Saarte Vabariik"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Uus-Kaledoonia"
+msgstr "Põhja-Makedoonia"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Leedu Vabariik"
+msgstr "Põhja-Makedoonia Vabariik"
 
 #. Name for MLI
 msgid "Mali"
@@ -1445,13 +1440,11 @@ msgstr "Rootsi Kuningriik"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Svaasimaa"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Hispaania Kuningriik"
+msgstr "eSwatini Kuningriik"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

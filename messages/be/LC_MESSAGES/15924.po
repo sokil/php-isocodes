@@ -4,13 +4,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
+# Viktar Vauchkevich <victorenator@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-25 21:46+0000\n"
+"PO-Revision-Date: 2020-09-24 20:41+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/be/>\n"
@@ -20,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
@@ -132,7 +133,7 @@ msgstr "кіртскае"
 
 #. Name for Copt
 msgid "Coptic"
-msgstr "копцская"
+msgstr "копцскае"
 
 #. Name for Cprt
 msgid "Cypriot"
@@ -192,7 +193,7 @@ msgstr "глаголіца"
 
 #. Name for Goth
 msgid "Gothic"
-msgstr "готская"
+msgstr "гатычнае"
 
 #. Name for Gran
 msgid "Grantha"
@@ -277,7 +278,7 @@ msgstr "ямо (псеўданім для падмноства хангыля)"
 
 #. Name for Java
 msgid "Javanese"
-msgstr "яванская"
+msgstr "яванскае"
 
 #. Name for Jpan
 msgid "Japanese (alias for Han + Hiragana + Katakana)"
@@ -337,7 +338,7 @@ msgstr "тай там (ланна)"
 
 #. Name for Laoo
 msgid "Lao"
-msgstr "лаоская"
+msgstr "лаоскае"
 
 #. Name for Latf
 msgid "Latin (Fraktur variant)"
@@ -349,7 +350,7 @@ msgstr "лацінскае (гельскае)"
 
 #. Name for Latn
 msgid "Latin"
-msgstr "лацінская"
+msgstr "лацінскае"
 
 #. Name for Leke
 msgid "Leke"
@@ -429,7 +430,7 @@ msgstr "модзі"
 
 #. Name for Mong
 msgid "Mongolian"
-msgstr "мангольская"
+msgstr "мангольскае"
 
 #. Name for Moon
 msgid "Moon (Moon code, Moon script, Moon type)"
@@ -529,7 +530,7 @@ msgstr "кніжнае пахлаві"
 
 #. Name for Phnx
 msgid "Phoenician"
-msgstr "фінікійская"
+msgstr "фінікійскае"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
@@ -609,7 +610,7 @@ msgstr "сора сомпенг"
 
 #. Name for Sund
 msgid "Sundanese"
-msgstr "сунданская"
+msgstr "сунданскае"
 
 #. Name for Sylo
 msgid "Syloti Nagri"
@@ -617,7 +618,7 @@ msgstr "сілоці нагры"
 
 #. Name for Syrc
 msgid "Syriac"
-msgstr "сірыйская"
+msgstr "сірыйскае"
 
 #. Name for Syre
 msgid "Syriac (Estrangelo variant)"
@@ -649,7 +650,7 @@ msgstr "новае тайскае лы"
 
 #. Name for Taml
 msgid "Tamil"
-msgstr "тамільская"
+msgstr "тамільскае"
 
 #. Name for Tang
 msgid "Tangut"
@@ -681,7 +682,7 @@ msgstr "таана"
 
 #. Name for Thai
 msgid "Thai"
-msgstr "тайская"
+msgstr "тайскае"
 
 #. Name for Tibt
 msgid "Tibetan"
@@ -693,7 +694,7 @@ msgstr "ціргута"
 
 #. Name for Ugar
 msgid "Ugaritic"
-msgstr "угарыцкая"
+msgstr "угарыцкае"
 
 #. Name for Vaii
 msgid "Vai"

@@ -10,23 +10,24 @@
 # Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2004-2006.
 # YunQiang Su <wzssyqa@gmail.com>, 2011.
 # LI Daobing <lidaobing@gmail.com>, 2007-2011, 2013, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019.
+# Boyuan Yang <073plan@gmail.com>, 2019, 2020.
+# tao wang <tonywang5@163.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"PO-Revision-Date: 2020-10-15 06:09+0000\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-1/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-1/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.3-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -558,7 +559,7 @@ msgstr "大不列颠及北爱尔兰联合王国"
 
 #. Name for GEO
 msgid "Georgia"
-msgstr "格鲁吉亚"
+msgstr "佐治亚州"
 
 #. Name for GGY
 msgid "Guernsey"
@@ -994,7 +995,7 @@ msgstr "北马其顿共和国"
 
 #. Name for MLI
 msgid "Mali"
-msgstr "马里"
+msgstr "马里省"
 
 #. Official name for MLI
 msgid "Republic of Mali"
@@ -1094,7 +1095,7 @@ msgstr "新喀里多尼亚"
 
 #. Name for NER
 msgid "Niger"
-msgstr "尼日尔"
+msgstr "尼日尔州"
 
 #. Official name for NER
 msgid "Republic of the Niger"
@@ -1362,7 +1363,7 @@ msgstr "萨尔瓦多共和国"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "圣马力诺"
+msgstr "圣马力诺市"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
@@ -1546,7 +1547,7 @@ msgstr "土耳其共和国"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "图瓦鲁"
+msgstr "图瓦卢"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
