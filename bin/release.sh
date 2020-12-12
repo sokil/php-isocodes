@@ -37,18 +37,21 @@ echo -e "\033[0;32mTest updated database\033[0m"
 $COMPOSER_PATH test
 
 # message on success test
-if [[ $? -eq 0 ]]; then
-    # get new version of library
-    cd $PKG_ISOCODES_DIR
-    VERSION=`git describe --tags`
-    BUILD_DATE=`date "+%Y-%m-%d %H:%M"`
-    cd $PROJECT_DIR
-
-    # update version in README.md
-    sed -i -E "s/Database version: .*/Database version: ${VERSION} from ${BUILD_DATE}/" README.md
-
-    # success message
-    echo -e "\033[0;32m\n\nDatabase successfully updated. Now you can verify difference, commit and add new release.\033[0m"
-    echo -e "\033[0;32mDatabase version: ${VERSION} from ${BUILD_DATE}.\033[0m\n\n"
+if [[ $? -ne 0 ]]; then
+  echo "Unit tests failed. Release process stopped. Please, check test errors"
+  exit 1
 fi
+
+# get new version of library
+cd $PKG_ISOCODES_DIR
+VERSION=`git describe --tags`
+BUILD_DATE=`date "+%Y-%m-%d %H:%M"`
+cd $PROJECT_DIR
+
+# update version in README.md
+sed -i -E "s/Database version: .*/Database version: ${VERSION} from ${BUILD_DATE}/" README.md
+
+# success message
+echo -e "\033[0;32m\n\nDatabase successfully updated. Now you can verify difference, commit and add new release.\033[0m"
+echo -e "\033[0;32mDatabase version: ${VERSION} from ${BUILD_DATE}.\033[0m\n\n"
 
