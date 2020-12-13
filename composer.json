@@ -18,7 +18,6 @@
         "php-coveralls/php-coveralls": "^2.1",
         "squizlabs/php_codesniffer": "^3.4",
         "phpmd/phpmd" : "@stable",
-        "phpbench/phpbench": "^0.16.9",
         "symfony/translation": "^5.2"
     },
     "autoload": {
@@ -33,7 +32,8 @@
     },
     "suggest": {
         "ext-gettext": "Required for gettext translation driver",
-        "symfony/translation": "Translation driver by Symfont project"
+        "symfony/translation": "Translation driver by Symfont project",
+        "phpbench/phpbench": "Required to run benchmarks"
     },
     "scripts": {
         "test": "./vendor/bin/phpunit",
@@ -41,7 +41,7 @@
         "coveralls": "./vendor/bin/php-coveralls -v",
         "check-style": "./vendor/bin/phpcs",
         "fix-style": "./vendor/bin/phpcbf",
-        "bench": "./vendor/bin/phpbench run benchmarks/  --report=default",
+        "bench": "phpbench run benchmarks/  --report=default",
         "infection": "infection",
         "release": "./bin/release.sh",
         "update_iso_codes_db": "./bin/update_iso_codes_db.sh"
