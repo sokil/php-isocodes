@@ -20,6 +20,7 @@ class HistoricCountries extends AbstractNotPartitionedDatabase
     protected function arrayToEntry(array $entry): Country
     {
         return new Country(
+            $this->translationDriver,
             $entry['name'],
             $entry['alpha_4'],
             $entry['alpha_3'],

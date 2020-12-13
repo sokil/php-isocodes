@@ -20,6 +20,7 @@ class Scripts extends AbstractNotPartitionedDatabase
     protected function arrayToEntry(array $entry): Script
     {
         return new Script(
+            $this->translationDriver,
             $entry['name'],
             $entry['alpha_4'],
             (int)$entry['numeric']

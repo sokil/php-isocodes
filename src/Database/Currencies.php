@@ -20,6 +20,7 @@ class Currencies extends AbstractNotPartitionedDatabase
     protected function arrayToEntry(array $entry): Currency
     {
         return new Currency(
+            $this->translationDriver,
             $entry['name'],
             $entry['alpha_3'],
             (int)$entry['numeric']

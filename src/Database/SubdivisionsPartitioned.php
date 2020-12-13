@@ -20,6 +20,7 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase implements Sub
     protected function arrayToEntry(array $entry): Subdivision
     {
         return new Subdivision(
+            $this->translationDriver,
             $entry['name'],
             $entry['code'],
             $entry['type'],

@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Sokil\IsoCodes\Database\Languages;
 
 use Sokil\IsoCodes\Database\Languages;
+use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
 class Language
 {
@@ -78,7 +79,13 @@ class Language
      */
     private $alpha2;
 
+    /**
+     * @var TranslatorInterface
+     */
+    private $translator;
+
     public function __construct(
+        TranslatorInterface $translator,
         string $name,
         string $alpha3,
         string $scope,
@@ -86,6 +93,7 @@ class Language
         ?string $invertedName = null,
         ?string $alpha2 = null
     ) {
+        $this->translator = $translator;
         $this->name = $name;
         $this->alpha3 = $alpha3;
         $this->scope = $scope;
@@ -102,7 +110,7 @@ class Language
     public function getLocalName(): string
     {
         if ($this->localName === null) {
-            $this->localName = dgettext(
+            $this->localName = $this->translator->translate(
                 Languages::getISONumber(),
                 $this->name
             );

@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Sokil\IsoCodes\Database\Subdivisions;
 
 use Sokil\IsoCodes\Database\Subdivisions;
+use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
 class Subdivision
 {
@@ -34,17 +35,18 @@ class Subdivision
     private $parent;
 
     /**
-     * @param string $name
-     * @param string $code
-     * @param string $type
-     * @param string|null $parent
+     * @var TranslatorInterface
      */
+    private $translator;
+
     public function __construct(
+        TranslatorInterface $translator,
         string $name,
         string $code,
         string $type,
         ?string $parent = null
     ) {
+        $this->translator = $translator;
         $this->name = $name;
         $this->code = $code;
         $this->type = $type;
@@ -59,7 +61,7 @@ class Subdivision
     public function getLocalName(): string
     {
         if ($this->localName === null) {
-            $this->localName = dgettext(
+            $this->localName = $this->translator->translate(
                 Subdivisions::getISONumber(),
                 $this->name
             );

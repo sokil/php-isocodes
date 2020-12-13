@@ -5,6 +5,7 @@ declare(strict_types=1);
 namespace Sokil\IsoCodes\Database\Countries;
 
 use Sokil\IsoCodes\Database\Countries;
+use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
 class Country
 {
@@ -38,13 +39,20 @@ class Country
      */
     private $officialName;
 
+    /**
+     * @var TranslatorInterface
+     */
+    private $translator;
+
     public function __construct(
+        TranslatorInterface $translator,
         string $name,
         string $alpha2,
         string $alpha3,
         string $numericCode,
         ?string $officialName = null
     ) {
+        $this->translator = $translator;
         $this->name = $name;
         $this->alpha2 = $alpha2;
         $this->alpha3 = $alpha3;
@@ -75,7 +83,7 @@ class Country
     public function getLocalName(): string
     {
         if ($this->localName === null) {
-            $this->localName = dgettext(
+            $this->localName = $this->translator->translate(
                 Countries::getISONumber(),
                 $this->name
             );

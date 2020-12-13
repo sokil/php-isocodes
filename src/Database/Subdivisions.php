@@ -20,6 +20,7 @@ class Subdivisions extends AbstractNotPartitionedDatabase implements Subdivision
     protected function arrayToEntry(array $entry): Subdivision
     {
         return new Subdivision(
+            $this->translationDriver,
             $entry['name'],
             $entry['code'],
             $entry['type'],

@@ -39,7 +39,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * @var TranslationDriverInterface
      */
-    private $translationDriver;
+    protected $translationDriver;
 
     /**
      * @param string|null $baseDirectory

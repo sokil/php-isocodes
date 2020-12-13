@@ -20,6 +20,7 @@ class LanguagesPartitioned extends AbstractPartitionedDatabase implements Langua
     protected function arrayToEntry(array $entry): Language
     {
         return new Language(
+            $this->translationDriver,
             $entry['name'],
             $entry['alpha_3'],
             $entry['scope'],

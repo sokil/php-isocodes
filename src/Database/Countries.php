@@ -20,6 +20,7 @@ class Countries extends AbstractNotPartitionedDatabase
     protected function arrayToEntry(array $entry): Country
     {
         return new Country(
+            $this->translationDriver,
             $entry['name'],
             $entry['alpha_2'],
             $entry['alpha_3'],
