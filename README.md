@@ -1,7 +1,7 @@
 # PHP ISO Codes
 
 [![Build Status](https://travis-ci.org/sokil/php-isocodes.png?branch=master&1)](https://travis-ci.org/sokil/php-isocodes)
-![Continuous integration](https://github.com/sokil/php-isocodes/workflows/Continuous%20integration/badge.svg?branch=3.0)
+[![Continuous integration](https://github.com/sokil/php-isocodes/workflows/Continuous%20integration/badge.svg?branch=3.0)](https://github.com/sokil/php-isocodes/actions?query=workflow%3A%22Continuous+integration%22)
 [![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes)
 [![Coverage Status](https://coveralls.io/repos/sokil/php-isocodes/badge.png)](https://coveralls.io/r/sokil/php-isocodes)
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes.svg?1)](https://packagist.org/packages/sokil/php-isocodes)
