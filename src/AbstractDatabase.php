@@ -57,7 +57,10 @@ abstract class AbstractDatabase implements \Iterator, \Countable
 
         $this->translationDriver = $translationDriver ?? new GettextExtensionDriver();
 
-        $this->translationDriver->configureDirectory($this->getISONumber(), $this->getLocalMessagesDirPath());
+        $this->translationDriver->configureDirectory(
+            $this->getISONumber(),
+            $this->getLocalMessagesDirPath()
+        );
     }
 
     /**
