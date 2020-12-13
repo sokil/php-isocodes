@@ -1,3 +1,8 @@
+## 3.1.1 (2020-12-12)
+* Database updated to version iso-codes-4.5.0-165-g46cea063 from 2020-12-12 19:09
+* Fixed release scripts
+* Configured Github Action to start automatic release process event 2nd day of month
+
 ## 3.1.0 (2020-12-09)
 * Bug #25 fixed, \Sokil\IsoCodes\Database\Countries::getByNumericCode now accept strings instead of ints
 
