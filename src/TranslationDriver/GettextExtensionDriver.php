@@ -21,14 +21,22 @@ class GettextExtensionDriver implements TranslationDriverInterface
     }
 
     /**
-     * If defined, will configure system locale
+     * Warning: If defined, will configure system locale.
      *
      * @param string $locale
      */
-    public function setLocale(string $locale)
+    public function setLocale(string $locale): void
     {
-        putenv(sprintf('LANGUAGE=%s.UTF-8', $locale));
-        setlocale(LC_MESSAGES, sprintf('%s.UTF-8', $locale));
+        $fullLocaleName = sprintf('%s.UTF-8', $locale);
+
+        if (getenv('LANGUAGE') !== $fullLocaleName) {
+            putenv(sprintf('LANGUAGE=%s', $fullLocaleName));
+        }
+
+
+        if (setlocale(LC_MESSAGES, '0') !== $fullLocaleName) {
+            setlocale(LC_MESSAGES, sprintf('%s.UTF-8', $locale));
+        }
     }
 
     public function translate(string $isoNumber, string $message): string
