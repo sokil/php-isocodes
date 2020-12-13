@@ -2,11 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Sokil\IsoCodes\Databases;
+namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractDatabase;
-use Sokil\IsoCodes\Database\Subdivisions;
-use Sokil\IsoCodes\Database\SubdivisionsPartitioned;
 use Sokil\IsoCodes\IsoCodesFactory;
 use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 use PHPUnit\Framework\TestCase;

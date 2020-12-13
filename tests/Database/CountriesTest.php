@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Sokil\IsoCodes\Databases;
+namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\Database\Countries\Country;
 use Sokil\IsoCodes\IsoCodesFactory;

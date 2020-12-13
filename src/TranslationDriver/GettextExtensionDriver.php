@@ -29,18 +29,18 @@ class GettextExtensionDriver implements TranslationDriverInterface
     {
         $fullLocaleName = sprintf('%s.UTF-8', $locale);
 
-        if (getenv('LANGUAGE') !== $fullLocaleName) {
-            putenv(sprintf('LANGUAGE=%s', $fullLocaleName));
+        if (\getenv('LANGUAGE') !== $fullLocaleName) {
+            \putenv(sprintf('LANGUAGE=%s', $fullLocaleName));
         }
 
 
-        if (setlocale(LC_MESSAGES, '0') !== $fullLocaleName) {
-            setlocale(LC_MESSAGES, sprintf('%s.UTF-8', $locale));
+        if (\setlocale(LC_MESSAGES, '0') !== $fullLocaleName) {
+            \setlocale(LC_MESSAGES, sprintf('%s.UTF-8', $locale));
         }
     }
 
     public function translate(string $isoNumber, string $message): string
     {
-        return dgettext($isoNumber, $message);
+        return \dgettext($isoNumber, $message);
     }
 }
