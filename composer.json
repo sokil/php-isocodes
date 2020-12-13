@@ -10,7 +10,6 @@
     ],
     "require": {
         "php": ">=7.1",
-        "ext-gettext": "*",
         "ext-json": "*"
     },
     "require-dev": {
@@ -32,6 +31,7 @@
         }
     },
     "suggest": {
+        "ext-gettext": "Required for gettext translation driver",
         "symfony/translation": "Translation driver by Symfont project"
     },
     "scripts": {

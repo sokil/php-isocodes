@@ -20,7 +20,11 @@
 
 * [ISO Standards](#iso-standarts)
 * [Installation](#installation)
-* [Locale configuration](#locale-configuration)
+* [Translation drivers](#translation-drivers)
+  * [Gettext extension driver](#gettext-extension-driver)
+    * [Locale configuration](#locale-configuration)
+  * [Symfony Translation driver](#symfony-translation-driver)
+  * [Dummy driver](#dummy-driver)
 * [Manual database update](#manual-database-update)
 * [Usage](#usage)
   * [Locale configuration](#locale-configuration)
@@ -48,7 +52,51 @@ You can install library through Composer:
 composer require sokil/php-isocodes
 ```
 
-## Locale configuration
+## Translation drivers
+
+Translation drivers required when need to get local names of iso entities.
+
+Translation driver must implement `Sokil\IsoCodes\TranslationDriver\TranslationDriverInterface`.
+
+Instance of driver may be passed to `IsoCodesFactory`. If it not passed, default `GettextExtensionDriver` will be used.
+
+```php
+<?php
+
+// gettext driver
+$isoCodes = new IsoCodesFactory();
+$isoCodes = new IsoCodesFactory(null, new GettextExtensionDriver());
+
+// symfony driver
+$driver = new SymfonyTranslationDriver();
+$driver->setLocale('uk_UA');
+
+$isoCodes = new IsoCodesFactory(
+    null,
+    $driver
+);
+
+// dummy driver
+$isoCodes = new IsoCodesFactory(
+    null,
+    new DummyDriver()
+);
+
+```
+
+### Gettext extension driver
+
+This is default translation driver. It requires `ext-getext`.
+
+```php
+<?php
+
+// gettext driver
+$isoCodes = new IsoCodesFactory();
+$isoCodes = new IsoCodesFactory(null, new GettextExtensionDriver());
+```
+
+#### Locale configuration
 
 Before using IsoCodes database you need to setup valid locale to get translations worked:
 
@@ -88,6 +136,34 @@ $ locale-gen uk_UA.utf8
 Generating locales...
   uk_UA.utf-8... done
 Generation complete.
+```
+
+### Symfony Translation driver
+
+```php
+<?php
+
+$driver = new SymfonyTranslationDriver();
+$driver->setLocale('uk_UA');
+
+$isoCodes = new IsoCodesFactory(
+    null,
+    $driver
+);
+
+```
+
+### Dummy driver
+
+This driver may be used, when localisation of names does not require, and only database of codes is required.
+
+```php
+<?php
+
+$isoCodes = new IsoCodesFactory(
+    null,
+    new DummyDriver()
+);
 ```
 
 ## Manual database update
