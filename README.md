@@ -98,7 +98,8 @@ $isoCodes = new IsoCodesFactory(null, new GettextExtensionDriver());
 
 #### Locale configuration
 
-Before using IsoCodes database you need to setup valid locale to get translations worked:
+Before using IsoCodes database you need to setup valid locale to get translations worked, 
+because `ext-gettext` uses system local, configured by `setlocale`.
 
 ```php
 <?php
