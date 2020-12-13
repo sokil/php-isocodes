@@ -1,3 +1,6 @@
+## 3.2 (2020-12-13)
+* Allow to configure own translation driver
+
 ## 3.1.1 (2020-12-12)
 * Database updated to version iso-codes-4.5.0-165-g46cea063 from 2020-12-12 19:09
 * Fixed release scripts
