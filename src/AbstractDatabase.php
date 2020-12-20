@@ -49,7 +49,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         string $baseDirectory = null,
         TranslationDriverInterface $translationDriver = null
     ) {
-        if (empty($this->baseDirectory)) {
+        if (empty($baseDirectory)) {
             $this->baseDirectory = __DIR__ . '/../';
         } else {
             $this->baseDirectory = rtrim($baseDirectory, '/') . '/';
