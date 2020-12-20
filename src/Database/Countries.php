@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Countries\Country;
 
+/**
+ * @method Country|null find(string $indexedFieldName, string $fieldValue)
+ */
 class Countries extends AbstractNotPartitionedDatabase
 {
     public static function getISONumber(): string
@@ -15,7 +18,7 @@ class Countries extends AbstractNotPartitionedDatabase
     }
 
     /**
-     * @param string[] $entry
+     * @param array<string, string> $entry
      */
     protected function arrayToEntry(array $entry): Country
     {
@@ -67,6 +70,6 @@ class Countries extends AbstractNotPartitionedDatabase
             throw new \TypeError('Argument must be int or string');
         }
 
-        return $this->find('numeric', $code);
+        return $this->find('numeric', (string)$code);
     }
 }

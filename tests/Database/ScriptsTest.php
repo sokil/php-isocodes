@@ -52,7 +52,7 @@ class ScriptsTest extends TestCase
         );
 
         $this->assertSame(
-            239,
+            '239',
             $script->getNumericCode()
         );
     }
@@ -62,7 +62,7 @@ class ScriptsTest extends TestCase
         $isoCodes = new IsoCodesFactory();
 
         $scripts = $isoCodes->getScripts();
-        $script = $scripts->getByNumericCode(239);
+        $script = $scripts->getByNumericCode('239');
 
         $this->assertInstanceOf(
             Script::class,

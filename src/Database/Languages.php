@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Languages\Language;
 
+/**
+ * @method Language|null find(string $indexedFieldName, string $fieldValue)
+ */
 class Languages extends AbstractNotPartitionedDatabase implements LanguagesInterface
 {
     public static function getISONumber(): string
@@ -15,7 +18,7 @@ class Languages extends AbstractNotPartitionedDatabase implements LanguagesInter
     }
 
     /**
-     * @param string[] $entry
+     * @param array<string, string> $entry
      */
     protected function arrayToEntry(array $entry): Language
     {

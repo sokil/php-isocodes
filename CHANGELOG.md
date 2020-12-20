@@ -1,5 +1,6 @@
-## 3.2.1-RC (2020-12-20)
+## 3.3.0-RC (2020-12-20)
 * Fix configure external directory to database files
+* `SomeDatabase::getByNumericCode` now accept strings instead of ints, `SomeEntity::getNumericCode` now return strings
 
 ## 3.2.0 (2020-12-13)
 * Allow to configure own translation driver

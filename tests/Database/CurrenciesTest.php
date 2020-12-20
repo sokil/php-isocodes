@@ -10,7 +10,6 @@ use PHPUnit\Framework\TestCase;
 
 class CurrenciesTest extends TestCase
 {
-
     public function testIterator(): void
     {
         $isoCodes = new IsoCodesFactory();
@@ -28,6 +27,7 @@ class CurrenciesTest extends TestCase
         $isoCodes = new IsoCodesFactory();
 
         $currencies = $isoCodes->getCurrencies();
+
         $currency = $currencies->getByLetterCode('CZK');
 
         $this->assertInstanceOf(
@@ -51,17 +51,28 @@ class CurrenciesTest extends TestCase
         );
 
         $this->assertSame(
-            203,
+            '203',
             $currency->getNumericCode()
         );
     }
 
-    public function testGetByNumericCode(): void
+    public function getByNumericCodeDataProvider(): array
+    {
+        return [
+            ['203'],
+            [203],
+        ];
+    }
+
+    /**
+     * @dataProvider getByNumericCodeDataProvider
+     */
+    public function testGetByNumericCode($code): void
     {
         $isoCodes = new IsoCodesFactory();
 
         $currencies = $isoCodes->getCurrencies();
-        $currency = $currencies->getByNumericCode(203);
+        $currency = $currencies->getByNumericCode($code);
 
         $this->assertEquals(
             'Czech Koruna',
@@ -71,6 +82,19 @@ class CurrenciesTest extends TestCase
         $this->assertEquals(
             'Чеська крона',
             $currency->getLocalName()
+        );
+    }
+
+    public function testGetByNumericCodeLeadingZeroes(): void
+    {
+        $isoCodes = new IsoCodesFactory();
+
+        $currencies = $isoCodes->getCurrencies();
+        $currency = $currencies->getByNumericCode('051');
+
+        $this->assertEquals(
+            'AMD',
+            $currency->getLetterCode()
         );
     }
 }

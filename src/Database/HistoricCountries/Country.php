@@ -15,7 +15,7 @@ class Country
     private $name;
 
     /**
-     * @var string
+     * @var string|null
      */
     private $localName;
 
@@ -40,7 +40,7 @@ class Country
     private $withdrawalDate;
 
     /**
-     * @var integer|null
+     * @var string|null
      */
     public $numericCode;
 
@@ -56,7 +56,7 @@ class Country
         string $alpha3,
         string $alpha2,
         string $withdrawalDate,
-        ?int $numericCode = null
+        ?string $numericCode = null
     ) {
         $this->translator = $translator;
         $this->name = $name;
@@ -104,7 +104,7 @@ class Country
         return $this->withdrawalDate;
     }
 
-    public function getNumericCode(): ?int
+    public function getNumericCode(): ?string
     {
         return $this->numericCode;
     }

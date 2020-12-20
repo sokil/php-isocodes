@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
 
+/**
+ * @method Subdivision|Subdivision[]|null find(string $indexedFieldName, string $fieldValue)
+ */
 class Subdivisions extends AbstractNotPartitionedDatabase implements SubdivisionsInterface
 {
     public static function getISONumber(): string
@@ -15,7 +18,7 @@ class Subdivisions extends AbstractNotPartitionedDatabase implements Subdivision
     }
 
     /**
-     * @param mixed[] $entry
+     * @param array<string, string> $entry
      */
     protected function arrayToEntry(array $entry): Subdivision
     {

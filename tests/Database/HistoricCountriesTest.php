@@ -62,7 +62,7 @@ class HistoricCountriesTest extends TestCase
         );
 
         $this->assertSame(
-            180,
+            '180',
             $country->getNumericCode()
         );
     }
@@ -134,7 +134,7 @@ class HistoricCountriesTest extends TestCase
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getHistoricCountries();
-        $country = $countries->getByNumericCode(180);
+        $country = $countries->getByNumericCode('180');
 
         $this->assertInstanceOf(
             Country::class,
@@ -156,7 +156,7 @@ class HistoricCountriesTest extends TestCase
         $isoCodes = new IsoCodesFactory();
 
         $countries = $isoCodes->getHistoricCountries();
-        $country = $countries->getByNumericCode(180);
+        $country = $countries->getByNumericCode('180');
 
         $this->assertInstanceOf(
             Country::class,

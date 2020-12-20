@@ -15,7 +15,7 @@ class Subdivision
     private $name;
 
     /**
-     * @var string
+     * @var string|null
      */
     private $localName;
 

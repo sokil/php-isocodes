@@ -15,7 +15,7 @@ class SubdivisionsPartitioned extends AbstractPartitionedDatabase implements Sub
     }
 
     /**
-     * @param mixed[] $entry
+     * @param array<string, string> $entry
      */
     protected function arrayToEntry(array $entry): Subdivision
     {

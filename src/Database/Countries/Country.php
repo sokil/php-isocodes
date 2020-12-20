@@ -15,7 +15,7 @@ class Country
     private $name;
 
     /**
-     * @var string
+     * @var string|null
      */
     private $localName;
 

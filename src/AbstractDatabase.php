@@ -69,7 +69,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     abstract public static function getISONumber(): string;
 
     /**
-     * @param mixed[] $entry
+     * @param array<string, string> $entry
      *
      * @return object
      */

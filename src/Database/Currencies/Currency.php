@@ -10,12 +10,14 @@ use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 class Currency
 {
     /**
+     * Alpha3
+     *
      * @var string
      */
     private $letterCode;
 
     /**
-     * @var integer
+     * @var string
      */
     private $numericCode;
 
@@ -25,7 +27,7 @@ class Currency
     private $name;
 
     /**
-     * @var string
+     * @var string|null
      */
     private $localName;
 
@@ -38,7 +40,7 @@ class Currency
         TranslatorInterface $translator,
         string $name,
         string $letterCode,
-        int $numericCode
+        string $numericCode
     ) {
         $this->translator = $translator;
         $this->name = $name;
@@ -68,7 +70,7 @@ class Currency
         return $this->letterCode;
     }
 
-    public function getNumericCode(): int
+    public function getNumericCode(): string
     {
         return $this->numericCode;
     }

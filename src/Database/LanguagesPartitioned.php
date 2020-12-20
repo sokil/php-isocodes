@@ -15,7 +15,7 @@ class LanguagesPartitioned extends AbstractPartitionedDatabase implements Langua
     }
 
     /**
-     * @param string[] $entry
+     * @param array<string, string> $entry
      */
     protected function arrayToEntry(array $entry): Language
     {

@@ -50,7 +50,6 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
                     foreach ($indexedFields as $indexName => $indexDefinition) {
                         if (is_array($indexDefinition)) {
                             // compound index
-
                             // iteratively create hierarchy of array indexes
                             $reference = &$this->index[$indexName];
                             foreach ($indexDefinition as $indexDefinitionPart) {
@@ -64,9 +63,11 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
                                 } else {
                                     $indexDefinitionPartValue = $entryArray[$indexDefinitionPart];
                                 }
+
                                 if (!isset($reference[$indexDefinitionPartValue])) {
                                     $reference[$indexDefinitionPartValue] = [];
                                 }
+
                                 $reference = &$reference[$indexDefinitionPartValue];
                             }
 
@@ -75,10 +76,12 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
                         } else {
                             // single index
                             $indexName = $indexDefinition;
+
                             // skip empty field
                             if (empty($entryArray[$indexDefinition])) {
                                 continue;
                             }
+
                             // add to indexUA
                             $this->index[$indexName][$entryArray[$indexDefinition]] = $entry;
                         }
@@ -102,11 +105,13 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
     }
 
     /**
+     * @param string $indexedFieldName
      * @param string $fieldValue
      *
-     * @return object|mixed[]|null
+     * @return null|object|object[] null when not found, object when found by single-field index,
+     *         object[] when found by compound index
      */
-    protected function find(string $indexedFieldName, $fieldValue)
+    protected function find(string $indexedFieldName, string $fieldValue)
     {
         $fieldIndex = $this->getIndex($indexedFieldName);
 

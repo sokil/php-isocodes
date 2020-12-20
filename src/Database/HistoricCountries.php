@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\HistoricCountries\Country;
 
+/**
+ * @method Country|null find(string $indexedFieldName, string $fieldValue)
+ */
 class HistoricCountries extends AbstractNotPartitionedDatabase
 {
     public static function getISONumber(): string
@@ -15,7 +18,7 @@ class HistoricCountries extends AbstractNotPartitionedDatabase
     }
 
     /**
-     * @param string[] $entry
+     * @param array<string, string> $entry
      */
     protected function arrayToEntry(array $entry): Country
     {
@@ -26,7 +29,7 @@ class HistoricCountries extends AbstractNotPartitionedDatabase
             $entry['alpha_3'],
             $entry['alpha_2'],
             $entry['withdrawal_date'],
-            !empty($entry['numeric']) ? (int)$entry['numeric'] : null
+            !empty($entry['numeric']) ? $entry['numeric'] : null
         );
     }
 
@@ -58,8 +61,22 @@ class HistoricCountries extends AbstractNotPartitionedDatabase
         return $this->find('alpha_2', $code);
     }
 
-    public function getByNumericCode(int $code): ?Country
+    /**
+     * Using int code argument is deprecated due to it can be with leading 0 (e.g. '042').
+     * Please, use numeric strings.
+     *
+     * @param string|int $code
+     *
+     * @return Country|null
+     *
+     * @throws \TypeError
+     */
+    public function getByNumericCode($code): ?Country
     {
-        return $this->find('numeric', $code);
+        if (!is_numeric($code)) {
+            throw new \TypeError('Argument must be int or string');
+        }
+
+        return $this->find('numeric', (string)$code);
     }
 }
