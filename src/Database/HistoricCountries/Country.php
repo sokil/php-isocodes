@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database\HistoricCountries;
 use Sokil\IsoCodes\Database\HistoricCountries;
 use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
+/**
+ * @psalm-immutable
+ */
 class Country
 {
     /**

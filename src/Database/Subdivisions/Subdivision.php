@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database\Subdivisions;
 use Sokil\IsoCodes\Database\Subdivisions;
 use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
+/**
+ * @psalm-immutable
+ */
 class Subdivision
 {
     /**

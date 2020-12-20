@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database\Currencies;
 use Sokil\IsoCodes\Database\Currencies;
 use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
+/**
+ * @psalm-immutable
+ */
 class Currency
 {
     /**

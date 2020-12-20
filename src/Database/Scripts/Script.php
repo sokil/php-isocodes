@@ -7,6 +7,9 @@ namespace Sokil\IsoCodes\Database\Scripts;
 use Sokil\IsoCodes\Database\Scripts;
 use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
+/**
+ * @psalm-immutable
+ */
 class Script
 {
     /**
