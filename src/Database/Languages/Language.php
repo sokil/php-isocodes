@@ -42,6 +42,8 @@ class Language
 
     /**
      * @var string|null
+     *
+     * @psalm-allow-private-mutation
      */
     private $localName;
 

@@ -31,6 +31,8 @@ class Currency
 
     /**
      * @var string|null
+     *
+     * @psalm-allow-private-mutation
      */
     private $localName;
 

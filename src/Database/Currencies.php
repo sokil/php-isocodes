@@ -12,6 +12,11 @@ use Sokil\IsoCodes\Database\Currencies\Currency;
  */
 class Currencies extends AbstractNotPartitionedDatabase
 {
+    /**
+     * ISO Standard Number
+     *
+     * @psalm-pure
+     */
     public static function getISONumber(): string
     {
         return '4217';

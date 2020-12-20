@@ -12,6 +12,11 @@ use Sokil\IsoCodes\Database\Subdivisions\Subdivision;
  */
 class Subdivisions extends AbstractNotPartitionedDatabase implements SubdivisionsInterface
 {
+    /**
+     * ISO Standard Number
+     *
+     * @psalm-pure
+     */
     public static function getISONumber(): string
     {
         return '3166-2';

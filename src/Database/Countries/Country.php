@@ -19,6 +19,8 @@ class Country
 
     /**
      * @var string|null
+     *
+     * @psalm-allow-private-mutation
      */
     private $localName;
 

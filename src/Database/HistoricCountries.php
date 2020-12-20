@@ -12,6 +12,11 @@ use Sokil\IsoCodes\Database\HistoricCountries\Country;
  */
 class HistoricCountries extends AbstractNotPartitionedDatabase
 {
+    /**
+     * ISO Standard Number
+     *
+     * @psalm-pure
+     */
     public static function getISONumber(): string
     {
         return '3166-3';

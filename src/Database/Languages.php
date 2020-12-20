@@ -12,6 +12,11 @@ use Sokil\IsoCodes\Database\Languages\Language;
  */
 class Languages extends AbstractNotPartitionedDatabase implements LanguagesInterface
 {
+    /**
+     * ISO Standard Number
+     *
+     * @psalm-pure
+     */
     public static function getISONumber(): string
     {
         return '639-3';

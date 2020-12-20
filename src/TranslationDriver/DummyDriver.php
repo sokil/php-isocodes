@@ -19,6 +19,12 @@ class DummyDriver implements TranslationDriverInterface
         // do nothing
     }
 
+    /**
+     * @param string $isoNumber
+     * @param string $message
+     *
+     * @return string
+     */
     public function translate(string $isoNumber, string $message): string
     {
         return $message;

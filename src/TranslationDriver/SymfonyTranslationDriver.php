@@ -78,6 +78,12 @@ class SymfonyTranslationDriver implements TranslationDriverInterface
         $this->translator->setLocale($locale);
     }
 
+    /**
+     * @param string $isoNumber
+     * @param string $message
+     *
+     * @return string
+     */
     public function translate(string $isoNumber, string $message): string
     {
         return $this->translator->trans($message, [], $isoNumber);

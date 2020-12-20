@@ -65,6 +65,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
 
     /**
      * ISO Standard Number
+     *
+     * @psalm-pure
      */
     abstract public static function getISONumber(): string;
 

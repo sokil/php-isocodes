@@ -39,6 +39,12 @@ class GettextExtensionDriver implements TranslationDriverInterface
         }
     }
 
+    /**
+     * @param string $isoNumber
+     * @param string $message
+     *
+     * @return string
+     */
     public function translate(string $isoNumber, string $message): string
     {
         return \dgettext($isoNumber, $message);
