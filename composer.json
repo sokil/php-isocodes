@@ -18,7 +18,8 @@
         "php-coveralls/php-coveralls": "^2.1",
         "squizlabs/php_codesniffer": "^3.4",
         "phpmd/phpmd" : "@stable",
-        "symfony/translation": "^4.4.17|^5.2"
+        "symfony/translation": "^4.4.17|^5.2",
+        "vimeo/psalm": "^4.3"
     },
     "autoload": {
         "psr-4": {
