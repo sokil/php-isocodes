@@ -1,4 +1,7 @@
-## 3.2 (2020-12-13)
+## 3.2.1-RC (2020-12-20)
+* Fix configure external directory to database files
+
+## 3.2.0 (2020-12-13)
 * Allow to configure own translation driver
 
 ## 3.1.1 (2020-12-12)
