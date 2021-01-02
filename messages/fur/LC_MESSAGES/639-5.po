@@ -1,482 +1,497 @@
 # Translation of ISO 639-5 to LANGUAGE
 # Codes for the representation of names of languages
 # Part 5: Alpha-3 code for language families and groups
+#
 # This file is distributed under the same license as the iso-codes package.
+#
 # Copyright ©
-# Rafael Fontenelle <rafaelff@gnome.org>, 2020.
+# Fabio Tomat <f.t.public@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-12-23 17:30+0000\n"
-"Last-Translator: Rafael Fontenelle <rafaelff@gnome.org>\n"
-"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
-"iso-codes/iso-639-5/pt_BR/>\n"
-"Language: pt_BR\n"
+"PO-Revision-Date: 2020-12-14 15:29+0000\n"
+"Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
+"Language-Team: Friulian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-5/fur/>\n"
+"Language: fur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.4.1-dev\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.4-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
-msgstr "Idiomas austro-asiáticos"
+msgstr "Lenghis austroasiatichis"
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr "Idiomas afro-asiáticas"
+msgstr "Lenghis afro-asiatichis"
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr "Línguas algonquinas"
+msgstr "Lenghis algonchinis"
 
 #. Name for alv
 msgid "Atlantic-Congo languages"
-msgstr "Idiomas atlântico-congo"
+msgstr "Lenghis congo-atlantichis"
 
 #. Name for apa
 msgid "Apache languages"
-msgstr "Idiomas apache"
+msgstr "Lenghis apache"
 
 #. Name for aqa
 msgid "Alacalufan languages"
-msgstr "Línguas alacalufan"
+msgstr "Lenghis Alacalufan"
 
 #. Name for aql
 msgid "Algic languages"
-msgstr "Idiomas álgicos"
+msgstr "Lenghis alzichis"
 
 #. Name for art
 msgid "Artificial languages"
-msgstr "Idiomas artificiais"
+msgstr "Lenghis artificiâls"
 
 #. Name for ath
+#, fuzzy
 msgid "Athapascan languages"
-msgstr "Idiomas atabascanos"
+msgstr "Lenghis athabaska"
 
 #. Name for auf
 msgid "Arauan languages"
-msgstr "Idiomas arauás"
+msgstr "Lenghis Arawan"
 
 #. Name for aus
 msgid "Australian languages"
-msgstr "Idiomas australianos"
+msgstr "Lenghis australianis"
 
 #. Name for awd
 msgid "Arawakan languages"
-msgstr "Idiomas aruaques"
+msgstr "Lenghis arawak"
 
 #. Name for azc
 msgid "Uto-Aztecan languages"
-msgstr "Idiomas uto-astecas"
+msgstr "Lenghis uto-aztechis"
 
 #. Name for bad
 msgid "Banda languages"
-msgstr "Idiomas maias"
+msgstr "Lenghis banda"
 
 #. Name for bai
+#, fuzzy
 msgid "Bamileke languages"
-msgstr "Idiomas bamileke"
+msgstr "Lenghis bamileke"
 
 #. Name for bat
 msgid "Baltic languages"
-msgstr "Idiomas bálticos"
+msgstr "Lenghis baltichis"
 
 #. Name for ber
 msgid "Berber languages"
-msgstr "Idiomas berberes"
+msgstr "Lenghis berbaris"
 
 #. Name for bih
+#, fuzzy
 msgid "Bihari languages"
-msgstr "Idiomas biaris"
+msgstr "Lenghis bihari"
 
 #. Name for bnt
 msgid "Bantu languages"
-msgstr "Idiomas bantu"
+msgstr "Lenghis bantu"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr "Idiomas batak"
+msgstr "Lenghis batak"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr "Idiomas indígenas da América Central"
+msgstr "Lenghis indianis de americhe centrâl"
 
 #. Name for cau
 msgid "Caucasian languages"
-msgstr "Idiomas caucasianos"
+msgstr "Lenghis caucasichis"
 
 #. Name for cba
+#, fuzzy
 msgid "Chibchan languages"
-msgstr "Idiomas chibchanos"
+msgstr "Lenghis chibcha"
 
 #. Name for ccn
 msgid "North Caucasian languages"
-msgstr "Idiomas caucasianos do norte"
+msgstr "Lenghis caucasichis setentrionâls"
 
 #. Name for ccs
 msgid "South Caucasian languages"
-msgstr "Idiomas caucasianos do sul"
+msgstr "Lenghis cartvelichis"
 
 #. Name for cdc
 msgid "Chadic languages"
-msgstr "Idiomas chadicos"
+msgstr "Lenghis çadichis"
 
 #. Name for cdd
 msgid "Caddoan languages"
-msgstr "Idiomas caddoanos"
+msgstr "Lenghis caddoanis"
 
 #. Name for cel
 msgid "Celtic languages"
-msgstr "Idiomas celtas"
+msgstr "Lenghis celtichis"
 
 #. Name for cmc
+#, fuzzy
 msgid "Chamic languages"
-msgstr "Idiomas châmicos"
+msgstr "Lenghis chamichis"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English‑based"
-msgstr "Crioulos e pidgins, baseados no inglês"
+msgstr "Creols e lenghis semplificadis, basâts sul Inglês"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French‑based"
-msgstr "Crioulos e pidgins, baseados no francês"
+msgstr "Creols e lenghis semplificadis, basâts sul francês"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "Crioulos e pidgins, baseados no português"
+msgstr "Creols e lenghis semplificadis, basâts sul portughês"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr "Crioulos e pidgins"
+msgstr "Creols e lenghis semplificadis"
 
 #. Name for csu
 msgid "Central Sudanic languages"
-msgstr "Idiomas sudânicos centrais"
+msgstr "Lenghis sudanichis centrâls"
 
 #. Name for cus
 msgid "Cushitic languages"
-msgstr "Idiomas cuchíticos"
+msgstr "Lenghis cussitichis"
 
 #. Name for day
 msgid "Land Dayak languages"
-msgstr "Idiomas Bidayuhs"
+msgstr "Lenghis de tiere Dayak"
 
 #. Name for dmn
 msgid "Mande languages"
-msgstr "Idiomas mandês"
+msgstr "Lenghis mande"
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr "Idiomas dravídicos"
+msgstr "Lenghis dravidichis"
 
 #. Name for egx
 msgid "Egyptian languages"
-msgstr "Idiomas egípcios"
+msgstr "Lenghis egjizianis"
 
 #. Name for esx
+#, fuzzy
 msgid "Eskimo-Aleut languages"
-msgstr "Idiomas esquimó-aleútes"
+msgstr "Lenghis eschimo-aleutinis"
 
 #. Name for euq
 msgid "Basque (family)"
-msgstr "Basco (família)"
+msgstr "Basc (famee)"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
-msgstr "Idiomas fino-úgricos"
+msgstr "Lenghis ugrofinichis"
 
 #. Name for fox
 msgid "Formosan languages"
-msgstr "Idiomas formosanos"
+msgstr "Lenghis formosanis"
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr "Idiomas germânicos"
+msgstr "Lenghis gjermanichis"
 
 #. Name for gme
 msgid "East Germanic languages"
-msgstr "Idiomas germânicos orientais"
+msgstr "Lenghis gjermanichis orientâls"
 
 #. Name for gmq
 msgid "North Germanic languages"
-msgstr "Idiomas germânicos setentrionais"
+msgstr "Lenghis gjermanichis setentrionâls"
 
 #. Name for gmw
 msgid "West Germanic languages"
-msgstr "Idiomas germânicos ocidentais"
+msgstr "Lenghis gjermanichis ocidentâls"
 
 #. Name for grk
 msgid "Greek languages"
-msgstr "Idiomas gregos"
+msgstr "Lenghic grechis"
 
 #. Name for hmx
 msgid "Hmong-Mien languages"
-msgstr "Idiomas hmong-mien"
+msgstr "Lenghis miao-yao"
 
 #. Name for hok
+#, fuzzy
 msgid "Hokan languages"
-msgstr "Idiomas hocanos"
+msgstr "Lenghis hokan"
 
 #. Name for hyx
 msgid "Armenian (family)"
-msgstr "Armênio (família)"
+msgstr "Armen (famee)"
 
 #. Name for iir
 msgid "Indo-Iranian languages"
-msgstr "Idiomas indo-iranianos"
+msgstr "Lenghis indoiranichis"
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr "Idiomas ijo"
+msgstr "Lenghis ijo"
 
 #. Name for inc
 msgid "Indic languages"
-msgstr "Idiomas índicos"
+msgstr "Lenghis indoariis"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr "Idiomas indo-europeus"
+msgstr "Lenghis indoeuropeanis"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr "Idiomas iranianos"
+msgstr "Lenghis iranichis"
 
 #. Name for iro
 msgid "Iroquoian languages"
-msgstr "Idiomas iroquianos"
+msgstr "Lenghis irochesis"
 
 #. Name for itc
 msgid "Italic languages"
-msgstr "Idiomas itálicos"
+msgstr "Lenghis italichis"
 
 #. Name for jpx
 msgid "Japanese (family)"
-msgstr "Japonês (família)"
+msgstr "Gjaponês (famee)"
 
 #. Name for kar
+#, fuzzy
 msgid "Karen languages"
-msgstr "Idiomas karen"
+msgstr "Lenghis karen"
 
 #. Name for kdo
 msgid "Kordofanian languages"
-msgstr "Idiomas cordofanianos"
+msgstr "Lenghis kordofanianis"
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr "Idiomas coissãos"
+msgstr "Lenghis khoisan"
 
 #. Name for kro
 msgid "Kru languages"
-msgstr "Idiomas kru"
+msgstr "Lenghis kru"
 
 #. Name for map
 msgid "Austronesian languages"
-msgstr "Idiomas austronesianos"
+msgstr "Lenghis austronesianis"
 
 #. Name for mkh
 msgid "Mon-Khmer languages"
-msgstr "Idiomas mon-khmer"
+msgstr "Lenghis mon khmer"
 
 #. Name for mno
 msgid "Manobo languages"
-msgstr "Idiomas manobo"
+msgstr "Lenghis manobo"
 
 #. Name for mun
 msgid "Munda languages"
-msgstr "Idiomas munda"
+msgstr "Lenghis munda"
 
 #. Name for myn
 msgid "Mayan languages"
-msgstr "Idiomas maias"
+msgstr "Lenghis maya"
 
 #. Name for nah
 msgid "Nahuatl languages"
-msgstr "Idiomas náuatle"
+msgstr "Lenghis nahuatl"
 
 #. Name for nai
 msgid "North American Indian languages"
-msgstr "Idiomas indígenas da América do Norte"
+msgstr "Lenghis indiandis de Americhe dal Nord"
 
 #. Name for ngf
 msgid "Trans-New Guinea languages"
-msgstr "Idiomas trans-neoguineanos"
+msgstr "Lenghis trans-Gnove Guinee"
 
 #. Name for nic
 msgid "Niger-Kordofanian languages"
-msgstr "Idiomas nigero-cordofanianos"
+msgstr "Lenghis niger-kordofanianis"
 
 #. Name for nub
 msgid "Nubian languages"
-msgstr "Idiomas núbios"
+msgstr "Lenghis nubianis"
 
 #. Name for omq
+#, fuzzy
 msgid "Oto-Manguean languages"
-msgstr "Idiomas oto-mangueanos"
+msgstr "Lenghis otomangueanis"
 
 #. Name for omv
 msgid "Omotic languages"
-msgstr "Idiomas omóticos"
+msgstr "Lenghis omotichis"
 
 #. Name for oto
 msgid "Otomian languages"
-msgstr "Idiomas otomi"
+msgstr "Lenghis otomianis"
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr "Idiomas papua"
+msgstr "Lenghis papuasichis"
 
 #. Name for phi
 msgid "Philippine languages"
-msgstr "Idiomas filipinos"
+msgstr "Lenghis filipinis"
 
 #. Name for plf
 msgid "Central Malayo-Polynesian languages"
-msgstr "Idiomas malaio-polinésia central"
+msgstr "Lenghis maleo‑polinesiachis centrâls"
 
 #. Name for poz
 msgid "Malayo-Polynesian languages"
-msgstr "Idiomas malaio-polinésia"
+msgstr "Lenghis maleo‑polinesiachis"
 
 #. Name for pqe
 msgid "Eastern Malayo-Polynesian languages"
-msgstr "Idiomas malaio-polinésia oriental"
+msgstr "Lenghis maleo‑polinesiachis orientâls"
 
 #. Name for pqw
 msgid "Western Malayo-Polynesian languages"
-msgstr "Idiomas malaio-polinésia ocidental"
+msgstr "Lenghis maleo‑polinesiachis ocidentâls"
 
 #. Name for pra
 msgid "Prakrit languages"
-msgstr "Idiomas prácritos"
+msgstr "Lenghis pracritis"
 
 #. Name for qwe
 msgid "Quechuan (family)"
-msgstr "Quechua (família)"
+msgstr "Quechua (famee)"
 
 #. Name for roa
 msgid "Romance languages"
-msgstr "Idiomas românicos"
+msgstr "Lenghis romanichis"
 
 #. Name for sai
 msgid "South American Indian languages"
-msgstr "Idiomas indígenas da América do Sul"
+msgstr "Lenghis indiandis de Americhe dal Sud"
 
 #. Name for sal
 msgid "Salishan languages"
-msgstr "Idiomas salishan"
+msgstr "Lenghis Salish"
 
 #. Name for sdv
 msgid "Eastern Sudanic languages"
-msgstr "Idiomas sudânicos orientais"
+msgstr "Lenghis sudanichis orientâls"
 
 #. Name for sem
 msgid "Semitic languages"
-msgstr "Idiomas semíticos"
+msgstr "Lenghis semitichis"
 
 #. Name for sgn
 msgid "sign languages"
-msgstr "Línguas de sinais"
+msgstr "Lengaçs dai segns"
 
 #. Name for sio
 msgid "Siouan languages"
-msgstr "Idiomas sioux"
+msgstr "Lenghis siouan"
 
 #. Name for sit
 msgid "Sino-Tibetan languages"
-msgstr "Idiomas sino-tibetanos"
+msgstr "Lenghis sinotibetanis"
 
 #. Name for sla
 msgid "Slavic languages"
-msgstr "Idiomas eslavos"
+msgstr "Lenghis slavis"
 
 #. Name for smi
 msgid "Sami languages"
-msgstr "Idiomas sami"
+msgstr "Lenghis sami"
 
 #. Name for son
 msgid "Songhai languages"
-msgstr "Idiomas songai"
+msgstr "Lenghis songhai"
 
 #. Name for sqj
 msgid "Albanian languages"
-msgstr "Idiomas albaneses"
+msgstr "Lenghis albanesis"
 
 #. Name for ssa
 msgid "Nilo-Saharan languages"
-msgstr "Idiomas nilo-saarianos"
+msgstr "Lenghis nilo-saharianis"
 
 #. Name for syd
 msgid "Samoyedic languages"
-msgstr "Idiomas samoiedos"
+msgstr "Lenghis samoiedis"
 
 #. Name for tai
 msgid "Tai languages"
-msgstr "Idiomas tai"
+msgstr "Lenghis tai"
 
 #. Name for tbq
 msgid "Tibeto-Burman languages"
-msgstr "Idiomas tibeto-birmaneses"
+msgstr "Lenghis tibeto-birmanis"
 
 #. Name for trk
 msgid "Turkic languages"
-msgstr "Idiomas turcos"
+msgstr "Lenghis turchis"
 
 #. Name for tup
 msgid "Tupi languages"
-msgstr "Idiomas tupi"
+msgstr "Lenghis tupi"
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr "Idiomas altaicos"
+msgstr "Leghis altaichis"
 
 #. Name for tuw
 msgid "Tungus languages"
-msgstr "Idiomas tungus"
+msgstr "Lenghis tungusis"
 
 #. Name for urj
 msgid "Uralic languages"
-msgstr "Idiomas urálicos"
+msgstr "Lenghis uralichis"
 
 #. Name for wak
+#, fuzzy
 msgid "Wakashan languages"
-msgstr "Idiomas Wakashan"
+msgstr "Lenghis Wakashan"
 
 #. Name for wen
 msgid "Sorbian languages"
-msgstr "Idiomas sorábios"
+msgstr "Lenghis sorabis"
 
 #. Name for xgn
 msgid "Mongolian languages"
-msgstr "Idiomas mongol"
+msgstr "Lenghis mongolichis"
 
 #. Name for xnd
+#, fuzzy
 msgid "Na-Dene languages"
-msgstr "Idiomas na-dene"
+msgstr "Lenghis na-dene"
 
 #. Name for ypk
+#, fuzzy
 msgid "Yupik languages"
-msgstr "Idiomas iúpiques"
+msgstr "Lenghis yupik"
 
 #. Name for zhx
 msgid "Chinese (family)"
-msgstr "Chinês (família)"
+msgstr "Lenghis sinitichis"
 
 #. Name for zle
 msgid "East Slavic languages"
-msgstr "Idiomas eslavos orientais"
+msgstr "Lenghis slavis orientâls"
 
 #. Name for zls
 msgid "South Slavic languages"
-msgstr "Idiomas eslavos meridionais"
+msgstr "Lenghis slavis meridionâls"
 
 #. Name for zlw
 msgid "West Slavic languages"
-msgstr "Idiomas eslavos ocidentais"
+msgstr "Lenghis slavis ocidentâls"
 
 #. Name for znd
+#, fuzzy
 msgid "Zande languages"
-msgstr "Idiomas zandes"
+msgstr "Lenghis zande"
