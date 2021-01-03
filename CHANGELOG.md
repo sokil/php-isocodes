@@ -1,3 +1,6 @@
+## 3.3.1 (2021-01-03)
+* Database version: iso-codes-4.5.0-178-g802915de from 2021-01-02 04:38
+
 ## 3.3.0 (2020-12-20)
 * Fix configure external directory to database files
 * `SomeDatabase::getByNumericCode` now accept strings instead of ints, `SomeEntity::getNumericCode` now return strings
