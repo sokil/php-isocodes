@@ -8,14 +8,15 @@
 # Daniel Yacob <yacob@geez.org>
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Mohamed Diriye Abdullahi <diriyeam@magellan.umontreal.ca>, 2004.
+# Nadir Nour <dudethatwascool2@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-01-01 15:06+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"PO-Revision-Date: 2021-01-02 22:31+0000\n"
+"Last-Translator: Nadir Nour <dudethatwascool2@gmail.com>\n"
 "Language-Team: Somali <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/so/>\n"
 "Language: so\n"
@@ -23,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.4.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -34,9 +35,8 @@ msgid "Afghanistan"
 msgstr "Afgaanistaan"
 
 #. Official name for AFG
-#, fuzzy
 msgid "Islamic Republic of Afghanistan"
-msgstr "Iiraan"
+msgstr "Jamhuuriyada Islaamiga ah ee Afqaanistan"
 
 #. Name for AGO
 msgid "Angola"
@@ -44,15 +44,16 @@ msgstr "Angoola"
 
 #. Official name for AGO
 msgid "Republic of Angola"
-msgstr ""
+msgstr "Jamhuuriyada"
 
 #. Name for AIA
+#, fuzzy
 msgid "Anguilla"
-msgstr ""
+msgstr "Anguilla"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr ""
+msgstr "Åland"
 
 #. Name for ALB
 msgid "Albania"
@@ -60,7 +61,7 @@ msgstr "Albania"
 
 #. Official name for ALB
 msgid "Republic of Albania"
-msgstr ""
+msgstr "Jamhuuriyada"
 
 #. Name for AND
 msgid "Andorra"
