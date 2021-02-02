@@ -6,14 +6,14 @@
 # .
 # Copyright ©
 # Runa Bhattacharjee <runabh@gmail.com>, 2009-2010.
-# Oymate <dhruboadittya96@gmail.com>, 2020.
+# Oymate <dhruboadittya96@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-08-03 12:41+0000\n"
+"PO-Revision-Date: 2021-01-29 08:32+0000\n"
 "Last-Translator: Oymate <dhruboadittya96@gmail.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/bn/>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -713,9 +713,8 @@ msgid "Remontado Dumagat"
 msgstr ""
 
 #. Inverted name for agv
-#, fuzzy
 msgid "Dumagat, Remontado"
-msgstr "আগটা, রেমোনটাডো"
+msgstr "ডুমাআগটা, রেমোনটাডো"
 
 #. Name for agw
 msgid "Kahua"
@@ -726,18 +725,16 @@ msgid "Aghul"
 msgstr "আঘুল"
 
 #. Name for agy
-#, fuzzy
 msgid "Southern Alta"
-msgstr "সোথো, দক্ষিণ"
+msgstr "দক্ষিণ অ্যালটাই"
 
 #. Inverted name for agy
 msgid "Alta, Southern"
 msgstr "অল্টা, দক্ষিণ"
 
 #. Name for agz
-#, fuzzy
 msgid "Mt. Iriga Agta"
-msgstr "আগটা, মাউন্ট ইরিগা"
+msgstr "মাউন্ট ইরিগা আগটা"
 
 #. Inverted name for agz
 msgid "Agta, Mt. Iriga"
@@ -760,9 +757,8 @@ msgid "Aghu"
 msgstr "আঘু"
 
 #. Name for ahi
-#, fuzzy
 msgid "Tiagbamrin Aizi"
-msgstr "আইজি, টিয়াগবামরিন"
+msgstr "টিয়াগবামরিন আইজি"
 
 #. Inverted name for ahi
 msgid "Aizi, Tiagbamrin"
@@ -893,9 +889,8 @@ msgid "Airoran"
 msgstr "আইরোরান"
 
 #. Name for ais
-#, fuzzy
 msgid "Nataoran Amis"
-msgstr "ওয়াওরানি"
+msgstr "নাটাওরান আমিস"
 
 #. Inverted name for ais
 msgid "Amis, Nataoran"
@@ -930,32 +925,28 @@ msgid "Ajië"
 msgstr ""
 
 #. Name for ajn
-#, fuzzy
 msgid "Andajin"
-msgstr "এনদাই"
+msgstr "এনদাজিন"
 
 #. Name for ajp
-#, fuzzy
 msgid "South Levantine Arabic"
-msgstr "আরবি, দক্ষিণ লেভানটিন"
+msgstr "দক্ষিণ লেভানটিন, আরবি"
 
 #. Inverted name for ajp
 msgid "Arabic, South Levantine"
 msgstr "আরবি, দক্ষিণ লেভানটিন"
 
 #. Name for ajt
-#, fuzzy
 msgid "Judeo-Tunisian Arabic"
-msgstr "জুডিও-আরবি"
+msgstr "জুডিও-তুনিসীয় আরবি"
 
 #. Inverted name for ajt
 msgid "Arabic, Judeo-Tunisian"
 msgstr "আরবি, জুডিও-টিউনিশিয়ান"
 
 #. Name for aju
-#, fuzzy
 msgid "Judeo-Moroccan Arabic"
-msgstr "জুডিও-আরবি"
+msgstr "জুডিও-মরক্কান আরবি"
 
 #. Inverted name for aju
 msgid "Arabic, Judeo-Moroccan"
@@ -966,9 +957,8 @@ msgid "Ajawa"
 msgstr "আজাওয়া"
 
 #. Name for ajz
-#, fuzzy
 msgid "Amri Karbi"
-msgstr "কানুরি"
+msgstr "আমরি কারবি"
 
 #. Inverted name for ajz
 msgid "Karbi, Amri"
@@ -1119,9 +1109,8 @@ msgid "Amblong"
 msgstr "আমব্লং"
 
 #. Name for aln
-#, fuzzy
 msgid "Gheg Albanian"
-msgstr "আলবেনিয়ান"
+msgstr "ঘেগ আলবেনিয়ান"
 
 #. Inverted name for aln
 msgid "Albanian, Gheg"
@@ -1144,9 +1133,8 @@ msgid "Alutor"
 msgstr "আলুটোর"
 
 #. Name for als
-#, fuzzy
 msgid "Tosk Albanian"
-msgstr "আলবেনিয়ান"
+msgstr "তোস্ক আলবেনীয়"
 
 #. Inverted name for als
 msgid "Albanian, Tosk"
@@ -1249,9 +1237,8 @@ msgid "Amarakaeri"
 msgstr "আমারাকায়েরি"
 
 #. Name for ams
-#, fuzzy
 msgid "Southern Amami-Oshima"
-msgstr "সোথো, দক্ষিণ"
+msgstr "দক্ষিণ আমামি-ওশিমা"
 
 #. Inverted name for ams
 msgid "Amami-Oshima, Southern"
@@ -1318,9 +1305,8 @@ msgid "Animere"
 msgstr "অ্যানিমেরে"
 
 #. Name for ang
-#, fuzzy
 msgid "Old English (ca. 450-1100)"
-msgstr "ইংরাজি, পুরাতন (সময়াকাল ৪৫০-১১০০)"
+msgstr "পুরানো ইংরাজি (সময়কাল ৪৫০-১১০০)"
 
 #. Inverted name for ang
 msgid "English, Old (ca. 450-1100)"
@@ -1343,14 +1329,12 @@ msgid "Goemai"
 msgstr "গোয়েমাই"
 
 #. Name for anl
-#, fuzzy
 msgid "Anu-Hkongso Chin"
-msgstr "ছিন, ছিনবোন"
+msgstr "অনু-কন্গসো চিন"
 
 #. Inverted name for anl
-#, fuzzy
 msgid "Chin, Anu-Hkongso"
-msgstr "ছিন, ছিনবোন"
+msgstr "চিন, অনু-কন্গসো"
 
 #. Name for anm
 msgid "Anal"
@@ -1477,10 +1461,8 @@ msgid "Taikat"
 msgstr "তাইকাত"
 
 #. Name for aot
-#, fuzzy
-#| msgid "Bodo (India)"
 msgid "Atong (India)"
-msgstr "বোড়ো (ভারত)"
+msgstr "আটং (ভারত)"
 
 #. Name for aou
 msgid "A'ou"
@@ -1499,18 +1481,16 @@ msgid "Sa'a"
 msgstr "সা"
 
 #. Name for apc
-#, fuzzy
 msgid "North Levantine Arabic"
-msgstr "আরবি, উত্তর লেভানটিন"
+msgstr "উত্তর লেভানটিনীয় আরবি"
 
 #. Inverted name for apc
 msgid "Arabic, North Levantine"
 msgstr "আরবি, উত্তর লেভানটিন"
 
 #. Name for apd
-#, fuzzy
 msgid "Sudanese Arabic"
-msgstr "জুডিও-আরবি"
+msgstr "সুদানীয় আরবি"
 
 #. Inverted name for apd
 msgid "Arabic, Sudanese"
@@ -1521,14 +1501,12 @@ msgid "Bukiyip"
 msgstr "বুকিয়িপ"
 
 #. Name for apf
-#, fuzzy
 msgid "Pahanan Agta"
-msgstr "পাংগাসিনান"
+msgstr "পাহানান আগটা"
 
 #. Inverted name for apf
-#, fuzzy
 msgid "Agta, Pahanan"
-msgstr "আয়তা, বাতান"
+msgstr "আয়টা, পাহানান"
 
 #. Name for apg
 msgid "Ampanang"
@@ -1567,9 +1545,8 @@ msgid "Apache, Lipan"
 msgstr "অ্যাপাচে, লিপান"
 
 #. Name for apm
-#, fuzzy
 msgid "Mescalero-Chiricahua Apache"
-msgstr "অ্যাপাচে, মেসকালেরো-চিরিকাহুয়া"
+msgstr "মেসকালেরো-চিরিকাহুয়া অ্যাপাচে"
 
 #. Inverted name for apm
 msgid "Apache, Mescalero-Chiricahua"
@@ -1580,9 +1557,8 @@ msgid "Apinayé"
 msgstr "এপিনায়ে"
 
 #. Name for apo
-#, fuzzy
 msgid "Ambul"
-msgstr "অ্যাম্বুলাস"
+msgstr "অ্যাম্বুল"
 
 #. Name for app
 msgid "Apma"
@@ -1613,9 +1589,8 @@ msgid "Alapmunte"
 msgstr "আলাপমুন্তে"
 
 #. Name for apw
-#, fuzzy
 msgid "Western Apache"
-msgstr "পশ্চিম ফ্রিসিয়ান"
+msgstr "পশ্চিম অ্যাপাচে"
 
 #. Inverted name for apw
 msgid "Apache, Western"
@@ -1642,9 +1617,8 @@ msgid "Ampari Dogon"
 msgstr ""
 
 #. Inverted name for aqd
-#, fuzzy
 msgid "Dogon, Ampari"
-msgstr "বোজো, জেনামা"
+msgstr "ডোগোন, আমপারি"
 
 #. Name for aqg
 msgid "Arigidi"
@@ -1655,9 +1629,8 @@ msgid "Atohwaim"
 msgstr "আতোহওয়েইম"
 
 #. Name for aqn
-#, fuzzy
 msgid "Northern Alta"
-msgstr "উত্তর ফ্রিসিয়ান"
+msgstr "উত্তর আলটা"
 
 #. Inverted name for aqn
 msgid "Alta, Northern"
@@ -1672,15 +1645,12 @@ msgid "Arhâ"
 msgstr ""
 
 #. Name for aqt
-#, fuzzy
-#| msgid "Angal"
 msgid "Angaité"
-msgstr "আংগাল"
+msgstr "আংগাইটে"
 
 #. Name for aqz
-#, fuzzy
 msgid "Akuntsu"
-msgstr "আউটু"
+msgstr "অকুনটসু"
 
 #. Name for ara
 msgid "Arabic"
@@ -1695,9 +1665,8 @@ msgid "Arabic, Standard"
 msgstr "আরবি, প্রমিত"
 
 #. Name for arc
-#, fuzzy
 msgid "Official Aramaic (700-300 BCE)"
-msgstr "অ্যারামাইক, প্রশাসনিক (৭০০-৩০০ BCE)"
+msgstr "প্রশাসনিক অ্যারামাইক (৭০০-৩০০ খ্রিষ্টপূর্ব)"
 
 #. Inverted name for arc
 msgid "Aramaic, Official (700-300 BCE)"
@@ -1708,9 +1677,8 @@ msgid "Arabana"
 msgstr "আরাবানা"
 
 #. Name for are
-#, fuzzy
 msgid "Western Arrarnta"
-msgstr "পশ্চিম ফ্রিসিয়ান"
+msgstr "পশ্চিম আরান্টা"
 
 #. Inverted name for are
 msgid "Arrarnta, Western"
@@ -1753,9 +1721,8 @@ msgid "Arapaho"
 msgstr "আরাপাহো"
 
 #. Name for arq
-#, fuzzy
 msgid "Algerian Arabic"
-msgstr "আগারাবি"
+msgstr "আলজেরীয় আরবি"
 
 #. Inverted name for arq
 msgid "Arabic, Algerian"
@@ -1766,9 +1733,8 @@ msgid "Karo (Brazil)"
 msgstr "কারো (ব্রাজিল)"
 
 #. Name for ars
-#, fuzzy
 msgid "Najdi Arabic"
-msgstr "আরবি"
+msgstr "নাজডি আরবি"
 
 #. Inverted name for ars
 msgid "Arabic, Najdi"
@@ -1799,9 +1765,8 @@ msgid "Arabic, Moroccan"
 msgstr "আরবি, মোরোক্কান"
 
 #. Name for arz
-#, fuzzy
 msgid "Egyptian Arabic"
-msgstr "মিশরিয় (প্রাচীন)"
+msgstr "মিশরীয় আরবি"
 
 #. Inverted name for arz
 msgid "Arabic, Egyptian"
@@ -1848,9 +1813,8 @@ msgid "Buruwai"
 msgstr "বুরুওয়াই"
 
 #. Name for asj
-#, fuzzy
 msgid "Sari"
-msgstr "সোয়াহিলি"
+msgstr "সারি"
 
 #. Name for ask
 msgid "Ashkun"
@@ -1969,9 +1933,8 @@ msgid "Ati"
 msgstr "অটি"
 
 #. Name for atl
-#, fuzzy
 msgid "Mt. Iraya Agta"
-msgstr "আগতা, মাউন্ট ইরায়া"
+msgstr "মাউন্ট ইরায়া আগতা"
 
 #. Inverted name for atl
 msgid "Agta, Mt. Iraya"
@@ -1986,10 +1949,8 @@ msgid "Ashtiani"
 msgstr "আশটিয়ানি"
 
 #. Name for ato
-#, fuzzy
-#| msgid "Kol (Cameroon)"
 msgid "Atong (Cameroon)"
-msgstr "কোল (ক্যামেরুন)"
+msgstr "এটোং (ক্যামেরুন)"
 
 #. Name for atp
 msgid "Pudtol Atta"
@@ -2024,9 +1985,8 @@ msgid "Reel"
 msgstr "রিল"
 
 #. Name for atv
-#, fuzzy
 msgid "Northern Altai"
-msgstr "উত্তর ফ্রিসিয়ান"
+msgstr "উত্তর আলটাই"
 
 #. Inverted name for atv
 msgid "Altai, Northern"
@@ -2137,9 +2097,8 @@ msgid "Awiyaana"
 msgstr "অউয়িয়ানা"
 
 #. Name for auz
-#, fuzzy
 msgid "Uzbeki Arabic"
-msgstr "আরবি"
+msgstr "উজবেকীয় আরবি"
 
 #. Inverted name for auz
 msgid "Arabic, Uzbeki"
@@ -2170,9 +2129,8 @@ msgid "Kotava"
 msgstr "কোটাভা"
 
 #. Name for avl
-#, fuzzy
 msgid "Eastern Egyptian Bedawi Arabic"
-msgstr "আরবি, পূর্ব মিশরিয় বেদাউই"
+msgstr "পূর্ব মিশরীয় বেদাউই আরবি"
 
 #. Inverted name for avl
 msgid "Arabic, Eastern Egyptian Bedawi"
@@ -2267,9 +2225,8 @@ msgid "Araweté"
 msgstr ""
 
 #. Name for awu
-#, fuzzy
 msgid "Central Awyu"
-msgstr "বাই, মধ্য"
+msgstr "মধ্য আয়ু"
 
 #. Inverted name for awu
 msgid "Awyu, Central"
@@ -2304,9 +2261,8 @@ msgid "Abipon"
 msgstr "আবিপন"
 
 #. Name for axe
-#, fuzzy
 msgid "Ayerrerenge"
-msgstr "আয়েরে"
+msgstr "আয়েরেন্জ"
 
 #. Name for axg
 msgid "Mato Grosso Arára"
