@@ -9,21 +9,24 @@
 # Milos Komarcevic <kmilos@gmail.com>, 2009.
 # Aleksandar Jelenak <aleksandar.jelenak@gmail.com>, 2012.
 # Мирослав Николић <miroslavnikolic@rocketmail.com>, 2014-2015.
+# Слободан Симић(Slobodan Simić) <slsimic@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2015-12-26 21:20+0200\n"
-"Last-Translator: Мирослав Николић <miroslavnikolic@rocketmail.com>\n"
-"Language-Team: Serbian <(nothing)>\n"
+"PO-Revision-Date: 2021-02-03 11:41+0000\n"
+"Last-Translator: Слободан Симић(Slobodan Simić) <slsimic@gmail.com>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/sr/>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -350,14 +353,10 @@ msgid "Union of the Comoros"
 msgstr "Заједница Комора"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Зеленортска острва"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Република Зеленортска острва"
 
@@ -399,7 +398,7 @@ msgstr "Република Кипар"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Чешка"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -587,17 +586,15 @@ msgstr "Република Гвинеја"
 
 #. Name for GLP
 msgid "Guadeloupe"
-msgstr "Гвадалупа"
+msgstr "Гвадалупе"
 
 #. Name for GMB
 msgid "Gambia"
 msgstr "Гамбија"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Република Замбија"
+msgstr "Република Гамбија"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -988,16 +985,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Република Маршалска острва"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Нова Каледонија"
+msgstr "Северна Македонија"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Република Литванија"
+msgstr "Република Северна Македонија"
 
 #. Name for MLI
 msgid "Mali"
@@ -1033,7 +1026,7 @@ msgstr "Монголија"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Острва Северна Маријана"
+msgstr "Северна Маријанска острва"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1445,13 +1438,11 @@ msgstr "Краљевина Шведска"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Есватини"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Краљевина Шпанија"
+msgstr "Краљевина Есватини"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1591,7 +1582,7 @@ msgstr "Украјина"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Мања Спољашња Острва Сједињених Држава"
+msgstr "Спољна ивична острва САД"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1647,7 +1638,7 @@ msgstr "Британска Девичанска острва"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Девичанска острва, Америчка"
+msgstr "Девичанска острва, САД"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
@@ -1662,8 +1653,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Социјалистичка Република Вијетнам"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Вијетнам"
 
