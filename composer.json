@@ -20,7 +20,7 @@
         "phpmd/phpmd" : "@stable",
         "symfony/translation": "^4.4.17|^5.2",
         "vimeo/psalm": "^4.3",
-        "infection/infection": "^0.11.5"
+        "infection/infection": ">=0.11.5"
     },
     "autoload": {
         "psr-4": {
