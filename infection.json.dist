@@ -6,9 +6,14 @@
         ]
     },
     "phpUnit": {
-        "configDir": "tests"
+        "configDir": "."
     },
     "logs": {
-        "text": "infection-log.txt"
+        "text": "build/infection/text.log",
+        "summary": "build/infection/summary.log",
+        "perMutator": "build/infection/perMutator.md",
+        "badge": {
+            "branch": "master"
+        }
     }
 }

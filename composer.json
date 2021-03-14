@@ -19,7 +19,8 @@
         "squizlabs/php_codesniffer": "^3.4",
         "phpmd/phpmd" : "@stable",
         "symfony/translation": "^4.4.17|^5.2",
-        "vimeo/psalm": "^4.3"
+        "vimeo/psalm": "^4.3",
+        "infection/infection": "^0.21.4"
     },
     "autoload": {
         "psr-4": {
@@ -43,7 +44,7 @@
         "check-style": "./vendor/bin/phpcs",
         "fix-style": "./vendor/bin/phpcbf",
         "bench": "phpbench run benchmarks/  --report=default",
-        "infection": "infection",
+        "infection": "infection --min-msi=82 --min-covered-msi=91 --log-verbosity=default",
         "release": "./bin/release.sh",
         "update_iso_codes_db": "./bin/update_iso_codes_db.sh"
     }

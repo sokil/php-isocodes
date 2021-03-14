@@ -1,7 +1,7 @@
 .phpunit.result.cache
 build
 composer.lock
-infection-log.txt
+infection.json
 phpcs.xml
 phpunit.xml
 vendor
