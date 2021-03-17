@@ -9,23 +9,24 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2014-2015.
 # Branko Kovačević <ja_sam_branko@yahoo.com>, 2019.
+# Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2019-10-05 09:56+0000\n"
-"Last-Translator: Branko Kovačević <ja_sam_branko@yahoo.com>\n"
-"Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-2/sr_Latn/>\n"
+"PO-Revision-Date: 2021-02-03 11:42+0000\n"
+"Last-Translator: Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-2/sr/>\n"
 "Language: sr@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -2988,7 +2989,7 @@ msgstr "Atlantiko"
 
 #. Name for CO-BOL, Name for EC-B, Name for VE-F
 msgid "Bolívar"
-msgstr "Bolivar"
+msgstr "bolivar"
 
 #. Name for CO-BOY
 msgid "Boyacá"
@@ -3084,7 +3085,7 @@ msgstr ""
 
 #. Name for CO-SUC, Name for VE-R
 msgid "Sucre"
-msgstr "Sukr"
+msgstr "sukre"
 
 #. Name for CO-TOL
 msgid "Tolima"
@@ -5329,7 +5330,7 @@ msgstr "Francuska Polinezija"
 
 #. Name for FR-GP, Name for FR-GUA
 msgid "Guadeloupe"
-msgstr "Gvadalup"
+msgstr "Gvadalupe"
 
 #. Name for FR-HDF
 #, fuzzy
@@ -6277,7 +6278,7 @@ msgstr ""
 
 #. Name for GB-UKM
 msgid "United Kingdom"
-msgstr "Velika Britanija"
+msgstr "Ujedinjeno Kraljevstvo"
 
 #. Name for GB-VGL
 msgid "Vale of Glamorgan, The; Bro Morgannwg"
@@ -7854,7 +7855,7 @@ msgstr "Radžastan"
 
 #. Name for IN-SK
 msgid "Sikkim"
-msgstr ""
+msgstr "Sikim"
 
 #. Name for IN-TG
 #, fuzzy
@@ -18247,7 +18248,7 @@ msgstr "Džonston Atol"
 
 #. Name for UM-71
 msgid "Midway Islands"
-msgstr "Midvej Ajlands"
+msgstr "Ostrva Midvej"
 
 #. Name for UM-76
 msgid "Navassa Island"
