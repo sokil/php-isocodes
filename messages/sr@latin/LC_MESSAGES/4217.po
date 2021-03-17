@@ -6,21 +6,24 @@
 # Copyright ©
 # Aleksandar Jelenak <aleksandar.jelenak@gmail.com>, 2012.
 # Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2015.
+# Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2015-12-26 22:07+0200\n"
-"Last-Translator: Miroslav Nikolić <miroslavnikolic@rocketmail.com>\n"
-"Language-Team: Serbian <(nothing)>\n"
+"PO-Revision-Date: 2021-02-03 11:41+0000\n"
+"Last-Translator: Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-4217/sr/>\n"
 "Language: sr@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -260,7 +263,7 @@ msgstr "lempira"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr ""
+msgstr "kuna"
 
 #. Name for HTG
 msgid "Gourde"
@@ -422,7 +425,7 @@ msgstr "malazijski ringit"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "mozambijski metikal"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -488,7 +491,7 @@ msgstr "katarski rijal"
 
 #. Name for RON
 msgid "Romanian Leu"
-msgstr ""
+msgstr "rumunski lej"
 
 #. Name for RSD
 msgid "Serbian Dinar"
@@ -574,7 +577,7 @@ msgstr "somoni"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "turkmenistanski novi manat"
 
 #. Name for TND
 msgid "Tunisian Dinar"
@@ -626,7 +629,7 @@ msgstr "uzbekistanski sum"
 
 #. Name for VEF
 msgid "Bolívar"
-msgstr ""
+msgstr "bolivar"
 
 #. Name for VND
 msgid "Dong"
@@ -704,7 +707,7 @@ msgstr "platina"
 
 #. Name for XSU
 msgid "Sucre"
-msgstr ""
+msgstr "sukre"
 
 #. Name for XTS
 #, fuzzy
@@ -714,11 +717,11 @@ msgstr "Kôd za testiranje"
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr ""
+msgstr "ADB obračunska jedinica"
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr ""
+msgstr "Kodovi određeni za transakcije koje nisu vezane za valute"
 
 #. Name for YER
 msgid "Yemeni Rial"
