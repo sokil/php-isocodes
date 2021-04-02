@@ -7,14 +7,14 @@
 # Copyright ©
 # Meni Livne <livne@kde.org>, 2000.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Yaron Shahrabani <sh.yaron@gmail.com>, 2018, 2020.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2018, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-09-22 14:39+0000\n"
+"PO-Revision-Date: 2021-03-24 16:29+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/he/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.5.2-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -9079,7 +9079,7 @@ msgstr ""
 
 #. Name for ebu
 msgid "Embu"
-msgstr ""
+msgstr "אמבו"
 
 #. Name for ecr
 #, fuzzy
@@ -18223,9 +18223,8 @@ msgid "Lole"
 msgstr ""
 
 #. Name for llh
-#, fuzzy
 msgid "Lamu"
-msgstr "בסקית"
+msgstr "למו"
 
 #. Name for lli
 msgid "Teke-Laali"
@@ -19606,7 +19605,7 @@ msgstr ""
 
 #. Name for mer
 msgid "Meru"
-msgstr ""
+msgstr "מרו"
 
 #. Name for mes
 #, fuzzy
@@ -23214,9 +23213,8 @@ msgid "Nganasan"
 msgstr "הונגרית"
 
 #. Name for niq
-#, fuzzy
 msgid "Nandi"
-msgstr "בוסנית"
+msgstr "ננדי"
 
 #. Name for nir
 #, fuzzy
@@ -24090,9 +24088,8 @@ msgid "Ngom"
 msgstr ""
 
 #. Name for nrb
-#, fuzzy
 msgid "Nara"
-msgstr "מאורית"
+msgstr "נארה"
 
 #. Name for nrc
 #, fuzzy
@@ -28813,7 +28810,7 @@ msgstr "מלטזית"
 
 #. Name for saq
 msgid "Samburu"
-msgstr ""
+msgstr "סאמבורו"
 
 #. Name for sar
 msgid "Saraveca"
@@ -33569,7 +33566,7 @@ msgstr ""
 
 #. Name for tuv
 msgid "Turkana"
-msgstr ""
+msgstr "טורקנה"
 
 #. Name for tux
 msgid "Tuxináwa"

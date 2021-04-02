@@ -4,14 +4,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # Copyright ©
 # jeremy rutman <jeremy.rutman@gmail.com>, 2019.
-# Yaron Shahrabani <sh.yaron@gmail.com>, 2020.
+# Yaron Shahrabani <sh.yaron@gmail.com>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2020-09-22 14:40+0000\n"
+"PO-Revision-Date: 2021-03-24 16:29+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/he/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.5.2-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -113,107 +113,107 @@ msgstr "פאריאב"
 
 #. Name for AF-GHA
 msgid "Ghaznī"
-msgstr ""
+msgstr "ע׳זני"
 
 #. Name for AF-GHO
 msgid "Ghōr"
-msgstr ""
+msgstr "גור"
 
 #. Name for AF-HEL
 msgid "Helmand"
-msgstr ""
+msgstr "הלמנד"
 
 #. Name for AF-HER
 msgid "Herāt"
-msgstr ""
+msgstr "הראת"
 
 #. Name for AF-JOW
 msgid "Jowzjān"
-msgstr ""
+msgstr "ג׳וזג׳אן"
 
 #. Name for AF-KAB
 msgid "Kābul"
-msgstr ""
+msgstr "קאבול"
 
 #. Name for AF-KAN
 msgid "Kandahār"
-msgstr ""
+msgstr "קנדהאר"
 
 #. Name for AF-KAP
 msgid "Kāpīsā"
-msgstr ""
+msgstr "כאפיסא"
 
 #. Name for AF-KDZ
 msgid "Kunduz"
-msgstr ""
+msgstr "קונדוז"
 
 #. Name for AF-KHO
 msgid "Khōst"
-msgstr ""
+msgstr "ח׳וסת"
 
 #. Name for AF-KNR
 msgid "Kunar"
-msgstr ""
+msgstr "כונר"
 
 #. Name for AF-LAG
 msgid "Laghmān"
-msgstr ""
+msgstr "לגמאן"
 
 #. Name for AF-LOG
 msgid "Lōgar"
-msgstr ""
+msgstr "לוגר"
 
 #. Name for AF-NAN
 msgid "Nangarhār"
-msgstr ""
+msgstr "ננגרהאר"
 
 #. Name for AF-NIM
 msgid "Nīmrōz"
-msgstr ""
+msgstr "נימרוז"
 
 #. Name for AF-NUR
 msgid "Nūristān"
-msgstr ""
+msgstr "נורסתאן"
 
 #. Name for AF-PAN
 msgid "Panjshayr"
-msgstr ""
+msgstr "פנג׳שיר"
 
 #. Name for AF-PAR
 msgid "Parwān"
-msgstr ""
+msgstr "פרוואן"
 
 #. Name for AF-PIA
 msgid "Paktiyā"
-msgstr ""
+msgstr "פכתיא"
 
 #. Name for AF-PKA
 msgid "Paktīkā"
-msgstr ""
+msgstr "פכתיכא"
 
 #. Name for AF-SAM
 msgid "Samangān"
-msgstr ""
+msgstr "סמנגאן"
 
 #. Name for AF-SAR
 msgid "Sar-e Pul"
-msgstr ""
+msgstr "סר-י פול"
 
 #. Name for AF-TAK
 msgid "Takhār"
-msgstr ""
+msgstr "תח׳אר"
 
 #. Name for AF-URU
 msgid "Uruzgān"
-msgstr ""
+msgstr "אורוזגאן"
 
 #. Name for AF-WAR
 msgid "Wardak"
-msgstr ""
+msgstr "מיידאן וורדכ"
 
 #. Name for AF-ZAB
 msgid "Zābul"
-msgstr ""
+msgstr "זאבול"
 
 #. Name for AG-03, Name for BB-03, Name for DM-04, Name for GD-03, Name for VC-04
 msgid "Saint George"
@@ -861,107 +861,107 @@ msgstr "סביראבד"
 
 #. Name for AZ-SAD
 msgid "Sədərək"
-msgstr ""
+msgstr "סדרק"
 
 #. Name for AZ-SAH
 msgid "Şahbuz"
-msgstr ""
+msgstr "שחבוז"
 
 #. Name for AZ-SAL
 msgid "Salyan"
-msgstr ""
+msgstr "סאליאן"
 
 #. Name for AZ-SAR
 msgid "Şərur"
-msgstr ""
+msgstr "שארור"
 
 #. Name for AZ-SAT
 msgid "Saatlı"
-msgstr ""
+msgstr "סאטלי"
 
 #. Name for AZ-SBN
 msgid "Şabran"
-msgstr ""
+msgstr "שבראן"
 
 #. Name for AZ-SIY
 msgid "Siyəzən"
-msgstr ""
+msgstr "סיאזאן"
 
 #. Name for AZ-SKR
 msgid "Şəmkir"
-msgstr ""
+msgstr "שמקיר"
 
 #. Name for AZ-SM
 msgid "Sumqayıt"
-msgstr ""
+msgstr "סומגאיט"
 
 #. Name for AZ-SMI
 msgid "Şamaxı"
-msgstr ""
+msgstr "שמאחי"
 
 #. Name for AZ-SMX
 msgid "Samux"
-msgstr ""
+msgstr "סאמוך"
 
 #. Name for AZ-SR
 msgid "Şirvan"
-msgstr ""
+msgstr "שירוואן"
 
 #. Name for AZ-SUS
 msgid "Şuşa"
-msgstr ""
+msgstr "שושה"
 
 #. Name for AZ-TAR
 msgid "Tərtər"
-msgstr ""
+msgstr "טרטר"
 
 #. Name for AZ-TOV
 msgid "Tovuz"
-msgstr ""
+msgstr "תאוז"
 
 #. Name for AZ-UCA
 msgid "Ucar"
-msgstr ""
+msgstr "אוג׳אר"
 
 #. Name for AZ-XA
 msgid "Xankəndi"
-msgstr ""
+msgstr "סטפנקרט"
 
 #. Name for AZ-XAC
 msgid "Xaçmaz"
-msgstr ""
+msgstr "חאצ׳מאז"
 
 #. Name for AZ-XCI
 msgid "Xocalı"
-msgstr ""
+msgstr "חוג׳אלי"
 
 #. Name for AZ-XIZ
 msgid "Xızı"
-msgstr ""
+msgstr "חיז׳י"
 
 #. Name for AZ-XVD
 msgid "Xocavənd"
-msgstr ""
+msgstr "חוג׳אבנד"
 
 #. Name for AZ-YAR
 msgid "Yardımlı"
-msgstr ""
+msgstr "יארדימלי"
 
 #. Name for AZ-YE, Name for AZ-YEV
 msgid "Yevlax"
-msgstr ""
+msgstr "ייבלאח"
 
 #. Name for AZ-ZAN
 msgid "Zəngilan"
-msgstr ""
+msgstr "זנגלן"
 
 #. Name for AZ-ZAQ
 msgid "Zaqatala"
-msgstr ""
+msgstr "זגטאלה"
 
 #. Name for AZ-ZAR
 msgid "Zərdab"
-msgstr ""
+msgstr "זרדוב"
 
 #. Name for BA-01
 msgid "Unsko-sanski kanton"
@@ -1017,31 +1017,31 @@ msgstr ""
 
 #. Name for BB-01
 msgid "Christ Church"
-msgstr ""
+msgstr "קרייסט צ׳רץ׳"
 
 #. Name for BB-02, Name for DM-02, Name for GD-01, Name for JM-02, Name for VC-02
 msgid "Saint Andrew"
-msgstr ""
+msgstr "סנט אנדרו"
 
 #. Name for BB-04, Name for JM-08
 msgid "Saint James"
-msgstr ""
+msgstr "סנט ג׳יימס"
 
 #. Name for BB-06, Name for DM-06
 msgid "Saint Joseph"
-msgstr ""
+msgstr "סנט ג׳וזף"
 
 #. Name for BB-07
 msgid "Saint Lucy"
-msgstr ""
+msgstr "סנט לוסי"
 
 #. Name for BB-08
 msgid "Saint Michael"
-msgstr ""
+msgstr "סנט מייקל"
 
 #. Name for BB-11, Name for JM-03
 msgid "Saint Thomas"
-msgstr ""
+msgstr "סנט תומאס"
 
 #. Name for BD-01
 msgid "Bandarban"
@@ -8509,255 +8509,255 @@ msgstr ""
 
 #. Name for JO-AJ
 msgid "‘Ajlūn"
-msgstr ""
+msgstr "עג׳לון"
 
 #. Name for JO-AM
 msgid "‘Ammān (Al ‘Aşimah)"
-msgstr ""
+msgstr "עמאן (הבירה)"
 
 #. Name for JO-AQ
 msgid "Al ‘Aqabah"
-msgstr ""
+msgstr "עקבה"
 
 #. Name for JO-AT
 msgid "Aţ Ţafīlah"
-msgstr ""
+msgstr "טפילה"
 
 #. Name for JO-AZ
 msgid "Az Zarqā'"
-msgstr ""
+msgstr "זרקא"
 
 #. Name for JO-BA
 msgid "Al Balqā'"
-msgstr ""
+msgstr "בלקא"
 
 #. Name for JO-IR
 msgid "Irbid"
-msgstr ""
+msgstr "אירביד"
 
 #. Name for JO-JA
 msgid "Jarash"
-msgstr ""
+msgstr "ג׳רש"
 
 #. Name for JO-KA
 msgid "Al Karak"
-msgstr ""
+msgstr "כרכ"
 
 #. Name for JO-MA
 msgid "Al Mafraq"
-msgstr ""
+msgstr "מפרק"
 
 #. Name for JO-MD
 msgid "Mādabā"
-msgstr ""
+msgstr "מידבא"
 
 #. Name for JO-MN
 msgid "Ma‘ān"
-msgstr ""
+msgstr "מעאן"
 
 #. Name for JP-01
 msgid "Hokkaido"
-msgstr ""
+msgstr "הוקאידו"
 
 #. Name for JP-02
 msgid "Aomori"
-msgstr ""
+msgstr "אאומורי"
 
 #. Name for JP-03
 msgid "Iwate"
-msgstr ""
+msgstr "איווטה"
 
 #. Name for JP-04
 msgid "Miyagi"
-msgstr ""
+msgstr "מיאגי"
 
 #. Name for JP-05
 msgid "Akita"
-msgstr ""
+msgstr "אקיטה"
 
 #. Name for JP-06
 msgid "Yamagata"
-msgstr ""
+msgstr "יאמאגטה"
 
 #. Name for JP-07
 msgid "Fukushima"
-msgstr ""
+msgstr "פוקושימה"
 
 #. Name for JP-08
 msgid "Ibaraki"
-msgstr ""
+msgstr "איבראקי"
 
 #. Name for JP-09
 msgid "Tochigi"
-msgstr ""
+msgstr "טוצ׳יגי"
 
 #. Name for JP-10
 msgid "Gunma"
-msgstr ""
+msgstr "גונמה"
 
 #. Name for JP-11
 msgid "Saitama"
-msgstr ""
+msgstr "סאיטאמה"
 
 #. Name for JP-12
 msgid "Chiba"
-msgstr ""
+msgstr "צ׳יבה"
 
 #. Name for JP-13
 msgid "Tokyo"
-msgstr ""
+msgstr "טוקיו"
 
 #. Name for JP-14
 msgid "Kanagawa"
-msgstr ""
+msgstr "קנאגווה"
 
 #. Name for JP-15
 msgid "Niigata"
-msgstr ""
+msgstr "ניאיגטה"
 
 #. Name for JP-16
 msgid "Toyama"
-msgstr ""
+msgstr "טויאמה"
 
 #. Name for JP-17
 msgid "Ishikawa"
-msgstr ""
+msgstr "אישיקווה"
 
 #. Name for JP-18
 msgid "Fukui"
-msgstr ""
+msgstr "פוקואי"
 
 #. Name for JP-19
 msgid "Yamanashi"
-msgstr ""
+msgstr "יאמאנאשי"
 
 #. Name for JP-20
 msgid "Nagano"
-msgstr ""
+msgstr "נאגנו"
 
 #. Name for JP-21
 msgid "Gifu"
-msgstr ""
+msgstr "גיפו"
 
 #. Name for JP-22
 msgid "Shizuoka"
-msgstr ""
+msgstr "שיזואוקה"
 
 #. Name for JP-23
 msgid "Aichi"
-msgstr ""
+msgstr "אאיצ׳י"
 
 #. Name for JP-24
 msgid "Mie"
-msgstr ""
+msgstr "מיאה"
 
 #. Name for JP-25
 msgid "Shiga"
-msgstr ""
+msgstr "שיגה"
 
 #. Name for JP-26
 msgid "Kyoto"
-msgstr ""
+msgstr "קיוטו"
 
 #. Name for JP-27
 msgid "Osaka"
-msgstr ""
+msgstr "אוסקה"
 
 #. Name for JP-28
 msgid "Hyogo"
-msgstr ""
+msgstr "היוגו"
 
 #. Name for JP-29
 msgid "Nara"
-msgstr ""
+msgstr "נארה"
 
 #. Name for JP-30
 msgid "Wakayama"
-msgstr ""
+msgstr "וקאיאמה"
 
 #. Name for JP-31
 msgid "Tottori"
-msgstr ""
+msgstr "טוטורי"
 
 #. Name for JP-32
 msgid "Shimane"
-msgstr ""
+msgstr "שימאנה"
 
 #. Name for JP-33
 msgid "Okayama"
-msgstr ""
+msgstr "אוקיאמה"
 
 #. Name for JP-34
 msgid "Hiroshima"
-msgstr ""
+msgstr "הירושימה"
 
 #. Name for JP-35
 msgid "Yamaguchi"
-msgstr ""
+msgstr "ימאגוצ׳י"
 
 #. Name for JP-36
 msgid "Tokushima"
-msgstr ""
+msgstr "טוקושימה"
 
 #. Name for JP-37
 msgid "Kagawa"
-msgstr ""
+msgstr "קאגווה"
 
 #. Name for JP-38
 msgid "Ehime"
-msgstr ""
+msgstr "אהימה"
 
 #. Name for JP-39
 msgid "Kochi"
-msgstr ""
+msgstr "קוצ׳י"
 
 #. Name for JP-40
 msgid "Fukuoka"
-msgstr ""
+msgstr "פוקואוקה"
 
 #. Name for JP-41
 msgid "Saga"
-msgstr ""
+msgstr "סאגה"
 
 #. Name for JP-42
 msgid "Nagasaki"
-msgstr ""
+msgstr "נגסאקי"
 
 #. Name for JP-43
 msgid "Kumamoto"
-msgstr ""
+msgstr "קוממוטו"
 
 #. Name for JP-44
 msgid "Oita"
-msgstr ""
+msgstr "אויטה"
 
 #. Name for JP-45
 msgid "Miyazaki"
-msgstr ""
+msgstr "מיאזקי"
 
 #. Name for JP-46
 msgid "Kagoshima"
-msgstr ""
+msgstr "קגושימה"
 
 #. Name for JP-47
 msgid "Okinawa"
-msgstr ""
+msgstr "אוקינאווה"
 
 #. Name for KE-01
 msgid "Baringo"
-msgstr ""
+msgstr "ברינגו"
 
 #. Name for KE-02
 msgid "Bomet"
-msgstr ""
+msgstr "בומט"
 
 #. Name for KE-03
 msgid "Bungoma"
-msgstr ""
+msgstr "בונגומה"
 
 #. Name for KE-04, Name for UG-202
 msgid "Busia"
-msgstr ""
+msgstr "בוסיה"
 
 #. Name for KE-05
 msgid "Elgeyo/Marakwet"
@@ -8765,227 +8765,227 @@ msgstr ""
 
 #. Name for KE-06
 msgid "Embu"
-msgstr ""
+msgstr "אמבו"
 
 #. Name for KE-07
 msgid "Garissa"
-msgstr ""
+msgstr "גאריסה"
 
 #. Name for KE-08
 msgid "Homa Bay"
-msgstr ""
+msgstr "הומה ביי"
 
 #. Name for KE-09
 msgid "Isiolo"
-msgstr ""
+msgstr "איסולו"
 
 #. Name for KE-10
 msgid "Kajiado"
-msgstr ""
+msgstr "קאיאדו"
 
 #. Name for KE-11
 msgid "Kakamega"
-msgstr ""
+msgstr "קקאמגה"
 
 #. Name for KE-12
 msgid "Kericho"
-msgstr ""
+msgstr "קריצ׳ו"
 
 #. Name for KE-13
 msgid "Kiambu"
-msgstr ""
+msgstr "קיאמבו"
 
 #. Name for KE-14
 msgid "Kilifi"
-msgstr ""
+msgstr "קיליפי"
 
 #. Name for KE-15
 msgid "Kirinyaga"
-msgstr ""
+msgstr "קיריניאגה"
 
 #. Name for KE-16
 msgid "Kisii"
-msgstr ""
+msgstr "קיסיל"
 
 #. Name for KE-17
 msgid "Kisumu"
-msgstr ""
+msgstr "קיסומו"
 
 #. Name for KE-18
 msgid "Kitui"
-msgstr ""
+msgstr "קיטוי"
 
 #. Name for KE-19
 msgid "Kwale"
-msgstr ""
+msgstr "קוולה"
 
 #. Name for KE-20
 msgid "Laikipia"
-msgstr ""
+msgstr "לאיקיפיה"
 
 #. Name for KE-21
 msgid "Lamu"
-msgstr ""
+msgstr "למו"
 
 #. Name for KE-22
 msgid "Machakos"
-msgstr ""
+msgstr "מצ׳אקוס"
 
 #. Name for KE-23
 msgid "Makueni"
-msgstr ""
+msgstr "מקואני"
 
 #. Name for KE-24
 msgid "Mandera"
-msgstr ""
+msgstr "מנדרה"
 
 #. Name for KE-25
 msgid "Marsabit"
-msgstr ""
+msgstr "מרסאביט"
 
 #. Name for KE-26
 msgid "Meru"
-msgstr ""
+msgstr "מרו"
 
 #. Name for KE-27
 msgid "Migori"
-msgstr ""
+msgstr "מיגורי"
 
 #. Name for KE-28
 msgid "Mombasa"
-msgstr ""
+msgstr "מומבסה"
 
 #. Name for KE-29
 msgid "Murang'a"
-msgstr ""
+msgstr "מורנגה"
 
 #. Name for KE-30
 msgid "Nairobi City"
-msgstr ""
+msgstr "ניירובי"
 
 #. Name for KE-31
 msgid "Nakuru"
-msgstr ""
+msgstr "נקורו"
 
 #. Name for KE-32
 msgid "Nandi"
-msgstr ""
+msgstr "ננדי"
 
 #. Name for KE-33
 msgid "Narok"
-msgstr ""
+msgstr "נרוק"
 
 #. Name for KE-34
 msgid "Nyamira"
-msgstr ""
+msgstr "ניאמירה"
 
 #. Name for KE-35
 msgid "Nyandarua"
-msgstr ""
+msgstr "ניאנדרואה"
 
 #. Name for KE-36
 msgid "Nyeri"
-msgstr ""
+msgstr "ניירי"
 
 #. Name for KE-37
 msgid "Samburu"
-msgstr ""
+msgstr "סאמבורו"
 
 #. Name for KE-38
 msgid "Siaya"
-msgstr ""
+msgstr "סיאיה"
 
 #. Name for KE-39
 msgid "Taita/Taveta"
-msgstr ""
+msgstr "טייטה-טאבתה"
 
 #. Name for KE-40
 msgid "Tana River"
-msgstr ""
+msgstr "נהר טנה"
 
 #. Name for KE-41
 msgid "Tharaka-Nithi"
-msgstr ""
+msgstr "ת׳ארקה-נית׳י"
 
 #. Name for KE-42
 msgid "Trans Nzoia"
-msgstr ""
+msgstr "טראנס נזויה"
 
 #. Name for KE-43
 msgid "Turkana"
-msgstr ""
+msgstr "טורקנה"
 
 #. Name for KE-44
 msgid "Uasin Gishu"
-msgstr ""
+msgstr "אואסין גישו"
 
 #. Name for KE-45
 msgid "Vihiga"
-msgstr ""
+msgstr "ויהיגה"
 
 #. Name for KE-46
 msgid "Wajir"
-msgstr ""
+msgstr "ואג׳יר"
 
 #. Name for KE-47
 msgid "West Pokot"
-msgstr ""
+msgstr "פוקוט מערב"
 
 #. Name for KG-B
 msgid "Batken"
-msgstr ""
+msgstr "בטקן"
 
 #. Name for KG-C
 msgid "Chü"
-msgstr ""
+msgstr "צ׳וי"
 
 #. Name for KG-GB
 msgid "Bishkek"
-msgstr ""
+msgstr "בישקק"
 
 #. Name for KG-J
 msgid "Jalal-Abad"
-msgstr ""
+msgstr "ג׳לאל-אבאד"
 
 #. Name for KG-N
 msgid "Naryn"
-msgstr ""
+msgstr "נרין"
 
 #. Name for KG-O
 msgid "Osh"
-msgstr ""
+msgstr "אוש"
 
 #. Name for KG-T
 msgid "Talas"
-msgstr ""
+msgstr "טלס"
 
 #. Name for KG-Y
 msgid "Ysyk-Köl"
-msgstr ""
+msgstr "איסיק קול"
 
 #. Name for KH-1
 msgid "Banteay Mean Chey"
-msgstr ""
+msgstr "באנטי מינצ׳י"
 
 #. Name for KH-10
 msgid "Krachoh"
-msgstr ""
+msgstr "קראצ׳יי"
 
 #. Name for KH-11
 msgid "Mondol Kiri"
-msgstr ""
+msgstr "מונדולקירי"
 
 #. Name for KH-12
 msgid "Phnom Penh"
-msgstr ""
+msgstr "פנום פן"
 
 #. Name for KH-13
 msgid "Preah Vihear"
-msgstr ""
+msgstr "פראה ויהר"
 
 #. Name for KH-14
 msgid "Prey Veaeng"
-msgstr ""
+msgstr "פריי וונג"
 
 #. Name for KH-15
 msgid "Pousaat"
@@ -10241,343 +10241,343 @@ msgstr ""
 
 #. Name for LY-BA
 msgid "Banghāzī"
-msgstr ""
+msgstr "בנע׳אזי"
 
 #. Name for LY-BU
 msgid "Al Buţnān"
-msgstr ""
+msgstr "אל בוטנאן"
 
 #. Name for LY-DR
 msgid "Darnah"
-msgstr ""
+msgstr "דרנה"
 
 #. Name for LY-GT
 msgid "Ghāt"
-msgstr ""
+msgstr "ע׳את"
 
 #. Name for LY-JA
 msgid "Al Jabal al Akhḑar"
-msgstr ""
+msgstr "אל־ג׳בל אל־אח׳דר"
 
 #. Name for LY-JB
 msgid "Jaghbūb"
-msgstr ""
+msgstr "ג׳ע׳בוב"
 
 #. Name for LY-JG
 msgid "Al Jabal al Gharbī"
-msgstr ""
+msgstr "אל־ג׳בל אל־ע׳רבי"
 
 #. Name for LY-JI
 msgid "Al Jifārah"
-msgstr ""
+msgstr "אל־ג׳יפארה"
 
 #. Name for LY-JU
 msgid "Al Jufrah"
-msgstr ""
+msgstr "אל־ג׳יפרה"
 
 #. Name for LY-KF
 msgid "Al Kufrah"
-msgstr ""
+msgstr "אל־כופרה"
 
 #. Name for LY-MB
 msgid "Al Marqab"
-msgstr ""
+msgstr "אל־מורקוב"
 
 #. Name for LY-MI
 msgid "Mişrātah"
-msgstr ""
+msgstr "מיסראתה"
 
 #. Name for LY-MJ
 msgid "Al Marj"
-msgstr ""
+msgstr "אל־מרג׳"
 
 #. Name for LY-MQ
 msgid "Murzuq"
-msgstr ""
+msgstr "מורזוק"
 
 #. Name for LY-NL
 msgid "Nālūt"
-msgstr ""
+msgstr "נאלות"
 
 #. Name for LY-NQ
 msgid "An Nuqaţ al Khams"
-msgstr ""
+msgstr "אל־נוקאט אל־ח׳מס"
 
 #. Name for LY-SB
 msgid "Sabhā"
-msgstr ""
+msgstr "סבהא"
 
 #. Name for LY-SR
 msgid "Surt"
-msgstr ""
+msgstr "סירת"
 
 #. Name for LY-TB
 msgid "Ţarābulus"
-msgstr ""
+msgstr "טריפולי"
 
 #. Name for LY-WA
 msgid "Al Wāḩāt"
-msgstr ""
+msgstr "אל־ואחאת"
 
 #. Name for LY-WD
 msgid "Wādī al Ḩayāt"
-msgstr ""
+msgstr "ואדי אל־חיאה"
 
 #. Name for LY-WS
 msgid "Wādī ash Shāţiʾ"
-msgstr ""
+msgstr "ואדי א־שאטי"
 
 #. Name for LY-ZA
 msgid "Az Zāwiyah"
-msgstr ""
+msgstr "א־זאויה"
 
 #. Name for MA-01
 msgid "Tanger-Tétouan-Al Hoceïma"
-msgstr ""
+msgstr "טנג׳יר-תטואן-אל־חוקיימה"
 
 #. Name for MA-02
 msgid "L'Oriental"
-msgstr ""
+msgstr "אוריינטל"
 
 #. Name for MA-03
 msgid "Fès-Meknès"
-msgstr ""
+msgstr "פס-מקנס"
 
 #. Name for MA-04
 msgid "Rabat-Salé-Kénitra"
-msgstr ""
+msgstr "רבאט-סלא-קניטרה"
 
 #. Name for MA-05
 msgid "Béni Mellal-Khénifra"
-msgstr ""
+msgstr "בני מלאל־חניפרה"
 
 #. Name for MA-06
 msgid "Casablanca-Settat"
-msgstr ""
+msgstr "קזבלנקה-סטאת"
 
 #. Name for MA-07
 msgid "Marrakech-Safi"
-msgstr ""
+msgstr "מרקש-סאפי"
 
 #. Name for MA-08
 msgid "Drâa-Tafilalet"
-msgstr ""
+msgstr "דרעה-תאפילאלת"
 
 #. Name for MA-09
 msgid "Souss-Massa"
-msgstr ""
+msgstr "סוס-מאסה"
 
 #. Name for MA-10
 msgid "Guelmim-Oued Noun (EH-partial)"
-msgstr ""
+msgstr "גולמים-ואד נון (חלקית בסהרה המערבית)"
 
 #. Name for MA-11
 msgid "Laâyoune-Sakia El Hamra (EH-partial)"
-msgstr ""
+msgstr "לעיון-סקיה אל־חמרה (חלקית בסהרה המערבית)"
 
 #. Name for MA-12
 msgid "Dakhla-Oued Ed-Dahab (EH)"
-msgstr ""
+msgstr "דאח׳לה-ואד א־ד׳הב (סהרה המערבית)"
 
 #. Name for MA-AGD
 msgid "Agadir-Ida-Ou-Tanane"
-msgstr ""
+msgstr "אגאדיר-אידא-ותנאן"
 
 #. Name for MA-AOU
 msgid "Aousserd (EH)"
-msgstr ""
+msgstr "אוסרד (סהרה המערבית)"
 
 #. Name for MA-ASZ
 msgid "Assa-Zag (EH-partial)"
-msgstr ""
+msgstr "אסא-זאג (חלקית בסהרה המערבית)"
 
 #. Name for MA-AZI
 msgid "Azilal"
-msgstr ""
+msgstr "אזילאל"
 
 #. Name for MA-BEM
 msgid "Béni Mellal"
-msgstr ""
+msgstr "בני מלאל"
 
 #. Name for MA-BER
 msgid "Berkane"
-msgstr ""
+msgstr "ברכאן"
 
 #. Name for MA-BES
 msgid "Benslimane"
-msgstr ""
+msgstr "בן סלימן"
 
 #. Name for MA-BOD
 msgid "Boujdour (EH)"
-msgstr ""
+msgstr "בוג׳דור (סהרה המערבית)"
 
 #. Name for MA-BOM
 msgid "Boulemane"
-msgstr ""
+msgstr "בולמאן"
 
 #. Name for MA-BRR
 msgid "Berrechid"
-msgstr ""
+msgstr "ברשיד"
 
 #. Name for MA-CAS
 msgid "Casablanca"
-msgstr ""
+msgstr "קזבלנקה"
 
 #. Name for MA-CHE
 msgid "Chefchaouen"
-msgstr ""
+msgstr "שפשואן"
 
 #. Name for MA-CHI
 msgid "Chichaoua"
-msgstr ""
+msgstr "שישאוה"
 
 #. Name for MA-CHT
 msgid "Chtouka-Ait Baha"
-msgstr ""
+msgstr "אשתוקה-אית באהא"
 
 #. Name for MA-DRI
 msgid "Driouch"
-msgstr ""
+msgstr "דריוש"
 
 #. Name for MA-ERR
 msgid "Errachidia"
-msgstr ""
+msgstr "א־רשידיה"
 
 #. Name for MA-ESI
 msgid "Essaouira"
-msgstr ""
+msgstr "א־סוירה"
 
 #. Name for MA-ESM
 msgid "Es-Semara (EH-partial)"
-msgstr ""
+msgstr "א־סמארה (חלקית בסהרה המערבית)"
 
 #. Name for MA-FAH
 msgid "Fahs-Anjra"
-msgstr ""
+msgstr "פחס-אנג׳רה"
 
 #. Name for MA-FES
 msgid "Fès"
-msgstr ""
+msgstr "פס"
 
 #. Name for MA-FIG
 msgid "Figuig"
-msgstr ""
+msgstr "פגיג"
 
 #. Name for MA-FQH
 msgid "Fquih Ben Salah"
-msgstr ""
+msgstr "פקיה בן סלאח"
 
 #. Name for MA-GUE
 msgid "Guelmim"
-msgstr ""
+msgstr "גלמים"
 
 #. Name for MA-GUF
 msgid "Guercif"
-msgstr ""
+msgstr "גרסיף"
 
 #. Name for MA-HAJ
 msgid "El Hajeb"
-msgstr ""
+msgstr "אל־חאג׳ב"
 
 #. Name for MA-HAO
 msgid "Al Haouz"
-msgstr ""
+msgstr "אל־חאוז"
 
 #. Name for MA-HOC
 msgid "Al Hoceïma"
-msgstr ""
+msgstr "אל־חוסימה"
 
 #. Name for MA-IFR
 msgid "Ifrane"
-msgstr ""
+msgstr "איפראן"
 
 #. Name for MA-INE
 msgid "Inezgane-Ait Melloul"
-msgstr ""
+msgstr "אנזגאן-אית מלול"
 
 #. Name for MA-JDI
 msgid "El Jadida"
-msgstr ""
+msgstr "אל־ג׳דידה"
 
 #. Name for MA-JRA
 msgid "Jerada"
-msgstr ""
+msgstr "ג׳ראדה"
 
 #. Name for MA-KEN
 msgid "Kénitra"
-msgstr ""
+msgstr "קונייטרה"
 
 #. Name for MA-KES
 msgid "El Kelâa des Sraghna"
-msgstr ""
+msgstr "קלעת א־סראע׳ינה"
 
 #. Name for MA-KHE
 msgid "Khemisset"
-msgstr ""
+msgstr "ח׳מיסאת"
 
 #. Name for MA-KHN
 msgid "Khenifra"
-msgstr ""
+msgstr "ח׳ניפרה"
 
 #. Name for MA-KHO
 msgid "Khouribga"
-msgstr ""
+msgstr "ח׳וריבגה"
 
 #. Name for MA-LAA
 msgid "Laâyoune (EH)"
-msgstr ""
+msgstr "לעיון (סהרה המערבית)"
 
 #. Name for MA-LAR
 msgid "Larache"
-msgstr ""
+msgstr "אל־עראש"
 
 #. Name for MA-MAR
 msgid "Marrakech"
-msgstr ""
+msgstr "מרקש"
 
 #. Name for MA-MDF
 msgid "M’diq-Fnideq"
-msgstr ""
+msgstr "מדיק-פנידק"
 
 #. Name for MA-MED
 msgid "Médiouna"
-msgstr ""
+msgstr "מדיונה"
 
 #. Name for MA-MEK
 msgid "Meknès"
-msgstr ""
+msgstr "מקנאס"
 
 #. Name for MA-MID
 msgid "Midelt"
-msgstr ""
+msgstr "מידלת"
 
 #. Name for MA-MOH
 msgid "Mohammadia"
-msgstr ""
+msgstr "מוחמדיה"
 
 #. Name for MA-MOU
 msgid "Moulay Yacoub"
-msgstr ""
+msgstr "מולאי יעקוב"
 
 #. Name for MA-NAD
 msgid "Nador"
-msgstr ""
+msgstr "נאדור"
 
 #. Name for MA-NOU
 msgid "Nouaceur"
-msgstr ""
+msgstr "נואסר"
 
 #. Name for MA-OUA
 msgid "Ouarzazate"
-msgstr ""
+msgstr "ורזאזאת"
 
 #. Name for MA-OUD
 msgid "Oued Ed-Dahab (EH)"
-msgstr ""
+msgstr "ואד א־ד׳הב (סהרה המערבית)"
 
 #. Name for MA-OUJ
 msgid "Oujda-Angad"
-msgstr ""
+msgstr "וג׳דה-אנגאד"
 
 #. Name for MA-OUZ
 msgid "Ouezzane"
@@ -18793,79 +18793,79 @@ msgstr ""
 
 #. Name for YE-AB
 msgid "Abyān"
-msgstr ""
+msgstr "אביאן"
 
 #. Name for YE-AD
 msgid "'Adan"
-msgstr ""
+msgstr "עדן"
 
 #. Name for YE-AM
 msgid "'Amrān"
-msgstr ""
+msgstr "עמראן"
 
 #. Name for YE-BA
 msgid "Al Bayḑā'"
-msgstr ""
+msgstr "אל־ביידא"
 
 #. Name for YE-DA
 msgid "Aḑ Ḑāli‘"
-msgstr ""
+msgstr "א־דלע"
 
 #. Name for YE-DH
 msgid "Dhamār"
-msgstr ""
+msgstr "ד׳מאר"
 
 #. Name for YE-HD
 msgid "Ḩaḑramawt"
-msgstr ""
+msgstr "חדרמאות"
 
 #. Name for YE-HJ
 msgid "Ḩajjah"
-msgstr ""
+msgstr "חג׳ה"
 
 #. Name for YE-IB
 msgid "Ibb"
-msgstr ""
+msgstr "איב"
 
 #. Name for YE-LA
 msgid "Laḩij"
-msgstr ""
+msgstr "לחג׳"
 
 #. Name for YE-MA
 msgid "Ma'rib"
-msgstr ""
+msgstr "מארב"
 
 #. Name for YE-MR
 msgid "Al Mahrah"
-msgstr ""
+msgstr "אל־מהרה"
 
 #. Name for YE-MU
 msgid "Al Ḩudaydah"
-msgstr ""
+msgstr "אל־חודיידה"
 
 #. Name for YE-MW
 msgid "Al Maḩwīt"
-msgstr ""
+msgstr "אל־מחוית"
 
 #. Name for YE-RA
 msgid "Raymah"
-msgstr ""
+msgstr "רימה"
 
 #. Name for YE-SD
 msgid "Şa'dah"
-msgstr ""
+msgstr "סעדה"
 
 #. Name for YE-SH
 msgid "Shabwah"
-msgstr ""
+msgstr "שבוה"
 
 #. Name for YE-SN
 msgid "Şan'ā'"
-msgstr ""
+msgstr "צנעא"
 
 #. Name for YE-TA
 msgid "Tā'izz"
-msgstr ""
+msgstr "תעז"
 
 #. Name for ZA-EC
 msgid "Eastern Cape"
