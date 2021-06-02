@@ -11,14 +11,15 @@
 # Javier Fernandez-Sanguino <jfs@debian.org>, 2004-2011.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-11-08 18:04+0000\n"
-"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
+"PO-Revision-Date: 2021-05-24 20:32+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/es/>\n"
 "Language: es\n"
@@ -26,11 +27,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
-msgstr "Dirham de los Emiratos Árabes Unidos"
+msgstr "Dírham emiratí"
 
 #. Name for AFN
 msgid "Afghani"
@@ -66,7 +67,7 @@ msgstr "Florín arubeño"
 
 #. Name for AZN
 msgid "Azerbaijanian Manat"
-msgstr "Manat de Azerbayán"
+msgstr "Manat azerbaiyano"
 
 #. Name for BAM
 msgid "Convertible Mark"
@@ -74,7 +75,7 @@ msgstr "Marco convertible"
 
 #. Name for BBD
 msgid "Barbados Dollar"
-msgstr "Dólar de Barbados"
+msgstr "Dólar barbadense"
 
 #. Name for BDT
 msgid "Taka"
@@ -86,19 +87,19 @@ msgstr "Lev búlgaro"
 
 #. Name for BHD
 msgid "Bahraini Dinar"
-msgstr "Dinar bahreiní"
+msgstr "Dinar bareiní"
 
 #. Name for BIF
 msgid "Burundi Franc"
-msgstr "Franco de Burundi"
+msgstr "Franco burundés"
 
 #. Name for BMD
 msgid "Bermudian Dollar"
-msgstr "Dólar de Bermudas"
+msgstr "Dólar bermudeño"
 
 #. Name for BND
 msgid "Brunei Dollar"
-msgstr "Dólar de Brunei"
+msgstr "Dólar bruneano"
 
 #. Name for BOB
 msgid "Boliviano"
@@ -110,7 +111,7 @@ msgstr "Real brasileño"
 
 #. Name for BSD
 msgid "Bahamian Dollar"
-msgstr "Dólar de las Bahamas"
+msgstr "Dólar bahameño"
 
 #. Name for BTN
 msgid "Ngultrum"
@@ -126,7 +127,7 @@ msgstr "Rublo bielorruso"
 
 #. Name for BZD
 msgid "Belize Dollar"
-msgstr "Dólar de Belize"
+msgstr "Dólar beliceño"
 
 #. Name for CAD
 msgid "Canadian Dollar"
@@ -174,7 +175,7 @@ msgstr "Corona checa"
 
 #. Name for DJF
 msgid "Djibouti Franc"
-msgstr "Franco de Djibouti"
+msgstr "Franco yibutiano"
 
 #. Name for DKK
 msgid "Danish Krone"
@@ -198,7 +199,7 @@ msgstr "Nakfa"
 
 #. Name for ETB
 msgid "Ethiopian Birr"
-msgstr "Birr de etíope"
+msgstr "Birr etíope"
 
 #. Name for EUR
 msgid "Euro"
@@ -206,11 +207,11 @@ msgstr "Euro"
 
 #. Name for FJD
 msgid "Fiji Dollar"
-msgstr "Dólar de las Islas Fiji"
+msgstr "Dólar fiyiano"
 
 #. Name for FKP
 msgid "Falkland Islands Pound"
-msgstr "Libra de las Islas Malvinas"
+msgstr "Libra malvinense"
 
 #. Name for GBP
 msgid "Pound Sterling"
@@ -226,7 +227,7 @@ msgstr "Cedi ghanés"
 
 #. Name for GIP
 msgid "Gibraltar Pound"
-msgstr "Libra de Gibraltar"
+msgstr "Libra gibraltareña"
 
 #. Name for GMD
 msgid "Dalasi"
@@ -246,7 +247,7 @@ msgstr "Dólar guayanés"
 
 #. Name for HKD
 msgid "Hong Kong Dollar"
-msgstr "Dólar de Hong Kong"
+msgstr "Dólar hongkonés"
 
 #. Name for HNL
 msgid "Lempira"
@@ -270,7 +271,7 @@ msgstr "Rupia indonesia"
 
 #. Name for ILS
 msgid "New Israeli Sheqel"
-msgstr "Nuevo sheqel israelí"
+msgstr "Nuevo séquel israelí"
 
 #. Name for INR
 msgid "Indian Rupee"
@@ -330,7 +331,7 @@ msgstr "Dinar kuwaití"
 
 #. Name for KYD
 msgid "Cayman Islands Dollar"
-msgstr "Dólar de las Islas Caimán"
+msgstr "Dólar caimanés"
 
 #. Name for KZT
 msgid "Tenge"
@@ -346,15 +347,15 @@ msgstr "Libra libanesa"
 
 #. Name for LKR
 msgid "Sri Lanka Rupee"
-msgstr "Rupia de Sri Lanka"
+msgstr "Rupia esrilanquesa"
 
 #. Name for LRD
 msgid "Liberian Dollar"
-msgstr "Dóla liberiano"
+msgstr "Dólar liberiano"
 
 #. Name for LSL
 msgid "Loti"
-msgstr "Loti lesothense"
+msgstr "Loti"
 
 #. Name for LYD
 msgid "Libyan Dinar"
@@ -362,7 +363,7 @@ msgstr "Dinar libio"
 
 #. Name for MAD
 msgid "Moroccan Dirham"
-msgstr "Dirham marroquí"
+msgstr "Dírham marroquí"
 
 #. Name for MDL
 msgid "Moldovan Leu"
@@ -394,7 +395,7 @@ msgstr "Uquiya"
 
 #. Name for MUR
 msgid "Mauritius Rupee"
-msgstr "Rupia mauricia"
+msgstr "Rupia mauriciana"
 
 #. Name for MVR
 msgid "Rufiyaa"
@@ -418,7 +419,7 @@ msgstr "Metical mozambiqueño"
 
 #. Name for NAD
 msgid "Namibia Dollar"
-msgstr "Dóla namibio"
+msgstr "Dólar namibio"
 
 #. Name for NGN
 msgid "Naira"
@@ -474,7 +475,7 @@ msgstr "Guaraní"
 
 #. Name for QAR
 msgid "Qatari Rial"
-msgstr "Rial de Qatar"
+msgstr "Rial catarí"
 
 #. Name for RON
 msgid "Romanian Leu"
@@ -498,11 +499,11 @@ msgstr "Rial saudí"
 
 #. Name for SBD
 msgid "Solomon Islands Dollar"
-msgstr "Dólar de las Islas Solomón"
+msgstr "Dólar salomonense"
 
 #. Name for SCR
 msgid "Seychelles Rupee"
-msgstr "Rupia de Seychelles"
+msgstr "Rupia seychellense"
 
 #. Name for SDG
 msgid "Sudanese Pound"
@@ -516,11 +517,11 @@ msgstr "Corona sueca"
 # La wikipedia dice lo segundo pero en algunos sitios se utiliza lo primero (menos según Google)
 #. Name for SGD
 msgid "Singapore Dollar"
-msgstr "Dólar de Singapur"
+msgstr "Dólar singapurense"
 
 #. Name for SHP
 msgid "Saint Helena Pound"
-msgstr "Libra de Santa Helena"
+msgstr "Libra santaeleniana"
 
 #. Name for SLL
 msgid "Leone"
@@ -564,7 +565,7 @@ msgstr "Somoni"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr "Manat turcomano"
+msgstr "Nuevo manat turcomano"
 
 #. Name for TND
 msgid "Tunisian Dinar"
@@ -580,11 +581,11 @@ msgstr "Lira turca"
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
-msgstr "Dólar de Trinidad y Tobago"
+msgstr "Dólar trinitense"
 
 #. Name for TWD
 msgid "New Taiwan Dollar"
-msgstr "nuevo Dólar taiwanés"
+msgstr "Nuevo dólar taiwanés"
 
 #. Name for TZS
 msgid "Tanzanian Shilling"
@@ -680,7 +681,7 @@ msgstr "Platino"
 
 #. Name for XSU
 msgid "Sucre"
-msgstr "SUCRE"
+msgstr "Sucre"
 
 #. Name for XTS
 msgid "Codes specifically reserved for testing purposes"

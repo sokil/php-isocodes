@@ -10,7 +10,7 @@
 # Javier Fernández-Sanguino Peña <jfs@debian.org>, 2004.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Luis A. Arizmendi <luis.arizmendi@mailfence.com>, 2019.
-# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2019, 2021.
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 msgid ""
 msgstr ""
@@ -18,8 +18,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-11-08 18:04+0000\n"
-"Last-Translator: Guillermo Segovia <gsegovia2018@my.fit.edu>\n"
+"PO-Revision-Date: 2021-05-24 20:32+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/es/>\n"
 "Language: es\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -3882,7 +3882,7 @@ msgstr "Barok"
 
 #. Name for bjl
 msgid "Bulu (Papua New Guinea)"
-msgstr "Bulu (Papua Nueva Guinea)"
+msgstr "Bulu (Papúa Nueva Guinea)"
 
 #. Name for bjm
 msgid "Bajelani"
@@ -6155,9 +6155,8 @@ msgid "Carabayo"
 msgstr "Caribe"
 
 #. Name for cca
-#, fuzzy
 msgid "Cauca"
-msgstr "Haussa"
+msgstr "Cauca"
 
 #. Name for ccc
 #, fuzzy
@@ -7018,9 +7017,8 @@ msgid "Koreguaje"
 msgstr "Coreano"
 
 #. Name for cof
-#, fuzzy
 msgid "Colorado"
-msgstr "Caddo"
+msgstr "Colorado"
 
 #. Name for cog
 #, fuzzy
@@ -10761,7 +10759,7 @@ msgstr ""
 
 #. Name for gcc
 msgid "Mali"
-msgstr "Mali"
+msgstr "Malí"
 
 #. Name for gcd
 #, fuzzy
@@ -22416,9 +22414,8 @@ msgid "Mator"
 msgstr "Maorí"
 
 #. Name for mtn
-#, fuzzy
 msgid "Matagalpa"
-msgstr "Malayalamo"
+msgstr "Matagalpa"
 
 #. Name for mto
 msgid "Totontepec Mixe"
@@ -33357,7 +33354,7 @@ msgstr ""
 
 #. Name for tee
 msgid "Huehuetla Tepehua"
-msgstr ""
+msgstr "Tepehua de Huehuetla"
 
 #. Inverted name for tee
 msgid "Tepehua, Huehuetla"
