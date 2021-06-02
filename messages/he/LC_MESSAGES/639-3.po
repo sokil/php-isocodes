@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-03-24 16:29+0000\n"
+"PO-Revision-Date: 2021-05-11 04:22+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/he/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.5.2-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -3168,9 +3168,8 @@ msgid "Benabena"
 msgstr ""
 
 #. Name for beg
-#, fuzzy
 msgid "Belait"
-msgstr "בולגרית"
+msgstr "בלייט"
 
 #. Name for beh
 #, fuzzy
@@ -33376,9 +33375,8 @@ msgid "Tuotomb"
 msgstr ""
 
 #. Name for ttg
-#, fuzzy
 msgid "Tutong"
-msgstr "מקדונית"
+msgstr "טוטונג"
 
 #. Name for tth
 msgid "Upper Ta'oih"
@@ -39332,9 +39330,8 @@ msgid "Zoque, Chimalapa"
 msgstr ""
 
 #. Name for zom
-#, fuzzy
 msgid "Zou"
-msgstr "זולו"
+msgstr "זאו"
 
 #. Name for zoo
 msgid "Asunción Mixtepec Zapotec"

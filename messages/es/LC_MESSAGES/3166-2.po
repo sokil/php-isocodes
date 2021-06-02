@@ -11,14 +11,15 @@
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
 # Guillermo Segovia <gsegovia2018@my.fit.edu>, 2019.
 # Quentin PAGÈS <quentinantonin@free.fr>, 2020.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2020-05-19 14:57+0200\n"
-"PO-Revision-Date: 2020-07-04 17:41+0000\n"
-"Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
+"PO-Revision-Date: 2021-05-24 20:33+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/es/>\n"
 "Language: es\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.2-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -54,7 +55,7 @@ msgstr "Andorra la Vieja"
 
 #. Name for AD-08
 msgid "Escaldes-Engordany"
-msgstr "Escaldas-Engordani"
+msgstr "Las Escaldas-Engordany"
 
 #. Name for AE-AJ
 msgid "'Ajmān"
@@ -146,11 +147,11 @@ msgstr "Jordania"
 
 #. Name for AF-KAB
 msgid "Kābul"
-msgstr ""
+msgstr "Kabul"
 
 #. Name for AF-KAN
 msgid "Kandahār"
-msgstr "Canadá"
+msgstr "Kandahar"
 
 #. Name for AF-KAP
 msgid "Kāpīsā"
@@ -278,7 +279,7 @@ msgstr "Turquía"
 
 #. Name for AL-03, Name for AL-EL
 msgid "Elbasan"
-msgstr "Elbasanés"
+msgstr "Elbasan"
 
 #. Name for AL-04, Name for AL-FR
 #, fuzzy
@@ -924,9 +925,8 @@ msgid "Qax"
 msgstr ""
 
 #. Name for AZ-QAZ
-#, fuzzy
 msgid "Qazax"
-msgstr "Qatar"
+msgstr "Gazaj"
 
 #. Name for AZ-QBA
 #, fuzzy
@@ -2070,36 +2070,32 @@ msgid "Tutong"
 msgstr "Tonga"
 
 #. Name for BO-B
-#, fuzzy
 msgid "El Beni"
-msgstr "Benín"
+msgstr "El Beni"
 
 #. Name for BO-C
 msgid "Cochabamba"
-msgstr ""
+msgstr "Cochabamba"
 
 #. Name for BO-H
 msgid "Chuquisaca"
-msgstr ""
+msgstr "Chuquisaca"
 
 #. Name for BO-L, Name for HN-LP, Name for SV-PA
-#, fuzzy
 msgid "La Paz"
-msgstr "Las Palmas"
+msgstr "La Paz"
 
 #. Name for BO-N
-#, fuzzy
 msgid "Pando"
-msgstr "Polonia"
+msgstr "Pando"
 
 #. Name for BO-O
 msgid "Oruro"
-msgstr ""
+msgstr "Oruro"
 
 #. Name for BO-P
-#, fuzzy
 msgid "Potosí"
-msgstr "Portugal"
+msgstr "Potosí"
 
 #. Name for BO-T
 msgid "Tarija"
@@ -2144,9 +2140,8 @@ msgid "Bahia"
 msgstr "Bulgaria"
 
 #. Name for BR-CE
-#, fuzzy
 msgid "Ceará"
-msgstr "Canadá"
+msgstr "Ceará"
 
 #. Name for BR-DF, Name for VE-A
 msgid "Distrito Federal"
@@ -2167,7 +2162,7 @@ msgstr "Georgia"
 
 #. Name for BR-MA
 msgid "Maranhão"
-msgstr "Marañon"
+msgstr "Marañón"
 
 #. Name for BR-MG
 msgid "Minas Gerais"
@@ -2573,9 +2568,8 @@ msgid "Stann Creek"
 msgstr ""
 
 #. Name for BZ-TOL, Name for ES-TO
-#, fuzzy
 msgid "Toledo"
-msgstr "Togo"
+msgstr "Toledo"
 
 #. Name for CA-AB
 msgid "Alberta"
@@ -2583,7 +2577,7 @@ msgstr "Alberta"
 
 #. Name for CA-BC
 msgid "British Columbia"
-msgstr "British Columbia"
+msgstr "Columbia Británica"
 
 #. Name for CA-MB
 msgid "Manitoba"
@@ -2591,25 +2585,23 @@ msgstr "Manitoba"
 
 #. Name for CA-NB
 msgid "New Brunswick"
-msgstr "New Brunswick"
+msgstr "Nuevo Brunswick"
 
 #. Name for CA-NL
-#, fuzzy
 msgid "Newfoundland and Labrador"
-msgstr "Newfoundland"
+msgstr "Terranova y Labrador"
 
 #. Name for CA-NS
 msgid "Nova Scotia"
-msgstr "Nova Scotia"
+msgstr "Nueva Escocia"
 
 #. Name for CA-NT
-#, fuzzy
 msgid "Northwest Territories"
-msgstr "Northwest Territory"
+msgstr "Territorios del Noroeste"
 
 #. Name for CA-NU
 msgid "Nunavut"
-msgstr ""
+msgstr "Nunavut"
 
 #. Name for CA-ON
 msgid "Ontario"
@@ -2617,7 +2609,7 @@ msgstr "Ontario"
 
 #. Name for CA-PE
 msgid "Prince Edward Island"
-msgstr "Prince Edward Island"
+msgstr "Isla del Príncipe Eduardo"
 
 #. Name for CA-QC
 msgid "Quebec"
@@ -2629,7 +2621,7 @@ msgstr "Saskatchewan"
 
 #. Name for CA-YT
 msgid "Yukon Territory"
-msgstr "Yukon Territory"
+msgstr "Yukón"
 
 #. Name for CD-BC
 #, fuzzy
@@ -3237,246 +3229,223 @@ msgstr ""
 
 #. Name for CO-ANT
 msgid "Antioquia"
-msgstr ""
+msgstr "Antioquia"
 
 #. Name for CO-ARA
-#, fuzzy
 msgid "Arauca"
-msgstr "Aruba"
+msgstr "Arauca"
 
 #. Name for CO-ATL
-#, fuzzy
 msgid "Atlántico"
-msgstr "Antártica"
+msgstr "Atlántico"
 
 #. Name for CO-BOL, Name for EC-B, Name for VE-F
 msgid "Bolívar"
 msgstr "Bolívar"
 
 #. Name for CO-BOY
-#, fuzzy
 msgid "Boyacá"
-msgstr "Mónaco"
+msgstr "Boyacá"
 
 #. Name for CO-CAL
-#, fuzzy
 msgid "Caldas"
-msgstr "Canadá"
+msgstr "Caldas"
 
 #. Name for CO-CAQ
 msgid "Caquetá"
-msgstr ""
+msgstr "Caquetá"
 
 #. Name for CO-CAS
 msgid "Casanare"
-msgstr ""
+msgstr "Casanare"
 
 #. Name for CO-CAU
-#, fuzzy
 msgid "Cauca"
-msgstr "Cuba"
+msgstr "Cauca"
 
 #. Name for CO-CES
 msgid "Cesar"
-msgstr ""
+msgstr "Cesar"
 
 #. Name for CO-CHO
-#, fuzzy
 msgid "Chocó"
-msgstr "Congo"
+msgstr "Chocó"
 
 #. Name for CO-COR, Name for ES-CO
-#, fuzzy
 msgid "Córdoba"
-msgstr "Colorado"
+msgstr "Córdoba"
 
 #. Name for CO-CUN
 msgid "Cundinamarca"
-msgstr ""
+msgstr "Cundinamarca"
 
 #. Name for CO-DC
 msgid "Distrito Capital de Bogotá"
-msgstr ""
+msgstr "Distrito Capital de Bogotá"
 
 #. Name for CO-GUA
-#, fuzzy
 msgid "Guainía"
-msgstr "Guinea"
+msgstr "Guainía"
 
 #. Name for CO-GUV
-#, fuzzy
 msgid "Guaviare"
-msgstr "Zaire"
+msgstr "Guaviare"
 
 #. Name for CO-HUI
-#, fuzzy
 msgid "Huila"
-msgstr "Huelva"
+msgstr "Huila"
 
 #. Name for CO-LAG
 msgid "La Guajira"
-msgstr ""
+msgstr "La Guajira"
 
 #. Name for CO-MAG
 msgid "Magdalena"
-msgstr ""
+msgstr "Magdalena"
 
 #. Name for CO-MET
-#, fuzzy
 msgid "Meta"
-msgstr "Malta"
+msgstr "Meta"
 
 #. Name for CO-NAR
-#, fuzzy
 msgid "Nariño"
-msgstr "San Marino"
+msgstr "Nariño"
 
 #. Name for CO-NSA
 msgid "Norte de Santander"
-msgstr ""
+msgstr "Norte de Santander"
 
 #. Name for CO-PUT
 msgid "Putumayo"
-msgstr ""
+msgstr "Putumayo"
 
 #. Name for CO-QUI
-#, fuzzy
 msgid "Quindío"
-msgstr "Guinea"
+msgstr "Quindío"
 
 #. Name for CO-RIS
 msgid "Risaralda"
-msgstr ""
+msgstr "Risaralda"
 
 #. Name for CO-SAN
 msgid "Santander"
-msgstr ""
+msgstr "Santander"
 
 #. Name for CO-SAP
 msgid "San Andrés, Providencia y Santa Catalina"
-msgstr ""
+msgstr "San Andrés, Providencia y Santa Catalina"
 
 #. Name for CO-SUC, Name for VE-R
 msgid "Sucre"
-msgstr "SUCRE"
+msgstr "Sucre"
 
 #. Name for CO-TOL
-#, fuzzy
 msgid "Tolima"
-msgstr "Bolivia"
+msgstr "Tolima"
 
 #. Name for CO-VAC
 msgid "Valle del Cauca"
-msgstr ""
+msgstr "Valle del Cauca"
 
 #. Name for CO-VAU
 msgid "Vaupés"
-msgstr ""
+msgstr "Vaupés"
 
 #. Name for CO-VID
 msgid "Vichada"
-msgstr ""
+msgstr "Vichada"
 
 #. Name for CR-A
 msgid "Alajuela"
-msgstr ""
+msgstr "Alajuela"
 
 #. Name for CR-C
 msgid "Cartago"
-msgstr ""
+msgstr "Cartago"
 
 #. Name for CR-G
-#, fuzzy
 msgid "Guanacaste"
-msgstr "Guyana"
+msgstr "Guanacaste"
 
 #. Name for CR-H
 msgid "Heredia"
-msgstr ""
+msgstr "Heredia"
 
 #. Name for CR-L
-#, fuzzy
 msgid "Limón"
-msgstr "León"
+msgstr "Limón"
 
 #. Name for CR-P
 msgid "Puntarenas"
-msgstr ""
+msgstr "Puntarenas"
 
 #. Name for CR-SJ, Name for UY-SJ
-#, fuzzy
 msgid "San José"
-msgstr "Santa Lucía"
+msgstr "San José"
 
 #. Name for CU-01
 msgid "Pinar del Rio"
-msgstr ""
+msgstr "Pinar del Río"
 
 #. Name for CU-02
 msgid "La Habana"
-msgstr ""
+msgstr "La Habana"
 
 #. Name for CU-03
 msgid "Ciudad de La Habana"
-msgstr ""
+msgstr "Ciudad de La Habana"
 
 #. Name for CU-04
-#, fuzzy
 msgid "Matanzas"
-msgstr "Montana"
+msgstr "Matanzas"
 
 #. Name for CU-05
 msgid "Villa Clara"
-msgstr ""
+msgstr "Villa Clara"
 
 #. Name for CU-06
 msgid "Cienfuegos"
-msgstr ""
+msgstr "Cienfuegos"
 
 #. Name for CU-07
 msgid "Sancti Spíritus"
-msgstr ""
+msgstr "Sancti Spíritus"
 
 #. Name for CU-08
 msgid "Ciego de Ávila"
-msgstr ""
+msgstr "Ciego de Ávila"
 
 #. Name for CU-09
-#, fuzzy
 msgid "Camagüey"
-msgstr "Comores"
+msgstr "Camagüey"
 
 #. Name for CU-10
 msgid "Las Tunas"
-msgstr ""
+msgstr "Las Tunas"
 
 #. Name for CU-11
-#, fuzzy
 msgid "Holguín"
-msgstr "Evolution"
+msgstr "Holguín"
 
 #. Name for CU-12
-#, fuzzy
 msgid "Granma"
-msgstr "Ghana"
+msgstr "Granma"
 
 #. Name for CU-13
 msgid "Santiago de Cuba"
-msgstr ""
+msgstr "Santiago de Cuba"
 
 #. Name for CU-14
-#, fuzzy
 msgid "Guantánamo"
-msgstr "Guatemala"
+msgstr "Guantánamo"
 
 #. Name for CU-99
 msgid "Isla de la Juventud"
-msgstr ""
+msgstr "Isla de la Juventud"
 
 #. Name for CV-B
-#, fuzzy
 msgid "Ilhas de Barlavento"
-msgstr "Baleares"
+msgstr "Islas de Barlovento"
 
 #. Name for CV-BR
 msgid "Brava"
@@ -5744,9 +5713,8 @@ msgid "Yonne"
 msgstr "Ninguno"
 
 #. Name for FR-90
-#, fuzzy
 msgid "Territoire de Belfort"
-msgstr "Trust Territories"
+msgstr "Territorio de Belfort"
 
 #. Name for FR-91
 msgid "Essonne"
@@ -6505,9 +6473,8 @@ msgid "Nottingham"
 msgstr "Wyoming"
 
 #. Name for GB-NIR
-#, fuzzy
 msgid "Northern Ireland"
-msgstr "Holanda"
+msgstr "Irlanda del Norte"
 
 #. Name for GB-NLK
 msgid "North Lanarkshire"
@@ -7146,7 +7113,7 @@ msgstr "Indiana"
 
 #. Name for GN-ML
 msgid "Mali"
-msgstr "Mali"
+msgstr "Malí"
 
 #. Name for GN-N, Name for GN-NZ
 msgid "Nzérékoré"
@@ -7188,15 +7155,15 @@ msgstr ""
 
 #. Name for GQ-C
 msgid "Región Continental"
-msgstr ""
+msgstr "Región Continental"
 
 #. Name for GQ-CS
 msgid "Centro Sur"
-msgstr ""
+msgstr "Centro Sur"
 
 #. Name for GQ-I
 msgid "Región Insular"
-msgstr ""
+msgstr "Región Insular"
 
 #. Name for GQ-KN
 msgid "Kié-Ntem"
@@ -8816,101 +8783,84 @@ msgid "Suðurland"
 msgstr "Polonia"
 
 #. Name for IT-21
-#, fuzzy
 msgid "Piemonte"
-msgstr "Vermont"
+msgstr "Piamonte"
 
 #. Name for IT-23
 msgid "Valle d'Aosta"
-msgstr ""
+msgstr "Valle de Aosta"
 
 #. Name for IT-25
-#, fuzzy
 msgid "Lombardia"
-msgstr "Letonia"
+msgstr "Lombardía"
 
 #. Name for IT-32
 msgid "Trentino-Alto Adige"
-msgstr ""
+msgstr "Trentino-Alto Adigio"
 
 #. Name for IT-34
-#, fuzzy
 msgid "Veneto"
-msgstr "Venezuela"
+msgstr "Véneto"
 
 #. Name for IT-36
 msgid "Friuli-Venezia Giulia"
-msgstr ""
+msgstr "Friuli-Venecia Julia"
 
 #. Name for IT-42
-#, fuzzy
 msgid "Liguria"
-msgstr "Liberia"
+msgstr "Liguria"
 
 #. Name for IT-45
-#, fuzzy
 msgid "Emilia-Romagna"
-msgstr "Rumanía"
+msgstr "Emilia-Romaña"
 
 #. Name for IT-52
-#, fuzzy
 msgid "Toscana"
-msgstr "Tonga"
+msgstr "Toscana"
 
 #. Name for IT-55
-#, fuzzy
 msgid "Umbria"
-msgstr "Cuba"
+msgstr "Umbría"
 
 #. Name for IT-57
-#, fuzzy
 msgid "Marche"
-msgstr "Maine"
+msgstr "Marcas"
 
 #. Name for IT-62
-#, fuzzy
 msgid "Lazio"
-msgstr "Mali"
+msgstr "Lacio"
 
 #. Name for IT-65
-#, fuzzy
 msgid "Abruzzo"
-msgstr "Arizona"
+msgstr "Abruzos"
 
 #. Name for IT-67
-#, fuzzy
 msgid "Molise"
-msgstr "Mali"
+msgstr "Molise"
 
 #. Name for IT-72
-#, fuzzy
 msgid "Campania"
-msgstr "Croacia"
+msgstr "Campania"
 
 #. Name for IT-75
-#, fuzzy
 msgid "Puglia"
-msgstr "Perú"
+msgstr "Apulia"
 
 #. Name for IT-77
-#, fuzzy
 msgid "Basilicata"
-msgstr "Tailandia"
+msgstr "Basilicata"
 
 #. Name for IT-78
-#, fuzzy
 msgid "Calabria"
-msgstr "Cantabria"
+msgstr "Calabria"
 
 #. Name for IT-82
-#, fuzzy
 msgid "Sicilia"
-msgstr "Sri Lanka"
+msgstr "Sicilia"
 
 #. Name for IT-88
-#, fuzzy
 msgid "Sardegna"
-msgstr "Samoa"
+msgstr "Cerdeña"
 
 #. Name for IT-AG
 #, fuzzy
@@ -8980,12 +8930,11 @@ msgstr ""
 
 #. Name for IT-BO
 msgid "Bologna"
-msgstr ""
+msgstr "Bolonia"
 
 #. Name for IT-BR
-#, fuzzy
 msgid "Brindisi"
-msgstr "Burundi"
+msgstr "Brindisi"
 
 #. Name for IT-BS
 msgid "Brescia"
@@ -9074,9 +9023,8 @@ msgid "Foggia"
 msgstr "Georgia"
 
 #. Name for IT-FI
-#, fuzzy
 msgid "Firenze"
-msgstr "Francia"
+msgstr "Florencia"
 
 #. Name for IT-FM
 #, fuzzy
@@ -9088,9 +9036,8 @@ msgid "Frosinone"
 msgstr ""
 
 #. Name for IT-GE
-#, fuzzy
 msgid "Genova"
-msgstr "Georgia"
+msgstr "Génova"
 
 #. Name for IT-GO
 #, fuzzy
@@ -13558,147 +13505,131 @@ msgstr "Zambia"
 
 #. Name for MX-AGU
 msgid "Aguascalientes"
-msgstr ""
+msgstr "Aguascalientes"
 
 #. Name for MX-BCN
-#, fuzzy
 msgid "Baja California"
-msgstr "California"
+msgstr "Baja California"
 
 #. Name for MX-BCS
-#, fuzzy
 msgid "Baja California Sur"
-msgstr "California"
+msgstr "Baja California Sur"
 
 #. Name for MX-CAM
 msgid "Campeche"
-msgstr ""
+msgstr "Campeche"
 
 #. Name for MX-CHH
-#, fuzzy
 msgid "Chihuahua"
-msgstr "China"
+msgstr "Chihuahua"
 
 #. Name for MX-CHP
-#, fuzzy
 msgid "Chiapas"
-msgstr "China"
+msgstr "Chiapas"
 
 #. Name for MX-CMX
 msgid "Ciudad de México"
-msgstr ""
+msgstr "Ciudad de México"
 
 #. Name for MX-COA
 msgid "Coahuila de Zaragoza"
-msgstr ""
+msgstr "Coahuila de Zaragoza"
 
 #. Name for MX-COL
-#, fuzzy
 msgid "Colima"
-msgstr "Colombia"
+msgstr "Colima"
 
 #. Name for MX-DUR
 msgid "Durango"
-msgstr ""
+msgstr "Durango"
 
 #. Name for MX-GRO
 msgid "Guerrero"
-msgstr ""
+msgstr "Guerrero"
 
 #. Name for MX-GUA
-#, fuzzy
 msgid "Guanajuato"
-msgstr "Guyana"
+msgstr "Guanajuato"
 
 #. Name for MX-HID
 msgid "Hidalgo"
-msgstr ""
+msgstr "Hidalgo"
 
 #. Name for MX-JAL
 msgid "Jalisco"
-msgstr ""
+msgstr "Jalisco"
 
 #. Name for MX-MEX
-#, fuzzy
 msgid "México"
 msgstr "México"
 
 #. Name for MX-MIC
-#, fuzzy
 msgid "Michoacán de Ocampo"
-msgstr "Michigan"
+msgstr "Michoacán de Ocampo"
 
 #. Name for MX-MOR
-#, fuzzy
 msgid "Morelos"
-msgstr "Moldavia"
+msgstr "Morelos"
 
 #. Name for MX-NAY
 msgid "Nayarit"
-msgstr ""
+msgstr "Nayarit"
 
 #. Name for MX-NLE
-#, fuzzy
 msgid "Nuevo León"
-msgstr "León"
+msgstr "Nuevo León"
 
 #. Name for MX-OAX
-#, fuzzy
 msgid "Oaxaca"
-msgstr "Jamaica"
+msgstr "Oaxaca"
 
 #. Name for MX-PUE
-#, fuzzy
 msgid "Puebla"
-msgstr "Cuba"
+msgstr "Puebla"
 
 #. Name for MX-QUE
 msgid "Querétaro"
-msgstr ""
+msgstr "Querétaro"
 
 #. Name for MX-ROO
 msgid "Quintana Roo"
-msgstr ""
+msgstr "Quintana Roo"
 
 #. Name for MX-SIN
-#, fuzzy
 msgid "Sinaloa"
-msgstr "Samoa"
+msgstr "Sinaloa"
 
 #. Name for MX-SLP
-#, fuzzy
 msgid "San Luis Potosí"
-msgstr "Santa Lucía"
+msgstr "San Luis Potosí"
 
 #. Name for MX-SON
-#, fuzzy
 msgid "Sonora"
-msgstr "Andorra"
+msgstr "Sonora"
 
 #. Name for MX-TAB
 msgid "Tabasco"
-msgstr ""
+msgstr "Tabasco"
 
 #. Name for MX-TAM
 msgid "Tamaulipas"
-msgstr ""
+msgstr "Tamaulipas"
 
 #. Name for MX-TLA
 msgid "Tlaxcala"
-msgstr ""
+msgstr "Tlaxcala"
 
 #. Name for MX-VER
 msgid "Veracruz de Ignacio de la Llave"
-msgstr ""
+msgstr "Veracruz de Ignacio de la Llave"
 
 #. Name for MX-YUC
-#, fuzzy
 msgid "Yucatán"
-msgstr "Bután"
+msgstr "Yucatán"
 
 #. Name for MX-ZAC
 msgid "Zacatecas"
-msgstr ""
+msgstr "Zacatecas"
 
 #. Name for MY-01
 msgid "Johor"
@@ -13782,9 +13713,8 @@ msgid "Manica"
 msgstr "Macao"
 
 #. Name for MZ-G, Name for PS-GZA
-#, fuzzy
 msgid "Gaza"
-msgstr "Ghana"
+msgstr "Gaza"
 
 #. Name for MZ-I
 msgid "Inhambane"
@@ -13981,7 +13911,7 @@ msgstr ""
 
 #. Name for NG-FC
 msgid "Abuja Capital Territory"
-msgstr ""
+msgstr "Territorio de la capital de Abuya"
 
 #. Name for NG-GO
 msgid "Gombe"
@@ -14074,74 +14004,64 @@ msgid "Zamfara"
 msgstr "Zambia"
 
 #. Name for NI-AN
-#, fuzzy
 msgid "Atlántico Norte"
-msgstr "Antártica"
+msgstr "Atlántico Norte"
 
 #. Name for NI-AS
-#, fuzzy
 msgid "Atlántico Sur"
-msgstr "Antártica"
+msgstr "Atlántico Sur"
 
 #. Name for NI-BO
-#, fuzzy
 msgid "Boaco"
-msgstr "Mónaco"
+msgstr "Boaco"
 
 #. Name for NI-CA
 msgid "Carazo"
-msgstr ""
+msgstr "Carazo"
 
 #. Name for NI-CI
-#, fuzzy
 msgid "Chinandega"
-msgstr "China"
+msgstr "Chinandega"
 
 #. Name for NI-CO
 msgid "Chontales"
-msgstr ""
+msgstr "Chontales"
 
 #. Name for NI-ES
-#, fuzzy
 msgid "Estelí"
-msgstr "Estonia"
+msgstr "Estelí"
 
 #. Name for NI-JI
 msgid "Jinotega"
-msgstr ""
+msgstr "Jinotega"
 
 #. Name for NI-MD
-#, fuzzy
 msgid "Madriz"
-msgstr "Mali"
+msgstr "Madriz"
 
 #. Name for NI-MN
-#, fuzzy
 msgid "Managua"
-msgstr "Paraguay"
+msgstr "Managua"
 
 #. Name for NI-MS
-#, fuzzy
 msgid "Masaya"
-msgstr "Malasia"
+msgstr "Masaya"
 
 #. Name for NI-MT
-#, fuzzy
 msgid "Matagalpa"
-msgstr "Madagascar"
+msgstr "Matagalpa"
 
 #. Name for NI-NS
-#, fuzzy
 msgid "Nueva Segovia"
-msgstr "Nova Scotia"
+msgstr "Nueva Segovia"
 
 #. Name for NI-RI
 msgid "Rivas"
-msgstr ""
+msgstr "Rivas"
 
 #. Name for NI-SJ
 msgid "Río San Juan"
-msgstr ""
+msgstr "Río San Juan"
 
 #. Name for NL-AW
 msgid "Aruba"
@@ -14572,165 +14492,147 @@ msgstr ""
 
 #. Name for PA-1
 msgid "Bocas del Toro"
-msgstr ""
+msgstr "Bocas del Toro"
 
 #. Name for PA-2
-#, fuzzy
 msgid "Coclé"
-msgstr "Cerrar"
+msgstr "Coclé"
 
 #. Name for PA-4
 msgid "Chiriquí"
-msgstr ""
+msgstr "Chiriquí"
 
 #. Name for PA-5
-#, fuzzy
 msgid "Darién"
-msgstr "Bahrein"
+msgstr "Darién"
 
 #. Name for PA-6
 msgid "Herrera"
-msgstr ""
+msgstr "Herrera"
 
 #. Name for PA-7
 msgid "Los Santos"
-msgstr ""
+msgstr "Los Santos"
 
 #. Name for PA-8
-#, fuzzy
 msgid "Panamá"
 msgstr "Panamá"
 
 #. Name for PA-9
-#, fuzzy
 msgid "Veraguas"
-msgstr "Paraguay"
+msgstr "Veraguas"
 
 #. Name for PA-EM
 msgid "Emberá"
-msgstr ""
+msgstr "Emberá"
 
 #. Name for PA-KY
-#, fuzzy
 msgid "Kuna Yala"
-msgstr "Kansas"
+msgstr "Kuna Yala"
 
 #. Name for PA-NB
 msgid "Ngöbe-Buglé"
-msgstr ""
+msgstr "Ngöbe-Buglé"
 
 #. Name for PE-ANC
 msgid "Ancash"
-msgstr ""
+msgstr "Áncash"
 
 #. Name for PE-APU
-#, fuzzy
 msgid "Apurímac"
-msgstr "Austria"
+msgstr "Apurímac"
 
 #. Name for PE-ARE
-#, fuzzy
 msgid "Arequipa"
-msgstr "Armenia"
+msgstr "Arequipa"
 
 #. Name for PE-AYA
 msgid "Ayacucho"
-msgstr ""
+msgstr "Ayacucho"
 
 #. Name for PE-CAJ
-#, fuzzy
 msgid "Cajamarca"
-msgstr "Jamaica"
+msgstr "Cajamarca"
 
 #. Name for PE-CAL
-#, fuzzy
 msgid "El Callao"
-msgstr "El Salvador"
+msgstr "El Callao"
 
 #. Name for PE-CUS
 msgid "Cusco [Cuzco]"
-msgstr ""
+msgstr "Cusco"
 
 #. Name for PE-HUC
 msgid "Huánuco"
-msgstr ""
+msgstr "Huánuco"
 
 #. Name for PE-HUV
 msgid "Huancavelica"
-msgstr ""
+msgstr "Huancavelica"
 
 #. Name for PE-ICA
-#, fuzzy
 msgid "Ica"
-msgstr "Islandia"
+msgstr "Ica"
 
 #. Name for PE-JUN
-#, fuzzy
 msgid "Junín"
-msgstr "Reunión"
+msgstr "Junín"
 
 #. Name for PE-LAL, Name for SV-LI
-#, fuzzy
 msgid "La Libertad"
-msgstr "Liberia"
+msgstr "La Libertad"
 
 #. Name for PE-LAM
-#, fuzzy
 msgid "Lambayeque"
-msgstr "Mozambique"
+msgstr "Lambayeque"
 
 #. Name for PE-LIM
-#, fuzzy
 msgid "Lima"
-msgstr "Letonia"
+msgstr "Lima"
 
 #. Name for PE-LMA
 msgid "Municipalidad Metropolitana de Lima"
-msgstr ""
+msgstr "Municipalidad Metropolitana de Lima"
 
 #. Name for PE-LOR
-#, fuzzy
 msgid "Loreto"
-msgstr "Lesoto"
+msgstr "Loreto"
 
 #. Name for PE-MDD
 msgid "Madre de Dios"
-msgstr ""
+msgstr "Madre de Dios"
 
 #. Name for PE-MOQ
 msgid "Moquegua"
-msgstr ""
+msgstr "Moquegua"
 
 #. Name for PE-PAS
 msgid "Pasco"
-msgstr ""
+msgstr "Pasco"
 
 #. Name for PE-PIU
 msgid "Piura"
-msgstr ""
+msgstr "Piura"
 
 #. Name for PE-PUN
 msgid "Puno"
-msgstr ""
+msgstr "Puno"
 
 #. Name for PE-SAM
-#, fuzzy
 msgid "San Martín"
-msgstr "San Marino"
+msgstr "San Martín"
 
 #. Name for PE-TAC
-#, fuzzy
 msgid "Tacna"
-msgstr "Tonga"
+msgstr "Tacna"
 
 #. Name for PE-TUM
-#, fuzzy
 msgid "Tumbes"
-msgstr "Temas"
+msgstr "Tumbes"
 
 #. Name for PE-UCA
 msgid "Ucayali"
-msgstr ""
+msgstr "Ucayali"
 
 #. Name for PG-CPK
 msgid "Chimbu"
@@ -14812,49 +14714,43 @@ msgstr "Sahara Oeste"
 
 #. Name for PH-00
 msgid "National Capital Region"
-msgstr ""
+msgstr "Región de la Capital Nacional"
 
 #. Name for PH-01
 msgid "Ilocos (Region I)"
-msgstr ""
+msgstr "Ilocos (Región I)"
 
 #. Name for PH-02
-#, fuzzy
 msgid "Cagayan Valley (Region II)"
-msgstr "Canadá"
+msgstr "Valle del Cagayán (Región II)"
 
 #. Name for PH-03
-#, fuzzy
 msgid "Central Luzon (Region III)"
-msgstr "Canadá"
+msgstr "Luzón Central (Región III)"
 
 #. Name for PH-05
 msgid "Bicol (Region V)"
-msgstr ""
+msgstr "Bícol (Región V)"
 
 #. Name for PH-06
-#, fuzzy
 msgid "Western Visayas (Region VI)"
-msgstr "Sahara Oeste"
+msgstr "Visayas Occidentales (Región VI)"
 
 #. Name for PH-07
-#, fuzzy
 msgid "Central Visayas (Region VII)"
-msgstr "Canadá"
+msgstr "Visayas Centrales (Región VII)"
 
 #. Name for PH-08
-#, fuzzy
 msgid "Eastern Visayas (Region VIII)"
-msgstr "Sahara Oeste"
+msgstr "Visayas Orientales (Región VIII)"
 
 #. Name for PH-09
 msgid "Zamboanga Peninsula (Region IX)"
-msgstr ""
+msgstr "Península de Zamboanga (Región IX)"
 
 #. Name for PH-10
-#, fuzzy
 msgid "Northern Mindanao (Region X)"
-msgstr "Northern Marianas"
+msgstr "Mindanao del Norte (Región X)"
 
 #. Name for PH-11
 #, fuzzy
@@ -14893,11 +14789,11 @@ msgstr "Alberta"
 
 #. Name for PH-AGN
 msgid "Agusan del Norte"
-msgstr ""
+msgstr "Agusan del Norte"
 
 #. Name for PH-AGS
 msgid "Agusan del Sur"
-msgstr ""
+msgstr "Agusan del Sur"
 
 #. Name for PH-AKL
 #, fuzzy
@@ -19256,7 +19152,7 @@ msgstr ""
 
 #. Name for TT-POS
 msgid "Port of Spain"
-msgstr ""
+msgstr "Puerto España"
 
 #. Name for TT-PRT
 msgid "Princes Town"
@@ -19268,16 +19164,15 @@ msgstr ""
 
 #. Name for TT-RCM
 msgid "Rio Claro-Mayaro"
-msgstr ""
+msgstr "Río Claro-Mayaro"
 
 #. Name for TT-SFO
-#, fuzzy
 msgid "San Fernando"
-msgstr "San Marino"
+msgstr "San Fernando"
 
 #. Name for TT-SGE
 msgid "Sangre Grande"
-msgstr ""
+msgstr "Sangre Grande"
 
 #. Name for TT-SIP
 #, fuzzy
@@ -19475,7 +19370,7 @@ msgstr "Wyoming"
 
 #. Name for TZ-09
 msgid "Kilimanjaro"
-msgstr ""
+msgstr "Kilimanyaro"
 
 #. Name for TZ-10
 msgid "Kusini Pemba"
@@ -19600,7 +19495,7 @@ msgstr ""
 
 #. Name for UA-40
 msgid "Sevastopol"
-msgstr ""
+msgstr "Sebastopol"
 
 #. Name for UA-43
 msgid "Respublika Krym"
@@ -20085,17 +19980,14 @@ msgid "American Samoa"
 msgstr "Samoa Estadounidense"
 
 #. Name for US-AZ
-#, fuzzy
 msgid "Arizona"
 msgstr "Arizona"
 
 #. Name for US-CA
-#, fuzzy
 msgid "California"
 msgstr "California"
 
 #. Name for US-CO
-#, fuzzy
 msgid "Colorado"
 msgstr "Colorado"
 
@@ -20105,14 +19997,13 @@ msgstr "Connecticut"
 
 #. Name for US-DC
 msgid "District of Columbia"
-msgstr "District of Columbia"
+msgstr "Distrito de Columbia"
 
 #. Name for US-DE
 msgid "Delaware"
 msgstr "Delaware"
 
 #. Name for US-FL, Name for UY-FD
-#, fuzzy
 msgid "Florida"
 msgstr "Florida"
 
@@ -20126,7 +20017,7 @@ msgstr "Guam"
 
 #. Name for US-HI
 msgid "Hawaii"
-msgstr "Hawaii"
+msgstr "Hawái"
 
 #. Name for US-IA
 msgid "Iowa"
@@ -20154,7 +20045,7 @@ msgstr "Kentucky"
 
 #. Name for US-LA
 msgid "Louisiana"
-msgstr "Louisiana"
+msgstr "Luisiana"
 
 #. Name for US-MA
 msgid "Massachusetts"
@@ -20166,7 +20057,7 @@ msgstr "Maine"
 
 #. Name for US-MI
 msgid "Michigan"
-msgstr "Michigan"
+msgstr "Míchigan"
 
 #. Name for US-MN
 msgid "Minnesota"
@@ -20182,15 +20073,15 @@ msgstr "Islas Marianas del Norte"
 
 #. Name for US-MS
 msgid "Mississippi"
-msgstr "Mississippi"
+msgstr "Misisipi"
 
 #. Name for US-NC
 msgid "North Carolina"
-msgstr "North Carolina"
+msgstr "Carolina del Norte"
 
 #. Name for US-ND
 msgid "North Dakota"
-msgstr "North Dakota"
+msgstr "Dakota del Norte"
 
 #. Name for US-NE
 msgid "Nebraska"
@@ -20198,15 +20089,15 @@ msgstr "Nebraska"
 
 #. Name for US-NH
 msgid "New Hampshire"
-msgstr "New Hampshire"
+msgstr "Nuevo Hampshire"
 
 #. Name for US-NJ
 msgid "New Jersey"
-msgstr "New Jersey"
+msgstr "Nueva Jersey"
 
 #. Name for US-NM
 msgid "New Mexico"
-msgstr "New Mexico"
+msgstr "Nuevo México"
 
 #. Name for US-NV
 msgid "Nevada"
@@ -20214,7 +20105,7 @@ msgstr "Nevada"
 
 #. Name for US-NY
 msgid "New York"
-msgstr "New York"
+msgstr "Nueva York"
 
 #. Name for US-OH
 msgid "Ohio"
@@ -20226,11 +20117,11 @@ msgstr "Oklahoma"
 
 #. Name for US-OR
 msgid "Oregon"
-msgstr "Oregon"
+msgstr "Oregón"
 
 #. Name for US-PA
 msgid "Pennsylvania"
-msgstr "Pennsylvania"
+msgstr "Pensilvania"
 
 #. Name for US-PR
 msgid "Puerto Rico"
@@ -20242,11 +20133,11 @@ msgstr "Rhode Island"
 
 #. Name for US-SC
 msgid "South Carolina"
-msgstr "South Carolina"
+msgstr "Carolina del Sur"
 
 #. Name for US-SD
 msgid "South Dakota"
-msgstr "South Dakota"
+msgstr "Dakota del Sur"
 
 #. Name for US-TN
 msgid "Tennessee"
@@ -20270,7 +20161,7 @@ msgstr "Virginia"
 
 #. Name for US-VI
 msgid "Virgin Islands"
-msgstr "Virgin Islands"
+msgstr "Islas Vírgenes"
 
 #. Name for US-VT
 msgid "Vermont"
@@ -20286,87 +20177,79 @@ msgstr "Wisconsin"
 
 #. Name for US-WV
 msgid "West Virginia"
-msgstr "West Virginia"
+msgstr "Virginia Occidental"
 
 #. Name for US-WY
 msgid "Wyoming"
 msgstr "Wyoming"
 
 #. Name for UY-AR
-#, fuzzy
 msgid "Artigas"
-msgstr "Argentina"
+msgstr "Artigas"
 
 #. Name for UY-CA
 msgid "Canelones"
-msgstr ""
+msgstr "Canelones"
 
 #. Name for UY-CL
 msgid "Cerro Largo"
-msgstr ""
+msgstr "Cerro Largo"
 
 #. Name for UY-CO
-#, fuzzy
 msgid "Colonia"
-msgstr "Colombia"
+msgstr "Colonia"
 
 #. Name for UY-DU
 msgid "Durazno"
-msgstr ""
+msgstr "Durazno"
 
 #. Name for UY-FS
-#, fuzzy
 msgid "Flores"
-msgstr "Florida"
+msgstr "Flores"
 
 #. Name for UY-LA
 msgid "Lavalleja"
-msgstr ""
+msgstr "Lavalleja"
 
 #. Name for UY-MA
-#, fuzzy
 msgid "Maldonado"
-msgstr "Mónaco"
+msgstr "Maldonado"
 
 #. Name for UY-MO
 msgid "Montevideo"
-msgstr ""
+msgstr "Montevideo"
 
 #. Name for UY-PA
-#, fuzzy
 msgid "Paysandú"
-msgstr "Pakistán"
+msgstr "Paysandú"
 
 #. Name for UY-RN
 msgid "Río Negro"
-msgstr ""
+msgstr "Río Negro"
 
 #. Name for UY-RO
 msgid "Rocha"
-msgstr ""
+msgstr "Rocha"
 
 #. Name for UY-RV
-#, fuzzy
 msgid "Rivera"
-msgstr "Liberia"
+msgstr "Rivera"
 
 #. Name for UY-SA
-#, fuzzy
 msgid "Salto"
-msgstr "Samoa"
+msgstr "Salto"
 
 #. Name for UY-SO
-#, fuzzy
 msgid "Soriano"
-msgstr "Sri Lanka"
+msgstr "Soriano"
 
 #. Name for UY-TA
 msgid "Tacuarembó"
-msgstr ""
+msgstr "Tacuarembó"
 
 #. Name for UY-TT
 msgid "Treinta y Tres"
-msgstr ""
+msgstr "Treinta y Tres"
 
 #. Name for UZ-AN
 msgid "Andijon"
@@ -20436,98 +20319,87 @@ msgstr ""
 
 #. Name for VE-B
 msgid "Anzoátegui"
-msgstr ""
+msgstr "Anzoátegui"
 
 #. Name for VE-C
 msgid "Apure"
-msgstr ""
+msgstr "Apure"
 
 #. Name for VE-D
-#, fuzzy
 msgid "Aragua"
-msgstr "Aruba"
+msgstr "Aragua"
 
 #. Name for VE-E
-#, fuzzy
 msgid "Barinas"
-msgstr "Bahrein"
+msgstr "Barinas"
 
 #. Name for VE-G
-#, fuzzy
 msgid "Carabobo"
-msgstr "Camerún"
+msgstr "Carabobo"
 
 #. Name for VE-H
 msgid "Cojedes"
-msgstr ""
+msgstr "Cojedes"
 
 #. Name for VE-I
 msgid "Falcón"
-msgstr ""
+msgstr "Falcón"
 
 #. Name for VE-J
 msgid "Guárico"
-msgstr ""
+msgstr "Guárico"
 
 #. Name for VE-K
-#, fuzzy
 msgid "Lara"
-msgstr "Letonia"
+msgstr "Lara"
 
 #. Name for VE-L
-#, fuzzy
 msgid "Mérida"
-msgstr "Argelia"
+msgstr "Mérida"
 
 #. Name for VE-M
-#, fuzzy
 msgid "Miranda"
-msgstr "Maryland"
+msgstr "Miranda"
 
 #. Name for VE-N
-#, fuzzy
 msgid "Monagas"
-msgstr "Montana"
+msgstr "Monagas"
 
 #. Name for VE-O
 msgid "Nueva Esparta"
-msgstr ""
+msgstr "Nueva Esparta"
 
 #. Name for VE-P
-#, fuzzy
 msgid "Portuguesa"
-msgstr "Portugal"
+msgstr "Portuguesa"
 
 #. Name for VE-S
 msgid "Táchira"
-msgstr ""
+msgstr "Táchira"
 
 #. Name for VE-T
 msgid "Trujillo"
-msgstr ""
+msgstr "Trujillo"
 
 #. Name for VE-U
-#, fuzzy
 msgid "Yaracuy"
-msgstr "Paraguay"
+msgstr "Yaracuy"
 
 #. Name for VE-V
-#, fuzzy
 msgid "Zulia"
-msgstr "Bulgaria"
+msgstr "Zulia"
 
 #. Name for VE-W
 msgid "Dependencias Federales"
-msgstr ""
+msgstr "Dependencias Federales"
 
 #. Name for VE-X
-#, fuzzy
 msgid "Vargas"
-msgstr "Vanuatu"
+msgstr "Vargas"
 
 #. Name for VE-Y
 msgid "Delta Amacuro"
-msgstr ""
+msgstr "Delta Amacuro"
 
 #. Name for VN-01
 msgid "Lai Châu"

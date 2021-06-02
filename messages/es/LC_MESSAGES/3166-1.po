@@ -10,14 +10,15 @@
 # Javier Fernández-Sanguino <jfs@debian.org>, 2004-2008, 2010.
 # zamir <hades_ni@yahoo.com>, 2013.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-04-07 21:04+0000\n"
-"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
+"PO-Revision-Date: 2021-05-24 20:33+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/es/>\n"
 "Language: es\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -993,7 +994,7 @@ msgstr "República de Macedonia del Norte"
 
 #. Name for MLI
 msgid "Mali"
-msgstr "Mali"
+msgstr "Malí"
 
 #. Official name for MLI
 msgid "Republic of Mali"
@@ -1437,11 +1438,11 @@ msgstr "Reino de Suecia"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr "Suazilandia"
+msgstr "Esuatini"
 
 #. Official name for SWZ
 msgid "Kingdom of Eswatini"
-msgstr "Reino de Suazilandia"
+msgstr "Reino de Esuatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
