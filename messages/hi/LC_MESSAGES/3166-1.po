@@ -21,7 +21,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2021-05-26 12:32+0000\n"
+"PO-Revision-Date: 2021-07-08 19:33+0000\n"
 "Last-Translator: KushagraKarira <kushagrakarira@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hi/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -360,16 +360,12 @@ msgid "Union of the Comoros"
 msgstr "यूनियन ऑफ द कोमोरोस"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "केप वर्दे"
+msgstr "काबो वर्डे"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "रिपब्लिक ऑफ केप वर्दे"
+msgstr "रिपब्लिक ऑफ काबो वर्डे"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -409,7 +405,7 @@ msgstr "रिपब्लिक ऑफ साइप्रस"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "चेकिया"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -605,10 +601,8 @@ msgid "Gambia"
 msgstr "गाम्बिया"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "रिपब्लिक ऑफ ज़ाम्बिया"
+msgstr "गाम्बिया गणराज्य"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -1000,16 +994,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "रिपब्लिक ऑफ द मार्शल आइलैंड्स"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "न्यू कैलेडोनिया"
+msgstr "उत्तर मैसेडोनिया"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "रिपब्लिक ऑफ लिथुआनिया"
+msgstr "उत्तर मैसेडोनिया गणराज्य"
 
 #. Name for MLI
 msgid "Mali"
@@ -1236,9 +1226,8 @@ msgid "Papua New Guinea"
 msgstr "पापुआ न्यू गिनी"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "इन्डिपेन्डेन्ट स्टेट ऑफ समोआ"
+msgstr "पापुआ न्यू गिनी का स्वतंत्र राज्य"
 
 #. Name for POL
 msgid "Poland"
@@ -1393,9 +1382,8 @@ msgid "Somalia"
 msgstr "सोमालिया"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "फेडरल रिपब्लिक ऑफ जर्मनी"
+msgstr "सोमालिया संघीय गणराज्य"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1459,13 +1447,11 @@ msgstr "किंगडम ऑफ स्वीडन"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "एस्वाटिनी"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "किंगडम ऑफ स्पेन"
+msgstr "एस्वाटिनी का साम्राज्य"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1676,8 +1662,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "सोशलिस्ट रिपब्लिक ऑफ वियतनाम"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "वियतनाम"
 
