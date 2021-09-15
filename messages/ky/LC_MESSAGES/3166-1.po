@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Kyrgyz (iso-codes)\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2018-02-19 17:27+0000\n"
 "Last-Translator: Ilyas Bakirov <i.bakirov@gmail.com>\n"
 "Language-Team: Kyrgyz <https://hosted.weblate.org/projects/iso-codes/"
@@ -825,6 +825,12 @@ msgstr "Сент-Китс жана Невис"
 msgid "Korea, Republic of"
 msgstr "Корея Республикасы"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Түштүк-Африка Республикасы"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Кувейт"
@@ -1240,6 +1246,12 @@ msgstr "Корея Элдик Демократиялык Республикас�
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Корея Элдик Демократиялык Республикасы"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Жаңы Каледония"
 
 #. Name for PRT
 msgid "Portugal"

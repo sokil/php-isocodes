@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2007-05-03 14:19+0530\n"
 "Last-Translator: Vikram Vincent <vincentvikram@gmail.com>\n"
 "Language-Team: Kannada\n"
@@ -832,6 +832,12 @@ msgstr "ಸೇಂಟ್ ಕಿಟ್ಸ್ ಮತ್ತು ನೇವಿಸ್"
 msgid "Korea, Republic of"
 msgstr "ಕೋರಿಯಾ ಗಣರಾಜ್ಯ"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "ಕುವೈತ್"
@@ -1252,6 +1258,12 @@ msgstr "ಕೋರಿಯಾ, ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "ಕೋರಿಯಾ ಡೆಮೊಕ್ರಟಿಕ್ ಪೀಪಲ್ಸ್ ರಿಪಬ್ಲಿಕ್"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "ಹೊಸ ಕೆಲೆಡೊನಿಯಾ"
 
 #. Name for PRT
 msgid "Portugal"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2008-05-03 21:08+0530\n"
 "Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
 "Language-Team: Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>\n"
@@ -659,7 +659,7 @@ msgstr "ஹாங்காங்"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr "ஹாங்காங்  - சீன சிறப்பு ஆட்சிப் பிரதேசம்"
+msgstr "ஹாங்காங் - சீன சிறப்பு ஆட்சிப் பிரதேசம்"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
@@ -828,6 +828,12 @@ msgstr "செயின்ட் கிட்ஸ் மற்றும் நி
 #. Name for KOR
 msgid "Korea, Republic of"
 msgstr "கொரிய குடியரசு"
+
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "தென் ஆப்ரிக்கா"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1249,6 +1255,12 @@ msgstr "கொரிய ஜனநாயக மக்கள் குடியர
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "கொரிய ஜனநாயக மக்கள் குடியரசு"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "புதிய கலிடோனியா"
 
 #. Name for PRT
 msgid "Portugal"

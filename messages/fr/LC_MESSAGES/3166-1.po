@@ -10,7 +10,7 @@
 # Dr. Tobias Quathamer <toddy@debian.org>, 2008.
 # Christian Perrier <bubulle@debian.org>, 2004, 2006-2007, 2009-2013, 2015-2016.
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019, 2021.
 # Swann Martinet <swann.ranskassa@laposte.net>, 2019.
 # Julien Humbert <julroy67@gmail.com>, 2020.
 msgid ""
@@ -18,9 +18,9 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2020-01-28 07:51+0000\n"
-"Last-Translator: Julien Humbert <julroy67@gmail.com>\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-09-04 09:34+0000\n"
+"Last-Translator: ButterflyOfFire <ButterflyOfFire@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fr/>\n"
 "Language: fr\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.11-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -830,6 +830,10 @@ msgstr "Saint-Christophe-et-Niévès"
 msgid "Korea, Republic of"
 msgstr "Corée, République de"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Corée du Sud"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Koweït"
@@ -1242,6 +1246,10 @@ msgstr "Corée, République populaire démocratique de"
 msgid "Democratic People's Republic of Korea"
 msgstr "République démocratique populaire de Corée"
 
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Corée du Nord"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1640,7 +1648,7 @@ msgstr "Îles Vierges britanniques"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Îles Vierges des États-Unis"
+msgstr "Îles Vierges, États-Unis"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

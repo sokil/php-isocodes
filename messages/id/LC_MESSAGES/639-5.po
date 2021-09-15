@@ -5,14 +5,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Andika Triwidada <andika@gmail.com>, 2018, 2020.
+# Andika Triwidada <andika@gmail.com>, 2018, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-19 17:52+0000\n"
+"PO-Revision-Date: 2021-08-25 10:47+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/id/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Name for aav
 msgid "Austro-Asiatic languages"
@@ -113,31 +113,31 @@ msgstr "Bahasa Kaukasia"
 
 #. Name for cba
 msgid "Chibchan languages"
-msgstr ""
+msgstr "Bahasa Chibchan"
 
 #. Name for ccn
 msgid "North Caucasian languages"
-msgstr ""
+msgstr "Bahasa Kaukasia Utara"
 
 #. Name for ccs
 msgid "South Caucasian languages"
-msgstr ""
+msgstr "Bahasa Kaukasia Selatan"
 
 #. Name for cdc
 msgid "Chadic languages"
-msgstr ""
+msgstr "Bahasa Chad"
 
 #. Name for cdd
 msgid "Caddoan languages"
-msgstr ""
+msgstr "Bahasa Caddo"
 
 #. Name for cel
 msgid "Celtic languages"
-msgstr "Bahasa Celtic"
+msgstr "Bahasa Keltik"
 
 #. Name for cmc
 msgid "Chamic languages"
-msgstr "Bahasa Chamic"
+msgstr "Bahasa Cham"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English‑based"
@@ -157,7 +157,7 @@ msgstr "Creoles dan pidgins"
 
 #. Name for csu
 msgid "Central Sudanic languages"
-msgstr ""
+msgstr "Bahasa Sudan Tengah"
 
 #. Name for cus
 msgid "Cushitic languages"
@@ -169,7 +169,7 @@ msgstr "Bahasa Dayak Darat"
 
 #. Name for dmn
 msgid "Mande languages"
-msgstr ""
+msgstr "Bahasa Mande"
 
 #. Name for dra
 msgid "Dravidian languages"
@@ -177,15 +177,15 @@ msgstr "Bahasa Dravidia"
 
 #. Name for egx
 msgid "Egyptian languages"
-msgstr ""
+msgstr "Bahasa Mesir"
 
 #. Name for esx
 msgid "Eskimo-Aleut languages"
-msgstr ""
+msgstr "Bahasa Eskimo-Aleut"
 
 #. Name for euq
 msgid "Basque (family)"
-msgstr ""
+msgstr "Basque (famili)"
 
 #. Name for fiu
 msgid "Finno-Ugrian languages"
@@ -193,31 +193,31 @@ msgstr "Bahasa Finno-Ugrian"
 
 #. Name for fox
 msgid "Formosan languages"
-msgstr ""
+msgstr "Bahasa Formosa"
 
 #. Name for gem
 msgid "Germanic languages"
-msgstr "Bahasa Germanic"
+msgstr "Bahasa Jermanik"
 
 #. Name for gme
 msgid "East Germanic languages"
-msgstr ""
+msgstr "Bahasa Jermanik Timur"
 
 #. Name for gmq
 msgid "North Germanic languages"
-msgstr ""
+msgstr "Bahasa Jermanik Utara"
 
 #. Name for gmw
 msgid "West Germanic languages"
-msgstr ""
+msgstr "Bahasa Jermanik Barat"
 
 #. Name for grk
 msgid "Greek languages"
-msgstr ""
+msgstr "Bahasa Yunani"
 
 #. Name for hmx
 msgid "Hmong-Mien languages"
-msgstr ""
+msgstr "Bahasa Hmong-Mien"
 
 #. Name for hok
 msgid "Hokan languages"
@@ -225,11 +225,11 @@ msgstr ""
 
 #. Name for hyx
 msgid "Armenian (family)"
-msgstr ""
+msgstr "Armenia (famili)"
 
 #. Name for iir
 msgid "Indo-Iranian languages"
-msgstr ""
+msgstr "Bahasa Indo-Iran"
 
 #. Name for ijo
 msgid "Ijo languages"

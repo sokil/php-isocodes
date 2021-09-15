@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2010-06-25 14:33+0530\n"
 "Last-Translator: yumkee <ylhamo@dit.gov.bt>\n"
 "Language-Team: Dzongkha <pgyeleg@dit.gov.bt>\n"
@@ -725,7 +725,7 @@ msgstr "ཨའི་རི་ལེནཌི།"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
-msgstr "ཨི་རཱན་  ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།"
+msgstr "ཨི་རཱན་ ཨིས་ལ་མིཀ་ མི་སེར་རྒྱལ་ཁབ།"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
@@ -831,6 +831,12 @@ msgstr "སེནཊི་ ཀིཊིསི་ ཨེནཌི་ ནེ་བ
 msgid "Korea, Republic of"
 msgstr "ཀོ་རི་ཡ། རི་པཔ་ལིཀ་ ཨོཕ་"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "ལྷོ་ཨཕ་རི་ཀ"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "ཀུ་ཝེཊི།"
@@ -881,7 +887,7 @@ msgstr "སི་རི་ལང་ཀ།(ཤྲི་ལངྐ་)"
 
 #. Official name for LKA
 msgid "Democratic Socialist Republic of Sri Lanka"
-msgstr "སི་རི་ལང་ཀའི  དམང་གཙོ་ སྤྱི་ཚོགས་ མི་སེར་རྒྱལ་ཁབ།"
+msgstr "སི་རི་ལང་ཀའི དམང་གཙོ་ སྤྱི་ཚོགས་ མི་སེར་རྒྱལ་ཁབ།"
 
 #. Name for LSO
 msgid "Lesotho"
@@ -1248,6 +1254,12 @@ msgstr "ཀོ་རི་ཡ། ཌེ་མོ་ཀེརེ་ཊིཀ་ �
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "ཀོ་རི་ཡ་ དམང་གཙོའི མི་སེར་་རྒྱལ་ཁབ།"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "ནིའུ་ ཀེ་ལི་ཌོ་ནི་ཡ།"
 
 #. Name for PRT
 msgid "Portugal"

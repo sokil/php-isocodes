@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2017-12-28 21:49+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Amharic <https://hosted.weblate.org/projects/iso-codes/"
@@ -895,6 +895,12 @@ msgstr "ሰይንት ኪትስና ኒቨስ"
 msgid "Korea, Republic of"
 msgstr "ሰሣን ጥሱ።"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "፠ቡብ ጐፔሱጢ"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "ጤፃት"
@@ -1354,6 +1360,12 @@ msgstr "፠ቡብ ጥሱ።"
 #, fuzzy
 msgid "Democratic People's Republic of Korea"
 msgstr "፠ቡብ ጥሱ።"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "ኒፄ ጢሓ፦ኒ።"
 
 #. Name for PRT
 #, fuzzy

@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2019-09-07 05:25+0000\n"
 "Last-Translator: Pro Neon <proneon267@gmail.com>\n"
 "Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/"
@@ -824,6 +824,12 @@ msgstr "ସେଣ୍ଟ କିଟ୍ସ ଏବଂ ନେଭିସ"
 msgid "Korea, Republic of"
 msgstr "କୋରିଆ, ଗଣତନ୍ତ୍ର"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "ଦକ୍ଷିଣ ଆଫ୍ରିକା"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "କୁଏତ"
@@ -1235,6 +1241,12 @@ msgstr "କୋରିଆ, ସର୍ବସାଧାରଣ ଜନସମାଜ ଗ�
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "କୋରିଆ ସର୍ବସାଧାରଣ ଜନସମାଜ ଗଣତନ୍ତ୍ର"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "North Macedonia"
+msgid "North Korea"
+msgstr "ନର୍ଥ ମ୍ୟାସିଡୋନିୟା"
 
 #. Name for PRT
 msgid "Portugal"

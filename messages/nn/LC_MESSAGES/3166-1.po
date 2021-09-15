@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: nn\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/iso-"
@@ -829,6 +829,12 @@ msgstr "St. Kitts og Nevis; Saint Kitts og Nevis"
 msgid "Korea, Republic of"
 msgstr "Sør-Korea"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Sør-Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -1246,6 +1252,12 @@ msgstr "Nord-Korea"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Den demokratiske folkerepublikken Korea"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Ny-Caledonia"
 
 #. Name for PRT
 msgid "Portugal"

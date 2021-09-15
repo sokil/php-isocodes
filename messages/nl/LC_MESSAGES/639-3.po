@@ -8,7 +8,7 @@
 # Taco Witte <tcwitte@cs.uu.nl>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2009-2015, 2017.
-# Pander <pander@users.sourceforge.net>, 2018, 2020.
+# Pander <pander@users.sourceforge.net>, 2018, 2020, 2021.
 # Nathan Follens <nthn@unseen.is>, 2019.
 # Anonymous <noreply@weblate.org>, 2020.
 msgid ""
@@ -17,8 +17,8 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2020-05-19 12:53+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2021-08-25 10:47+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-3/nl/>\n"
 "Language: nl\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.1-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aaa
@@ -13623,14 +13623,12 @@ msgid "Ngomba"
 msgstr ""
 
 #. Name for jhi
-#, fuzzy
 msgid "Jehai"
-msgstr "Thai"
+msgstr "Jehai"
 
 #. Name for jhs
-#, fuzzy
 msgid "Jhankot Sign Language"
-msgstr "Gebarentalen"
+msgstr ""
 
 #. Name for jia
 #, fuzzy
@@ -13639,7 +13637,7 @@ msgstr "Dinka"
 
 #. Name for jib
 msgid "Jibu"
-msgstr ""
+msgstr "Jibu"
 
 #. Name for jic
 #, fuzzy
@@ -13648,16 +13646,15 @@ msgstr "Tokelau"
 
 #. Name for jid
 msgid "Bu"
-msgstr ""
+msgstr "Buh"
 
 #. Name for jie
 msgid "Jilbe"
-msgstr ""
+msgstr "Jilbe"
 
 #. Name for jig
-#, fuzzy
 msgid "Djingili"
-msgstr "Tlinglit"
+msgstr "Djingili"
 
 #. Name for jih
 msgid "sTodsde"
@@ -13686,7 +13683,7 @@ msgstr ""
 
 #. Name for jit
 msgid "Jita"
-msgstr ""
+msgstr "Jita"
 
 #. Name for jiu
 msgid "Youle Jinuo"
@@ -13697,9 +13694,8 @@ msgid "Jinuo, Youle"
 msgstr ""
 
 #. Name for jiv
-#, fuzzy
 msgid "Shuar"
-msgstr "Sjaans"
+msgstr "Shuar"
 
 #. Name for jiy
 msgid "Buyuan Jinuo"
@@ -13724,7 +13720,7 @@ msgstr ""
 
 #. Name for jkm
 msgid "Mobwa Karen"
-msgstr ""
+msgstr "Mobwa Karen"
 
 #. Inverted name for jkm
 #, fuzzy

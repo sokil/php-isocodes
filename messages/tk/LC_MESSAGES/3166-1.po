@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2018-01-01 17:04+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Turkmen <https://hosted.weblate.org/projects/iso-codes/"
@@ -70,7 +70,7 @@ msgstr "Andorra Knýazlygy"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "Birleşen  Arap Emiratlary"
+msgstr "Birleşen Arap Emiratlary"
 
 #. Name for ARG
 msgid "Argentina"
@@ -836,6 +836,12 @@ msgstr "Sent-Kitts we Newis"
 msgid "Korea, Republic of"
 msgstr "Koreýa Respublikasy"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Günorta Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuweýt"
@@ -983,7 +989,7 @@ msgstr "Meksikanyň"
 
 #. Official name for MEX
 msgid "United Mexican States"
-msgstr "Meksikanyň  Birleşen  Ştatlary"
+msgstr "Meksikanyň Birleşen Ştatlary"
 
 #. Name for MHL
 msgid "Marshall Islands"
@@ -1183,7 +1189,7 @@ msgstr "Oman"
 
 #. Official name for OMN
 msgid "Sultanate of Oman"
-msgstr "Oman  Soltanlygy"
+msgstr "Oman Soltanlygy"
 
 #. Name for PAK
 msgid "Pakistan"
@@ -1257,6 +1263,12 @@ msgstr "Koreýa, Halk Demokratik Respublikasy"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Koreýa Halk Demokratik Respublikasy"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Täze Kaledoniýa"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1502,7 +1514,7 @@ msgstr "Togolez"
 
 #. Official name for TGO
 msgid "Togolese Republic"
-msgstr "Togolez  Respublikasy"
+msgstr "Togolez Respublikasy"
 
 #. Name for THA
 msgid "Thailand"

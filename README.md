@@ -56,7 +56,7 @@ Translation drivers required when need to get local names of iso entities.
 
 Translation driver must implement `Sokil\IsoCodes\TranslationDriver\TranslationDriverInterface`.
 
-Instance of driver may be passed to `IsoCodesFactory`. If it not passed, default `GettextExtensionDriver` will be used.
+Instance of driver may be passed to `IsoCodesFactory`. If it is not passed, default `GettextExtensionDriver` will be used.
 
 ```php
 <?php
@@ -96,7 +96,7 @@ $isoCodes = new IsoCodesFactory(null, new GettextExtensionDriver());
 
 #### Locale configuration
 
-Before using IsoCodes database you need to setup valid locale to get translations worked, 
+Before using IsoCodes database you need to set valid locale to get translations worked, 
 because `ext-gettext` uses system local, configured by `setlocale`.
 
 ```php

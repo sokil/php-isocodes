@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2013-08-19 16:27+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: Vietnamese <>\n"
@@ -830,6 +830,12 @@ msgstr "Xan-kít và Nê-vi"
 msgid "Korea, Republic of"
 msgstr "Cộng hoà Nam Hàn"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Nam Phi"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Cu-ouai-thợ"
@@ -1246,6 +1252,12 @@ msgstr "Bắc Hàn, Cộng hoà Nhân dân Dân chủ"
 msgid "Democratic People's Republic of Korea"
 msgstr "Cộng hoà Nhân dân Dân chủ Bắc Hàn"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Niu Ca-lê-đô-ni-a"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Bồ Đào Nha"
@@ -1364,7 +1376,7 @@ msgstr "En-xan-va-đoa"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
-msgstr "Nước Cộng Hoà  En-xan-va-đoa"
+msgstr "Nước Cộng Hoà En-xan-va-đoa"
 
 #. Name for SMR
 msgid "San Marino"

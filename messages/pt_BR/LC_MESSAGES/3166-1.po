@@ -11,22 +11,23 @@
 # Rafael Fontenelle <rffontenelle@gmail.com>, 2013, 2016-2017.
 # Rafael Fontenelle <rafaelff@gnome.org>, 2019.
 # Rui Mendes <xz9@protonmail.com>, 2019.
+# Adriano Rafael Gomes <adrianorg@arg.eti.br>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-04-03 21:04+0000\n"
-"Last-Translator: Rui Mendes <xz9@protonmail.com>\n"
-"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-1/pt_BR/>\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-09-02 09:33+0000\n"
+"Last-Translator: Adriano Rafael Gomes <adrianorg@arg.eti.br>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-1/pt_BR/>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -830,6 +831,10 @@ msgstr "São Cristóvão e Névis"
 msgid "Korea, Republic of"
 msgstr "Coreia, República da"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Coreia do Sul"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -1241,6 +1246,10 @@ msgstr "Coreia, República Popular Democrática da"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "República Popular Democrática da Coreia"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Coreia do Norte"
 
 #. Name for PRT
 msgid "Portugal"

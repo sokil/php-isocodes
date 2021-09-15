@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2020-05-10 12:40+0000\n"
 "Last-Translator: Oymate <dhruboadittya96@gmail.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/iso-codes/"
@@ -824,6 +824,12 @@ msgstr "সেন্ট কিটস ও নেভিস"
 msgid "Korea, Republic of"
 msgstr "কোরিয়া প্রজাতন্ত্র"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "দক্ষিণ আফ্রিকা"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "কুয়েত"
@@ -1235,6 +1241,12 @@ msgstr "কোরিয়া, গণতান্ত্রিক গণপ্রজ
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "গণতান্ত্রিক গণপ্রজাতন্ত্রী কোরিয়া"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "North Macedonia"
+msgid "North Korea"
+msgstr "উত্তর ম্যাসেডোনিয়া"
 
 #. Name for PRT
 msgid "Portugal"

@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: fa\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2019-06-18 19:05+0000\n"
 "Last-Translator: Nader Jafari <naderpaskari@gmail.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/iso-codes/"
@@ -829,6 +829,12 @@ msgstr "سن کیتس و نویس"
 msgid "Korea, Republic of"
 msgstr "جمهوری کره"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "آفریقای جنوبی"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "کویت"
@@ -1240,6 +1246,12 @@ msgstr "کره، جمهوری دموکراتیک خلق"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "جمهوری دموکراتیک خلق کره"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "North Macedonia"
+msgid "North Korea"
+msgstr "مقدونیه شمالی"
 
 #. Name for PRT
 msgid "Portugal"

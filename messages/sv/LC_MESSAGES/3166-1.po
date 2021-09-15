@@ -9,14 +9,14 @@
 # Mattias Newzella <newzella@linux.nu>, 2001.
 # Christian Rose <menthos@menthos.com>, 2004.
 # Daniel Nylander <po@danielnylander.se>, 2007, 2011.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2019.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2019, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-08-26 21:33+0000\n"
 "Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/sv/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -833,6 +833,10 @@ msgstr "Sankt Kitts och Nevis"
 msgid "Korea, Republic of"
 msgstr "Sydkorea"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Sydkorea"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -1245,6 +1249,10 @@ msgstr "Korea, demokratiska folkrepubliken"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Demokratiska folkrepubliken Korea"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Nordkorea"
 
 #. Name for PRT
 msgid "Portugal"

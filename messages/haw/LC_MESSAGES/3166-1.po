@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2017-12-25 21:47+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Hawaiian <https://hosted.weblate.org/projects/iso-codes/"
@@ -863,6 +863,10 @@ msgstr ""
 msgid "Korea, Republic of"
 msgstr "Kōlea Hema"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr ""
+
 #. Name for KWT
 #, fuzzy
 msgid "Kuwait"
@@ -1297,6 +1301,10 @@ msgstr ""
 #, fuzzy
 msgid "Democratic People's Republic of Korea"
 msgstr "Kōlea ʻĀkau"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr ""
 
 #. Name for PRT
 #, fuzzy

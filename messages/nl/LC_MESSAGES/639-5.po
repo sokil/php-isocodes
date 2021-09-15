@@ -6,14 +6,15 @@
 # .
 # Copyright ©
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2014-2017.
+# Pander <pander@users.sourceforge.net>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-5\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
+"PO-Revision-Date: 2021-08-28 18:34+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-5/nl/>\n"
 "Language: nl\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aav
@@ -154,7 +155,7 @@ msgstr "Creools en pidgins, Op het Portugees gebaseerd"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr "Creools en Pidgin"
+msgstr "Creools en pidgins"
 
 #. Name for csu
 msgid "Central Sudanic languages"

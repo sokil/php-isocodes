@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-05-02 12:32+0000\n"
+"PO-Revision-Date: 2021-08-11 21:33+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-15924/he/>\n"
@@ -22,19 +22,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "אדלם"
 
 #. Name for Afak
 msgid "Afaka"
-msgstr ""
+msgstr "אפַקה"
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
-msgstr ""
+msgstr "אלבנית קווקזית"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
@@ -209,11 +209,11 @@ msgstr "יוונית"
 
 #. Name for Gujr
 msgid "Gujarati"
-msgstr ""
+msgstr "גוג׳ראטית"
 
 #. Name for Guru
 msgid "Gurmukhi"
-msgstr ""
+msgstr "גורמוקהי"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
@@ -221,7 +221,7 @@ msgstr ""
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
-msgstr ""
+msgstr "האנגול (הנגול)"
 
 #. Name for Hani
 msgid "Han (Hanzi, Kanji, Hanja)"
@@ -243,7 +243,7 @@ msgstr "האן מסורתי"
 
 #. Name for Hatr
 msgid "Hatran"
-msgstr ""
+msgstr "אשורית"
 
 #. Name for Hebr
 msgid "Hebrew"
@@ -251,7 +251,7 @@ msgstr "עברית"
 
 #. Name for Hira
 msgid "Hiragana"
-msgstr ""
+msgstr "היראגאנה"
 
 #. Name for Hluw
 msgid "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)"
@@ -307,7 +307,7 @@ msgstr ""
 
 #. Name for Khmr
 msgid "Khmer"
-msgstr ""
+msgstr "חמרית"
 
 #. Name for Khoj
 msgid "Khojki"
@@ -428,7 +428,7 @@ msgstr "כתב חרטומים"
 
 #. Name for Mlym
 msgid "Malayalam"
-msgstr ""
+msgstr "מלאיאלאם"
 
 #. Name for Modi
 msgid "Modi, Moḍī"
@@ -456,7 +456,7 @@ msgstr ""
 
 #. Name for Mymr
 msgid "Myanmar (Burmese)"
-msgstr ""
+msgstr "מיאנמרית (בורמה)"
 
 #. Name for Narb
 msgid "Old North Arabian (Ancient North Arabian)"
@@ -464,7 +464,7 @@ msgstr ""
 
 #. Name for Nbat
 msgid "Nabataean"
-msgstr ""
+msgstr "נבטית"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
@@ -476,7 +476,7 @@ msgstr ""
 
 #. Name for Nkoo
 msgid "N’Ko"
-msgstr ""
+msgstr "נ׳קו"
 
 #. Name for Nshu
 msgid "Nüshu"
@@ -484,7 +484,7 @@ msgstr ""
 
 #. Name for Ogam
 msgid "Ogham"
-msgstr ""
+msgstr "אוע׳אם"
 
 #. Name for Olck
 msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
@@ -540,7 +540,7 @@ msgstr "פיניקית"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
-msgstr ""
+msgstr "קלינגונית (KLI pIqaD)"
 
 #. Name for Plrd
 msgid "Miao (Pollard)"
@@ -682,15 +682,15 @@ msgstr ""
 
 #. Name for Tglg
 msgid "Tagalog (Baybayin, Alibata)"
-msgstr ""
+msgstr "טאגאלוג (באיבאין, אליבטה)"
 
 #. Name for Thaa
 msgid "Thaana"
-msgstr ""
+msgstr "תאאנא"
 
 #. Name for Thai
 msgid "Thai"
-msgstr "תאילנדית"
+msgstr "תאית"
 
 #. Name for Tibt
 msgid "Tibetan"
@@ -706,11 +706,11 @@ msgstr "אוגריתית"
 
 #. Name for Vaii
 msgid "Vai"
-msgstr ""
+msgstr "ואי"
 
 #. Name for Visp
 msgid "Visible Speech"
-msgstr ""
+msgstr "דיבור גלוי"
 
 #. Name for Wara
 msgid "Warang Citi (Varang Kshiti)"
@@ -738,15 +738,15 @@ msgstr ""
 
 #. Name for Zmth
 msgid "Mathematical notation"
-msgstr ""
+msgstr "סימון מתמטי"
 
 #. Name for Zsye
 msgid "Symbols (Emoji variant)"
-msgstr ""
+msgstr "סימנים (הגווני אמוג׳י)"
 
 #. Name for Zsym
 msgid "Symbols"
-msgstr ""
+msgstr "סימנים"
 
 #. Name for Zxxx
 msgid "Code for unwritten documents"

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: wo\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2018-01-02 16:34+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Wolof <https://hosted.weblate.org/projects/iso-codes/"
@@ -831,6 +831,12 @@ msgstr "Saint Kitts and Nevis"
 msgid "Korea, Republic of"
 msgstr "Koore, Republik bu"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Afrik di Sid"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwet"
@@ -986,7 +992,7 @@ msgstr "Marshall Islands"
 
 #. Official name for MHL
 msgid "Republic of the Marshall Islands"
-msgstr "Republik bu  Marshall Islands"
+msgstr "Republik bu Marshall Islands"
 
 #. Name for MKD
 #, fuzzy
@@ -1039,7 +1045,7 @@ msgstr "Northern Mariana Islands"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
-msgstr "Komonwels bu Iil yu  Northern Mariana"
+msgstr "Komonwels bu Iil yu Northern Mariana"
 
 #. Name for MOZ
 msgid "Mozambique"
@@ -1250,6 +1256,12 @@ msgstr "Koore, Republik Popileer Demokaraatik bu"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Republik Popileer Demokaraatik bu Koore"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Nuweel Kaledooni"
 
 #. Name for PRT
 msgid "Portugal"

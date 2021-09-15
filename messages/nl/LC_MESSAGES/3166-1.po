@@ -9,7 +9,7 @@
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2013, 2015, 2017.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
-# Pander <pander@users.sourceforge.net>, 2018.
+# Pander <pander@users.sourceforge.net>, 2018, 2021.
 # powerburner-nl <peter.mulder.1981@gmail.com>, 2019.
 # Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2019.
 msgid ""
@@ -17,9 +17,9 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-11-13 10:04+0000\n"
-"Last-Translator: Frans Spiesschaert <frans.spiesschaert@gmail.com>\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-08-25 10:47+0000\n"
+"Last-Translator: Pander <pander@users.sourceforge.net>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/nl/>\n"
 "Language: nl\n"
@@ -27,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.10-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -830,6 +830,10 @@ msgstr "Saint Kitts en Nevis"
 msgid "Korea, Republic of"
 msgstr "Zuid-Korea"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Zuid-Korea"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Koeweit"
@@ -1242,6 +1246,10 @@ msgstr "Noord-Korea"
 msgid "Democratic People's Republic of Korea"
 msgstr "Democratische Volksrepubliek Korea"
 
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Noord-Korea"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1640,7 +1648,7 @@ msgstr "Britse Maagdeneilanden"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Amerikaanse Maagdeneilanden"
+msgstr "Maagdeneilanden, Amerikaanse"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

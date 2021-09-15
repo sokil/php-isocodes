@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: ISO-falan-ku\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2018-02-24 12:38+0000\n"
 "Last-Translator: Hüseyin Kaya <kaya6491@gmail.com>\n"
 "Language-Team: Kurdish <https://hosted.weblate.org/projects/iso-codes/"
@@ -832,6 +832,12 @@ msgstr "Saint Kitts û Nevis"
 msgid "Korea, Republic of"
 msgstr "Kore, Komara"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Efrîka Basur"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kûveyt"
@@ -1249,6 +1255,12 @@ msgstr "Kore, Komara Demokratîk a Gelê"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Komara Demokratîk a Gelê Kore"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Kaledonyaya Nû"
 
 #. Name for PRT
 msgid "Portugal"

@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2008-09-09 23:36+0400\n"
 "Last-Translator: Aiet Kolkhi <aietkolkhi@gmail.com>\n"
 "Language-Team: Georgian\n"
@@ -829,6 +829,12 @@ msgstr "სენტ-კიტსი და ნევისი"
 msgid "Korea, Republic of"
 msgstr "კორეა, რესპუბლიკა"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "სამხრეთ აფრიკა"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "კუვეიტი"
@@ -1249,6 +1255,12 @@ msgstr "კორეის სახალხო-დემოკრატიუ�
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "კორეის სახალხო-დემოკრატიული რესპუბლიკა"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "ახალი კალედონია"
 
 #. Name for PRT
 msgid "Portugal"

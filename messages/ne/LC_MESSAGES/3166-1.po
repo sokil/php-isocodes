@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: ne_merge\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2011-02-22 16:39-0600\n"
 "Last-Translator: Shiva Prasad Pokharel <pokharelshiva@hotmail.com>\n"
 "Language-Team: Nepali <info@mpp.org.np>\n"
@@ -831,6 +831,12 @@ msgstr "सेन्ट किट्स र नेभिस"
 msgid "Korea, Republic of"
 msgstr "कोरियाको गणराज्य"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "दक्षिण अफ्रिका"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "कुवेत"
@@ -1248,6 +1254,12 @@ msgstr "कोरियाको प्रजातन्त्रिक जन�
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "कोरियाको प्रजातन्त्रिक जनगणराज्य"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "नयाँ क्यालेदोनिया"
 
 #. Name for PRT
 msgid "Portugal"

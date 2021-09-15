@@ -10,24 +10,24 @@
 # Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2004-2006.
 # YunQiang Su <wzssyqa@gmail.com>, 2011.
 # LI Daobing <lidaobing@gmail.com>, 2007-2011, 2013, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019, 2020.
+# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021.
 # tao wang <tonywang5@163.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2020-10-15 06:09+0000\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-08-27 18:09+0000\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
-"codes/iso-3166-1/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-1/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -559,7 +559,7 @@ msgstr "大不列颠及北爱尔兰联合王国"
 
 #. Name for GEO
 msgid "Georgia"
-msgstr "佐治亚州"
+msgstr "格鲁吉亚"
 
 #. Name for GGY
 msgid "Guernsey"
@@ -827,6 +827,10 @@ msgstr "圣基茨和尼维斯"
 
 #. Name for KOR
 msgid "Korea, Republic of"
+msgstr "大韩民国"
+
+#. Common name for KOR
+msgid "South Korea"
 msgstr "韩国"
 
 #. Name for KWT
@@ -995,7 +999,7 @@ msgstr "北马其顿共和国"
 
 #. Name for MLI
 msgid "Mali"
-msgstr "马里省"
+msgstr "马里"
 
 #. Official name for MLI
 msgid "Republic of Mali"
@@ -1095,7 +1099,7 @@ msgstr "新喀里多尼亚"
 
 #. Name for NER
 msgid "Niger"
-msgstr "尼日尔州"
+msgstr "尼日尔"
 
 #. Official name for NER
 msgid "Republic of the Niger"
@@ -1235,11 +1239,15 @@ msgstr "波多黎各"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
-msgstr "朝鲜"
+msgstr "朝鲜民主主义人民共和国"
 
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
-msgstr "朝鲜人民民主共和国"
+msgstr "朝鲜民主主义人民共和国"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "朝鲜"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1499,7 +1507,7 @@ msgstr "塔吉克斯坦共和国"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "托克劳群岛"
+msgstr "托克劳"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1631,15 +1639,15 @@ msgstr "委内瑞拉"
 
 #. Name for VGB
 msgid "Virgin Islands, British"
-msgstr "英属维京群岛"
+msgstr "英属维尔京群岛"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "英属维京群岛"
+msgstr "英属维尔京群岛"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "美属维京群岛"
+msgstr "美属维尔京群岛"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

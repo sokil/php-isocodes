@@ -10,14 +10,15 @@
 # Knut Yrvin <knuty@skolelinux.no>, 2004.
 # Bjørn Steensrud <bjornst@powertech.no>, 2006.
 # Hans Fredrik Nordhaug <hans@nordhaug.priv.no>, 2007-2015.
-# Allan Nordhøy <epost@anotheragency.no>, 2019.
+# Allan Nordhøy <epost@anotheragency.no>, 2019, 2021.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-08-24 23:04+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-1/nb_NO/>\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -593,10 +594,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Republikken Zambia"
+msgstr "Republikken Gambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -830,6 +829,10 @@ msgstr "Saint Kitts og Nevis"
 msgid "Korea, Republic of"
 msgstr "Korea, Republikken"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Sør-Korea"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -987,16 +990,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republikken Marshalløyene"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Ny-Caledonia"
+msgstr "Nord-Makedonia"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Republikken Litauen"
+msgstr "Republikken Nord-Makedonia"
 
 #. Name for MLI
 msgid "Mali"
@@ -1246,6 +1245,10 @@ msgstr "Korea, Den demokratiske folkerepublikk"
 msgid "Democratic People's Republic of Korea"
 msgstr "Den demokratiske folkerepublikk Korea"
 
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Nord-Korea"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1336,7 +1339,7 @@ msgstr "Republikken Singapore"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Sør-Georgia og de sørlige Sandwichøyene"
+msgstr "Sør-Georgia og Sør-Sandwichøyene"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -1447,10 +1450,8 @@ msgid "Eswatini"
 msgstr "Eswatini (tidligere Swasiland)"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Kongeriket Spania"
+msgstr "Kongeriket Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"

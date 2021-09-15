@@ -7,15 +7,15 @@
 # Copyright ©
 # Arief S Fitrianto <arief@gurame.fisika.ui.ac.id>, 2004-2006.
 # Andhika Padmawan <andhika.padmawan@gmail.com>, 2011-2016.
-# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020.
+# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020, 2021.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2020-01-16 17:21+0000\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-08-25 10:47+0000\n"
 "Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/id/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.10.2-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -827,6 +827,10 @@ msgstr "Saint Kitts dan Nevis"
 msgid "Korea, Republic of"
 msgstr "Korea Selatan"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Korea Selatan"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -1238,6 +1242,10 @@ msgstr "Korea Utara"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Republik Demokrat Rakyat Korea"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Korea Utara"
 
 #. Name for PRT
 msgid "Portugal"

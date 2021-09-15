@@ -13,14 +13,15 @@
 # Siim Põder <windo@p6drad-teel.net>, 2006.
 # Tõivo Leedjärv <toivol@gmail.com>, 2008, 2011, 2013.
 # Janar Leas <janar.leas@gmail.com>, 2020.
+# Priit Jõerüüt <hwlate@joeruut.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2020-12-05 15:29+0000\n"
-"Last-Translator: Janar Leas <janar.leas@gmail.com>\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
+"PO-Revision-Date: 2021-09-07 21:33+0000\n"
+"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/et/>\n"
 "Language: et\n"
@@ -28,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -830,6 +831,10 @@ msgstr "Saint Kitts ja Nevis"
 msgid "Korea, Republic of"
 msgstr "Lõuna-Korea (Korea Vabariik)"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Lõuna-Korea"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuveit"
@@ -1241,6 +1246,10 @@ msgstr "Põhja-Korea"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Korea Rahvademokraatlik Vabariik"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Põhja-Korea"
 
 #. Name for PRT
 msgid "Portugal"

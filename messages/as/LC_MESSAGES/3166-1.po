@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2021-08-25 00:34+0200\n"
 "PO-Revision-Date: 2010-04-05 17:41+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -830,6 +830,12 @@ msgstr "চেন্ট কিট্‌স আৰু নেভিচ"
 msgid "Korea, Republic of"
 msgstr "কোৰিয়া প্ৰজাতন্ত্ৰ"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "দক্ষিণ আফ্ৰিকা"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "কুৱেইট"
@@ -1247,6 +1253,12 @@ msgstr "কোৰিয়া, গণতান্ত্ৰিক গণপ্ৰজ
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী কোৰিয়া"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "নিউ কেলেডনিয়া"
 
 #. Name for PRT
 msgid "Portugal"
