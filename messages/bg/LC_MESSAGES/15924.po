@@ -6,32 +6,35 @@
 # Copyright ©
 # Dr. Tobias Quathamer <toddy@debian.org>, 2007.
 # Damyan Ivanov <dmn@debian.org>, 2010.
+# Georgi Georgiev <g.georgiev.shumen@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2010-05-24 19:36+0300\n"
-"Last-Translator: Damyan Ivanov <dmn@debian.org>\n"
-"Language-Team: Bulgarian <dict@fsa-bg.org>\n"
+"PO-Revision-Date: 2021-09-15 09:36+0000\n"
+"Last-Translator: Georgi Georgiev <g.georgiev.shumen@gmail.com>\n"
+"Language-Team: Bulgarian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-15924/bg/>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "Адламска"
 
 #. Name for Afak
 msgid "Afaka"
-msgstr ""
+msgstr "Афака"
 
 #. Name for Aghb
 msgid "Caucasian Albanian"
-msgstr ""
+msgstr "Агванска"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
