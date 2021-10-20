@@ -50,7 +50,26 @@ abstract class AbstractDatabase implements \Iterator, \Countable
         TranslationDriverInterface $translationDriver = null
     ) {
         if (empty($baseDirectory)) {
-            $this->baseDirectory = __DIR__ . '/../';
+            // Require external database in "sokil/php-isocodes-db" package
+
+            $suggestedBaseDirectories = [
+                // production mode, find in sibling directory "php-isocodes-db"
+                __DIR__ . '/../../php-isocodes-db/',
+                // development mode, find in current vendor packages
+                __DIR__ . '/../../vendor/sokil/php-isocodes-db/'
+            ];
+
+            foreach ($suggestedBaseDirectories as $suggestedBaseDirectory) {
+                if (is_dir($suggestedBaseDirectory)) {
+                    $this->baseDirectory = $suggestedBaseDirectory;
+                }
+            }
+
+            if (empty($this->baseDirectory)) {
+                throw new \RuntimeException(
+                    'Base directory not specified and directory can not be located automatically'
+                );
+            }
         } else {
             $this->baseDirectory = rtrim($baseDirectory, '/') . '/';
         }
