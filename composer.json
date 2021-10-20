@@ -33,12 +33,8 @@
             "Sokil\\IsoCodes\\": ["tests/", "benchmarks/"]
         }
     },
-    "repositoy": {
-        "type": "path",
-        "path": "/media/sokil/DATA/www/php-isocodes-db"
-    },
     "suggest": {
-        "sokil/php-isocodes-db": "Required if frequent database updates not required and not tuned separately",
+        "sokil/php-isocodes-db": "If frequent database updates is not necessary or configud separately",
         "ext-gettext": "Required for gettext translation driver",
         "symfony/translation": "Translation driver by Symfont project",
         "phpbench/phpbench": "Required to run benchmarks"
@@ -50,8 +46,6 @@
         "check-style": "./vendor/bin/phpcs",
         "fix-style": "./vendor/bin/phpcbf",
         "bench": "phpbench run benchmarks/  --report=default",
-        "infection": "infection --min-msi=82 --min-covered-msi=91 --log-verbosity=default",
-        "release": "./bin/release.sh",
-        "update_iso_codes_db": "./bin/update_iso_codes_db.sh"
+        "infection": "infection --min-msi=82 --min-covered-msi=91 --log-verbosity=default"
     }
 }
