@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2021-08-28 18:34+0000\n"
+"PO-Revision-Date: 2021-10-23 19:37+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/he/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -17197,23 +17197,23 @@ msgstr ""
 
 #. Name for SS-JG
 msgid "Jonglei"
-msgstr ""
+msgstr "ג׳ונגליי"
 
 #. Name for SS-LK
 msgid "Lakes"
-msgstr ""
+msgstr "אגמים"
 
 #. Name for SS-NU
 msgid "Upper Nile"
-msgstr ""
+msgstr "הנילוס העליון"
 
 #. Name for SS-UY
 msgid "Unity"
-msgstr ""
+msgstr "האיחוד"
 
 #. Name for SS-WR
 msgid "Warrap"
-msgstr ""
+msgstr "ואראפ"
 
 #. Name for ST-01
 #, fuzzy
@@ -17223,191 +17223,179 @@ msgstr "סנגרה גראנדה"
 
 #. Name for ST-02
 msgid "Cantagalo"
-msgstr ""
+msgstr "קנטגלו"
 
 #. Name for ST-03
 msgid "Caué"
-msgstr ""
+msgstr "קאואה"
 
 #. Name for ST-04
 msgid "Lembá"
-msgstr ""
+msgstr "למבה"
 
 #. Name for ST-05
 msgid "Lobata"
-msgstr ""
+msgstr "לובטה"
 
 #. Name for ST-06
 msgid "Mé-Zóchi"
-msgstr ""
+msgstr "מה-זושי"
 
 #. Name for ST-P
 msgid "Príncipe"
-msgstr ""
+msgstr "פרינסיפה"
 
 #. Name for SV-AH
 msgid "Ahuachapán"
-msgstr ""
+msgstr "אווצ׳פאן"
 
 #. Name for SV-CA
 msgid "Cabañas"
-msgstr ""
+msgstr "קבניאס"
 
 #. Name for SV-CH
 msgid "Chalatenango"
-msgstr ""
+msgstr "צ׳לטננגו"
 
 #. Name for SV-CU
 msgid "Cuscatlán"
-msgstr ""
+msgstr "קוסקטלאן"
 
 #. Name for SV-MO
 msgid "Morazán"
-msgstr ""
+msgstr "מורסאן"
 
 #. Name for SV-SA
 msgid "Santa Ana"
-msgstr ""
+msgstr "סנטה אנה"
 
 #. Name for SV-SM
 msgid "San Miguel"
-msgstr ""
+msgstr "סן מיגל"
 
 #. Name for SV-SO
 msgid "Sonsonate"
-msgstr ""
+msgstr "סונסונטה"
 
 #. Name for SV-SV
 msgid "San Vicente"
-msgstr ""
+msgstr "סן ויסנטה"
 
 #. Name for SV-UN
 msgid "La Unión"
-msgstr ""
+msgstr "לה אוניון"
 
 #. Name for SV-US
 msgid "Usulután"
-msgstr ""
+msgstr "אוסולוטאן"
 
 #. Name for SY-DI
 msgid "Dimashq"
-msgstr ""
+msgstr "דמשק"
 
 #. Name for SY-DR
 msgid "Dar'ā"
-msgstr ""
+msgstr "דרעא"
 
 #. Name for SY-DY
 msgid "Dayr az Zawr"
-msgstr ""
+msgstr "דיר א־זור"
 
 #. Name for SY-HA
-#, fuzzy
-#| msgid "Al Ḩudaydah"
 msgid "Al Ḩasakah"
-msgstr "אל־חודיידה"
+msgstr "אל־חסכה"
 
 #. Name for SY-HI
 msgid "Ḩimş"
-msgstr ""
+msgstr "חומס"
 
 #. Name for SY-HL
 msgid "Ḩalab"
-msgstr ""
+msgstr "חלב"
 
 #. Name for SY-HM
 msgid "Ḩamāh"
-msgstr ""
+msgstr "חמאה"
 
 #. Name for SY-ID
 msgid "Idlib"
-msgstr ""
+msgstr "אדליב"
 
 #. Name for SY-LA
-#, fuzzy
-#| msgid "Al Gharbīyah"
 msgid "Al Lādhiqīyah"
-msgstr "אל־ע׳רביה"
+msgstr "לטקיה"
 
 #. Name for SY-QU
-#, fuzzy
-#| msgid "Al Qāhirah"
 msgid "Al Qunayţirah"
-msgstr "קהיר"
+msgstr "קוניטרה"
 
 #. Name for SY-RA
 msgid "Ar Raqqah"
-msgstr ""
+msgstr "א־רקה"
 
 #. Name for SY-RD
 msgid "Rīf Dimashq"
-msgstr ""
+msgstr "ריף דמשק"
 
 #. Name for SY-SU
-#, fuzzy
-#| msgid "As Suways"
 msgid "As Suwaydā'"
-msgstr "סואץ"
+msgstr "א־סווידא"
 
 #. Name for SY-TA
 msgid "Ţarţūs"
-msgstr ""
+msgstr "טרטוס"
 
 #. Name for SZ-HH
 msgid "Hhohho"
-msgstr ""
+msgstr "הוהו"
 
 #. Name for SZ-LU
 msgid "Lubombo"
-msgstr ""
+msgstr "לובומבו"
 
 #. Name for SZ-MA
 msgid "Manzini"
-msgstr ""
+msgstr "מנזיני"
 
 #. Name for SZ-SH
 msgid "Shiselweni"
-msgstr ""
+msgstr "שיסלווני"
 
 #. Name for TD-BA
-#, fuzzy
-#| msgid "Al Bayḑā'"
 msgid "Al Baţḩā’"
-msgstr "אל־ביידא"
+msgstr "באטה"
 
 #. Name for TD-BG
-#, fuzzy
-#| msgid "Al Bahr al Ahmar"
 msgid "Bahr el Ghazal"
-msgstr "הים האדום"
+msgstr "בחר אל־ע׳זאל"
 
 #. Name for TD-BO
 msgid "Borkou"
-msgstr ""
+msgstr "בורקו"
 
 #. Name for TD-CB
 msgid "Chari-Baguirmi"
-msgstr ""
+msgstr "שארי-בגירמי"
 
 #. Name for TD-EE
 msgid "Ennedi-Est"
-msgstr ""
+msgstr "אנדי מזרח"
 
 #. Name for TD-EO
 msgid "Ennedi-Ouest"
-msgstr ""
+msgstr "אנדי מערב"
 
 #. Name for TD-GR
 msgid "Guéra"
-msgstr ""
+msgstr "גארה"
 
 #. Name for TD-HL
 msgid "Hadjer Lamis"
-msgstr ""
+msgstr "חג׳ר לאמיס"
 
 #. Name for TD-KA
 msgid "Kanem"
-msgstr ""
+msgstr "קאנם"
 
 #. Name for TD-LO
 msgid "Logone-Occidental"

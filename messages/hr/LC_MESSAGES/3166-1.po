@@ -10,7 +10,7 @@
 # Josip Rodin <joy@debian.org>, 2008.
 # Tomislav Krznar <tomislav.krznar@gmail.com>, 2012-2013.
 # Božidar Putanec <bozidarp@yahoo.com>, 2017.
-# Milo Ivir <mail@milotype.de>, 2019, 2020.
+# Milo Ivir <mail@milotype.de>, 2019, 2020, 2021.
 # gogogogi <trebelnik2@gmail.com>, 2020.
 msgid ""
 msgstr ""
@@ -18,7 +18,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2020-09-17 19:36+0000\n"
+"PO-Revision-Date: 2021-10-21 19:40+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hr/>\n"
@@ -28,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -837,10 +837,8 @@ msgid "Korea, Republic of"
 msgstr "Koreja, Republika"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Južnoafrička Republika"
+msgstr "Južna Korea"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1255,10 +1253,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Demokratska Narodna Republika Koreja"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Sjeverna Makedonija"
+msgstr "Sjeverna Koreja"
 
 #. Name for PRT
 msgid "Portugal"

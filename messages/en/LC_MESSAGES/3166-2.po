@@ -10,14 +10,15 @@
 # Quentin PAGÈS <quentinantonin@free.fr>, 2020.
 # Serge Karpesh <skarpiesz@gmail.com>, 2020.
 # tao wang <tonywang5@163.com>, 2020.
+# Eleanor <5abbwfw5@mailer.me>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-27 13:34+0200\n"
-"PO-Revision-Date: 2020-12-14 15:29+0000\n"
-"Last-Translator: tao wang <tonywang5@163.com>\n"
+"PO-Revision-Date: 2021-10-27 15:42+0000\n"
+"Last-Translator: Eleanor <5abbwfw5@mailer.me>\n"
 "Language-Team: English <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/en/>\n"
 "Language: en\n"
@@ -25,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.4-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Name for AD-02
 msgid "Canillo"
@@ -44,9 +45,8 @@ msgid "Ordino"
 msgstr "Ordino"
 
 #. Name for AD-06
-#, fuzzy
 msgid "Sant Julià de Lòria"
-msgstr "Sant Julià de Lòria"
+msgstr "Saint Julià de Lòria"
 
 #. Name for AD-07
 msgid "Andorra la Vella"
