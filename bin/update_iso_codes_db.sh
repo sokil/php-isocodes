@@ -47,7 +47,7 @@ echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
 if [[ -z $2 ]]; then
     TMP_BUILD_DIR="/tmp/iso-codes-build"
 else
-    TMP_BUILD_DIR=$1
+    TMP_BUILD_DIR=$2
 
     if [[ ! -d $TMP_BUILD_DIR ]]; then
         # if not exists, create
