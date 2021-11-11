@@ -115,8 +115,8 @@ for database_file in `ls -1 $DATABASES_DIR`; do
 done
 
 # add copyright notice
-echo -e "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
-echo -e "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
+echo -e "This files is part of Debian's iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
+echo -e "This files is part of Debian's iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
 
 # database postprocessing
 echo -e "[Update] \033[0;32mDatabase post-processing\033[0m"
