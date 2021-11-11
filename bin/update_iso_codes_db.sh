@@ -75,12 +75,16 @@ if [[ -d $TMP_BUILD_DIR ]]; then
     cd - > /dev/null
 else
     mkdir -p $TMP_BUILD_DIR
+    cd $TMP_BUILD_DIR
     git clone --depth 1 $PKG_ISOCODES_REPO $TMP_BUILD_DIR
     if [[ $? != 0 ]]; then
         echo -e "[Update] Can not clone repository to \033[0;31m${TMP_BUILD_DIR}\033[0m"
         exit 1
     fi
 fi
+
+# load tags
+git fetch origin --tags
 
 # clear previous database and locales files
 rm -rf $MESSAGES_DIR
