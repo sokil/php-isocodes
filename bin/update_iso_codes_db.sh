@@ -2,7 +2,11 @@
 
 ######################################################################
 #                                                                    #
-#    Update database on specified place                              #
+#    Update database on specified place.                             #
+#                                                                    #
+#    This script may be used by any who want to update database      #
+#    more frequently by himself.                                     #
+#                                                                    #
 #    Usage: ./bin/update_iso_codes_db.sh {base_dir} [{build_dir}]    #
 #                                                                    #
 #    base_dir: required, dir where database and i18n messages stored #
@@ -16,7 +20,7 @@ PKG_ISOCODES_REPO="https://salsa.debian.org/iso-codes-team/iso-codes.git"
 
 # Prepare project dir
 if [[ -z $1 ]]; then
-    echo -e "Base directory not specified"
+    echo -e "[Update] Base directory not specified"
     exit 1
 else
     BASE_DIR=$1
@@ -27,7 +31,7 @@ else
     fi
 
     if [[ ! -w $BASE_DIR ]]; then
-        echo -e "Passed base directory \033[0;31m${BASE_DIR}\033[0m is not writable"
+        echo -e "[Update] Passed base directory \033[0;31m${BASE_DIR}\033[0m is not writable"
         exit 1
     fi
 fi
@@ -36,8 +40,8 @@ fi
 MESSAGES_DIR="${BASE_DIR}/messages"
 DATABASES_DIR="${BASE_DIR}/databases"
 
-echo -e "\033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
-echo -e "\033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
+echo -e "[Update] \033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
+echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
 
 # Prepare build dir
 if [[ -z $2 ]]; then
@@ -51,19 +55,21 @@ else
     fi
 
     if [[ ! -w $TMP_BUILD_DIR ]]; then
-        echo -e "Passed base directory \033[0;31m${TMP_BUILD_DIR}\033[0m is not writable"
+        echo -e "[Update] Passed base directory \033[0;31m${TMP_BUILD_DIR}\033[0m is not writable"
         exit 1
     fi
 fi
 
+echo -e "[Update] Build directory is \033[0;31m${TMP_BUILD_DIR}\033[0m"
+
 # update pkg-isocodes source
-echo -e "\033[0;32mUpdate pkg-isocodes repository\033[0m"
+echo -e "[Update] \033[0;32mUpdate pkg-isocodes repository\033[0m"
 
 if [[ -d $TMP_BUILD_DIR ]]; then
     cd $TMP_BUILD_DIR
     git pull origin main
     if [[ $? != 0 ]]; then
-        echo -e "Can not pull from remote repository in \033[0;31m${TMP_BUILD_DIR}\033[0m, you may remove this dir manually"
+        echo -e "[Update] Can not pull from remote repository in \033[0;31m${TMP_BUILD_DIR}\033[0m, you may remove this dir manually"
         exit 1
     fi
     cd - > /dev/null
@@ -71,7 +77,7 @@ else
     mkdir -p $TMP_BUILD_DIR
     git clone --depth 1 $PKG_ISOCODES_REPO $TMP_BUILD_DIR
     if [[ $? != 0 ]]; then
-        echo -e "Can not clone repository to \033[0;31m${TMP_BUILD_DIR}\033[0m"
+        echo -e "[Update] Can not clone repository to \033[0;31m${TMP_BUILD_DIR}\033[0m"
         exit 1
     fi
 fi
@@ -83,12 +89,12 @@ rm -rf $DATABASES_DIR
 mkdir -p $DATABASES_DIR
 
 # move database files
-echo -e "\033[0;32mCopy database files to target dir ${DATABASES_DIR}\033[0m"
+echo -e "[Update] \033[0;32mCopy database files to target dir ${DATABASES_DIR}\033[0m"
 
 cp $TMP_BUILD_DIR/data/iso_*.json $DATABASES_DIR
 
 # move locale message files
-echo -e "\033[0;32mCopy message files to target dir ${MESSAGES_DIR}\033[0m"
+echo -e "[Update] \033[0;32mCopy message files to target dir ${MESSAGES_DIR}\033[0m"
 
 for database_file in `ls -1 $DATABASES_DIR`; do
     database_name=`echo $database_file | sed "s/.json//g"`
@@ -112,7 +118,7 @@ echo -e "This files is part of iso-codes library.\nSee license agreement at ${PK
 echo -e "This files is part of iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
 
 # database postprocessing
-echo -e "\033[0;32mDatabase post-processing\033[0m"
+echo -e "[Update] \033[0;32mDatabase post-processing\033[0m"
 
 # Split ISO 3166-2 to per-country files
 echo -e "   * Split ISO 3166-2 database"
