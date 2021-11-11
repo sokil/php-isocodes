@@ -62,10 +62,10 @@ fi
 
 echo -e "[Update] Build directory is \033[0;31m${TMP_BUILD_DIR}\033[0m"
 
-# update pkg-isocodes source
-echo -e "[Update] \033[0;32mUpdate pkg-isocodes repository\033[0m"
+# Clone from source debian repo
+echo -e "[Update] \033[0;32mFetch changes from debian's repository\033[0m"
 
-if [[ -d $TMP_BUILD_DIR ]]; then
+if [[ -d $TMP_BUILD_DIR/.git ]]; then
     cd $TMP_BUILD_DIR
     git pull origin main
     if [[ $? != 0 ]]; then
