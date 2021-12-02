@@ -9,21 +9,23 @@
 # Ankit Patel <ankit644@yahoo.com>, 2010.
 # Sweta Kothari <swkothar@redhat.com>, 2010.
 # Kartik Mistry <kartik@debian.org>, 2006-2008, 2012-2013.
+# KushagraKarira <kushagrakarira@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2013-02-13 11:22+0530\n"
-"Last-Translator: Kartik Mistry <kartik@debian.org>\n"
-"Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
+"PO-Revision-Date: 2021-11-18 07:52+0000\n"
+"Last-Translator: KushagraKarira <kushagrakarira@gmail.com>\n"
+"Language-Team: Gujarati <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/gu/>\n"
 "Language: gu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.9.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -350,14 +352,10 @@ msgid "Union of the Comoros"
 msgstr "યુનિયન ઓફ કોમોરોસ"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "કેપ વર્દે"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "રીપબ્લિક ઓફ કેપ વર્દે"
 
@@ -399,7 +397,7 @@ msgstr "રીપબ્લિક ઓફ સાયપ્રસ"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "ચેકિયા"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -594,8 +592,6 @@ msgid "Gambia"
 msgstr "ગામ્બિયા"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
 msgstr "રીપબ્લિક ઓફ ઝાંબિયા"
 
@@ -832,8 +828,6 @@ msgid "Korea, Republic of"
 msgstr "રીપબ્લિક ઓફ કોરિયા"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
 msgstr "દક્ષિણ આફ્રિકા"
 
@@ -994,14 +988,10 @@ msgid "Republic of the Marshall Islands"
 msgstr "રીપબ્લિક ઓફ ધ માર્શલ આઇલેન્ડ્સ"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
 msgstr "ન્યુ કેલેડોનિયા"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
 msgstr "રીપબ્લિક ઓફ લિથુઆનીઆ"
 
@@ -1230,7 +1220,6 @@ msgid "Papua New Guinea"
 msgstr "પાપુઆ ન્યુ ગીની"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
 msgstr "ઇન્ડિપેન્ડન્ટ સ્ટેટ ઓફ સામોઆ"
 
@@ -1255,8 +1244,6 @@ msgid "Democratic People's Republic of Korea"
 msgstr "ડેમોક્રેટિક પીપલ્સ રીપબ્લિક ઓફ કોરિયા"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Korea"
 msgstr "ન્યુ કેલેડોનિયા"
 
@@ -1393,7 +1380,6 @@ msgid "Somalia"
 msgstr "સોમાલિયા"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
 msgstr "રીપબ્લિક ઓફ જર્મની"
 
@@ -1459,11 +1445,9 @@ msgstr "કિંગડમ ઓફ સ્વિડન"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "સ્વાતિની"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
 msgstr "કિંગડમ ઓફ સ્પેન"
 
@@ -1589,7 +1573,7 @@ msgstr "યુનાઇટેડ રીપબ્લિક ઓફ ટાન્ઝ
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "ટાન્ઝાનિયા"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1676,10 +1660,8 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "સોસ્યાલિસ્ટ રીપબ્લિક ઓફ વિયેત નામ"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
-msgstr "વિયેત નામ"
+msgstr "વિયેતનામ"
 
 #. Name for VUT
 msgid "Vanuatu"

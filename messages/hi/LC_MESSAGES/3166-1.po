@@ -21,7 +21,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2021-07-08 19:33+0000\n"
+"PO-Revision-Date: 2021-11-12 17:51+0000\n"
 "Last-Translator: KushagraKarira <kushagrakarira@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/hi/>\n"
@@ -30,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.9.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -838,10 +838,8 @@ msgid "Korea, Republic of"
 msgstr "कोरिया, रिपब्लिक ऑफ"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "दक्षिण अफ़्रीका"
+msgstr "दक्षिण कोरिया"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1256,10 +1254,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "डेमेक्रेटिक पीपल्स रिपब्लिक ऑफ कोरिया"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "उत्तर मैसेडोनिया"
+msgstr "उत्तर कोरिया"
 
 #. Name for PRT
 msgid "Portugal"

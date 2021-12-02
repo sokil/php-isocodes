@@ -11,14 +11,15 @@
 # Yuri Kozlov <yuray@komyakino.ru>, 2004, 2006-2013, 2015.
 # yurayko <yuray@komyakino.ru>, 2018.
 # Artem <KovalevArtem.ru@gmail.com>, 2020.
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2021-08-25 00:34+0200\n"
-"PO-Revision-Date: 2020-09-08 08:36+0000\n"
-"Last-Translator: Artem <KovalevArtem.ru@gmail.com>\n"
+"PO-Revision-Date: 2021-11-30 23:53+0000\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ru/>\n"
 "Language: ru\n"
@@ -27,7 +28,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.3-dev\n"
+"X-Generator: Weblate 4.10-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -830,10 +831,8 @@ msgid "Korea, Republic of"
 msgstr "Республика Корея"
 
 #. Common name for KOR
-#, fuzzy
-#| msgid "South Africa"
 msgid "South Korea"
-msgstr "Южная Африка"
+msgstr "Южная Корея"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -1248,10 +1247,8 @@ msgid "Democratic People's Republic of Korea"
 msgstr "Корейская Народно-Демократическая Республика"
 
 #. Common name for PRK
-#, fuzzy
-#| msgid "North Macedonia"
 msgid "North Korea"
-msgstr "Северная Македония"
+msgstr "Северная Корея"
 
 #. Name for PRT
 msgid "Portugal"
