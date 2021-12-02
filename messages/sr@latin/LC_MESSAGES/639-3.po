@@ -8,23 +8,24 @@
 # Danilo Segan <dsegan@gmx.net>, 2003-2005.
 # Branko Kovačević <ja_sam_branko@yahoo.com>, 2018-2019.
 # Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>, 2021.
+# Lazar Ćeklić <lazar.ceklicc@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
 "POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2021-02-03 11:41+0000\n"
-"Last-Translator: Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>\n"
-"Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"
-"iso-639-3/sr/>\n"
+"PO-Revision-Date: 2021-11-30 23:53+0000\n"
+"Last-Translator: Lazar Ćeklić <lazar.ceklicc@gmail.com>\n"
+"Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-639-3/sr_Latn/>\n"
 "Language: sr@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.5-dev\n"
+"X-Generator: Weblate 4.10-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -49,8 +50,9 @@ msgid "Arbëreshë Albanian"
 msgstr ""
 
 #. Inverted name for aae
+#, fuzzy
 msgid "Albanian, Arbëreshë"
-msgstr ""
+msgstr "Albanski,"
 
 #. Name for aaf
 #, fuzzy
@@ -71,8 +73,9 @@ msgid "Arapesh, Abu'"
 msgstr ""
 
 #. Name for aai
+#, fuzzy
 msgid "Arifama-Miniafia"
-msgstr ""
+msgstr "Papa Nova Gvineja"
 
 #. Name for aak
 #, fuzzy
