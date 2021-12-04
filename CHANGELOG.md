@@ -1,3 +1,13 @@
+## 4.0 (2021-12-04)
+
+* Database and messages extracted to separate projects
+  [sokil/php-isocodes-db-i18n](https://github.com/sokil/php-isocodes-db-i18n) and 
+  [sokil/php-isocodes-db-only](https://github.com/sokil/php-isocodes-db-i18n). Current library may 
+  be used directly only if manual update of files required. 
+  See [installation notes](https://github.com/sokil/php-isocodes/tree/4.0#installation) for more info.
+* `./bin/update_iso_codes_db.sh` signature changed to `{mode} {base_dir} [{build_dir}]`.
+  See [installation notes](https://github.com/sokil/php-isocodes/tree/4.0#installation) for more info.
+
 ## 3.3.1 (2021-01-03)
 * Database version: iso-codes-4.5.0-178-g802915de from 2021-01-02 04:38
 
