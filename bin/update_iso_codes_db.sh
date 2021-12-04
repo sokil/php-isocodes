@@ -18,13 +18,14 @@ CURRENT_DIR=$(dirname $(readlink -f $0))
 
 PKG_ISOCODES_REPO="https://salsa.debian.org/iso-codes-team/iso-codes.git"
 
+BASE_DIR=$1
+BUILD_DIR=$2
+
 # Prepare project dir
-if [[ -z $1 ]]; then
+if [[ -z BASE_DIR ]]; then
     echo -e "[Update] Base directory not specified"
     exit 1
 else
-    BASE_DIR=$1
-
     if [[ ! -d $BASE_DIR ]]; then
         # if not exists, create
         mkdir -p $BASE_DIR
@@ -36,18 +37,11 @@ else
     fi
 fi
 
-# Target directories for database and messages
-MESSAGES_DIR="${BASE_DIR}/messages"
-DATABASES_DIR="${BASE_DIR}/databases"
-
-echo -e "[Update] \033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
-echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
-
 # Prepare build dir
-if [[ -z $2 ]]; then
+if [[ -z $BUILD_DIR ]]; then
     TMP_BUILD_DIR="/tmp/iso-codes-build"
 else
-    TMP_BUILD_DIR=$2
+    TMP_BUILD_DIR=$BUILD_DIR
 
     if [[ ! -d $TMP_BUILD_DIR ]]; then
         # if not exists, create
@@ -82,6 +76,13 @@ else
         exit 1
     fi
 fi
+
+# Target directories for database and messages
+MESSAGES_DIR="${BASE_DIR}/messages"
+echo -e "[Update] \033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
+
+DATABASES_DIR="${BASE_DIR}/databases"
+echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
 
 # clear previous database and locales files
 rm -rf $MESSAGES_DIR
