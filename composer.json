@@ -14,7 +14,7 @@
     },
     "require-dev": {
         "ext-gettext": "*",
-        "sokil/php-isocodes-db-i18n": "4.0.x-dev",
+        "sokil/php-isocodes-db-i18n": "^4.0.0",
         "phpunit/phpunit": ">=7.5.20",
         "php-coveralls/php-coveralls": "^2.1",
         "squizlabs/php_codesniffer": "^3.4",
