@@ -7,9 +7,6 @@ namespace Sokil\IsoCodes\Database\Languages;
 use Sokil\IsoCodes\Database\Languages;
 use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
-/**
- * @psalm-immutable
- */
 class Language
 {
     /**
@@ -42,8 +39,6 @@ class Language
 
     /**
      * @var string|null
-     *
-     * @psalm-allow-private-mutation
      */
     private $localName;
 

@@ -7,9 +7,6 @@ namespace Sokil\IsoCodes\Database\Countries;
 use Sokil\IsoCodes\Database\Countries;
 use Sokil\IsoCodes\TranslationDriver\TranslatorInterface;
 
-/**
- * @psalm-immutable
- */
 class Country
 {
     /**
@@ -19,8 +16,6 @@ class Country
 
     /**
      * @var string|null
-     *
-     * @psalm-allow-private-mutation
      */
     private $localName;
 
@@ -85,6 +80,9 @@ class Country
         return $this->name;
     }
 
+    /**
+     * @psalm-allow-private-mutation
+     */
     public function getLocalName(): string
     {
         if ($this->localName === null) {

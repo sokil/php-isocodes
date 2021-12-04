@@ -161,6 +161,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      * Builds array of entries.
      * Creates many entry objects in loop, use iterator instead.
      *
+     * @psalm-return Array<string, Array<int, object>>
      * @return object[]
      */
     public function toArray(): array
