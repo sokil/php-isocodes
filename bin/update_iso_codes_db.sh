@@ -1,25 +1,27 @@
 #!/usr/bin/env bash
 
-######################################################################
-#                                                                    #
-#    Update database on specified place.                             #
-#                                                                    #
-#    This script may be used by any who want to update database      #
-#    more frequently by himself.                                     #
-#                                                                    #
-#    Usage: ./bin/update_iso_codes_db.sh {base_dir} [{build_dir}]    #
-#                                                                    #
-#    base_dir: required, dir where database and i18n messages stored #
-#    build_dir: optional, dir where database and i18n messages       #
-#               prepared, by default is "/tmp/iso-codes-build"       #
-######################################################################
+#############################################################################
+#                                                                           #
+#    Update database on specified place.                                    #
+#                                                                           #
+#    This script may be used by any who want to update database             #
+#    more frequently by himself.                                            #
+#                                                                           #
+#    Usage: ./bin/update_iso_codes_db.sh {mode} {base_dir} {build_dir}      #
+#    All fields required:                                                   #
+#    mode: "all" or "db_only", all updates also i18n files                  #
+#    base_dir: dir where database and i18n messages stored                  #
+#    build_dir: dir where database and i18n messages                        #
+#               prepared, by default is "/tmp/iso-codes-build"              #
+#############################################################################
 
 CURRENT_DIR=$(dirname $(readlink -f $0))
 
 PKG_ISOCODES_REPO="https://salsa.debian.org/iso-codes-team/iso-codes.git"
 
-BASE_DIR=$1
-BUILD_DIR=$2
+UPDATE_MODE=${1:-all}
+BASE_DIR=$2
+BUILD_DIR=${3:-/tmp/iso-codes-build}
 
 # Prepare project dir
 if [[ -z BASE_DIR ]]; then
@@ -38,20 +40,16 @@ else
 fi
 
 # Prepare build dir
-if [[ -z $BUILD_DIR ]]; then
-    TMP_BUILD_DIR="/tmp/iso-codes-build"
-else
-    TMP_BUILD_DIR=$BUILD_DIR
+TMP_BUILD_DIR=$BUILD_DIR
 
-    if [[ ! -d $TMP_BUILD_DIR ]]; then
-        # if not exists, create
-        mkdir -p $TMP_BUILD_DIR
-    fi
+if [[ ! -d $TMP_BUILD_DIR ]]; then
+    # if not exists, create
+    mkdir -p $TMP_BUILD_DIR
+fi
 
-    if [[ ! -w $TMP_BUILD_DIR ]]; then
-        echo -e "[Update] Passed base directory \033[0;31m${TMP_BUILD_DIR}\033[0m is not writable"
-        exit 1
-    fi
+if [[ ! -w $TMP_BUILD_DIR ]]; then
+    echo -e "[Update] Passed base directory \033[0;31m${TMP_BUILD_DIR}\033[0m is not writable"
+    exit 1
 fi
 
 echo -e "[Update] Build directory is \033[0;31m${TMP_BUILD_DIR}\033[0m"
@@ -77,57 +75,71 @@ else
     fi
 fi
 
-# Target directories for database and messages
-MESSAGES_DIR="${BASE_DIR}/messages"
-echo -e "[Update] \033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
+update_database () {
+  # update database
+  DATABASES_DIR="${BASE_DIR}/databases"
+  echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
 
-DATABASES_DIR="${BASE_DIR}/databases"
-echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
+  # clear previous database files
+  rm -rf $DATABASES_DIR
+  mkdir -p $DATABASES_DIR
 
-# clear previous database and locales files
-rm -rf $MESSAGES_DIR
-mkdir -p $MESSAGES_DIR
-rm -rf $DATABASES_DIR
-mkdir -p $DATABASES_DIR
+  # move database files
+  echo -e "[Update] \033[0;32mCopy database files to target dir ${DATABASES_DIR}\033[0m"
+  cp $TMP_BUILD_DIR/data/iso_*.json $DATABASES_DIR
 
-# move database files
-echo -e "[Update] \033[0;32mCopy database files to target dir ${DATABASES_DIR}\033[0m"
+  # database postprocessing
+  echo -e "[Update] \033[0;32mDatabase post-processing\033[0m"
 
-cp $TMP_BUILD_DIR/data/iso_*.json $DATABASES_DIR
+  # Split ISO 3166-2 to per-country files
+  echo -e "   * Split ISO 3166-2 database"
+  php $CURRENT_DIR/iso_3166-2_split.php $DATABASES_DIR
 
-# move locale message files
-echo -e "[Update] \033[0;32mCopy message files to target dir ${MESSAGES_DIR}\033[0m"
+  # Split ISO639-3 to chunks
+  echo -e "   * Split ISO 639-3 database"
+  php $CURRENT_DIR/iso_639-3_split.php $DATABASES_DIR
 
-for database_file in `ls -1 $DATABASES_DIR`; do
-    database_name=`echo $database_file | sed "s/.json//g"`
-    gettext_domain=`echo $database_name | sed "s/iso_//g"`
-    source_locale_dir=$TMP_BUILD_DIR/$database_name
+  # license
+  echo -e "This files is part of Debian's iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
+}
 
-    echo -e "   * Copying ${source_locale_dir} ..."
+update_i18n() {
+  # move locale message files
+  echo -e "[Update] \033[0;32mCopy message files to target dir ${MESSAGES_DIR}\033[0m"
 
-    for locale_file in `ls -1 $source_locale_dir | grep .po`; do
-        locale_name=`echo $locale_file | sed "s/.po//g"`
-        # copy locale file
-        target_locale_dir=$MESSAGES_DIR/$locale_name/LC_MESSAGES
-        mkdir -p $target_locale_dir
-        cp ${source_locale_dir}/${locale_file} ${target_locale_dir}/${gettext_domain}.po
-        msgfmt ${target_locale_dir}/${gettext_domain}.po -o ${target_locale_dir}/${gettext_domain}.mo
-    done;
-done
+  # Target directories for database and messages
+  MESSAGES_DIR="${BASE_DIR}/messages"
+  echo -e "[Update] \033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
 
-# add copyright notice
-echo -e "This files is part of Debian's iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
-echo -e "This files is part of Debian's iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
+  # clear previous locales files
+  rm -rf $MESSAGES_DIR
+  mkdir -p $MESSAGES_DIR
 
-# database postprocessing
-echo -e "[Update] \033[0;32mDatabase post-processing\033[0m"
+  for database_file in `ls -1 $DATABASES_DIR`; do
+      database_name=`echo $database_file | sed "s/.json//g"`
+      gettext_domain=`echo $database_name | sed "s/iso_//g"`
+      source_locale_dir=$TMP_BUILD_DIR/$database_name
 
-# Split ISO 3166-2 to per-country files
-echo -e "   * Split ISO 3166-2 database"
-php $CURRENT_DIR/iso_3166-2_split.php $DATABASES_DIR
+      echo -e "   * Copying ${source_locale_dir} ..."
 
-# Split ISO639-3 to chunks
-echo -e "   * Split ISO 639-3 database"
-php $CURRENT_DIR/iso_639-3_split.php $DATABASES_DIR
+      for locale_file in `ls -1 $source_locale_dir | grep .po`; do
+          locale_name=`echo $locale_file | sed "s/.po//g"`
+          # copy locale file
+          target_locale_dir=$MESSAGES_DIR/$locale_name/LC_MESSAGES
+          mkdir -p $target_locale_dir
+          cp ${source_locale_dir}/${locale_file} ${target_locale_dir}/${gettext_domain}.po
+          msgfmt ${target_locale_dir}/${gettext_domain}.po -o ${target_locale_dir}/${gettext_domain}.mo
+      done;
+  done
+
+  # license
+  echo -e "This files is part of Debian's iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $MESSAGES_DIR/LICENSE
+}
+
+update_database
+
+if [[ $UPDATE_MODE != "db_only" ]]; then
+  update_i18n
+fi
 
 exit 0
