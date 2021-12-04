@@ -7,11 +7,10 @@
 #    This script may be used by any who want to update database             #
 #    more frequently by himself.                                            #
 #                                                                           #
-#    Usage: ./bin/update_iso_codes_db.sh {mode} {base_dir} {build_dir}      #
-#    All fields required:                                                   #
-#    mode: "all" or "db_only", all updates also i18n files                  #
-#    base_dir: dir where database and i18n messages stored                  #
-#    build_dir: dir where database and i18n messages                        #
+#    Usage: ./bin/update_iso_codes_db.sh {mode} {base_dir} [{build_dir}]    #
+#    mode: REQUIRED, "all" or "db_only", all updates also i18n files        #
+#    base_dir: REQUIRED, dir where database and i18n messages stored        #
+#    build_dir: OPTIONAL, dir where database and i18n messages              #
 #               prepared, by default is "/tmp/iso-codes-build"              #
 #############################################################################
 
