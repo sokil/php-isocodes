@@ -46,6 +46,7 @@
         "check-style": "./vendor/bin/phpcs",
         "fix-style": "./vendor/bin/phpcbf",
         "bench": "phpbench run benchmarks/  --report=default",
-        "infection": "infection --min-msi=82 --min-covered-msi=91 --log-verbosity=default"
+        "infection": "infection --min-msi=82 --min-covered-msi=91 --log-verbosity=default",
+        "psalm": "./vendor/bin/psalm"
     }
 }

@@ -100,3 +100,6 @@ jobs:
 
       - name: Run style checks
         run: composer check-style
+
+      - name: Run static analyse
+        run: composer psalm
