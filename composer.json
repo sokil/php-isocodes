@@ -34,7 +34,8 @@
         }
     },
     "suggest": {
-        "sokil/php-isocodes-db": "If frequent database updates is not necessary or configud separately",
+        "sokil/php-isocodes-db-only": "If frequent database updates is not necessary, and only database without localization is required.",
+        "sokil/php-isocodes-db-i18n": "If frequent database updates is not necessary, and database with localization is required.",
         "ext-gettext": "Required for gettext translation driver",
         "symfony/translation": "Translation driver by Symfont project",
         "phpbench/phpbench": "Required to run benchmarks"
