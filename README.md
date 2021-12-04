@@ -1,7 +1,7 @@
 # PHP ISO Codes
 
 [![Continuous integration](https://github.com/sokil/php-isocodes/workflows/Continuous%20integration/badge.svg?branch=4.0)](https://github.com/sokil/php-isocodes/actions?query=workflow%3A%22Continuous+integration%22)
-[![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes)
+[![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes/v/stable.png?1)](https://packagist.org/packages/sokil/php-isocodes)
 [![Coverage Status](https://coveralls.io/repos/sokil/php-isocodes/badge.png)](https://coveralls.io/r/sokil/php-isocodes)
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes.svg?1)](https://packagist.org/packages/sokil/php-isocodes)
 [![Daily Downloads](https://poser.pugx.org/sokil/php-isocodes/d/daily)](https://packagist.org/packages/sokil/php-isocodes/stats)
@@ -57,11 +57,19 @@ You may use this library in different modes:
 
 To install [library with full database and i18n files](https://github.com/sokil/php-isocodes-db-i18n):
 
+[![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes-db-i18n/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes-db-i18n)
+[![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes-db-i18n.svg?1)](https://packagist.org/packages/sokil/php-isocodes-db-i18n)
+[![Daily Downloads](https://poser.pugx.org/sokil/php-isocodes-db-i18n/d/daily)](https://packagist.org/packages/sokil/php-isocodes-db-i18n/stats)
+
 ```
 composer require sokil/php-isocodes-db-i18n
 ```
 
 You may also install [library with only database](https://github.com/sokil/php-isocodes-db-only) (no i18n will be available):
+
+[![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes-db-only/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes-db-only)
+[![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes-db-only.svg?1)](https://packagist.org/packages/sokil/php-isocodes-db-only)
+[![Daily Downloads](https://poser.pugx.org/sokil/php-isocodes-db-only/d/daily)](https://packagist.org/packages/sokil/php-isocodes-db-only/stats)
 
 ```
 composer require sokil/php-isocodes-db-only
