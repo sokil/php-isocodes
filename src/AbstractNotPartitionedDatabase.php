@@ -12,6 +12,9 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
     /**
      * Index to search by entry field's values
      *
+     * {indexedFieldName => {indexedFieldValue => entryObject}}
+     *
+     * @psalm-var Array<string, Array<string, object>>
      * @var object[][]
      */
     private $index;
