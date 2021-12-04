@@ -173,8 +173,14 @@ If you want to update database more often, use script `./bin/update_iso_codes_db
 Call this script by cron, during deploy process or when build your docker image.
 
 ```
-/path/to/project/vendor/sokil/php-isocodes/bin/update_iso_codes_db.sh /var/isocodes
+./bin/update_iso_codes_db.sh {mode} {base_dir} {build_dir}
 ```
+
+| Argument | Description |
+| -------- | ----------- |
+| mode | May be "all" or "db_only". In "all" mode update database (json files) and locallisation (po and mo files) |
+| base_dir| Dir where to place database and messages |\
+| build_dir | Dir where source directory cloned and files original files processed |
 
 Now you need to configure factory to use this directory:
 
