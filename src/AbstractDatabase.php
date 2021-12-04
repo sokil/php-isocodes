@@ -63,12 +63,16 @@ abstract class AbstractDatabase implements \Iterator, \Countable
             foreach ($suggestedBaseDirectories as $suggestedBaseDirectory) {
                 if (is_dir($suggestedBaseDirectory)) {
                     $this->baseDirectory = $suggestedBaseDirectory;
+                    break;
                 }
             }
 
             if (empty($this->baseDirectory)) {
                 throw new \RuntimeException(
-                    'Base directory not specified and directory can not be located automatically'
+                    sprintf(
+                        'Base directory not specified and directory can not be located automatically. Finding at %s',
+                        implode(', ', $suggestedBaseDirectories)
+                    )
                 );
             }
         } else {
