@@ -55,13 +55,13 @@ You may use this library in different modes:
 
 ### Libraries with automatic database update
 
-To install "sokil/php-isocodes" library with full database and i18n files:
+To install [library with full database and i18n files](https://github.com/sokil/php-isocodes-db-i18n):
 
 ```
 composer require sokil/php-isocodes-db-i18n
 ```
 
-You may also install "sokil/php-isocodes" with only database (no i18n will be available):
+You may also install [library with only database](https://github.com/sokil/php-isocodes-db-only) (no i18n will be available):
 
 ```
 composer require sokil/php-isocodes-db-only
