@@ -53,7 +53,7 @@ You may use this library in different modes:
   this library. Database and messages already inside. To update database 
   just periodically update this library.
 
-## Libraries with automatic database update
+### Libraries with automatic database update
 
 To install "sokil/php-isocodes" library with full database and i18n files:
 
@@ -67,7 +67,7 @@ You may also install "sokil/php-isocodes" with only database (no i18n will be av
 composer require sokil/php-isocodes-db-only
 ```
 
-## Library with manual database update
+### Library with manual database update
 
 You can install library through Composer:
 ```
