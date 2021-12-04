@@ -44,9 +44,60 @@
 
 ## Installation
 
+You may use this library in different modes:
+* `sokil/php-isocodes` - install library without database and messages and setup 
+  periodic updates of database and messages
+* `sokil/php-isocodes-db-only` - if you do not need internationalisation, use 
+  this library. Database already inside. To update database just periodically update this library.
+* `sokil/php-isocodes-db-i18n` - if you need internationalisation, use
+  this library. Database and messages already inside. To update database 
+  just periodically update this library.
+
+## Libraries with automatic database update
+
+To install "sokil/php-isocodes" library with full database and i18n files:
+
+```
+composer require sokil/php-isocodes-db-i18n
+```
+
+You may also install "sokil/php-isocodes" with only database (no i18n will be available):
+
+```
+composer require sokil/php-isocodes-db-only
+```
+
+## Library with manual database update
+
 You can install library through Composer:
 ```
 composer require sokil/php-isocodes
+```
+
+Database and related gettext files located inside this repo in `databases` and `messages` directories.
+This data periodically updated with package version increment.
+
+If you want to update database more often, use script `./bin/update_iso_codes_db.sh`.
+Call this script by cron, during deploy process or when build your docker image.
+
+```
+./bin/update_iso_codes_db.sh {mode} {base_dir} {build_dir}
+```
+
+| Argument | Required | Description |
+| -------- | -------- | ----------- |
+| mode | Required | May be "all" or "db_only". In "all" mode update database (json files) and locallisation (po and mo files) |
+| base_dir| Required | Dir where to place database and messages |\
+| build_dir | Optional. Default: "/tmp/iso-codes-build" | Dir where source directory cloned and files original files processed. |
+
+Now you need to configure factory to use this directory:
+
+```php
+<?php
+
+$databaseBaseDir = '/var/isocodes';
+
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory($databaseBaseDir);
 ```
 
 ## Translation drivers
@@ -162,34 +213,6 @@ $isoCodes = new IsoCodesFactory(
     null,
     new DummyDriver()
 );
-```
-
-## Manual database update
-
-Database and related gettext files located inside this repo in `databases` and `messages` directories.
-This data periodically updated with package version increment.
-
-If you want to update database more often, use script `./bin/update_iso_codes_db.sh`.
-Call this script by cron, during deploy process or when build your docker image.
-
-```
-./bin/update_iso_codes_db.sh {mode} {base_dir} {build_dir}
-```
-
-| Argument | Required | Description |
-| -------- | -------- | ----------- |
-| mode | Required | May be "all" or "db_only". In "all" mode update database (json files) and locallisation (po and mo files) |
-| base_dir| Required | Dir where to place database and messages |\
-| build_dir | Optional. Default: "/tmp/iso-codes-build" | Dir where source directory cloned and files original files processed. |
-
-Now you need to configure factory to use this directory:
-
-```php
-<?php
-
-$databaseBaseDir = '/var/isocodes';
-
-$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory($databaseBaseDir);
 ```
 
 ## Usage
