@@ -30,9 +30,11 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     protected $baseDirectory;
 
     /**
+     * @var string[][]
+     * @psalm-var Array<int, Array<string, string>>
+     *
      * Cluster index used for iteration by entries
      *
-     * @var string[][]
      */
     private $clusterIndex = [];
 
@@ -44,6 +46,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * @param string|null $baseDirectory
      * @param TranslationDriverInterface|null $translationDriver
+     *
+     * @throws \RuntimeException when base directory not specified and directory can not be located automatically
      */
     public function __construct(
         string $baseDirectory = null,
@@ -95,7 +99,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     abstract public static function getISONumber(): string;
 
     /**
-     * @param array<string, string> $entry
+     * @psalm-param Array<string, string> $entry
      *
      * @return object
      */
@@ -161,12 +165,15 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      * Builds array of entries.
      * Creates many entry objects in loop, use iterator instead.
      *
-     * @psalm-return Array<string, Array<int, object>>
+     * @psalm-return Array<string, object>
      * @return object[]
      */
     public function toArray(): array
     {
-        return iterator_to_array($this);
+        /** @psalm-var Array<string, object> $array */
+        $array = iterator_to_array($this);
+
+        return $array;
     }
 
     /**

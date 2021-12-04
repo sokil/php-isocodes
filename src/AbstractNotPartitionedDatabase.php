@@ -27,6 +27,62 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
         return [];
     }
 
+    private function buildIndex(): void
+    {
+        // init empty index
+        $this->index = [];
+
+        // get index definition
+        $indexedFields = $this->getIndexDefinition();
+
+        // build index for database
+        if (!empty($indexedFields)) {
+            // init all defined indexes
+            foreach ($this->getClusterIndex() as $entryArray) {
+                $entry = $this->arrayToEntry($entryArray);
+                foreach ($indexedFields as $indexName => $indexDefinition) {
+                    if (is_array($indexDefinition)) {
+                        // compound index
+                        // iteratively create hierarchy of array indexes
+                        $reference = &$this->index[$indexName];
+                        foreach ($indexDefinition as $indexDefinitionPart) {
+                            if (is_array($indexDefinitionPart)) {
+                                // limited length of field
+                                $indexDefinitionPartValue = substr(
+                                    $entryArray[$indexDefinitionPart[0]],
+                                    0,
+                                    $indexDefinitionPart[1]
+                                );
+                            } else {
+                                $indexDefinitionPartValue = $entryArray[$indexDefinitionPart];
+                            }
+
+                            if (!isset($reference[$indexDefinitionPartValue])) {
+                                $reference[$indexDefinitionPartValue] = [];
+                            }
+
+                            $reference = &$reference[$indexDefinitionPartValue];
+                        }
+
+                        // add value
+                        $reference = $entry;
+                    } else {
+                        // single index
+                        $indexName = $indexDefinition;
+
+                        // skip empty field
+                        if (empty($entryArray[$indexDefinition])) {
+                            continue;
+                        }
+
+                        // add to indexUA
+                        $this->index[$indexName][$entryArray[$indexDefinition]] = $entry;
+                    }
+                }
+            }
+        }
+    }
+
     /**
      * @return mixed[]
      *
@@ -36,58 +92,7 @@ abstract class AbstractNotPartitionedDatabase extends AbstractDatabase
     {
         // build index
         if ($this->index === null) {
-            // init empty index
-            $this->index = [];
-
-            // get index definition
-            $indexedFields = $this->getIndexDefinition();
-
-            // build index for database
-            if (!empty($indexedFields)) {
-                // init all defined indexes
-                foreach ($this->getClusterIndex() as $entryArray) {
-                    $entry = $this->arrayToEntry($entryArray);
-                    foreach ($indexedFields as $indexName => $indexDefinition) {
-                        if (is_array($indexDefinition)) {
-                            // compound index
-                            // iteratively create hierarchy of array indexes
-                            $reference = &$this->index[$indexName];
-                            foreach ($indexDefinition as $indexDefinitionPart) {
-                                if (is_array($indexDefinitionPart)) {
-                                    // limited length of field
-                                    $indexDefinitionPartValue = substr(
-                                        $entryArray[$indexDefinitionPart[0]],
-                                        0,
-                                        $indexDefinitionPart[1]
-                                    );
-                                } else {
-                                    $indexDefinitionPartValue = $entryArray[$indexDefinitionPart];
-                                }
-
-                                if (!isset($reference[$indexDefinitionPartValue])) {
-                                    $reference[$indexDefinitionPartValue] = [];
-                                }
-
-                                $reference = &$reference[$indexDefinitionPartValue];
-                            }
-
-                            // add value
-                            $reference = $entry;
-                        } else {
-                            // single index
-                            $indexName = $indexDefinition;
-
-                            // skip empty field
-                            if (empty($entryArray[$indexDefinition])) {
-                                continue;
-                            }
-
-                            // add to indexUA
-                            $this->index[$indexName][$entryArray[$indexDefinition]] = $entry;
-                        }
-                    }
-                }
-            }
+            $this->buildIndex();
         }
 
         // get index

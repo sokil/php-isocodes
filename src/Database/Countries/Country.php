@@ -80,9 +80,6 @@ class Country
         return $this->name;
     }
 
-    /**
-     * @psalm-allow-private-mutation
-     */
     public function getLocalName(): string
     {
         if ($this->localName === null) {

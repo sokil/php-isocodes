@@ -52,7 +52,10 @@ class Subdivisions extends AbstractNotPartitionedDatabase implements Subdivision
      */
     public function getByCode(string $subdivisionCode): ?Subdivision
     {
-        return $this->find('code', $subdivisionCode);
+        /** @var Subdivision|null $subdivision */
+        $subdivision = $this->find('code', $subdivisionCode);
+
+        return $subdivision;
     }
 
     /**
@@ -62,6 +65,7 @@ class Subdivisions extends AbstractNotPartitionedDatabase implements Subdivision
      */
     public function getAllByCountryCode(string $alpha2CountryCode): array
     {
+        /** @var Subdivision[]|null $subdivisions */
         $subdivisions = $this->find('country_code', $alpha2CountryCode);
 
         if (empty($subdivisions)) {
