@@ -20,10 +20,10 @@ PKG_ISOCODES_REPO="https://salsa.debian.org/iso-codes-team/iso-codes.git"
 
 UPDATE_MODE=${1:-all}
 BASE_DIR=$2
-BUILD_DIR=${3:-/tmp/iso-codes-build}
+TMP_BUILD_DIR=${3:-/tmp/iso-codes-build}
 
 # Prepare project dir
-if [[ -z BASE_DIR ]]; then
+if [[ -z $BASE_DIR ]]; then
     echo -e "[Update] Base directory not specified"
     exit 1
 else
@@ -39,8 +39,6 @@ else
 fi
 
 # Prepare build dir
-TMP_BUILD_DIR=$BUILD_DIR
-
 if [[ ! -d $TMP_BUILD_DIR ]]; then
     # if not exists, create
     mkdir -p $TMP_BUILD_DIR
@@ -74,17 +72,23 @@ else
     fi
 fi
 
+# define target database dir
+DATABASES_DIR="${BASE_DIR}/databases"
+echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
+
+# define target messages dir
+MESSAGES_DIR="${BASE_DIR}/messages"
+echo -e "[Update] \033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
+
+# update database
 update_database () {
-  # update database
-  DATABASES_DIR="${BASE_DIR}/databases"
-  echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
+  echo -e "[Update] \033[0;32mCopy database files to target dir ${DATABASES_DIR}\033[0m"
 
   # clear previous database files
   rm -rf $DATABASES_DIR
   mkdir -p $DATABASES_DIR
 
   # move database files
-  echo -e "[Update] \033[0;32mCopy database files to target dir ${DATABASES_DIR}\033[0m"
   cp $TMP_BUILD_DIR/data/iso_*.json $DATABASES_DIR
 
   # database postprocessing
@@ -102,24 +106,20 @@ update_database () {
   echo -e "This files is part of Debian's iso-codes library.\nSee license agreement at ${PKG_ISOCODES_REPO}" > $DATABASES_DIR/LICENSE
 }
 
+# move locale message files
 update_i18n() {
-  # move locale message files
   echo -e "[Update] \033[0;32mCopy message files to target dir ${MESSAGES_DIR}\033[0m"
-
-  # Target directories for database and messages
-  MESSAGES_DIR="${BASE_DIR}/messages"
-  echo -e "[Update] \033[0;32mMessages directory: \033[0m ${MESSAGES_DIR}"
 
   # clear previous locales files
   rm -rf $MESSAGES_DIR
   mkdir -p $MESSAGES_DIR
 
-  for database_file in `ls -1 $DATABASES_DIR`; do
+  for database_file in `find $DATABASES_DIR -maxdepth 1 -type f -name "*.json" -printf "%f\n"`; do
       database_name=`echo $database_file | sed "s/.json//g"`
       gettext_domain=`echo $database_name | sed "s/iso_//g"`
       source_locale_dir=$TMP_BUILD_DIR/$database_name
 
-      echo -e "   * Copying ${source_locale_dir} ..."
+      echo -e "   * Copying ${source_locale_dir} to ${MESSAGES_DIR} ..."
 
       for locale_file in `ls -1 $source_locale_dir | grep .po`; do
           locale_name=`echo $locale_file | sed "s/.po//g"`
