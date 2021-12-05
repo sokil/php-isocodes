@@ -17,12 +17,13 @@
 
 * [ISO Standards](#iso-standarts)
 * [Installation](#installation)
+  * [Libraries with vendor database update](#libraries-with-vendor-database-update)
+  * [Library with manual database update](#library-with-manual-database-update)
 * [Translation drivers](#translation-drivers)
   * [Gettext extension driver](#gettext-extension-driver)
     * [Locale configuration](#locale-configuration)
   * [Symfony Translation driver](#symfony-translation-driver)
   * [Dummy driver](#dummy-driver)
-* [Manual database update](#manual-database-update)
 * [Usage](#usage)
   * [Locale configuration](#locale-configuration)
   * [Countries database (ISO 3166-1)](#countries-database-iso-3166-1)
@@ -53,9 +54,9 @@ You may use this library in different modes:
   this library. Database and messages already inside. To update database 
   just periodically update this library.
 
-### Libraries with automatic database update
+### Libraries with vendor database update
 
-To install [library with full database and i18n files](https://github.com/sokil/php-isocodes-db-i18n):
+To install [library with database and i18n](https://github.com/sokil/php-isocodes-db-i18n):
 
 [![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes-db-i18n/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes-db-i18n)
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes-db-i18n.svg?1)](https://packagist.org/packages/sokil/php-isocodes-db-i18n)
