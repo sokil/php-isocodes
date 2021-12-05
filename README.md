@@ -95,7 +95,7 @@ Call this script by cron, during deploy process or when build your docker image.
 
 | Argument | Required | Description |
 | -------- | -------- | ----------- |
-| mode | Required | May be "all" or "db_only". In "all" mode update database (json files) and locallisation (po and mo files) |
+| mode | Required | May be "all" or "db_only". In "all" mode update database (json files) and locallisation (po and mo files), in "db_only" only database will update |
 | base_dir| Required | Dir where to place database and messages |\
 | build_dir | Optional. Default: "/tmp/iso-codes-build" | Dir where source directory cloned and files original files processed. |
 
