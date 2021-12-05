@@ -1,4 +1,7 @@
-## 4.0 (2021-12-04)
+## 4.0.1 (2021-12-05)
+* Fixes in `update_iso_codes_db.sh`
+
+## 4.0.0 (2021-12-04)
 
 * Database and messages extracted to separate projects
   [sokil/php-isocodes-db-i18n](https://github.com/sokil/php-isocodes-db-i18n) and 
