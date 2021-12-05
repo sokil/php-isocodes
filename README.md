@@ -47,7 +47,7 @@
 
 You may use this library in different modes:
 * `sokil/php-isocodes` - install library without database and messages and setup 
-  periodic updates of database and messages
+  periodic updates of database and messages bt yourself with cron or inside CI/CD pipeline with `./bin/update_iso_codes_db.sh`
 * `sokil/php-isocodes-db-only` - if you do not need internationalisation, use 
   this library. Database already inside. To update database just periodically update this library.
 * `sokil/php-isocodes-db-i18n` - if you need internationalisation, use
