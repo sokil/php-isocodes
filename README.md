@@ -83,8 +83,8 @@ You can install library through Composer:
 composer require sokil/php-isocodes
 ```
 
-Database and related gettext files located inside this repo in `databases` and `messages` directories.
-This data periodically updated with package version increment.
+Database and gettext files located in related packages inside `databases` and `messages` directories.
+This packages periodically updated with package version increment.
 
 If you want to update database more often, use script `./bin/update_iso_codes_db.sh`.
 Call this script by cron, during deploy process or when build your docker image.
