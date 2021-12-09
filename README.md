@@ -111,6 +111,11 @@ $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory($databaseBaseDir);
 
 ## Translation drivers
 
+* [Gettext extension driver](#gettext-extension-driver)
+  * [Locale configuration](#locale-configuration)
+* [Symfony Translation driver](#symfony-translation-driver)
+* [Dummy driver](#dummy-driver)
+  
 Translation drivers required when need to get local names of iso entities.
 
 Translation driver must implement `Sokil\IsoCodes\TranslationDriver\TranslationDriverInterface`.
