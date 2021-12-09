@@ -45,6 +45,9 @@
 
 ## Installation
 
+* [Libraries with vendor database update](#libraries-with-vendor-database-update)
+* [Library with manual database update](#library-with-manual-database-update)
+  
 You may use this library in different modes:
 * `sokil/php-isocodes` - install library without database and messages and setup 
   periodic updates of database and messages bt yourself with cron or inside CI/CD pipeline with `./bin/update_iso_codes_db.sh`
