@@ -72,6 +72,10 @@ else
     fi
 fi
 
+# print source repo version
+VERSION=`git describe --tags`
+echo -e "[Update] New source repo version is $VERSION"
+
 # define target database dir
 DATABASES_DIR="${BASE_DIR}/databases"
 echo -e "[Update] \033[0;32mDatabase directory: \033[0m ${DATABASES_DIR}"
