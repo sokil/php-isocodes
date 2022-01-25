@@ -179,6 +179,7 @@ abstract class AbstractDatabase implements \Iterator, \Countable
     /**
      * @return object
      */
+    #[\ReturnTypeWillChange]
     public function current()
     {
         return $this->arrayToEntry(current($this->clusterIndex));
