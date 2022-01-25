@@ -1,5 +1,5 @@
 ## 4.0.2 (2022-01-25)
-* Fix #53 - Compatibility with php 8.1
+* Fix [#53](https://github.com/sokil/php-isocodes/issues/53) - Compatibility with php 8.1
 
 ## 4.0.1 (2021-12-05)
 * Fixes in `update_iso_codes_db.sh`
