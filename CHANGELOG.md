@@ -1,3 +1,6 @@
+## 4.0.3 (2022-02-24)
+* Stand With Ukraine
+
 ## 4.0.2 (2022-01-25)
 * Fix [#53](https://github.com/sokil/php-isocodes/issues/53) - Compatibility with php 8.1
 
