@@ -1,3 +1,38 @@
+# Stand With Ukraine
+
+## Free world
+
+As you already know, russia invaded Ukraine on 24 of February 2022, at 5.00 AM the armed forces of the Russian Federation attacked Ukraine. Please, Stand with Ukraine, stay tuned for updates on Ukraine’s official sources and channels in English and support Ukraine in its fight for freedom and democracy in Europe. 
+
+https://ukraine.ua/news/stand-with-ukraine/
+
+Ways to support Ukraine
+
+* Help to defend Ukraine — donate to Ukraine’s main charity fund — https://savelife.in.ua/en/donate/
+* Help to defend Ukraine — donate to the fund of the National Bank of Ukraine:
+  * SWITFT: https://ukraine.ua/news/donate-to-the-nbu-fund/
+  * Credit card: https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi
+
+[#StandWithUkraine](https://twitter.com/hashtag/standwithukraine)
+
+## Россияне
+
+Cпасите жизни своих сограждан, помогите остановить войну.
+
+Форма для поиска пропавших: https://bit.ly/3hrAjGA.
+Больше инфо здесь: https://200rf.com
+
+Тelegram-каналы:
+* https://t.me/rf200_now
+* https://t.me/voyna_2022
+* https://t.me/UkraineNow
+* https://t.me/UkrainianWitness
+* http://t.me/umer_RF
+
+Проверяйте факты, помогите нам распространить правду, вы не услышыте ее в новостях. Помогите остановить войну. Делайте хоть чтото, не молчите.
+
+----
+
 # PHP ISO Codes
 
 [![Continuous integration](https://github.com/sokil/php-isocodes/workflows/Continuous%20integration/badge.svg?branch=4.0)](https://github.com/sokil/php-isocodes/actions?query=workflow%3A%22Continuous+integration%22)
