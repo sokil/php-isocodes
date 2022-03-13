@@ -6,6 +6,7 @@ namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractNotPartitionedDatabase;
 use Sokil\IsoCodes\Database\Languages\Language;
+use Sokil\IsoCodes\Database\LanguagesAlpha2\Language as LanguageAlpha2;
 
 /**
  * @method Language|null find(string $indexedFieldName, string $fieldValue)
@@ -49,9 +50,22 @@ class Languages extends AbstractNotPartitionedDatabase implements LanguagesInter
         ];
     }
 
-    public function getByAlpha2(string $alpha2): ?Language
+    public function getByAlpha2(string $alpha2): ?LanguageAlpha2
     {
-        return $this->find('alpha_2', $alpha2);
+        $language = $this->find('alpha_2', $alpha2);
+        if (! $language) {
+            return null;
+        }
+
+        return new LanguageAlpha2(
+            $this->translationDriver,
+            $language->getName(),
+            $language->getAlpha2(),
+            $language->getAlpha3(),
+            $language->getScope(),
+            $language->getType(),
+            $language->getInvertedName()
+        );
     }
 
     public function getByAlpha3(string $alpha3): ?Language

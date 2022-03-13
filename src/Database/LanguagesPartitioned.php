@@ -6,6 +6,7 @@ namespace Sokil\IsoCodes\Database;
 
 use Sokil\IsoCodes\AbstractPartitionedDatabase;
 use Sokil\IsoCodes\Database\Languages\Language;
+use Sokil\IsoCodes\Database\LanguagesAlpha2\Language as LanguageAlpha2;
 
 class LanguagesPartitioned extends AbstractPartitionedDatabase implements LanguagesInterface
 {
@@ -35,13 +36,29 @@ class LanguagesPartitioned extends AbstractPartitionedDatabase implements Langua
         );
     }
 
-    public function getByAlpha2(string $alpha2): ?Language
+    /**
+     * @param array<string, string> $entry
+     */
+    protected function arrayToEntryAlpha2(array $entry): LanguageAlpha2
+    {
+        return new LanguageAlpha2(
+            $this->translationDriver,
+            $entry['name'],
+            $entry['alpha_2'],
+            $entry['alpha_3'],
+            $entry['scope'],
+            $entry['type'],
+            !empty($entry['inverted_name']) ? $entry['inverted_name'] : null
+        );
+    }
+
+    public function getByAlpha2(string $alpha2): ?LanguageAlpha2
     {
         $language = null;
 
         foreach ($this->loadFromJSONFile('/alpha2/' . $alpha2[0]) as $languageRaw) {
             if ($languageRaw['alpha_2'] === $alpha2) {
-                $language = $this->arrayToEntry($languageRaw);
+                $language = $this->arrayToEntryAlpha2($languageRaw);
             }
         }
 
