@@ -7,6 +7,7 @@ namespace Sokil\IsoCodes\Database;
 use Sokil\IsoCodes\Database\Countries\Country;
 use Sokil\IsoCodes\IsoCodesFactory;
 use PHPUnit\Framework\TestCase;
+use Sokil\IsoCodes\TranslationDriver\SymfonyTranslationDriver;
 
 class CountriesTest extends TestCase
 {

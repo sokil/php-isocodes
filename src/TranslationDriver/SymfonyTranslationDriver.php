@@ -42,16 +42,15 @@ class SymfonyTranslationDriver implements TranslationDriverInterface
             }
         }
 
-        if ($validPathToMoFile === null) {
-            throw new \InvalidArgumentException('Directory does not contain valid resource');
+        if ($validPathToMoFile !== null) {
+            $this->translator->addResource(
+                'mo',
+                $validPathToMoFile,
+                $locale,
+                $isoNumber
+            );
         }
 
-        $this->translator->addResource(
-            'mo',
-            $validPathToMoFile,
-            $locale,
-            $isoNumber
-        );
     }
 
     private function getPathToMoFile(string $directory, string $locale, string $isoNumber): string
