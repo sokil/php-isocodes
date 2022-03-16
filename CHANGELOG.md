@@ -1,3 +1,7 @@
+## 4.1.0 (2022-02-24)
+* Fix: database entries may has no mo files. In this case exception occured. Locale "en" as default locale has
+  no mo files because all data already present in database. When no mo file found, default "en" value returns. 
+
 ## 4.0.3 (2022-02-24)
 * Stand With Ukraine
 
