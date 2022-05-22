@@ -52,7 +52,7 @@ Cпасите жизни своих сограждан, помогите ост�
 
 ## Table of contents
 
-* [ISO Standards](#iso-standarts)
+* [ISO Standards](#iso-standards)
 * [Installation](#installation)
   * [Installation models](#installation-models)
   * [Libraries with vendor database update](#libraries-with-vendor-database-update)
