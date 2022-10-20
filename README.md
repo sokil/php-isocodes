@@ -55,7 +55,7 @@ Cпасите жизни своих сограждан, помогите ост�
 * [ISO Standards](#iso-standards)
 * [Installation](#installation)
   * [Installation models](#installation-models)
-  * [Libraries with vendor database update](#libraries-with-vendor-database-update)
+  * [Libraries with included database update](#libraries-with-included-database-update)
   * [Library with manual database update](#library-with-manual-database-update)
 * [Translation drivers](#translation-drivers)
   * [Gettext extension driver](#gettext-extension-driver)
@@ -84,7 +84,7 @@ Cпасите жизни своих сограждан, помогите ост�
 ## Installation
 
 * [Installation models](#installation-models)
-* [Libraries with vendor database update](#libraries-with-vendor-database-update)
+* [Libraries with included database update](#libraries-with-included-database-update)
 * [Library with manual database update](#library-with-manual-database-update)
   
 ### Installation models
@@ -98,7 +98,7 @@ You may use this library in different modes:
   this library. Database and messages already inside. To update database 
   just periodically update this library.
 
-### Libraries with vendor database update
+### Libraries with included database update
 
 To install [library with database and i18n](https://github.com/sokil/php-isocodes-db-i18n):
 
