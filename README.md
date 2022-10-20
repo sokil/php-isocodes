@@ -8,7 +8,7 @@ https://ukraine.ua/news/stand-with-ukraine/
 
 Ways to support Ukraine
 
-* Help to defend Ukraine — donate to Ukraine’s main charity fund — https://savelife.in.ua/en/donate/
+* Help to defend Ukraine — donate to Ukraine’s main charity fund — https://savelife.in.ua/en/donate-en/
 * Help to defend Ukraine — donate to the fund of the National Bank of Ukraine:
   * Credit card: https://helpua.bank.gov.ua/
   * Credit card/Direct debt/SWIFT: https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi
