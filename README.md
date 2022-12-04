@@ -24,7 +24,6 @@ Ways to support Ukraine
 [![Coverage Status](https://coveralls.io/repos/sokil/php-isocodes/badge.png)](https://coveralls.io/r/sokil/php-isocodes)
 [![Total Downloads](http://img.shields.io/packagist/dt/sokil/php-isocodes.svg?1)](https://packagist.org/packages/sokil/php-isocodes)
 [![Daily Downloads](https://poser.pugx.org/sokil/php-isocodes/d/daily)](https://packagist.org/packages/sokil/php-isocodes/stats)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sokil/php-isocodes/badges/quality-score.png?b=4.0)](https://scrutinizer-ci.com/g/sokil/php-isocodes/?branch=4.0)
 
 :star: This library used to get localized names of countries, currencies, languages and scripts.
 
