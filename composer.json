@@ -49,5 +49,10 @@
         "bench": "phpbench run benchmarks/  --report=default",
         "infection": "infection --min-msi=82 --min-covered-msi=91 --log-verbosity=default",
         "psalm": "./vendor/bin/psalm"
+    },
+    "config": {
+        "allow-plugins": {
+            "infection/extension-installer": true
+        }
     }
 }
