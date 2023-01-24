@@ -173,7 +173,7 @@ $isoCodes = new IsoCodesFactory(
 
 ### Gettext extension driver
 
-This is default translation driver. It requires `ext-getext`.
+This is default translation driver. It requires `ext-gettext`.
 
 ```php
 <?php
