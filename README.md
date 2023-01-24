@@ -1,19 +1,6 @@
 # Stand With Ukraine
 
-![](.github/russia-invaded-ukraine.png)
-
-As you already know, russia invaded Ukraine on 24 of February 2022, at 5.00 AM the armed forces of the Russian Federation attacked Ukraine. Please, Stand with Ukraine, stay tuned for updates on Ukraine’s official sources and channels in English and support Ukraine in its fight for freedom and democracy in Europe. 
-
-https://ukraine.ua/news/stand-with-ukraine/
-
-Ways to support Ukraine
-
-* Help to defend Ukraine — donate to Ukraine’s main charity fund — https://savelife.in.ua/en/donate-en/
-* Help to defend Ukraine — donate to the fund of the National Bank of Ukraine:
-  * Credit card: https://helpua.bank.gov.ua/
-  * Credit card/Direct debt/SWIFT: https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi
-
-[#StandWithUkraine](https://twitter.com/hashtag/standwithukraine)
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 ----
 
