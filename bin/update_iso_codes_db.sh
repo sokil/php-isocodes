@@ -65,7 +65,7 @@ if [[ -d $TMP_BUILD_DIR/.git ]]; then
 else
     mkdir -p $TMP_BUILD_DIR
     cd $TMP_BUILD_DIR
-    git clone --depth 50 $PKG_ISOCODES_REPO $TMP_BUILD_DIR
+    git clone $PKG_ISOCODES_REPO $TMP_BUILD_DIR
     if [[ $? != 0 ]]; then
         echo -e "[Update] Can not clone repository to \033[0;31m${TMP_BUILD_DIR}\033[0m"
         exit 1
@@ -74,6 +74,12 @@ fi
 
 # print source repo version
 VERSION=`git describe --tags`
+
+if [[ $? != 0 ]]; then
+    echo -e "[Release] Can not detect database version"
+    exit 1
+fi
+
 echo -e "[Update] New source repo version is $VERSION"
 
 # define target database dir
