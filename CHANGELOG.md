@@ -1,3 +1,7 @@
+## 4.1.1 (2023-02-10)
+### Fixes
+- Auth release fix. Swallow clone does not clone tags required to set version in README
+
 ## 4.1.0 (2022-02-24)
 * Fix: database entries may has no mo files. In this case exception occured. Locale "en" as default locale has
   no mo files because all data already present in database. When no mo file found, default "en" value returns. 
