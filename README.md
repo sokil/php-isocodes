@@ -22,7 +22,7 @@
 
 * [ISO Standards](#iso-standards)
 * [Installation](#installation)
-  * [Installation models](#installation-models)
+  * [Installation modes](#installation-modes)
   * [Libraries with included database update](#libraries-with-included-database-update)
   * [Library with manual database update](#library-with-manual-database-update)
 * [Translation drivers](#translation-drivers)
@@ -55,14 +55,14 @@
 * [Libraries with included database update](#libraries-with-included-database-update)
 * [Library with manual database update](#library-with-manual-database-update)
   
-### Installation models
+### Installation modes
 
 You may use this library in different modes:
-* `sokil/php-isocodes` - install library without database and messages and setup 
+* `sokil/php-isocodes` (this library) - install library without database and messages and setup 
   periodic updates of database and messages bt yourself with cron or inside CI/CD pipeline with `./bin/update_iso_codes_db.sh`
-* `sokil/php-isocodes-db-only` - if you do not need internationalisation, use 
+* [sokil/php-isocodes-db-only](https://github.com/sokil/php-isocodes-db-only) - if you do not need internationalisation, use 
   this library. Database already inside. To update database just periodically update this library.
-* `sokil/php-isocodes-db-i18n` - if you need internationalisation, use
+* [sokil/php-isocodes-db-i18n](https://github.com/sokil/php-isocodes-db-i18n) - if you need internationalisation, use
   this library. Database and messages already inside. To update database 
   just periodically update this library.
 
