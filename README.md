@@ -58,7 +58,7 @@ You may use this library in different modes:
   this library. Database and messages already inside. To update database 
   just periodically update this library.
 
-### Library with included database and localization
+#### 💾 Library with included database and localization
 
 To install [library with database and i18n](https://github.com/sokil/php-isocodes-db-i18n):
 
@@ -70,7 +70,7 @@ To install [library with database and i18n](https://github.com/sokil/php-isocode
 composer require sokil/php-isocodes-db-i18n
 ```
 
-### Library with included database and without localization
+#### 💾 Library with included database and without localization
 
 You may also install [library with only database](https://github.com/sokil/php-isocodes-db-only) (no i18n will be available):
 
@@ -82,7 +82,7 @@ You may also install [library with only database](https://github.com/sokil/php-i
 composer require sokil/php-isocodes-db-only
 ```
 
-### Library without database and localization, requires manual database installation and updates
+#### 💾 Library without database and localization, requires manual database installation and updates
 
 You can install library through Composer:
 
