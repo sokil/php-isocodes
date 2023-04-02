@@ -22,9 +22,6 @@
 
 * [ISO Standards](#iso-standards)
 * [Installation](#installation)
-  * [Installation modes](#installation-modes)
-  * [Libraries with included database update](#libraries-with-included-database-update)
-  * [Library with manual database update](#library-with-manual-database-update)
 * [Translation drivers](#translation-drivers)
   * [Gettext extension driver](#gettext-extension-driver)
     * [Locale configuration](#locale-configuration)
@@ -51,22 +48,17 @@
 
 ## Installation
 
-* [Installation models](#installation-models)
-* [Libraries with included database update](#libraries-with-included-database-update)
-* [Library with manual database update](#library-with-manual-database-update)
-  
-### Installation modes
-
 You may use this library in different modes:
+
 * `sokil/php-isocodes` (this library) - install library without database and messages and setup 
-  periodic updates of database and messages bt yourself with cron or inside CI/CD pipeline with `./bin/update_iso_codes_db.sh`
+  periodic updates of database and messages by yourself with cron or inside CI/CD pipeline with `./bin/update_iso_codes_db.sh`
 * [sokil/php-isocodes-db-only](https://github.com/sokil/php-isocodes-db-only) - if you do not need internationalisation, use 
   this library. Database already inside. To update database just periodically update this library.
 * [sokil/php-isocodes-db-i18n](https://github.com/sokil/php-isocodes-db-i18n) - if you need internationalisation, use
   this library. Database and messages already inside. To update database 
   just periodically update this library.
 
-### Libraries with included database update
+### Library with included database and localization
 
 To install [library with database and i18n](https://github.com/sokil/php-isocodes-db-i18n):
 
@@ -78,6 +70,8 @@ To install [library with database and i18n](https://github.com/sokil/php-isocode
 composer require sokil/php-isocodes-db-i18n
 ```
 
+### Library with included database and without localization
+
 You may also install [library with only database](https://github.com/sokil/php-isocodes-db-only) (no i18n will be available):
 
 [![Latest Stable Version](https://poser.pugx.org/sokil/php-isocodes-db-only/v/stable.png)](https://packagist.org/packages/sokil/php-isocodes-db-only)
@@ -88,9 +82,10 @@ You may also install [library with only database](https://github.com/sokil/php-i
 composer require sokil/php-isocodes-db-only
 ```
 
-### Library with manual database update
+### Library without database and localization, requires manual database installation and updates
 
 You can install library through Composer:
+
 ```
 composer require sokil/php-isocodes
 ```
@@ -98,7 +93,7 @@ composer require sokil/php-isocodes
 Database and gettext files located in related packages inside `databases` and `messages` directories.
 This packages periodically updated with package version increment.
 
-If you want to update database more often, use script `./bin/update_iso_codes_db.sh`.
+If you want to update database, use script `./bin/update_iso_codes_db.sh`.
 Call this script by cron, during deploy process or when build your docker image.
 
 ```
