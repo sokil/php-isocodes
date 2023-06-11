@@ -33,7 +33,9 @@ class Countries extends AbstractNotPartitionedDatabase
             $entry['alpha_2'],
             $entry['alpha_3'],
             $entry['numeric'],
-            !empty($entry['official_name']) ? $entry['official_name'] : null
+            $entry['flag'],
+            !empty($entry['official_name']) ? $entry['official_name'] : null,
+            !empty($entry['common_name']) ? $entry['common_name'] : null,
         );
     }
 

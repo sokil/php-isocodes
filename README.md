@@ -1,4 +1,4 @@
-# Stand With Ukraine
+# Stand With Ukraine 🇺🇦
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
@@ -248,7 +248,7 @@ $isoCodes = new IsoCodesFactory(
 
 ### Factory
 
-All databases may be create through factory:
+All databases may be created through factory:
 
 ```php
 <?php
@@ -287,6 +287,34 @@ This may require a lot of RAM for storing all entries.
      
 ### Countries database (ISO 3166-1)
 
+Country contains next names:
+
+| Name           | Description | Example              |
+|----------------|-------------|----------------------|
+| Name           | Required    | Moldova, Republic of |
+| Official Name  | Optional    | Republic of Moldova  |
+| Common Name    | Optional    | Moldova              |
+| Localised Name | Optional    | Молдова              |
+
+This names may be get from country entity:
+
+```php
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
+$country = $isoCodes->getCountries()->getByAlpha2('UA');
+echo $country->getName();
+echo $country->getLocalName();
+echo $country->getOfficialName();
+echo $country->getCommonName();
+```
+
+Also you may get flag of country:
+
+```php
+$isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
+$country = $isoCodes->getCountries()->getByAlpha2('UA');
+echo $country->getFlag();
+```
+
 Get localized name of country by it's alpha2 code:
 ```php
 $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
@@ -296,13 +324,13 @@ $isoCodes->getCountries()->getByAlpha2('UA')->getLocalName();
 Get localized name of country by it's alpha2 code:
 ```php
 $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
-$isoCodes->getCountries()->getByAlpha2('UKR')->getName();
+$isoCodes->getCountries()->getByAlpha2('UKR')->getLocalName();
 ```
 
 Get localized name of country by it's numeric code:
 ```php
 $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
-$isoCodes->getCountries()->getByAlpha2('804')->getName();
+$isoCodes->getCountries()->getByAlpha2('804')->getLocalName();
 ```
 
 Get  localised list of countries

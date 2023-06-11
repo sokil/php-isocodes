@@ -1,3 +1,8 @@
+## 4.2.0 (2023-06-11)
+### Added
+- Common name of country `\Sokil\IsoCodes\Database\Countries\Country::getCommonName`
+- Flag of country `\Sokil\IsoCodes\Database\Countries\Country::getFlag`
+
 ## 4.1.1 (2023-02-10)
 ### Fixes
 - Auth release fix. Swallow clone does not clone tags required to set version in README
