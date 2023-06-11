@@ -66,6 +66,16 @@ class CountriesTest extends TestCase
             null,
             $country->getOfficialName()
         );
+
+        $this->assertEquals(
+            null,
+            $country->getCommonName()
+        );
+
+        $this->assertEquals(
+            '🇺🇦',
+            $country->getFlag()
+        );
     }
 
     public function testGetByAlpha3(): void

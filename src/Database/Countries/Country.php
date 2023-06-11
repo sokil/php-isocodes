@@ -35,9 +35,21 @@ class Country
     private $numericCode;
 
     /**
+     * Emoji of country flag
+     *
+     * @var string
+     */
+    private $flag;
+
+    /**
      * @var string
      */
     private $officialName;
+
+    /**
+     * @var string
+     */
+    private $commonName;
 
     /**
      * @var TranslatorInterface
@@ -50,14 +62,18 @@ class Country
         string $alpha2,
         string $alpha3,
         string $numericCode,
-        ?string $officialName = null
+        string $flag,
+        ?string $officialName = null,
+        ?string $commonName = null
     ) {
         $this->translator = $translator;
         $this->name = $name;
         $this->alpha2 = $alpha2;
         $this->alpha3 = $alpha3;
         $this->numericCode = $numericCode;
+        $this->flag = $flag;
         $this->officialName = $officialName;
+        $this->commonName = $commonName;
     }
 
     public function getAlpha2(): string
@@ -73,6 +89,14 @@ class Country
     public function getNumericCode(): string
     {
         return $this->numericCode;
+    }
+
+    /**
+     * @return string
+     */
+    public function getFlag(): string
+    {
+        return $this->flag;
     }
 
     public function getName(): string
@@ -95,5 +119,10 @@ class Country
     public function getOfficialName(): ?string
     {
         return $this->officialName;
+    }
+
+    public function getCommonName(): ?string
+    {
+        return $this->commonName;
     }
 }
