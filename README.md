@@ -321,16 +321,16 @@ $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
 $isoCodes->getCountries()->getByAlpha2('UA')->getLocalName();
 ```
 
-Get localized name of country by it's alpha2 code:
+Get localized name of country by it's alpha3 code:
 ```php
 $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
-$isoCodes->getCountries()->getByAlpha2('UKR')->getLocalName();
+$isoCodes->getCountries()->getByAlpha3('UKR')->getLocalName();
 ```
 
 Get localized name of country by it's numeric code:
 ```php
 $isoCodes = new \Sokil\IsoCodes\IsoCodesFactory();
-$isoCodes->getCountries()->getByAlpha2('804')->getLocalName();
+$isoCodes->getCountries()->getByNumericCode('804')->getLocalName();
 ```
 
 Get  localised list of countries
