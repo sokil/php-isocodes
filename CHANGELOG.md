@@ -1,3 +1,7 @@
+## 4.2.1 (2024-12-11)
+### Added
+- Support of PHP 8.4 (See PR #80)
+
 ## 4.2.0 (2023-06-11)
 ### Added
 - Common name of country `\Sokil\IsoCodes\Database\Countries\Country::getCommonName`
