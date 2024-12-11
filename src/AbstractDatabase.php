@@ -50,8 +50,8 @@ abstract class AbstractDatabase implements \Iterator, \Countable
      * @throws \RuntimeException when base directory not specified and directory can not be located automatically
      */
     public function __construct(
-        string $baseDirectory = null,
-        TranslationDriverInterface $translationDriver = null
+        ?string $baseDirectory = null,
+        ?TranslationDriverInterface $translationDriver = null
     ) {
         if (empty($baseDirectory)) {
             // Require external database in "sokil/php-isocodes-db-*" packages

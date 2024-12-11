@@ -61,8 +61,8 @@ class IsoCodesFactory
     private $translationDriver;
 
     public function __construct(
-        string $baseDirectory = null,
-        TranslationDriverInterface $translationDriver = null
+        ?string $baseDirectory = null,
+        ?TranslationDriverInterface $translationDriver = null
     ) {
         $this->baseDirectory = $baseDirectory;
         $this->translationDriver = $translationDriver ?? new GettextExtensionDriver();
