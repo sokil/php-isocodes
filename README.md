@@ -138,6 +138,14 @@ $isoCodes = new IsoCodesFactory(null, new GettextExtensionDriver());
 
 // symfony driver
 $driver = new SymfonyTranslationDriver();
+
+// You can also specify a cache directory for better performance. If you are 
+// using the SymfonyTranslationDriver within a Symfony project, you can inject 
+// the `%kernel.cache_dir%/translations` value.
+$cacheDir = '...';
+
+$driver = new SymfonyTranslationDriver($cacheDir)
+
 $driver->setLocale('uk_UA');
 
 $isoCodes = new IsoCodesFactory(
