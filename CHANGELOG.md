@@ -1,3 +1,7 @@
+## Unreleased
+### Update
+- Removed support of PHP less than PHP 7.4
+
 ## 4.2.1 (2024-12-11)
 ### Added
 - Support of PHP 8.4 (See PR #80)
