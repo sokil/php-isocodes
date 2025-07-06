@@ -1,6 +1,7 @@
-## Unreleased
-### Update
+## 4.3.0
+### Changed
 - Removed support of PHP less than PHP 7.4
+- Added cache dir for Symfony translation driver
 
 ## 4.2.1 (2024-12-11)
 ### Added
