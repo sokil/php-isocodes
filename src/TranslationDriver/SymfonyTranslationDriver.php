@@ -6,6 +6,7 @@ namespace Sokil\IsoCodes\TranslationDriver;
 
 use Symfony\Component\Translation\Loader\MoFileLoader;
 use Symfony\Component\Translation\Translator;
+use Symfony\Contracts\Translation\TranslatorInterface;
 
 class SymfonyTranslationDriver implements TranslationDriverInterface
 {
@@ -19,9 +20,12 @@ class SymfonyTranslationDriver implements TranslationDriverInterface
      */
     private $locale = 'en';
 
-    public function __construct(?string $cacheDirectory = null)
+    /**
+     * @param string|null $cacheDirectory useful only if the given $translator is null.
+     */
+    public function __construct(?TranslatorInterface $translator = null, ?string $cacheDirectory = null)
     {
-        $this->translator = new Translator($this->locale, null, $cacheDirectory);
+        $this->translator = $translator ?: new Translator($this->locale, null, $cacheDirectory);
         $this->translator->addLoader('mo', new MoFileLoader());
     }
 
