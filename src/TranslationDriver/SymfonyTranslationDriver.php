@@ -23,7 +23,7 @@ class SymfonyTranslationDriver implements TranslationDriverInterface
     /**
      * @param string|null $cacheDirectory useful only if the given $translator is null.
      */
-    public function __construct(?TranslatorInterface $translator = null, ?string $cacheDirectory = null)
+    public function __construct(?string $cacheDirectory = null, ?TranslatorInterface $translator = null)
     {
         $this->translator = $translator ?: new Translator($this->locale, null, $cacheDirectory);
         $this->translator->addLoader('mo', new MoFileLoader());
