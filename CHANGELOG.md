@@ -1,3 +1,7 @@
+## 4.4.0
+### Added
+- Define external Synfony Translator
+
 ## 4.3.0
 ### Changed
 - Removed support of PHP less than PHP 7.4
